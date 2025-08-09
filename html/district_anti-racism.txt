@@ -1,0 +1,62 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Policy 5139 Anti-Racism, Equity, and Inclusion</h1>
+<h2>Purpose of the Anti- Racism Policy</h2>
+<p>The Clark County School District (District) rejects all forms of racism. This policy ensures that incidents of discrimination based on race are prohibited. The District encourages all employees, students, and parents/guardians to reflect upon and take appropriate action when they are aware of racially motivated incidents, racial discrimination, and racial aggression. The importance of this policy acknowledges the negative impact experienced by individuals, the District, and society as a result of racial discrimination and racism.</p>
+<h3>Accountability in the Clark County School District</h3>
+<p>The District will hold staff and students accountable and align all adult behavior to a renewed culture of high expectations for all students throughout the District and
+the expectation of an Anti-Racism culture. The District shall ensure the provisions of <a href="https://www.ccsd.net/district/policies-regulations/pdf/5137_P.pdf" target="_target">Policy 5137, Safe and Respectful Learning Environment: Discrimination Based on Race, Bullying, and Cyberbullying (PDF)</a> are complied with as required.</p>
+<p><a href="https://ccsd.net/district/policies-regulations/pdf/5139_P.pdf" target="_blank">Policy 5139 Anti- Racism, Equity, and Inclusion (PDF)</a></p>
+<!-- HOMEPAGE CARDS/TILES -->
+<div class="center">
+<div class="card-wrapper" style="width:210px; height: 345px;margin-left: 0px;">
+<a href="https://ccsd.net/district/anti-racism/pdf/Policy5139-AntiRacismPoster.pdf" id="infinite-campus">
+<div class="card-image"><img alt="" src="5139-RacismKids.png" style="width: 210px; height: 140px;"/></div>
+<h2 class="card-title">Policy 5139 Anti-Racism, Equity, and Inclusion</h2>
+</a>
+</div>
+<div class="card-wrapper" style="width:210px; height: 345px; margin-left: 5px;">
+<a href="https://ccsd.net/district/anti-racism/pdf/Policy5139-AntiRacismPoster-Spanish.pdf" id="infinite-campus">
+<div class="card-image"><img alt="" src="5139-RacismKids.png" style="width: 210px; height: 140px;"/></div>
+<h2 class="card-title">Política 5139 Antirracismo, Equidad e Inclusión</h2>
+</a>
+</div>
+<div class="card-wrapper" style="width:210px; height: 345px;margin-left: 5px;">
+<a href="https://ccsd.net/district/anti-racism/pdf/Anti-Racism-Committee-Letter.pdf" id="infinite-campus">
+<div class="card-image"><img alt="" src="AntiRacism-Letter.png" style="width: 210px; height: 140px;"/></div>
+<h2 class="card-title">Anti-Racism Committee Letter</h2>
+</a>
+</div>
+<div class="card-wrapper" style="width:210px; height: 345px;margin-left: 5px;">
+<a href="https://ccsd.net/district/anti-racism/pdf/Annual-Report-Policy-5139-Anti-Racism-Equity-Inclusion.pdf" id="infinite-campus">
+<div class="card-image"><img alt="" src="AntiRacism-Annual.png" style="width: 210px; height: 140px;"/></div>
+<h2 class="card-title">Annual Report Policy 5139 Anti-Racism, Equity, and Inclusion</h2>
+</a>
+</div>
+</div>
+</section>
+</div> <!-- /main_content_wrap -->
+<!--
+			<div id="sidebar_wrap" class="sidebar-wrap">
+				
+				<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div>

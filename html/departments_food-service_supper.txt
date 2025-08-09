@@ -1,0 +1,12 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1 style="color:black;text-align:center;font-size:28px;">
+	At-Risk After School Meals Component of CACFP</h1>
+<p>
+	CCSD Food Service now serves free meals after school to any children at certain <span class="headword hdb tw-bw dhw dpos-h_hw"><span class="hw dhw">eligible</span></span> schools. All children (18 years of age or younger) can receive a free afterschool meal, not just students <span class="headword hdb tw-bw dhw dpos-h_hw"><span class="hw dhw">eligible</span></span> for free or reduced price meals or those that attend the school serving afterschool meals. The CACFP is a federally funded, State-administered program that provides funding to child and adult care centers and homes that serve healthy meal and snacks. Each supper and snacks must meet USDA nutrition standards to be reimbursed by the Program.</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

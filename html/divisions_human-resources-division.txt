@@ -1,0 +1,20 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Human Resources Division</h1>
+<p>
+	The Human Resources Division is dedicated to the recruitment and retention of a quality workforce in support of student success. The District employs over 40,000 people, including teachers, support professionals, administrators, and school police, who provide services to over 300,000 students.</p>
+<p>
+	As we work to hire and retain a qualified staff, the goal of the Human Resources Division is to provide excellent customer service and to build a team of professionals who are passionate about the success of students, and who are willing to dedicate the necessary time and resources to meet the needs of a large, diverse, urban school district.</p>
+<p>
+	Students in Clark County are fortunate to live in a community that supports and values their overall success, which begins with employing the finest staff of administrators, teachers, support professionals, and school police.</p>
+<p>
+	Please use the web links on this page to obtain employment information, including the application process and teacher licensure.</p>
+<p>
+<a href="https://www.ccsd.net/district/directory/admin-directory.php" target="_blank">Contact the Human Resources Division</a></p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

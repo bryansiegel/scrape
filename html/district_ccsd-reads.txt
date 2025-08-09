@@ -1,0 +1,143 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<div class="container p6">
+<div class="row">
+<div class="col p4">
+<div align="center">
+<img alt="Read With Me CCSD Website Banner" src="images/ReadWithMeCCSDWebsiteBanner.png"/>
+</div>
+<div align="center">
+<h1>#ReadWithMeCCSD</h1>
+<h2 style="margin-bottom:8px; margin-left: -15px;">#ReadWithMeCCSD Summer Reading Photo
+								Contest</h2>
+<p>Share photos of your child or family reading this summer and you could win an Amazon gift
+								card!</p>
+<img align="left" alt="Summer Reading Contest" src="images/photo-contest.jpg" style="padding: 15px; padding-right: 35px;"/>
+<p style="padding-top:45px; text-align:left;">Post photos, including student’s first name
+								and CCSD school, on social media (Instagram, Twitter, and Facebook - settings must allow
+								public view) using hashtag #ReadWithMeCCSD. Or photos can be submitted via email to <a href="mailto:communications@nv.ccsd.net">communications@nv.ccsd.net</a>. Your photo
+								might be selected to win an Amazon gift card!</p>
+<div style="margin-left: 15px;">
+<ul style="text-align: left !important;">
+<p style="margin-left: 15px;"><br>
+<li>Post a picture of your child or family reading in an interesting place.</li>
+<li>Post a picture of your child or family reading something interesting, other
+											than a book.</li>
+<li>Post a picture of your child or family reading to a sibling, pet, or other
+											interesting buddy.</li>
+</br></p>
+</ul>
+</div>
+</div>
+<p style="text-align:left;">Any picture of your child or family reading could be a winner!</p>
+<p>Bring your books on break! The Clark County School District (CCSD) encourages students to
+							continue building their reading skills over the summer months. Students should read
+							throughout the day, all summer long, at least 30 minutes a day. Students can read books,
+							magazines, comic books … any reading counts!</p>
+<p>Remember, reading includes much more than just books. Here are <a href="pdf/100-Ways-to-Raise-a-READER.pdf" target="_blank">100 ways</a> to make reading
+							more enjoyable and motivate your children to read. Parents and guardians are invited to
+							learn strategies for establishing consistent family reading routines from this <a href="https://engage.ccsd.net/uflelementary/" target="_blank">three part video
+								series</a>.</p>
+</div>
+</div>
+<div class="container p6" style="margin-left: -15px;">
+<div class="row">
+<div class="col p4">
+<h2 align="center">Summer Reading Challenge</h2>
+<p style="padding-top: 8px;">CCSD is proud to partner with the public libraries in Southern
+								Nevada on the Summer Reading Challenge. Your local library offers a variety of online
+								resources, activity ideas, and books to keep all students Pre-Kindergarten–Grade 12
+								engaged all summer long. Students can earn points for reading and completing other fun
+								activities.</p>
+<!--
+								<div align="center"><p style="padding-top: 0px;"><strong>New information for 2025 is coming soon.
+								</strong>
+								</p></div>
+-->
+<p align="left">Students receive prizes for completing each level and are entered to win
+								awesome grand prizes. The CCSD school with the most student participation will receive a
+								trophy.</p>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-sm-6">
+<h3>Las Vegas-Clark County Library District</h3>
+<div style="margin-left: 10px;margin-top:-8px;">
+ 								Dates: <strong>May 15-July 31, 2025</strong><br/>
+								Registration information:<br/><strong>2025 Summer Reading Challenge Coming Soon</strong><br/>
+<a href="https://thelibrarydistrict.org/" target="_blank">Las Vegas-Clark County Library
+									District website</a>
+</div>
+</div>
+<div class="col-sm-6">
+<h3>Boulder City</h3>
+<div style="margin-left: 10px;margin-top:-8px;">
+								Dates: <strong>May 3-July 29, 2025</strong><br/>
+								Registration information:<br/><strong>2025 Summer Reading Challenge Coming Soon</strong><br/>
+<a href="https://boulderlibrary.org/" target="_blank">Boulder City Library website</a>
+</div>
+</div>
+<div class="col-sm-6">
+<h3>Henderson</h3>
+<div style="margin-left: 10px;margin-top:-8px;">
+								Dates: <strong>May 23-July 31, 2025</strong><br/>
+								Registration information:<br/><strong>2025 Summer Reading Challenge Coming Soon</strong><br/>
+<a href="https://hendersonlibraries.com/" target="_blank">Henderson Libraries
+									website</a>
+</div>
+</div>
+<div class="col-sm-6">
+<h3>North Las Vegas</h3>
+<div style="margin-left: 10px;margin-top:-8px;">
+								Dates: <strong>May 23-July 26, 2025</strong><br/>
+								Registration information:<br/><strong>2025 Summer Reading Challenge Coming Soon</strong><br/>
+<a href="https://www.cityofnorthlasvegas.com/residents/libraries" target="_blank">North
+									Las Vegas Library District website</a>
+</div>
+</div>
+</div>
+</div>
+<div class="container col p-6" style="margin-top: -10px;">
+<div class="row">
+<div class="col p-4 pt-0">
+<h2 style="margin-bottom:8px;">Reading Resources</h2>
+<p>The resources below will help parents or guardians and students find reading
+									materials that will engage their interest and help spur critical thinking. Please
+									recognize that using the resources below is voluntary. Not every book selected suits
+									every student. Parents or guardians should be engaged in the selection and
+									discussion of reading material to ensure appropriateness of topics and texts for
+									their students.</p>
+<h3>Destiny Discover</h3>
+<p>Access your school library and online resources including eBooks, online databases,
+									and open educational resources.</p>
+<p><strong>Access Destiny Discover</strong></p>
+<ul>
+<li>Log in to <a href="https://clever.ccsd.net" target="_blank">clever.ccsd.net</a>
+										with the student’s Active Directory or CCSD Google credentials.</li>
+<li>Click or tap the Follett Destiny Discover logo within the “Apps” section.</li>
+</ul>
+<h3>Nevada Young Reader's Award Books</h3>
+<p>Check out books suggested by Nevada’s students. Go to <a href="https://nevadalibraries.org/NYRA" target="_blank">nevadalibraries.org/NYRA</a>.
+								</p>
+<h3>American Library Association Children and Young Adults Awards Lists</h3>
+<p>Check out books from the American Library Association Children and Young Adults
+									Awards Lists. Go to <a href="https://www.ala.org/alsc/awardsgrants/notalists/ncb" target="_blank">ALA American Library Association</a>.
+								</p>
+<h3>More Summer Fun</h3>
+<p>The Vegas PBS Learning Neighborhood Van brings the learning to you and your family!
+									Join them at free family engagement workshops, educational pop-ups, and community
+									events in libraries and neighborhoods throughout Southern Nevada over the summer.
+									Their staff will show you how to learn anytime, anywhere, with the help of your
+									favorite PBS KIDS media! Visit <a href="https://www.vegaspbs.org/rtl/van/" target="_blank">The Vegas PBS Learning Neighborhood Van</a> to find out where
+									they will be next!</p>
+<p><strong>The Clark County School District Board of Trustees, Superintendent, and staff
+										hope you have a safe and happy summer, with lots of time to read!</strong></p>
+</div>
+</div>
+</div>
+</div></section>
+</div> <!-- /main_content_wrap -->
+</div>

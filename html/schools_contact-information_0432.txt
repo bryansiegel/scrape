@@ -1,0 +1,51 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- MAIN CONTENT -->
+<div id="main_content">
+<section class="content-holder">
+<h1>School Contact Information</h1>
+<div>
+<div class="addr-txt">
+<h2 style="color: #444;font-size: 21px;line-height: 27px;margin: 20px 0 10px">
+                GIBSON, ROBERT O. LEADERSHIP ACADEMY<br/>
+</h2>
+<!-- 		Principal:  -->
+<p>Principal:  Gist, Christopher M<br>
+<!-- 		Principal:  -->
+<!--         <a href="/schools/contact-information/">Link to this page</a> -->
+<!-- 								$principle = $match['TXTADMINISTRATOR']; -->
+<!-- 								Gist, Christopher M --><!-- <br> -->
+                                3900 WEST WASHINGTON AVE<br>
+                                LAS VEGAS, NV 89107<br>
+                                Phone: 702-799-4700<br/>
+                                Fax: 702-799-4705<br/>
+<a href="http://maps.google.com/maps?q=3900 WEST WASHINGTON AVE,+LAS VEGAS,+NV+89107">Map</a>
+                                 | <a href="https://rogibson.net/">Website</a> </br></br></br></p>
+<b>Region:</b> 1                                                             <p><b>Motto:</b> Gibson Middle School, an Excellent Place to Learn</p> <p><b>Mission:</b> The R.O. Gibson Middle School mission, in conjunction with home and community, is to provide an educational sanctuary where students will be assured opportunities to develop academic and social skills essential to succeed in high school and to meet the challenges of a changing society.</p>
+</div>
+</div>
+</section>
+</div><!-- /main_content -->
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

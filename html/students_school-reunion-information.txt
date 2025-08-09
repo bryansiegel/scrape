@@ -1,0 +1,55 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>School Reunion Information</h1>
+<!--
+<h2>Ed W. Clark High School </h2>
+<p><strong>Class of 1979</strong> is holding their 40th Reunion on Saturday, October 5, 2019 at historic Binion's Gambling Hall & Hotel in downtown Las Vegas. Please go to the following <a href="https://edwclarkhighschool40threunion.eventbrite.com" target="_blank">link</a> for more information and to purchase tickets. We looking forward to see you! Questions? Email: <a href="mailto:clarkchargers79@gmail.com">clarkchargers79@gmail.com</a></p>
+
+<h2>Eldorado High School</h2>
+<p><strong>Class of 1992</strong> is holding their 25 Year Reunion - Part 2 on Thursday, October 5th.  Join us at 5 pm for a tour of the school, followed by tailgating at 5:30 pm, and the homecoming football game vs Valley High School at 7 pm.  We will walk around the field at halftime in celebration of our milestone reunion.  We will head to an after party (location TBD) once the game ends.  Please contact Dawn Fishburn at (702) 813-3296 or <a href="http://www.classcreator.com/Las-Vegas-Nevada-Eldorado-1992/class_index.cfm" target="_blank">Eldorado High School Class Of 1992</a>.
+ </p>
+-->
+<h2>Las Vegas High School </h2>
+<p>
+The <strong>All-Class</strong> annual Wildcat Reunion will be held on Saturday, October 22, 2022 at the Orleans Hotel and Casino. Information will be sent out in late July.  To be sure you are on the mailing list, and for additional information, contact the Las Vegas High School Alumni Association at <a href="mailto:lvowl@aol.com">lvowl@aol.com</a> or (702) 876-6660.
+ <br/><br/>
+<strong>Class of 1952</strong> is planning their 70th reunion and will also be celebrating at the Wildcat Reunion on October 22.  For additional information contact George Davis at <a href="mailto:geokimdav@cox.net">geokimdav@cox.net</a> or (702) 596-7614.
+<br/><br/>
+<strong>Class of 1957</strong> will be celebrating their 65th reunion at the Wildcat Reunion on October 22.  For additional information contact Dee Trumble Hale at <a href="mailto:haledt10@gmail.com">haledt10@gmail.com</a> or (702) 451-5942.
+<br/><br/>
+<strong>Class of 1962</strong> is planning their 60th reunion and will also be celebrating at the Wildcat Reunion on October 22.  For more information contact Jeannie Chambers Tumbleson at <a href="mailto:jeannietumbleson@yahoo.com">jeannietumbleson@yahoo.com</a> or (702) 451-5942.
+<br/><br/>
+<strong>Class of 1967</strong> is planning their 55th reunion and will also be celebrating at the Wildcat Reunion on October 22.  For more information contact MaryAnn Hart at <a href="mailto:maryannhart@aol.com">maryannhart@aol.com</a> or (702) 321-3429.  
+<br/><br/>
+<strong>Class of 1972</strong> will be celebrating their 50th reunion at the Wildcat Reunion on October 22.  For more information contact David Williams at <a href="mailto:dave_mon@cox.net">dave_mon@cox.net</a> or (702) 355-8676
+    <br/><br/>
+<strong>Class of 1997</strong> is planning their 25th reunion and will also be celebrating at the Wildcat Reunion on October 22.  For more information contact Heather Cowley Diebel <a href="mailto:heather4me@gmail.com">heather4me@gmail.com</a> or (702) 349-3320.
+    <br/><br/>
+<strong>Class of 2012</strong> is planning their 10 year reunion.  For information, contact Tiffany Jackson Greene at <a href="mailto:green.tiffanya@gmail.com">green.tiffanya@gmail.com</a>.<br/><br/>
+ Additional Las Vegas High School information is available at <a href="http://www.lvhsaa.com/">lvhsaa.com</a>.   
+</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

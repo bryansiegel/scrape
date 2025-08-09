@@ -1,0 +1,35 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<!-- 			<div id="main_content_wrap" class="main-content-wrap" role="main content"> -->
+<section class="content-holder">
+<h1>Accessibility Statement</h1>
+<h2>Web Accessibility</h2>
+<p>The Clark County School District is committed to making its website accessible for individuals with disabilities according to the Americans with Disabilities Act (ADA).  Individuals with disabilities requiring assistance in accessing on-line information or with the functionality of CCSD's website should contact (702) 799-1071 Ext. 5988.  Disability related concerns with CCSD's website may also be addressed by completing the complaint/grievance process outlined in <a href="http://www.ccsd.net/district/policies-regulations/pdf/1213.1_R.pdf">CCSD Regulation 1213.1.</a></p>
+<h2>Employee or Public Access/Services Issues</h2>
+<p>Executive Manager, Diversity and Affirmative Action, ADA/Title IX Coordinator, located at 4212 E. Eucalyptus Ave Annex Las Vegas, NV 89121, 702-799-5087, email address <a href="mailto:colecg@nv.ccsd.net">colecg@nv.ccsd.net</a>.</p>
+</section>
+</div>
+<!-- /main_content_wrap -->
+<!--
+			<div id="sidebar_wrap" class="sidebar-wrap">
+				
+				<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div>

@@ -1,0 +1,3510 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Policies &amp; Regulations</h1>
+<h2>Proposed Changes to CCSD Policies and/or Regulations</h2>
+<p>
+<a href="/district/policies-regulations/notice">View proposed changes to CCSD Policies and/or
+                    Regulations</a>
+</p>
+<hr/>
+<h2>Current CCSD Policies and/or Regulations</h2>
+<p>
+                To view a Policy or Regulation click on its Number.
+            </p>
+<div class="table">
+<table class="cell-border stripe" id="dataTable">
+<thead>
+<tr>
+<th>Number</th>
+<th>Type</th>
+<th>Title</th>
+<th>Date</th>
+</tr>
+</thead>
+<tr>
+<td><a class="pdflink" href="pdf/0101_P.pdf" target="_blank">
+                                    0101                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Introduction to Policies and Regulations                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/0210_P.pdf" target="_blank">
+                                    0210                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Affirmative Action Program For School and Classroom Practices                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/0500_P.pdf" target="_blank">
+                                    0500                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Product Recycling                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1100_P.pdf" target="_blank">
+                                    1100                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Official District Logo and Seal                            </td>
+<td nowrap="nowrap">
+                                May 10, 2012                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1101_P.pdf" target="_blank">
+                                    1101                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                School Mascots and Other School Identifiers                            </td>
+<td nowrap="nowrap">
+                                Mar 24, 2022                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1110_P.pdf" target="_blank">
+                                    1110                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Distribution of Materials Through Students                            </td>
+<td nowrap="nowrap">
+                                Oct 24, 2002                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1110_R.pdf" target="_blank">
+                                    1110                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Distribution of Materials By and Through Students                            </td>
+<td nowrap="nowrap">
+                                Oct 24, 2002                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1120_P.pdf" target="_blank">
+                                    1120                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Community Relations and Public Information                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1121_R.pdf" target="_blank">
+                                    1121                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Communications To Parents and Public                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1130_P.pdf" target="_blank">
+                                    1130                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Parent Participation: Project Development and Implementation                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1140_P.pdf" target="_blank">
+                                    1140                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Family Engagement                            </td>
+<td nowrap="nowrap">
+                                Nov 12, 2015                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1140.1_R.pdf" target="_blank">
+                                    1140.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Parent and Family Engagement and School Culture Investigations                            </td>
+<td nowrap="nowrap">
+                                Jul 11, 2024                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1211_R.pdf" target="_blank">
+                                    1211                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Public Records                            </td>
+<td nowrap="nowrap">
+                                Sep 20, 2007                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1212_R.pdf" target="_blank">
+                                    1212                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Confidential Information: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1213_P.pdf" target="_blank">
+                                    1213                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Public Concerns                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1213.1_R.pdf" target="_blank">
+                                    1213.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Public Concerns                            </td>
+<td nowrap="nowrap">
+                                Apr 22, 2004                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1214_P.pdf" target="_blank">
+                                    1214                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                School Visitors                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1221_P.pdf" target="_blank">
+                                    1221                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Participation By School Groups in Public Events                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1221_R.pdf" target="_blank">
+                                    1221                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Participation By School Groups in Public Events                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1222_P.pdf" target="_blank">
+                                    1222                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Contests For Students                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1222_R.pdf" target="_blank">
+                                    1222                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Contests For Students                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1223_P.pdf" target="_blank">
+                                    1223                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Fund Raising                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1223_R.pdf" target="_blank">
+                                    1223                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Fund Raising                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1232_P.pdf" target="_blank">
+                                    1232                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Commercial Activities                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1232_R.pdf" target="_blank">
+                                    1232                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Commercial Activities                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1310_P.pdf" target="_blank">
+                                    1310                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Community Agencies                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1311_P.pdf" target="_blank">
+                                    1311                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Assurance of Tribal And Parental Involvement In The Education of Children Residing On Indian Lands                            </td>
+<td nowrap="nowrap">
+                                Mar 11, 2010                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1320_P.pdf" target="_blank">
+                                    1320                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Joint Use of Facilities With County And Cities                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1410_P.pdf" target="_blank">
+                                    1410                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Gold Card Program                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1410_R.pdf" target="_blank">
+                                    1410                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Gold Card Program                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/1411_P.pdf" target="_blank">
+                                    1411                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Community Education Advisory Boards                            </td>
+<td nowrap="nowrap">
+                                Feb 25, 2016                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/2130_P.pdf" target="_blank">
+                                    2130                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                District Organization                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/2130_R.pdf" target="_blank">
+                                    2130                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                District Organization                            </td>
+<td nowrap="nowrap">
+                                Sep 12, 2024                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/2310_P.pdf" target="_blank">
+                                    2310                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Out-of-District Consultants                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/2310_R.pdf" target="_blank">
+                                    2310                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Out-of-District Consultants For Instructional-Related Services                            </td>
+<td nowrap="nowrap">
+                                Feb 01, 2007                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/2410_P.pdf" target="_blank">
+                                    2410                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Safety                            </td>
+<td nowrap="nowrap">
+                                Feb 11, 2010                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/2500_R.pdf" target="_blank">
+                                    2500                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Service Animals                            </td>
+<td nowrap="nowrap">
+                                May 16, 2024                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/2500.1_R.pdf" target="_blank">
+                                    2500.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Emotional Support Animals                            </td>
+<td nowrap="nowrap">
+                                May 16, 2024                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/2500.2_R.pdf" target="_blank">
+                                    2500.2                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Schoolwide Therapy Dogs                            </td>
+<td nowrap="nowrap">
+                                May 16, 2024                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3100_P.pdf" target="_blank">
+                                    3100                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Code of Ethics/Anti-Fraud                            </td>
+<td nowrap="nowrap">
+                                Sep 09, 2021                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3100_R.pdf" target="_blank">
+                                    3100                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Code of Ethics/Anti-Fraud                            </td>
+<td nowrap="nowrap">
+                                Sep 09, 2021                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3110_R.pdf" target="_blank">
+                                    3110                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Budget Development                            </td>
+<td nowrap="nowrap">
+                                May 26, 2011                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3130_R.pdf" target="_blank">
+                                    3130                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Budget Administration                            </td>
+<td nowrap="nowrap">
+                                Aug 28, 2008                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3210_R.pdf" target="_blank">
+                                    3210                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                District Funds and Fund Control                            </td>
+<td nowrap="nowrap">
+                                Feb 14, 2013                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3211_R.pdf" target="_blank">
+                                    3211                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Internal Service Fund                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3212_R.pdf" target="_blank">
+                                    3212                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Monies Collected From Outside Sources                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3213_R.pdf" target="_blank">
+                                    3213                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Building and Site Funds                            </td>
+<td nowrap="nowrap">
+                                Jan 12, 2024                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3214_R.pdf" target="_blank">
+                                    3214                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Investment Program                            </td>
+<td nowrap="nowrap">
+                                Dec 13, 2018                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3221_R.pdf" target="_blank">
+                                    3221                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Administration of Federal, State, Local and Private Funds                            </td>
+<td nowrap="nowrap">
+                                Oct 24, 2002                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3222_R.pdf" target="_blank">
+                                    3222                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Enterprise Fund                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3230_R.pdf" target="_blank">
+                                    3230                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Fees and Deposits                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3231_R.pdf" target="_blank">
+                                    3231                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Management of Student Activity and Staff Funds                            </td>
+<td nowrap="nowrap">
+                                May 26, 2011                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3232_R.pdf" target="_blank">
+                                    3232                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Monies Collected For Fees and Supplies                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3233_R.pdf" target="_blank">
+                                    3233                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Monies Collected From Sale of Books, Equipment and Supplies                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3241_R.pdf" target="_blank">
+                                    3241                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Acceptance of Gifts                            </td>
+<td nowrap="nowrap">
+                                Dec 10, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3310_R.pdf" target="_blank">
+                                    3310                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Purchasing Guides                            </td>
+<td nowrap="nowrap">
+                                Oct 08, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3311_R.pdf" target="_blank">
+                                    3311                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Purchasing Authority                            </td>
+<td nowrap="nowrap">
+                                Jun 27, 2019                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3312_R.pdf" target="_blank">
+                                    3312                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Purchasing Authorization and Nepotism - All Funds                            </td>
+<td nowrap="nowrap">
+                                Aug 11, 2022                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3313_R.pdf" target="_blank">
+                                    3313                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Small Purchases Made with Procurement Cards                            </td>
+<td nowrap="nowrap">
+                                Dec 13, 2018                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3314_R.pdf" target="_blank">
+                                    3314                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Lease/Purchase of Equipment                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3315_R.pdf" target="_blank">
+                                    3315                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Sole Source and Proprietary Purchases                            </td>
+<td nowrap="nowrap">
+                                Oct 08, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3316_R.pdf" target="_blank">
+                                    3316                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Relations With Contractors/Suppliers and Potential Contractors/Suppliers                            </td>
+<td nowrap="nowrap">
+                                Jul 12, 2012                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3317_R.pdf" target="_blank">
+                                    3317                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Food and Beverage and Offsite Facility Rentals                            </td>
+<td nowrap="nowrap">
+                                Jan 12, 2012                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3319 _P.pdf" target="_blank">
+                                    3319                                 </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Performance Contracts                            </td>
+<td nowrap="nowrap">
+                                Apr 24, 2014                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3320_R.pdf" target="_blank">
+                                    3320                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Equipping Educational Facilities                            </td>
+<td nowrap="nowrap">
+                                Jul 12, 2018                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3330_R.pdf" target="_blank">
+                                    3330                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Payment Authority                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3410_R.pdf" target="_blank">
+                                    3410                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                System of Accounts                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3420_R.pdf" target="_blank">
+                                    3420                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Periodic Audits                            </td>
+<td nowrap="nowrap">
+                                Dec 10, 2009                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3431_R.pdf" target="_blank">
+                                    3431                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Insurance Coverage                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3432_R.pdf" target="_blank">
+                                    3432                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                District Liability Claim Resolution                            </td>
+<td nowrap="nowrap">
+                                Jan 12, 2024                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3432.1_R.pdf" target="_blank">
+                                    3432.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                District Workers' Compensation Claim Resolution                            </td>
+<td nowrap="nowrap">
+                                Jan 12, 2024                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3433_R.pdf" target="_blank">
+                                    3433                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Authorization of Legal Action                            </td>
+<td nowrap="nowrap">
+                                Dec 14, 2017                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3511_R.pdf" target="_blank">
+                                    3511                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Travel By District Employees                            </td>
+<td nowrap="nowrap">
+                                Aug 13, 2009                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3520_R.pdf" target="_blank">
+                                    3520                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Food Service Programs                            </td>
+<td nowrap="nowrap">
+                                Oct 17, 2019                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3530_R.pdf" target="_blank">
+                                    3530                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Transportation                            </td>
+<td nowrap="nowrap">
+                                Oct 08, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3531_R.pdf" target="_blank">
+                                    3531                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Transportation Guidelines                            </td>
+<td nowrap="nowrap">
+                                Oct 08, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3532_R.pdf" target="_blank">
+                                    3532                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Accident Involving District Transportation Vehicles                            </td>
+<td nowrap="nowrap">
+                                Oct 08, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3533_R.pdf" target="_blank">
+                                    3533                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Safety of Students Transportation Vehicles                            </td>
+<td nowrap="nowrap">
+                                Oct 08, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3534_R.pdf" target="_blank">
+                                    3534                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Practice Evacuation of School Buses                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3535_R.pdf" target="_blank">
+                                    3535                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Transportation Payments in Lieu                            </td>
+<td nowrap="nowrap">
+                                Oct 08, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3536_R.pdf" target="_blank">
+                                    3536                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Employee Transportation                            </td>
+<td nowrap="nowrap">
+                                Oct 08, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3537_R.pdf" target="_blank">
+                                    3537                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                District-Owned Vehicles                            </td>
+<td nowrap="nowrap">
+                                Oct 08, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3538_P.pdf" target="_blank">
+                                    3538                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                School Bus Replacement                            </td>
+<td nowrap="nowrap">
+                                Oct 08, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3538_R.pdf" target="_blank">
+                                    3538                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                School Bus Replacement                            </td>
+<td nowrap="nowrap">
+                                Oct 08, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3540_R.pdf" target="_blank">
+                                    3540                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Attendance Accounting                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3610_R.pdf" target="_blank">
+                                    3610                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Property Inventory                            </td>
+<td nowrap="nowrap">
+                                Sep 10, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3611_R.pdf" target="_blank">
+                                    3611                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Sale of District Personal Property                            </td>
+<td nowrap="nowrap">
+                                Jan 09, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3612_R.pdf" target="_blank">
+                                    3612                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Responsibility for District Property                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3613_P.pdf" target="_blank">
+                                    3613                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Use of District Buildings, Grounds, and Equipment by Non-School Groups                            </td>
+<td nowrap="nowrap">
+                                Sep 08, 2015                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3613_R.pdf" target="_blank">
+                                    3613                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Use of Buildings, Grounds and Equipment by Non-school Groups                            </td>
+<td nowrap="nowrap">
+                                Sep 11, 2014                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3613 Fees_R.pdf" target="_blank">
+                                    3613 Fees                                </a></td>
+<td>
+</td>
+<td>
+                                Fee Schedule for Regulation 3613                            </td>
+<td nowrap="nowrap">
+                                Dec 22, 2022                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3613.1_R.pdf" target="_blank">
+                                    3613.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Vegas PBS Television Studio Fund-Raising Events                            </td>
+<td nowrap="nowrap">
+                                Sep 22, 2014                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3613.2_R.pdf" target="_blank">
+                                    3613.2                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Filming or Recording on School District Property                            </td>
+<td nowrap="nowrap">
+                                Sep 08, 2015                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3620_R.pdf" target="_blank">
+                                    3620                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Retention of Records                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3621_R.pdf" target="_blank">
+                                    3621                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Records Retention Schedule                            </td>
+<td nowrap="nowrap">
+                                May 08, 2008                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3910_R.pdf" target="_blank">
+                                    3910                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Information Systems Services                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3911_R.pdf" target="_blank">
+                                    3911                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Use of Computer Equipment and Computer Data Systems                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3912_R.pdf" target="_blank">
+                                    3912                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Copyrighted Computer Software Control                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3990_R.pdf" target="_blank">
+                                    3990                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Technology Network Resources                            </td>
+<td nowrap="nowrap">
+                                Sep 10, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/3991_R.pdf" target="_blank">
+                                    3991                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Use of Instructional Technology Networks                            </td>
+<td nowrap="nowrap">
+                                Apr 08, 2010                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4100_P.pdf" target="_blank">
+                                    4100                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Relationships, Interactions, and Communications Between District Employees or Representatives/Volunteers and Students                            </td>
+<td nowrap="nowrap">
+                                Sep 28, 2017                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4100_R.pdf" target="_blank">
+                                    4100                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Relationships, Interactions, and Communications Between District Employees or Representatives/Volunteers and Students                            </td>
+<td nowrap="nowrap">
+                                Apr 16, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4110_P.pdf" target="_blank">
+                                    4110                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Employment Discrimination, Harassment, and Sexual Harassment:  All Employees                             </td>
+<td nowrap="nowrap">
+                                Apr 12, 2012                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4110_R.pdf" target="_blank">
+                                    4110                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Employment Discrimination, Harassment, and Sexual Harassment:  All Employees                             </td>
+<td nowrap="nowrap">
+                                Apr 12, 2012                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4111_P.pdf" target="_blank">
+                                    4111                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Administrative Selection and Appointment                            </td>
+<td nowrap="nowrap">
+                                Feb 09, 2023                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4111_R.pdf" target="_blank">
+                                    4111                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Administrative Selection and Appointment                            </td>
+<td nowrap="nowrap">
+                                Feb 09, 2023                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4113_P.pdf" target="_blank">
+                                    4113                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Selection: Licensed Employees - Duties of Counselors                            </td>
+<td nowrap="nowrap">
+                                Nov 15, 2007                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4113_R.pdf" target="_blank">
+                                    4113                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Selection: Licensed Employees                            </td>
+<td nowrap="nowrap">
+                                Apr 16, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4113.1_R.pdf" target="_blank">
+                                    4113.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Selection From General Position Announcements: Extended-Day Instructional Services                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4114_R.pdf" target="_blank">
+                                    4114                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Selection: Support Staff and School Police Employees                            </td>
+<td nowrap="nowrap">
+                                Apr 16, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4115_R.pdf" target="_blank">
+                                    4115                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Promotion: Support Staff and School Police Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4116_P.pdf" target="_blank">
+                                    4116                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Nepotism                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4116_R.pdf" target="_blank">
+                                    4116                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Nepotism                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4120_P.pdf" target="_blank">
+                                    4120                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Allocation, Assignment and Classification: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4120_R.pdf" target="_blank">
+                                    4120                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Assignment: Licensed Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4121_R.pdf" target="_blank">
+                                    4121                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Additional and Extended-Day Extracurricular Assignments: Licensed Personnel                            </td>
+<td nowrap="nowrap">
+                                Apr 28, 2016                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4122_R.pdf" target="_blank">
+                                    4122                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Employment of Substitute Teachers and Substitute Support Staff                            </td>
+<td nowrap="nowrap">
+                                Apr 16, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4123_P.pdf" target="_blank">
+                                    4123                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Assignment: Cooperating Teachers/Student Teachers                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4123_R.pdf" target="_blank">
+                                    4123                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Assignment: Cooperating Teachers/Student Teachers                            </td>
+<td nowrap="nowrap">
+                                Apr 16, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4124_R.pdf" target="_blank">
+                                    4124                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Auxiliary Personnel: Support Staff and School Police Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 27, 2002                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4125_R.pdf" target="_blank">
+                                    4125                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Classification or Reclassification: School Police and Support Staff Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4125.1_R.pdf" target="_blank">
+                                    4125.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Classification or Reclassification: Administrative Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4126_R.pdf" target="_blank">
+                                    4126                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Employees With Occupational Injury or Disease                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4127_R.pdf" target="_blank">
+                                    4127                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Occupational Injury or Disease Benefits and Workers' Compensation Leave of Absence: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4130_R.pdf" target="_blank">
+                                    4130                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Staffing Allowances for Schools                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4140_P.pdf" target="_blank">
+                                    4140                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Transfers: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4141_R.pdf" target="_blank">
+                                    4141                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Reassignment and Transfer of Licensed Teacher Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4142_R.pdf" target="_blank">
+                                    4142                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Transfer: Principals, Assistant Principals and Deans                            </td>
+<td nowrap="nowrap">
+                                Jun 27, 2002                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4150_P.pdf" target="_blank">
+                                    4150                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Instructional Duties and Responsibilities:  All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4150.1_P.pdf" target="_blank">
+                                    4150.1                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Instructional Duties and Responsibilities: Administrators                            </td>
+<td nowrap="nowrap">
+                                Sep 20, 2007                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4150.1_R.pdf" target="_blank">
+                                    4150.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Instructional Duties and Responsibilities: Administrators                            </td>
+<td nowrap="nowrap">
+                                Sep 20, 2007                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4200_R.pdf" target="_blank">
+                                    4200                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Instructional Duties and Responsibilities: Licensed and Unified Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4207_R.pdf" target="_blank">
+                                    4207                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Employee Disclosure of Criminal Arrests, Charges, and Convictions (Post Hire)                            </td>
+<td nowrap="nowrap">
+                                Jun 21, 2012                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4211_R.pdf" target="_blank">
+                                    4211                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Supervision of Custodial Service Employees                            </td>
+<td nowrap="nowrap">
+                                Sep 28, 2017                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4212_R.pdf" target="_blank">
+                                    4212                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Supervision of Food Service Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4213_R.pdf" target="_blank">
+                                    4213                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Supervision of Commissioned School District Police Personnel                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4214_R.pdf" target="_blank">
+                                    4214                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Supervision of Transportation Services                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4220_R.pdf" target="_blank">
+                                    4220                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Jury Duty: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4221_R.pdf" target="_blank">
+                                    4221                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Subpoena: All Employees                            </td>
+<td nowrap="nowrap">
+                                Dec 08, 2005                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4222_R.pdf" target="_blank">
+                                    4222                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Public Board Service: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jan 08, 2009                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4230_R.pdf" target="_blank">
+                                    4230                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Fitness For Duty: All Employees                            </td>
+<td nowrap="nowrap">
+                                Oct 10, 2013                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4231_R.pdf" target="_blank">
+                                    4231                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Alcohol and Controlled Substances (Drug) Testing                            </td>
+<td nowrap="nowrap">
+                                Dec 12, 2019                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4235_P.pdf" target="_blank">
+                                    4235                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Medical Conditions: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4240_R.pdf" target="_blank">
+                                    4240                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Professional Learning: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 13, 2024                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4250_R.pdf" target="_blank">
+                                    4250                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Outside Activities: All Employees                            </td>
+<td nowrap="nowrap">
+                                Nov 30, 2006                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4251_R.pdf" target="_blank">
+                                    4251                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Community Service Boards: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4260_P.pdf" target="_blank">
+                                    4260                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Bargaining Units - Employees Not Covered                            </td>
+<td nowrap="nowrap">
+                                Aug 10, 2017                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4270_P.pdf" target="_blank">
+                                    4270                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Conflict of Interest: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4280_P.pdf" target="_blank">
+                                    4280                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Dress and Grooming: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4280_R.pdf" target="_blank">
+                                    4280                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Dress and Grooming: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 09, 2022                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4291_R.pdf" target="_blank">
+                                    4291                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Placement and Advancement of the Administrative Salary Schedule                            </td>
+<td nowrap="nowrap">
+                                Jul 11, 2024                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4291.1_R.pdf" target="_blank">
+                                    4291.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Responsibility Pay: Unified Employees                            </td>
+<td nowrap="nowrap">
+                                Apr 10, 2008                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4292_R.pdf" target="_blank">
+                                    4292                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Placement and Advancement On the Teacher Salary Schedule                            </td>
+<td nowrap="nowrap">
+                                Feb 11, 2010                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4292.1_R.pdf" target="_blank">
+                                    4292.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Extended-Day Extracurricular                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4293_R.pdf" target="_blank">
+                                    4293                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Placement and Advancement On The Support Staff and School Police Salary Schedule                            </td>
+<td nowrap="nowrap">
+                                Feb 12, 2009                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4294_R.pdf" target="_blank">
+                                    4294                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Payroll Warrants: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4295_R.pdf" target="_blank">
+                                    4295                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Termination Pay: All Employees                            </td>
+<td nowrap="nowrap">
+                                May 13, 2021                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4310_P.pdf" target="_blank">
+                                    4310                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Employment Practices                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4311_R.pdf" target="_blank">
+                                    4311                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Availability of Personnel Records: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4312_R.pdf" target="_blank">
+                                    4312                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Identification Badges, Fingerprints, and Employment Eligibility Verification: All Employees                            </td>
+<td nowrap="nowrap">
+                                Apr 16, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4313_R.pdf" target="_blank">
+                                    4313                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Appeal Procedure: All Regular Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4320_P.pdf" target="_blank">
+                                    4320                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Evaluation: All Employees                            </td>
+<td nowrap="nowrap">
+                                Sep 22, 2014                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4321_R.pdf" target="_blank">
+                                    4321                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Evaluation: Administrative Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 27, 2002                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4322_R.pdf" target="_blank">
+                                    4322                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Evaluation: Employees on the Teacher Salary Schedule                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4323_R.pdf" target="_blank">
+                                    4323                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Evaluation: Support Staff and School Police Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4330_R.pdf" target="_blank">
+                                    4330                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Payroll Deductions: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4340_P.pdf" target="_blank">
+                                    4340                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Discipline: All Employees                            </td>
+<td nowrap="nowrap">
+                                May 14, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4341_R.pdf" target="_blank">
+                                    4341                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Suspension, Nonrenewal, Dismissal, Demotion: Licensed and Nonlicensed Administrative Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4342_R.pdf" target="_blank">
+                                    4342                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Short-Term Suspension: All Licensed Employees and Nonlicensed Administrative Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 27, 2002                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4343_R.pdf" target="_blank">
+                                    4343                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Disciplinary Action: Support Staff and School Police Employees - Causes                            </td>
+<td nowrap="nowrap">
+                                Dec 12, 2019                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4350_P.pdf" target="_blank">
+                                    4350                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Leaves of Absence: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jan 13, 2011                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4351_R.pdf" target="_blank">
+                                    4351                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Medical Leave of Absence: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4352_R.pdf" target="_blank">
+                                    4352                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Military Leave: All Employees                            </td>
+<td nowrap="nowrap">
+                                Mar 23, 2023                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4353_R.pdf" target="_blank">
+                                    4353                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Professional Leave: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4354_R.pdf" target="_blank">
+                                    4354                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                PeaceCorps, VISTA, Teacher Corps Leave: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4355_R.pdf" target="_blank">
+                                    4355                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Employee Necessity Leave: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4356_R.pdf" target="_blank">
+                                    4356                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Leave for Instructional or Consultant Services: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4357_R.pdf" target="_blank">
+                                    4357                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Political Leave: All Employees                            </td>
+<td nowrap="nowrap">
+                                Mar 23, 2023                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4358_R.pdf" target="_blank">
+                                    4358                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Personal Leave: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4359_R.pdf" target="_blank">
+                                    4359                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Family and Medical Leave Act:  All Employees                            </td>
+<td nowrap="nowrap">
+                                Apr 11, 2018                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4360_R.pdf" target="_blank">
+                                    4360                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Resignations: All Employees                            </td>
+<td nowrap="nowrap">
+                                Aug 12, 2021                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4370_P.pdf" target="_blank">
+                                    4370                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Voluntary Early Retirement Incentive Program: All Employees                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4370_R.pdf" target="_blank">
+                                    4370                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Voluntary Early Retirement Incentive Program: All Employees - Suspended                            </td>
+<td nowrap="nowrap">
+                                Dec 11, 2008                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4371_R.pdf" target="_blank">
+                                    4371                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Employees "Cooling-Off" Period                            </td>
+<td nowrap="nowrap">
+                                May 24, 2012                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4380_P.pdf" target="_blank">
+                                    4380                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Smoking Policy                            </td>
+<td nowrap="nowrap">
+                                May 22, 2014                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4390_P.pdf" target="_blank">
+                                    4390                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Disclosure of Improper District Action                            </td>
+<td nowrap="nowrap">
+                                May 08, 2008                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4391_P.pdf" target="_blank">
+                                    4391                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Open Communication and Free Exchange of Ideas                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4393_R.pdf" target="_blank">
+                                    4393                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Accelerated Pathways for Educator and School Psychology Candidates to Complete Student Teaching and Internship Requirements for Licensure                            </td>
+<td nowrap="nowrap">
+                                Apr 28, 2022                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5110_R.pdf" target="_blank">
+                                    5110                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Required Parent Conference Procedures                            </td>
+<td nowrap="nowrap">
+                                Jun 16, 2016                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5111_P.pdf" target="_blank">
+                                    5111                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Age of Entrance and Enrollment Status of Exempted Students                            </td>
+<td nowrap="nowrap">
+                                May 12, 2022                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5111_R.pdf" target="_blank">
+                                    5111                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Age of Entrance an Enrollment                            </td>
+<td nowrap="nowrap">
+                                Apr 25, 2025                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5111.1_R.pdf" target="_blank">
+                                    5111.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Enrollment Identity Documentation Requirements                            </td>
+<td nowrap="nowrap">
+                                May 12, 2022                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5112_P.pdf" target="_blank">
+                                    5112                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Change of School Assignment                            </td>
+<td nowrap="nowrap">
+                                Sep 23, 2021                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5112_R.pdf" target="_blank">
+                                    5112                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Change of School Assignment                            </td>
+<td nowrap="nowrap">
+                                Sep 23, 2021                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5113_P.pdf" target="_blank">
+                                    5113                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Attendance                            </td>
+<td nowrap="nowrap">
+                                Aug 25, 2005                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5113_R.pdf" target="_blank">
+                                    5113                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Attendance Enforcement                            </td>
+<td nowrap="nowrap">
+                                Feb 12, 2015                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5113.1_R.pdf" target="_blank">
+                                    5113.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Attendance Records and Class Record Books                            </td>
+<td nowrap="nowrap">
+                                May 26, 2005                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5113.5_R.pdf" target="_blank">
+                                    5113.5                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Missing and Abducted Children                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5114_P.pdf" target="_blank">
+                                    5114                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Student Exemption and Exclusion (Voluntary and Involuntary)                            </td>
+<td nowrap="nowrap">
+                                May 13, 2021                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5114_R.pdf" target="_blank">
+                                    5114                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Dismissal (Voluntary and Involuntary)                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5114.1_R.pdf" target="_blank">
+                                    5114.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Discipline: Suspension                            </td>
+<td nowrap="nowrap">
+                                Jun 09, 2022                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5114.2_R.pdf" target="_blank">
+                                    5114.2                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Discipline Expulsion Procedures                            </td>
+<td nowrap="nowrap">
+                                May 13, 2021                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5115_R.pdf" target="_blank">
+                                    5115                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Withdrawals During Last Three Weeks of School                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5116_P.pdf" target="_blank">
+                                    5116                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Student Assignment Within Schools                            </td>
+<td nowrap="nowrap">
+                                Nov 16, 2010                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5116_R.pdf" target="_blank">
+                                    5116                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Assignment Within Schools                            </td>
+<td nowrap="nowrap">
+                                Nov 16, 2010                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5118_P.pdf" target="_blank">
+                                    5118                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                District- and Organization-Sponsored Foreign Exchange Students                            </td>
+<td nowrap="nowrap">
+                                Aug 25, 2011                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5118_R.pdf" target="_blank">
+                                    5118                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                District- and Organization-Sponsored Foreign Exchange Students                            </td>
+<td nowrap="nowrap">
+                                Aug 25, 2011                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5119_P.pdf" target="_blank">
+                                    5119                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Participation of Homeschooled, Charterschooled, and Privateschooled Students in Clark County School District Programs                            </td>
+<td nowrap="nowrap">
+                                Sep 28, 2017                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5120_P.pdf" target="_blank">
+                                    5120                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Student Progress                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5121_R.pdf" target="_blank">
+                                    5121                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Progress: Grading (Grades Kindergarten Through Twelve)                            </td>
+<td nowrap="nowrap">
+                                Jul 08, 2021                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5121.1_R.pdf" target="_blank">
+                                    5121.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Progress: Grading (Grades 6-12 In Secondary Schools) Special Education                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5122_R.pdf" target="_blank">
+                                    5122                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Reporting To Parents                            </td>
+<td nowrap="nowrap">
+                                Mar 13, 2014                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5123_P.pdf" target="_blank">
+                                    5123                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Promotion and Retention                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5123_R.pdf" target="_blank">
+                                    5123                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Promotion, Retention, and Demotion of Students                            </td>
+<td nowrap="nowrap">
+                                Apr 24, 2025                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5124_P.pdf" target="_blank">
+                                    5124                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Examinations and Equivalent Credit                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5124_R.pdf" target="_blank">
+                                    5124                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Examinations and Equivalent Credit                            </td>
+<td nowrap="nowrap">
+                                Feb 12, 2015                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5125_P.pdf" target="_blank">
+                                    5125                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Student Records                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5125_R.pdf" target="_blank">
+                                    5125                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Records                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5125.1_R.pdf" target="_blank">
+                                    5125.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Release of Information                            </td>
+<td nowrap="nowrap">
+                                Aug 13, 2009                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5126_P.pdf" target="_blank">
+                                    5126                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Student Recognition (Honor Roll)                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5126_R.pdf" target="_blank">
+                                    5126                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Recognition (Honor Roll)                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5127_P.pdf" target="_blank">
+                                    5127                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                High School Graduation Requirements                            </td>
+<td nowrap="nowrap">
+                                Jul 14, 2022                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5127_R.pdf" target="_blank">
+                                    5127                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                High School Graduation Requirements                            </td>
+<td nowrap="nowrap">
+                                Mar 13, 2025                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5128_R.pdf" target="_blank">
+                                    5128                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                General Educational Development (GED) Examination                            </td>
+<td nowrap="nowrap">
+                                Oct 11, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5129_P.pdf" target="_blank">
+                                    5129                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                High School Graduation Ceremonies                            </td>
+<td nowrap="nowrap">
+                                Mar 28, 2025                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5129_R.pdf" target="_blank">
+                                    5129                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                High School Graduation Ceremonies                            </td>
+<td nowrap="nowrap">
+                                Mar 28, 2025                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5130_R.pdf" target="_blank">
+                                    5130                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                School Board Student Advisory Committee                            </td>
+<td nowrap="nowrap">
+                                Feb 14, 2013                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5131_P.pdf" target="_blank">
+                                    5131                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Dress and Appearance                            </td>
+<td nowrap="nowrap">
+                                Feb 25, 2010                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5131_R.pdf" target="_blank">
+                                    5131                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Dress and Appearance                            </td>
+<td nowrap="nowrap">
+                                Jun 09, 2022                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5132_R.pdf" target="_blank">
+                                    5132                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Groups/Clubs/Organizations                            </td>
+<td nowrap="nowrap">
+                                Apr 26, 2018                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5132.1_P.pdf" target="_blank">
+                                    5132.1                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Student Body Funds: Management                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5132.2_R.pdf" target="_blank">
+                                    5132.2                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Solicitation of Funds (Public)                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5132.3_R.pdf" target="_blank">
+                                    5132.3                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Booster Clubs and Support Groups in High Schools                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5133_R.pdf" target="_blank">
+                                    5133                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Social Events (Elementary and Secondary)                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5133.1_P.pdf" target="_blank">
+                                    5133.1                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Social Events and Class Trips                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5134_P.pdf" target="_blank">
+                                    5134                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Care of School Property                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5134_R.pdf" target="_blank">
+                                    5134                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Care of School Property                            </td>
+<td nowrap="nowrap">
+                                Apr 11, 2002                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5135_P.pdf" target="_blank">
+                                    5135                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Extracurricular Activities                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5135.1_R.pdf" target="_blank">
+                                    5135.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Activities and Athletics Participation for Secondary Schools                            </td>
+<td nowrap="nowrap">
+                                Sep 14, 2006                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5135.11_R.pdf" target="_blank">
+                                    5135.11                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Middle/Junior High School Student Activities Program                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5135.12_R.pdf" target="_blank">
+                                    5135.12                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Interscholastic Student Activities                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5135.13_R.pdf" target="_blank">
+                                    5135.13                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Travel for Extracurricular Activities                            </td>
+<td nowrap="nowrap">
+                                Apr 25, 2024                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5135.2_R.pdf" target="_blank">
+                                    5135.2                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Meetings                            </td>
+<td nowrap="nowrap">
+                                Aug 09, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5135.3_R.pdf" target="_blank">
+                                    5135.3                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Programs During School Time                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5135.4_R.pdf" target="_blank">
+                                    5135.4                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Admission to Athletic Events                            </td>
+<td nowrap="nowrap">
+                                May 15, 2025                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5135.5_R.pdf" target="_blank">
+                                    5135.5                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Procedures for Athletic Contests During Student Unrest                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5135.6_R.pdf" target="_blank">
+                                    5135.6                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Athletic Appeal Procedure                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5135.61_R.pdf" target="_blank">
+                                    5135.61                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Building Level Hearing Procedures Governing Coaching and Extra Duty Activity Assignments                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5135.7_R.pdf" target="_blank">
+                                    5135.7                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Activities Appeal Procedure                            </td>
+<td nowrap="nowrap">
+                                Aug 09, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5136_P.pdf" target="_blank">
+                                    5136                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Personal Technology and Communication Devices                            </td>
+<td nowrap="nowrap">
+                                Jun 20, 2013                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5137_P.pdf" target="_blank">
+                                    5137                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Safe and Respectful Learning Environment: Discrimination Based on Race, Bullying, or Cyberbullying                            </td>
+<td nowrap="nowrap">
+                                Nov 18, 2021                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5138_P.pdf" target="_blank">
+                                    5138                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Addressing the Rights and Needs of Students with Diverse Gender Identities or Expressions                            </td>
+<td nowrap="nowrap">
+                                Aug 09, 2018                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5139_P.pdf" target="_blank">
+                                    5139                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Anti-Racism, Equity, and Inclusion                            </td>
+<td nowrap="nowrap">
+                                Nov 18, 2021                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5140_P.pdf" target="_blank">
+                                    5140                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Student Discipline and Cooperation With Law Enforcement Agencies                            </td>
+<td nowrap="nowrap">
+                                Dec 08, 2005                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5141_R.pdf" target="_blank">
+                                    5141                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Discipline                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5141.1_R.pdf" target="_blank">
+                                    5141.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Discipline Control of Dangerous and Antisocial Behavior                            </td>
+<td nowrap="nowrap">
+                                May 13, 2021                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5141.2_R.pdf" target="_blank">
+                                    5141.2                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Discipline: Harassment                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5141.3_R.pdf" target="_blank">
+                                    5141.3                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Discipline: Use of Aversive Interventions                            </td>
+<td nowrap="nowrap">
+                                Sep 13, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5142_R.pdf" target="_blank">
+                                    5142                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Disruptions                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5143_R.pdf" target="_blank">
+                                    5143                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Bomb Threats                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5144_R.pdf" target="_blank">
+                                    5144                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Searching Students or Student Lockers                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5145_R.pdf" target="_blank">
+                                    5145                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Cooperation With Law Enforcement Agencies                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5145.1_R.pdf" target="_blank">
+                                    5145.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Release of Students During School Hours                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5146_P.pdf" target="_blank">
+                                    5146                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Student Conduct                            </td>
+<td nowrap="nowrap">
+                                Nov 16, 2010                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5146_R.pdf" target="_blank">
+                                    5146                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Conduct                            </td>
+<td nowrap="nowrap">
+                                Aug 11, 2011                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5146.1_R.pdf" target="_blank">
+                                    5146.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Closed Campus                            </td>
+<td nowrap="nowrap">
+                                Jan 09, 2003                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5150_R.pdf" target="_blank">
+                                    5150                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Health and Welfare: Students                            </td>
+<td nowrap="nowrap">
+                                Sep 12, 2024                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5151_R.pdf" target="_blank">
+                                    5151                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                 Physical Examination, Immunization, And Diagnostic Programs                            </td>
+<td nowrap="nowrap">
+                                Jul 10, 2025                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5152_R.pdf" target="_blank">
+                                    5152                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Child Abuse or Neglect                            </td>
+<td nowrap="nowrap">
+                                Sep 28, 2017                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5154_R.pdf" target="_blank">
+                                    5154                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Insurance                            </td>
+<td nowrap="nowrap">
+                                Aug 09, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5156_R.pdf" target="_blank">
+                                    5156                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Automated External Defibrillator (AED)                            </td>
+<td nowrap="nowrap">
+                                Jul 10, 2025                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/5157_R.pdf" target="_blank">
+                                    5157                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Student Wellness                            </td>
+<td nowrap="nowrap">
+                                May 15, 2025                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6110_P.pdf" target="_blank">
+                                    6110                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                School Day                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6110_R.pdf" target="_blank">
+                                    6110                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                School Day                            </td>
+<td nowrap="nowrap">
+                                Sep 13, 2012                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6111_R.pdf" target="_blank">
+                                    6111                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Released Time For Special Instruction or Activities                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6112_R.pdf" target="_blank">
+                                    6112                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Emergency Procedures and Instruction                            </td>
+<td nowrap="nowrap">
+                                Oct 24, 2002                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6113.1_P.pdf" target="_blank">
+                                    6113.1                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Silent Contemplation                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6113.2_P.pdf" target="_blank">
+                                    6113.2                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Sectarianism and Religious Holidays                            </td>
+<td nowrap="nowrap">
+                                Mar 27, 2003                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6113.2_R.pdf" target="_blank">
+                                    6113.2                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Sectarianism, Religious Free Speech and Religious Holidays                            </td>
+<td nowrap="nowrap">
+                                Mar 27, 2003                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6113.3_P.pdf" target="_blank">
+                                    6113.3                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                The American Flag                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6113.3_R.pdf" target="_blank">
+                                    6113.3                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                The American Flag                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6113.4_P.pdf" target="_blank">
+                                    6113.4                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Cultural and Ethnic Recognition                            </td>
+<td nowrap="nowrap">
+                                Sep 11, 2008                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6114_P.pdf" target="_blank">
+                                    6114                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Extreme Weather/Environmental Conditions                            </td>
+<td nowrap="nowrap">
+                                Sep 13, 2012                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6120_P.pdf" target="_blank">
+                                    6120                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Multi-Tiered System of Supports                            </td>
+<td nowrap="nowrap">
+                                Dec 09, 2021                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6121_P.pdf" target="_blank">
+                                    6121                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Instructional Program Design Development                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6121_R.pdf" target="_blank">
+                                    6121                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Instructional Program Design Development                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6122_R.pdf" target="_blank">
+                                    6122                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Instructional Plans                            </td>
+<td nowrap="nowrap">
+                                Sep 14, 2023                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6122.1_R.pdf" target="_blank">
+                                    6122.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Instructional Plans - Specially Designed Instruction                            </td>
+<td nowrap="nowrap">
+                                Sep 14, 2023                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6123_P.pdf" target="_blank">
+                                    6123                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Instruction on the Human Immunodeficiency Virus, Human Reproductive System, Related Communicable Diseases, and Sexual Responsibility                            </td>
+<td nowrap="nowrap">
+                                Feb 09, 2023                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6123_R.pdf" target="_blank">
+                                    6123                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Instruction on the Human Immunodeficiency Virus, Human Reproductive System, Related Communicable Diseases, and Sexual Responsibility                            </td>
+<td nowrap="nowrap">
+                                Feb 09, 2023                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6124.1_R.pdf" target="_blank">
+                                    6124.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Curriculum Guides                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6124.2_P.pdf" target="_blank">
+                                    6124.2                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Controversial Issues                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6124.2_R.pdf" target="_blank">
+                                    6124.2                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Controversial Issues                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6124.3_P.pdf" target="_blank">
+                                    6124.3                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Student and School Political Involvement                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6124.4_P.pdf" target="_blank">
+                                    6124.4                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Use of American History and Heritage Within the District                            </td>
+<td nowrap="nowrap">
+                                Apr 08, 2010                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6130_P.pdf" target="_blank">
+                                    6130                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Assemblies and Public Programs                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6130_R.pdf" target="_blank">
+                                    6130                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Assemblies and Public Programs                            </td>
+<td nowrap="nowrap">
+                                Jan 08, 2009                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6142_P.pdf" target="_blank">
+                                    6142                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Field Trips                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6142_R.pdf" target="_blank">
+                                    6142                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Field Trips                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6143_P.pdf" target="_blank">
+                                    6143                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Homework                            </td>
+<td nowrap="nowrap">
+                                Mar 31, 2016                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6143_R.pdf" target="_blank">
+                                    6143                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Homework                            </td>
+<td nowrap="nowrap">
+                                Mar 31, 2016                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6144_P.pdf" target="_blank">
+                                    6144                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Exemptions From Course Requirements                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6144_R.pdf" target="_blank">
+                                    6144                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Exemptions From Course Requirements                            </td>
+<td nowrap="nowrap">
+                                Mar 26, 2015                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6150_P.pdf" target="_blank">
+                                    6150                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Instructional Materials and Services                            </td>
+<td nowrap="nowrap">
+                                Feb 01, 2007                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6150_R.pdf" target="_blank">
+                                    6150                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Instructional Materials                            </td>
+<td nowrap="nowrap">
+                                Dec 12, 2024                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6150.1_P.pdf" target="_blank">
+                                    6150.1                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Use of Instructional Video Services by Other Public School Districts, Charter Schools, Private Schools and Home Schooling Parents                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6150.1_R.pdf" target="_blank">
+                                    6150.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Use of Instructional Video Services by Other Public School Districts, Charter Schools, Private Schools and Home Schooling Parents                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6153_P.pdf" target="_blank">
+                                    6153                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Public Television Projects                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6153_R.pdf" target="_blank">
+                                    6153                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Public Television Projects                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6161_P.pdf" target="_blank">
+                                    6161                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                School Libraries                            </td>
+<td nowrap="nowrap">
+                                Aug 10, 2023                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6162_P.pdf" target="_blank">
+                                    6162                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Student and Program Evaluation                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6163_P.pdf" target="_blank">
+                                    6163                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Performances and Exhibits by Students                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6164_P.pdf" target="_blank">
+                                    6164                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Special Services and Programs                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6165_P.pdf" target="_blank">
+                                    6165                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Programs and Services for English Language Learner Students                            </td>
+<td nowrap="nowrap">
+                                Jul 09, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6171_P.pdf" target="_blank">
+                                    6171                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Summer School                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6171_R.pdf" target="_blank">
+                                    6171                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Summer School                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6172_R.pdf" target="_blank">
+                                    6172                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Driver Education                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6173_P.pdf" target="_blank">
+                                    6173                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Alternative Programs                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6174_P.pdf" target="_blank">
+                                    6174                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Dual Enrollment Programs                            </td>
+<td nowrap="nowrap">
+                                Dec 13, 2018                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6174_R.pdf" target="_blank">
+                                    6174                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Dual Enrollment Programs                            </td>
+<td nowrap="nowrap">
+                                Jul 14, 2022                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6200_P.pdf" target="_blank">
+                                    6200                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Adult Education                            </td>
+<td nowrap="nowrap">
+                                Apr 27, 2006                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/6200_R.pdf" target="_blank">
+                                    6200                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Adult Education                            </td>
+<td nowrap="nowrap">
+                                Apr 27, 2006                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7110_R.pdf" target="_blank">
+                                    7110                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Facility Planning                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7111_P.pdf" target="_blank">
+                                    7111                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                District Attendance Zoning                            </td>
+<td nowrap="nowrap">
+                                Aug 24, 2006                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7111_R.pdf" target="_blank">
+                                    7111                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Distance Attendance Zoning                            </td>
+<td nowrap="nowrap">
+                                Oct 22, 2020                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7112_R.pdf" target="_blank">
+                                    7112                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                School Facility Replacement                            </td>
+<td nowrap="nowrap">
+                                Jun 26, 2008                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7113_R.pdf" target="_blank">
+                                    7113                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Closing Schools                            </td>
+<td nowrap="nowrap">
+                                Dec 15, 2023                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7114_P.pdf" target="_blank">
+                                    7114                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Residential Property                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7120_R.pdf" target="_blank">
+                                    7120                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Specifications for Educational Facilities                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7121_R.pdf" target="_blank">
+                                    7121                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                School Site Development                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7122_P.pdf" target="_blank">
+                                    7122                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                School Facility Design                            </td>
+<td nowrap="nowrap">
+                                Jan 09, 2003                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7124_P.pdf" target="_blank">
+                                    7124                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Converting Elementary Schools To and From Multitrack Year-Round Calendars and Flexible Double Sessions                            </td>
+<td nowrap="nowrap">
+                                Sep 13, 2012                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7124_R.pdf" target="_blank">
+                                    7124                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Converting Elementary Schools To and From Multitrack Year-Round Calendars and Flexible Double Sessions                            </td>
+<td nowrap="nowrap">
+                                Sep 13, 2012                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7124.1_R.pdf" target="_blank">
+                                    7124.1                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Converting Middle Schools To and From Year-Round Schedules                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7131_R.pdf" target="_blank">
+                                    7131                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Acquisition/Disposition of Real Property                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7210_P.pdf" target="_blank">
+                                    7210                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Construction Bids                            </td>
+<td nowrap="nowrap">
+                                Jun 27, 2019                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7210_R.pdf" target="_blank">
+                                    7210                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Construction Bids                            </td>
+<td nowrap="nowrap">
+                                Apr 22, 2004                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7211_R.pdf" target="_blank">
+                                    7211                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Architectural and Engineering Services                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7223_P.pdf" target="_blank">
+                                    7223                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Naming of Schools and Education-Related Facilities                            </td>
+<td nowrap="nowrap">
+                                Oct 17, 2019                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7224_R.pdf" target="_blank">
+                                    7224                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Plaque for Educational Facilities                            </td>
+<td nowrap="nowrap">
+                                Sep 13, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7310_R.pdf" target="_blank">
+                                    7310                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Safety and Loss Control                            </td>
+<td nowrap="nowrap">
+                                May 09, 2024                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7341_R.pdf" target="_blank">
+                                    7341                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                District Responsibility - Band Uniforms and Choral Robes                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7510_R.pdf" target="_blank">
+                                    7510                                </a></td>
+<td>
+                                REG                            </td>
+<td>
+                                Notification of School Construction, Maintenance and Renovation Activities                            </td>
+<td nowrap="nowrap">
+                                Jun 28, 2001                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/7611_P.pdf" target="_blank">
+                                    7611                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                Integrated Pest Management                            </td>
+<td nowrap="nowrap">
+                                Jun 10, 2021                            </td>
+</tr>
+</table>
+</div>
+</section>
+</div>
+<!-- /content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

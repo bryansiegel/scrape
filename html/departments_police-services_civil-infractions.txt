@@ -1,0 +1,75 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h2>
+	Civil Infractions</h2>
+<p data-end="100" data-start="93">
+<strong>NOTICE:</strong></p>
+<p data-end="340" data-start="102">
+	You have been cited for a civil infraction pursuant to Nevada Revised Statutes (NRS) Chapter 484A. This is a non-criminal offense. You are required to respond to this citation within 90 calendar days from the date the citation was issued or the date printed on your citation.</p>
+<p data-end="359" data-start="342">
+<strong>Your options are:</strong></p>
+<ol data-end="1023" data-start="361">
+<li data-end="668" data-start="361">
+<p data-end="668" data-start="364">
+<u><strong>Pay the civil penalty</strong></u>: By paying the penalty, you admit responsibility for the infraction. Payment can be made online, by mail, or in person</p>
+</li>
+<li data-end="1023" data-start="670">
+<p data-end="1023" data-start="673">
+<u><strong>Contest the citation</strong></u>: To dispute the infraction, you must complete and submit a Civil Infraction Response Form and post a bond equal to the total amount of the civil penalty, administrative assessments, and any applicable fees. This must be done in person at the Customer Service Division. Upon submission, a contested hearing date will be scheduled.</p>
+</li>
+</ol>
+<p data-end="1084" data-start="1025">
+<strong>Failure to respond within the above time period will result in:</strong></p>
+<ul data-end="1415" data-start="1086">
+<li data-end="1150" data-start="1086">
+<p data-end="1150" data-start="1088">
+			A default judgment finding you responsible for the infraction.</p>
+</li>
+<li data-end="1238" data-start="1151">
+<p data-end="1238" data-start="1153">
+			Imposition of the civil penalty, administrative assessments, and any additional fees.</p>
+</li>
+<li data-end="1323" data-start="1239">
+<p data-end="1323" data-start="1241">
+			Referral of the debt to collections, which may include additional collection fees.</p>
+</li>
+<li data-end="1415" data-start="1324">
+<p data-end="1415" data-start="1326">
+			Potential suspension of your driver's license by the Nevada Department of Motor Vehicles.</p>
+</li>
+</ul>
+<p data-end="1539" data-start="1417">
+<strong>To pay or contest online:</strong></p>
+<ul>
+<li data-end="1539" data-start="1417">
+<a href="https://www.lasvegasjusticecourt.us/news_detail_T23_R27.php">Las Vegas Justice Court</a></li>
+<li data-end="1539" data-start="1417">
+<a href="https://municourt.lasvegasnevada.gov/?q=node/391">Las Vegas Municipal Court</a></li>
+<li data-end="1539" data-start="1417">
+<a href="https://www.clarkcountynv.gov/government/departments/justice_courts/jurisdictions/henderson/divisions/traffic.php">Henderson Justice Court</a></li>
+<li data-end="1539" data-start="1417">
+<a href="https://form.jotform.com/223266148641153">North Las Vegas Municipal Court</a></li>
+</ul>
+<p data-end="1539" data-start="1417">
+<strong>To pay or contest by mail or in person:</strong></p>
+<ul>
+<li data-end="1539" data-start="1417">
+<strong>Las Vegas Justice </strong>- 200 Lewis Avenue, Las Vegas, Nevada 89101     (702-671-3444)</li>
+<li data-end="1539" data-start="1417">
+<strong>Las Vegas Municipal</strong> - 100 E. Clark Avenue, Las Vegas, Nevada 89101 (702-382-6878)</li>
+<li data-end="1539" data-start="1417">
+<strong>Henderson Justice </strong>- 243 S. Water Street, Henderson, Nevada 89015 (702-455-7951)</li>
+<li data-end="1539" data-start="1417">
+<strong>NLV Municipal</strong> - 2332 LV Boulevard North, Ste 100, NLV, NV 89030    (702-633-1130)</li>
+</ul>
+<p data-end="1539" data-start="1417">
+	For more information pertaining to Civil Infractions please visit: <a href="http://nvtrafficticket.com">NVTRAFFICTICKET.COM</a></p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>To report a crime, please select the above link or call our 24/7 dispatch @ 702.799.5411.  
+
+If this is an emergency, please call 911. </section>
+</div> <!-- /sidebar-wrap -->
+</div>

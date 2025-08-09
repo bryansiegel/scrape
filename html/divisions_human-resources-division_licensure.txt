@@ -1,0 +1,34 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Nevada Licensure</h1>
+<ul>
+<li>
+<a class="xlink-blue" href="https://doe.nv.gov/educator_licensure/" target="_blank">Educator Licensure</a></li>
+<li>
+<a class="pdflink" href="https://doe.nv.gov/Educator_Licensure/Licenses_and_Fees/" target="_blank">General License Requirements</a></li>
+<li>
+<a class="xlink-blue" href="https://doe.nv.gov/Educator_Licensure/Competency_Testing_Requirements/" target="_blank">Competency Testing Requirements</a></li>
+</ul>
+<p>
+	For more specific information regarding licensing and testing procedures, please contact the <a class="xlink-blue" href="https://doe.nv.gov/educator_licensure/" target="_blank">Nevada Department of Education.</a></p>
+<p>
+<strong>Licensure Department<br>
+	Nevada Department of Education<br>
+	9890 South Maryland Parkway<br/>
+	Suite 231, Room 234</br></br></strong><br/>
+<strong>Las Vegas, Nevada 89183</strong></p>
+<p>
+<strong>Telephone number: </strong>(702) 486-6458</p>
+<p>
+<strong>1. Nevada Elementary License -</strong> An elementary license (K-8) may be granted to holders of a bachelor's degree from an accredited college or university, provided that the applicant has completed a program for elementary school teaching (including student teaching, nine semester hours in the teaching of reading, and nine semester hours in elementary methods as minimum requirements).</p>
+<p>
+<strong>2. Nevada Secondary License -</strong> A secondary license may be granted to a person holding a bachelor's degree in an academic or occupational field of study. The secondary license requires a person to have completed a recognized teaching major and 22 semester hours of credit in professional secondary education or professional occupational education courses (including eight semester hours in method courses and supervised student teaching in the field of specialization).</p>
+<p>
+<strong>3. Special Licenses -</strong> A special license permits a holder to teach at the K-12 grade levels. Under the special license, a person may apply for endorsements in special education, administration, counseling, library, business and industry, and other selected teaching areas. The business and industry endorsements requires five years of work experience in the area of endorsement. All other endorsements under the special license require a degree and specific coursework. Applicants should check with the Nevada Department of Education for requirements.</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

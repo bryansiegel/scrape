@@ -1,0 +1,210 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<style type="text/css">
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}</style>
+<p>
+	 </p>
+<h2>
+<strong>CCSD POLICE DEPARTMENT</strong></h2>
+<p>
+	 </p>
+<div>
+<h1>
+	DEPARTMENT HISTORY</h1>
+<div>
+	The Clark County School District Police was established in the late 1960s as part of the District's Maintenance Department and has since grown into a fully empowered law enforcement agency, staffed by committed police officers and support personnel.
+	<p>
+		The origins of what would later become the Clark County School District Police Department trace back to 1967, when the need arose to monitor overnight activities at school sites. The department's foundation was built on security officers who patrolled school properties and activities from 5 p.m. to 1 a.m. While there is some speculation that the School District may have had a connection to the Clark County Sheriff's Office prior to 1967, the only evidence of this is a Sheriff's patch labeled "School Enforcement."</p>
+<p>
+<img align="left" alt="Police History - Badge" height="152" src="/resources/police-services/images/department-history09.jpg" width="150"/>In January of 1971, the Nevada State Legislature designated the Clark County School District security officers as peace officers; this gave them the authority of police officers. By 1976, the Department was comprised of one sergeant and four patrol officers. Eventually, the Department implemented the first officer training program, and in 1988, added 18 new officers.</p>
+<p>
+		In October 1989, the Nevada State Legislature authorized the District to operate a fully state-certified police force and the addition of a Director of School Police. All School District police officers are now required to receive Nevada Peace Officers' Standards &amp; Training (POST) certification. The size of the Department grew from 22 officers to 68 officers, some of which were stationed at all metropolitan-area high schools and some junior high schools, while others were assigned to patrol duties.</p>
+<p>
+		Since 1989, all police applicants go through extensive pre-employment testing and background investigations. Prior to the creation of the SNLEA, officers attended the Nevada POST Academy in Carson City. Now all officers attend the Southern Nevada Law Enforcement Academy in Las Vegas for twenty weeks.</p>
+<p>
+		In 1999, the Clark County School District Police was again impacted by the legislature. The position of Supervisor of School Police was changed to Chief of School Police. The Chief reports directly to the Superintendent of Schools.</p>
+<p>
+		In 2000, Elliot Phelps was named as Chief of School Police. The Department roster listed one hundred twenty four sworn officers on the force.</p>
+<p>
+		In 2005, Hector R. Garcia was named as Chief of School Police. Chief Garcia then began a campaign to return the School Police to its roots of service, education and protection. The initiative was codenamed "The Roadmap to Excellence".</p>
+<p>
+		In February 2008, Clark County School District made an unprecedented decision to promote one of its own, Captain Filiberto Arroyo, to the rank of Chief of Police. Almost immediately Chief Arroyo began echoing a new mantra, "Back to Basics"; his goal, to deliver School Police back to its true mission of ensuring a safe, secure, and nurturing learning environment for the students and staff of Clark County. Chief Arroyo has firmly stated that "As a School Police Department we must continue to work hand-in-hand with school administration to become one. We must also continue to forge bonds with local police agencies to ensure the wellbeing and safety of our students at all times."Â? This philosophy is founded strongly on advocating the ideology that the presence of a CCSDPD officer promotes a sense of overwhelming confidence in our students, so that their environment is safe and conducive for learning.</p>
+<h2>
+		Department Timeline</h2>
+<dl>
+<dt class="timelineYear">
+			1960</dt>
+<dd>
+			Clark County's population of 116,000 people, of which 29,044 were students, was served by 42 schools.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			1962</dt>
+<dd>
+			Four security guards were assigned to protect School District properties and provide safety services for school-related activities.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			Late 1960's</dt>
+<dd>
+			A School District 'Security Department' was formed under the umbrella of the District 'Maintenance Department'.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			1970<img alt="Chief Scherkenbach" height="172" src="/resources/police-services/images/chief-scherkenbach.jpg" style="float:right;" width="150"/></dt>
+<dd>
+			With the county's population having more than doubled to 262,000 people in ten years, including a student population of 73,846 in 81 schools, Mr. William Scherkenback created and implemented the Division of Police Services.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			1971</dt>
+<dd>
+			The passing of new state legislation reclassified those employees of the new Division of Police Services as peace officers.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			1972-75</dt>
+<dd>
+<p>
+				With gang activity on the rise in the schools, the Division of Police Services expanded to employee one sergeant and four patrol officers.</p>
+</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			1976</dt>
+<dd>
+			Mr. Ernest Diggs was appointed as Supervisor of School Police.<span class="timelineYear"><img alt="Police History - Badge" height="153" src="/resources/police-services/images/department-history01.jpg" style="float: right;" width="150"/></span></dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			1980</dt>
+<dd>
+			The population in Clark County continued to explode (now at 444,000 people), and to provide for 88,567 students, the School District expanded to 113 schools.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			Mid-late 1980's</dt>
+<dd>
+			With a continued rise in gang activity and the strong growth and development of the Valley, the School District increased School Police staffing to 22 officers.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			1988</dt>
+<dd>
+			Mr. Jack Lazarotto was appointed Director of School Police.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			1989</dt>
+<dd>
+			The passing of new state legislation authorized the creation of the Clark County School District Police Department (CCSDPD). The existing District peace officers were now eligible to become state-certified police officers.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			1990</dt>
+<dd>
+			Clark County's 122,058 students (out of a population now consisting of 708,000 people) were served by 147 schools.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			1991</dt>
+<dd>
+			The homicide of a student at Eldorado High School prompted the hiring of additional officers.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			1992</dt>
+<dd>
+			Mr. Dan Reyes was named Supervisor of School Police. He commanded 63 officers.<span class="timelineYear"><img alt="Police History - Badge" height="109" src="/resources/police-services/images/department-history02.jpg" style="float: right;" width="150"/></span></dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			1998</dt>
+<dd>
+			In six years, CCSDPD had nearly doubled in size -- from 63 to 107 officers.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			1999</dt>
+<dd>
+			With School Police now employing 110 officers, the Nevada Legislature reclassified the position of Supervisor of School Police to the sworn position of Chief of Police. The Chief of Police now fell under the direction of the Superintendent of Schools.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			2000</dt>
+<dd>
+			Clark County's population had exploded to 1,300,000 people, and Elliott Phelps was named Chief of Police for CCSDPD. Chief Phelps commanded 124 officers and was responsible for 250 schools and the safety of 231,028 students.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			2001</dt>
+<dd>
+			A federal grant awarded 31 additional officers to the Department, which then became the 7th largest police department in the state of Nevada.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			2001/2002</dt>
+<dd>
+			Now that CCSDPD employed 129 police officers, the School District's ratio of students-to-officers was 2,247:1.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			2005</dt>
+<dd>
+			Hector R. Garcia was named Chief of Police. He commanded 147 officers.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			2006</dt>
+<dd>
+			CCSDPD received its International Organization for Standardization (I.S.O.) 9001:2000, Management Process Systems (M.P.S.) certification. It was the first time a school-based law enforcement agency had managed to accomplish the feat. At the same time, the Clark County School District became the 5th largest school district in the United States. The District's 326 schools served 302,763 students from a population of 1,710,551 people.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			2007</dt>
+<dd>
+			After many years on the campus of Las Vegas Academy in downtown Las Vegas, School Police Services moved into its new home in nearby Henderson. Shortly thereafter, the new School Police Services headquarters building was inaugurated, providing an even greater police presence in the District. With the departure of Chief Garcia, Captains Filiberto Arroyo and James Ketsaa were named acting Co-Chiefs of Police, and the Department became authorized for a total of 170 police officer positions.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			2008</dt>
+<dd>
+			Following a nationwide search for a new Chief of Police, Superintendent Walt Ruffles appointed Captain Filiberto Arroyo to the position of Chief of Police for CCSDPD It was the first time a member of the Department had been bestowed the honor. Chief Arroyo commanded 146 police officers and 60 civilian employees.<br>
+<br>
+			CCSDPD and the Las Vegas Metropolitan Police Department partnered with local, state and federal law enforcement agencies to establish and operate the Southern Nevada Counter-Terrorism Center (SNCTC). This collaboration allows for horizontal information sharing, a critical component of the all-crimes and all-hazards Fusion Center, which responds to multi-jurisdictional incidents within southern Nevada. CCSDPD permanently assigned a liaison officer to the Center, which operates 24 hours per day, seven days per week. The liaison officer shares information, products, and resources and participates in the coordination of potential or actual incidents.</br></br></dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			2009</dt>
+<dd>
+			CCSDPD established the Special Operations Support Unit which encompasses the Accreditation/Policy Management detail, the Intelligence &amp; Analysis detail, the TALON program, and the Evidence/Property Room. The Unit is supervised by a sergeant who is also CCSDPD's Emergency Preparedness Liaison to the School District and other local agencies. The Administrative Support Unit, which encompasses CCSDPD's Security Specialists, the Computer Forensic Information &amp; Technology detail, and all clerical staff, to include a quartermaster, was also established and falls under the supervision of the Administrative Assistant to the Chief of Police. The Training and Detective Bureaus were enhanced along with the Bureau of Professional Standards, which was expanded to better assist the needs of the School District's Employee Management Relations, Human Resources and Transportation Departments.</dd>
+</dl>
+<dl>
+<dt class="timelineYear">
+			2010</dt>
+<dd>
+			Clark County's population was estimated at 2,106,347 people, of which 309,476 are students attending 356 schools. Those schools, as well as the staff and students who attend them, are served by 168 police officers.</dd>
+<dd>
+			 </dd>
+		2012<br/>
+<dd>
+			Captain James Ketsaa was promoted to Chief of Police and began his 8 year journey serving Clark County as the Chief of CCSDPD.  The Department and community benefited from Chief Ketsaa's extensive knowledge and vast experience.  Chief Ketsaa was a major advocate for technology and progressive policing; as a result Chief Ketsaa implemented major technology changes within the CCSDPD to include a state of the art CAD and RMS system, equipping every officer with handheld devices providing them essential information at their fingertips to improve efficiency and enhancing officer safety.  Chief Ketsaa also deployed a complete body worn camera program in 2014 prior to any other Police Department in Clark County.  Chief Ketsaa equipped the Department with electric conducted weapons which provided officers with an additional less than lethal force option and improved officer safety.  Chief Ketsaa also established the Departments Community Relations unit in 2015 with a goal and mission of enhancing relationships with our community.  He also established the first Motors unit in 2018, dedicated to enforcing traffic laws around schools and the Department’s first K-9 Unit in 2019, trained and tasked with locating firearms on school campuses.  Chief Ketass also implemented the Department’s first social media campaign through Facebook and Twitter designed to open more lines of communication with our community.</dd>
+<br/>
+<dd>
+			CCSDPD continually strives to be the best school-based police department in the nation.</dd>
+</dl>
+</div>
+<p>
+	 </p>
+</div></section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>To report a crime, please select the above link or call our 24/7 dispatch @ 702.799.5411.  
+
+If this is an emergency, please call 911. </section>
+</div> <!-- /sidebar-wrap -->
+</div>

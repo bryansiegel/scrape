@@ -1,0 +1,77 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>Board Governance Policies</h1>
+<p>Comments by the public are welcome.</p>
+<h2>Governance Policies Under Consideration</h2>
+<p>The public is welcome to comment when Governance Policies are under consideration by the superintendent for adoption, amendment, or repeal. The Governance Policies listed in this category will be posted for a period of five (5) business days prior to submission to the Board of School Trustees.</p>
+<p><strong>There are no policies under consideration at this time</strong></p>
+<h2>Notice of Intent</h2>
+<p>State statute requires the Board of School Trustees adopt a Notice of Intent when it considers the adoption, amendment, or repeal of a governance policy. The Notice of Intent provides the public thirteen (13) days notice prior to final action by the Board.</p>
+<p>Reflects the date of the Board meeting discussion/action will be taken on the Notice of Intent.</p>
+<p><strong>There are no policies under consideration at this time</strong></p>
+<h2>Final Action</h2>
+<p>This date will indicate the date of the Board meeting when the final discussion/action will occur. This is the last meeting for public comment on the issue.</p>
+<p><strong>There are no policies under consideration at this time</strong></p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

@@ -1,0 +1,46 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<section class="content-holder">
+<h1>School Websites</h1>
+<h2>Search for School Websites</h2>
+<form action="/schools/websites/.search.php" class="simple-form ajax-search" id="search" method="get" name="search">
+<label for="schoolname">School Name</label><br/>
+<input id="schoolname" name="schoolname" type="text"/><br/>
+<label for="txtschooltype">Grade Level</label>
+<span class="note">Optional</span><br/>
+<select id="txtschooltype" name="adv[txtschooltype]">
+<option value="">Choose...</option>
+<option value="ES">Elementary Schools</option>
+<option value="MS">Middle Schools</option>
+<option value="HS">High Schools</option>
+<option value="SPEC">Special Education</option>
+<option value="ALT">Alternative &amp; Credit Retrieval</option>
+</select><br/>
+<br/><input id="submit" type="submit" value="Search"/>
+<a href="./">Cancel</a>
+</form>
+<div class="ajax-search-results" id="search_results" style="display: none;"></div>
+</section>
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

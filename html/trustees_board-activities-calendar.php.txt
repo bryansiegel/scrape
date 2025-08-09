@@ -1,0 +1,9 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<section class="content-holder">
+<h1>Board Activities Calendar</h1>
+<iframe aria-label="Board Activities Calendar" frameborder="0" height="600" scrolling="no" src="https://calendar.google.com/calendar/embed?src=nv.ccsd.net_v96onmbj798kcgf1l4sarmvd78%40group.calendar.google.com&amp;ctz=America/Los_Angeles" style="border: 0" title="Trustees Board Activities Calendar" width="800"></iframe>
+</section>
+</section></div> <!-- /main_content_wrap -->
+</div>

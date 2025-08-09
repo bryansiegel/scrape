@@ -1,0 +1,94 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<section class="content-holder">
+<h1>Community General Information</h1>
+<h2>Community Information</h2>
+<ul>
+<!--                     		<li><a href="http://www.pledgeofachievement.com" target="_blank">Pledge of Achievement</a></li> -->
+<li><a href="http://ccsd.net/departments/government-affairs" target="_blank">Government Relations</a></li>
+<li><a href="/departments/school-accounting">Facility Usage</a></li>
+<li><a href="/departments/government-affairs/student-enrollment-and-school-capacity">Student Enrollment and School Capacity</a></li>
+<li><a href="/parents/volunteer-chaperone-training/volunteer-chaperone-training">Volunteer Chaperone Training</a></li>
+<li><a href="/community/protect-our-kids">Protect Our Kids</a></li>
+<li><a href="http://facilities.ccsd.net/">Facilities</a></li>
+</ul>
+<h2>Community Projects</h2>
+<ul>
+<li><a href="https://engage.ccsd.net/partnershipopportunities/">Partnership</a></li>
+<li><a href="/community/get-involved">Get Involved</a></li>
+<li><a href="/district/calendar/">Calendars</a></li>
+<li><a href="/schools/support-a-school/">Support a School</a></li>
+</ul>
+<h2>Partnership Programs</h2>
+<ul>
+<li><a href="https://engage.ccsd.net/partnershipopportunities/">Partnership</a></li>
+<!--
+                   			<li><a href="/community/partnership/about-us/advisory-council">Advisory Council</a></li>
+                   			<li><a href="/community/partnership/programs/curriculum-index.php">Curriculum Projects</a></li>
+-->
+<li><a href="https://engage.ccsd.net/volunteer/">Focus School Project</a></li>
+<!--
+                   			<li><a href="/community/partnership/programs/paybac/paybac-index">PAYBAC</a></li>
+                   			<li><a href="/community/partnership/programs/reclaim/reclaim-index">Reclaim Your Future</a></li>
+-->
+<li><a href="https://engage.ccsd.net/saferoutestoschool/">Safe Routes to School</a></li>
+<li><a href="https://engage.ccsd.net/mentorship/">Stay in School Mentoring</a></li>
+<li><a href="/schools/support-a-school">Support a School</a></li>
+</ul>
+<h2>Report A Bully</h2>
+<ul>
+<li><a href="/students/bully/">Say No To Bullying</a></li>
+</ul>
+<h2>Additional Information</h2>
+<ul>
+<li><a href="/schools/websites/" target="_blank">School Websites</a></li>
+<!--                     		<li><a href="http://www.ccsdvictoryschools.net/" target="_blank">Victory Schools</a></li> -->
+<!--                     	<li><a href="http://my.ccsd.net/" target="_blank">my.ccsd.net</a></li> -->
+<li><a href="/district/info/non-discrimination/">Notice of Nondiscrimination</a></li>
+<!--                     		<li><a href="/district/growth-model/">Growth Model</a></li> -->
+<li><a href="/parents/infinite-campus-choice.php">Infinite Campus</a></li>
+<li><a href="http://ccsdarchives.org/" target="_blank">Historic Photos/Archive</a></li>
+<li> <a href="http://pollen.aaaai.org/nab/index.cfm?p=allergenreport&amp;stationid=223" target="_blank">Pollen and Mold Alert</a></li>
+<li><a href="/community/gold-card/" target="_blank">Gold Card for Seniors</a></li>
+<li><a href="/community/mentalhealth/" target="_blank">Mental Health Resources</a> </li>
+</ul>
+</section>
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--?php include($home---><!-- inc['trending']); ?> -->
+<!--
+				<div class="sidebar-banner">
+					<div role="img" aria-label="Question icon"><img src="/_static/images/icons/circle-question.png" class="sidebar-icon" alt="Have Question" ></div>
+					<div class="sidebar-question">Have A Question?</div>
+					<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+					<div class="sidebar-contact">Contact us at</div>
+					<div class="sidebar-phone">702-799-CCSD</div>
+				</div>
+-->
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/@CCSDPartnership" width="260" height="350" data-widget-id="322426958728265728">Tweets by @CCSDPartnership</a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+</div> <!-- /sidebar-wrap -->
+</div>

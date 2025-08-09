@@ -1,0 +1,67 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<style type="text/css">
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}</style>
+<h1>
+<strong style="text-align: justify;">Online Reporting System</strong></h1>
+<div>
+<p><h3>
+<strong>If this is an emergency, dial 911.</strong></h3></p>
+<p>
+		The Clark County School District Police Department online reporting system allows members of the community to initiate a non-emergency, zero suspect report without having to respond to the police station or wait for an officer.  It also allows provides an option to print a copy of the police report at no charge. </p>
+<p>
+		The online reporting system is a convenient way to report incidents where no emergency exists and there are no known suspects.  Some examples of crimes appropriate to report online would be stolen cell phones, bicycles or other property where there are no known suspects.  If any of the following circumstances exist, the report should be initiated by contacting CCSDPD Dispatch at: 702-799-5411 or dial 911:  </p>
+<p>
+		·         A life threatening emergency – dial 911</p>
+<p>
+		·         There are known suspects</p>
+<p>
+		·         Crime in progress</p>
+<p>
+		The Clark County School District Police Department online reporting system will only be used to initiate reports of crimes that occurred on Clark County School District property or at a Clark County School District event held off property, and there are no known suspects.  </p>
+<p>
+		 </p>
+<p>
+<strong>Information needed to when submitting a report:</strong></p>
+<p>
+		·         Where did the incident occur</p>
+<p>
+		·         When did the incident occur</p>
+<p>
+		·         Victim’s information</p>
+<p>
+		·         Witness information if applicable</p>
+<p>
+		·         Lost, stolen, or damaged property must have known serial numbers or owner applied markings</p>
+<p>
+		 </p>
+<p>
+<strong>After submitting the report, what’s next?</strong></p>
+<p>
+		·         A CCSDPD police officer will review the submitted report</p>
+<p>
+		·         A CCSDPD police officer may request further information</p>
+<p>
+		 </p>
+<p>
+		The online reporting system can be used to report the following incidents (please choose one):</p>
+<p>
+		 </p>
+<h2>
+<strong><a href="http://clarkcounty.prophoenix.com/#/home">Lost Property </a></strong></h2>
+<h2>
+<a href="http://clarkcounty.prophoenix.com/#/home"><strong><strong><b>Theft</b></strong></strong></a></h2>
+<h2>
+<strong><strong><b><strong><a href="http://clarkcounty.prophoenix.com/#/home">Vandalism</a></strong></b></strong></strong></h2>
+<p>
+		 </p>
+</div>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

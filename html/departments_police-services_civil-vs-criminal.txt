@@ -1,0 +1,165 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h2 data-end="153" data-start="54">
+	Civil vs. Criminal Traffic Citations </h2>
+<h3>
+	What is the difference?</h3>
+<p data-end="204" data-start="179">
+<u><strong>Civil Traffic Citation:</strong></u></p>
+<ul data-end="419" data-start="205">
+<li data-end="229" data-start="205">
+<p data-end="229" data-start="207">
+			Non-criminal offense</p>
+</li>
+<li data-end="256" data-start="230">
+<p data-end="256" data-start="232">
+			No jail time or arrest</p>
+</li>
+<li data-end="279" data-start="257">
+<p data-end="279" data-start="259">
+			No criminal record</p>
+</li>
+<li data-end="313" data-start="280">
+<p data-end="313" data-start="282">
+			Handled like a parking ticket</p>
+</li>
+<li data-end="350" data-start="314">
+<p data-end="350" data-start="316">
+			Cannot result in a bench warrant</p>
+</li>
+<li data-end="419" data-start="351">
+<p data-end="419" data-start="353">
+			Examples: minor speeding, failure to yield, equipment violations</p>
+</li>
+</ul>
+<p data-end="449" data-start="421">
+<u><strong>Criminal Traffic Citation:</strong></u></p>
+<ul data-end="720" data-start="450">
+<li data-end="481" data-start="450">
+<p data-end="481" data-start="452">
+			Misdemeanor criminal charge</p>
+</li>
+<li data-end="514" data-start="482">
+<p data-end="514" data-start="484">
+			Can result in arrest or jail</p>
+</li>
+<li data-end="547" data-start="515">
+<p data-end="547" data-start="517">
+			Goes on your criminal record</p>
+</li>
+<li data-end="591" data-start="548">
+<p data-end="591" data-start="550">
+			Requires court appearance in many cases</p>
+</li>
+<li data-end="645" data-start="592">
+<p data-end="645" data-start="594">
+			Can lead to a bench warrant if you fail to appear</p>
+</li>
+<li data-end="720" data-start="646">
+<p data-end="720" data-start="648">
+			Examples: DUI, reckless driving, driving without license, no insurance</p>
+</li>
+</ul>
+<p data-end="761" data-start="722">
+<u><strong>Civil Traffic Citations (Post-AB116):</strong></u></p>
+<ul data-end="1253" data-start="762">
+<li data-end="846" data-start="762">
+<p data-end="846" data-start="764">
+			Handled as civil infractions under Nevada law (AB116, effective January 1, 2023)</p>
+</li>
+<li data-end="920" data-start="847">
+<p data-end="920" data-start="849">
+			Issued for low-level traffic offenses (non-injury, non-crash-related)</p>
+</li>
+<li data-end="996" data-start="921">
+<p data-end="996" data-start="923">
+			You’ll get a due date and options to pay the fine or contest the ticket</p>
+</li>
+<li data-end="1036" data-start="997">
+<p data-end="1036" data-start="999">
+			No arrest, jail, or criminal record</p>
+</li>
+<li data-end="1121" data-start="1037">
+<p data-end="1121" data-start="1039">
+			Failure to pay may still result in license suspension, late fees, or collections</p>
+</li>
+<li data-end="1253" data-start="1122">
+<p data-end="1253" data-start="1124">
+			Handled by: Las Vegas Justice Court (for unincorporated areas) or municipal courts in Las Vegas, Henderson, North Las Vegas, etc.</p>
+</li>
+</ul>
+<p data-end="1284" data-start="1255">
+<u><strong>Criminal Traffic Citations:</strong></u></p>
+<ul data-end="1696" data-start="1285">
+<li data-end="1329" data-start="1285">
+<p data-end="1329" data-start="1287">
+			Considered misdemeanors under Nevada law</p>
+</li>
+<li data-end="1373" data-start="1330">
+<p data-end="1373" data-start="1332">
+			May involve mandatory court appearances</p>
+</li>
+<li data-end="1436" data-start="1374">
+<p data-end="1436" data-start="1376">
+			Failure to appear can result in a bench warrant and arrest</p>
+</li>
+<li data-end="1495" data-start="1437">
+<p data-end="1495" data-start="1439">
+			May carry jail time, fines, and points on your license</p>
+</li>
+<li data-end="1533" data-start="1496">
+<p data-end="1533" data-start="1498">
+			You have the right to an attorney</p>
+</li>
+<li data-end="1696" data-start="1534">
+<p data-end="1696" data-start="1536">
+			Examples include: DUI, reckless driving, driving without a valid license, driving without insurance or registration, hit and run, driving on a suspended license.</p>
+</li>
+</ul>
+<p data-end="1731" data-start="1698">
+<u><strong>How to Tell Which One You Have:</strong></u></p>
+<ul data-end="1998" data-start="1732">
+<li data-end="1856" data-start="1732">
+<p data-end="1856" data-start="1734">
+			Look at your citation. It will say either "CIVIL" or "CRIMINAL" in the top right hand corner of your citation.</p>
+</li>
+<li data-end="1954" data-start="1857">
+<p data-end="1954" data-start="1859">
+			Check the court website and enter your citation information.</p>
+</li>
+<li data-end="1998" data-start="1955">
+<p data-end="1998" data-start="1957">
+			Call the court directly if you’re unsure.</p>
+</li>
+</ul>
+<p data-end="2015" data-start="2000">
+<u><strong>Helpful Tips:</strong></u></p>
+<ul data-end="2325" data-start="2016">
+<li data-end="2089" data-start="2016">
+<p data-end="2089" data-start="2018">
+			Don’t ignore a citation. Civil or criminal, consequences still apply.</p>
+</li>
+<li data-end="2138" data-start="2090">
+<p data-end="2138" data-start="2092">
+			Civil citations can often be handled online.</p>
+</li>
+<li data-end="2233" data-start="2139">
+<p data-end="2233" data-start="2141">
+			Criminal citations may affect job applications, background checks, and driving privileges.</p>
+</li>
+<li data-end="2325" data-start="2234">
+<p data-end="2325" data-start="2236">
+			You can always consult a traffic attorney if you're unsure of your rights or next steps.</p>
+</li>
+</ul>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>To report a crime, please select the above link or call our 24/7 dispatch @ 702.799.5411.  
+
+If this is an emergency, please call 911. </section>
+</div> <!-- /sidebar-wrap -->
+</div>

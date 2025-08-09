@@ -1,0 +1,109 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<!-- Prospective employees -->
+<!--<div class="sub-nav-col">
+								<span class="sub-nav-title">Prospective Employees</span>
+								<ul class="sub-nav-list">
+									<li><a href="/employees/prospective/opportunities">Job Opportunities</a></li>
+									<li><a href="/employees/prospective/descriptions">Job Descriptions</a></li>
+									<li><a href="/employees/prospective/applications">Job Applications</a></li>
+									<li><a href="/employees/prospective/information">Useful Information</a></li>
+								</ul>
+							</div>-->
+<!-- Current employees -->
+<div class="sub-nav-col">
+<span class="sub-nav-title">Employee Information</span>
+<ul class="sub-nav-list">
+<li><a href="https://ccsd.net/district/policies-regulations/">CCSD Policies &amp; Regulations</a></li>
+<li><a href="/employees/current/benefits">Employee Benefits</a></li>
+<li><a href="/employees/current/employment/information">Employment Information</a></li>
+<li><a href="/employees/current/employment/health">Health Information</a></li>
+<li><a href="https://www.ccsd.net/employees/prospective/">Job Opportunities</a></li>
+<li><a href="/employees/current/employment/salary">Salary Information</a></li>
+<li><a href="/employees/current/employment">More Information</a></li>
+</ul>
+</div>
+<div class="sub-nav-col">
+<span class="sub-nav-title">Employee Services</span>
+<ul class="sub-nav-list">
+<li><a href="https://ess.ccsd.net" target="_blank">Employee Self Service (ESS)</a></li>
+<li><a href="/employees/current/services/change-of-address">Change of Address</a></li>
+<li><a href="/employees/current/services/id-badge">I.D. Badge</a></li>
+<li><a href="/employees/current/employment/health">TB Testing</a></li>
+<li><a href="/employees/current/services/substitute-request">Request a Substitute (SmartFind Express)</a></li>
+<li><a href="/employees/current/services">More Services</a></li>
+</ul>
+</div>
+<div class="sub-nav-col">
+<span class="sub-nav-title">Employee Resources</span>
+<ul class="sub-nav-list">
+<li><a href="/employees/current/resources">All Employees</a></li>
+<li><a href="/employees/current/resources/#admin">Administrators</a></li>
+<li><a href="/employees/current/resources/#sub">Substitutes</a></li>
+<li><a href="/employees/current/resources/#support">Support Staff</a></li>
+<li><a href="/employees/current/resources/#teacher">Licensed Personnel</a></li>
+<li><a href="/employees/current/resources">More Resources</a></li>
+</ul>
+</div>
+
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar_wrap -->
+</div>

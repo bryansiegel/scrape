@@ -1,0 +1,78 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>Finance and Operations</h1>
+<p>The following are key items of interest in the areas of finance, budget, and capital programs for the Clark County School District.
+		As we proceed into the next Legislative session, information will be provided in an effort to keep parents, employees, taxpayers, 
+		and students apprised of financial information affecting the District.</p>
+<h2>Budget Update</h2>
+<p>
+		The Board adopted it's Tentative Budget for the 2012-2013 fiscal year on April 11, 2012. The links below are to the presentation 
+		made to the Board and the budget required to be submitted to the state Department of Taxation. The Board will adopt it's Final Budget 
+		for the 2012-2013 fiscal year at a special meeting on May 16, 2012, at 5:00pm. At that time, the superintendent and staff will present
+		 updated recommendations for next year's budget, including any changes due to the recently arbitrated contract with the Clark County 
+		 Education Association (CCEA).
+		 </p>
+<p>
+<a href="/resources/operations-support-unit/news/attachments/Ref-4_01-Tentative_Budget_Presentation.pdf">Tentative Budget Presentation</a><br>
+<a href="/resources/operations-support-unit/news/attachments/Tentative_Budget_FY_13-State_Forms.pdf">Tentative Budget Fiscal Year 2013 - State Forms</a>
+</br></p>
+<h2>Capital Plan</h2>
+<p>
+		   At it's April 2, 2012 work session, the Board authorized staff to proceed with planning for a 6-year 21.2 cent capital levy. Ultimately,
+		   if certain additional approvals are achieved, this initiative will be placed on the ballot in November for voter approval. This capital
+		   program would be for a debt-free pay-as-you-go program that would provide an estimated $669 million for school capital improvements 
+		   over the next 6 years. The linked documents are presentations made to the Board, beginning in February and culminating in the last 
+		   presentation made at the May 2nd meeting. The option adopted by the Board, and referenced in the presentations, is Option 2.
+		   </p>
+<p>
+<a href="/resources/operations-support-unit/news/attachments/Bond_Planning.pdf">Bond Planning</a><br>
+<a href="/resources/operations-support-unit/news/attachments/Bond_QA.pdf">Bond Question and Answer</a><br>
+<a href="/resources/operations-support-unit/news/attachments/Bond_Presentation_to_Board.pdf">Bond Presentation to Board</a><br>
+<a href="/resources/operations-support-unit/news/attachments/Capital_Funding_Options.pdf">Capital Funding Options</a>
+</br></br></br></p>
+<div id="news_page_wrap">
+<!--<p>No items at this time.</p>--> </div>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

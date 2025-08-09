@@ -1,0 +1,51 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- MAIN CONTENT -->
+<div id="main_content">
+<section class="content-holder">
+<h1>School Contact Information</h1>
+<div>
+<div class="addr-txt">
+<h2 style="color: #444;font-size: 21px;line-height: 27px;margin: 20px 0 10px">
+                BONNER, JOHN W. ES<br/>
+</h2>
+<!-- 		Principal:  -->
+<p>Principal:  Kirkhart, David L<br>
+<!-- 		Principal:  -->
+<!--         <a href="/schools/contact-information/">Link to this page</a> -->
+<!-- 								$principle = $match['TXTADMINISTRATOR']; -->
+<!-- 								Kirkhart, David L --><!-- <br> -->
+                                765 CRESTDALE LANE<br>
+                                LAS VEGAS, NV 89144<br>
+                                Phone: 702-799-6050<br/>
+                                Fax: 702-799-6056<br/>
+<a href="http://maps.google.com/maps?q=765 CRESTDALE LANE,+LAS VEGAS,+NV+89144">Map</a>
+                                 | <a href="https://www.bonnerelementary.com/">Website</a> </br></br></br></p>
+<b>Region:</b> 2                                                             <p><b>Motto:</b> Bonner Bobcats are "PAWSitive"</p> <p><b>Mission:</b> The mission of John W. Bonner Elementary is to provide a nurturing, constructive environment for all students to learn and be successful.  Our goal is to foster and build an enriched instructional community that delivers a sound academic based education while accommodating individual learning styles.  Through collaborative effort, we will establish a continuing communication between students, staff, parents and community.</p>
+</div>
+</div>
+</section>
+</div><!-- /main_content -->
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

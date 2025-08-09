@@ -1,0 +1,51 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- MAIN CONTENT -->
+<div id="main_content">
+<section class="content-holder">
+<h1>School Contact Information</h1>
+<div>
+<div class="addr-txt">
+<h2 style="color: #444;font-size: 21px;line-height: 27px;margin: 20px 0 10px">
+                GOLDFARB, DANIEL ES<br/>
+</h2>
+<!-- 		Principal:  -->
+<p>Principal:  Fernandez, Jane B<br>
+<!-- 		Principal:  -->
+<!--         <a href="/schools/contact-information/">Link to this page</a> -->
+<!-- 								$principle = $match['TXTADMINISTRATOR']; -->
+<!-- 								Fernandez, Jane B --><!-- <br> -->
+                                1651 ORCHARD VALLEY DRIVE<br>
+                                LAS VEGAS, NV 89142<br>
+                                Phone: 702-799-1550<br/>
+                                Fax: 702-799-1556<br/>
+<a href="http://maps.google.com/maps?q=1651 ORCHARD VALLEY DRIVE,+LAS VEGAS,+NV+89142">Map</a>
+                                 | <a href="http://www.goldfarbschool.org">Website</a> </br></br></br></p>
+<b>Region:</b> 3                                                             <p><b>Motto:</b> Daniel Goldfarb Elementary - A Community of Learners Growing Together.</p> <p><b>Mission:</b> At Daniel Goldfarb Elementary we engage in a partnership with administration, staff, students, families, businesses, and community members. We support and maintain effective communication within our K-12 region and community. Our students engage in a balanced comprehensive core curriculum integrating innovations in technology. Our learning environment promotes high standards, ensures equal access for all students, and holds everyone accountable for student achievement.</p>
+</div>
+</div>
+</section>
+</div><!-- /main_content -->
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

@@ -1,0 +1,18 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h2>
+	Bulk Ordering</h2>
+<p>
+	If you would like to order USDA approved items for a PTA, PTO, or school event please click on the link below for the order form.  Your order will then be processed and the items will be delivered on the date requested with your school’s regular food service delivery.  We will send you an invoice for your items and you can pay with a check.  We need at least 5 business days to process an order.  If you have any questions please contact Amy Scott at (702) 799-8123 X5112 or email FoodServiceOrders@nv.ccsd.net.</p>
+<p>
+<a href="https://goo.gl/forms/Ym512WnoZ6c0jTk63">Bulk Order Form</a></p>
+<p>
+	 </p>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

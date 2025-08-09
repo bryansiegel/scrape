@@ -1,0 +1,27 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Selection Process for Interested Applicants</h1>
+<ul>
+<li><a href="/employees/prospective/j-1/index.php">J-1 Program Description</a></li>
+<li><a href="/employees/prospective/j-1/sponsor-parterships.php">Sponsor Partnerships</a></li>
+<li><a href="/employees/prospective/j-1/hiring-agencies.php">Recruiting Agencies</a></li>
+<li><a href="/employees/prospective/j-1/annual-renewal.php">Annual Renewals</a></li>
+<li><a href="/employees/prospective/j-1/extensions.php">Extensions</a></li>
+</ul>
+<h2>J-1 Visa Candidates Applying from Outside of the United States</h2>
+<p>Candidates coming from outside of the United States interested in applying to the Clark County School District may email <a href="mailto:recruitment@nv.ccsd.net">recruitment@nv.ccsd.net</a> for additional information and to be connected with a recruiter.</p>
+<p>If you are a recruiting agency seeking to partner with CCSD, please visit the Recruiting Agencies link for more information on how to become a partner.</p>
+<p>Interested candidates must also be sponsored by one of the District’s three preferred sponsoring agencies: Teachers Council, HRC International, or Global Ambassadors.  Please review the process description below.</p>
+<h2>Hiring Process for J-1 Visa Candidates from Outside of the United States</h2>
+<p>CCSD hires candidates through sponsors and recruitment agencies that provide eligible candidates.  Central office and school-based administrators conduct initial interviews, and candidates are selected based on their classroom experience (a minimum of three years), their proficiency with written and spoken English, and their knowledge and training as determined in an interview to receive conditional offers of employment.  The conditions of the offer are that the candidate must be able to license in the State of Nevada in Special Education, Mathematics, Science, or Elementary Education, must clear a background check including the submission of fingerprints, and must be granted a visa by the U.S. Embassy and/or Consulate in the home country. </p>
+<p>The candidates that have received conditional offers must then apply to specific schools.  School principals interview the applicants and make recommendations for hire.  <!--The Human Resources Talent Acquisition Teams conduct hiring fairs to assist J-1 Visa applicants that have received early offers in connecting with schools and principals to facilitate interviews.-->  Specific school offers must be received prior to the teacher’s arrival to the U.S. to begin his/her program.
+</p>
+<p>Candidates seeking J-1 Visas and a position in CCSD must participate in this selection process.  International teachers attempting to bypass this process by applying directly to schools will be disqualified unless or until they follow the process and receive a conditional offer.</p>
+<p>The initial candidate review and selection process, which includes the early offer of employment, occurs each year between January 1 and January 31.  Once the initial candidate selection process is complete, no additional candidates will be reviewed or selected.</p>
+<h2>J-1 Visa candidates who are currently employed in a school district in the United States</h2>
+<p>J-1 Visa applicants who have a current teaching license in the state where they work, and who are seeking to transfer to CCSD may do so without going through a preferred hiring partner per the process described above; however, they must meet District vetting requirements and have a valid Nevada License.  J-1 Visa holders seeking to transfer from another school district in the United States must have at least three years left in their program (including visa extension).  CCSD does not accept J-1 Visa holders transferring from another school district in the fourth or fifth year of their program. </p>
+<p>Additionally, these candidates should be sponsored by one of our three preferred sponsors: Teacher Council, HRC International, or Global Ambassadors; however, candidates with other sponsors will be evaluated on a case-by-case basis.</p>
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

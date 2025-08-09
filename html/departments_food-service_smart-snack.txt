@@ -1,0 +1,36 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1 style="color:black;font-size:28px;text-align:left;">
+	Smart Snack Guidelines</h1>
+<p>
+	Starting in School Year 2014-15, all foods sold or given away at school during the school day are required to meet nutrition standards. The Smart Snacks in School regulation applies to foods sold a la carte, in the school store, vending machines, and any other venues where food is sold or handed out to students during school hours. School hours are defined as from midnight before to 30 minutes after the end of the school day.</p>
+<p>
+<strong>An easy to read 2-page handout that outlines the Smart Snack Guidelines</strong></p>
+<p>
+<a href="/resources/food-service/smart-snack-guidelines.pdf">Smart Snack Guidelines Infographic</a></p>
+<p>
+<strong>A 16-Page Handbook to assist schools in implementing Smart Snacks in Schools </strong></p>
+<p>
+<a href="https://fns-prod.azureedge.us/sites/default/files/resource-files/smartsnacks.pdf">A guide to Smart Snacks in Schools</a></p>
+<p>
+	 </p>
+<h2>
+	Smart Snack Approved List and Process</h2>
+<p>
+<strong>Up to date listing of items that meet the Smart Snacks in Schools standards</strong></p>
+<p>
+<a href="https://docs.google.com/spreadsheets/d/10JKjkc7JvwCvOErQqYnBYhLqAldR3EDQywhXr3pGa_s/edit?gid=174847587#gid=174847587">CCSD Smart Snack Approved List </a></p>
+<h3>
+	Smart Snack Approval Process</h3>
+<p>
+	If you would like to submit an item to be reviewed for potential addition to the Smart Snack Approved List, please start here.</p>
+<p>
+<a href="https://docs.google.com/forms/d/1e5HE6saXzn3iwaojIPla5xLiGHvWrftg9KNxrdt7o-4/edit">Smart Snack Approval Process</a></p>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

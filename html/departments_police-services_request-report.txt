@@ -1,0 +1,24 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h2>
+	Requesting Reports</h2>
+<p data-end="105" data-start="68" style="text-align: justify;">
+	Police records are available to the public <strong>Monday through Friday</strong>, excluding holidays and Thursdays,<strong> between the hours of 8:00 a.m. and 3:30 p.m.</strong> Records can be obtained at the Clark County School District Police Department, located at 120 Corporate Park Drive, Henderson, NV 89074.</p>
+<p data-end="583" data-start="390" style="text-align: justify;">
+	Individuals requesting records will be notified by the Records Unit regarding the availability of their report. A valid government-issued photo ID is required when retrieving records in person.</p>
+<p data-end="956" data-start="585" style="text-align: justify;">
+<strong data-end="601" data-start="585">Please Note:</strong><br data-end="604" data-start="601">
+	Information involving juveniles is protected by law. If you are identified as a victim in an incident or crime report, you are entitled to receive a copy once the investigation has been completed. The Records Unit will process the necessary documentation and contact the requester once a determination has been made regarding the release of the report.</br></p>
+<p data-end="1174" data-start="958" style="text-align: justify;">
+	In accordance with department policy, only individuals named in a report—or their legal representatives—may be eligible to receive a copy. Witnesses are only permitted access to a copy of their own written statement.</p>
+<p data-end="1174" data-start="958" style="text-align: justify;">
+	If you have any questions or comments about the Records Unit, please call <a href="http://tel:7027997830;ext=5225">(702) 799-7830 x5225</a>.</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>To report a crime, please select the above link or call our 24/7 dispatch @ 702.799.5411.  
+
+If this is an emergency, please call 911. </section>
+</div> <!-- /sidebar-wrap -->
+</div>

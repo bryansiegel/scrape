@@ -1,0 +1,21 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<img alt="rave-review-title-thumbnail" height="106" src="/_static/images/pages/rave-review-title-thumbnail.png" width="182">
+<h1>Recognize A Valued Employee</h1>
+<h2>What is a RAVE Review?</h2>
+<p>A RAVE (Recognize A Valued Employee) Review is an unsolicited acknowledgement of a CCSD employee who has demonstrated a special effort, a job well done, a project of quality workmanship and/or a caring and sensitive attitude. A RAVE review is not just a pat on the back for doing a good job. Rather it is recognition for something exemplary and gives you the opportunity to recognize a CCSD employee who has truly gone above and beyond the call of duty.</p>
+<p><a href="https://ccsdapps.net/v/rave" target="_blank">Submit</a> a RAVE</p>
+<!--<h2>Who can submit a RAVE Review?</h2>
+					<p>Students, parents, teachers, administrators, coworkers, and all community members.</p>-->
+<!--
+                    <h2>Longevity Pins/Certificates</h2>
+                    <p>Longevity pins have returned! Employees who have completed 10, 15, 20, 25, and 30 years of service will receive a pin and certificate from their supervisor.</p>
+
+                    <h2>Perfect Attendance Certificates</h2>
+                    <p>Perfect Attendance certificates are here! Employees who earned perfect attendance in the 2018-2019 school year will be sent an electronic perfect attendance
+                        certificate to their supervisor.</p>
+-->
+</img></section>
+</div>
+</div>

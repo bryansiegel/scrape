@@ -1,0 +1,84 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Community Resources</h1>
+<p>
+	Disclaimer: The Education Services Division web site has links to non-Clark County School District community agencies and resources. References in these community web sites, or in any information or documents contained therein, pertained to any specific commercial or non-commercial products, process, service, manufacturer, individual or company does not constitute its endorsement or recommendation by the Clark County School District or Education Services Division.</p>
+<p>
+<a href="http://www.aap.org" target="_blank">American Academy of Pediatrics (AAP)</a> is an organization of 60,000 pediatricians committed to the attainment of optimal physical, mental, and social health and well-being for all infants, children, adolescents and young adults.</p>
+<p>
+<a href="https://ase.tufts.edu/cfw/" target="_blank">Child &amp; Family WebGuide</a> is a directory that evaluates, describes and provides links to hundreds of sites containing child development research and practical advice.</p>
+<p>
+<a href="http://clarkcountynv.gov/family-services/Pages/default.aspx" target="_blank">Clark County Department of Family Services</a> is the local public agency whose role is to help keep children safe, as required by the federal Adoption and Safe Families Act. The agency was formed on July 1, 2002 in response to the merger of state and county child welfare services. Some services offered by the agency are the following: Child Abuse Hotline (702) 399-0081, Child Protective Services, Child Haven and emergency shelter homes, Children's Advocacy Center, and the Parenting Project.</p>
+<p>
+<a href="http://www.southernnevadahealthdistrict.org/" target="_blank">Clark County Health District</a>: The Health Education staff works to provide comprehensive health education and information resources for Clark County residents. Professional health educators work with the community and media to provide health education and information programs for schools, professional groups and the public at large. For more information call (702) 759-1270.</p>
+<p>
+<a href="http://www.disciplinehelp.com" target="_blank">DisciplineHelp.com</a> is a reference source for resolving over 117 misbehaviors at school and home, and has a wealth of resources for parents and school personnel.</p>
+<p>
+	Focus Adolescent Services is an internet clearinghouse of information and resources to help and support families with troubled and at-risk teens.</p>
+<p>
+<a href="https://theharborlv.com/" target="_blank">THE HARBOR</a> is an organization that provides services to youth and their families to improve connectedness to the community through academic achievement, reducing truancy and providing a safe place for guidance and to help young individuals away from the juvenile justice system.</p>
+<p>
+<a href="http://www.helpsonv.org" target="_blank">HELP of Southern Nevada</a> offers a variety of programs and services to help individuals and families increase their self-sufficiency and become less dependent on government assistance.</p>
+<p>
+<a href="http://www.clarkcountynv.gov/jjs/Pages/default.aspx" target="_blank">Juvenile Justice Services</a> is a unique and complex public service agency that performs more than the traditional Juvenile Court functions of probation and detention. The department provides intervention services, guidance and control for children ages 18 and under who are involved in delinquency. Call for more information (702) 455-5200.</p>
+<p>
+<a href="http://www.safeyouth.org/scripts/index.asp" target="_blank">National Youth Violence Prevention Resource Center</a> is a “one-stop shop” for information on youth violence prevention, sponsored by the Centers for Disease Control and Prevention and other Federal agencies.</p>
+<p>
+<a href="http://www.nevadacheckup.state.nv.us/" target="_blank">Nevada Check Up</a> program (Children's Health Insurance Program) provides low-cost, comprehensive health care coverage to low income, uninsured children (birth through 18) who are not covered by private insurance or Medicaid while: (1) promoting health care coverage for children; (2) encouraging individual responsibility; (3) working with public and private health care providers and community advocates for children.</p>
+<p>
+<a href="http://www.nevadajobconnect.com/" target="_blank">Nevada JobConnect</a> is charged with overseeing and providing workforce development services to employers and job seekers of Nevada. For employers, Nevada JobConnect offers recruiting, retention, training and retraining, and outplacement services as well as valuable information on labor law and labor market statistics. For job seekers, Nevada JobConnect offers career development information, job search resources, training programs, and, as appropriate, unemployment benefits. While targeted populations receive intensive assistance to overcome barriers to employment all Nevadans can benefit from the services offered by Nevada JobConnect and their network of workforce partners. Primary services of Nevada JobConnect and their network partners are funded by federal tax revenue and are generally free to all Nevadans.</p>
+<p>
+<a href="http://www.nevadahomelessyouth.org/" target="_blank">Nevada Partnership for Homeless Youth</a> seeks to eliminate homelessness among Nevada's youth.</p>
+<p>
+<a href="http://www.theantidrug.com" target="_blank">Parents. The Anti-Drug.</a> Parenting site launched by the National Drug Control Policy.</p>
+<p>
+<a href="http://www.standupforkids.org/" target="_blank">ParenTeen Solutions</a> is a program designed for parents of youths 11 to 17 years old. The program focuses on family strengths and fosters growth and trust between parents and youths. Parents learn the importance of clear rules and consistent supervision to balance their child's behavior with positive social development. The program shows parents how to develop and practice a consistent, positive approach to discipline that teaches self- responsibility. Parents and youths participate in problem-solving and conflict resolution activities designed to promote a caring family environment. Call for more information (702) 455-5295.</p>
+<p>
+	STANDUP FOR KIDS is a nationally acclaimed volunteer organization committed to the rescue of homeless and street kids.</p>
+<p>
+	Youth Employment Services: Nevada’s state and local workforce investment boards and the Department of Employment, Training and Rehabilitation, are dedicated to the development of policy and program initiatives to promote training, education, and job opportunities to help youth succeed as lifelong learners, productive workers, and self-sufficient, responsible citizens.</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

@@ -1,0 +1,92 @@
+<div class="content-wrap" id="content_wrap">
+<section class="content-holder">
+<div class="aux-nav-wrap sticky-top" style="width:955px;">
+<div align="center" id="aux_nav_choice" style="width:955px;background: #1771b7;margin-left: auto;margin-right: auto;align-content: center;">
+<div class="dropdown2">
+<a class="dropbtn page-link" data-page="#collapseThree" href="https://sites.google.com/nv.ccsd.net/lpld/home" id="myID" style="width: auto;padding-bottom: 10px;padding-left: 15px;">Leadership and Professional Learning Division</a> 
+<!--
+			    <div class="dropdown-content" style="width:560px;">
+			        <ul id="myID" style="list-style-type: none;"></li>
+			            <li><a href="https://sites.google.com/nv.ccsd.net/leadershipdevelopment/principal-pathway">Principal Pathway</a></li>
+						<li><a href="https://sites.google.com/nv.ccsd.net/leadershipdevelopment/new-administrator-pathway">New Administrator Pathway</a></li>
+			        
+ 					</ul>
+			    </div>
+-->
+</div>
+<div class="dropdown2">
+<a class="dropbtn page-link" data-page="#collapseThree" href="https://sites.google.com/nv.ccsd.net/lpld/home" id="myID" style="width: auto;padding-bottom: 10px;padding-left: 15px;">Leadership Development</a> 
+			    <div class="dropdown-content" style="width:560px;">
+<ul id="myID" style="list-style-type: none;">
+<li><a href="https://sites.google.com/nv.ccsd.net/leadershipdevelopment/principal-pathway">Principal Pathway</a></li>
+<li><a href="https://sites.google.com/nv.ccsd.net/leadershipdevelopment/new-administrator-pathway">New Administrator Pathway</a></li>
+<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1zYWJOYiijTcno2bXy5ESUvWCVBqDROXwxi6F4Qyv7960dA/viewform">LPLD Submission of Professional Learning Hours</a></li>
+</ul>
+</div>
+</div>
+<div class="dropdown2">
+<a class="dropbtn page-link" data-page="#collapseThree" href="https://sites.google.com/nv.ccsd.net/ccsdeod/home" id="myID" style="width: auto;padding-bottom: 10px;padding-left: 15px;">Employee Onboarding</a> 
+			    <div class="dropdown-content" style="width:560px;">
+<ul id="myID" style="list-style-type: none;">
+<li><a href="https://sites.google.com/nv.ccsd.net/ccsdeod/support-professionals">Support Staff</a></li>
+<li><a href="https://sites.google.com/nv.ccsd.net/ccsdeod/new-teachers">New Teachers</a></li>
+</ul>
+</div>
+</div>
+<div class="dropdown2">
+<a class="dropbtn page-link" data-page="#collapseFour" href="https://ccsd.instructure.com/courses/1283180" id="myID" style="width: auto;padding-bottom: 10px;padding-left: 15px;">Professional Learning Education</a> 
+			    <div class="dropdown-content" style="width:560px;margin-left: -145px;">
+</div>
+</div>
+<div class="dropdown2">
+<a class="dropbtn page-link" data-page="#collapseFour" href="https://sites.google.com/nv.ccsd.net/ccsdeod/new-teachers" id="myID" style="width: auto;padding-bottom: 10px;padding-left: 15px;">Teacher Leadership Department</a> 
+			    <div class="dropdown-content" style="width:560px;margin-left: -15px;">
+<ul id="myID" style="list-style-type: none;">
+<li><a href="https://sites.google.com/nv.ccsd.net/teacherleadershipdepartment/teacher-leader-pathway">Teacher Leadership Pathway</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div></section>
+<main class="main-content-wrap page-content" id="main_content_wrap">
+<section class="content-holder">
+<h1>Leadership and Professional Learning Division</h1>
+<!-- Prospective employees -->
+<p>The Leadership and Professional Learning Division engages Clark County School District employees in high-quality professional learning and innovative leadership opportunities that cultivate motivation, promote engagement, and create pathways for professional growth and career advancement.</p>
+<hr/>
+<h2>Contact Information</h2>
+<strong>Leadership and Professional Development Division<br>
+					Professional Learning Education Department</br></strong>
+					Phone: 702-799-1921
+				</section>
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap" style="margin-right: 50px;">
+<!--?php include($home---><!-- inc['trending']); ?> -->
+<div class="sidebar-banner">
+<div aria-label="question icon" role="img"><img alt="Question Icon" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

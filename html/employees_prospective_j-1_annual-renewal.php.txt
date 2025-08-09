@@ -1,0 +1,30 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Annual Renewals</h1>
+<ul>
+<li><a href="/employees/prospective/j-1/index.php">J-1 Program Description</a></li>
+<li><a href="/employees/prospective/j-1/selection-process.php">Selection Process for Interested Applicants</a></li>
+<li><a href="/employees/prospective/j-1/sponsor-parterships.php">Sponsor Partnerships</a></li>
+<li><a href="/employees/prospective/j-1/hiring-agencies.php">Recruiting Agencies</a></li>
+<!--           <li><a href="/employees/prospective/j-1/annual-renewal.php">Annual Renewals</a></li> -->
+<li><a href="/employees/prospective/j-1/extensions.php">Extensions</a></li>
+</ul>
+<p>Visas are typically issued by the Embassy in the applicants’ home country for a period of three years. SEVIS records for each teacher are updated annually to ensure teachers are in good standing and have updated information on their record.  Monthly wellness check-ins and annual reports, detailing how they have participated in cross-cultural activities, are a factor in the renewal process.  Any participant who has pursued a change of status to another visa type is no longer eligible to participate in the BridgeUSA Exchange Visitor program.
+                </p>
+<!--
+			<hr />
+
+        <ul>
+          <li><a href="/employees/prospective/j-1/selection-process.php">Selection Process for Interested Applicants</a></li>
+          <li><a href="/employees/prospective/j-1/sponsor-parterships.php">Sponsor Partnerships</a></li>
+          <li><a href="/employees/prospective/j-1/hiring-agencies.php">Hiring Agencies</a></li>
+          <li><a href="/employees/prospective/j-1/annual-renewal.php">Annual Renewals</a></li>
+          <li><a href="/employees/prospective/j-1/extensions.php">Extensions</a></li>
+      
+        </ul>
+        
+-->
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

@@ -1,0 +1,23 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<p>
+	24/7 Dispatch</p>
+<p>
+	Investigations</p>
+<p>
+	Training</p>
+<p>
+<a href="https://ccsd.net/departments/police-services/traffic">Traffic</a></p>
+<p>
+	K9</p>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>To report a crime, please select the above link or call our 24/7 dispatch @ 702.799.5411.  
+
+If this is an emergency, please call 911. </section>
+</div> <!-- /sidebar-wrap -->
+</div>

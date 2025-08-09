@@ -1,0 +1,137 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Adult Education &amp; Sunset High Schools</h1>
+<p>
+	 </p>
+<h2>
+	Adult Education</h2>
+<h3>
+	Concurrent and/or Full-Time Enrollment</h3>
+<p>
+	Adult Education is an educational program designed to serve adults and out of school youths, 18 years of age or older, who desire to earn a high school diploma or obtain a Nevada State Certificate of High School Equivalency. There is no fee for out of school youth and adults. The program also serves students enrolled in comprehensive or non-traditional schools (concurrent students) who desire to make up high school credits..For additional information call 702-799-8650.</p>
+<p>
+<strong><a href="https://www.clarkcountyadulteducation.net/" target="_blank">Our Web Site</a></strong></p>
+<h2>
+	High School Equivalency Certificate (HSE)</h2>
+<div align="center">
+	(Nevada State Certificate of High School Equivalency)</div>
+<p>
+	In the absence of a high school diploma, the High School Equivalency Test (HSE) is used as a measure of an individual's basic competencies in the areas of English (writing and literature), social studies, science, and mathematics. Individuals who desire to pursue a Nevada State Certificate of High School Equivalency must meet the following requirements:</p>
+<ul>
+	1. 17 years of age or older w/parental permission (16 year olds require administrative approval)<br>
+	2. Officially withdrawn from school;<br>
+	3. Registration;<br/>
+	4. HSE testing fee of $65.00; and<br/>
+	5. Proof of identity (i.e. valid drivers license or DMV identification card).
+</br></br></ul>
+<p>
+	Counseling services are mandatory and are available to all enrolled and prospective students. Students may be counseled on a walk-in or an appointment basis at various locations throughout Clark County. For information regarding the HSE program call 702-799-8650 extension 5306.</p>
+<p>
+<a href="https://clarkcountyadulteducation.net/">Website</a></p>
+<hr/>
+<h2>
+	Sunset High Schools</h2>
+<table class="simple-table" width="100%">
+<tbody>
+<tr>
+<td colspan="2">
+<h2>
+					Burk Horizon Southwest Sunrise High School</h2>
+<p>
+					Concurrent and/or Full-Time Enrollment</p>
+<p>
+					Sunset High Schools provide a unique academic setting for students who desire a non-traditional program, including those who have already dropped out and are under 21 years of age. These programs operate during the evening, and offer concurrent and full-time enrollment options.</p>
+<p>
+					Burk Sunset High School 702-799-8150</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="bottom" width="50%">
+<a href="/resources/education-services-division/burk-horizon-sunset-sw.pdf">Map to School</a></td>
+<td align="center" valign="bottom" width="50%">
+<a href="https://sites.google.com/nv.ccsd.net/burkhighschool/">Website</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<h2>
+					Cowan Sunset Southeast High School</h2>
+<p>
+					Concurrent and/or Full-Time Enrollment</p>
+<p>
+					Sunset High Schools provide a unique academic setting for students who desire a non-traditional program, including those who have already dropped out and are under 21 years of age. These programs operate during the evening offer concurrent and full-time enrollment options.</p>
+<p>
+					Cowan Sunset Southeast High School 702-799-6370</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="bottom" width="50%">
+<a href="/resources/education-services-division/cowan-sunset-southeast.pdf">Map to School</a></td>
+<td align="center" valign="bottom" width="50%">
+<a href="https://sites.google.com/nv.ccsd.net/cowan-sunset-hs/home">Website</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<h2>
+					Morris Sunset East High School</h2>
+<p>
+					Concurrent and/or Full-Time Enrollment</p>
+				Sunset High Schools provide a unique academic setting for students who desire a non-traditional program, including those who have already dropped out and are under 21 years of age. These programs operate during the evening offer concurrent and full-time enrollment options.
+				<p>
+					Morris Sunset East High School 702-799-8880</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="bottom" width="50%">
+<a href="/resources/education-services-division//morris-sunset.pdf">Map to School</a></td>
+<td align="center" valign="bottom" width="50%">
+<a href="https://morriseast.ccsd.net/">Website</a></td>
+</tr>
+</tbody>
+</table>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

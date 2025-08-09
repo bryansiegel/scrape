@@ -1,0 +1,51 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- MAIN CONTENT -->
+<div id="main_content">
+<section class="content-holder">
+<h1>School Contact Information</h1>
+<div>
+<div class="addr-txt">
+<h2 style="color: #444;font-size: 21px;line-height: 27px;margin: 20px 0 10px">
+                EISENBERG, DOROTHY ES<br/>
+</h2>
+<!-- 		Principal:  -->
+<p>Principal:  Macduffee, Stephanie Ann <br>
+<!-- 		Principal:  -->
+<!--         <a href="/schools/contact-information/">Link to this page</a> -->
+<!-- 								$principle = $match['TXTADMINISTRATOR']; -->
+<!-- 								Macduffee, Stephanie Ann  --><!-- <br> -->
+                                7770 DELHI AVENUE<br>
+                                LAS VEGAS, NV 89129<br>
+                                Phone: 702-799-4680<br/>
+                                Fax: 702-799-4677<br/>
+<a href="http://maps.google.com/maps?q=7770 DELHI AVENUE,+LAS VEGAS,+NV+89129">Map</a>
+                                 | <a href="https://eisenbergelementary.weebly.com/">Website</a> </br></br></br></p>
+<b>Region:</b> 1                                                             <p><b>Motto:</b> Believe to Achieve</p> <p><b>Mission:</b> The Dorothy Eisenberg/Marc Kahre Cooperating Schools are committed to providing a safe, supportive environment, where responsibility for academic achievement and productive citizenship is shared by all.</p>
+</div>
+</div>
+</section>
+</div><!-- /main_content -->
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

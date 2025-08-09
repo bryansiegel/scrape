@@ -1,0 +1,271 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-full-wrap" id="main_content_wrap">
+<div class="sticky-top trustee-nav" style="margin-top: -20px;">
+<a class="trustee-link" href="/trustees/details/index.php" style="color:#ffffff;">Meet Your School District Trustees</a>
+</div>
+<section class="content-holder">
+<div style="width: auto; margin-left: 139px; margin-right: 139px;">
+<img alt="Trustee Group" border="0" src="/trustees/includes/images/bio/CCSD-Sahara-Ext.jpg" style="width:600px; height:auto;"/>
+<!-- 		  	<img src="/trustees/includes/images/bio/Trustee-Group2.jpg" alt="Trustee Group" style="width:600px; height:auto;"  border="0"> -->
+</div>
+<h1>Trustee General Information</h1>
+<a name="vision"></a>
+<h2>Vision Statement of the Board of School Trustees</h2>
+<p>All students progress in school and graduate prepared to succeed and contribute in a diverse global society.</p>
+<hr/>
+<h3><a href="https://docs.google.com/document/d/1PIwUlrlx3-AabHq6UkwNM3Ua6AUkgNz6Wa8WvW-GV74/view?tab=t.0" target="_blank">NIAA Parent/Guardian Representative Application</a></h3>
+<p>CCSD is accepting applications for a Parent/Guardian Representative to serve on the Nevada Interscholastic Activities Association (NIAA) Board of Control. The applicant must have a student currently participating in a sanctioned high school sport and meet eligibility requirements outlined in <a href="https://www.leg.state.nv.us/nac/NAC-385B.html#NAC385BSec110" target="_blank">NAC 385B</a>.</p>
+<p>The term begins September 23, 2025, and ends June 2028. Some travel to Reno may be required, with costs covered by NIAA. The application will be open for 14 days starting August 1, 2025.</p>
+<p>The selected parent/guardian must understand if they are selected to serve in this role representing their region within the NIAA, there is a potential loss of personal/professional (work) time as the NIAA Board of Control conducts four regularly scheduled seasonal meetings; may conduct, at any given time, an emergency meeting; and the NIAA office staff will conduct prescheduled committee meetings in addition to the NIAA Board of Control meetings. While there may be virtual options for some meetings, the member?s attendance may be required when virtual options are not available. Travel to Reno, Nevada, may be required to participate in meetings. The NIAA will provide coverage for all travel and lodging accommodations in Reno, Nevada. The selected member?s name, image, and likeness may be included in reports generated through the media, public commentary, and NIAA staff materials.</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1rFRUfxcsd_HzI5sYrBsqu5NuaUaWcGflYQ8c4Z1xRtK5JQ/viewform" target="_blank">Online Application</a></p>
+<hr/>
+<!--
+<h2>Sex Education Advisory Committee Selection Process</h2>
+   <p>Nevada Revised Statutes (NRS) <a href="https://www.leg.state.nv.us/nrs/nrs-389.html#NRS389Sec036" target="_blank">389.036</a> mmandates that a Sex Education Advisory Committee (SEAC) to the Board of School Trustees for all school districts be established. Clark County School District (District) <a href="https://ccsd.net/district/policies-regulations/pdf/6123_R.pdf" target="_blank">Regulation 6123</a> and <a href="https://ccsd.net/district/policies-regulations/pdf/6123_P.pdf" target="_blank">Policy 6123</a>, Instruction on the Human Immunodeficiency Virus, Human
+Reproductive System, Related Communicable Diseases, and Sexual Responsibility, state that the Board of School Trustees shall appoint an advisory committee consisting of the following representation for a two-year term:</p>
+         
+	          <blockquote>1. Five parents/guardians of children who attend schools in the Clark County School District (District).<br>
+				  2. Four representatives, one from each of four of the following professions or occupations:<br>
+				  <ul class="lower" style="margin-top: 2px;margin-bottom: -25px;">
+					<li>Medicine or nursing,</li> 
+					<li>Counseling,</li>
+					<li>Religion,</li> 
+					<li>Pupils who attend school in the District,</li> 
+					<li>Teaching.</li>
+					</ul>
+					<br/>
+				  3. Two students will be appointed as non-voting members to serve as a resource to the committee. 
+				  </blockquote>
+	          
+	          <p>SEAC is looking to fill the following vacancies: <strong>medicine or nursing, counseling, religion, teaching, five (5) parents/guardians, and two (2) students</strong>.</p>
+
+<p>Additionally, as per the SEAC Bylaws, there shall be no more than two SEAC voting members from one
+Trustee?s voting district.</p>
+
+<p>District C currently has two voting members, therefore no applications for voting members shall be accepted from District C.</p>
+
+	 <p>All applications must be submitted electronically via the SEAC Application Google form no later than
+4:00 p.m. on Thursday, June 12, 2025. No exceptions will be made.</p>
+  
+  
+   <p>Applications will be accepted beginning Friday, May 9, 2025, and must be submitted electronically via the <a href="https://docs.google.com/forms/u/0/d/e/1FAIpQLSeE7czpSf_YdLexJ9Axn916xprtQ3N5K--V2PX5RiVw9xwzlg/closedform" target="_blank">SEAC Application</a> Google Form no later than 4:00 p.m. on Thursday, June 12, 2025. Exceptions will not be made. Applicants who submitted applications previously and are interested are encouraged to complete a new application.</p>
+  
+  <hr />
+-->
+<!--
+ <h2>CCSD Welcomes Newly Appointed Trustees</h2>
+ <p>Four new individuals have been added to the Board of School Trustees and will serve four-year terms as non-voting members. Trustee Ramona Esparza-Stoffregan represents the City of Henderson, Trustee Adam Johnson represents the City of Las Vegas, Trustee Lisa Satory represents Clark County and Trustee Isaac Barron represents the City of North Las Vegas. <a href="https://newsroom.ccsd.net/four-appointed-ccsd-board-of-school-trustees-take-oath-of-office/" target="_blank">Learn more</a> about the expansion of the School Board.</p>
+
+           <hr />
+     
+			<h2>Board of School Trustees Professional Development Requirement</h2>
+
+            <p>All members of the Clark County School District Board of Trustees have successfully completed a minimum of six hours of professional development as required by NRS Chapter 386.327.</p>
+
+
+  <hr />
+-->
+<!--
+  <h2>Join the CCSD Board of Trustees Audit Audit Advisory Committee</h2>
+
+<p>The Clark County School District Board of Trustees formed the Audit Advisory Committee in 2008 to provide advice in the following areas:  Strengthening accountability for the stewardship and efficient use of public funds; providing a communication link between the external and internal auditors and the Board; enhancing transparency of the District's financial operations; and improving public trust in the honesty and integrity of its public officials.  Committee members serve two-year terms.<br> 
+<a href="pdf/2025-Audit-Advisory-Committee-Application-new.pdf" target="_blank">Audit Audit Advisory Committee Application (PDF)</a> 
+</p>
+<p>The Clark County School District Board of Trustees Audit Advisory Committee is looking to fill one member vacancy.  Applications must be received in the Office of the Board of Trustees on or before Friday, April 25, 2025, at 4:00 p.m. <br>
+No exceptions will be made.  Postmarks will not be considered.
+	
+</p>
+                            
+                            <hr>
+-->
+<p>
+<table width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<a name="meetings"></a>
+<h2>Upcoming Board Meetings</h2>
+<ul>
+<li>Thursday, Aug 14, 2025, 05:00 pm<br/><span class="note">Regular Board Meeting</span></li>
+<li>Thursday, Aug 28, 2025, 05:00 pm<br/><span class="note">Regular Board Meeting</span></li>
+<li>Wednesday, Sep 03, 2025, 04:00 pm<br/><span class="note">Work Session</span></li>
+<li>Thursday, Sep 11, 2025, 05:00 pm<br/><span class="note">Regular Board Meeting</span></li>
+<li>Thursday, Sep 25, 2025, 05:00 pm<br/><span class="note">Regular Board Meeting</span></li>
+<li>Wednesday, Oct 01, 2025, 04:00 pm<br/><span class="note">Work Session</span></li>
+</ul>
+</td>
+<td width="50%">
+<a name="agendas"></a>
+<h2>Board Meetings</h2>
+<p>
+                             Regular meetings of the Board of School Trustees are held the second and fourth Thursday of each month beginning at 5:00 p.m. and Work Sessions are held on the first Wednesday of the month at 4:00 p.m. <strong>Meetings are subject to change</strong>.  All meetings can be viewed live stream a <a href="https://ccsd.net/">ccsd.net</a> on the day of the meeting. Special board meetings are held when necessary and are posted in advance in accordance with the Nevada open meeting law.</p>
+<p>
+<!--                            <a href="pdf/board_calendars/board-meetings-2022.pdf" target="_blank">2022 Work Sessions & Regular Board Meeting Schedule (PDF)</a> -->
+<!--                            <a href="pdf/board_calendars/board-meetings-2023.pdf" target="_blank">2023 Work Sessions & Regular Board Meeting Schedule (PDF)</a> -->
+<!--                                 <a href="pdf/board_calendars/board-meetings-2024.pdf" target="_blank">2024 Work Sessions & Regular Board Meeting Schedule (PDF)</a> -->
+<a href="pdf/board_calendars/board-meetings-2025-revised.pdf" target="_blank">2025 Work Sessions &amp; Regular Board Meeting Schedule (PDF)</a><br/>
+<a href="pdf/board_calendars/board-meetings-2026-revised.pdf" target="_blank">2026 Work Sessions &amp; Regular Board Meeting Schedule (PDF)</a><br/>
+<a href="pdf/board_calendars/board-meetings-2027.pdf" target="_blank">2027 Work Sessions &amp; Regular Board Meeting Schedule (PDF)</a>
+<h3>Board Meeting Agendas and Minutes</h3>
+<ul>
+<li><a href="/trustees/meeting-agendas/2025">2025 Board Meetings</a></li>
+<li><a href="/trustees/meeting-agendas/2024">2024 Board Meetings</a></li>
+<li><a href="/trustees/meeting-agendas/2023">2023 Board Meetings</a></li>
+<li><a href="/trustees/meeting-agendas/2022">2022 Board Meetings</a></li>
+<li><a href="/trustees/meeting-agendas/2021">2021 Board Meetings</a></li>
+<li><a href="/trustees/meeting-agendas/2020">2020 Board Meetings</a></li>
+<!--                            <li><a href="/trustees/meeting-agendas/2019">2019 Board Meetings</a></li> -->
+<!-- <li><a href="/trustees/meeting-agendas/2018">2018 Board Meetings</a></li>
+                                <li><a href="/trustees/meeting-agendas/2017">2017 Board Meetings</a></li>
+                                 <li><a href="/trustees/meeting-agendas/2016">2016 Board Meetings</a></li> -->
+</ul>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr/>
+<a name="gtkb"></a>
+<h2>Get to Know Your Board of Trustees</h2>
+<p>The Clark County Board of School Trustees is a dedicated group of community leaders who are elected to overlapping four-year terms and represent a specific geographic region of Clark County. Although each trustee represents a different region, they are dedicated to ensuring the success of every student in the district through clear, concise direction to the superintendent. The trustees bring a wealth of experience and concern for children to their position.</p>
+<p>
+<ul>
+<li><a href="pdf/maps/2025-2026/DZG-96141-Trustee-Districts.pdf" target="_blank">Board of Trustee's District Map (PDF)</a></li>
+<li><a href="board-activities-calendar.php">Board of Trustees Activities Calendar</a></li>
+<li><a href="contact/all">Contact a Board Member</a></li>
+</ul>
+</p>
+<hr/>
+<h2>Trustee District Maps</h2>
+<ul>
+<li><a href="pdf/maps/2025-2026/DZG-96142-2025-26-District-A-BOST.pdf" target="_blank">District A (PDF)</a></li>
+<li><a href="pdf/maps/2025-2026/DZG-96143-2025-26-District-B-BOST.pdf" target="_blank">District B (PDF)</a></li>
+<li><a href="pdf/maps/2025-2026/DZG-96144-2025-26-District-C-BOST.pdf" target="_blank">District C (PDF)</a></li>
+<li><a href="pdf/maps/2025-2026/DZG-96145-2025-26-District-D-BOST.pdf" target="_blank">District D (PDF)</a></li>
+<li><a href="pdf/maps/2025-2026/DZG-96146-2025-26-District-E-BOST.pdf" target="_blank">District E (PDF)</a></li>
+<li><a href="pdf/maps/2025-2026/DZG-96147-2025-26-District-F-BOST.pdf" target="_blank">District F (PDF)</a></li>
+<li><a href="pdf/maps/2025-2026/DZG-96148-2025-26-District-G-BOST.pdf" target="_blank">District G (PDF)</a></li>
+</ul>
+<hr/>
+<table width="100%">
+<tbody>
+<tr>
+<!--
+                        <td width="50%">
+
+                            <h2>Upcoming Board Committee Meetings</h2>
+                            <ul>
+                                                            </ul>
+
+
+                        </td>
+-->
+<td width="50%">
+<h2>Board Affiliated Committees</h2>
+<p><a href="/trustees/board-committees.php">View Board Affiliated Committee Details</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr/>
+<h2>Public Comment at Board Meetings</h2>
+<p>The Board of School Trustees recognizes that its deliberative process benefits greatly from public input and perspective. Those wishing to address the Board in person may sign up to speak once the agenda has been posted by calling the Board Office at (702) 799-1072 during regular business hours and at least 8 business hours prior to the scheduled start of the meeting. </p>
+<p>Alternatively, speakers may sign up in person immediately prior to the beginning of the meeting. To minimize distractions, no additional speakers may sign up once the Board President has introduced the agenda item. Customarily, speakers will be called in the order in which they signed up.</p>
+<p>Members of the public are permitted to provide public comment on any agenda item requiring Board action after staff presentations and discussion by the Board, but before the Board votes on the item. Speakers will be given 3 minutes to address the Board and shall remain on topic. The Consent Agenda is considered a single action item with a 3 minute speaker limit per individual no matter how many sub-items the individual wishes to comment on.</p>
+<p>A public comment period will be offered immediately prior to the adjournment of the meeting for members of the public who wish to speak on matters that are within the jurisdiction of the Board but not listed as an action item on the agenda. Each individual wishing to speak during this period will be given 3 minutes to address the Board.</p>
+<p>Written public comments may be submitted to <a href="mailto:boardmtgcomments@nv.ccsd.net">boardmtgcomments@nv.ccsd.net</a> after the agenda has been posted and at least 8 business hours prior to the scheduled start of the meeting. Any written comments received after the deadline and prior to the meeting adjourning will be uploaded to BoardDocs within the appropriate item on the next business day.</p>
+<hr/>
+<h2>Governance Policies</h2>
+<h3>Current Governance Policies of the CCSD Board of Trustees and notification of proposed changes to the policies.</h3>
+<ul>
+<li><a href="/trustees/governance/">Governance Policies</a></li>
+</ul>
+<hr/>
+<!--
+            <h2>Education Service Announcements</h2>
+            <ul>
+                <li> <a href="https://ccsdcommunications.eduvision.tv/Default.aspx?q=CT1wecDsedDC8ha7d8KbbXfJBhsJkHGrgMCnhjMlylQ%253d" target="_blank">Trustee Deanna L. Wright discusses partnering with your child?s school</a></li>
+                <li><a href="https://www.youtube.com/watch?v=ctUAvgenESQ&feature=youtu.be" target="_blank">Trustee Lola Brooks talks about the CCSD Police Department (YouTube)</a> </li>
+                <li><a href="http://newsroom.ccsd.net/ccsd-trustee-linda-p-cavazos-discusses-sot-election/" target="_blank">Trustee Linda P. Cavazos discusses SOT Elections</a></li>
+
+                <li><a href="https://www.youtube.com/watch?v=ctUAvgenESQ&feature=youtu.be" target="_blank">Trustee Chris Garvey discusses CCSD Survey</a></li>
+                <li><a href="https://www.youtube.com/watch?v=ctUAvgenESQ&feature=youtu.be" target="_blank">Trustee Dr. Linda E. Young discusses Communities in Schools</a></li>
+
+            </ul>
+-->
+<!--   <hr />
+
+
+            <a name="boundaries"></a>
+            <h2>2011 Redistricting of Trustee's Election Boundaries</h2>
+
+            <p><b>School district trustees approve redistricting plan</b></p>
+            <p>Tremendous growth and population shifts during the past decade created quite a challenge for Clark County School District trustees to work with staff and develop a comprehensive redistricting plan that would address as many community concerns as possible. Following several months of discussion and input, a plan was approved at a special board meeting on August 22, 2011.
+            </p>
+            <p>
+                The redistricting, which was required by state law following the results of the 2010 census, will result in some residents being represented by a new trustee, while others will have the same trustee as their designated board member. The new districts go into effect immediately and bring the population more in alignment so each trustee represents a similar number of constituents.
+            </p>
+            <p>
+                The <a href="pdf/2011-redistricting/scenario-22-valley-map.pdf">boundary map (PDF)</a> identifies the new boundaries that were approved.
+            </p>
+
+            <table  width="100%" class="simple-table">
+            <caption style="margin: 10px 0 20px 0;">The newly approved districts include the following student counts/population counts:</caption>  
+                <tbody>
+                    <tr>
+                        <th scope="col">Trustee</th>
+                        <th scope="col">District</th>
+                        <th scope="col">Student numbers</th>
+                        <th scope="col">Total population numbers</th>
+                    </tr>
+                    <tr>
+                        <th scope="row">Deanna L. Wright</th>
+                        <td align="center">A</td>
+                        <td align="center">41,306</td>
+                        <td align="center">288,050</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Chris Garvey</th>
+                        <td align="center">B</td>
+                        <td align="center">49,877 </td>
+                        <td align="center">268,148</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Dr. Linda E. Young</th>
+                        <td align="center">C</td>
+                        <td align="center">46,322</td>
+
+                        <td align="center">269,116</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Lorraine Alderman</th>
+                        <td align="center">D</td>
+                        <td align="center">48,909 </td>
+                        <td align="center">290,886</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">John Cole</th>
+                        <td align="center">E</td>
+                        <td align="center">37,483</td>
+                        <td align="center">266,209</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Carolyn Edwards</th>
+                        <td align="center">F</td>
+                        <td align="center">38,446</td>
+                        <td align="center">288,846</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Erin Cranor</th>
+                        <td align="center">G</td>
+                        <td align="center">42,289</td>
+                        <td align="center">280,014</td>
+                    </tr>
+                </tbody></table>
+            </p>
+
+            <p>Anyone who would like to contact their respective board member can do so by calling the board office at 702-799-1072.</p>
+-->
+</p></section>
+</main> <!-- /main_content_wrap -->
+</div>

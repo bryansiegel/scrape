@@ -1,0 +1,26 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<style type="text/css">
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}</style>
+<h1>
+	JOIN THE TEAM!</h1>
+<h1>
+<img alt="" src="https://ccsd.net/resources/police-services/join-the-team.jpg"/></h1>
+<p>
+	Contact CCSDPD and speak with a Background Investigator for more information: <a href="tel:+17027997830">702.799.7830</a></p>
+<p>
+	For further information regarding the application and hiring process, please contact the <a href="http://www.ccsd.net/jobs" target="_blank">CCSD Human Resources Division</a> at 2832 E. Flamingo Rd., Las Vegas, Nevada 89121 or call 799-5427. To apply for positions, visit <a href="https://teachvegas.ccsd.net/">Teach.Vegas</a> and click on Apply Now and View Open Support Positions. For more information on applying for School Police Officer positions, <a href="/resources/police-services/police-services-instructions-flyer-8.5x11.pdf">click here</a>. </p>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>To report a crime, please select the above link or call our 24/7 dispatch @ 702.799.5411.  
+
+If this is an emergency, please call 911. </section>
+</div> <!-- /sidebar-wrap -->
+</div>

@@ -1,0 +1,56 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Attendance Resources</h1>
+<p>
+<a href="https://www.clarkcountynv.gov/residents/truancy_prevention_outreach_program/index.php" target="_blank">Truancy Prevention Outreach Program (TPOP)</a> offers an early warning system to identify at-risk students and provide individualized support for such students and families. In conjunction with youth, families, CCSD and community partners, TPOP works to eliminate chronic absenteeism by focusing on underlying youth and family need. TPOP provides intensive in-home, in-school and community-based services that helps to ensure youth and families receive needed supports through a targeted case management approach. TPOP staff develops a coordinated plan of action intended to engage and re-engage youth and families, develop a resource map of existing services, and collaborate with CCSD personnel. Interventions are structured within a case management model, where families, program staff and school personnel can work with students on a range of issues to address the root causes of their absences. Family engagement and community partners are vital in assisting youth to reach their goals.</p>
+<p>
+<a href="https://everyday.ccsd.net/" target="_blank">Every Day Matters!</a> explains the importance of having your child attend school regularly and provides tips and resources to help increase student attendance.</p>
+<p>
+<a href="http://clarkcountynv.gov/family-services/Pages/default.aspx" target="_blank">Clark County Department of Family Services</a> is the local public agency whose role is to help keep children safe, as required by the federal Adoption and Safe Families Act. The agency was formed on July 1, 2002 in response to the merger of state and county child welfare services. Some services offered by the agency are the following: Child Abuse Hotline (702) 399-0081, Child Protective Services, Child Haven and emergency shelter homes, Children's Advocacy Center, and the Parenting Project.</p>
+<p>
+<a href="https://nvfamily.org/" target="_blank">Go to Grow Coalition</a>provides families with supports to address chronic student absenteeism by bringing partners to the table, mapping out resources for students and families, and breaking down silos within the community. Families can use this website to find tips and tools to remove barriers to student attendance and success.</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

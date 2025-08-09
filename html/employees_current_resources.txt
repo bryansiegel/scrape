@@ -1,0 +1,117 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<a name="All"></a>
+<section class="content-holder">
+<h1>Employee Resources</h1>
+<h2>Employee Resources - All Employees</h2>
+<ul>
+<li><a href="/departments/employee-benefits/programs-plans">Employee Assistance Program</a></li>
+<li><a href="http://learn.ccsd.net">ELMS</a></li>
+<li><a href="https://erp-portal.ccsd.net/irj/portal/ccsd" target="_blank">ERP</a></li>
+<li><a href="/district/policies-regulations">CCSD Policies &amp; Regulations</a></li>
+<li><a href="/employees/current/resources/relocation">Relocation Information</a></li>
+<li><a href="/employees/resources/pdf/standards_style_manual_2013.pdf">CCSD Style and Standards Manual</a></li>
+<li><a href="/employees/resources/pdf/See_Something_Say_Something.pdf">See Something Say Something</a></li>
+<li><a href="/employees/resources/pdf/Seven_Signs_of_Terrorism.pdf">Seven Signs of Terrorism</a></li>
+<li><a href="https://myaccount.ccsd.net" target="_blank">MyAccount</a></li>
+<li><a href="../pdf/Vegas-PBS-Employment-Testing-Information.pdf">Vegas PBS Employment Testing Information (PDF)</a></li>
+</ul>
+<a name="admin"></a>
+<h2>Employee Resources - Administrators</h2>
+<ul>
+<li><a href="/employees/rave/">R.A.V.E Review</a></li>
+<li><a href="/divisions/human-resources-division/leadership-development">Leadership Development</a></li>
+<li><a href="https://secure.ccsd.net/internal/login">Instruction Unit Administrative Reference</a></li>
+</ul>
+<!--<a name="support"></a>
+				<h2>Employee Resources - Support Staff</h2>
+				<ul>
+				<li><a href="http://">Support Staff Training</a></li>
+				</ul>-->
+<a name="teacher"></a>
+<h2>Employee Resources - Licensed Personnel</h2>
+<ul>
+<li><a href="https://teachvegas.ccsd.net/arl/">Alternative Routes to Licensure (ARL)</a></li>
+<li><a href="http://ccsd.net/cpd" target="_blank">Curriculum and Instruction Division (CPD)</a></li>
+<li><a href="http://www.doe.nv.gov/" target="_blank">Nevada Department of Education</a></li>
+<li><a href="/divisions/human-resources-division/employee-onboarding-and-development">Employee Onboarding and Development</a></li>
+<li><a href="/divisions/human-resources-division/new-teachers">New Teachers</a></li>
+<li><a href="/employees/current/resources/teacher-info#teacher-info">Information for Teachers</a></li>
+<li><a href="http://curriculum.wiki-teacher.com">Curriculum Engine</a></li>
+<li><a href="http://wiki-teacher.com">Wiki-Teacher</a></li>
+<li><a href="http://vegaspbs.org/Teachers">VegasPBS</a></li>
+</ul>
+<a name="support"></a>
+<h2>Employee Resources - Support Professionals</h2>
+<ul>
+<li><a href="../pdf/ESP-COVID19-FAQ-SupportProfessional.pdf" target="_blank">ESP COVID-19 Reopening FAQ</a></li>
+</ul>
+<a name="sub"></a>
+<h2>Employee Resources - Substitutes</h2>
+<ul>
+<li><a href="http://ccsd.eschoolsolutions.com" target="_blank">SmartFind Express</a></li>
+<li><a href="https://ccsd.net/employees/current/pdf/FAQSubstitutes.pdf" target="_blank">Frequently Asked Questions for Substitutes</a></li>
+<li><a href="https://ccsd.net/employees/current/pdf/BecomeSubstituteTeacher.pdf" target="_blank">Become a  Substitute Teacher</a></li>
+</ul>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar_wrap -->
+</div>

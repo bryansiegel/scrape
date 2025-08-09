@@ -1,0 +1,81 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Traffic Citations</h1>
+<p>
+	You have received a traffic citation that is considered either a <em>civil infraction</em> or a <em>criminal offense;</em> the following information will guide you on how to resolve the citation.</p>
+<p>
+	Your citation will have the words "CIVIL" or "CRIMINAL" printed in the top right corner of your citation, please select the coordinating option below:</p>
+<h3>
+	           <a href="https://ccsd.net/departments/police-services/civil-infractions"><u>Civil Infraction</u></a>    <em>OR </em>   <a href="https://ccsd.net/departments/police-services/criminal-offense"><u>Criminal Offense</u></a></h3>
+<p>
+	*Click <strong><a href="https://ccsd.net/departments/police-services/civil-vs-criminal">HERE</a></strong> for a Quick Guide on knowing the difference.</p>
+<h2>
+	 </h2>
+<h2>
+<strong>Court Contact Information:</strong></h2>
+<h4>
+<a href="https://www.clarkcountynv.gov/government/departments/juvenile_justice_services/index.php"><strong><u>8<sup>th</sup> Judicial District Court (Clark County Juvenile Court)</u></strong></a></h4>
+<p>
+<a href="https://www.google.com/maps/place/Clark+County+Juvenile+Justice/@36.1669743,-115.2045683,19093m/data=!3m1!1e3!4m10!1m2!2m1!1sclark+county+juvenile+court!3m6!1s0x80c8c34bf74246e1:0x53945a46e707e634!8m2!3d36.1753888!4d-115.099124!15sChtjbGFyayBjb3VudHkganV2ZW5pbGUgY291cnSSARhjb3VudHlfZ292ZXJubWVudF9vZmZpY2XgAQA!16s%2Fg%2F1tcxdgyl?entry=ttu">601 N. Pecos Road, Las Vegas, Nevada 89101</a></p>
+<p>
+<a href="tel:7024555200">(702) 455-5200</a></p>
+<p>
+	 </p>
+<h4>
+<a href="https://www.lasvegasjusticecourt.us/"><strong><u>Las Vegas Justice Court (Regional Justice Center)</u></strong></a></h4>
+<p>
+<a href="https://www.google.com/maps/place/Las+Vegas+Justice+Court/@36.1666534,-115.1483028,1193m/data=!3m3!1e3!4b1!5s0x80c8c39ec3b7cec5:0x8726dbee0a9e7274!4m6!3m5!1s0x80c8c39ec39fead1:0x5bec1c9c30426d1a!8m2!3d36.1666491!4d-115.1457279!16s%2Fg%2F11hbgjj51j?entry=ttu">200 Lewis Avenue #2, Las Vegas, Nevada 89101</a></p>
+<p>
+<a href="tel:7024555200">(702) 671-3116</a></p>
+<p>
+	 </p>
+<h4>
+<a href="https://municourt.lasvegasnevada.gov/"><strong><u>Las Vegas Municipal Court</u></strong></a></h4>
+<p>
+<a href="https://www.google.com/maps/place/Las+Vegas+Municipal+Courts/@36.166662,-115.1483028,1193m/data=!3m1!1e3!4m10!1m2!2m1!1slas+vegas+municipal+court!3m6!1s0x80c8c30ae8cd9957:0xd51d482fea1c9cee!8m2!3d36.1666121!4d-115.148666!15sChlsYXMgdmVnYXMgbXVuaWNpcGFsIGNvdXJ0WhsiGWxhcyB2ZWdhcyBtdW5pY2lwYWwgY291cnSSAQ9jaXR5X2NvdXJ0aG91c2WaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTktkMlJYV2tOQkVBReABAA!16s%2Fg%2F1thpx370?entry=ttu">100 E. Clark Avenue, Las Vegas, Nevada 89101</a></p>
+<p>
+<a href="tel:7023826878">(702) 382-6878</a></p>
+<p>
+	 </p>
+<h4>
+<a href="https://www.cityofnorthlasvegas.com/residents/municipal-court"><strong><u>North Las Vegas Municipal Court</u></strong></a></h4>
+<p>
+<a href="https://www.google.com/maps/place/North+Las+Vegas+Municipal+Court/@36.2015591,-115.1217169,1193m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80c8c2e724f5603d:0xef3d72173c337f6d!8m2!3d36.2015548!4d-115.119142!16s%2Fg%2F1w3w39hv?entry=ttu">2332 Las Vegas Boulevard North, #100, North Las Vegas, NV 89030</a></p>
+<p>
+<a href="tel:7026331130">(702) 633-1130</a></p>
+<p>
+	 </p>
+<h4>
+<a href="https://www.clarkcountynv.gov/government/departments/justice_courts/jurisdictions/henderson/index.php"><strong><u>Henderson Justice Court</u></strong></a></h4>
+<p>
+<a href="https://www.google.com/maps/place/Henderson+Justice+Court/@36.0303826,-114.9827115,1195m/data=!3m1!1e3!4m10!1m2!2m1!1shenderson+justice+court!3m6!1s0x80c8d6a3a23fdef7:0xd2d76a19f51e6308!8m2!3d36.0303894!4d-114.9801103!15sChdoZW5kZXJzb24ganVzdGljZSBjb3VydJIBD2NpdHlfY291cnRob3VzZeABAA!16s%2Fg%2F1vk6zhtj?entry=ttu">243 S. Water Street, Henderson, Nevada 89015</a></p>
+<p>
+<a href="tel:7024557980">(702) 455-7980</a></p>
+<p>
+	 </p>
+<h4>
+<strong><a href="https://www.bcnv.org/225/Municipal-Court">Boulder City Municipal Court</a></strong></h4>
+<p>
+<a href="https://maps.app.goo.gl/BuNo7NTyRk5udqx39">501 Avenue G, Boulder City, Nevada 89005</a></p>
+<p>
+<a href="tel:7022939278">(702) 293-9278</a></p>
+<p>
+	 </p>
+<h4>
+<strong><a href="https://www.clarkcountynv.gov/government/departments/justice_courts/jurisdictions/laughlin_township/index.php">Laughlin Justice Court</a></strong></h4>
+<p>
+<a href="https://maps.app.goo.gl/C3YUT1fyMRF5ew1g6">101 Civic Way #2, Laughlin, Nevada 89029</a></p>
+<p>
+<a href="tel:7022984622">(702) 298-4622</a></p>
+<p>
+<a href="mailto:LaughlinJCPR@ClarkContyNV.gov">LaughlinJCPR@ClarkCountyNV.gov</a></p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>To report a crime, please select the above link or call our 24/7 dispatch @ 702.799.5411.  
+
+If this is an emergency, please call 911. </section>
+</div> <!-- /sidebar-wrap -->
+</div>

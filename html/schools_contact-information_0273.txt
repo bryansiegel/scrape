@@ -1,0 +1,51 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- MAIN CONTENT -->
+<div id="main_content">
+<section class="content-holder">
+<h1>School Contact Information</h1>
+<div>
+<div class="addr-txt">
+<h2 style="color: #444;font-size: 21px;line-height: 27px;margin: 20px 0 10px">
+                ROGICH, SIG MS<br/>
+</h2>
+<!-- 		Principal:  -->
+<p>Principal:  Harrison, Susan J<br>
+<!-- 		Principal:  -->
+<!--         <a href="/schools/contact-information/">Link to this page</a> -->
+<!-- 								$principle = $match['TXTADMINISTRATOR']; -->
+<!-- 								Harrison, Susan J --><!-- <br> -->
+                                235 N PAVILION CENTER DR<br>
+                                LAS VEGAS, NV 89144<br>
+                                Phone: 702-799-6040<br/>
+                                Fax: 702-799-6094<br/>
+<a href="http://maps.google.com/maps?q=235 N PAVILION CENTER DR,+LAS VEGAS,+NV+89144">Map</a>
+                                 | <a href="https://www.rogichms.info/">Website</a> </br></br></br></p>
+<b>Region:</b> 2                                                             <p><b>Motto:</b> Education in Action</p> <p><b>Mission:</b> The Sig Rogich Middle School mission is to provide a positive middle school experience that fully prepares students with the academic skills, integrity, and moral responsibility that are necessary for success.</p>
+</div>
+</div>
+</section>
+</div><!-- /main_content -->
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

@@ -1,0 +1,62 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h2>
+	Mission Statement</h2>
+<p>
+	It is the mission of the Education Services Division to provide our students with the essential skills, attitudes, and integrity necessary to become successful, responsible citizens.</p>
+<h2>
+	Overview</h2>
+<p>
+	The Education Services Division provides instruction and related services for over 50,000 students; many of whom have experienced challenges in comprehensive academic environments. The unique needs of these students require ongoing evaluation and the development of curriculum and innovative instructional programs. One of the departments within Education Services Division that school administrators work hand-in-hand with is the Department of Pupil Personnel Services, which oversees the student behavioral referral process and student attendance enforcement.</p>
+<h2>
+	Notice of Student Searches</h2>
+<p>
+	Students are hereby informed that they will be subject to search when they enter campus after the beginning of the school day.  This includes, but is not limited to, unauthorized returns.  This notice does not exclude personnel, however, from searching a student at any time should there be reasonable suspicion of wrongdoing.</p>
+<div>
+	 </div>
+<div>
+	Por este medio se informa a los alumnos que serán sujetos a revisión en su persona y pertenencias al ingresar al campus una vez que haya iniciado el día escolar.  Esto incluye, pero no se limita a regresos no autorizados.  Sin embargo, este aviso no impide que un miembro del personal pueda revisar a un alumno en cualquier momento si existe sospecha razonable de actos indebidos.</div>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

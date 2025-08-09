@@ -1,0 +1,111 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<section class="content-holder">
+<h1>Parent General Information</h1>
+<h2>School Information</h2>
+<ul>
+<li><a href="/schools/contact-information/">Search for a school</a></li>
+<li><a href="/schools/websites/">List of school websites</a></li>
+<li><a href="/schools/zoning/">Zoning search and maps</a></li>
+<li><a href="http://charter.ccsd.net/"></a>District Sponsored Charter Schools</li>
+<!--                 <li><a href="/students/graduation-schedule.php">Graduation Schedule</a></li> -->
+</ul>
+<h2>Enrollment</h2>
+<ul>
+<li><a href="/parents/enrollment/">Registering For School</a></li>
+<!--            <li><a href="http://itsyourchoice.ccsd.net/open-enrollment/">Open Enrollment</a></li> -->
+<li><a href="https://itsyourchoice.ccsd.net/change-of-school-assignment/">Change of School Assignment</a></li>
+<li><a href="http://magnet.ccsd.net">Magnet Schools</a></li>
+</ul>
+<h2>English Language Learner Division</h2>
+<ul>
+<li><a href="https://ccsd.net/parents/ab195.php">Assembly Bill 195</a></li>
+<li><a href="https://ccsd.net/parents/ab195.php">English Learners, Title III</a></li>
+<!--
+
+				<li><a href="https://ccsd.net/parents/resources/pdf/English-Learner-Pupil-and-Parental-Rights.pdf">English - Learner Pupil and Parental Rights (PDF)</a></li>
+                <li><a href="https://ccsd.net/parents/resources/pdf/Alumno-Aprendiente-del-idioma-Inglés-y-Derechos-de-los-Padres.pdf">Spanish - Alumno Aprendiente del idioma Inglés y Derechos de los Padres (PDF)</a></li>
+                <li><a href="https://ccsd.net/parents/resources/pdf/AB-195-Tagalog.pdf">Tagalog - Mga Karapatan ng Estudyante na Mag-aaral ng Ingles at ng Magulang (PDF)</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/AB-195-Amheric.pdf">Amharic - ﻿ናይ ኢንግሊሽ ትምህርቲ ተማሃራይን ወለድን መሰላት (PDF)</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/AB-195-Chinese.pdf">Chinese -  英语学习者学生和家长的权利 (PDF)</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/AB-195-Vietnamese.pdf">Vietnamese -  Các Quyền của Phụ Huynh và Học Sinh Học Tiếng Anh (PDF)</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/AB-195-SWAHILI.pdf">Swahili - Wasomi wa Lugha ya Kiingereza na Haki za Wazazi (PDF)</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/AB-195-ARABIC.pdf">Arabic -  طالب متعلم اللغة الإنجليزية وحقوق الوالدين (PDF)</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/AB-195-dari.pdf">Dari -  دانش آموز و حقوق والدین زبان آموز انگلیسی (PDF)</a></li>
+-->
+</ul>
+<h2>District Information</h2>
+<ul>
+<li><a href="/district/directory/office-of-the-superintendent">Office of the Superintendent</a></li>
+<!--                 <li><a href="/district/superintendent/travel/">Superintendent's Travel</a></li> -->
+<li><a href="/departments/cpd/">Curriculum and Professional Development Division</a></li>
+<li><a href="https://aarsi.ccsd.net/">Assessment, Accountability, Research &amp; School Improvement</a></li>
+<li><a href="/district/policies-regulations/">CCSD Policies and Regulations</a></li>
+<li><a href="/employees/canvas/">Canvas LMS</a></li>
+<li><a class="PDFlink" href="/resources/environmental-services/annual-asbestos-notice-to-parents-2016.pdf">Asbestos Management Plan Parent Notice</a></li>
+<li><a href="http://ssd.ccsd.net/gifted-education-services/">Gifted Education Services</a></li>
+<li><a href="http://ssd.ccsd.net/special-education-resources/">Special Education Services</a></li>
+<li><a href="volunteer-chaperone-training/volunteer-chaperone-training">Volunteer Chaperone Training</a></li>
+<li><a href="/community/protect-our-kids">Protect Our Kids</a></li>
+<li><a href="https://ccsd.net/district/grading-reform-initiative/">CCSD Grading Reform Initiative</a></li>
+</ul>
+<h2>Family and Community Engagement Services</h2>
+<ul>
+<li><a href="https://engage.ccsd.net/family/">Family Engagement</a></li>
+<!--
+                <li><a href="http://faces.ccsd.net/family-toolbox/">Family Toolbox</a></li>
+                <li><a href="http://faces.ccsd.net/navigating-ccsd/">Navigating CCSD</a></li>
+-->
+<li><a href="https://engage.ccsd.net/UFL/">University of Family Learning</a></li>
+</ul>
+<h2>Report a Bully</h2>
+<ul>
+<li><a href="/students/bully/">Say No To Bullying</a></li>
+</ul>
+<h2>Additional Information</h2>
+<ul>
+<li><a href="https://ccsd.nutrislice.com/" target="_blank">School Lunch Menus</a></li>
+<li><a href="/departments/food-service/">Food Services</a></li>
+<li><a href="/schools/contact-information/">School Directory</a></li>
+<li><a href="/schools/zoning/">Zoning search and maps</a></li>
+<li><a href="/district/info/student-attire">Standard Student Attire</a></li>
+<li><a href="/district/info/non-discrimination">Notice of Nondiscrimination</a></li>
+<li><a href="http://transportation.ccsd.net">Transportation</a></li>
+<!--                 <li><a href="/parents/rising-stars-schools">Rising Stars Schools</a></li> -->
+<li><a href="https://cpd.ccsd.net/departments/science/k-12-health-and-physical-education/sex-education/">Sex Education Curriculum Info</a></li>
+<li><a href="https://backtoschool.ccsd.net/">Back to School Registration and Legal Notices</a></li>
+<li><a href="https://sites.google.com/nv.ccsd.net/ccsd-risk-management/insurance-services/voluntary-student-medical-insurance-information">Medical &amp; Dental Insurance for Students</a> </li>
+</ul>
+</section>
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

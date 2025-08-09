@@ -1,0 +1,64 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>Educational and Operational Efficiency Study of the Clark County School District</h1>
+<a href="/resources/budget-finance-department/pdf/gibson-report/educational-and-operational-efficiency-study-of-the-ccsd.pdf" style="float: right;" target="_blank"><img alt="Educational and Operational Efficiency Study" height="129" src="/resources/budget-finance-department/images/report-covers/gibson-report-cover.gif" width="100"/></a>
+<p>
+<p>Download the:<br/>
+<a href="/resources/budget-finance-department/pdf/gibson-report/educational-and-operational-efficiency-study-of-the-ccsd.pdf" target="_blank">Complete Report</a> (9.5mb)</p>
+<p><a href="/resources/budget-finance-department/pdf/gibson-report/executive-summary-stand-alone.pdf" target="_blank">Executive Summary - Stand Alone</a> (1.3mb)</p>
+<h3>Report Sections</h3>
+<p><a href="/resources/budget-finance-department/pdf/gibson-report/0-front-matter.pdf" target="_blank">Front Matter</a><br/>
+<a href="/resources/budget-finance-department/pdf/gibson-report/1-chapter-1-executive-summary.pdf" target="_blank">Chapter 1 - Executive Summary</a><br/>
+<a href="/resources/budget-finance-department/pdf/gibson-report/2-chapter-2-student-performance-analysis.pdf" target="_blank">Chapter 2 - Student Performance Analysis</a><br/>
+<a href="/resources/budget-finance-department/pdf/gibson-report/3-chapter-3-academic-programs-and-services.pdf" target="_blank">Chapter 3 - Academic Programs and Service</a><br/>
+<a href="/resources/budget-finance-department/pdf/gibson-report/4-chapter-4-budget-process-and-transparency.pdf" target="_blank">Chapter 4 - Budget Process and Transparency</a><br/>
+<a href="/resources/budget-finance-department/pdf/gibson-report/5-chapter-5-operational-cost-efficiency-review.pdf" target="_blank">Chapter 5 - Operational Cost Efficiency Review</a><br/>
+<a href="/resources/budget-finance-department/pdf/gibson-report/6-references.pdf" target="_blank">References</a></p>
+<p><a href="/resources/budget-finance-department/pdf/gibson-report/analysis-of-student-performance.pdf" target="_blank">Analysis of Student Performance</a><br/>
+<a href="/resources/budget-finance-department/pdf/gibson-report/comparative-analysis.pdf" target="_blank">Comparative Analysis of Academic Performance</a><br/>
+<a href="/resources/budget-finance-department/pdf/gibson-report/responses-to-board-member-questions-regarding-gibson-report.pdf" target="_blank">Responses to Board Member Questions Regarding the Gibson Report</a><br/>
+</p>
+</p></section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

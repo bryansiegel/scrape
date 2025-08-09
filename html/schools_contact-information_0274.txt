@@ -1,0 +1,51 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- MAIN CONTENT -->
+<div id="main_content">
+<section class="content-holder">
+<h1>School Contact Information</h1>
+<div>
+<div class="addr-txt">
+<h2 style="color: #444;font-size: 21px;line-height: 27px;margin: 20px 0 10px">
+                LEAVITT, JUSTICE MYRON E. MS<br/>
+</h2>
+<!-- 		Principal:  -->
+<p>Principal:  Roper, Lana M<br>
+<!-- 		Principal:  -->
+<!--         <a href="/schools/contact-information/">Link to this page</a> -->
+<!-- 								$principle = $match['TXTADMINISTRATOR']; -->
+<!-- 								Roper, Lana M --><!-- <br> -->
+                                4701 QUADREL STREET<br>
+                                LAS VEGAS, NV 89129<br>
+                                Phone: 702-799-4699<br/>
+                                Fax: 702-799-4528<br/>
+<a href="http://maps.google.com/maps?q=4701 QUADREL STREET,+LAS VEGAS,+NV+89129">Map</a>
+                                 | <a href="http://www.leavittms.net/">Website</a> </br></br></br></p>
+<b>Region:</b> 1                                                             <p><b>Motto:</b> The Higher You Soar, The More Beautiful The View</p> <p><b>Mission:</b> We believe that the most important goal of our nation is the development of a high-quality education that will prepare all students for life in a fast-changing and complex world. We will provide a broad base curriculum so our students can adapt and will be prepared for high school. We will maintain high student expectations to ensure a high level of student achievement. We believe that the purpose of education is to provide those experiences which will encourage and assist the students in becoming responsible citizens who have the ability to bring change in society. To achieve these goals, Leavitt Middle School will teach respect for the individual and assist students in growing mentally, emotionally, socially and physically.</p>
+</div>
+</div>
+</section>
+</div><!-- /main_content -->
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

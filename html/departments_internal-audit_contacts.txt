@@ -1,0 +1,138 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h2>
+	Internal Audit Department</h2>
+<p>
+<a href="/resources/internal-audit/iaorgchartfy22.pdf" target="_blank">Organizational Chart</a> (PDF)</p>
+<p>
+	 </p>
+<table class="simple-table" width="100%">
+<tbody>
+<tr>
+<th width="37%">
+<strong>Position</strong></th>
+<th width="39%">
+<strong>Name</strong></th>
+<th width="15%">
+<strong>Phone</strong></th>
+<th width="10%">
+<strong>Ext</strong></th>
+</tr>
+<tr>
+<td>
+				Director II</td>
+<td>
+				Janette R. Scott, CIA, CFE</td>
+<td>
+				799-6360</td>
+<td>
+				5070</td>
+</tr>
+<tr>
+<td>
+				Senior Internal Auditor</td>
+<td>
+				Birdie Kaczenski, CFE</td>
+<td>
+				799-6360</td>
+<td>
+				5077</td>
+</tr>
+<tr>
+<td>
+				Senior Internal Auditor</td>
+<td>
+				Eric Winchell, CPA, CFE</td>
+<td>
+				799-6360</td>
+<td>
+				5073</td>
+</tr>
+<tr>
+<td>
+				Internal Auditor</td>
+<td>
+				Joe D’Alessio</td>
+<td>
+				799-6360</td>
+<td>
+				5076</td>
+</tr>
+<tr>
+<td>
+				Internal Auditor</td>
+<td>
+				 Sal Debs</td>
+<td>
+				799-6360</td>
+<td>
+				5072</td>
+</tr>
+<tr>
+<td>
+				Internal Auditor</td>
+<td>
+				Brian Frey, CIA</td>
+<td>
+				799-6360</td>
+<td>
+				5074</td>
+</tr>
+<tr>
+<td>
+				Internal Auditor</td>
+<td>
+				Larry Herdzina, CPA</td>
+<td>
+				799-6360</td>
+<td>
+				5079</td>
+</tr>
+<tr>
+<td>
+				Internal Auditor</td>
+<td>
+				Nora Lonnquist, CIA, CPA</td>
+<td>
+				799-6360</td>
+<td>
+				5078</td>
+</tr>
+<tr>
+<td>
+				Internal Auditor</td>
+<td>
+				Adam Mirochnik, CPA</td>
+<td>
+				799-6360</td>
+<td>
+				5075</td>
+</tr>
+<tr>
+<td>
+				Internal Auditor, Construction</td>
+<td>
+				Walden Galaza, CPA</td>
+<td>
+				799-6360</td>
+<td>
+				5085</td>
+</tr>
+<tr>
+<td>
+				Internal Auditor, Construction</td>
+<td>
+				Kaye (Clifford) Luk, CPA</td>
+<td>
+				799-6360</td>
+<td>
+				5086</td>
+</tr>
+</tbody>
+</table>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

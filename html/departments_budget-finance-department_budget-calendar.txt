@@ -1,0 +1,307 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Budget Calendar</h1>
+<h2>
+	Calendar of Events</h2>
+<p>
+	Sequence of events through the approval of the 2025-2026 Amended Final Budget<br>
+	General Guidelines</br></p>
+<table cellspacing="0" class="simple-table-rows" id="rows_table" name="rows_table" width="100%">
+<thead>
+<tr>
+<th>
+				 </th>
+<th>
+				Event</th>
+<th>
+				Responsible Official</th>
+<th>
+				Estimated Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<div align="right">
+					1.</div>
+</td>
+<td>
+				Budget calendar developed</td>
+<td>
+				Chief Financial Officer</td>
+<td>
+				October 2024</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					2.</div>
+</td>
+<td>
+				Discussion of budget process for 2025-2026</td>
+<td>
+				Executive Cabinet</td>
+<td>
+				November 2024</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					3.</div>
+</td>
+<td>
+<span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">NRS 388G.680 </span>Local school precinct to be informed of allocation for next school year;  determination of number and category of pupils; determination of allocation for new local school precinct; annual adjustment to amount allocated.</td>
+<td>
+				Chief Financial Officer</td>
+<td>
+				January 2025</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					4.</div>
+</td>
+<td>
+				Review estimated unit/division adjustments</td>
+<td>
+				Chief Financial Officer</td>
+<td>
+				January-March 2025</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					5.</div>
+</td>
+<td>
+				Tentative Budget prepared (State Forms)</td>
+<td>
+				Chief Financial Officer</td>
+<td>
+				March 2025</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					6.</div>
+</td>
+<td>
+<p style='margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: "Helvetica Neue"; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;'>
+					Tentative Budget approved</p>
+</td>
+<td>
+				Board of School Trustees</td>
+<td>
+				April 10, 2025</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					7.</div>
+</td>
+<td>
+				Tentative Budget and Notice of Publication is filed with Department of Education, Department of Taxation, and County Clerk</td>
+<td>
+				Chief Financial Officer</td>
+<td>
+				April 15, 2025</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					8.</div>
+</td>
+<td>
+				Publication of budget in local newspaper</td>
+<td>
+				Chief Financial Officer</td>
+<td>
+				May 5, 2025</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					9.</div>
+</td>
+<td>
+				Public hearing and adoption of Final Budget</td>
+<td>
+				Board of School Trustees</td>
+<td>
+				May 19, 2025</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					10.</div>
+</td>
+<td>
+				Final Budget is filed with Department of Education, Department of Taxation, and County Clerk</td>
+<td>
+				Chief Financial Officer</td>
+<td>
+				June 8, 2025</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					11.</div>
+</td>
+<td>
+<div>
+					Spring (first) allocation = Preliminary allocations based on projected enrollment: Issued by January 15th each year per NRS 388G.650</div>
+</td>
+<td>
+				Chief Financial Officer</td>
+<td>
+				June 2025</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					12.</div>
+</td>
+<td>
+				Fiscal Year 2025 ends</td>
+<td>
+				 </td>
+<td>
+				June 30, 2025</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					13.</div>
+</td>
+<td>
+				Fiscal Year 2026 begins</td>
+<td>
+				 </td>
+<td>
+				July 1, 2025</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					14.</div>
+</td>
+<td>
+				Count Day Enrollment
+				<p>
+					 </p>
+</td>
+<td>
+				Chief Financial Officer</td>
+<td style="vertical-align: middle;">
+				August 27,  2025</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					15.</div>
+</td>
+<td>
+				Formulate 2025-2026 budget adjustments based on prior year ending balance and actual new year enrollment</td>
+<td>
+				Chief Financial Officer</td>
+<td>
+				September/<br>
+				October 2025</br></td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					16.</div>
+</td>
+<td>
+				Report to Nevada Department of Education on 2024-2025 actual and 2025-2026 projected expenditures</td>
+<td>
+				Chief Financial Officer</td>
+<td>
+				November 2025</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					17.</div>
+</td>
+<td>
+				Amended Final Budget approved</td>
+<td>
+				Board of School Trustees</td>
+<td>
+				December 11, 2025</td>
+</tr>
+<tr>
+<td>
+				18.</td>
+<td>
+<div>
+					 Fall (second) allocation = Final allocations based on count day enrollment: Issued each Fall (September/October)</div>
+</td>
+<td>
+				Chief Financial Officer</td>
+<td>
+				December 2025</td>
+</tr>
+<tr>
+<td>
+<div align="right">
+					19.</div>
+</td>
+<td>
+				Amended Final Budget is filed with Department of Education, Department of Taxation, and County Clerk</td>
+<td>
+				Chief Financial Officer</td>
+<td>
+				December 31, 2025</td>
+</tr>
+</tbody>
+</table>
+<p>
+<a name="details"></a>* Calendar subject to change.</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

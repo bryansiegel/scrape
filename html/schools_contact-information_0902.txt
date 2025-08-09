@@ -1,0 +1,51 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- MAIN CONTENT -->
+<div id="main_content">
+<section class="content-holder">
+<h1>School Contact Information</h1>
+<div>
+<div class="addr-txt">
+<h2 style="color: #444;font-size: 21px;line-height: 27px;margin: 20px 0 10px">
+                COX, DAVID ES<br/>
+</h2>
+<!-- 		Principal:  -->
+<p>Principal:  Imboden, Tara R<br>
+<!-- 		Principal:  -->
+<!--         <a href="/schools/contact-information/">Link to this page</a> -->
+<!-- 								$principle = $match['TXTADMINISTRATOR']; -->
+<!-- 								Imboden, Tara R --><!-- <br> -->
+                                280 CLARK DRIVE<br>
+                                HENDERSON, NV 89074<br>
+                                Phone: 702-799-5730<br/>
+                                Fax: 702-799-5759<br/>
+<a href="http://maps.google.com/maps?q=280 CLARK DRIVE,+HENDERSON,+NV+89074">Map</a>
+                                 | <a href="http://davidmcoxelementaryschool.com/">Website</a> </br></br></br></p>
+<b>Region:</b> 3                                                             <p><b>Motto:</b> A+, Achieving Excellence!  Allee Allee Ox in free for learning at the David M. Cox Elementary School, PAWSitively the BEARY finest school in all the land!</p> <p><b>Mission:</b> The teachers, staff, students, families, and community members who share the David M. Cox Elementary School will ensure a positive and safe environment where learning is the highest priority. All students will experience success socially and academically, enabling them to become respectful, responsible, and reliable citizens in a changing society. We will reach every student, in every subject, in every classroom, every day, without exceptions, without excuses.</p>
+</div>
+</div>
+</section>
+</div><!-- /main_content -->
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

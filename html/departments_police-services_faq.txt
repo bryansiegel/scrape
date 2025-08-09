@@ -1,0 +1,41 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<style type="text/css">
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}</style>
+<p>
+	 </p>
+<h2>
+<strong>CCSD POLICE DEPARTMENT</strong></h2>
+<p>
+	 </p>
+<div>
+<h1>
+	Frequently Asked Questions</h1>
+<p>
+<strong>Question: Are you real police officers?</strong></p>
+<p>
+	Answer: Yes, the CCSD School Police officers are required to complete a Peace Officer Standards &amp; Training (P.O.S.T.) academy to become certified police officers.</p>
+<p>
+<strong>Question: Can CCSD police officers make arrests and write traffic citations?</strong></p>
+<p>
+	Answer: Yes, as a sworn police officer for the State of Nevada we have the authority to make arrests and issue traffic citations.</p>
+<p>
+<strong>Question: Can CCSD police officers make arrests off School District property?</strong></p>
+<p>
+	Answer: Yes, our primary jurisdiction is School District property, but as first responders we have a responsibility to respond to imminent incidents and take the appropriate action. </p>
+<p>
+<strong>Question: If a crime occurs in my neighborhood involving School District students, whom should I notify?</strong></p>
+<p>
+	Answer: Your local police agency will take the initial report and investigate the crime. However, information involving students should be forwarded to School Police and the site administrator. This information is crucial for the safety of our students and staff.</p>
+</div></section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>To report a crime, please select the above link or call our 24/7 dispatch @ 702.799.5411.  
+
+If this is an emergency, please call 911. </section>
+</div> <!-- /sidebar-wrap -->
+</div>

@@ -1,0 +1,50 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Licensed Personnel</h1>
+<h2>
+	Teach in Las Vegas</h2>
+<p>
+	Southern Nevada is much more than just the Las Vegas Strip. Las Vegas and its surrounding communities make up a thriving metropolis of more than 2 million people. The Clark County School District is the fifth-largest school district in the nation, with over 300,000 students in more than 360 schools. There are over 40,000 employees in the Clark County School District, including over 18,000 teachers (licensed personnel).</p>
+<p align="left" style="margin-top:-1em; position:">
+	 </p>
+<p align="left" style="margin-top:-1em; position:">
+	Teachers create the foundation for our future leaders and the Clark County School District is actively recruiting nationwide for highly effective teachers to teach in critical labor shortage areas. In addition to teachers, the Clark County School District pursues exceptional candidates for the <a href="https://ccsd.net/divisions/human-resources-division/related-services-and-other-non-instructional-personnel"><em>Related Services</em></a> areas such as, occupational therapists/physical therapists, school nurses, school psychologists, school social workers, and speech/language pathologists. </p>
+<h2>
+	Benefits</h2>
+<div class="listArticle">
+<p class="greentitle">
+		Competitive Compensation Package</p>
+<ul>
+<li>
+			Competitive salaries</li>
+<li>
+			Excellent retirement benefits</li>
+</ul>
+</div>
+<div class="listArticle">
+<p class="greentitle">
+		Diversified Workforce</p>
+<ul>
+<li>
+			Las Vegas area offers a diverse workforce</li>
+</ul>
+</div>
+<div class="listArticle">
+<p class="greentitle">
+		Las Vegas: A Family Community</p>
+<ul>
+<li>
+			New schools, award-winning parks, recreational and cultural activities (golfing, hiking, skiing, boating, museums, art fairs, community theatre, and more!)</li>
+<li>
+			Proximity to major Southwest cities</li>
+</ul>
+</div>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

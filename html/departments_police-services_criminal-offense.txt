@@ -1,0 +1,57 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h2>
+	Criminal Offense</h2>
+<p>
+<u>Directions for Citation Resolution:</u></p>
+<p>
+	This citation may be disposed of only be trial in the court having jurisdiction over the alleged offense or by other official action by a judge of such court. Except as noted below, you may comply with this citation by exercising one of the following options:</p>
+<ul>
+<li>
+<u>Option 1:</u> Personally appear in court at the time and place indicated on this citation and enter a plea to the offense charged.  Your counsel may appear for you.</li>
+<li>
+<u>Option 2:</u> Bring or Mail this citation to the court along with a cashier’s check or money order for the amount for the total bail of the citation.  You can obtain this bail amount by contacting the court in which your citation has been issued.</li>
+<li>
+<u>Option 3:</u> Sign the Bail Forfeiture Request below and either bring or mail this citation to the court along with a cashier’s check or money order for the amount of the total bail for the citation(s).  You can obtain this bail amount by contacting the court in which your citation has been issued.</li>
+</ul>
+<p>
+<strong>NOTICE:</strong></p>
+<ul>
+<li>
+		You must appear in court at the date/time and place whenever the word “COURT” has been written within the Total Bail box. </li>
+<li>
+		The court may, in any case, require you to appear for a hearing.</li>
+<li>
+		If you choose Option 2 or Option 3 above, the citation and the total bail amount must reach the court before the date and time when this citation requires you to appear in court. </li>
+<li>
+		The court will not accept personal checks and will only accept cash over the counter at the court. </li>
+<li>
+		A record of conviction will be forwarded to the Department of Motor Vehicles (DMV) whenever you are convicted of a traffic offense other than illegal standing or parking.</li>
+<li>
+		A forfeiture of bail is considered a conviction.</li>
+</ul>
+<p>
+<strong><u>BAIL FORFEITURE REQUEST</u></strong></p>
+<p>
+	On the citation, the bail forfeiture request allows the defendant to waive their right to appear in court and request the court to have their posted bail forfeited in lieu of a fine.  Signing on the “Defendant’s Signature” line states that the defendant understands that since it is not the payment of fine, the court reserves the right to order the defendants appearance in court if circumstances so require.</p>
+<p>
+<strong><u>ADMINISTRATIVE ASSESSMENTS</u></strong></p>
+<p>
+	When a defendant pleads or is found guilty of a misdemeanor offense, except metered parking, Nevada Law requires the court to include an administrative assessment and must render a judgement against the defendant for the assessment.</p>
+<p>
+	Money collected for an administrative assessment cannot be deducted from the fine imposed by the court but must be taxed against the defendant in addition to any fine.</p>
+<p>
+<strong><u>FAILURE TO APPEAR</u></strong></p>
+<p>
+	Nevada Law makes it unlawful for any person to violate his/her written promise to appear and a warrant may be issued for such violation.</p>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>To report a crime, please select the above link or call our 24/7 dispatch @ 702.799.5411.  
+
+If this is an emergency, please call 911. </section>
+</div> <!-- /sidebar-wrap -->
+</div>

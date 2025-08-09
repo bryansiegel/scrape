@@ -1,0 +1,156 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Data</h1>
+<h2>
+	AB266</h2>
+<p>
+<a href="/resources/human-resources-division/2025-26-AB266.pdf" target="_blank">2025-2026 AB226</a></p>
+<p>
+<a href="/resources/human-resources-division/2024-25-AB266.pdf" target="_blank">2024-2025 AB226</a></p>
+<p>
+<a href="/resources/human-resources-division/2023-24-AB266.pdf" target="_blank">2023-2024 AB226</a></p>
+<p>
+<a href="/resources/human-resources-division/2022-23-AB266.pdf" target="_blank">2022-2023 AB226</a></p>
+<p>
+<a href="/resources/human-resources-division/2021-22-AB266.pdf" target="_blank">2021-2022 AB226</a></p>
+<p>
+	 </p>
+<h2>
+	Employee Count by Group</h2>
+<p>
+<a href="/resources/human-resources-division/2025-2026-employee-count-by-group-monthly-report-8.1.2025.pdf" target="_blank">2025-2026</a></p>
+<p>
+<a href="/resources/human-resources-division/2024-2025-employee-count-by-group-monthly-report-7.1.2025.pdf" target="_blank">2024-2025</a></p>
+<p>
+<a href="/resources/human-resources-division/employee-count-by-group-monthly-report-07-01-24.pdf" target="_blank">2023-2024</a></p>
+<p>
+<a href="/resources/human-resources-division/employee-count-by-group-monthly-report-07-03-23.pdf" target="_blank">2022-2023</a></p>
+<p>
+<a href="/resources/human-resources-division/employee-count-by-group-monthly-report-07-05-22.pdf" target="_blank">2021-2022</a></p>
+<p>
+<a href="/resources/human-resources-division/employee-count-by-group-monthly-report-07-01-21.pdf" target="_blank">2020-2021</a></p>
+<p>
+	 </p>
+<h2>
+	Employee Ethnicity by Group</h2>
+<p>
+<a href="/resources/human-resources-division/CCSD-Employee-Groups-5-Yr-Ethnicity-Comparison-10-01-24.pdf" target="_blank">2024-2025</a></p>
+<p>
+<a href="/resources/human-resources-division/employee-groups-5-yr-ethnicity-comparison-10-01-23.pdf" target="_blank">2023-2024</a></p>
+<p>
+<a href="/resources/human-resources-division/employee-groups-5-yr-ethnicity-comparison-10-01-22.pdf" target="_blank">2022-2023</a></p>
+<p>
+<a href="/resources/human-resources-division/employee-groups-5-yr-ethnicity-comparison-10-01-21-rev.pdf" target="_blank">2021-2022</a></p>
+<p>
+<a href="/resources/human-resources-division/employee-groups-5-yr-ethnicity-comparison-10-01-20-rev.pdf" target="_blank">2020-2021</a></p>
+<p>
+<a href="/resources/human-resources-division/employee-groups-5-yr-ethnicity-comparison-09-25-19.pdf" target="_blank">2019-2020</a></p>
+<p>
+<a href="/resources/human-resources-division/employee-groups-5-yr-ethnicity-comparison-10-1-18.pdf" target="_blank">2018-2019</a></p>
+<p>
+	 </p>
+<h2>
+	Class-Size Reduction (CSR) for Grades 1, 2,<br>
+	and 3</br></h2>
+<div>
+<br>
+	Nevada Revised Statutes (NRS) Chapter 388.700 requires, for each quarter of a school year, that ratios not exceed 16 to 1 in grades 1 and 2, and 19 to 1 in grade 3. However, to allow flexibility in addressing budget shortfalls, Senate Bill 515 of the 2015 Legislature allows school districts to increase these ratios by 1 student (17 to 1 in grades 1 and 2, and 20 to 1 in grade 3.).</br></div>
+<div>
+	 </div>
+<div>
+	Nevada school districts are required to report the ratio of students per teacher in classes where core curriculum is taught for grades 1, 2, and 3. Reports are submitted quarterly throughout the school year. Ratios are calculated using the average daily enrollment on September 30, December 31, March 31, and June 30. Meeting class-size ratio requirements for each individual school by grade is difficult when enrollment by grade varies throughout the school year. Some schools may exceed the requirement while others may be under the requirement. Adding another teacher to a grade not meeting the requirement is cost prohibitive as the State has not provided sufficient funding for the District to do so. Additionally, some schools do not have a sufficient number of classrooms available to meet the class-size ratios in grades 1, 2, and/or 3. The Board of Trustees for each school district must request a variance from the State Board of Education when any elementary school exceeds the required class-size ratio during any quarter of a school year.</div>
+<div>
+	 </div>
+<div>
+	 </div>
+<h2>
+	Quarterly Reports</h2>
+<h3>
+	2024-25</h3>
+<div>
+<a href="/resources/human-resources-division/2024-25-CSR-Q1.pdf" target="_blank">Quarter 1</a></div>
+<div>
+<a href="/resources/human-resources-division/2024-25-CSR-Q2.pdf" target="_blank">Quarter 2</a></div>
+<div>
+<a href="/resources/human-resources-division/2024-25-CSR-Q3.pdf" target="_blank">Quarter 3</a></div>
+<div>
+<a href="/resources/human-resources-division/2024-25-CSR-Q4.pdf" target="_blank">Quarter 4</a></div>
+<h3>
+	2023-24</h3>
+<div>
+<a href="/resources/human-resources-division/2023-24-CSR-Q1.pdf" target="_blank">Quarter 1</a></div>
+<div>
+<a href="/resources/human-resources-division/2023-24-CSR-Q2.pdf" target="_blank">Quarter 2</a></div>
+<div>
+<a href="/resources/human-resources-division/2023-24-CSR-Q3.pdf" target="_blank">Quarter 3</a></div>
+<div>
+<a href="/resources/human-resources-division/2023-24-CSR-Q4.pdf" target="_blank">Quarter 4</a></div>
+<h3>
+	2022-23</h3>
+<div>
+<a href="/resources/human-resources-division/2022-23-CSR-Q1.pdf" target="_blank">Quarter 1</a></div>
+<div>
+<a href="/resources/human-resources-division/2022-23-CSR-Q2.pdf" target="_blank">Quarter 2</a></div>
+<div>
+<a href="/resources/human-resources-division/2022-23-CSR-Q3.pdf" target="_blank">Quarter 3</a></div>
+<div>
+<a href="/resources/human-resources-division/2022-23-CSR-Q4.pdf" target="_blank">Quarter 4</a></div>
+<h3>
+	2021-22</h3>
+<div>
+<a href="/resources/human-resources-division/2021-22-CSR-Q1.pdf" target="_blank">Quarter 1</a></div>
+<div>
+<a href="/resources/human-resources-division/2021-22-CSR-Q2.pdf" target="_blank">Quarter 2</a></div>
+<div>
+<a href="/resources/human-resources-division/2021-22-CSR-Q3.pdf" target="_blank">Quarter 3</a></div>
+<div>
+<a href="/resources/human-resources-division/2021-22-CSR-Q4.pdf" target="_blank">Quarter 4</a></div>
+<h3>
+	2020-21</h3>
+<div>
+<a href="/resources/human-resources-division/2020-21-CSR-Q1.pdf" target="_blank">Quarter 1</a></div>
+<div>
+<a href="/resources/human-resources-division/2020-21-CSR-Q2.pdf" target="_blank">Quarter 2</a></div>
+<div>
+<a href="/resources/human-resources-division/2020-21-CSR-Q3.pdf" target="_blank">Quarter 3</a></div>
+<div>
+<a href="/resources/human-resources-division/2020-21-CSR-Q4.pdf" target="_blank">Quarter 4</a></div>
+<h3>
+	2019-20</h3>
+<div>
+<a href="/resources/human-resources-division/2019-20-CSR-Q1-rev.pdf" target="_blank">Quarter 1</a></div>
+<div>
+<a href="/resources/human-resources-division/2019-20-CSR-Q2.pdf" target="_blank">Quarter 2</a></div>
+<div>
+<a href="/resources/human-resources-division/2019-20-CSR-Q3.pdf" target="_blank">Quarter 3</a></div>
+<div>
+<a href="/resources/human-resources-division/2019-20-CSR-Q4.pdf" target="_blank">Quarter 4</a></div>
+<div style="display:none; ">
+<h3>
+		2018-19</h3>
+<div>
+<a href="/resources/human-resources-division/2018-19-csr-q1.pdf" target="_blank">Quarter 1</a></div>
+<div>
+<a href="/resources/human-resources-division/2018-19-csr-q2.pdf" target="_blank">Quarter 2</a></div>
+<div>
+<a href="/resources/human-resources-division/2018-19-csr-q3.pdf" target="_blank">Quarter 3</a></div>
+<div>
+<a href="/resources/human-resources-division/2018-19-csr-q4.pdf" target="_blank">Quarter 4</a></div>
+<h3>
+		2017-18</h3>
+<div>
+<a href="/resources/human-resources-division/2017-18-csr-q1.pdf" target="_blank">Quarter 1</a></div>
+<div>
+<a href="/resources/human-resources-division/2017-18-csr-q2.pdf" target="_blank">Quarter 2</a></div>
+<div>
+<a href="/resources/human-resources-division/2017-18-csr-q3.pdf" target="_blank">Quarter 3</a></div>
+<div>
+<a href="/resources/human-resources-division/2017-18-csr-q4.pdf" target="_blank">Quarter 4</a></div>
+</div>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

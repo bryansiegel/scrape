@@ -1,0 +1,14 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+Media Relations</h1>
+<p><strong>
+Media Relations provides timely communication support to schools and departments, and
+maintains daily contact with local media. Our goal is to consistently deliver accurate, timely
+information to the media (local, national and international) and the public while setting the record straight to maintain clear, consistent, and concise messaging.</strong></p>
+<hr/>
+<a href="https://newsroom.ccsd.net/" target="_blank">CCSD Newsroom</a>
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

@@ -1,0 +1,539 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Adopted Textbook Buy Guides</h1>
+<p>
+	The Buy Guides are for Adopted Textbooks that can be ordered through the SAP system. See <a href="/resources/purchasing-warehousing/adopted-textbook-catalog-help-guide-181220.pdf">Adopted Textbooks Catalog Help Guide</a>. Scroll through the list or use your browser’s find function (Ctrl+f) to locate textbooks by subject or course number. If you have any questions, please contact <a href="http://www.ccsd.net/departments/purchasing-warehousing">Purchasing &amp; Warehousing</a> (702) 799-5225.</p>
+<p>
+<strong>Note</strong>: In a buy guide, textbook material is listed in bold text. Supplementary material is in regular text. The word “Gratis” in a Title indicates additional supplements are provided with the textbook. The words “No Gratis” in a Title indicate additional supplements are not provided with the textbook.</p>
+<h2>
+	Elementary Schools</h2>
+<h3>
+	Course Description; Title; Course Code(s); Publisher</h3>
+<h3>
+	Art</h3>
+<h3>
+	Computer Education</h3>
+<h3>
+	English Language Arts</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-into-reading-grk-2023-230706.pdf" target="_blank">English Language Arts K; Kindergarten Into Reading; Course 0012; Houghton Mifflin Harcourt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-into-reading-gr1-2023-230706.pdf">English Language Arts 1; 1st Grade Into Reading; Course 0112; Houghton Mifflin Harcourt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-into-reading-gr2-2023-230706.pdf">English Language Arts 2; 2nd Grade Into Reading; Course 0212; Houghton Mifflin Harcourt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-into-reading-gr3-2023-230706.pdf">English Language Arts 3; 3rd Grade Into Reading; Course 0312; Houghton Mifflin Harcourt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-into-reading-gr4-2023-230706.pdf">English Language Arts 4; 4th Grade Into Reading; Course 0412; Houghton Mifflin Harcourt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-into-reading-gr5-2023-230706.pdf">English Language Arts 5; 5th Grade Into Reading; Course 0512; Houghton Mifflin Harcourt</a></li>
+</ul>
+<h3>
+	Health</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/etr-healthsmart-gr-k-250502.pdf" target="_blank">Health K; HealthSmart Gr K; Course 0063; Education, Training, Research</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/etr-healthsmart-gr-1-250502.pdf" target="_blank">Health 1; HealthSmart Gr 1; Course 0163; Education, Training, Research</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/etr-healthsmart-gr-2-250502.pdf" target="_blank">Health 2; HealthSmart Gr 2; Course 0263; Education, Training, Research</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/etr-healthsmart-gr-3-250502.pdf" target="_blank">Health 3; HealthSmart Gr 3; Course 0363; Education, Training, Research</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/etr-healthsmart-gr-4-250502.pdf" target="_blank">Health 4; HealthSmart Gr 4; Course 0463; Education, Training, Research</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/etr-healthsmart-gr-5-250502.pdf" target="_blank">Health 5; HealthSmart Gr 5; Course 0563; Education, Training, Research</a></li>
+</ul>
+<h3>
+	Mathematics</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/sav-envision-gr.k-2023-230511.pdf" target="_blank">Mathematics K; enVision Math Common Core Gr K; Course 0025; Savvas Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-envision-gr.1-2023-230511.pdf" target="_blank">Mathematics 1; enVision Math Common Core Gr 1; Course 0125; Savvas Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-envision-gr.2-2023-230511.pdf" target="_blank">Mathematics 2; enVision Math Common Core Gr 2; Course 0225; Savvas Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-envision-gr.3-2023-230511.pdf" target="_blank">Mathematics 3; enVision Math Common Core Gr 3; Course 0325; Savvas Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-envision-gr.4-2023-230511.pdf" target="_blank">Mathematics 4; enVision Math Common Core Gr 4; Course 0425; Savvas Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-envision-gr.5-2023-230511.pdf" target="_blank">Mathematics 5; enVision Math Common Core Gr 5; Course 0525; Savvas Learning</a></li>
+</ul>
+<h3>
+	Music</h3>
+<h3>
+	Novels</h3>
+<h3>
+	P.E.</h3>
+<h3>
+	Reference</h3>
+<h3>
+	Science</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/amp-grk-science-2023-230807.pdf">Science K; Amplify Science Kindergarten; Course 0036; Amplify</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/amp-gr1-science-2024-240304.pdf">Science 1; Amplify Science Grade 1; Course 0136; Amplify</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/amp-gr2-science-2023-231012.pdf">Science 2; Amplify Science Grade 2; Course 0236; Amplify</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/amp-gr3-science-2023-230807.pdf">Science 3; Amplify Science Grade 3; Course 0336; Amplify</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/amp-gr4-science-2024-240304.pdf">Science 4; Amplify Science Grade 4; Course 0436; Amplify</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/amp-gr5-science-2024-240304.pdf">Science 5; Amplify Science Grade 5; Course 0536; Amplify</a></li>
+</ul>
+<h3>
+	Social Studies</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/iqr-inquire-journeys-grk-2023-240809.pdf" target="_blank">Social Studies K; Inquiry Journeys Kindergarten; Course 0043; inquireED</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/iqr-inquire-journeys-gr1-2023-240809.pdf" target="_blank">Social Studies 1; Inquiry Journeys Grade 1; Course 0143; inquireED</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/iqr-inquire-journeys-gr2-2023-240809.pdf" target="_blank">Social Studies 2; Inquiry Journeys Grade 2; Course 0243; inquireED</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/iqr-inquire-journeys-gr3-2023-240809.pdf" target="_blank">Social Studies 3; Inquiry Journeys Grade 3; Course 0343; inquireED</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/iqr-inquire-journeys-gr4-2023-240809.pdf" target="_blank">Social Studies 4; Inquiry Journeys Grade 4; Course 0443; inquireED</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/iqr-inquire-journeys-gr5-2023-240809.pdf" target="_blank">Social Studies 5; Inquiry Journeys Grade 5; Course 0543; inquireED</a></li>
+</ul>
+<h3>
+	World Language, Elementary</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/vis-listos-level-a-revised-240705.pdf">World Language; Listos Level A; Course 004610; Vista Higher Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/vis-listos-level-b-revised-241004.pdf">World Language; Listos Level B; Course 014610; Vista Higher Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/vis-listos-level-c-revised-241004.pdf">World Language; Listos Level C; Course 024610; Vista Higher Learning</a>:</li>
+<li>
+<a href="/resources/purchasing-warehousing/vis-listos-level-d-revised-240705.pdf">World Language; Listos Level D; Course 034610; Vista Higher Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/vis-listos-level-e-revised-240705.pdf">World Language; Listos Level E; Course 044610; Vista Higher Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/vis-listos-level-f-revised-240705.pdf">World Language; Listos Level F; Course 054610; Vista Higher Learning</a></li>
+</ul>
+<h2>
+	Secondary Schools</h2>
+<ul>
+<li>
+<h3>
+			Course Description; Title; Course Code(s); Publisher</h3>
+</li>
+</ul>
+<h3>
+	Art</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/ccsd-exploring-art.pdf" target="_blank">Beginning Art, Intermediate Art, Advanced Art; Exploring Art; Courses 8305, 8310, 8315; Glencoe</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/dav-ceramics-i-22-220909.pdf" target="_blank">Ceramics I; Experience Clay; Course 7055; Davis</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/dav-ceramics-ii-22-220909.pdf" target="_blank">Ceramics II; Experience Clay; Course 7060; Davis</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/dav-ceramics-iii-22-220909.pdf" target="_blank">Ceramics III; Experience Clay; Course 7065; Davis</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/dav-drawing-i-22-220909.pdf" target="_blank">Drawing I; The Visual Experience; Course 7085; Davis</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/dav-drawing-ii-22-220909.pdf" target="_blank">Drawing II; The Visual Experience; Course 7090; Davis</a></li>
+</ul>
+<h3>
+	Business</h3>
+<h3>
+	Career and Technical Education</h3>
+<br>
+<h3>
+	Computer Education</h3>
+<br>
+<h3>
+	English Language Arts, Middle School</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-into-literature-gr6-2023-230629.pdf">English Language Arts 6; Into Literature; Course 1600; Houghton Mifflin Harcourt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-into-literature-gr6-acc-2023-230629.pdf">Accelerated English Language Arts 6; Into Literature; Course 1610; Houghton Mifflin Harcourt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-into-literature-gr6-myp-2023-230629.pdf">MYP English Language Arts 6; Into Literature; Course 1640; Houghton Mifflin Harcourt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-into-literature-gr7-2023-230629.pdf">English Language Arts 7; Into Literature; Course 1660; Houghton Mifflin Harcourt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-into-literature-gr7-acc-2023-230629.pdf">Accelerated English Language Arts 7; Into Literature; Course 1670; Houghton Mifflin Harcourt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-into-literature-gr7-myp-2023-230629.pdf">MYP English Language Arts 7; Into Literature; Course 1700; Houghton Mifflin Harcourt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-into-literature-gr8-2023-230629.pdf">English Language Arts 8; Into Literature; Course 1720; Houghton Mifflin Harcourt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-into-literature-gr8-acc-2023-230629.pdf">Accelerated English Language Arts 8; Into Literature; Course 1730; Houghton Mifflin Harcourt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-into-literature-gr8-myp-2023-230629.pdf">MYP English Language Arts 8; Into Literature; Course 1740; Houghton Mifflin Harcourt</a></li>
+</ul>
+<h3>
+	Language Arts, High School</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/sav-myperspectives-gr9-2023-230629.pdf">English Language Arts 9; myPerspectives 9 (2022); Course 1010; Savvas Learning Company</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-myperspectives-h-gr9-2023-230629.pdf">Honors English Language Arts 9; myPerspectives 9 (2022); Course 10104; Savvas Learning Company</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-myperspectives-gr10-2023-230629.pdf">English Language Arts 10; myPerspectives 10 (2022); Course 1030; Savvas Learning Company</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-myperspectives-h-gr10-2023-230629.pdf">Honors English Language Arts 10; myPerspectives 10 (2022); Course 10304; Savvas Learning Company</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-myperspectives-gr11-2023-230629.pdf">English Language Arts 11; myPerspectives 11 (2022); Course 1060; Savvas Learning Company</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-myperspectives-h-gr11-2023-230629.pdf">Honors English Language Arts 11; myPerspectives 11 (2022); Course 10604; Savvas Learning Company</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-myperspectives-gr12-2023-230629.pdf">English Language Arts 12; myPerspectives 12 (2022); Course 1080; Savvas Learning Company</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-myperspectives-h-gr12-2023-230629.pdf">Honors English Language Arts 12; myPerspectives 12 (2022); Course 10804; Savvas Learning Company</a></li>
+</ul>
+<h3>
+	Mathematics, Middle School</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/mgh-illustrative-math-crs1-7yr-201116.pdf">Mathematics 6; Illustrative Mathematics Crs 1; 7YR; Course 2630; MacMillian McGraw-Hill</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/mgh-illustrative-math-crs1-1yr-201116.pdf">Mathematics 6; Illustrative Mathematics Crs 1; 1YR; Course 2630; MacMillian McGraw-Hill</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/ken-illustrative-mathematics-gr6-201106.pdf">Mathematics 6; KEN Illustrative Mathematics 6; Course 2630; Kendall/Hunt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/lnz-illustrative-math-gr6-210304.pdf">Mathematics 6; LNZ Illustrative Mathematics 6; Course 2630; LearnZillion</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/opn-open-up-resources-math-6-mod-201106.pdf" target="_blank">Mathematics 6; Open Up Resources Math Gr 6; Course 2630; Open Up </a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-msms-gr-6-compatabilty-2023.pdf" target="_blank">Mathematics 6; Middle School Math Solutions Gr 6 Crs 1; Course 2630; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-msms-gr-6-acc.-compatibility-2023.pdf" target="_blank">Mathematics 6; Middle School Math Solutions Accelerated Gr 6 Crs 1; Course 2640; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/mgh-illustrative-math-crs2-7yr-201116.pdf">Mathematics 7; Illustrative Mathematics Crs 2 7YR; Course 2670; MacMillian McGraw-Hill</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/mgh-illustrative-math-crs2-1yr-201116.pdf">Mathematics 7; Illustrative Mathematics Crs 2 1YR; Course 2670; MacMillian McGraw-Hill</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/ken-illustrative-mathematics-gr7-201106.pdf">Mathematics 7; KEN Illustrative Mathematics 7; Course 2670; Kendall/Hunt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/lnz-illustrative-math-gr7-210304.pdf">Mathematics 7; LNZ Illustrative Mathematics 7; Course 2670; LearnZillion</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/opn-open-up-resources-math-7-mod-230912.pdf">Mathematics 7; Open Up Resources Math Gr 7; Course 2670; Open Up Resources</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-msms-gr-7-compatabilty-2023.pdf" target="_blank">Mathematics 7; Middle School Math Solutions Gr 7 Crs 2; Course 2670; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-msms-gr-7-acc.-compatibility-2023.pdf" target="_blank">Mathematics 7; Middle School Math Solutions Accelerated Gr 7 Crs 2; Course 2680; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/mgh-illustrative-math-crs3-7yr-201116.pdf">Pre-Algebra 8; Illustrative Mathematics Crs 3; 7YR; Course 2710; MacMillian McGraw-Hill</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/mgh-illustrative-math-crs3-1yr-201116.pdf">Pre-Algebra 8; Illustrative Mathematics Crs 3; 1YR; Course 2710; MacMillian McGraw-Hill</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/ken-illustrative-mathematics-gr8-201106.pdf">Pre-Algebra 8; KEN Illustrative Mathematics 8; Course 2710; Kendall/Hunt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/lnz-illustrative-math-gr8-210304.pdf">Pre-Algebra 8; LNZ Illustrative Mathematics 8; Course 2710; LearnZillion</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/opn-open-up-resources-math-8-mod-201106.pdf" target="_blank">Pre-Algebra 8; Open Up Resources Math Gr 8; Course 2710; Open Up Resources</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-msms-gr-8-pre-algebra-compatability-2023.pdf" target="_blank">Pre-Algebra 8; Middle School Math Solutions Gr 8 Crs 3; Course 2710; Carnegie Learning</a></li>
+</ul>
+<h3>
+	Mathematics, High School</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-algebra-i-2023-230731.pdf">Algebra I; Algebra I; Course 2020; Houghton Mifflin Harcourt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-big-ideas-alg.i-2023-230727.pdf">Algebra I; Big Ideas Math: A Bridge to Success; Course 2020; National Geographic, Cengage</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/hmh-geometry-2023-230731.pdf">Geometry; Geometry; Course 2060; Houghton Mifflin Harcourt</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-big-ideas-alg.ii-2023-230727.pdf">Algebra II; Big Ideas Math: A Bridge to Success; Course 2090; National Geographic Learning, Cengage</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/cen-precalculus-ab-2023-230515.pdf">Precalculus AB H; PreCalculus w/Limits: A Graphing Approach; Course 21454; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-precalculus-ab-2023-230515.pdf">Precalculus AB H; PreCalculus Enhanced w/Graphic Utilities; Course 21454; Savvas Learning Company</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/cen-precalculus-bc-2023-230515.pdf">Precalculus BC H; PreCalculus w/Limits: A Graphing Approach: Course 21504; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-precalculus-bc-2023-230515.pdf">Precalculus BC H; PreCalculus Enhanced w/Graphic Utilities; Course 21504; Savvas Learning Company</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/bfw-ap-calculus-ab-2023-230515.pdf">AP Calculus AB; Calculus for AP: Early Transcendentals; Course 21802; Bedford Freeman &amp; Worth</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-graphnumalg-ab-2023-230515.pdf">AP Calculus AB, Calculus: Graphical, Numberical, Algebraic; Course 21802; Prentice Hall</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-ap-calculus-ab-2023-230515.pdf">AP Calculus AB; Calculus for AP; Course 21802; Cengage Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-ap-calculus-enhanced-ab-2023-230515.pdf">AP Calculus AB; Enhanced Calculus AP; Course 21802; Cengage Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-graphnumalg-bc-2023-230515.pdf">AP Calculus BC, Calculus: Graphical, Numberical, Algebraic; Course 21902; Prentice Hall</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-ap-calculus-bc-2023-230515.pdf">AP Calculus BC; Calculus for AP; Course 21902; Cengage Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-ap-calculus-enhanced-bc-2023-230515.pdf">AP Calculus BC; Enhanced Calculus AP; Course 21902; Cengage Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-stats-modeling-the-world-2023-230803.pdf">AP Statistics; Stats: Modeling the World; Course 22502; Prentice Hall</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/bfw-practice-of-statistics-2023-230803.pdf">AP Statistics; The Practice of Statistics; Course 22502; Bedford Freeman &amp; Worth</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sav-alg.-and-trig-2023-230804.pdf">College Prep Math; Algebra and Trigonometry; Course 2287: Savvas Learning Company </a></li>
+<li>
+<a href="/resources/purchasing-warehousing/mgh-math-for-personal-fin-3yr-190906.pdf">Mathematics of Personal Finance; Math for Business &amp; Personal Finance 3YR; Course 2330; McGraw-Hill</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/mgh-math-for-personal-fin-1yr-190906.pdf">Mathematics of Personal Finance; Math for Business &amp; Personal Finance 1YR; Course 2330; McGraw-Hill</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/gow-math-for-financial-literacy-190918.pdf">Mathematics of Personal Finance; Math for Financial Literacy; Course 2330; Goodheart Wilcox</a></li>
+</ul>
+<h3>
+	Novels</h3>
+<h3>
+	P.E. / Health / Driver’s Ed</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/gow-essential-health-skills-ms-250505.pdf" target="_blank">Health 6-8; Essential Health Skills for Middle School; Course 5771 &amp; 5772; Goodheart-Willcox</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/gow-essential-health-skills-ms-wellness-250505.pdf" target="_blank">Health 6-8; Essential Health Skills for Middle School - Wellness; Course 5773; Goodheart-Willcox</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/gow-essential-health-skills-ms-myp-250505.pdf" target="_blank">Health 6-8; MYP Essential Health Skills for Middle School; Course 5779 &amp; 5781; Goodheart-Willcox</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/gow-essential-health-skills-for-high-schools-250512.pdf" target="_blank">Health 9-12; Essential Health Skills for High School; Course 5100; Goodheart-Willcox</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/gow-essential-health-skills-for-high-schools-myp-250512.pdf" target="_blank">Health 9-12; MYP Essential Health Skills for High School; Course 5101; Goodheart-Willcox</a></li>
+</ul>
+<h3>
+	Performing Arts</h3>
+<h3>
+	Spanish Literacy</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/vis-galeria-a-2023-230828.pdf">Spanish Literacy; Beginner Galeria A; Course 7860; Vista Higher Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/vis-galeria-b-2023-230828.pdf">Honors Spanish Literacy; Intermediate Galeria B; Course 7861; Vista Higher Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/vis-galeria-c-2023-230828.pdf">Honors Spanish Literacy; Advanced Galeria C; Course 7862; Vista Higher Learning</a></li>
+</ul>
+<h3>
+	Science</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/iat-active-physics-physics-honors-190919.pdf">Physics, Physics H; Active Physics; Course 3200 &amp; 32004; Activate Learning, LLC</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/prc-human-anatomy-n-phy-2016-180320.pdf">Principles of Anatomy/Physiology H; Human Anatomy/Physiology 2016; Course 34504; Pearson</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/gow-intro-anatomy-n-physiology-2014-180823.pdf">Principles of Anatomy/Physiology H; Intro to Anatomy &amp; Physiology 2014; Course 34504; Goodheart Willcox</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/amp-sci-gr6-add-spanish-200515.pdf">Science 6, Science Accelerated 6; Amplify Science Gr. 6; Course 3620 &amp; 3630; Amplify</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/amp-sci-gr7-add-spanish-200515.pdf">Science 7, Science Accelerated 7; Amplify Science Gr. 7; Course 3690 &amp; 3700; Amplify</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/amp-gr8-science-2024-240304.pdf">Science 8, Science Accelerated 8; Amplify Science Gr. 8; Course 3770 &amp; 3780; Amplify</a></li>
+</ul>
+<h3>
+	Social Studies, Middle School</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/sow-geography-gr8-world-cultures-2023-230705.pdf">World Geography Gr 8, World Cultures and Geography; Course 4700; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-gr7-hist-geo-2023-230705.pdf">History &amp; Geography Gr 7, U.S. History American Stories, Survey; Course 4741; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/edu-gr7-hist-geo-2023-230703.pdf">History &amp; Geography Gr 7, Project America; Course 4741; Educurious Partners</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/edu-gr7-acc-hist-geo-2023-230703.pdf">Accelerated History &amp; Geography Gr 7, Project America; Course 47421; Educurious Partners</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-gr7-acc-hist-geo-2023-230705.pdf">Accelerated History &amp; Geography Gr 7, U.S. History American Stories, Survey; Course 47421; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/edu-gr7-myp-hist-geo-2023-230703.pdf">MYP History &amp; Geography Gr 7, Project America; Course 4743; Educurious Partners</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-gr7-myp-hist-geo-2023-230705.pdf">MYP History &amp; Geography Gr 7, U.S. History American Stories, Survey; Course 4743; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/edu-gr7-myp-acc-hist-geo-2023-230703.pdf">MYP Accelerated History &amp; Geography Gr 7, Project America; Course 47441; Educurious Partners</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-gr7-myp-acc-hist-geo-2023-230705.pdf">MYP Accelerated History &amp; Geography Gr 7, U.S. History American Stories, Survey; Course 47441; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/edu-educurious-gr8-2023-230703.pdf">History &amp; Geography Gr 8, Early World Civilizations, World Geography, and Global Studies; Course 4745; Educurious Partners</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-gr8-world-cultures-2023-230705.pdf">History &amp; Geography Gr 8, World Cultures and Geography; Course 4745; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-gr8-hist-geo-2023-230705.pdf">History &amp; Geography Gr 8, World History Great Civilizations: Ancient Through Early Modern Time; Course 4745; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/edu-acc-gr8-history-2023-230703.pdf">Accelerated History &amp; Geography Gr 8, Early World Civilizations, World Geography, and Global Studies; Course 47461; Educurious Partners</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-acc-gr8-world-cultures-2023-230705.pdf">Accelerated History &amp; Geography Gr 8, World Culture and Geography; Course 47461; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-acc-gr8-history-geo-2023-230705.pdf">Accelerated History &amp; Geography Gr 8, World History Great Civilizations: Ancient Through Early Modern Time; Course 47461; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/edu-myp-gr8-history-2023-230703.pdf">MYP History &amp; Geography Gr 8, Early World Civilizations, World Geography, and Global Studies; Course 4747; Educurious Partners</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-myp-gr8-world-cultures-2023-230705.pdf">MYP History &amp; Geography Gr 8, World Cultures and Geography; Course 4747; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-myp-gr8-hist-geo-2023-230705.pdf">MYP History &amp; Geography Gr 8, World History Great Civilizations: Ancient Through Early Modern Time; Course 4747; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/edu-myp-acc-gr8-history-2023-230703.pdf">MYP Accelerated History &amp; Geography Gr 8, Early World Civilizations, World Geography, and Global Studies; Course 47481; Educurious Partners</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-myp-acc-gr8-world-cultures-2023-230705.pdf">MYP Accelerated History &amp; Geography Gr 8, World Cultures and Geography; Course 47481; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-myp-acc-gr8-hist-geo-2023-230705.pdf">MYP Accelerated History &amp; Geography Gr 8, World History Great Civilizations: Ancient Through Early Modern Time; Course 47481; Cengage National Geographic</a></li>
+</ul>
+<h3>
+	Social Studies, High School</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/sow-geography-2023-230706.pdf">Geography, World Cultures and Geography; Course 4020; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-ap-human-geo-2023-230805.pdf">AP Human Geography, A Spatial Perspective AP; Course 40602; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-world-history-2023-230705.pdf">World History, World History Voyages of Exploration; Course 4080; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-ap-world-history-2023-230705.pdf">AP World History, World History Voyages of Exploration AP; Course 41402; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-us-history-2023-230705.pdf">U.S. History, America Through the Lens 1877 to Present; Course 4160; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-american-pageant-ap-2023-230705.pdf">AP U.S. History, American Pageant AP; Course 42202; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/prn-pearson-economics-190710.pdf">U.S. Government and Economics, U.S. Government and Economics H; Pearson Economics; Courses 4242, 42424; Prentice Hall</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-american-government-2023-230705.pdf">American Government, American Government; Course 4252; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-honors-american-government-2023-230705.pdf">Honors American Government, American Government; Course 42524; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-ap-government-2023-230705.pdf">AP U.S. Government, Politics, &amp; NV Economics, American Government Institutions and Policies AP; Course 43422; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-intro-to-comparative-politics-ap-lv-3-8e-modified-230608.pdf">AP Comparative Politics, An Introduction to Comparative Politics; Course 44202; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-ap-european-history-2023-230608.pdf">AP European History, Western Civilization Since 1300; Course 44222; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-ap-macroeconomics-2023-230705.pdf">AP Macroeconomics, Principles of Economics; Course 44242; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-ap-microeconomics-2023-230705.pdf">AP Microeconomics, Principles of Economics; Course 44262; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-ap-psychology-2023-230608.pdf">AP Psychology, Discovering Psychology: The Science of Mind; Course 44282; Cengage National Geographic</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/sow-sociology-2023-230608.pdf">Sociology, Sociology in Our Times; Course 4548; Cengage National Geographic</a></li>
+</ul>
+<h3>
+	Special Programs</h3>
+<h3>
+	World Language</h3>
+<ul>
+<li>
+<a href="/resources/purchasing-warehousing/crl-zhen-bang-lv1-2023-230706.pdf">Chinese I; Zhen Bang Level 1; Course 7722; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-zhen-bang-lv2-2023-230706.pdf">Honors Chinese II; Zhen Bang Level 2; Course 77244; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-zhen-bang-lv3-2023-230706.pdf">Honors Chinese III; Zhen Bang Level 3; Course 77264; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/way-apprenons-2023230707.pdf">AP French; APprenons French; Course 77502; Wayside Publishing</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-tes-branche-lv1-2023-230706.pdf">French Language &amp; Culture; Tes Branche Level 1; Course 7752; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-tes-branche-lv2-2023-230706.pdf">Honors French Language &amp; Culture; Tes Branche Level 2; Course 77544; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-tes-branche-lv3-2023-230706.pdf">Honors French Language &amp; Culture; Tes Branche Level 3; Course 77564; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-tes-branche-lv4-2023-230706.pdf">Honors French Language &amp; Culture; Tes Branche Level 4; Course 77604; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-deutsch-so-aktuell-lv1-2023-230706.pdf">German I; Deutsch So Aktuell Level 1; Course 7777; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-deutsch-so-aktuell-lv2-2023-230706.pdf">German II; Deutsch So Aktuell Level 2; Course 77794; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-deutsch-so-aktuell-lv3-2023-230706.pdf">German III; Deutsch So Aktuell Level 3; Course 77814; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/way-chiarissiom-uno-2023230707.pdf">Italian I; Chiarissimo Uno; Course 7797; Wayside Publishing</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/way-chiarissimo-due-2023-230707.pdf">Honors Italian II; Chiarissimo Due; Course 77984; Wayside Publishing</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/vis-sentieri-2023-230707.pdf">Honors Italian III; Sentieri; Course 77994; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/way-azulejo-2023-230707.pdf">AP Spanish; Azulejo; Course 78512; Wayside Publishing</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/vis-temas-2023-230707.pdf">AP Spanish; Temas; Course 78512; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/vis-senderos-lv1-2023-230707.pdf">Spanish I; Senderos Level 1; Course 7852; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/vis-senderos-lv2-2023-230707.pdf">Honors Spanish II; Senderos Level 2; Course 78534; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/vis-senderos-lv3-2023-230707.pdf">Honors Spanish III; Senderos Level 3; Course 78544; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/vis-senderos-lv4-2023-230707.pdf">Honors Spanish IV; Senderos Level 4; Course 78564; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/vis-senderos-lv1-myp-2023-230707.pdf">MYP Spanish I; Senderos Level 1; Course 7863; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/way-entrecultres-1a-1b-2023-230707.pdf">Exploring World Languages MS (French); EntreCultures 1A and 1B; Course 8565; Wayside Publishing</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-que-chevere-lv1-a-b-2023-230828.pdf">Exploring World Languages MS (Spanish); Que Chevere Level 1A and 1B; Course 8565; Carnegie Learning</a></li>
+<li>
+<a href="/resources/purchasing-warehousing/crl-tes-branche-lv1-myp-2023-230706.pdf">MVP French Language &amp; Culture; Tes Branche Level 1; Course 8576; Carnegie Learning</a></li>
+</ul>
+<p>
+	 </p>
+</br></br></section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>Supplier Information
+<ul>
+<li><a href="http://www.demandstar.com/supplier/bids/agency_inc/bid_list.asp?f= search&amp;mi=137966" target="_blank">Current
+Bid/RFP Opportunities</a></li>
+<li><a href="/departments/purchasing-warehousing/doing-business-with-ccsd">Doing Business with CCSD</a></li>
+<li><a href="/resources/purchasing-warehousing/5941.2-outreach-brochure-5-4-2022-220510.pdf">How
+To Do Business With The District</a></li>
+</ul>
+
+Community Information
+<ul>
+<li><a href="https://ccsd.net/departments/purchasing-warehousing/surplus-available-to-the-public-for-sale">Surplus Available to the Public for Sale</a></li>
+<li><a href="/departments/purchasing-warehousing/employee-purchase-options">Employee Purchase Options</a></li>
+</ul>
+
+Catalogs
+<ul>
+<li><a href="https://prd-wd.ccsd.net:8120/sap/bc/webdynpro/sap/zsrmtextbook_catalog?sap-client=400#" target="_blank">Adopted Textbook Catalog - Display-Only</a></li>
+<li><a href="/departments/purchasing-warehousing/adopted-textbook-buy-guides">Adopted Textbook Buy Guides</a></li>
+<li><a href="https://erp-portal.ccsd.net/irj/go/km/docs/documents/Public%20Documents/Purchasing/Generalcatalogprod.html">Shopping Cart Catalog - General - Display-Only</a></li>
+<li><a href="https://erp-portal.ccsd.net/irj/go/km/docs/documents/Public%20Documents/Purchasing/custodialcatalogprod.html">Shopping Cart Catalog - Custodial Services - Display-Only</a></li>
+<li><a href="https://erp-portal.ccsd.net/irj/go/km/docs/documents/Public%20Documents/Purchasing/maintenancecatalogprod.html">Shopping Cart Catalog - Maintenance - Display-Only</a></li>
+<li><a href="/resources/purchasing-warehousing/purchasing-website-directory.pdf">Purchasing Dept. Directory</a></li>
+</ul>
+
+Warehouse Pickup or Transfer
+<ul>
+<li><a href="https://prd-wd.ccsd.net:8121/sap/bc/webdynpro/sap/zmm_ship1_req?sap-client=400#" target="_blank">SHIPPING-1</a></li>
+<li><a href="/resources/purchasing-warehousing/how-to-use-the-shipping-1-form.pdf">How to Use SHIPPING-1 Form</a></li>
+</ul></section><section class="dept-list-wrap"><h2 class="section-title-lined">Departments</h2><ul class="dept-list"><li><a href="/district/directory/maintenance-purchasing">Maintenance Purchasing</a></li><li><a href="/district/directory/warehouse-i">Warehouse I</a></li><li><a href="/district/directory/warehouse-ii">Warehouse II</a></li></ul></section><section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

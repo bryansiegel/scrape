@@ -1,0 +1,450 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>School Directories</h1>
+<h2>Region 1</h2>
+<p>
+<span><strong>Region Superintendent:</strong> Lindsay Tomlinson, <a href="mailto:ozmunlm@nv.ccsd.net">ozmunlm@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Hilary Malloy, <a href="mailto:jonesh1@nv.ccsd.net">jonesh1@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Louis Markouzis, <a href="mailto:markolj@nv.ccsd.net">markolj@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Maurice Perkins, <a href="mailto:perkimj@nv.ccsd.net">perkimj@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Scarlett Perryman, <a href="mailto:perrysh@nv.ccsd.net">perrysh@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Rebecca Tschinkel, <a href="mailto:tschirj@nv.ccsd.net">tschirj@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Andrea Womack, <a href="mailto:womacac@nv.ccsd.net">womacac@nv.ccsd.net</a></span><br/>
+<span><strong>Phone Number:</strong> (702) 799-0648</span>
+</p>
+<ul>
+<li><a href="https://ccsd.net/schools/contact-information/0436">Advanced Technologies Academy</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0235">Allen, Dean LaMar ES </a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0369">Antonello, Lee ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0579">Arbor View HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0374">Becker Sr., Ernest A. MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0284">Bilbray, James H. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0920">Bowler, Grant ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0252">Bowler, Sr., Joseph L. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0479">Bozarth, Henry and Evelyn ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0332">Bridger, Jim MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0433">Brinley, J. Harold MS </a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0539">Bruner, Lucile S. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0230">Bryan, Richard H. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0250">Bunker, Berkeley L. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0337">Cadwallader, Ralph L. MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0325">Cahlan, Marion ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0578">Canyon Springs HS and the Leadership and Law Preparatory Academy</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0279">Carl, Kay ES</a></li>
+<!-- 	            <li><a href="https://ccsd.net/schools/contact-information/0315">Carson, Kit ES</a></li> -->
+<li><a href="https://ccsd.net/schools/contact-information/0563">Centennial HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0454">Cheyenne HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0453">Cimarron-Memorial HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0346">Conners, Eileen ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0305">Cozine, Steve and Linda ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0317">Craig, Lois ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0275">Cram, Brian and Teri MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0416">Culley, Paul E. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0280">Darnell, Marshall C. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0361">Deskin, Ruthe ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0255">Detwiler, Ollie ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0785">Divich, Kenneth ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0368">Eisenberg, Dorothy ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0253">Elizondo, Raul P. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0376">Escobedo, Edmundo “Eddie” Sr. MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0400">Findlay, Clifford O. (Pete) MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0410">Fitzgerald, H. P. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0370">Fong, Wing and Lilly ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0257">Garehime, Edith ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0432">Gibson, Robert O. Leadership Academy</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0427">Gilbert, C. V. T. ES </a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0408">Goynes, Theron H. and Naomi D. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0247">Guy, Addeliar D. III ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0350">Hayden, Don E. ES </a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0282">Heckethorn, Howard E. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0411">Hoggard, Mabel W. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0611">Hughes, Charles Arthur MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0932">Indian Springs ES/MS/HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0469">Johnston, Carroll M. STEM Academy of Environmental Studies</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0371">Kahre, Marc A. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0372">Katz, Edythe and Lloyd ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0274">Leavitt, Justice Myron E. MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0556">Legacy HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0244">Lied STEM Academy MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0316">Lincoln ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0430">Lowman, Mary and Zel ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0367">Lummis, William ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0227">Lundy, Earl B. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0939">Lyon, W. Mack MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0324">Mackey, Jo iLead Academy for the Digital Sciences</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0314">Manch, J. E. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0208">Martinez, Reynaldo L. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0366">May, Ernest J. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0319">McCall, Quannah ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0363">McMillan, James B ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0414">McWilliams, J. T. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0942">Moapa Valley HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0245">Mojave HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0530">Molasky, Irwin and Susan JHS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0541">Neal, Joseph M. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0804">Northeast Career and Technical Academy</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0548">Northwest Career and Technical Academy</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0441">O’Roarke, Thomas J. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0362">Parson, Claude H. and Stella M. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0916">Perkins, Ute V. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0339">Priest, Richard C. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0360">Reed, Doris M. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0241">Rhodes, Betsy A. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0426">Ronzone, Bertha ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0402">Saville, Anthony MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0347">Scherkenbach, William and Mary ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0444">Scott, Jesse D. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0545">Sedway, Marvin M. MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0576">Shadow Ridge HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0343">Simmons, Eva G. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0336">Swainston, Theron L. MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0203">Tarr, Sheila Academy of International Studies ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0349">Thompson, Sandra Lee ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0329">Tobler, R. E. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0315">Toland, Helen Anderson International Academy ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0481">Triggs, Vincent L. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0421">Twin Lakes ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0449">Veterans Tribute Career and Technical Academy</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0923">Virgin Valley ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0944">Virgin Valley HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0355">Ward, Kitty McDonough ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0283">Watson, Fredric W. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0451">Western HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0242">Preparatory Institute, 
+						School for Academic Excellence at Charles | <br/>West Hall (West Prep) HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0236">Wolfe, Eva M. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0364">Woolley, Gwendolyn ES</a></li>
+</ul>
+<div class="divider"></div>
+<h2>Region 2</h2>
+<p>
+<span><strong>Region Superintendent:</strong> Dr. Reece Oswalt, <a href="mailto:oswalre@nv.ccsd.net">oswalre@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Shawn Halland, <a href="mailto:hallasl@nv.ccsd.net">hallasl@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Anna Hurst, <a href="mailto:hallasl@nv.ccsd.net">hurstam@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Monica Lang, <a href="mailto:mcdowmm@nv.ccsd.net">mcdowmm@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Gregory Misel, <a href="mailto:miselgp@nv.ccsd.net">miselgp@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Melissa Roehm, <a href="mailto:roehmmm@nv.ccsd.net">roehmmm@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Lynn Walker, <a href="mailto:petrijr@nv.ccsd.net">walkejr@nv.ccsd.net</a></span><br/>
+<span><strong>Phone Number:</strong> (702) 799-2939</span>
+</p>
+<ul>
+<li><a href="https://ccsd.net/schools/contact-information/0797">Abston, Sandra B. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0425">Adcock, O. K. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0301">Alamo, Tony ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0404">Batterman, Kathy L. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0524">Beckley, Will ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0515">Bell, Rex ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0459">Bendorf, Patricia A. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0736">Berkley, Shelley ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0912">Blue Diamond ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0452">Bonanza HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0209">Bonner, John W. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0240">Bryan, Roger M. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0399">Canarelli, Lawrence and Heidi MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0537">Cannon, Helen C. JHS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0533">Cashman, James MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0701">Central Technical Training Academy</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0554">Chaparral HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0461">Christensen, M. J. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0551">Clark, Ed W. HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0211">Crestwood ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0271">Dailey, Jack ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0327">Decker, C. H. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0577">Del Sol Academy of the Performing Arts</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0465">Derfelt, Herbert A. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0445">Desert Oasis HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0529">Diskin, Pat A. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0520">Dondero, Harvey N. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0555">Durango HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0510">Earl, Marion B. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0378">Faiss, Wilbur and Theresa MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0525">Ferron, William E. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0308">Fertitta, Victoria MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0659">Fine, Mark L. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0377">Forbuss, Robert L. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0231">Fremont, John C. Professional Development MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0229">French, Doris ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0340">Frias, Charles and Phyllis ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0431">Garside, Frank F. JHS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0348">Givens, Linda Rankin ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0878">Global Community HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0914">Goodsprings ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0330">Goolsby, Judy and John L. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0429">Gray, R. Guild ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0412">Griffith, E. W. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0434">Guinn, Kenny C. JHS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0822">Gunderson, Barry and June MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0522">Hancock, Doris ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0528">Harris, George E. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0542">Hayes, Keith C. and Karen W. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0338">Hollingsworth, Howard ES STEM Academy</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0531">Hyde Park MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0464">Jacobson, Walter E. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0435">Johnson, Walter JHS Academy of International Studies</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0750">Jones Blackhurst, Jan ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0561">Jydstrup, Helen M. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0420">Kim, Frank ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0532">Knudson, K. O. Academy of the Arts</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0516">Lake, Robert E. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0544">Lawrence, Clifford J. JHS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0353">Las Vegas Academy of the Arts</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0546">Mack, Jerome D. MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0747">Mathis, Dr. Beverly S. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0511">Miller, John F.</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0207">Ober, D'Vorre and Hal ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0534">Orr, William E. MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0778">Ortwein, Dennis ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0246">Palo Verde HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0514">Paradise Professional Development ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0214">Park, John S. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0466">Piggott, Clarence Academy of International Studies ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0424">Pittman, Vail ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0417">Red Rock ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0443">Reedom, Carolyn S. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0405">Ries, Aldeane Comito ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0309">Rogers, Lucille S. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0273">Rogich, Sig MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0358">Roundy, Dr. C. Owen ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0523">Rowe, Lewis E. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0753">Sandy Valley ES/MS/HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0538">Sawyer, Grant MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0564">Sierra Vista HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0415">Smith, Helen M. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0754">Snyder, Don and Dee ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0205">Snyder, William E. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0448">Southwest Career and Technical Academy</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0502">Spring Valley HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0204">Staton, Ethel W. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0811">Steele, Judith D. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0357">Stewart, Helen J.</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0482">Stuckey, Evelyn ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0344">Tanaka, Wayne N. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0470">Tarkanian, Lois and Jerry MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0403">Thiriot, Joseph E. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0787">Thompson, Tyrone ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0519">Tomiyasu, Bill Y. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0512">Ullom, J. M. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0552">Valley HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0746">Vassiliadis, Billy and Rosemary ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0518">Vegas Verdes ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0526">Ward, Gene ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0418">Warren, Rose ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0423">Wasden, Howard ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0447">West Career and Technical Academy</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0535">Woodbury, C. W. MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0354">Wright, William V. ES</a></li>
+</ul>
+<div class="divider"></div>
+<h2>Region 3</h2>
+<p>
+<span><strong>Region Superintendent:</strong> Theodore Robison III, <a href="mailto:robist2@nv.ccsd.net">robist2@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Darlin Delgado, <a href="mailto:delgadc@nv.ccsd.net">delgadc@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Ronnie Guerzon, <a href="mailto:guerzra@nv.ccsd.net">guerzra@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Emily Petosa, <a href="mailto:martiee3@nv.ccsd.net">martiee3@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Robert Solomon, <a href="mailto:solomrw@nv.ccsd.net">solomrw@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Kortney Smith, <a href="mailto:solomrw@nv.ccsd.net">smithk19@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Mikie Young, <a href="mailto:youngm@nv.ccsd.net">youngm@nv.ccsd.net</a></span><br/>
+<span><strong>Phone Number:</strong> (702) 799-0059</span>
+</p>
+<ul>
+<li><a href="https://ccsd.net/schools/contact-information/0272">Adams, Kirk L. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0547">Bailey, Dr. William H. "Bob" MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0359">Bailey, Sister Robert Joseph ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0783">Barber, Shirley A. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0904">Bartlett, Selma F. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0951">Basic Academy of International Studies</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0201">Bass, John C. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0460">Beatty, John R. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0900">Bennett, William G. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0941">Boulder City HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0322">Bracken, Walter ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0302">Brookman, Eileen B. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0934">Brown, B. Mahlon JHS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0786">Brown, Hannah Marrie ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0931">Burkholder, Lyal Academy of Environmental Science</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0239">Cambeiro, Arturo ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0248">Cartwright, Roberta C. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0573">Coronado HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0254">Cortez, Manuel J. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0540">Cortney, Francis H. JHS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0902">Cox, David M. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0560">Cunningham, Cynthia ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0562">Desert Pines HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0442">Diaz, Ruben P. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0929">Dooley, John A. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0409">East Career and Technical Academy</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0320">Edwards, Elbert B. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0352">Eldorado HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0775">Ellis, Robert and Sandy ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0572">Foothill HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0925">Galloway, Fay ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0933">Garrett, Elton M. and Madelaine E JHS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0306">Gehring, Roger D. ES Academy of Science and Technology</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0422">Gibson, James I. ES</a></li>
+<!-- 					<li><a href="https://ccsd.net/schools/contact-information/0878">Global Community HS</a></li> -->
+<li><a href="https://ccsd.net/schools/contact-information/0237">Goldfarb, Daniel ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0224">Gragson, Oran K. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0945">Green Valley HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0937">Greenspun, Barbara and Hank JHS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0307">Harney, Kathleen and Tim MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0752">Heard, Lomie G. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0312">Herron, Fay ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0213">Hewetson, Halle ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0406">Hickey, Liliam Lujan ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0463">Hill, Charlotte ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0910">Hinman, Edna F. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0342">Hummel, John R. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0303">Iverson, Mervin R. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0794">Jenkins, Earl N. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0658">Keller, Charlotte and Jerry ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0243">Keller, Duane D. MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0543">Kesterson,  Lorna J. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0901">King, Martha P. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0256">Lamping, Frank ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0251">Las Vegas HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0936">Laughlin JHS/HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0565">Liberty HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0428">Mack, Nate ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0401">Mannion, Jack and Terry MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0232">Martin, Roy W. MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0911">McCaw, Gordon ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0927">McDoniel, Estes M. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0225">Mendoza, John F. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0269">Miller, Bob MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0304">Miller, Sandy Searles ES Academy for International Studies</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0847">Miley Achievement Center</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0913">Mitchell, Andrew ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0276">Monaco, Mario C. and JoAnne MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0258">Moore, William K. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0249">Morrow, Sue H. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0217">Mountain View ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0947">Newton, Ulis ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0335">O'Callaghan, Mike MS i3 Learn Academy</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0351">Rancho HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0919">Reid, Harry ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0234">Roberts, Aggie ES</a></li>
+<!-- 	            	<li><a href="https://ccsd.net/schools/contact-information/0334">Robison, Dell H. MS</a></li> -->
+<li><a href="https://ccsd.net/schools/contact-information/0326">Ronnow, C. C. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0221">Rundle, Richard J. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0277">Schofield, Jack Lund MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0356">Schorr, Steve ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0922">Sewell, C. T. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0940">Silverado HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0536">Silvestri, Charles A. JHS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0379">Smalley, James E. and A. Rae ES </a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0331">Smith, J. D. MS </a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0807">South Career and Technical Academy</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0870">Southeast Career and Technical Academy</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0311">Squires, C. P. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0313">Stanford ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0751">Stevens, Josh ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0219">Sunrise Acres ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0446">Sunrise Mountain HS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0328">Tate, Myrtle ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0393">Taylor, Glen C. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0918">Taylor, Robert L. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0921">Treem, Harriet A. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0281">Twitchell, Neil C. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0238">Vanderburg, John C. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0812">Variety School</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0333">Von Tobel, Ed MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0285">Walker, J. Marlan International School ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0483">Wallin, Shirley and Bill ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0300">Webb, Del E. MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0228">Wengert, Cyril ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0938">White, Thurman Academy of the Performing Arts MS</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0924">Whitney ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0373">Wiener, Jr., Louis ES </a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0321">Williams, Tom ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0202">Wolff, Elise L. ES</a></li>
+</ul>
+<h2>The Transformation Network</h2>
+<p>
+<span><strong>Region Superintendent:</strong> Barry C. Bosacker, <a href="mailto:bosacbc@nv.ccsd.net">bosacbc@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Rebecca Lucero, <a href="mailto:lucerrm@nv.ccsd.net">lucerrm@nv.ccsd.net</a></span><br/>
+<!-- 			<span><strong>School Associate Superintendent:</strong> Dr. Reece Oswalt, <a href="mailto:oswalre@nv.ccsd.net">oswalre@nv.ccsd.net</a></span><br> -->
+<span><strong>Phone Number:</strong> (702) 799-5868</span>
+</p>
+<ul>
+<li><a href="https://ccsd.net/schools/contact-information/0413">Booker, Sr., Kermit R. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0310">Cox, Clyde C. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0215">Dearing, Laura ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0375">Dickens, D. L. “Dusty” ES </a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0484">Duncan, Ruby ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0222">Earl, Ira J. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0527">Harmon, Harley ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0270">Herr, Helen ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0407">Jeffers, Jay W. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0521">Kelly, Matt ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0212">King, Jr., Martin Luther ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0223">Long, Walter V. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0365">Lunt, Robert ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0226">Lynch, Ann ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0381">Perkins, Dr. Claude G. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0341">Petersen, Dean ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0259">Smith, Hal ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0345">Tartan, John ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0517">Thomas, Ruby S. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0903">Thorpe, Jim ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0233">Wilhelm, Elizabeth ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0513">Williams, Wendell P. ES</a></li>
+<li><a href="https://ccsd.net/schools/contact-information/0462">Wynn, Elaine ES</a></li>
+</ul>
+<!--
+			 <h2>School Choice and Innovation Network</h2>
+
+            <p>
+	            <span><strong>School Associate Superintendent:</strong> Scott Walker <a href="mailto:bosacbc@nv.ccsd.net">walkesm@nv.ccsd.net</a></span><br>
+	            <span><strong>Phone Number:</strong> (702) 799-2639</span>
+            </p>
+-->
+<!--
+            <ul>	
+	            
+	          
+				<li><a href="https://ccsd.net/schools/contact-information/0569">College of So. NV HS East</a></li>
+            	<li><a href="https://ccsd.net/schools/contact-information/0571">College of So. NV HS South</a></li>
+            	<li><a href="https://ccsd.net/schools/contact-information/0570">College of So. NV HS West</a></li>
+            	<li><a href="https://ccsd.net/schools/contact-information/0544">Lawrence, Clifford J JHS</a></li>
+            	
+				<li><a href="https://ccsd.net/schools/contact-information/0875">Mission HS</a></li>
+				<li><a href="https://ccsd.net/schools/contact-information/0633">Nevada Learning Academy at CCSD</a></li>
+				
+				
+				
+				
+            </ul>
+-->
+</section>
+</div><!-- / content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--?php include($home---><!-- inc['trending']); ?> -->
+<div class="sidebar-banner">
+<div aria-label="Question icon" role="img"><img alt="Have Question" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div><!-- /sidebar-wrap -->
+</div>

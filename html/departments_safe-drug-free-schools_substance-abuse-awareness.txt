@@ -1,0 +1,76 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h2>
+	Substance Abuse Awareness Program (SAAP)</h2>
+<ul>
+<li>
+		Assists schools as they address drug and alcohol use among students.</li>
+<li>
+		Parents are required to participate so that a collaborative approach may be implemented when combating the causes of substance abuse.</li>
+<li>
+		Drug and alcohol use and abuse are recognized as complex human behaviors with patterns that vary and are influenced by many forces (i.e., individual, family, school, peer groups, media).</li>
+<li>
+		The program for students and parents is designed to provide educational awareness regarding substance abuse prevention and available community services.</li>
+<li>
+		School district personnel and licensed therapists with a background in drug and alcohol education, conduct the 6-hour educational sessions.</li>
+<li>
+		Evaluations by students and parents who have completed the program indicate a very positive reaction as to the value of the program in improving parent/child relationships, understanding alcohol and other drugs, and in reducing further drug/alcohol use.</li>
+</ul>
+<hr/>
+<h2>
+	Program Objectives</h2>
+<ul>
+<li>
+		Create family awareness of substance abuse as a social problem.</li>
+<li>
+		Deal constructively with substance abuse in an educational setting.</li>
+<li>
+		Deter further experimentation with drugs/alcohol.</li>
+<li>
+		Improve communication between the student and parents</li>
+<li>
+		Impress upon students that substance use and abuse are serious offenses.</li>
+</ul>
+<hr/>
+<h2>
+	Sessions </h2>
+<p>
+	Communication &amp; Parent Involvement </p>
+<ul>
+<li>
+		Discuss issues, feelings, and ideas about alcohol and other drugs</li>
+<li>
+		Protective and risk factors</li>
+<li>
+		Improving parent involvement to help decrease the risk of involvement in gangs, violence, and substance abuse </li>
+<li>
+		Build trust and communication skills between parent and child</li>
+</ul>
+<p>
+	Signs, Symptoms, Facts, &amp; Community Resources </p>
+<ul>
+<li>
+		Signs and symptoms of use</li>
+<li>
+		Warning signs</li>
+<li>
+		Research and the brain</li>
+<li>
+		Decision making, problem solving, peer pressure, and refusal skills</li>
+<li>
+		Clark County and Nevada Laws</li>
+</ul>
+<hr/>
+<h2>
+	School Board Policy Requiring Student Attendance of the Substance Abuse Awareness Program</h2>
+<h2>
+	CCSD Regulation 5141.1</h2>
+<h3>
+<a href="http://ccsd.net/district/policies-regulations/pdf/5141.1_R.pdf" target="_blank">http://ccsd.net/district/policies-regulations/pdf/5141.1_R.pdf</a></h3>
+<p>
+	Any student who is found to have possessed, used, sold, or to have in anyway encouraged the possession, use, sale by another of any controlled substance including narcotic drugs, prescription or over the counter drugs (except in accordance with Regulation 5150-Health and Welfare), drug paraphernalia or alcoholic beverages or any represented to be drug paraphernalia or alcoholic beverages must attend and complete the District's Substance Abuse Awareness Program <strong>with a parent or guardian.</strong></p>
+<hr/>
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

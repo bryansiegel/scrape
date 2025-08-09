@@ -1,0 +1,49 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Canvas LMS</h1>
+<!-- Prospective employees -->
+<!-- <h2>Canvas Learning Management System (LMS)</h2> -->
+<!-- <span class="sub-nav-title"></span> -->
+<div style="float: left;padding-right: 5px;"><img alt="Canvas Logo" src="/employees/canvas/images/CanvasLogo.png" width="100px"/></div><p>The Canvas Learning Management System (LMS) is the online classroom software used by CCSD. It’s where teachers can post content, discussion, and assessments. It’s where students can extend their learning outside of the normal classroom and school day. Parents can create an observer account to see what their child is learning as well.
+                </p>
+<div style="text-align:center;">
+<p>Click the appropriate link for more information…</p>
+<div style="padding-top: 10px; padding-bottom: 10px;">
+<table align="center" border="0" cellspacing="2" width="90%">
+<tr>
+<td align="center">
+<a class="button" href="canvas-employees">Employees</a>
+</td>
+<td align="center">
+<a class="button" href="canvas-students">Students &amp; Parents</a>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<p>Please use Google Chrome or Mozilla Firefox for the best experience when using Canvas LMS.</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

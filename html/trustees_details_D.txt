@@ -1,0 +1,1062 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<div class="sticky-top trustee-nav" style="margin-top: -20px;">
+<!--                 <div align="center" class"trustee-nav" style="width:960px;margin-left: -40px;margin-right: auto;"> -->
+<a class="trustee-link" href="/trustees/details/index.php" style="color:#ffffff;">Meet Your School District Trustees</a>
+<!-- 				</div>  -->
+</div>
+<section class="content-holder">
+<!--
+            <div style="width: auto; margin-left: 87px; margin-right: 87px;">
+	            <img src="/_static/images/CCSD-Sahara-Ext.jpg" alt="Sahara Exterior" style="width: fit-content; height:auto;"  border="0" alt="Sahara Building" />
+	         </div>
+-->
+<!--Trustee Container - ALL  -->
+<div style="clear: both; margin-top: 2em;margin-left: 20px;margin-right: 20px;">
+<!--RIGHT SIDE BAR STARTS -->
+<!--
+                <div class="sidebar-banner" style="float:right; height:330px; margin-top: 0px;margin-left: 20px; margin-right: -10px;">
+                    <div><img src="/_static/images/icons/circle-question.png" class="sidebar-icon" alt="question"></div>
+                    <div class="sidebar-question">Have A Question?</div>
+                    <div class="sidebar-contact">Contact us at</div>
+                    <div class="sidebar-phone">702-799-CCSD</div>
+                    <br>
+                    <div class="sidebar-email">Email Your Trustee</div>
+                    <button id="myBtn" class="email-link"><img src="/_static/images/icons/email-trustee.png" class="sidebar-iconemail" alt="email"/></button>
+		        </div>
+-->
+<!-- END OF RIGHT SIDE BAR STARTS -->
+<!-- TRUSTEE BIO CONTENT STARTS -->
+<div style="margin-bottom: 50px; ">
+<img alt="Trustee-District C" class="trustee-detailimg" src="/trustees/includes/images/bio/Zamora-2025.jpg">
+<h1 style="margin: 0 0 5px;">Brenda  Zamora </h1>
+<!--
+                    <h1 style="margin: 0 0 5px;">President</h1>
+                    <h2 style="margin: 0 0 5px;">Evelyn Garcia Morales</h2>
+-->
+<h2 style="margin: 0 0 5px;">Vice President</h2>
+<div class="trustee-bio" style="background-color: #fbfbfb; border: 1px solid #e3e3e3;">
+<p>Brenda Zamora is a passionate advocate for education and equity elected to the CCSD Board of Trustees in November 2022. She represents District D, the largest and most diverse district in CCSD, where she is dedicated to improving the lives of students, teachers, support staff, and administration staff.
+</p>
+<div class="sidebar-banner" style="float:right; height:330px; margin-top: 0px;margin-left: 20px; margin-right: 0px;margin-bottom: 20px;
+	                 height:250px; width: 200px;padding: 10px;">
+<div><img alt="question" class="trustee-sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="trustee-sidebar-question">Have A Question?</div>
+<div class="trustee-sidebar-contact">Contact us at</div>
+<div class="trustee-sidebar-phone">702-799-CCSD</div>
+<div class="trustee-sidebar-email">Email Your Trustee</div>
+<a href="/trustees/contact/all"> <img alt="email" class="trustee-sidebar-iconemail" src="/_static/images/icons/email-trustee.png"/></a>
+</div>
+</div>
+<div style="padding-top: 25px;padding-bottom: 15px;">
+   					
+
+   						As a product of CCSD herself, Brenda understands firsthand the challenges that students and families face in the district. She graduated from Mojave High School in 2011 and attended Nevada State College with aspirations of becoming a teacher. However, as a single mother of two children, one with life-threatening medical conditions, she had to put her dreams of becoming a teacher on hold to care for her family.</div><span class="read-more-target">
+<a id="p1"><div class="more-link">Read More</div></a>
+<div class="hiddendiv" id="scritta">
+<br/>Today, Brenda's two oldest children attend CCSD, and her youngest will soon follow. She has also dealt with the challenges of obtaining services for her daughter with an Individualized Education Plan (IEP), giving her insight into many families' struggles. Brenda is committed to making these services more accessible and assisting families with IEPs.
+	<br/><br/>
+As a Communications Coordinator in the non-profit sector, Brenda advocates for equal and fair access to elections and works to bring resources to families in low-income households. She is a dedicated advocate who believes that every voice counts and education is the key to creating a better future for all. Brenda's passion for education and her commitment to equity make her a strong voice for District D and CCSD.
+<br/><br/>
+<button class="more-link" id="p2">Read Less</button></div>
+</span></img></div>
+</div>
+<br/>
+<div class="table">
+<h2>Schools</h2>
+<br/>
+<table class="cell-border stripe" id="dataTable">
+<thead>
+<tr>
+<th>School</th>
+<th>Level</th>
+<th>District</th>
+<th>Municipality</th>
+<!--
+                            <th>Title</th>
+                            <th>Date</th>
+-->
+</tr>
+</thead>
+<tbody>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0331" target="_blank">
+                                    Smith, J. D. MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                D                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0335" target="_blank">
+                                    O'Callaghan, Mike MS i3 Learn Academy                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0341" target="_blank">
+                                    Petersen, Dean ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0351" target="_blank">
+                                    Rancho HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                D                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0352" target="_blank">
+                                    Eldorado HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0353" target="_blank">
+                                    Las Vegas Academy of the Arts                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0365" target="_blank">
+                                    Lunt, Robert ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0208" target="_blank">
+                                    Martinez, Reynaldo L. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0212" target="_blank">
+                                    King, Jr., Martin Luther ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0213" target="_blank">
+                                    Hewetson, Halle ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0214" target="_blank">
+                                    Park, John S. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0219" target="_blank">
+                                    Sunrise Acres ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0221" target="_blank">
+                                    Rundle, Richard J. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0223" target="_blank">
+                                    Long, Walter V. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0224" target="_blank">
+                                    Gragson, Oran K. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0226" target="_blank">
+                                    Lynch, Ann ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0228" target="_blank">
+                                    Wengert, Cyril ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0231" target="_blank">
+                                    Fremont, John C. Professional Development MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0232" target="_blank">
+                                    Martin, Roy W. MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0239" target="_blank">
+                                    Cambeiro, Arturo ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0243" target="_blank">
+                                    Keller, Duane D. MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0254" target="_blank">
+                                    Cortez, Manuel J. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0258" target="_blank">
+                                    Moore, William K. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0270" target="_blank">
+                                    Herr, Helen ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0276" target="_blank">
+                                    Monaco, Mario C. and JoAnne MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                D                             </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0302" target="_blank">
+                                    Brookman, Eileen B. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0304" target="_blank">
+                                    Miller, Sandy Searles ES Academy for International Studies                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0311" target="_blank">
+                                    Squires, C. P. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0312" target="_blank">
+                                    Herron, Fay ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0316" target="_blank">
+                                    Lincoln ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0319" target="_blank">
+                                    McCall, Quannah ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0320" target="_blank">
+                                    Edwards, Elbert B. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0325" target="_blank">
+                                    Cahlan, Marion ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0326" target="_blank">
+                                    Ronnow, C. C. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0328" target="_blank">
+                                    Tate, Myrtle ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0407" target="_blank">
+                                    Jeffers, Jay W. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0547" target="_blank">
+                                    Bailey, Dr. William H. "Bob" MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0516" target="_blank">
+                                    Lake, Robert E. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0517" target="_blank">
+                                    Thomas, Ruby S. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0524" target="_blank">
+                                    Beckley, Will ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0532" target="_blank">
+                                    Knudson, K. O. Academy of the Arts                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0534" target="_blank">
+                                    Orr, William E. MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0552" target="_blank">
+                                    Valley HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0562" target="_blank">
+                                    Desert Pines HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0812" target="_blank">
+                                    Variety School                                </a>
+</td>
+<td>
+                            9                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0836" target="_blank">
+                                    Child Haven                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0837" target="_blank">
+                                    Clark County Detention Center                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0844" target="_blank">
+                                    Juvenile Detention 6â€“12                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0847" target="_blank">
+                                    Miley Achievement Center                                </a>
+</td>
+<td>
+                            9                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0222" target="_blank">
+                                    Earl, Ira J. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0406" target="_blank">
+                                    Hickey, Liliam Lujan ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0504" target="_blank">
+                                    Juvenile Detention 3â€“5                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0442" target="_blank">
+                                    Diaz, Ruben P. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0322" target="_blank">
+                                    Bracken, Walter ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0211" target="_blank">
+                                    Crestwood ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0617" target="_blank">
+                                    Adult Education Programs                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0811" target="_blank">
+                                    Stewart, Helen J.                                </a>
+</td>
+<td>
+                            9                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0658" target="_blank">
+                                    Keller, Charlotte and Jerry ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0878" target="_blank">
+                                    Global Community HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0446" target="_blank">
+                                    Sunrise Mountain HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0514" target="_blank">
+                                    Paradise Professional Development ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0752" target="_blank">
+                                    Heard, Lomie G. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0338" target="_blank">
+                                    Hollingsworth, Howard ES STEAM Academy                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0272" target="_blank">
+                                    Adams, Kirk L. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0217" target="_blank">
+                                    Mountain View ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0333" target="_blank">
+                                    Von Tobel, Ed MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0205" target="_blank">
+                                    Snyder, William E. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0332" target="_blank">
+                                    Bridger, Jim MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                D                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0313" target="_blank">
+                                    Stanford ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0815" target="_blank">
+                                    Morris Sunset East HS                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0321" target="_blank">
+                                    Williams, Tom ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0875" target="_blank">
+                                    Mission HS                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0701" target="_blank">
+                                    Central Technical Training Academy                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0820" target="_blank">
+                                    Walnut, Cecile Child Development Center                                </a>
+</td>
+<td>
+                            7                       </td>
+<td>
+                                D                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0620" target="_blank">
+                                    Martinez, Reynaldo Child Development Center                                </a>
+</td>
+<td>
+                            7                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+</tbody>
+</table>
+</div>
+</section></div>
+
+</div>

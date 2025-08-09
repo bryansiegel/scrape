@@ -1,0 +1,83 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Calendars</h1>
+<h2>Student School Calendars</h2>
+<!--<h3>2016-2017</h3>
+	                   
+	                    <ul>
+	                        <li><a href="pdf/2016-2017-school-calendars/855-all-tracks-year-round-2016-17.pdf" target="_blank">All Tracks Calendar</a></li>
+	                        <li><a href="pdf/2016-2017-school-calendars/855.1-track-1-2016-17.pdf" target="_blank">Track 1 Calendar</a></li>
+	                        <li><a href="pdf/2016-2017-school-calendars/855.2-track-2-2016-17.pdf" target="_blank">Track 2 Calendar</a></li>
+							<li><a href="pdf/2016-2017-school-calendars/855.3-track-3-2016-17.pdf" target="_blank">Track 3 Calendar</a></li>
+							<li><a href="pdf/2016-2017-school-calendars/855.4-track-4-2016-17.pdf" target="_blank">Track 4 Calendar</a></li>
+							<li><a href="pdf/2016-2017-school-calendars/855.5-track-5-2016-17.pdf" target="_blank">Track 5 Calendar</a></li>
+							<br>
+							<li><a href="pdf/2016-2017-school-calendars/855.7-9-month-2016-17.pdf" target="_blank">9 Month Calendar</a></li>
+							<li><a href="pdf/2016-2017-school-calendar.pdf" target="_blank">2016-2017 School Calendar</a></li>
+	                    </ul>-->
+<ul>
+<!--
+	                        <li><a href="pdf/2020-2021-school-calendar-students.pdf">2020-2021 School Calendar for Students (PDF)</a></li>
+	                        <li><a href="pdf/2021-2022-school-calendar-middle-school-students.pdf">2020-2021 School Calendar for Middle School Students (PDF)</a></li>
+-->
+<!-- 	                    <li><a href="pdf/2021-2022-school-calendar-students.pdf">2021-2022 School Calendar for Students (PDF)</a></li> -->
+<!-- 	                    <li><a href="pdf/2022-2023-school-calendar-students.pdf" target="_blank">2022-2023 School Calendar for Students (PDF)</a></li> -->
+<!-- 	                        <li><a href="pdf/2023-2024-school-calendar-students.pdf" target="_blank">2023-2024 School Calendar for Students (PDF)</a></li> -->
+<li><a href="pdf/2024-2025-school-calendar-students.pdf" target="_blank">2024-2025 School Calendar for Students (PDF)</a></li>
+<li><a href="pdf/2025-2026-school-calendar-students-updated-final.pdf" target="_blank">2025-2026 School Calendar for Students (PDF)</a></li>
+</ul>
+<hr/>
+<h2>Staff Calendars</h2>
+<ul>
+<!-- 							<li><a href="pdf/2020-2021-school-calendar-staff.pdf">2020-2021 School Calendar for Staff (PDF)</a></li> -->
+<!-- 							<li><a href="pdf/2021-2022-school-calendar-staff.pdf">2021-2022 School Calendar for Staff (PDF)</a></li> -->
+<!-- 							<li><a href="pdf/2022-2023-school-calendar-staff.pdf" target="_blank">2022-2023 School Calendar for Staff (PDF)</a></li> -->
+<!-- 							<li><a href="pdf/2023-2024-school-calendar-staff.pdf" target="_blank">2023-2024 School Calendar for Staff (PDF)</a></li> -->
+<li><a href="pdf/2024-2025-school-calendar-staff-updated-12-20-23.pdf" target="_blank">2024-2025 School Calendar for Staff (PDF)</a></li>
+<li><a href="pdf/2025-2026-school-calendar-staff-updated-final.pdf" target="_blank">2025-2026 School Calendar for Staff (PDF)</a></li>
+</ul>
+<hr/>
+<h2>Additional Calendars</h2>
+<ul>
+<!-- 							<li><a href="pdf/2023-24-important-dates.pdf" target="_blank">2023-2024 Important Dates Calendar (PDF)</a></li> -->
+<li><a href="/students/graduation-schedule.php" target="_blank">2025 Student Graduation Schedule</a></li>
+<!-- 							<li><a href="/trustees/pdf/board_calendars/board-meetings-2019.pdf" target="_blank">2019 Board of School Trustees Work Sessions and Regular Board Meetings (PDF)</a></li> -->
+<!-- 							<li><a href="/trustees/pdf/board_calendars/board-meetings-2023.pdf" target="_blank">2023 Board of School Trustees Work Sessions and Regular Board Meetings (PDF)</a></li> -->
+<li><a href="/trustees/pdf/board_calendars/board-meetings-2024.pdf" target="_blank">2024 Board of School Trustees Work Sessions and Regular Board Meetings (PDF)</a></li>
+<li><a href="/trustees/pdf/board_calendars/board-meetings-2025.pdf" target="_blank">2025 Board of School Trustees Work Sessions and Regular Board Meetings (PDF)</a></li>
+</ul>
+<!-- Commenting out due to lack of use and out of date events	<hr />
+                    
+						<h2>CCSD Calendar</h2>
+						<p><a href="master-calendar">CCSD Calendar</a></p>
+						<p>Please note that events in the CCSD Calendar are regularly added and change throughout the year.</p> 
+					-->
+<!-- 					<hr />
+					
+					<h2>School Events Calendar</h2>
+					<p><a href="/district/calendar/school-events-calendar">School Events Calendar</a></p> -->
+</section>
+</div> <!-- / content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

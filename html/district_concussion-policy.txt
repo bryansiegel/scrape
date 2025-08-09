@@ -1,0 +1,85 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Concussion Protocol</h1>
+<h2>Concussion Management Procedure</h2>
+<p>To ensure the safety of student-athletes, and in accordance with Clark County School District (CCSD) and Nevada Interscholastic Activities Association (NIAA) policy, a student-athlete will not be allowed to return to participation in their sport until they have completed all of the steps in the 
+<strong>Concussion Management Procedure</strong>. The Concussion Management Procedure is a multi-step process that includes the Return to Learn protocol followed by the Return to Play protocol.</p>
+<p>Parent/Guardian and student-athlete must review the CCSD Head Injury/Possible Concussion: <a class="injury" href="https://ccsd.net/district/concussion-policy/pdf/2602.0_HeadInjury_PossibleConcussionManagement_08-01-24.pdf" target="_blank">
+Assessment and Management Policy</a>.</p>
+<p>In order for the student-athlete to be eligible to Return to Play, they must complete all of the required steps below:
+</p>
+<ul><strong>Step 1.</strong>The student-athlete must be evaluated and cleared to participate in the Return to Play protocol by a Licensed Healthcare Provider (LHCP), M.D. (Doctor of Medicine), D.O. (Doctor of Osteopathy), P.A. (Physician's Assistant), or N.P. (Nurse Practitioner).<br/>
+<ul>
+<li>The school athletic trainer can provide the names of LHCPs specializing in concussion management, or the parent/guardian may choose one on their own.</li>
+<li>The LHCPs release must be obtained in writing, specify the date the athlete can return to participation, and be turned in to the high school athletic trainer.</li>
+</ul>
+</ul>
+<ul><strong>Step 2.</strong>The student-athlete must complete and pass standardized concussion testing (C3 Logix) administered by the athletic trainer.
+<ul>
+<li>This test will help identify post-injury deficits the athlete can have with brain functions such as memory, vision, reaction time, and balance.</li>
+<li>To determine pass or fail, test results will be compared to the student-athlete’s individual baseline or normative data if a baseline is not available.</li>
+<li>The student-athlete will not be allowed to return to participation until a passing score is achieved.</li>
+</ul>
+</ul>
+<ul><strong>Step 3.</strong>The student-athlete must complete a six-stage graded exercise program under the direct supervision of the high school’s Licensed Athletic Trainer.
+<ul>
+<li>If, at any point in the program, the student-athlete demonstrates worsening symptoms, the athletic trainer will stop the activity progression, re-evaluate, and determine the best course in the recovery/return to participation process.</li>
+<li><strong>The student-athlete must be symptom-free with all activities in order to pass the graded exercise phase and return to full participation</strong></li>
+<li>The Graded Return to Play protocol consists of the following:
+</li>
+</ul>
+<ul>
+<ul>
+<ul style="list-style-type: lower-roman;">
+<li>Symptom-limited activity [Up to 15 minutes]</li>
+<li>Light aerobic exercise: 70% of age-predicted max HR [Up to 30 minutes]</li>
+<li>Sport-specific exercise [Up to 60 minutes]</li>
+<li>Full, non-contact practice; may begin progressive resistance training</li>
+<li>Full contact practice</li>
+<li>Return to sport; normal gameplay</li>
+</ul>
+</ul>
+
+<li>Any exacerbation of symptoms will prevent the student-athlete from progressing to the next stage, which will need to be repeated after 24 hours.</li>
+</ul>
+</ul>
+<div class="center">
+<div class="card-wrapper" style="width:210px; height: 345px;margin-left: 5px;">
+<a class="injury" href="https://ccsd.net/district/concussion-policy/pdf/2602.0_HeadInjury_PossibleConcussionManagement_08-01-24.pdf" target="_blank">
+<div class="card-image"><img alt="" src="https://ccsd.net/_static/images/WeAre.jpg" style="width: 210px; height: auto;"/></div>
+<h2 class="card-title">Head Injury - Assessment and Management</h2>
+</a>
+</div>
+<div class="card-wrapper" style="width:210px; height: 345px;margin-left: 5px;">
+<a class="injury" href="https://ccsd.net/district/concussion-policy/pdf/2602.0_HeadInjury_PossibleConcussionManagement_08-01-24-SPANISH.pdf" target="_blank">
+<div class="card-image"><img alt="" src="https://ccsd.net/_static/images/WeAre.jpg" style="width: 210px; height: auto;"/></div>
+<h2 class="card-title">Lesión en la Cabeza: Evaluación y Gestión</h2>
+</a>
+</div>
+</div>
+</section>
+</div> <!-- /main_content_wrap -->
+<!--
+			<div id="sidebar_wrap" class="sidebar-wrap">
+				
+				<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div>

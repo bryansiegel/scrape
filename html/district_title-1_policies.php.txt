@@ -1,0 +1,43 @@
+<div class="content-wrap" id="content_wrap">
+<div class="aux-nav-wrap sticky-top" style="width:955px;">
+<div align="center" id="aux_nav_choice" style="width:955px;background: #1771b7;margin-left: auto;margin-right: auto;align-content: center;">
+<a class="page-link" data-page="#collapseOne" href="https://ccsd.net/district/title-1/index.php#Support" id="myID Support" style="width: auto;padding-left: 15px;margin-left: 5px;">School-Based Support</a> 
+
+			<a class="page-link" data-page="#collapseTwo" href="https://ccsd.net/district/title-1/index.php#Childhood" id="myID" style="width: auto;padding-left: 15px;">Early Childhood Programs</a> 
+			<div class="dropdown2">
+<a class="dropbtn page-link" data-page="#collapseThree" href="https://ccsd.net/district/title-1/index.php#HOPE" id="myID" style="width: auto;padding-bottom: 10px;padding-left: 15px;">HOPE: Homeless Outreach Program for Education</a> 
+			    <div class="dropdown-content" style="width:560px;">
+<ul id="myID" style="list-style-type: none;">
+<li><a href="https://ccsd.net/district/title-1/faq.php">FAQs</a></li>
+<li><a href="https://ccsd.net/district/title-1/services.php">Services and Supports</a></li>
+<li><a href="https://ccsd.net/district/title-1/resources.php">Resources</a></li>
+<li><a href="https://ccsd.net/district/title-1/law.php">Law</a></li>
+</ul>
+</div>
+</div>
+<div class="dropdown2">
+<a class="dropbtn page-link" data-page="#collapseFour" href="https://ccsd.net/district/title-1/index.php#Family" id="myID" style="width: auto;padding-bottom: 10px;padding-left: 15px;">Family Engagement</a> 
+			    <div class="dropdown-content" style="width:560px;margin-left: -145px;">
+<ul id="myID" style="list-style-type: none;">
+<li><a href="https://ccsd.net/district/title-1/policies.php">Policies</a></li>
+<li><a href="https://engage.ccsd.net/family/" target="_blank">Family Engagement</a></li>
+<li><a href="https://ccsd.net/district/title-1/family-center.php">Family Centers</a></li>
+</ul>
+</div>
+</div>
+<a class="page-link" data-page="#collapseFive" href="https://ccsd.net/district/title-1/programs.php" id="myID Support" style="width: auto;padding-left: 15px;margin-left: 0px;">Extension Programs</a> 
+
+	</div>
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- 				<section class="content-holder"> -->
+</main></div>
+<div class="container">
+<h1 class="content-holder">Policies</h1>
+<p>The Clark County School District Family Engagement Policy and Title I Parent Involvement Policy are intended to strengthen connections between schools, families, and communities as they work together to support student success across all grade levels. Below are links to each policy.</p>
+<h2>Links</h2>
+<p><a href="https://ccsd.net/district/title-1/pdf/P-1140-ENG.pdf" target="_blank">CCSD Family Engagement Policy</a><br/>
+<a href="https://ccsd.net/district/title-1/pdf/P-1140-SP.pdf" target="_blank">CCSD Family Engagement Policy -Spanish</a><br/>
+<a href="https://ccsd.net/district/title-1/pdf/TitleI-ParentInvolvment-ENG.pdf" target="_blank">Title I Parent Involvement Policy</a><br/>
+<a href="https://ccsd.net/district/title-1/pdf/TitleI-ParentInvolvment-SP.pdf" target="_blank">Title I Parent Involvement Policy -Spanish</a></p>
+</div>
+</div>

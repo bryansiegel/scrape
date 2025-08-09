@@ -1,0 +1,32 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>CCSD J-1 Exchange Visitor Teacher Program</h1>
+<ul>
+<li><a href="/employees/prospective/j-1/index.php">J-1 Program Description</a></li>
+<li><a href="/employees/prospective/j-1/selection-process.php">Selection Process for Interested Applicants</a></li>
+<!--      <li><a href="/employees/prospective/j-1/sponsor-parterships.php">Sponsor Partnerships</a></li> -->
+<li><a href="/employees/prospective/j-1/hiring-agencies.php">Recruiting Agencies</a></li>
+<li><a href="/employees/prospective/j-1/annual-renewal.php">Annual Renewals</a></li>
+<li><a href="/employees/prospective/j-1/extensions.php">Extensions</a></li>
+</ul>
+<p>CCSD partners with three approved sponsors for the J-1 Exchange Visitor Teacher Program: <a href="https://teacherscouncil.com/teacher-exchange-for-teachers/" target="_blank">Teachers Council</a>, <a href="https://hrc-international.com/j-1-visa-program/" target="_blank">HRC International</a>, and the <a href="https://gaprograms.com/about/" target="_blank">Global Ambassadors Program</a>. All international candidates must be sponsored by one of these organizations. Current J-1 Visa holders transferring to CCSD from another U.S. district are strongly encouraged to use one of these preferred sponsors.</p>
+<p><strong>Important Notes:</strong></p>
+<ul>
+<li>CCSD does not cover J-1 Visa fees. Applicants are responsible for submitting all paperwork and program fees to their sponsor.</li>
+<li>Sponsors, designated by the U.S. Department of State, ensure compliance with BridgeUSA regulations.</li>
+</ul>
+<p><strong>Sponsor Responsibilities:</strong></p>
+<ul>
+<li>Verify candidate eligibility, including experience, education, and references.</li>
+<li>Assess host school placements for program suitability.</li>
+<li>Provide pre-departure orientation on program rules and U.S. living expectations.</li>
+<li>Train hiring agencies and host schools on J-1 regulations.</li>
+<li>Issue DS-2019 paperwork for J-1 visa appointments.</li>
+<li>Offer 24/7 support, including Social Security guidance, SEVIS check-ins, housing assistance, annual renewals, and cultural activity access.</li>
+<li>Ensure teachers have required insurance, including medical evacuation and repatriation coverage.</li>
+</ul>
+<p>At this time, CCSD is not seeking additional J-1 Visa sponsors.</p>
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

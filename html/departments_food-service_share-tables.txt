@@ -1,0 +1,14 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Share Tables In Schools</h1>
+<p>
+	Using share tables is an innovative strategy to encourage the consumption of nutritious foods and reduce food waste in the National School Lunch Program (NSLP), School Breakfast Program (SBP), and Child and Adult Food Care Program (CACFP).</p>
+<p>
+<a href="/resources/food-service/share-table-infograph-20200116.jpg"><img alt="Share Tables" height="677" src="/resources/food-service/share-table-infograph-img-20200116.jpg" width="523"/></a></p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

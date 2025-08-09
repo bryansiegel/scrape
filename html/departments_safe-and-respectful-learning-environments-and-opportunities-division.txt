@@ -1,0 +1,67 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Safe and Respectful Learning Environments and Opportunities Division</h1>
+<p>The Safe and Respectful Learning Environments and Opportunities (SRLEO) Division envisions a Clark County School District where everyone thrives: students, educators, families, and community members. We strive for vibrant, inclusive, and affirming educational environments. We foster these environments through student-centered leadership and culturally sustaining practices. Our approach creates positive, proactive learning spaces that enhance academic, social-emotional, and behavioral success for all learners.</p>
+<p>We are deeply committed to ensuring high expectations, support, fairness, access, and respect for every student, family, and staff member. By championing inclusive policies, supportive practices, and responsive instruction, we construct school communities where every student unlocks their full potential. We empower educators with high-quality tools and impactful professional learning to drive systemic improvement. This strengthens our educators' capacity to meet each student's unique needs, resulting in improved academic achievement and positive behavioral outcomes.</p>
+<p>By aligning our practices with district policies and student-centered responsive principles, SRLEO promotes academic success, cultivates strong relationships with families and communities, and upholds legal and ethical standards.</p>
+<p><a href="https://sites.google.com/nv.ccsd.net/ccsdmtss" target="_blank">Multi-Tiered System of Supports</a></p>
+<!-- <p>The Clark County School District will provide appropriate training to all administrators, principals,
+                teachers, and all other personnel employed by the District as prescribed by this policy under the
+                heading “Professional Development. The professional development should address awareness concerning the
+                various types of bullying, how the bullying manifests itself, and educational consequences of bullying.
+                The CCSD Equity and Diversity Education Department is currently one of the providers of District – based
+                professional learning opportunities that meet the directives of Policy 5137, Safe and Respectful
+                Learning Environment.</p>
+
+            <p>The Equity and Diversity Education Department spearheads CCSD K-12 schools activities completed for the
+                “Week of Respect”, (first week of October) with schools submitting a report as required by NRS 388.145.
+            </p>
+            <ul>
+                <li>Get Your Blue On</li>
+                <li>Be An Upstander</li>
+                <li>Pledge to be An Upstander</li>
+            </ul>
+
+            <h2>Achieving Equity and Access in the Clark County School District</h2>
+
+            <p>In July 2019, Superintendent Jesus F. Jara created the Student Equity and Access Advisory Commission. The
+                Commission comprised of 13 leaders throughout the community with diverse backgrounds, motivated to
+                ensure the success of all students. Its charge was to make recommendations to the Superintendent to
+                ensure equity and access for all students.</p>
+
+            <p>The Commission participated in regular meetings and discussions over six months to accomplish its charge.
+                During that time, the Commission reviewed extensive school-by-school data to better understand the
+                current status of academic programming across our District and the critical areas in a student’s K-12
+                journey wherein our system has created opportunities and access for some and prevalent hurdles and
+                barriers for others.</p>
+
+            <p>For additional information, refer to the attached:</p>
+
+            <ul>
+                <li><a
+                        href="https://ccsd.net/resources/safe-and-respectful-learning-environments-and-opportunities-division/student-equity-and-access-commission-report-2020.pdf">Achieving
+                        Equity and Access in the Clark County School District 2020 Report (PDF)</a></li>
+                <li><a href="https://ccsd.net/resources/safe-and-respectful-learning-environments-and-opportunities-division/superintendents-response-to-report.pdf">Superintendent
+                        Jara’s Response: Superintendent’s Student Equity and Access Commission (PDF)</a></li>
+                <li><a
+                        href="https://ccsd.net/resources/safe-and-respectful-learning-environments-and-opportunities-division/student-equity-and-access-commission-report-2022.pdf">Achieving
+                        Equity and Access in the Clark County School District 2022 Report (PDF)</a></li>
+                <li><a
+                        href="https://ccsd.net/resources/safe-and-respectful-learning-environments-and-opportunities-division/student-equity-and-access-2022-scorecard.pdf">Achieving
+                        Equity and Access in the Clark County School District 2022 Scorecard (PDF)</a></li>
+            </ul>
+<h3>Safe And Respectful Learning Environment</h3>
+
+<p>The Clark County School District will provide appropriate training to all administrators, principals, teachers, and all other personnel employed by the District as prescribed by this policy under the heading “Professional Development. The professional development should address awareness concerning the various types of bullying, how the bullying manifests itself, and educational consequences of bullying. The CCSD Equity and Diversity Education Department is currently one of the providers of District – based professional learning opportunities that meet the directives of Policy 5137, Safe and Respectful Learning Environment.</p>
+
+<p>The Equity and Diversity Education Department spearheads CCSD K-12 schools activities completed for the “Week of Respect”, (first week of October) with schools submitting a report as required by NRS 388.145.</p>
+
+<ul>
+    <li>Get Your Blue On</li>
+    <li>Be An Upstander</li>
+    <li>Pledge to be An Upstander</li>
+</ul> -->
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

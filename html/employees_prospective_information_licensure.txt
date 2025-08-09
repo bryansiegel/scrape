@@ -1,0 +1,81 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>Nevada Licensure</h1>
+<ul>
+<li><a class="pdflink" href="http://www.doe.nv.gov/Educator_Licensure/Apply_for_License_Endorsement/" target="_blank">General Licensure Requirements</a></li>
+<li><a class="pdflink" href="/employees/resources/pdf/general_highly_qualified_requirements.pdf" target="_blank">General Highly Qualified Requirements</a></li>
+<li><a class="xlink-blue" href="https://www.ets.org/praxis/nv" target="_blank">State-mandated Testing Requirements</a></li>
+</ul>
+<p>For more specific information regarding licensing and testing procedures, please contact the <a class="xlink-blue" href="http://www.doe.nv.gov/Educator_Licensure/" target="_blank">Nevada Department of Education.</a></p>
+<p><strong>Licensure Department<br/>
+               	Nevada Department of Education<br/>
+               	9890 South Maryland Parkway<br/>
+               	Suite 231, Room 234</strong><br/>
+<strong>Las Vegas, Nevada 89183</strong></p>
+<p><strong>Telephone number: </strong> (702) 486-6458 </p>
+<p><strong>1. Nevada Elementary License -</strong> An elementary license (K-8) may be granted to holders of a bachelor"s degree from an accredited college or university, provided that the applicant has completed a program for elementary school teaching (including student teaching, nine semester hours in the teaching of reading, and nine semester hours in elementary methods as minimum requirements).</p>
+<p><strong>2. Nevada Secondary License -</strong> A secondary license may be granted to a person holding a bachelor"s degree in an academic or occupational field of study. The secondary license requires a person to have completed a recognized teaching major and 22 semester hours of credit in professional secondary education or professional occupational education courses (including eight semester hours in method courses and supervised student teaching in the field of specialization).</p>
+<p><strong>3. Special Licenses -</strong> A special license permits a holder to teach at the K-12 grade levels. Under the special license, a person may apply for endorsements in special education, administration, counseling, library, business and industry, and other selected teaching areas. The business and industry endorsements requires five years of work experience in the area of endorsement. All other endorsements under the special license require a degree and specific coursework. Applicants should check with the Nevada Department of Education for requirements. </p>
+</section>
+</div> <!-- / main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

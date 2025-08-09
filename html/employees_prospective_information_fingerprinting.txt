@@ -1,0 +1,113 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>CCSD Fingerprinting Services</h1>
+<p>All fingerprinting services are by <strong>appointment only</strong>. CCSD Fingerprinting Services does not schedule appointments. </p>
+<h3>1. Complete Waiver Form</h3>
+<ul>
+<li>A waiver form must be completed in the application system before your Human Resources representative can schedule your appointment. </li>
+<li>This waiver will be sent to you by your Human Resources  representative.</li>
+</ul>
+<h3>2. Submit Payment</h3>
+<!-- 					<h4>Initial educator license</h4> -->
+<p><span style="color:#ff0100;">Refunds will not be issued under any circumstances</span>. Do not pay until you are advised to by an Human Resources  representative. Ensure that you are paying under the correct payment link and that your waiver has been completed in the application system. A link to the payment screen will be provided with your waiver form.</p>
+<ul>
+<li>Upon submission of the appropriate documentation and the licensing fee, NDE will provide instructions on fingerprinting and approved vendors.</li>
+<li>New Hires $60</li>
+<li>NV DOE License Renewals: $15 <a href="https://secure.ccsd.net/employees/prospective/fingerprint/index.php?type=renew">License Renewals Payments</a></li>
+<li>Contractors: $60</li>
+<li>Regular Status Employees Required to Fingerprint Every 5 Years: $60<span style="color:#ff0100;">*</span></li>
+<li>Volunteers: $55</li>
+<li>Volunteers Required to Fingerprint Every 5 Years: $55</li>
+<li>PreService Students: $55</li>
+</ul>
+<p><span style="color:#ff0100;">Current support professionals on the 5 year fingerprint rotation are not required to pay as per the ESEA Negotiated Agreement.</span></p>
+<h3>3. Scheduling an Appointment with your Human Resources Representative</h3>
+<p>Licensed employees needing to renew their license with the Nevada Department of Education (NVDOE): <a href="tel:702-799-2992,1">702-799-2992 (option 1)</a>.
+</p>
+<ul>
+<li>All licensure fees must be paid to the NVDOE via OPAL prior to scheduling a fingerprint appointment with CCSD.</li>
+<li>CCSD fingerprinting fee is separate from the NVDOE fees charged in OPAL.</li>
+<li>CCSD is an approved fingerprinting vendor for the Nevada Department of Education (NVDOE). For a list of other approved NVDOE fingerprinting locations visit the <a href="https://doe.nv.gov/educator-licensure/fingerprinting-and-background-information">Nevada Department of Education website</a>.</li>
+</ul>
+<h4>Employees Required to Fingerprint Every 5 Years</h4>
+<ul>
+<li>Support Professionals,Professional-Technical Administrators, Physical and Occupational Therapists: <a href="tel:702-799-1094,1">702-799-1094, (option 1)</a>.</li>
+<li>Substitutes &amp; Coaches: <a href="tel:702-799-5490">702-799-5490</a>.</li>
+<li>Contractors &amp; Volunteers: <a href="tel:702-799-6423">702-799-6423</a>.</li>
+</ul>
+<h3>4. Arriving for your Appointment</h3>
+<ul>
+<li>Must bring an original valid government issued photo ID (Driver’s License, Passport, Instruction Permit, State ID, Military ID, etc.)</li>
+<ul>
+<li>Expired or Voided IDs will not be accepted unless you can provide both the expired or voided ID and the additional documentation provided to you by DMV.</li>
+<li>Photo/screenshot of photo IDs will not be accepted.</li>
+</ul>
+<li>Ensure your hands are clean, free of bandages, cuts/scrapes, and that you have no broken bones, casts, splints, etc.</li>
+<li>Photo/screenshot of your online payment confirmation. Cash payments are not accepted.</li>
+<ul>
+<li>Proof of payment page contains a long, unique confirmation number. A white page or a page that redirects to your personal information is not a payment confirmation</li>
+</ul>
+</ul>
+</section>
+</div> <!-- / main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

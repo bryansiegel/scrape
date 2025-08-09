@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CCSD Website Database</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <i class="bi bi-database"></i> CCSD Website Database
+            </a>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <!-- Statistics Cards -->
+        <div class="row mb-4" id="stats-row">
+            <div class="col-md-2">
+                <div class="card bg-primary text-white">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Total</h5>
+                        <h2 id="total-count">0</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="card bg-success text-white">
+                    <div class="card-body text-center">
+                        <h6 class="card-title">Departments</h6>
+                        <h4 id="departments-count">0</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="card bg-info text-white">
+                    <div class="card-body text-center">
+                        <h6 class="card-title">Divisions</h6>
+                        <h4 id="divisions-count">0</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="card bg-warning text-white">
+                    <div class="card-body text-center">
+                        <h6 class="card-title">General</h6>
+                        <h4 id="general-count">0</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="card bg-danger text-white">
+                    <div class="card-body text-center">
+                        <h6 class="card-title">Drive</h6>
+                        <h4 id="drive-count">0</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="card bg-secondary text-white">
+                    <div class="card-body text-center">
+                        <h6 class="card-title">Google Sites</h6>
+                        <h4 id="googleSites-count">0</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Search and Filter Section -->
+        <div class="row mb-4">
+            <div class="col-md-8">
+                <div class="input-group position-relative">
+                    <span class="input-group-text"><i class="bi bi-search"></i></span>
+                    <input type="text" class="form-control" id="searchInput" placeholder="Search URLs..." autocomplete="off">
+                    <!-- Autocomplete dropdown -->
+                    <div id="autocomplete-dropdown" class="position-absolute bg-white border border-top-0 rounded-bottom shadow-sm" style="top: 100%; left: 0; right: 0; z-index: 1000; display: none; max-height: 200px; overflow-y: auto;">
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <select class="form-select" id="categoryFilter">
+                    <option value="all">All Categories</option>
+                    <option value="departments">Departments</option>
+                    <option value="divisions">Divisions</option>
+                    <option value="general">General</option>
+                    <option value="drive">Google Drive</option>
+                    <option value="googleSites">Google Sites</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Results Section -->
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="mb-0">Search Results</h5>
+                        <div class="d-flex align-items-center">
+                            <span class="me-3">Show 
+                                <select id="itemsPerPage" class="form-select form-select-sm d-inline-block" style="width: auto;">
+                                    <option value="10">10</option>
+                                    <option value="25" selected>25</option>
+                                    <option value="50">50</option>
+                                    <option value="100">100</option>
+                                </select> items per page
+                            </span>
+                            <span id="result-count" class="badge bg-primary">0 results</span>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div id="loading" class="text-center py-4" style="display: none;">
+                            <div class="spinner-border text-primary" role="status">
+                                <span class="visually-hidden">Loading...</span>
+                            </div>
+                        </div>
+                        <div id="results-container">
+                            <div class="text-center text-muted py-5">
+                                <i class="bi bi-search display-1"></i>
+                                <p class="mt-3">Enter a search term or select a category to view results</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <nav aria-label="Search results pagination">
+                            <ul class="pagination pagination-sm justify-content-center mb-0" id="pagination">
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let currentPage = 1;
+        let totalResults = 0;
+        let itemsPerPage = 25;
+        let allResults = [];
+
+        // Load statistics on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            loadStats();
+            performSearch(); // Load initial results
+            
+            // Event listeners
+            const searchInput = document.getElementById('searchInput');
+            searchInput.addEventListener('input', debounce(function() {
+                performSearch();
+                handleAutocomplete();
+            }, 300));
+            
+            searchInput.addEventListener('focus', handleAutocomplete);
+            searchInput.addEventListener('blur', function() {
+                // Delay hiding to allow click on dropdown
+                setTimeout(() => hideAutocomplete(), 200);
+            });
+            
+            document.getElementById('categoryFilter').addEventListener('change', performSearch);
+            document.getElementById('itemsPerPage').addEventListener('change', function() {
+                itemsPerPage = parseInt(this.value);
+                currentPage = 1;
+                displayResults();
+            });
+            
+            // Hide autocomplete when clicking outside
+            document.addEventListener('click', function(e) {
+                if (!e.target.closest('#searchInput') && !e.target.closest('#autocomplete-dropdown')) {
+                    hideAutocomplete();
+                }
+            });
+        });
+
+        function debounce(func, wait) {
+            let timeout;
+            return function executedFunction(...args) {
+                const later = () => {
+                    clearTimeout(timeout);
+                    func(...args);
+                };
+                clearTimeout(timeout);
+                timeout = setTimeout(later, wait);
+            };
+        }
+
+        function loadStats() {
+            fetch('/api/stats')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.error) {
+                        console.error('Stats error:', data.error);
+                        return;
+                    }
+                    document.getElementById('total-count').textContent = data.total.toLocaleString();
+                    document.getElementById('departments-count').textContent = data.departments.toLocaleString();
+                    document.getElementById('divisions-count').textContent = data.divisions.toLocaleString();
+                    document.getElementById('general-count').textContent = data.general.toLocaleString();
+                    document.getElementById('drive-count').textContent = data.drive.toLocaleString();
+                    document.getElementById('googleSites-count').textContent = data.googleSites.toLocaleString();
+                })
+                .catch(error => console.error('Error loading stats:', error));
+        }
+
+        function performSearch() {
+            const searchTerm = document.getElementById('searchInput').value.trim();
+            const category = document.getElementById('categoryFilter').value;
+            
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('results-container').innerHTML = '';
+            
+            const params = new URLSearchParams();
+            if (searchTerm) params.append('search', searchTerm);
+            params.append('category', category || 'all');
+            
+            fetch(`/api/data?${params.toString()}`)
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('loading').style.display = 'none';
+                    
+                    if (data.error) {
+                        document.getElementById('results-container').innerHTML = `
+                            <div class="alert alert-danger">
+                                <i class="bi bi-exclamation-triangle"></i> Error: ${data.error}
+                            </div>
+                        `;
+                        return;
+                    }
+                    
+                    allResults = data.data;
+                    totalResults = data.count;
+                    currentPage = 1;
+                    displayResults();
+                })
+                .catch(error => {
+                    document.getElementById('loading').style.display = 'none';
+                    document.getElementById('results-container').innerHTML = `
+                        <div class="alert alert-danger">
+                            <i class="bi bi-exclamation-triangle"></i> Network error: ${error.message}
+                        </div>
+                    `;
+                });
+        }
+
+        function displayResults() {
+            const startIndex = (currentPage - 1) * itemsPerPage;
+            const endIndex = startIndex + itemsPerPage;
+            const pageResults = allResults.slice(startIndex, endIndex);
+            
+            document.getElementById('result-count').textContent = `${totalResults.toLocaleString()} results`;
+            
+            if (pageResults.length === 0) {
+                document.getElementById('results-container').innerHTML = `
+                    <div class="text-center text-muted py-5">
+                        <i class="bi bi-inbox display-1"></i>
+                        <p class="mt-3">No results found</p>
+                    </div>
+                `;
+                document.getElementById('pagination').innerHTML = '';
+                return;
+            }
+            
+            const categoryColors = {
+                departments: 'success',
+                divisions: 'info', 
+                general: 'warning',
+                drive: 'danger',
+                googleSites: 'secondary'
+            };
+            
+            const resultsHtml = pageResults.map(item => `
+                <div class="border-bottom pb-3 mb-3">
+                    <div class="d-flex justify-content-between align-items-start">
+                        <div class="flex-grow-1">
+                            <div class="d-flex align-items-center mb-2">
+                                <span class="badge bg-${categoryColors[item.category]} me-2">${item.category}</span>
+                                ${item.source ? `<span class="badge bg-light text-dark border">${item.source === 'txt_file' ? 'TXT File' : 'Database'}</span>` : ''}
+                                ${item.file ? `<small class="text-muted ms-2">${item.file}${item.line ? `:${item.line}` : ''}</small>` : ''}
+                            </div>
+                            <a href="${item.url}" target="_blank" class="text-decoration-none">
+                                ${item.url}
+                            </a>
+                            <i class="bi bi-box-arrow-up-right ms-1 text-muted"></i>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+            
+            document.getElementById('results-container').innerHTML = resultsHtml;
+            updatePagination();
+        }
+
+        function updatePagination() {
+            const totalPages = Math.ceil(totalResults / itemsPerPage);
+            const paginationContainer = document.getElementById('pagination');
+            
+            if (totalPages <= 1) {
+                paginationContainer.innerHTML = '';
+                return;
+            }
+            
+            let paginationHtml = '';
+            
+            // Previous button
+            paginationHtml += `
+                <li class="page-item ${currentPage === 1 ? 'disabled' : ''}">
+                    <a class="page-link" href="#" onclick="changePage(${currentPage - 1}); return false;">Previous</a>
+                </li>
+            `;
+            
+            // Page numbers
+            const startPage = Math.max(1, currentPage - 2);
+            const endPage = Math.min(totalPages, currentPage + 2);
+            
+            if (startPage > 1) {
+                paginationHtml += '<li class="page-item"><a class="page-link" href="#" onclick="changePage(1); return false;">1</a></li>';
+                if (startPage > 2) {
+                    paginationHtml += '<li class="page-item disabled"><span class="page-link">...</span></li>';
+                }
+            }
+            
+            for (let i = startPage; i <= endPage; i++) {
+                paginationHtml += `
+                    <li class="page-item ${i === currentPage ? 'active' : ''}">
+                        <a class="page-link" href="#" onclick="changePage(${i}); return false;">${i}</a>
+                    </li>
+                `;
+            }
+            
+            if (endPage < totalPages) {
+                if (endPage < totalPages - 1) {
+                    paginationHtml += '<li class="page-item disabled"><span class="page-link">...</span></li>';
+                }
+                paginationHtml += `<li class="page-item"><a class="page-link" href="#" onclick="changePage(${totalPages}); return false;">${totalPages}</a></li>`;
+            }
+            
+            // Next button
+            paginationHtml += `
+                <li class="page-item ${currentPage === totalPages ? 'disabled' : ''}">
+                    <a class="page-link" href="#" onclick="changePage(${currentPage + 1}); return false;">Next</a>
+                </li>
+            `;
+            
+            paginationContainer.innerHTML = paginationHtml;
+        }
+
+        function changePage(page) {
+            currentPage = page;
+            displayResults();
+        }
+
+        function handleAutocomplete() {
+            const query = document.getElementById('searchInput').value.trim();
+            
+            if (query.length < 2) {
+                hideAutocomplete();
+                return;
+            }
+            
+            fetch(`/api/autocomplete?q=${encodeURIComponent(query)}`)
+                .then(response => response.json())
+                .then(suggestions => {
+                    showAutocomplete(suggestions);
+                })
+                .catch(error => {
+                    console.error('Autocomplete error:', error);
+                    hideAutocomplete();
+                });
+        }
+
+        function showAutocomplete(suggestions) {
+            const dropdown = document.getElementById('autocomplete-dropdown');
+            
+            if (suggestions.length === 0) {
+                hideAutocomplete();
+                return;
+            }
+            
+            const html = suggestions.map(suggestion => `
+                <div class="autocomplete-item px-3 py-2 border-bottom cursor-pointer" style="cursor: pointer;" data-suggestion="${suggestion}">
+                    <i class="bi bi-search me-2 text-muted"></i>${suggestion}
+                </div>
+            `).join('');
+            
+            dropdown.innerHTML = html;
+            dropdown.style.display = 'block';
+            
+            // Add click handlers to autocomplete items
+            dropdown.querySelectorAll('.autocomplete-item').forEach(item => {
+                item.addEventListener('click', function() {
+                    const suggestion = this.getAttribute('data-suggestion');
+                    document.getElementById('searchInput').value = suggestion;
+                    hideAutocomplete();
+                    performSearch();
+                });
+                
+                item.addEventListener('mouseenter', function() {
+                    this.style.backgroundColor = '#f8f9fa';
+                });
+                
+                item.addEventListener('mouseleave', function() {
+                    this.style.backgroundColor = '';
+                });
+            });
+        }
+
+        function hideAutocomplete() {
+            document.getElementById('autocomplete-dropdown').style.display = 'none';
+        }
+    </script>
+</body>
+</html>

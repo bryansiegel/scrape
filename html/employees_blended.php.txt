@@ -1,0 +1,23 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>BlendED Initiative</h1>
+<p>Blended education, or “BlendED” for short, combines the best aspects of face-to-face learning with the best aspects of online learning, to generate a learning experience for the student that is individualized to meet the needs of every student.</p>
+<img alt="" height="246" src="resources/images/teacher-student-tablet.jpg" width="368"/>
+<p>The BlendED Initiative promotes best practices of digital learning in CCSD through a collaborative effort of the following branches of the Curriculum and Professional Development Division (CPD):</p>
+<ul>
+<li>Online and Blended Learning Department</li>
+<li>Professional Development Education</li>
+<li>Nevada Ready 21 Program</li>
+</ul>
+<div class="ctas">
+<a class="more-link margin-right" href="https://sites.google.com/nv.ccsd.net/blended" target="_blank">BlendED info</a>
+<a class="more-link" href=" https://sites.google.com/nv.ccsd.net/blended/contact" target="_blank">Contact Us</a>
+<!--           <a class="more-link" href="http://obl.ccsd.net" target="_blank">Contact Us</a> -->
+</div>
+<div class="diagram">
+<img alt="" src="resources/images/BlendED-diagram.png"/>
+</div>
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

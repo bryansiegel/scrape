@@ -1,0 +1,180 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	MWDBE Accomplishments</h1>
+<h2>
+	Accomplishments 2006 - 2007</h2>
+<ul>
+<li>
+		Established a stronger presence at women's and minorities chambers and provided documentation and support for businesses interested in working with the School District.
+		<ul>
+<li>
+				Over thirty chamber meetings were attended during FY 06/07. CCSD brochures and Onvia DemandStar materials were offered and distributed at various chamber and business meetings. Meetings were held with business directors of the Latin and Asian Chambers to encourage those communities to come do business with CCSD.<br>
+				 </br></li>
+</ul>
+</li>
+<li>
+		Participated in the International Supply Management (ISM) Local Supplier Opportunity Faire on February 21, 2007.
+		<ul>
+<li>
+				Members of the Purchasing Department participated in all levels of this Faire. Participation included organizing of the event, staffing registration and exhibiting and offering CCSD information and distribution of purchasing brochures. Information regarding doing business with CCSD was offered to over 2,000 suppliers.<br>
+				 </br></li>
+</ul>
+</li>
+<li>
+		Participated in the Nevada Association of Purchasing and Supply Management Faire, March 14, 2007.
+		<ul>
+<li>
+				In this reverse Trade Fair, the Purchasing Department purchased and staffed a booth for this event which attracts minority owned and women owned businesses. Purchasing and Onvia DemandStar Brochures were distributed to attendees. A representative from the Purchasing Department sat on a question and answer panel in which suppliers could direct questions to purchasing staff.<br/>
+				 </li>
+</ul>
+</li>
+<li>
+		New forms for interviewing potential suppliers and assessment of ability to do business with the School District were created.
+		<ul>
+<li>
+				New supplier intake and assessment forms were created to evaluate those suppliers who approach the School District. Standardized forms enable buyers to uniformly evaluate interested suppliers.<br/>
+				 </li>
+</ul>
+</li>
+<li>
+		Tracked and reported on spending as outlined in NRS 332 and NRS 338.
+		<ul>
+<li>
+				Data for Fiscal Years 06/07 was compared by percentage of dollars spent by supplier types for the following categories:
+				<ul>
+<li>
+						Informally competed purchases &lt; $25,000</li>
+<li>
+						Formally competed purchases &gt; $25,000</li>
+<li>
+						FAC Informally competed purchases &lt; $100,000</li>
+<li>
+						FAC Formally competed purchases &gt; $100,000<br/>
+						 </li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+		Meeting Objectives
+		<ul>
+<li>
+				The overall objectives for Supplier Outreach were met through participation in the above outlined events and activities. In addition to continuing meeting the goals of the five year plan, the Purchasing Department will consider participation in the AECSoft Searchable Database for Diverse Suppliers in the upcoming year.</li>
+</ul>
+</li>
+</ul>
+<hr/>
+<h2>
+	Accomplishments 2004 - 2005</h2>
+<p>
+<strong>Participate in the Clark County Business Development "Meet the Public and Private Agencies Buyers and Purchasing Agents Forum".</strong></p>
+<p>
+	Three District employees representing both Purchasing and Construction Management attended the forum on June 16, 2005 and distributed brochures on how to do business with the District. Contact information, staff directories, and current bid information was also distributed.</p>
+<p>
+<strong>Purchase and staff a booth at the International Supply Management (ISM) Local Supplier Opportunity Faire.</strong></p>
+<p>
+	Eight Purchasing Department employees organized a CCSD Booth at the ISM Supplier Opportunity Faire held in March 22, 2005. Information regarding both Construction Management and Purchasing was distributed to over 2,000 suppliers.</p>
+<p>
+<strong>Collect and define spend data for reporting.</strong></p>
+<p>
+	Fiscal Year 04 spend data was collected and categorized for reporting. Reporting was split into two groups: Facilities purchases (FAC) and Purchasing (non-FAC) purchases. Spend reports were published on both the formally competed purchases and the informally competed purchases. As there are different statutes (NRS 338 vs NRS 332) with different dollar thresholds that govern these purchases, the reporting was as follows:</p>
+<ul>
+<li>
+		FAC Formally Competed Purchases (over $100,000)</li>
+<li>
+		FAC Informally Competed Purchases (under $100,000)</li>
+<li>
+		Purchasing Formally Competed Purchases (over $25,000)</li>
+<li>
+		Purchasing Informally Competed Purchases (under $25,000)</li>
+</ul>
+<p>
+	Identified action item for next year: Significant percentage of suppliers have not completed District's supplier information page that asks for business type, size, and enterprise type, if applicable.</p>
+<p>
+	 </p>
+<p>
+<strong>Establish Supplier Outreach Committee, Goals &amp; Objectives.</strong></p>
+<p>
+	Supplier Outreach Committee was established within the Purchasing area. Facilities will designate representatives to participate as well as assist with funding if needed. Goals and Objectives were proposed for a 4-year period.</p>
+<p>
+<strong>"Doing Business with CCSD" webpage.</strong></p>
+<p>
+	Webpage "Doing Business with CCSD" was initially created in 2004. Website was updated and "went live" in September 2005.</p>
+<p>
+<strong>Offer training, outreach, and other tools to assist local and MWDBE firms.</strong></p>
+<p>
+	Negotiated free automatic notification and download services from Demandstar.com, the current internet hosting site for the Purchasing Department's competitive activities. Information on how to sign up was distributed at both the ISM Supplier Faire and the Clark County Forum.</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>Supplier Information
+<ul>
+<li><a href="http://www.demandstar.com/supplier/bids/agency_inc/bid_list.asp?f= search&amp;mi=137966" target="_blank">Current
+Bid/RFP Opportunities</a></li>
+<li><a href="/departments/purchasing-warehousing/doing-business-with-ccsd">Doing Business with CCSD</a></li>
+<li><a href="/resources/purchasing-warehousing/5941.2-outreach-brochure-5-4-2022-220510.pdf">How
+To Do Business With The District</a></li>
+</ul>
+
+Community Information
+<ul>
+<li><a href="https://ccsd.net/departments/purchasing-warehousing/surplus-available-to-the-public-for-sale">Surplus Available to the Public for Sale</a></li>
+<li><a href="/departments/purchasing-warehousing/employee-purchase-options">Employee Purchase Options</a></li>
+</ul>
+
+Catalogs
+<ul>
+<li><a href="https://prd-wd.ccsd.net:8120/sap/bc/webdynpro/sap/zsrmtextbook_catalog?sap-client=400#" target="_blank">Adopted Textbook Catalog - Display-Only</a></li>
+<li><a href="/departments/purchasing-warehousing/adopted-textbook-buy-guides">Adopted Textbook Buy Guides</a></li>
+<li><a href="https://erp-portal.ccsd.net/irj/go/km/docs/documents/Public%20Documents/Purchasing/Generalcatalogprod.html">Shopping Cart Catalog - General - Display-Only</a></li>
+<li><a href="https://erp-portal.ccsd.net/irj/go/km/docs/documents/Public%20Documents/Purchasing/custodialcatalogprod.html">Shopping Cart Catalog - Custodial Services - Display-Only</a></li>
+<li><a href="https://erp-portal.ccsd.net/irj/go/km/docs/documents/Public%20Documents/Purchasing/maintenancecatalogprod.html">Shopping Cart Catalog - Maintenance - Display-Only</a></li>
+<li><a href="/resources/purchasing-warehousing/purchasing-website-directory.pdf">Purchasing Dept. Directory</a></li>
+</ul>
+
+Warehouse Pickup or Transfer
+<ul>
+<li><a href="https://prd-wd.ccsd.net:8121/sap/bc/webdynpro/sap/zmm_ship1_req?sap-client=400#" target="_blank">SHIPPING-1</a></li>
+<li><a href="/resources/purchasing-warehousing/how-to-use-the-shipping-1-form.pdf">How to Use SHIPPING-1 Form</a></li>
+</ul></section><section class="dept-list-wrap"><h2 class="section-title-lined">Departments</h2><ul class="dept-list"><li><a href="/district/directory/maintenance-purchasing">Maintenance Purchasing</a></li><li><a href="/district/directory/warehouse-i">Warehouse I</a></li><li><a href="/district/directory/warehouse-ii">Warehouse II</a></li></ul></section><section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

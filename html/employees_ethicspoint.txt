@@ -1,0 +1,30 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>EthicsPoint Incident Management System</h1>
+<h2>The EthicsPoint Incident Management System is now available to CCSD employees!</h2>
+<div style="display:inline-block; margin-top:10px;"><a class="more-link" href="https://secure.ethicspoint.com/domain/media/en/gui/71999/index.html">EthicsPoint Website</a></div>
+<p>The EthicsPoint Incident Management System (Web site and hotline)
+allows all employees to easily and confidentially report any issue or instance
+of misconduct. However, all employees are still required to adhere to mandatory reporting requirements, as well as follow required procedures for reporting certain types of misconduct. A report through EthicsPoint does not satisfy those requirements. Also, all employees are expected to approach their supervisor or CCSD Leadership first in instances where they believe misconduct has occurred.</p>
+<ul>
+<li>Comprehensive reporting tool that assists in addressing employee
+concerns regarding potential fraud, abuse, and other
+misconduct in the workplace.</li>
+<li>24/7 access for employees to file confidential and
+anonymous reports via Internet or telephone.</li>
+<li>EthicsPoint secure server prevents any possible breach in
+security for online submissions.</li>
+<li>Employees can submit a report via telephone at a toll free
+hotline and NAVEX Global Call Center will document
+and submit the report via the EthicsPoint Web site.</li>
+<li>After a case is created, the employee will receive a
+confidential user name and password so that they can
+login into the case and add information, and respond to
+questions regarding the case within the system.</li>
+<li>The system does not generate or maintain any internal
+connection logs with Internet Protocol (IP) addresses.</li>
+</ul>
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

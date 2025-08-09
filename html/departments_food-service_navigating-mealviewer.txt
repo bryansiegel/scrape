@@ -1,0 +1,22 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1 style="color:black; font-size:28px; text-align:left;">
+	Navigating MealViewer School Menus</h1>
+<p>
+	The MealViewer program is a digital experience to view your school menus.</p>
+<p>
+	The MealViewer platform can be accessed via your Google Play or App Store on a smartphone or by going to <a href="http://menu.ccsd.net">menu.ccsd.net</a>.</p>
+<h3>
+	Links</h3>
+<p>
+<a href="https://drive.google.com/file/d/1j6LEIhvQrVgCXXiSep_TtAtjApfc9uwZ/view">Navigating MealViewer Instructional Video</a></p>
+<p>
+	 </p>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

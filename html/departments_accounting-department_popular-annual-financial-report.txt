@@ -1,0 +1,60 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Popular Annual Financial Report</h1>
+<h2>
+	 </h2>
+<h2>
+	2024</h2>
+<p>
+<a href="/resources/accounting-department/2024-pafr.pdf">Fiscal Year Ended June 30, 2024</a></p>
+<h2>
+	2023</h2>
+<p>
+<a href="/resources/accounting-department/2023-pafr.pdf">Fiscal Year Ended June 30, 2023</a></p>
+<h2>
+	2022</h2>
+<p>
+<a href="/resources/accounting-department/2022-pafr.pdf">Fiscal Year Ended June 30, 2022</a></p>
+<h2>
+	2021</h2>
+<p>
+<a href="/resources/accounting-department/2021-pafr.pdf">Fiscal Year Ended June 30, 2021</a></p>
+<h2>
+	2020</h2>
+<p>
+<a href="/resources/accounting-department/2020-pafr.pdf">Fiscal Year Ended June 30, 2020</a></p>
+<h2>
+	2019</h2>
+<p>
+<a href="/resources/accounting-department/2019-pafr.pdf">Fiscal Year Ended June 30, 2019</a></p>
+<h2>
+	2018</h2>
+<p>
+<a href="/resources/accounting-department/2018-pafr.pdf">Fiscal Year Ended June 30, 2018</a></p>
+<div style="visibility: hidden">
+<h2>
+		2017</h2>
+<p>
+<a href="/resources/accounting-department/2017-pafr.pdf">Fiscal Year Ended June 30, 2017</a></p>
+<h2>
+		2016</h2>
+<p>
+<a href="/resources/accounting-department/2016-pafr.pdf" target="_blank">Fiscal Year Ended June 30, 2016</a></p>
+<h2>
+		2015</h2>
+<p>
+<a href="/resources/accounting-department/2015-pafr.pdf" target="_blank">Fiscal Year Ended June 30, 2015</a></p>
+<h2>
+		2014</h2>
+<p>
+<a href="/resources/accounting-department/2014-pafr.pdf" target="_blank">Fiscal Year Ended June 30, 2014</a></p>
+<h2>
+		2013</h2>
+<p>
+<a href="/resources/accounting-department/2013-pafr.pdf" target="_blank">Fiscal Year Ended June 30, 2013</a></p>
+</div>
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

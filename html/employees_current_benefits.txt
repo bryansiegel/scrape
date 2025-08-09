@@ -1,0 +1,141 @@
+<div class="content-wrap" id="content_wrap">
+<!-- 			<div id="main_content_wrap" class="main-content-wrap" role="main"> -->
+<div class="full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Employee Benefits</h1>
+<img alt="CCSD Funding" height="auto" src="https://www.ccsd.net/employees/resources/images/CCSD_EmpCompBenegraphic.png" style="margin-left: 35px;" width="800"/>
+<div class="content-full-wrap" style="margin-left: 145px;margin-right: 200px;">
+<div class="card-wrapper" id="card1" style="margin-left: 20px;margin-right: -5px;">
+<a href="https://www.ccasa.net/" id="we-are">
+<h2 align="center" class="card-title">CCASAPE</h2>
+</a>
+<div class="card-content">
+<div class="card-text">
+									HEALTH &amp; WELFARE TRUST<br/>4055 SOUTH SPENCER STREET, SUITE 230<br/>
+									LAS VEGAS, NV 89119<br/>
+									(702) 796 - 9602<br/>
+									MEMBERSHIP<br/>
+									ENROLLMENT: OPEN<br/>
+									WITHDRAWAL:  BY SEPT 15<br/>
+</div>
+</div>
+</div>
+<div class="card-wrapper" id="card2" style="margin-left: 20px;margin-right: 20px;">
+<a href="https://new.ccea-nv.org/" id="we-are">
+<h2 align="center" class="card-title">CCEA</h2>
+</a>
+<div class="card-content">
+<div class="card-text">
+					TEACHERS HEALTH TRUST<br/>
+					4230 MCLEOD DRIVE<br/>
+					LAS VEGAS, NV 89121<br/>
+					(702) 733 - 3063<br/>
+					MEMBERSHIP<br/>
+					ENROLLMENT: OPEN<br/>
+					WITHDRAWAL: JULY 1 - 15<br/>
+</div>
+</div>
+</div>
+</div>
+<div class="content-full-wrap">
+<div class="card-wrapper cards-bottom-rowcards-bottom-row" id="card3" style="margin-left: 50px;margin-right:15px;">
+<a href="http://www.esea-nv.org/" id="we-are">
+<h2 align="center" class="card-title">ESEA</h2>
+</a>
+<div class="card-content">
+<div class="card-text">
+						CCSD HEALTH &amp; WELFARE<br/>
+						3511 EAST HARMON AVENUE<br/>
+						LAS VEGAS, NV 89121<br/>
+						(702) 794 - 2537<br/>
+						MEMBERSHIP<br/>
+						ENROLLMENT: OPEN<br/>
+						WITHDRAWAL: JULY 1 - 15<br/>
+</div>
+</div>
+</div>
+<div class="card-wrapper cards-bottom-row" id="card4" style="margin-left: 0px;margin-right:15px;">
+<h2 align="center" class="card-title">PAA</h2>
+<div class="card-content">
+<div class="card-text">
+					CCSD HEALTH &amp; WELFARE<br/>
+					PO BOX 530336<br/>
+					HENDERSON, NV, 89053<br/>
+					MEMBERSHIP<br/>
+					ENROLLMENT: OPEN<br/>
+					WITHDRAWAL: BY SEPT 15<br/>
+</div>
+</div>
+</div>
+<div class="card-wrapper" id="card5" style="margin-top:20px;">
+<a href="https://www.poaccsd.com/" id="we-are">
+<h2 align="center" class="card-title">POA</h2>
+</a>
+<div class="card-content">
+<div class="card-text">
+					CCSD HEALTH &amp; WELFARE<br/>
+					145 PANAMA STREET<br/>
+					HENDERSON, NV 89015<br/> POACCSD.COM
+					(702) 897 - 9366
+					MEMBERSHIP<br/>
+					ENROLLMENT: OPEN<br/>
+					WITHDRAWAL: BY SEPT 15<br/>
+</div>
+</div>
+</div>
+</div>
+</section></div>
+<div style="padding: 20px 20px 0 20px;">
+<p>Benefits for Clark County School District employees are outlined in the <a href="/employees/current/employment/information#agreements">Negotiated Agreements</a>.</p>
+<p>For more information regarding benefits, please contact the Benefits Department:</p>
+<ul>
+<li><strong>Support Professionals, Police and Police Administrators</strong><br>
+				Phone: CCSD (702) 799-5418</br></li>
+<br/>
+<li><strong>Certified and Licensed Staff</strong><br>
+				Phone: Teachers Health Trust: (702) 794-0272</br></li>
+<br/>
+<li><strong>Administrators</strong><br>
+				Phone: CCASAPE: (702) 796-9602</br></li>
+<p>For payroll questions, please contact the Payroll Department:</p>
+<li><strong>Payroll</strong><br> 
+				Phone: (702) 799-5351</br></li>
+</ul>
+<h2>Other Benefits Information</h2>
+<p><a href="https://ccsd.net/employees/current/employment/health#Group">Employee Benefits</a></p>
+<!--     			<p><a href="https://www.ccsd.net/departments/employee-benefits/group-health-insurance">Employee Benefits</a></p>	 -->
+<p><a href="sick-leave">Additional Sick Leave</a></p>
+<p><a href="fmla">Family Medical Leave</a></p>
+<p><a href="leave-of-absence.php">Leave of Absence</a></p>
+<br/>
+<hr/>
+<h2>NV PERS Retirement Information</h2>
+<ul>
+<li style="list-style-type: none;"><strong>Public Employees' Retirement System of Nevada</strong><br/>
+					Phone: <strong>(702) 486-3900</strong><br/>
+					Website: <strong><a href="http://nvpers.org">nvpers.org</a></strong><br><br>
+</br></br></li>
+<li>Contact <strong>PERS</strong> directly for assistance with the following:
+					<ul>
+<li>PERS <strong>applications</strong> for <strong>Regular Retirement &amp; Disability Retirement</strong></li>
+<li>Retirement <strong>Counseling</strong></li>
+<li>PERS retirement <strong>pension estimates</strong></li>
+<li>PERS <strong>service credit purchases</strong></li>
+</ul>
+</li>
+</ul>
+<h2>NV PERS Frequently Requested information</h2>
+<p><a href="https://www.nvpers.org/faq">NV PERS Frequently Asked Questions</a><br>
+<a href="https://www.nvpers.org/publications/retirement-brochures">NV PERS Retirement Brochures</a></br></p>
+<p>PERS retirement and CCSD retirement are two separate processes involving two separate agencies. Both agency processes must be completed to officially retire with PERS. Dates for each agency may also be different.</p>
+
+<hr/>
+<h2>CCSD Retirement – General Information Overview</h2>
+<h3>Learn More About CCSD Retirement Information</h3>
+<p>​​Submit a request for information form for more information!</p>
+<a class="button-blue-standard" href="https://forms.gle/w363nrKAse28z1bp7">Submit Your Information Request</a>
+<p>Phone: <strong>(702) 799-0206, Option 1</strong></p>
+<p>Email: <strong><a href="mailto:hrretirement@nv.ccsd.net">hrretirement@nv.ccsd.net</a></strong></p>
+</div> <!-- /main_content_wrap -->
+<!-- /sidebar_wrap -->
+</div>

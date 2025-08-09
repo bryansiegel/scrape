@@ -1,0 +1,79 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Employee Services</h1>
+<ul>
+<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdrlyZF6MQ5VxpcYBbFq_CUNarAjmd2RPb2B1U3LZj1OFk0jA/viewform" target="_blank">Request for Verification of Teaching Experience, Fedloan Teach Grant Certification, and Teacher Loan Forgiveness</a></li>
+<li><a href="http://ess.ccsd.net" target="_blank">Employee Self Service (ESS)</a></li>
+<li><a href="change-of-address">Change of Address</a></li>
+<li><a href="/employees/resources/pdf/Requesting-SubstituteSmartExpress.pdf">Request a Substitute (SmartFind Express)</a></li>
+<!--<li><a href="/employees/resources/pdf/EmployeeReferenceQuickGuide062018.pdf">Employee Quick Reference Card</a></li> -->
+<li><a href="/employees/resources/pdf/EmployeeQuickGuide-03202024.pdf">Employee Quick Reference Card</a></li>
+<li><a href="/employees/resources/pdf/SubstituteQuickGuide-03202024.pdf">Substitute Quick Reference Card</a></li>
+<li><a href="id-badge">I.D. Badge</a></li>
+<li><a href="/employees/current/employment/salary.php#verification">Request for DoDEA Form 5013, Heartland/Perkins Deferment, and Public Service Loan Forgiveness</a></li>
+<li><a href="/employees/current/employment/salary#verification">Verification of Income</a></li>
+<li><a href="/employees/current/employment/health">Health Information</a></li>
+</ul>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar_wrap -->
+</div>

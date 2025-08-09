@@ -1,0 +1,111 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>Contact Your Board Member</h1>
+<h2>By Phone</h2>
+<p>702-799-1072</p>
+<h2>By Mail</h2>
+<p>Administrative Center<br>
+					5100 W. Sahara Avenue<br>
+					Las Vegas, NV 89146</br></br></p>
+<h2>By Email</h2>
+<p><strong>Note: Emails sent to a Board member may be subject to disclosure under the Nevada Public Records Act (NRS Chapter 239).</strong></p>
+<!-- form action needs to be complete url for production or will go to the www url and not send email. -->
+<form action="https://ccsd.net/trustees/contact/.contact.php" class="simple-form" id="contact_trustee" method="post" name="contact-trustee">
+<label for="trustee">Your board member</label><br/>
+<select id="trustee" name="trustee" onchange="location.href='/trustees/contact/'+this.value">
+<option value="all">All Board Members</option>
+<option value="adams"> Irene<br/> Bustamante Adams</option>
+<option value="zamora"> Brenda<br/> Zamora</option>
+<option value="henry"> Tameka<br/> Henry</option>
+<option value="barron"> Isaac<br/> Barron</option>
+<option value="biassotti"> Lorena <br/> Biassotti</option>
+<option value="cavazos"> Linda P.<br/> Cavazos</option>
+<option value="dominguez"> Lydia<br/> Dominguez</option>
+<option value="esparzastoffregan"> Ramona<br/> Esparza-Stoffregan</option>
+<option value="johnson"> Adam<br/> Johnson</option>
+<option value="satory"> Lisa<br/> Satory</option>
+<option value="stevens"> Emily <br/> Stevens</option>
+</select>
+<br/>
+<label for="from">Your Email</label><br/>
+<input id="from" name="from" placeholder="Your email address" type="text"/><br/>
+<label for="subject">Subject</label><br/>
+<input id="subject" name="subject" placeholder="What is this regarding?" type="text"/><br/>
+<input id="trustee-input" name="trustee-input" placeholder="Trustee-Input" type="text"/><br/>
+<label for="message">Message</label><br/>
+<textarea id="message" name="message"></textarea><br/>
+<div id="upload_wrap">
+<label>Upload</label><br>
+<span class="note">Allowed File Types: jpg, png, gif, doc, docx, ppt, pptx, xls, xlsx, pdf</span>
+<input id="attachment" name="attachment" type="hidden" value=""/>
+<iframe aria-label="Choose File upload" frameborder="0" height="30" id="ipUploadFrame" scrolling="no" src="/trustees/contact/.upload.php" title="Choose File"></iframe>
+<img id="ipUploadIndicator" src="//static.ccsd.net/ccsd/images/upload-indicator.gif" style="display: none;">
+<div id="uploaded"></div>
+</img></br></div>
+<div class="captcha-field" id="captcha"></div>
+<input id="submit" name="submit" type="submit" value="Send Email"/>
+<a href="./">Cancel</a>
+</form>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

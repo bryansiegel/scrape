@@ -1,0 +1,123 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Get Hired</h1>
+<!-- 				<h1>Job Opportunities</h1> -->
+<div style="width: auto; margin-left: 139px; margin-right: 139px;"> <a href="https://recruitment.ccsd.net/" target="_blank">
+<img alt="Sahara Exterior" border="0" class="teachvegas-img" src="/_static/images/CCSD-Sahara-Ext.jpg" style="width:600px; height:auto;"/>
+<!-- 	        <img src="images/WhenYouGrow-TeachVegas.jpg" style="width:600px; height:auto;"  border="0" alt="When You Grow" > -->
+</a></div>
+<p>Opportunities abound in The Clark County School District (CCSD), one of the largest and fastest growing districts in the United States. <!-- Come Grow with us! --> </p>
+<p>Are you interested in a Teaching or other Licensed Professional position? We are here to support you in acquiring your dream position! Connect with our <a href="https://recruitment.ccsd.net/recrutiment-team/">Recruitment Team</a> today to get the process started. </p>
+<!-- <p><a href="https://flows.beamery.com/ccsd/talentnetworkform">Click here</a> to Join our Talent Network. </p> -->
+<p>Would you like to learn more about living and working in the Las Vegas area? <a href="https://recruitment.ccsd.net/events/">View our events</a>. Every webinar is hosted by one of our Recruiters where you can connect, ask questions, and even schedule a one-on-one meeting. 
+</p>
+<p>Ready to connect with a Recruiter now? Send us an email at <a href="mailto:Recruitment@nv.ccsd.net">Recruitment@nv.ccsd.net</a> along with the position you are interested in. We look forward to hearing from you! </p>
+<!--            <h2>Our Taleo application system has gone live!</h2>
+          <p>We are excited to have you begin working in our new system; however, please bear with us. The new application system is one of three major software platforms being brought on-line today (January 2, 2020), and we are going to be working through some issues to get everything working perfectly. We anticipate that jobs will begin posting on January 13, 2020 and will be an ongoing process.  Please check back frequently to apply for open positions.</p>
+          <p>If you received an email with login information and directions, you will be able to access and update your candidate profile.  Please follow the directions provided in the email.</p>
+          <p>If you are a current employee, you will be able to access the Taleo program through your ESS at <a href="https://hcm.ccsd.net">hcm.ccsd.net</a>. We are aware of an issue preventing some people from logging in and are working to correct it. If you have any questions please contact us at 702-799-2992.</p>
+          <p>Thanks in advance for your patience.</p> -->
+<h2>Recruitment Information</h2>
+<br/>
+<!-- <h2>Join Our Team</h2> -->
+<div class="alert-primary">
+<strong>Current Employees</strong><br/>
+	        If you are a current CCSD employee please use the <a href="https://hcm.ccsd.net">Internal Positions</a> or navigate to Taleo on the <a href="https://hcm.ccsd.net">Employee Self Service (ESS)</a> page and click on the Taleo Internal Job Posting tile.</div>
+<div class="alert-warning">DO NOT create a new profile. If you have issues signing in please go to <a href="https://quickit.ccsd.net/">Quickit.ccsd.net</a> to submit a ticket or call the helpdesk at 702-799-3300.</div>
+<ul>
+<li><a href="https://hcm.ccsd.net">Internal Positions</a></li>
+<li><a href="/employees/prospective/descriptions">Job Descriptions</a></li>
+<li><a href="/employees/prospective/information/fingerprinting">Fingerprinting Services</a></li>
+<li><a href="https://recruitment.ccsd.net/">Job Application Process</a></li>
+<li><a href="https://recruitment.ccsd.net/recrutiment-team/">Connect with a Recruiter</a></li>
+<li><a href="https://ccsd.taleo.net/careersection/p/profile.ftl?lang=en">Start/Modify Application</a></li>
+<li><a href="https://ccsd.taleo.net/careersection/2/jobsearch.ftl?lang=en">Licensed Professionals</a> (Teacher, School Nurse, School Counselor, etc.) </li>
+<li><a href="https://ccsd.taleo.net/careersection/4/jobsearch.ftl?lang=en">Administrative Professionals</a> (Director, Coordinator, Principal, etc.)</li>
+<li><a href="https://ccsd.taleo.net/careersection/3/jobsearch.ftl?lang=en">Support Professionals</a></li>
+<li><a href="https://ccsd.taleo.net/careersection/5/jobsearch.ftl?lang=en">Substitute</a></li>
+<li><a href="https://ccsd.taleo.net/careersection/6/jobsearch.ftl?lang=en">Student Worker</a></li>
+<li><a href="https://ccsd.taleo.net/careersection/7/jobsearch.ftl?lang=en">Volunteer</a></li>
+<li><a href="https://recruitment.ccsd.net/arl/">Alternate Route to Licensure</a></li>
+<li><a href="https://ccsd.taleo.net/careersection/9/jobsearch.ftl?lang=en">Contractors</a></li>
+<li><a href="/employees/prospective/j-1/index.php">J-1 Program Description</a></li>
+</ul>
+<!--
+	       <ul> 
+          <li><a href="https://hcm.ccsd.net">Internal Positions</a></li>
+          <li><a href="https://ccsd.taleo.net/careersection/2/jobsearch.ftl?lang=en">Licensed/Certified Professionals</a></li>
+          <li><a href="https://ccsd.taleo.net/careersection/3/jobsearch.ftl?lang=en">Support Professionals</a></li>
+          <li><a href="https://ccsd.taleo.net/careersection/4/jobsearch.ftl?lang=en">Administrative Professionals</a></li>
+          <li><a href="https://ccsd.taleo.net/careersection/5/jobsearch.ftl?lang=en">Substitute</a></li>
+          <li><a href="https://ccsd.taleo.net/careersection/6/jobsearch.ftl?lang=en">Student Worker</a></li>
+          <li><a href="https://ccsd.taleo.net/careersection/7/jobsearch.ftl?lang=en">Volunteer</a></li>
+          <li><a href="https://teachvegas.ccsd.net/arl/">Alternate Route to Licensure</a></li>
+          <li><a href="https://ccsd.taleo.net/careersection/9/jobsearch.ftl?lang=en">Contractors</a></li>
+          <li><a href="https://ccsd.taleo.net/careersection/p/profile.ftl?lang=en">Start or Modify your Application</a></li>
+        </ul>
+-->
+<!-- 
+                <p>
+                <ul>
+                <li><a href="https://ccsdjobs.searchsoft.net/ats/app_login?COMPANY_ID=MA000239" target="_blank">Apply Here</a></li>
+                <li><a href="https://secure.ccsd.net/employees/prospective/fingerprint/index.php?type=new" target="_blank">Fingerprint Payment</a></li>
+                </ul>
+                
+                <h2>View Available Jobs</h2>
+                	<ul>
+						<li><a href="https://ccsdjobs.searchsoft.net/ats/job_board_frame?COMPANY_ID=MA000239&APPLICANT_TYPE_ID=00000003" target="_blank">View Open Administrative Positions</a></li>
+						<li><a href="https://ccsdjobs.searchsoft.net/ats/job_board_frame?COMPANY_ID=MA000239&APPLICANT_TYPE_ID=00000001" target="_blank">View Open Licensed Positions</a></li>
+						<li><a href="https://ccsdjobs.searchsoft.net/ats/job_board_frame?COMPANY_ID=MA000239&APPLICANT_TYPE_ID=00000004" target="_blank">View Open Substitute Positions</a></li>
+						<li><a href="https://ccsdjobs.searchsoft.net/ats/job_board_frame?COMPANY_ID=MA000239&APPLICANT_TYPE_ID=00000002" target="_blank">View Open Support Positions</a></li>
+                	</ul>
+                
+                <p>To learn more about working in our district, available opportunities or how to apply, <a href="http://vegasteaching.org" target="_blank">click here</a>.</p>
+				        <p>You can also learn more about specific opportunities by following the links below:</p>
+                </ul>
+				</p>
+
+        <ul>
+          <li><a href="http://teachvegas.ccsd.net/teaching/overview/" target="_blank">Teach our students to succeed</a></li>
+          <li><a href="http://teachvegas.ccsd.net/school-leadership/overview/" target="_blank">Lead a school to excellence</a></li>
+          <li><a href="http://teachvegas.ccsd.net/central-office/overview/" target="_blank">Join our central office administrative team</a></li>
+          <li><a href="http://teachvegas.ccsd.net/support-staff/overview/" target="_blank">Support our school and staff</a></li>
+          <li><a href="http://www.vegasteaching.org/support-staff/substitutes" target="_blank">Substitute in our classrooms</a></li>
+          <li><a href="http://www.vegasteaching.org/support-staff/licensed-specialists" target="_blank">Serve as a licensed specialist</a></li>
+        </ul>
+				
+				<h2>Current CCSD Employees</h2>
+
+
+                <ul>
+
+                  <li>If you are a <strong>current CCSD support staff employee and <a href="https://ccsdjobs.searchsoft.net/ats/trans_login?COMPANY_ID=MA000239" target="_blank">want to view current support staff positions</a></strong>   (Please note support staff position vacancies will not be posted during Spring Break.)  <br />
+                    <br />
+                  </li>
+                  <li>If you are a <strong>current CCSD temporary or substitute employee and <a href="https://ccsdjobs.searchsoft.net/ats/trans_login?COMPANY_ID=MA000239">want to apply for a regular-status position</a></strong><nr />
+                      <br />
+                    <br />
+                  </li>
+                  <li>If you are a <strong>current CCSD support staff employee and <a href="https://ccsdjobs.searchsoft.net/ats/app_login?COMPANY_ID=MA000239">want to apply to be a teacher</a></strong><br />
+                    <br />
+                  </li>
+                  <li><strong>If you are a former CCSD teacher or administrator who separated from the District within the last 3 years</strong> and want to apply to be a substitute, click below to complete a shortened application.  If you separated more than 3 years ago, you must complete the full online application.  <a href="https://ccsdjobs.searchsoft.net/ats/app_login?COMPANY_ID=MA000239">Begin the application process</a>.  <strong>PLEASE NOTE:</strong> Retirees cannot apply until officially retired from the Nevada Public Employees' Retirement System (PERS), not just CCSD.  Retirees will receive a letter from PERS confirming the official date of retire.  Per Nevada Revised Statues, no PERS retiree can seek employment until the official date of retire has passed.
+                    <br /> <br />
+                    <a href="https://ccsdjobs.searchsoft.net/ats/app_login?COMPANY_ID=MA000239">Recently Separated/Retired Teachers/Administrators Application</a>
+                  </li>
+                   <br />
+                  <li>In-District CCSD teachers and support staff who wish to substitute during the summer or track break (limited positions available), may apply online by completing the below shortened application.</li>
+                   <br />
+                  <a href="https://hrd6.ccsd.net/HRD/forms/SubTrkApp/prgSubTrkAppForm.php">In-District CCSD Teacher Substitute Application</a><br />
+                <a href="https://hrd6.ccsd.net/HRD/forms/SubSupp/prgSubSupAppFormCDE.php">In-District CCSD Support Staff Employee Substitute Application</a>
+                <br> <br />
+                  <li>If you are a <strong>current CCSD employee and <a href="https://ccsdjobs.searchsoft.net/ats/app_login?COMPANY_ID=MA000239">want to apply for an administrative position</a></strong><br />
+                    <br />
+                  </li>
+                  <li>If you are a <strong>current CCSD teacher and want to apply for a non-classroom licensed position</strong> (counselor, facilitator, etc.), please refer to <a href="https://ccsdjobs.searchsoft.net/ats/job_board_frame?COMPANY_ID=MA000239&APPLICANT_TYPE_ID=00000001">Search Soft</a> in the “Filter results on the page:” box, type in the non-classroom licensed position (i.e. counselor, facilitator, etc.). </li>
+                  <br>
+                  <li>If you are a <strong>current CCSD teacher wanting to express an interest in another CCSD teaching position</strong>, you may do so only during the First Voluntary Transfer Season (March 18 – April 12) or the Second Voluntary Transfer Season (after Spring Surplus – April 25). Please refer to <a href="https://ccsdjobs.searchsoft.net/ats/job_board_frame?COMPANY_ID=MA000239&APPLICANT_TYPE_ID=00000001">Search Soft</a> click on “Job Title” to alphabetize the list and to select the position of interest click “view”, then apply for the position.</li>                  
+                  </ul>
+                </p> -->
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

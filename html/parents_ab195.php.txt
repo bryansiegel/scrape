@@ -1,0 +1,103 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<!--
+	     <div style="float:right;">
+	             <a href="https://ccsd.net/parents/ab195_sp.php">Español</a>
+             </div>
+-->
+<section class="content-holder">
+<h1>English Language Learner Division</h1>
+<h2>Assembly Bill 195</h2>
+<p><a href="https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7586/Text" target="_blank">Assembly Bill 195</a></p>
+<ul>Languages are listed in order from most to least prominent:
+				<!-- <li><a href="https://ccsd.net/parents/resources/pdf/AssemblyBill195-2025.pdf" target="_blank">English - Assembly 195: Overview</a></li>
+                <li><a href="https://ccsd.net/parents/resources/pdf/Spanish-AB195-2025.pdf" target="_blank">Spanish - Assembly 195: Descripción general(PDF)</a></li>
+                <li><a href="https://ccsd.net/parents/resources/pdf/Tagalog-AB195-2025.pdf" target="_blank">Tagalog - Assembly 195: Pangkalahatang-ideya</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/Ahmaric-AB195-2025.pdf" target="_blank">Amharic - ﻿Assembly Bill 195: አጠቃላይ እይታ</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/Chinese-Traditional-Taiwan-AB195-2025.pdf" target="_blank">Chinese (Traditional-Taiwan) -  第 195 號議會法案：概述</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/Chinese-Simplified-AB195-2025.pdf" target="_blank">Chinese (Simplified) -  Assembly Bill 195: 概述</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/Vietnamese-AB195-2025.pdf" target="_blank">Vietnamese -  Assembly Bill 195: Tổng quan</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/Arabic-AB195-2025.pdf" target="_blank">Arabic -  نظرة عامة:Assembly Bill وثيقة 195</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/Korean-AB195-2025.pdf" target="_blank">Korean -  Assembly Bill 195: 개요</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/Russian-AB195-2025.pdf" target="_blank">Russian -  Assembly Bill 195: Обзор</a></li> -->
+<li><a href="https://docs.google.com/document/d/1N-AOchey7C9hz-IB7szvxdnzWtx9IN1-/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">English - Assembly 195: Overview</a></li>
+<li><a href="https://docs.google.com/document/d/1ot6qh4HQtsqBwLqbrd5NSH5avA9UfXlJ/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Spanish - Assembly 195: Descripción general(PDF)</a></li>
+<li><a href="https://docs.google.com/document/d/1yNbPwR3fQPc1bqqx3htU-fqidPVkXO-h/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Tagalog - Assembly 195: Pangkalahatang-ideya</a></li>
+<li><a href="https://docs.google.com/document/d/1LYDv_YdwPGLlT3ktvxSPFsFnGXH55T-P/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Amharic - ﻿Assembly Bill 195: አጠቃላይ እይታ</a></li>
+<li><a href="https://docs.google.com/document/d/1GDUN7D74hPLgt-Sw7FZ0m12EH4IWS1PA/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Chinese (Traditional-Taiwan) -  第 195 號議會法案：概述</a></li>
+<li><a href="https://docs.google.com/document/d/1jU3kr4caJqjtlXlnYooGABVK_DQlOhr5/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Chinese (Simplified) -  Assembly Bill 195: 概述</a></li>
+<li><a href="https://docs.google.com/document/d/1B9e4F49xyKQRkBqBtFqfJcLquUAVY2jU/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Vietnamese -  Assembly Bill 195: Tổng quan</a></li>
+<li><a href="https://docs.google.com/document/d/1wUqbbnwtrZyTuiGNGVs99ESL8P1pUC8E/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Arabic -  نظرة عامة:Assembly Bill وثيقة 195</a></li>
+<li><a href="https://docs.google.com/document/d/1vOYnHRvY11aKNda-lTXKhzub7xVCQ-ip/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Korean -  Assembly Bill 195: 개요</a></li>
+<li><a href="https://docs.google.com/document/d/1nxyHNPxfT6lMlaqwnzt3FTAkDrSYlADG/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Russian -  Assembly Bill 195: Обзор</a></li>
+</ul>
+<ul>Other available languages listed are listed in alphabetical order:				
+        		<!-- <li><a href="https://ccsd.net/parents/resources/pdf/Dari-AB195-2025.pdf" target="_blank">Dari -  Assembly Bill 195 با تایید</a></li>
+                <li><a href="https://ccsd.net/parents/resources/pdf/French-AB195-2025.pdf" target="_blank">French - Projet de loi 195 de l’Assemblée : aperçu</a></li>
+              	<li><a href="https://ccsd.net/parents/resources/pdf/Japanese-AB195-2025.pdf" target="_blank">Japanese - Assembly Bill 195:  概要</a></li>
+              	<li><a href="https://ccsd.net/parents/resources/pdf/Kinyarwanda-AB195-2025.pdf" target="_blank">Kinyarwanda -  Itegeko 195: Incamake</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/Persian-AB195-2025.pdf" target="_blank">Persian - Assembly Bill 195:  بررسی اجمالی</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/Portuguese-AB195-2025.pdf" target="_blank">Portuguese - Assembly Bill 195: visão geral</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/Swahili-AB195-2025.pdf" target="_blank">Swahili -  Muswada wa Bunge/sheria 195: Maelezo ya jumla</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/Tigrinya-AB195-2025.pdf" target="_blank">Tigrinya -  Assembly Bill 195: ሓፈሽዊ ትሕዝቶ</a></li>
+				<li><a href="https://ccsd.net/parents/resources/pdf/Thai-AB195-2025.pdf" target="_blank">Thai - Assembly Bill 195: ภาพรวม</a></li> -->
+<li><a href="https://docs.google.com/document/d/1rFWua823xIACbd8Vd4_SLsfxFLJKF_rF/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Dari -  Assembly Bill 195 با تایید</a></li>
+<li><a href="https://docs.google.com/document/d/1N2E6w0fv-KxzsVMHSC64BmZhSXqoKZPg/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">French - Projet de loi 195 de l’Assemblée : aperçu</a></li>
+<li><a href="https://docs.google.com/document/d/1qylmEBArFFnFLTZVNoNNJqzHoEWSo5mT/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Japanese - Assembly Bill 195:  概要</a></li>
+<li><a href="https://docs.google.com/document/d/1r6nczZkQCFM4OLhff1XAGRWc_cBfIvqv/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Kinyarwanda -  Itegeko 195: Incamake</a></li>
+<li><a href="https://docs.google.com/document/d/1vdV2IVZmh6QtkUsHmP_PQUewY3KXBM9X/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Persian - Assembly Bill 195:  بررسی اجمالی</a></li>
+<li><a href="https://docs.google.com/document/d/1OWilMiJ4R8NI8PQ6Q8DqjT7F2yOOwt_w/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Portuguese - Assembly Bill 195: visão geral</a></li>
+<li><a href="https://docs.google.com/document/d/1dFk8AtrJQv5n_bYHlVW-oNRkMVwykJul/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Swahili -  Muswada wa Bunge/sheria 195: Maelezo ya jumla</a></li>
+<li><a href="https://docs.google.com/document/d/1cIYdmONHl0s73lvrWnpZBtkjqzInI_Nk/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Tigrinya -  Assembly Bill 195: ሓፈሽዊ ትሕዝቶ</a></li>
+<li><a href="https://docs.google.com/document/d/1P5BNY4yDufviYqoWR1Ji9Tfz_7fBtX4q/edit?usp=drive_link&amp;ouid=102418765491111622633&amp;rtpof=true&amp;sd=true" target="_blank">Thai - Assembly Bill 195: ภาพรวม</a></li>
+</ul>
+<h2>Title III</h2>
+<p>The Clark County School District implements the English Learners Grant, Title III of the Every Student Succeeds Act, to provide supplemental services that improve the English language proficiency and academic achievement of English learners. The budget plan below is effective July 1, 2024, through September 30, 2025.<br><br>
+<a href="https://ccsd.net/parents/resources/pdf/TitleIII-eng_2024–2025.pdf" target="_blank">English Learners, Title III</a></br></br></p>
+<hr/>
+<h2>Título III</h2>
+<p>El Distrito Escolar del Condado de Clark implementa la Subvención para los Aprendientes del Idioma Inglés, Título III de la Ley Cada Estudiante Triunfa, para proporcionar servicios suplementarios que mejoren el dominio del idioma inglés y el logro académico de los aprendientes del inglés. El plan presupuestario a continuación está vigente del 1 de julio de 2024 hasta el 30 de septiembre de 2025.<br/><br/>
+<a href="https://ccsd.net/parents/resources/pdf/TitleIII-sp_2024–2025.pdf" target="_blank">Aprendientes del inglés, Título III</a></p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

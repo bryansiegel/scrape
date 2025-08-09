@@ -1,0 +1,342 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" rel="stylesheet"/>
+<script crossorigin="anonymous" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script crossorigin="anonymous" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js"></script>
+<script crossorigin="anonymous" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"></script>
+<style>
+.content-wrap {
+    overflow-x: hidden !important;
+}
+
+.quick-nav-wrap {
+  padding:
+10px 15px 10px 20px !important;
+}
+
+.sidebar-wrap {
+  margin-right: 31px !important;
+}
+.footer-links-wrap {
+	width: fit-content !important;
+}
+	button {
+  background: none!important;
+  border: none !important;
+  padding: 0!important;
+  /*optional*/
+  font-family: arial, sans-serif;
+  /*input has OS specific font-family*/
+  color: #1771b7 !important;
+  text-decoration: underline;
+  cursor: pointer;}
+ </style>
+<div class="container p-4">
+<h1>Administration</h1>
+<hr/>
+<table class="simple-table-rows" width="600px">
+<!--
+	<tr>
+		<td width="350px">
+			<button 
+			type="button" 
+			class="btn btn-secondary" 
+			data-toggle="modal" 
+			data-target="#templateModal"
+			data-jobtitle="Associate Superintendent" 
+			data-name="Kevin McPartlin"
+			data-department="Education Services Division"
+			data-address="4204 Channel 10 Drive"
+			data-city="Las Vegas, Nevada 89119"
+			data-phone="(702) 855-9765"
+			data-email="mcpark@nv.ccsd.net"
+			>
+			Kevin McPartlin
+			</button>
+		</td>
+		<td>
+		<button 
+		type="button" 
+		class="btn btn-secondary" 
+		data-toggle="modal" 
+		data-target="#templateModal"
+		data-jobtitle="Associate Superintendent" 
+		data-name="Kevin McPartlin"
+		data-department="Education Services Division"
+		data-address="4204 Channel 10 Drive"
+		data-city="Las Vegas, Nevada 89119"
+		data-phone="(702) 855-9765"
+		data-email="mcpark@nv.ccsd.net"
+		>
+		Associate Superintendent
+		</button>  
+		</td>  
+
+	</tr>
+-->
+<tr>
+<td align="top" width="350px">
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Associate Superintendent" data-name="Kevin McPartlin" data-phone="(702) 855-9765" data-target="#templateModal" data-toggle="modal" type="button">
+			Kevin McPartlin
+			</button>
+</td>
+<td>
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Associate Superintendent" data-name="Kevin McPartlin" data-phone="(702) 855-9765" data-target="#templateModal" data-toggle="modal" type="button">
+<div align="left">Associate Superintendent, Education Services Division</div>
+</button>
+</td>
+</tr>
+<tr>
+<td width="350px">
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Director, Region One" data-name="Robert Kowalski" data-phone="(702) 799-0648" data-target="#templateModal" data-toggle="modal" type="button">
+			Robert Kowalski
+			</button>
+</td>
+<td>
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Director, Region One" data-name="Robert Kowalski" data-phone="(702) 799-0648 " data-target="#templateModal" data-toggle="modal" type="button">
+		Director, Region One
+		</button>
+</td>
+</tr>
+<tr>
+<td width="350px">
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Director, Region Two" data-name="Paul Hernandez" data-phone="(702) 799-2939" data-target="#templateModal" data-toggle="modal" type="button">
+		Paul Hernandez
+		</button>
+</td>
+<td>
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Director, Region Two" data-name="Paul Hernandez" data-phone="(702) 799-2939" data-target="#templateModal" data-toggle="modal" type="button">
+		Director, Region Two
+		</button>
+</td>
+</tr>
+<tr>
+<td width="350px">
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Director, Region Three" data-name="Matt Hennez" data-phone="(702) 799-0989" data-target="#templateModal" data-toggle="modal" type="button">
+		Matt Henne
+		</button>
+</td>
+<td>
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Director, Region Three" data-name="Matt Hennez" data-phone="(702) 799-0989" data-target="#templateModal" data-toggle="modal" type="button">
+		Director, Region Three
+		</button>
+</td>
+</tr>
+<tr> <td width="350px">
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Director, Education Services Division" data-name="Danielle Jones" data-phone="(702) 855-9765" data-target="#templateModal" data-toggle="modal" type="button">
+		Danielle Jones
+		</button>
+</td>
+<td>
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Director, Education Services Division" data-name="Danielle Jones" data-phone="(702) 855-9765" data-target="#templateModal" data-toggle="modal" type="button">
+		Director, Education Services Division
+		</button>
+</td>
+</tr>
+<tr>
+<td width="350px">
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Director, Wraparound Services Department" data-name="Christopher Merritt  " data-phone="(702) 799-0761" data-target="#templateModal" data-toggle="modal" type="button">
+		Christopher Merritt  
+		</button>
+</td>
+<td>
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Director, Wraparound Services Department" data-name="Christopher Merritt  " data-phone="(702) 799-0761" data-target="#templateModal" data-toggle="modal" type="button">
+		Director, Wraparound Services Department
+		</button>
+</td>
+</tr>
+<tr>
+<td width="350px">
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Administrator, Adult Education Specialized Programs" data-name="Ryan Lewis" data-phone="(702) 799-8650" data-target="#templateModal" data-toggle="modal" type="button">
+		Ryan Lewis
+		</button>
+</td>
+<td>
+<!-- Modal 7 Content   -->
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Administrator, Adult Education Specialized Programs" data-name="Ryan Lewis" data-phone="(702) 799-8650" data-target="#templateModal" data-toggle="modal" type="button">
+		Administrator, Adult Education Specialized Programs
+		</button>
+</td>
+</tr>
+<tr>
+<td width="350px">
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Administrator, Adult Education Operations" data-name="Amber D’Alliegro" data-phone="(702) 799-8650" data-target="#templateModal" data-toggle="modal" type="button">
+		Amber D’Alliegro
+		</button>
+</td>
+<td>
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Administrator, Adult Education Operations" data-name="Amber D’Alliegro" data-phone="(702) 799-8650" data-target="#templateModal" data-toggle="modal" type="button">
+		Administrator, Adult Education Operations
+		</button>
+</td>
+</tr>
+<tr>
+<td width="350px">
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Coordinator, Adult Education Instructional Programs" data-name="Jennifer Keiser" data-phone="(702) 799-8650" data-target="#templateModal" data-toggle="modal" type="button">
+		Jennifer Keiser
+		</button>
+</td>
+<td>
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Coordinator, Adult Education Instructional Programs" data-name="Jennifer Keiser" data-phone="(702) 799-8650" data-target="#templateModal" data-toggle="modal" type="button">
+		Coordinator, Adult Education Instructional Programs
+		</button>
+</td>
+</tr>
+<tr>
+<td width="350px">
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Coordinator, Adult Education Budget and Finance" data-name="Darron McCoy" data-phone="(702) 799-0150" data-target="#templateModal" data-toggle="modal" type="button">
+		Darron McCoy
+		</button>
+</td>
+<td>
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Coordinator, Adult Education Budget and Finance" data-name="Darron McCoy" data-phone="(702) 799-8650" data-target="#templateModal" data-toggle="modal" type="button">
+		Coordinator, Adult Education Budget and Finance 
+		</button>
+</td>
+</tr>
+<tr>
+<td width="350px">
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Coordinator, Pupil Personnel Services" data-name="Reese Bethel" data-phone="(702) 799-8630" data-target="#templateModal" data-toggle="modal" type="button">
+		 Reese Bethel
+		</button>
+</td>
+<td>
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Coordinator, Pupil Personnel Services" data-name="Reese Bethel" data-phone="(702) 799-8630" data-target="#templateModal" data-toggle="modal" type="button">
+		Coordinator, Pupil Personnel Services 
+		</button>
+</td>
+</tr>
+<tr>
+<td width="350px">
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Coordinator, Due Process/Homeschool/SafeVoice/GoGuardian/Beacon" data-name="Kuldip Mangat" data-phone="(702) 799-8630" data-target="#templateModal" data-toggle="modal" type="button">
+		Kuldip Mangat
+		</button>
+</td>
+<td>
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Coordinator, Due Process/Homeschool/SafeVoice/GoGuardian/Beacon" data-name="Kuldip Mangat" data-phone="(702) 799-8630" data-target="#templateModal" data-toggle="modal" type="button">
+<div align="left">Coordinator, Due Process/Homeschool/SafeVoice/GoGuardian/Beacon</div>
+</button>
+</td>
+</tr>
+<tr>
+<td width="350px">
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Coordinator, Attendance Enforcement/Shared Housing" data-name="Mollie Fulwider" data-phone="(702) 799-8630" data-target="#templateModal" data-toggle="modal" type="button">
+		Mollie Fulwider
+		</button>
+</td>
+<td>
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Coordinator, Attendance Enforcement/Shared Housing" data-name="Mollie Fulwider" data-phone="(702) 799-8630" data-target="#templateModal" data-toggle="modal" type="button">
+<div align="left">Coordinator, Attendance Enforcement/Shared Housing</div>
+</button>
+</td>
+</tr>
+<tr>
+<td width="350px">
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Coordinator, Attendance Enforcement/Shared Housing" data-name="Dr. Gregory Holloway" data-phone="(702) 799-8630" data-target="#templateModal" data-toggle="modal" type="button">
+		Dr. Gregory Holloway
+		</button>
+</td>
+<td>
+<button class="btn btn-secondary" data-department="Education Services Division" data-jobtitle="Coordinator, Foster Care Department" data-name="Dr. Gregory Holloway" data-phone="(702) 799-8630" data-target="#templateModal" data-toggle="modal" type="button">
+		Coordinator, Foster Care Department
+		</button>
+</td>
+</tr>
+</table>
+<!--  Modal template  -->
+<div aria-labelledby="templateModal" class="modal fade modal-wide" id="templateModal" role="dialog" tabindex="-1">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-body">
+<span aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></span>
+<h2 class="modal-jobTitle"></h2>
+<br/>
+<strong><p class="modal-name"></p></strong>
+<p class="modal-department"></p>
+<p class="modal-address"></p>
+<p class="modal-city"></p>
+<p class="modal-phone"></p>
+<p class="modal-email"></p>
+</div>
+</div>
+</div>
+</div>
+<!-- /.modal -->
+</div>
+<!-- /.container -->
+<script>
+	$(document).ready(function() {
+  // executes when HTML-Document is loaded and DOM is ready
+
+  $("button").each(function(index) {
+    var logo = $(this).data("logo");
+    $(this)
+      .find(".button-logo")
+      .attr("src", $(this).data("logo"));
+  });
+
+  $("#templateModal").on("show.bs.modal", function(event) {
+    var button = $(event.relatedTarget);
+    var modal = $(this);
+    modal.find(".modal-jobTitle").text(button.data("jobtitle"));
+    
+    modal.find(".modal-name").text(button.data("name"));
+    modal.find(".modal-department").text(button.data("department"));
+    modal.find(".modal-address").text(button.data("address"));
+    modal.find(".modal-city").text(button.data("city"));
+    modal.find(".modal-phone").text(button.data("phone"));
+    modal.find(".modal-email").text(button.data("email"));
+  });
+
+
+
+
+  
+
+  // document ready
+});
+</script>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

@@ -1,0 +1,24 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<p>The goal is for all schools to be audited over time. High Schools and Middle Schools are audited every 18 months-2 years. Elementary Schools are audited at least every 3 years.</p>
+<p>
+All school audits will receive one of the ratings listed below:</p>
+<p>
+<b>CLEAN</b> - No reportable issues.
+</p>
+<p><b>NORMAL</b> - Common compliance issues.</p>
+<p>
+<b>PRIORITY (P1)</b> - Deficiencies have been noted in some areas that need to be revisited sooner than what the regular rotation allows.</p>
+<p>
+<b>AT RISK</b> - The school has a general lack of controls and non-adherence to District policies and procedures, and assurance cannot be provided.</p>
+<p>
+<b>Clean and Normal</b> rated school audits are placed back in the regular audit rotation. <b>P1</b> and <b>AT RISK</b> rated school audits are reaudited within the following 6 to 12 months.</p>
+<p>
+To receive a copy of a school audit report, please contact Janette Scott at (702) 799-6360 ext. 5070.
+</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

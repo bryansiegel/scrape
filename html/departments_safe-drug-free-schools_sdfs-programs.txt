@@ -1,0 +1,12 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h2>
+	Programs</h2>
+<h3>
+	All-Stars Middle School Drug Prevention Program</h3>
+<p>
+	Middle school students learn how to write a prevention plan specific to a school's needs and start a club that empowers them to implement prevention efforts in the areas of substance abuse and violence</p>
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

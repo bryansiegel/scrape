@@ -1,0 +1,38 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Related Services and Other Non-Instructional Personnel</h1>
+<p>
+	Related Services positions provide support in general and special education classroom environments.  The Clark County School District actively recruits nationwide for the following positions:</p>
+<p>
+<strong>Occupational Therapists and Physical Therapists</strong> serve as an educational support for students with disabilities by promoting participation and access to the school curriculum and the school environment.</p>
+<p>
+<strong>School Nurses</strong> promote the health and well-being of students by participating in special education plans and providing general oversight of the health services programs at each school.</p>
+<p>
+<strong>School Psychologists</strong> deliver school-based services designed to improve student performance, enhance educational success, and promote mental health interests of students.</p>
+<p>
+<strong>School Social Workers</strong> partner with parents, school personnel, and community agencies to address issues in a student's living situation that impacts school performance.</p>
+<p>
+<strong>Speech/Language Pathologists</strong> provide early intervention, diagnostic, remedial, and consultative services for students who have communication disorders that have an adverse effect on their educational functioning.</p>
+<p>
+	Non-instructional new licensed employees have access to an onboarding program designed and facilitated by the particular department. For questions, please call the appropriate department.</p>
+<blockquote>
+<p>
+		Counselors: (702) 799-8441</p>
+<p>
+		Occupational/Physical Therapists: (702) 799-1500</p>
+<p>
+		School Nurses: (702) 799-7443</p>
+<p>
+		School Psychologists: (702) 799-7465</p>
+<p>
+		School Social Workers: (702) 799-0761</p>
+<p>
+		Speech/Language Pathologists: (702) 799-7437</p>
+</blockquote>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

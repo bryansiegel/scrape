@@ -1,0 +1,107 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<p>
+	Disclaimer: The Safe and Drug Free Schools web site has links to non-Clark County School District community agencies and resources.  References in these community web sites, or in any information or documents contained therein, pertained to any specific commercial or non-commercial products, process, service, manufacturer, individual or company does not constitute its endorsement or recommendation by the Clark County School District or the office of Safe and Drug Free Schools. </p>
+<p>
+	 </p>
+<h2>
+<a href="https://www.lung.org/quit-smoking">American Lung Association - Quit Smoking </a></h2>
+<p>
+	Support for those who want to quit smoking or vaping. </p>
+<h2>
+<a href="https://www.bcnv.org/248/Police-Department">Boulder City Police Department</a></h2>
+<p>
+	Partners with the community. Boulder City Police Department offers a wide variety of programs  designed to get citizens involved in their community. </p>
+<h2>
+<a href="https://www.boystown.org/Pages/default.aspx">Boys Town</a></h2>
+<p>
+	Since 1917, Boys Town has given thousands of at-risk children the love, support and education they need to succeed. The scope has expanded to include in-home family counseling, health care and programs to rebuild at-risk schools.</p>
+<h2>
+<a href="https://carecoalitionnv.org/">CARE Coalition</a></h2>
+<p>
+	To increase public awareness of the effects of drug and alcohol by educating and supporting youth, adults, the community at large and drug prevention agencies in Clark County; thus identifying and promoting healthy behaviors and reducing substance abuse in our community. </p>
+<h2>
+<a href="https://www.careeronestop.org/">Career One Stop</a></h2>
+<p>
+	Provides resources for finding jobs, choosing a career, and choosing a college. Free and does not require the creation of an account. </p>
+<h2>
+<a href="https://ccsd.net/departments/police-services">Clark County School District Police Services</a></h2>
+<p>
+	Clark County School District Police Department </p>
+<h2>
+<a href="https://www.empoweringparents.com/">Empowering Parents</a></h2>
+<p>
+	Program made to help parents design plans and activities for children of any age. </p>
+<h2>
+<a href="https://theharborlv.com/">The Harbor</a></h2>
+<p>
+	The Harbor provides a safe place for guidance and to be responsive to the well-being of youths, families, victims and the Clark County community by providing meaningful services to youth and families to address their immediate needs. </p>
+<h2>
+<a href="https://www.cityofhenderson.com/police/home">Henderson Police Department</a></h2>
+<p>
+	Partners with the community. Henderson Police Department offers a wide variety of programs designed to get citizens involved in their community. </p>
+<h2>
+<a href="https://www.jobcorps.gov/">Job Corps</a></h2>
+<p>
+	The nation's largest free residential education and job training program for young adults ages 16-24. Job Corps is administered by the United States Department of Labor.</p>
+<h2>
+<a href="https://www.lvmpd.com/">Las Vegas Metropolitan Police Department</a></h2>
+<p>
+	Partners with the community. Las Vegas Metropolitan Police Department offers a wide variety of programs designed to get citizens involved in their community.</p>
+<h2>
+<a href="https://www.becomeanex.org/">Mayo Clinic - Quit Smoking</a></h2>
+<p>
+	Evidence based quitting approaches for smoking/vaping. <br>
+	 </br></p>
+<h2>
+<a href="https://teens.drugabuse.gov/">National Institute of Drug Abuse for Teens (NIDA for TEENS)</a></h2>
+<p>
+	A series of free booklets showing the effects of different drugs and the consequences of their abuse. Can be ordered or read online.</p>
+<h2>
+<a href="https://www.nationalsafeplace.org/">National Safe Place</a></h2>
+<p>
+	Safe Place is a national youth outreach and prevention program for young people in need of immediate help and safety. As a community-based  program, Safe Place designates businesses and organizations as Safe Place locations, making help readily available to youth in communities across the country free of charge. </p>
+<h2>
+<a href="https://nccd.cdc.gov/youthonline/app/Results.aspx?LID=NV">Nevada YRBSS - Youth Risk Behavior Surveillance System</a></h2>
+<p>
+	Measures health-related behaviors and experiences in young adults. </p>
+<h2>
+<a href="https://www.missingkids.org/netsmartz/home">Netsmartz</a></h2>
+<p>
+	Program from the National Center for Missing &amp; Exploited Children created to help children stay safer both offline and online. </p>
+<h2>
+<a href="https://www.cityofnorthlasvegas.com/residents/police">North Las Vegas Police Department</a></h2>
+<p>
+	Partners with the community. North Las Vegas Police Department offers a wide variety of programs designed to get citizens involved in their community. </p>
+<h2>
+<a href="http://drugfreelasvegas.org/">PACT Coalition (Prevention, Advocacy, Choices, Teamwork)</a></h2>
+<p>
+	Resources for Nevada mainly targeted at alcohol and drug abuse. </p>
+<h2>
+<a href="https://www.clarkcountynv.gov/residents/family_services/parenting-classes">Parenting Project</a></h2>
+<p>
+	Clark County Department of Family Services. </p>
+<h2>
+<a href="http://www.redribbon.org/">Red Ribbon Campaign </a></h2>
+<p>
+	Campaign to raise drug awareness by The National Family Partnership (NFP) through discussion. Has resources and opportunities to help raise awareness for both students and parents. </p>
+<h2>
+<a href="https://smokefree.gov/">Smoke Free</a></h2>
+<p>
+	Provides different tools to help students quit smoking. </p>
+<h2>
+<a href="https://truthinitiative.org/exprogram">This is Quitting</a></h2>
+<p>
+	A digital quitting program for those who are ready to quit smoking, vaping, using oral nicotine/tobacco pouches or any tobacco product. </p>
+<h2>
+<a href="https://dpbh.nv.gov/Programs/TPC/dta/Youth_Vaping_Prevention/Youth_Vaping_Prevention/">Youth Vaping Prevention</a></h2>
+<p>
+	Department of Health and Human Services, Nevada Division of Public and Behavioral Health (DPBH). Preventing the initiation of tobacco use among youth and young adults. </p>
+<p>
+	 </p>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

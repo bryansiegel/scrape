@@ -1,0 +1,181 @@
+<div class="content-wrap" id="content_wrap" style="flex: 1 0 auto;position: relative;z-index: -1">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main" style="position: relative;z-index: -1;">
+<section class="content-holder" style="position: relative;z-index: 1;">
+<h1>Board of School Trustees</h1>
+<div style="width: auto; margin-left: 139px; margin-right: 139px;">
+<!--
+				<img src="/trustees/includes/images/bio/Trustee-Group2.jpg" alt="Trustee Group"
+					style="width:600px; height:auto;" border="0">
+-->
+<img alt="Trustee Group" border="0" src="/trustees/includes/images/bio/CCSD-Sahara-Ext.jpg" style="width:600px; height:auto;"/>
+</div>
+<hr/>
+<h2>Vision Statement of the Board of School Trustees</h2>
+<p>All students progress in school and graduate prepared to succeed and contribute in a diverse global
+				society.</p>
+<hr/>
+<!--
+			<div style="clear: both;">
+			</div>
+-->
+<!-- first row -->
+<div class="row">
+<div class="column-t">
+<div class="card-t">
+<button class="button" onclick="location.href='/trustees/details/F.php'" type="button">
+<div class="card-image"><img alt="Jane" src="/trustees/includes/images/bio/Adams-2024.jpg" style="width:100%;"/></div>
+<div class="container-t">
+<h2 class="trusteecard-name">Irene<br/>Bustamante Adams</h2>
+<p class="title">President</p>
+<p class="trusteecard-district">District F</p>
+</div>
+</button>
+</div>
+</div>
+<div class="column-t">
+<div class="card-t">
+<button class="button" onclick="location.href='/trustees/details/D.php'" type="button">
+<div class="card-image"><img alt="Zamora" src="/trustees/includes/images/bio/Zamora-2025.jpg" style="width:100%;"/></div>
+<div class="container-t">
+<h2 class="trusteecard-name">Brenda<br/>Zamora</h2>
+<p class="title">Vice President</p>
+<p class="trusteecard-district">District D</p>
+</div>
+</button>
+</div>
+</div>
+<div class="column-t">
+<div class="card-t">
+<button class="button" onclick="location.href='/trustees/details/C.php'" type="button">
+<div class="card-image">
+<!-- 		     <img src="/trustees/includes/images/bio/Morales-2024.jpg" alt="Jane" style="width:100%;"> -->
+<img alt="Henry" src="/trustees/includes/images/bio/Henry_2025.jpg" style="width:100%;"/>
+</div>
+<div class="container-t">
+<!--         <h2 class="trusteecard-name">Evelyn<br>Garcia Morales</h2> -->
+<h2 class="trusteecard-name">Tameka<br/>Henry</h2>
+<p class="title">Clerk</p>
+<p class="trusteecard-district">District C</p>
+</div>
+</button>
+</div>
+</div>
+</div>
+<!-- second row -->
+<div class="column-t">
+<div class="card-t">
+<button class="button" onclick="location.href='/trustees/details/NV.php'" type="button">
+<div class="card-image" style="border-bottom: 1px solid #ebebeb;">
+<img alt="Barron" src="/trustees/includes/images/bio/Barron_2025.jpg" style="width:100%;"/>
+</div>
+<!--      	<div class="card-image"><img src="/trustees/includes/images/bio/Watson-2024.jpg" alt="Watson" style="width:100%;"></div> -->
+<div class="container-t">
+<h2 class="trusteecard-name">Isaac<br/>Barron</h2>
+<p class="title">Member</p>
+<p class="trusteecard-district">North Las Vegas</p>
+</div>
+</button>
+</div>
+</div>
+<div class="row">
+<div class="column-t">
+<div class="card-t">
+<button class="button" onclick="location.href='/trustees/details/E.php'" type="button">
+<div class="card-image">
+<img alt="Biassotti" src="/trustees/includes/images/bio/Biassotti_2025.jpg" style="width:100%;"/></div>
+<!-- 		     <img src="/trustees/includes/images/bio/Brooks-2024.jpg" alt="Brooks" style="width:100%;"></div> -->
+<div class="container-t">
+<!-- 	        <h2 class="trusteecard-name">TBD</h2> -->
+<h2 class="trusteecard-name">Lorena<br/>Biassotti</h2>
+<p class="title">Member</p>
+<p class="trusteecard-district">District E</p>
+</div>
+</button>
+</div>
+</div>
+<div class="column-t">
+<div class="card-t">
+<button class="button" onclick="location.href='/trustees/details/G.php'" type="button">
+<div class="card-image"><img alt="Cavazos" src="/trustees/includes/images/bio/Cavazos_2025.jpg" style="width:100%;"/></div>
+<div class="container-t">
+<h2 class="trusteecard-name">Linda P.<br/>Cavazos</h2>
+<p class="title">Member</p>
+<p class="trusteecard-district">District G</p>
+</div>
+</button>
+</div>
+</div>
+<div class="column-t">
+<div class="card-t">
+<button class="button" onclick="location.href='/trustees/details/B.php'" type="button">
+<div class="card-image">
+<!-- 	     	<img src="/trustees/includes/images/bio/J_Hale.jpg" alt="Hale" style="width:100%;"> -->
+<img alt="Dominguez" src="/trustees/includes/images/bio/Dominguez_2025.jpg" style="width:100%;"/>
+</div>
+<div class="container-t">
+<!-- 	        <h2 class="trusteecard-name">Nakia<br>Jackson-Hale</h2> -->
+<h2 class="trusteecard-name">Lydia<br/>Dominguez</h2>
+<p class="title">Member</p>
+<p class="trusteecard-district">District B</p>
+</div>
+</button>
+</div>
+</div>
+<div class="row">
+<div class="column-t">
+<div class="card-t">
+<button class="button" onclick="location.href='/trustees/details/H.php'" type="button">
+<div class="card-image"><img alt="Esparza" src="/trustees/includes/images/bio/Esparza-Stoffregan_2025.jpg" style="width:100%;"/></div>
+<div class="container-t">
+<h2 class="trusteecard-name">Ramona<br/>Esparza-Stoffregan</h2>
+<p class="title">Member</p>
+<p class="trusteecard-district">Henderson</p>
+</div>
+</button>
+</div>
+</div>
+<div class="column-t">
+<div class="card-t">
+<button class="button" onclick="location.href='/trustees/details/LV.php'" type="button">
+<div class="card-image"><img alt="Johnson" src="/trustees/includes/images/bio/Johnson-2024.jpg" style="width:100%;"/></div>
+<div class="container-t">
+<h2 class="trusteecard-name">Adam<br/>Johnson</h2>
+<p class="title">Member</p>
+<p class="trusteecard-district">Las Vegas</p>
+</div>
+</button>
+</div>
+</div>
+<div class="column-t">
+<div class="card-t">
+<button class="button" onclick="location.href='/trustees/details/CC.php'" type="button">
+<div class="card-image"> <img alt="Satory" src="/trustees/includes/images/bio/Satory_2025.jpg" style="width:100%;"/></div>
+<div class="container-t">
+<h2 class="trusteecard-name">Lisa<br/>Satory</h2>
+<p class="title">Member</p>
+<p class="trusteecard-district">Clark County</p>
+</div>
+</button>
+</div>
+</div>
+<div class="column-t">
+<div class="card-t">
+<button class="button" onclick="location.href='/trustees/details/A.php'" type="button">
+<div class="card-image">
+<img alt="Stevens" src="/trustees/includes/images/bio/Stevens_2025.jpg" style="width:100%;"/>
+</div>
+<div class="container-t">
+<h2 class="trusteecard-name">Emily<br/>Stevens</h2>
+<p class="title">Member</p>
+<p class="trusteecard-district">District A</p>
+</div>
+</button>
+</div>
+</div>
+</div>
+</div>
+<!-- third row -->
+</section>
+<!-- /content-wrap -->
+</div>
+</div>

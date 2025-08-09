@@ -1,0 +1,95 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<a name="teacher-info"></a>
+<section class="content-holder">
+<h1>Important Information for teachers</h1>
+<ul>
+<li><a href="/employees/resources/pdf/approved_403_and_457_vendors.pdf" target="_blank">Approved Investment Companies</a></li>
+<li><a href="/employees/resources/pdf/benefits_available_via_payroll_deduction.pdf" target="_blank">Benefits Available Via Payroll Deduction</a></li>
+<li><a href="/employees/resources/pdf/forms/licensed/calculate_pay_for_lp.pdf" target="_blank">How to calculate Contracted Pay</a></li>
+<li><a href="/employees/resources/pdf/forms/licensed/licensed_employment_information.pdf" target="_blank">Licensed Personnel Employment Information</a></li>
+<li><a href="/employees/resources/pdf/forms/licensed/substitute_request_procedure-2023.pdf" target="_blank">Procedure for requesting a substitute</a></li>
+<!--<li><a target="_blank" href="/employees/resources/pdf/forms/licensed/teacher_health_trust_requirements.pdf">------Teachers Health Trust Requirements------</a></li>-->
+<li><a href="/employees/resources/pdf/forms/licensed/todo_when_to_be_absent.pdf" target="_blank">What To Do If You Are Sick Or Need To Be Absent</a></li>
+<li><a href="/employees/resources/pdf/forms/workers_compensation_booklet.pdf" target="_blank">Worker's Compensation Booklet</a></li>
+</ul>
+</section>
+<a name="new-teacher"></a>
+<!--
+        <section class="content-holder">
+            <h1>New Licensed Personnel Information</h1>
+            <ul>
+                <li><a href="/employees/resources/pdf/flyer_onboarding_kickoff_event.pdf">August Onboarding Kick-Off for teachers new to CCSD</a></li>
+                <li><a href="/employees/resources/pdf/flyer_rs_orientation_kickoff_event.pdf">Related Services Orientation Kick-Off for teachers new to CCSD</a></li>
+
+                2012-2013 information will be posted soon.
+         <li><a href="/employees/resources/pdf/welcome_letter.pdf" target="_blank" class="pdfLink">Welcome Letter</a></li>
+<li><a href="/employees/resources/pdf/new_licensed_event_schedule.pdf" target="_blank" class="pdfLink">Schedule of Events for New Licensed Employees</a></li>
+<li><a href="/employees/resources/pdf/ccsd_regulation_4280.pdf" target="_blank" class="pdfLink">CCSD Regulation 4280: Dress and Grooming: All Employees</a></li> 
+<li><a href="/employees/resources/pdf/events_location_map.pdf" target="_blank" class="pdfLink">Events and Locations Map</a></li>  
+<li><a href="/employees/resources/pdf/new_licensed_employee_orientation_overview.pdf" target="_blank" class="pdfLink">New Licensed Employee Orientation - Beneficiary Information Overview</a></li>  
+<li><a href="/employees/resources/pdf/new_licensed_employee_information.pdf" target="_blank" class="pdfLink">New Licensed Employee Orientation - Beneficiary Information</a></li>
+                </ul>
+        </section>
+-->
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar_wrap -->
+</div>

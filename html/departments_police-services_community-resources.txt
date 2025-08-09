@@ -1,0 +1,144 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h2 data-end="254" data-start="203">
+	Community Resources</h2>
+<h3 data-end="254" data-start="203" style="text-align: justify;">
+<strong data-end="254" data-start="203">Juvenile-Related Incidents and Community Safety</strong></h3>
+<p data-end="614" data-start="256" style="text-align: justify;">
+	If you are a neighboring business or property owner experiencing disturbances or incidents involving juveniles or students, please notify both your local law enforcement agency and the Clark County School District Police Dispatch. Coordinated communication with local police agencies helps us better serve the community and address concerns more effectively.</p>
+<h3 data-end="641" data-start="616" style="text-align: justify;">
+<strong data-end="641" data-start="616">Community Partnership</strong></h3>
+<p data-end="993" data-start="643" style="text-align: justify;">
+	Open communication and information sharing are key to maintaining a safe and supportive environment. If you witness or are aware of student-related incidents, do not hesitate to contact School Police or the on-site school administrator. Strong partnerships between schools, law enforcement, and the community are essential to long-term public safety.</p>
+<h3 data-end="1011" data-start="995">
+<strong data-end="1011" data-start="995">Key Contacts</strong></h3>
+<ul data-end="1322" data-start="1013">
+<li data-end="1194" data-start="1013">
+<p data-end="1194" data-start="1015">
+<strong data-end="1063" data-start="1015">Clark County School District Police Dispatch</strong>: <a data-end="1095" data-start="1065" rel="noopener">702-799-5411</a><br data-end="1098" data-start="1095">
+			Website: <a data-end="1194" data-start="1109" href="https://ccsd.net/departments/police-services/" rel="noopener" target="_new">ccsd.net/departments/police-services</a></br></p>
+</li>
+<li data-end="1322" data-start="1196">
+<p data-end="1322" data-start="1198">
+<strong data-end="1247" data-start="1198">Clark County School District Education Center</strong>: <a data-end="1279" data-start="1249" rel="noopener">702-799-5011</a><br data-end="1282" data-start="1279">
+			Website: <a data-end="1322" data-start="1293" href="https://ccsd.net/" rel="noopener" target="_new">ccsd.net</a></br></p>
+</li>
+</ul>
+<h3 data-end="1346" data-start="1324">
+<strong data-end="1346" data-start="1324">Community Services</strong></h3>
+<ul data-end="4249" data-start="1348">
+<li data-end="1388" data-start="1348">
+<p data-end="1388" data-start="1350">
+<strong data-end="1372" data-start="1350">Emergency Services</strong>: <a data-end="1388" data-start="1374" rel="noopener">911</a></p>
+</li>
+<li data-end="1433" data-start="1389">
+<p data-end="1433" data-start="1391">
+<strong data-end="1417" data-start="1391">Non-Emergency Services</strong>: <a data-end="1433" data-start="1419" rel="noopener">311</a></p>
+</li>
+<li data-end="1513" data-start="1434">
+<p data-end="1513" data-start="1436">
+<strong data-end="1481" data-start="1436">24-Hour School Crime Tip Line (Anonymous)</strong>: <a data-end="1513" data-start="1483" rel="noopener">702-799-0228</a></p>
+</li>
+<li data-end="1672" data-start="1514">
+<p data-end="1672" data-start="1516">
+<strong data-end="1542" data-start="1516">AMR Ambulance Dispatch</strong>: <a data-end="1574" data-start="1544" rel="noopener">702-384-3400</a><br data-end="1577" data-start="1574"/>
+			Website: <a data-end="1672" data-start="1588" href="https://www.amr.net/locations/nevada/las-vegas" rel="noopener" target="_new">amr.net/locations/nevada/las-vegas</a></p>
+</li>
+<li data-end="1830" data-start="1674">
+<p data-end="1830" data-start="1676">
+<strong data-end="1717" data-start="1676">Nevada Missing Children Clearinghouse</strong>: <a data-end="1749" data-start="1719" rel="noopener">702-486-3539</a><br data-end="1752" data-start="1749"/>
+			Website: <a href="ag.nv.gov">ag.nv.gov</a></p>
+</li>
+<li data-end="2015" data-start="1832">
+<p data-end="2015" data-start="1834">
+<strong data-end="1884" data-start="1834">Clark County School District Police Department</strong>: <a data-end="1916" data-start="1886" rel="noopener">702-799-7830</a><br data-end="1919" data-start="1916"/>
+			Website: <a data-end="2015" data-start="1930" href="https://ccsd.net/departments/police-services/" rel="noopener" target="_new">ccsd.net/departments/police-services</a></p>
+</li>
+<li data-end="2152" data-start="2017">
+<p data-end="2152" data-start="2019">
+<strong data-end="2071" data-start="2019">Las Vegas Metropolitan Police Department (LVMPD)</strong>: <a data-end="2103" data-start="2073" rel="noopener">702-828-3111</a><br data-end="2106" data-start="2103"/>
+			Website: <a data-end="2152" data-start="2117" href="https://www.lvmpd.com/" rel="noopener" target="_new">lvmpd.com</a></p>
+</li>
+<li data-end="2347" data-start="2154">
+<p data-end="2347" data-start="2156">
+<strong data-end="2187" data-start="2156">Henderson Police Department</strong>: <a data-end="2219" data-start="2189" rel="noopener">702-267-5000</a><br data-end="2222" data-start="2219"/>
+			Website: <a data-end="2347" data-start="2233" href="https://www.cityofhenderson.com/government/departments/police" rel="noopener" target="_new">cityofhenderson.com/government/departments/police</a></p>
+</li>
+<li data-end="2497" data-start="2349">
+<p data-end="2497" data-start="2351">
+<strong data-end="2388" data-start="2351">North Las Vegas Police Department</strong>: <a data-end="2420" data-start="2390" rel="noopener">702-633-9111</a><br data-end="2423" data-start="2420"/>
+			Website: <a data-end="2497" data-start="2434" href="https://www.cityofnorthlasvegas.com/" rel="noopener" target="_new">cityofnorthlasvegas.com</a></p>
+</li>
+<li data-end="2657" data-start="2499">
+<p data-end="2657" data-start="2501">
+<strong data-end="2535" data-start="2501">Boulder City Police Department</strong>: <a data-end="2567" data-start="2537" rel="noopener">702-293-9224</a><br data-end="2570" data-start="2567"/>
+			Website: <a data-end="2657" data-start="2581" href="https://www.bcnv.org/248/Police-Department" rel="noopener" target="_new">bcnv.org/248/Police-Department</a></p>
+</li>
+<li data-end="2765" data-start="2659">
+<p data-end="2765" data-start="2661">
+<strong data-end="2686" data-start="2661">Nevada Highway Patrol</strong>: <a data-end="2718" data-start="2688" rel="noopener">702-486-4100</a><br data-end="2721" data-start="2718"/>
+			Website: <a href="nhp.nv.gov">nhp.nv.gov</a></p>
+</li>
+<li data-end="2924" data-start="2767">
+<p data-end="2924" data-start="2769">
+<strong data-end="2823" data-start="2769">Crime Stoppers of Nevada (Secret Witness Tip Line)</strong>: <a data-end="2855" data-start="2825" rel="noopener">702-385-5555</a><br data-end="2858" data-start="2855"/>
+			Website: <a data-end="2924" data-start="2869" href="https://crimestoppersofnv.com/" rel="noopener" target="_new">crimestoppersofnv.com</a></p>
+</li>
+<li data-end="3047" data-start="2926">
+<p data-end="3047" data-start="2928">
+<strong data-end="2970" data-start="2928">Signs of HOPE (Sexual Assault Hotline)</strong>: <a data-end="3002" data-start="2972" rel="noopener">702-366-1640</a><br data-end="3005" data-start="3002"/>
+			Website: <a data-end="3047" data-start="3016" href="https://sohlv.org/" rel="noopener" target="_new">sohlv.org</a></p>
+</li>
+<li data-end="3174" data-start="3049">
+<p data-end="3174" data-start="3051">
+<strong data-end="3074" data-start="3051">Child Abuse Hotline</strong>: <a data-end="3106" data-start="3076" rel="noopener">702-399-0081</a><br data-end="3109" data-start="3106"/>
+			Website: <a data-end="3174" data-start="3120" href="https://dcfs.nv.gov/Tips/CA/ChildAbuse/" rel="noopener" target="_new">dcfs.nv.gov</a></p>
+</li>
+<li data-end="3301" data-start="3176">
+<p data-end="3301" data-start="3178">
+<strong data-end="3218" data-start="3178">SafeNest (Domestic Violence Hotline)</strong>: <a data-end="3250" data-start="3220" rel="noopener">702-646-4981</a><br data-end="3253" data-start="3250"/>
+			Website: <a data-end="3301" data-start="3264" href="https://safenest.org/" rel="noopener" target="_new">safenest.org</a></p>
+</li>
+<li data-end="3426" data-start="3303">
+<p data-end="3426" data-start="3305">
+<strong data-end="3331" data-start="3305">WestCare Youth Shelter</strong>: <a data-end="3363" data-start="3333" rel="noopener">702-385-3332</a><br data-end="3366" data-start="3363"/>
+			Website: <a data-end="3426" data-start="3377" href="https://westcarenevada.com/" rel="noopener" target="_new">westcarenevada.com</a></p>
+</li>
+<li data-end="3553" data-start="3428">
+<p data-end="3553" data-start="3430">
+<strong data-end="3458" data-start="3430">WestCare Family Services</strong>: <a data-end="3490" data-start="3460" rel="noopener">702-385-3330</a><br data-end="3493" data-start="3490"/>
+			Website: <a data-end="3553" data-start="3504" href="https://westcarenevada.com/" rel="noopener" target="_new">westcarenevada.com</a></p>
+</li>
+<li data-end="3687" data-start="3555">
+<p data-end="3687" data-start="3557">
+<strong data-end="3606" data-start="3557">Harassment/Stalking Protective Orders (LVMPD)</strong>: <a data-end="3638" data-start="3608" rel="noopener">702-828-3421</a><br data-end="3641" data-start="3638"/>
+			Website: <a data-end="3687" data-start="3652" href="https://www.lvmpd.com/" rel="noopener" target="_new">lvmpd.com</a></p>
+</li>
+<li data-end="3900" data-start="3689">
+<p data-end="3900" data-start="3691">
+<strong data-end="3735" data-start="3691">Family Court Temporary Protective Orders</strong>: <a data-end="3767" data-start="3737" rel="noopener">702-455-3400</a><br data-end="3770" data-start="3767"/>
+			Website: <a href="clarkcountynv.gov">clarkcountynv.gov</a></p>
+</li>
+<li data-end="4071" data-start="3902">
+<p data-end="4071" data-start="3904">
+<strong data-end="3936" data-start="3904">Clark County Family Services</strong>: <a data-end="3968" data-start="3938" rel="noopener">702-455-5444</a><br data-end="3971" data-start="3968"/>
+			Website: <a href="clarkcountynv.gov">clarkcountynv.gov</a></p>
+</li>
+<li data-end="4249" data-start="4073">
+<p data-end="4249" data-start="4075">
+<strong data-end="4104" data-start="4075">Juvenile Justice Services</strong>: <a data-end="4136" data-start="4106" rel="noopener">702-455-5200</a><br data-end="4139" data-start="4136"/>
+			Website: <a href="clarkcountynv.gov">clarkcountynv.gov</a></p>
+</li>
+</ul>
+<hr data-end="4254" data-start="4251"/>
+<p data-end="4413" data-start="4256">
+<em data-end="4413" data-start="4256">Note: Phone numbers are formatted for click-to-call functionality on mobile devices. Ensure your website supports this feature for optimal user experience.</em></p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>To report a crime, please select the above link or call our 24/7 dispatch @ 702.799.5411.  
+
+If this is an emergency, please call 911. </section>
+</div> <!-- /sidebar-wrap -->
+</div>

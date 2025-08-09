@@ -1,0 +1,90 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>School Name Committee</h1>
+<p>The purpose of this committee is to review naming nominations for unnamed Clark County School District facilities, including schools, central office locations and areas within schools (for example, libraries and sports facilities).</p>
+<p>Two School Board trustees serve as members of the committee:</p>
+<ul>
+<li>Chairperson and Board of School Trustees representative, Tameka Henry</li>
+<li>Board of School Trustees representative, Linda Cavazos</li>
+<li>CCSD administrator representative, Abigail Johnson</li>
+<li>CCSD teacher representative, Michael Pattersonn</li>
+<li>Parent representative, Bradley Combs, Esq</li>
+<li>Community representative, Piper Overstreet-White</li>
+<!-- 						<li>Community representative, Javier Trujillo</li> -->
+</ul>
+<p>One of the highest honors bestowed upon an individual who has made an everlasting impact in the Clark County community is to become a school namesake. The motivation for this naming opportunity is to honor educators, students, and community leaders of the highest character, while providing Clark County school children with role models, and a sense of the rich history and diversity of the Southern Nevada community.</p>
+<p>Clark County School District <a href="http://ccsd.net/district/policies-regulations/pdf/7223_P.pdf" target="_blank">Policy 7223</a>, Naming of Schools and Education-Related Facilities, outlines the criteria for naming District facilities and portions of facilities, the selection process, and the make-up of the School Name Committee.</p>
+<p>Questions may be directed to the Communications Unit at 702-799-5304 or via email at <a href="mailto:SNC@nv.ccsd.net">SNC@nv.ccsd.net.</a></p>
+<h2>Call for Nominations - New Schools</h2>
+<p>In the 2015 and 2021 legislative sessions, the Governor and the Nevada Legislature approved a change in the way school districts can access funds to construct new schools and renovate existing ones. As of December 2021, $3.7 billion of the $7.7 billion total has been allocated for 20 new schools,18 replacement schools, five-phased replacement schools, 37 classroom additions, and 82 modernization projects.</p>
+<p>A Call for Nominations usually occurs in the spring or summer of each year, but there are no new elementary or middle schools that are planned to open for the 2023-2024 school year, so the Committee is not accepting namesake nominations at this time. (Only elementary and middle schools are named after individuals.)</p>
+<h2>Naming a Portion of a Facility<br/>
+     (Including libraries, gyms, stadiums, conference rooms, etc.)
+</h2>
+<p>If you are considering naming a portion of your school/nonschool facility in honor of an individual (or if you have informally named a portion of your facility without approval from the School Name Committee) please submit an <a href="pdf/school-name-committee/facility-portion-name-application.pdf" target="_blank">application</a>. Applications require administration approval from the facility.</p>
+<p>Please submit the application and all required supporting information to Clark County School District, Communications Unit, 5100 West Sahara Avenue, Las Vegas, NV, 89146 or to <a href="mailto:SNC@nv.ccsd.net">SNC@nv.ccsd.net</a>.</p>
+<h2>Next School Name Committee Public Meeting</h2>
+<p>The School Name Committee meets two or three times per year. Materials will be posted on <a href="https://www.boarddocs.com/nv/ccsdlv/Board.nsf/Public">Boarddocs</a> prior to each meeting.</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

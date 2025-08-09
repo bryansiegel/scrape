@@ -1,0 +1,48 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Public Records Request</h1>
+<h2>CCSD Public Records Office</h2>
+<p>Public records requests may be submitted verbally or in writing <!-- (includes electronic mail)  -->and directed to:</p>
+<h3>Mail</h3>
+<p><!-- <strong>Community Services Department</strong><br> -->
+					   CCSD Administrative Center<br/>
+					   Public Records Request<br/>
+					   5100 West Sahara Avenue<br/>
+					   Las Vegas, NV 89146<br/>
+					   702-799-5865
+					</p>
+<h3>Electronic</h3>
+<!-- 					<p>Submit request by electronic mail to: <a href="mailto:publicrecordrequest@nv.ccsd.net">publicrecordrequest@nv.ccsd.net</a></p> -->
+<p><a href="https://clarkcountysdnv.justfoia.com/publicportal/home/track" target="_blank">CCSD JustFOIA website</a></p>
+<h3>Student Record and Transcript Requests</h3>
+<p><strong>Student Record Services</strong><br/>
+					702-799-2938</p>
+<p>Requests for student records of currently enrolled students should be submitted to the school of attendance.  Requests for student records of former students must be submitted to the Student Record Services department.  Student record requests are submitted online at <a href="http://transcripts.ccsd.net">transcripts.ccsd.net</a> or <a href="https://clarknv.scriborder.com">https://clarknv.scriborder.com</a>. The phone number for Student Record Services is 702-799-2938 if you have any questions.</p>
+<div class="horiz-rule"></div>
+<h2>Public Records Request Fees</h2>
+<p><a href="resources/pdf/Public-Records-Fee-Schedule.pdf">View the Public Records Request Fee Schedule (PDF)</a></p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

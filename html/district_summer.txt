@@ -1,0 +1,121 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<!--
+					<div class="important-notice">
+						<div class="icon">
+							<img src="images/warning-icon.svg" alt="">
+						</div>
+						<strong>Important Notice</strong><br>
+						The following page has not been updated since May 2018. The content may no longer be up to date. 
+					</div>
+-->
+<div align="center"> <img alt="" class="header-image" height="300" src="images/header.jpg" width="557"/></div>
+<h1>Summer Information</h1>
+<p>Summer is here and it offers plenty of time for our students to continue learning. Below are some resources for parents and students to help them make the most out of their summer.</p>
+<h2>Extended School Year (ESY) </h2>
+<p>Select schools will provide Extended School Year services from June 23, 2025 - July 17, 2025.</p>
+<p style="font-size: smaller;">*No school on June 19, June 20, and July 4, 2025.</p>
+<p>The Extended School Year (ESY) Department provides educational and related services beyond the typical school year. Individual Educational Program (IEP) teams determine if students qualify for ESY services based on a critical learning need or by showing regression following a school break.</p>
+<h2>Secondary Summer School Classes</h2>
+<p>Secondary Summer School will be offered for students in Grades 6–12 during two sessions:</p>
+<ul>
+<li>June 2, 2025–June 20, 2025</li>
+<li>June 23, 2025–July 11, 2025</li>
+</ul>
+<p>Parents should contact their child’s school regarding the 2025 summer learning opportunities available at their school.</p>
+<div align="center" style="width:880px;margin-right:0px; margin-left:0px; "><h2>2025 Secondary Summer School</h2></div>
+<table width="700px">
+<tr>
+<td align="center">
+<h2>Dates:</h2>
+</td>
+<td align="center">
+<h2>Times:</h2>
+</td>
+</tr>
+<tr>
+<td>
+<h3>Session I: June 2, 2025–June 20, 2025</h3>
+</td>
+<td>
+<h3>7:30 a.m. - 12:45 p.m.</h3>
+</td>
+</tr>
+<tr>
+<td>
+<h3>Session II:  June 23, 2025–July 11, 2025</h3>
+</td>
+<td>
+<h3>7:30 a.m. - 12:45 p.m.</h3>
+</td>
+</tr>
+</table>
+<h3>ESY Dates</h3>
+<ul>
+<li>Staff: June 17, 2025–July 17, 2025</li>
+<li>Students (PK–UN): June 23, 2025–July 17, 2025 </li>
+</ul>
+<p style="font-size: smaller;">*No school on June 19, 2025, and July 4, 2025.</p>
+<h3>Middle School - Credit Retrieval Only</h3>
+<ul>
+<li>English 6, 7, 8</li>
+<li>Mathematics 6, 7</li>
+<li>Pre-Algebra 8</li>
+<li>Science 6, 7, 8</li>
+<li>History and Geography 7, 8</li>
+</ul>
+<h3>High School - Original Credit &amp; Credit Retrieval</h3>
+<ul>
+<li>English 9, 10, 11, 12</li>
+<li>Pre-Algebra, Algebra I, Algebra II, Geometry</li>
+<li>Health</li>
+<li>PE I, PE II</li>
+<li>World History, U.S. History</li>
+<li>U.S. Government and Economics</li>
+<li>Computer Science and Applications</li>
+<li>Economics and Financial Literacy</li>
+</ul>
+<h3>Pre-Registration April 21, 2025–May 27, 2025</h3>
+<ul>
+<li>Clark County School District counselors must pre-register students for summer school courses only if the family agrees to attend. The last day to register students is May 27, 2025, at noon. Late registrations will not be accepted.</li>
+</ul>
+<h3>High School and Middle School Policies</h3>
+<ul>
+<li>Regulations regarding student conduct during the regular school year apply to secondary summer school.</li>
+<li>A student will be withdrawn if more than four days are missed during any session.</li>
+<li>Semester exams are scheduled for June 20, 2025, and July 11, 2025. Exams may not be taken early.</li>
+<li>Fee for CCSD In-District Students: $100.00 per half-credit.</li>
+</ul>
+<p>For questions regarding secondary summer school, please call Chris Merritt at <strong>(702) 799-0761</strong>.</p>
+<h3>Attachments</h3>
+<ul>
+<li><a href="https://docs.google.com/document/d/1GzE4xNNnE85pGuoSD0HHAEPJFcGSSFURS4Q1paj8Pyk/edit?tab=t.0" target="_blank">2025 Secondary Summer School Flyer (Google Doc)</a></li>
+<li><a href="https://docs.google.com/document/d/1JpZ-pdjGRkPDfEF6qpzS1gqNMJwqY50dDUTEZrMHMm8/edit?tab=t.0" target="_blank">2025 Secondary Summer School Flyer - FAQ (Google Doc)</a></li>
+</ul>
+<h2>Resources through Nevada Learning Academy</h2>
+<p>Nevada Learning Academy at CCSD (NVLA) offers credit retrieval for middle and high school students and credit acceleration for elementary and middle school students. All classes are conducted online 24/7 through a computer-based learning management program. NVLA summer school fee is $100.00 per half credit for CCSD students during the 2024–2025 school year. The fee for non-CCSD students is $150.00 per half credit. 1 Course=½ Credit. For more information, go to <a href="https://nvlearningacademy.net/apps/pages/index.jsp?uREC_ID=522281&amp;type=d" target="_blank">NVLA 2025 Summer School</a>.</p>
+<p>The <a href="https://drive.google.com/file/d/1vVAdXnntnt9sbMsak0hfL8N5hrnBNVGY/view" target="_blank">https://docs.google.com/document/d/11ysQTHu3NNvvImrO6fQg0IPLUbwtgokx2-fFWCCBr-4/edit?tab=t.0 (Google Doc)</a> has a listing of courses offered during the summer term. Space is limited in all course offerings.</p>
+</section></div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

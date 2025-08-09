@@ -1,0 +1,94 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>Policy &amp; Regulation Comment</h1>
+<h3>P-4300 Employee In-State Work Requirement</h3>
+<form action="/district/policies-regulations/.comments.php" class="simple-form ajax-submit" id="reg_input" method="post" name="reg_input">
+<label class="required-label" for="contact" id="contact_lbl">Your Name</label><br/>
+<input class="required-field" id="contact" name="contact" type="text"/><br/>
+<label class="required-label" for="add1" id="add1_lbl">Address</label><br/>
+<input class="required-field" id="add1" name="add1" type="text"/><br/>
+<label for="add2">Address 2</label><br/>
+<input id="add2" name="add2" type="text"/><br/>
+<label class="required-label" for="city" id="city_lbl">City</label><br/>
+<input class="required-field" id="city" name="city" type="text"/><br/>
+<label class="required-label" for="zip" id="zip_lbl">Zip</label><br/>
+<input class="required-field" id="zip" maxlength="5" name="zip" size="7" type="text"/><br/>
+<label class="required-label" for="phone" id="phone_lbl">Phone</label><br/>
+<input class="required-field" id="phone" maxlength="15" name="phone" size="5" type="text"/><br/>
+<label for="email">Email</label><br/>
+<input id="email" name="email" type="text"/><br/>
+<label class="required-label" for="comments" id="comments_lbl">Comments</label><br/>
+<textarea class="required-field" cols="50" id="comments" name="comments" rows="5"></textarea><br/>
+<label for="section">Follow Up</label> <input name="response" type="checkbox" value="Y"/><br/>
+<span class="note">Please contact me with regards to this comment</span><br/>
+<div class="captcha-field" id="captcha"></div>
+<input name="noticeid" type="hidden" value="928"/>
+<input name="title" type="hidden" value="P-4300 Employee In-State Work Requirement"/>
+<input name="type" type="hidden" value="intent"/>
+<input id="submit" name="submit" type="submit"/>
+<a href="./">Cancel</a>
+</form>
+</section>
+</div>
+<!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

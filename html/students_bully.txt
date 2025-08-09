@@ -1,0 +1,132 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<!-- <h1>Say No to Bullying</h1> -->
+<img alt="" border="0" height="102" src="images/SNTB-logo.jpg" width="130"/>
+<br/><br/>
+<h1>Say No To Bullying</h1>
+<h2>CCSD Policy 5137: Safe and Respectful Learning Environment</h2>
+<a href="http://ccsd.net/district/policies-regulations/pdf/5137_P.pdf" target="_blank">Policy 5137 (PDF)</a> -  Clark County School District is committed to providing a safe, secure, and respectful learning environment for all students and employees at all District facilities, school buildings, in school buses, on school grounds, and at school sponsored activities. The school district strives to address bullying and cyberbullying so that there is no disruption to the learning environment and learning process.
+<h2>SafeVoice</h2>
+<p>Parents/students are encouraged to report knowledge of bullying and/or cyberbullying, via <a href="https://www.p3tips.com/tipform.aspx?ID=5004#">SafeVoice</a> that allows individuals to anonymously report unlawful activities.</p>
+<h2>District Resources</h2>
+<ul>
+<!-- <li><a href="http://ede.ccsd.net/wp-content/uploads/2017/02/It-Stops-Here-Poster-Final-15-16.pdf">It Stops Here - English (PDF)</a></li> -->
+<!-- <li><a href="http://ede.ccsd.net/wp-content/uploads/2017/02/2366.31-It-Stops-Here-SPAN-2.pdf">It Stops Here - Spanish (PDF)</a></li> -->
+<li><a href="http://ccsd.net/district/policies-regulations/pdf/5137_P.pdf">Policy 5137 (PDF)</a></li>
+<li><a href="http://ccsd.net/district/policies-regulations/pdf/5138_P.pdf">Policy 5138 (PDF)</a></li>
+<li><a href="pdf/2366.18-DBR-TriFoldBrochure-BullyingAwareness-English.pdf">Discrimination based on Race, Bullying, or Cyberbullying Brochure (English)</a> (PDF)</li>
+<li><a href="pdf/2366.18-DBR-TriFoldBrochure-BullyingAwareness-Spanish.pdf">Discrimination based on Race, Bullying, or Cyberbullying Brochure (Spanish)</a> (PDF)</li>
+<li><a href="pdf/BullyingResourcesForFamiliesENGLISH.pdf">Discrimination based on Race, Bullying, or Cyberbullying Resources (English)</a> (PDF)</li>
+<li><a href="pdf/BullyingResourcesForFamiliesSPANISH.pdf">Discrimination based on Race, Bullying, or Cyberbullying Resources (Spanish)</a> (PDF)</li>
+<!--  	<li><a href="http://ede.ccsd.net/wp-content/uploads/2017/08/2366.18-CCSD-Bullying-Bro_ENG_FINAL_17-18.pdf">Say No To Bullying Brochure - English (PDF)</a></li>
+			  	<li><a href="http://ede.ccsd.net/wp-content/uploads/2017/08/2366.21-CCSD-Bullying-Bro_SP_FINAL_17-18.pdf">Say No To Bullying Brochure - Spanish (PDF)</a></li>
+			  	<li><a href="http://ede.ccsd.net/wp-content/uploads/2017/02/2366.29-Safe-Respectful-Brochure-Final.pdf">SRLE Brochure - English (PDF)</a></li>
+			  	<li><a href="http://ede.ccsd.net/wp-content/uploads/2017/02/2366.32-SRLE-Trifold-Brochure-SP.pdf">SRLE Brochure - Spanish (PDF)</a></li> -->
+</ul>
+<!-- 			  <p>Pursuant to Assembly Bill 206, the District has provided a list of resources that may be available in the community to assist a student who is involved in a reported violation of NRS 388.135.  This is not an all-inclusive list.  The District does not endorse any of the companies or services included in the resource list.  The District is not responsible for providing the resources to the student or ensuring the student receives the resources.</p>
+
+                 <h3>Anti-Defamation League (ADL): “No Place for Hate”</h3>
+				 ADL’s mission is to combat anti-Semitism, prejudice, and hate in our community and to bring awareness to its citizens. “No Place for Hate” helps to educate on how to reduce bullying/cyberbullying and all forms of harassment.</p>
+			  <p class="bully-bottom"><a href="http://lasvegas.adl.org/" target="_blank">Learn More</a> </p>
+			  
+			  <h3>Bullying Surveillance among Youths: Uniform Definitions for Public Health and Recommended Data Elements Version 1.0 | Center for Disease Control and Prevention (CDC)</h3>
+				 This CDC publication contains a standardized definition of bullying, factors when gathering data on bullying using the standardized definition, recommended data elements for bullying, and federal government resources on bullying.</p>
+			  <p class="bully-bottom"><a href="https://www.cdc.gov/violenceprevention/pdf/Bullying-Definitions-FINAL-a.pdf" target="_blank">Learn More</a> </p>
+			  
+			   <h3>Cyberbullying Research Center</h3>
+				 Directed by Sameer Hinduja at Florida Atlantic University and Justin Patchin at the University of Wisconsin-Eau Claire, the Cyberbullying Research Center offers information regarding cyberbullying among adolescents.</p>
+			  <p class="bully-bottom"><a href="http://cyberbullying.us/" target="_blank">Learn More</a> </p> -->
+<!--  <h3>Eyes on Bullying</h3>
+				 Parents and caregivers both need tools and guidance to help keep children safe. The Eyes on Bullying website provides a comprehensive toolkit for identifying the early symptoms of bullying and providing support for parents and caregiving staff and the goal of bullying prevention.</p>
+			  <p class="bully-bottom"><a href="http://www.eyesonbullying.org/websites.html" target="_blank">Learn More</a> </p> -->
+<!-- 			   <h3>Federal Bureau of Investigation – Safe Online Surfing (FBI – SOS)</h3>
+				 The FBI Safe Online Surfing (FBI-SOS) program is a nationwide initiative to educate children about the dangers they face on the internet to help prevent crimes against children.  It promotes cyber citizenship among students by engaging them in a fun, age-appropriate, online program where they learn how to safe and responsible using the internet. The program emphasizes the importance of cyber safety such as password security, smart surfing habits, safeguarding personal information.</p>
+			  <p class="bully-bottom"><a href="http://sos.fbi.gov" target="_blank">Learn More</a> </p>
+			  
+			  
+			  <h3>Josh Stevens Foundation</h3>
+				 The Josh Stevens Foundation partners with schools, businesses and youth organizations to spread awareness about recognizing and celebrating heartfelt kind act.</p>
+			  <p class="bully-bottom"><a href="http://joshstevensfoundation.org" target="_blank">Learn More</a> </p>
+			  
+			  
+			   <h3>KnowBullying App | SAMHSA</h3>
+Research shows that parents and caregivers who devote at least 15 minutes a day talking with their child can lay the groundwork for a strong relationship and help prevent bullying. KnowBullying has simple conversation starters to begin a dialogue with your child. The app also features bullying prevention tips, bullying warning signs, reminders to talk with your child, social media options, and a section for educators.</p>			  
+			  <p class="bully-bottom"><a href="http://store.samhsa.gov/apps/knowbullying/index.html" target="_blank">Learn More</a> </p>
+			  
+			  <h3>National Suicide Prevention Lifeline</h3>
+			  800-273-8255<br />
+No matter what problems you are dealing with, the National Suicide Prevention Lifeline wants to help you.</p>			  
+			  <p class="bully-bottom"><a href="http://www.suicidepreventionlifeline.org/" target="_blank">Learn More</a> </p>
+			  
+			  <h3>Nevada Department of Education, Bully Free Zone</h3>
+The Bully Free Zone web site is designed to assist students, parents and school staff with bully prevention methods.  The resources and information included in this web site are structured to be easy to use for everyone.  This is not an inclusive list of resources.			  
+			  <p class="bully-bottom"><a href="http://bullyfreezone.nv.gov/" target="_blank">Learn More</a> </p>
+			  
+			  <h3>Nevada PEP</h3>
+As Nevada's statewide Parent Center, we support families that have a child that has experienced bullying by providing information, parent workshops and webinars. Please give our center a call to learn more about the options families have available to address their concerns about bullying and create an environment where children can feel safe and successful in school.</p>			  
+			  <p class="bully-bottom"><a href="http://www.nvpep.org/" target="_blank">Learn More</a> </p>
+			  
+			  <h3>Operation Respect</h3>
+Operations Respect seeks to assure each child and youth a respectful, safe, and compassionate climate of learning where their academic, social, and emotional development can take place free of bullying, ridicule and violence.</p>			  
+			  <p class="bully-bottom"><a href="http://www.operationrespect.org/" target="_blank">Learn More</a> </p>
+			  
+			   <h3>PACER Center’s National Bullying Prevention Center</h3>
+PACER’s National Bullying Prevention Center was established in 2006. Complete with resources for students, parents, educators, and others, PACER recognizes bullying as a serious community topic that can impact education, the physical and emotional health, as well as the safety and well-being of students. The website includes videos, toolkits, posters, and handouts. 			  
+			  <p class="bully-bottom"><a href="http://www.pacer.org/bullying/" target="_blank">Learn More</a> </p>
+			  
+			   <h3>Relationships between Bullying School Climate and Student Risk Behaviors | School Psychology</h3>
+This study examined whether feature of a positive school climate were associated with lower student risk behavior.  The study found that a positive school climate could be a significant protective factor in preventing student risk behavior.	</p>		  
+			  <p class="bully-bottom"><a href="http://psycnet.apa.org/?&fa=main.doiLanding&doi=10.1037/a0029350" target="">Learn More</a> </p>
+			  
+			   <h3>Respect For All</h3>
+Let’s Get Real examines issues that lead to taunting and bullying, including racial differences, perceived sexual orientation, learning disabilities, religious differences, sexual harassment and others. “Let’s Get Real” curriculum guide features valuable lesson plans, discussion starters, classroom activities and handouts for teachers to use in conjunction with the film.			  
+			  <p class="bully-bottom"><a href="http://groundspark.org/our-films-and-campaigns/lets-get-real/lgr_curric" target="_blank">Learn More</a> </p>
+			  			  
+			   <h3>The Bully Project</h3>
+The SNABC is group of Nevada based organizations focused on supporting the CCSD in building a safe and respectful learning environment. Mission Statement - The SNABC will collaborate and be a collector of resources to provide our youth with a safe, positive, and respectful environment free from bullying and harassment.</p>			  
+			  <p class="bully-bottom"><a href="http://specialneeds.thebullyproject.com/toolkit" target="_blank">Learn More</a> </p>
+			  
+			   <h3>Southern Nevada Antibullying Council (SNABC)</h3>
+The SNABC is group of Nevada based organizations focused on supporting the CCSD in building a safe and respectful learning environment. Mission Statement - The SNABC will collaborate and be a collector of resources to provide our youth with a safe, positive, and respectful environment free from bullying and harassment. </p>			  
+			  <p class="bully-bottom"><a href="mailto:rkincaid@nvpep.org" >Email Us</a> </p>
+			  
+			   <h3>Stop Bullying</h3>
+In partnership with the Department of Education and the Department of Justice, the U. S. Department of Health and Human Services oversees <a href="http://www.stopbullying.gov" target="_blank">http://www.stopbullying.gov</a>.  It contains the webpages “What is Bullying, Cyberbullying, Who is at Risk, Preventing Bullying, and Responding to Bullying.” In addition, the website contains a section on the state bullying prevention policies, laws, and resources for parents, educators, communities, and students.</p>			  
+			  <p class="bully-bottom"><a href="http://www.stopbullying.gov" target="_blank">Learn More</a> </p>
+			  
+			   <h3>Stop Bullying Now</h3>
+According to Stop Bullying Now, individuals can decrease bullying and we can aid children and teens who have been bullied.</p>			  
+			  <p class="bully-bottom"><a href="http://stopbullyingnow.com/" target="_blank">Learn More</a> </p>
+			  
+			   <h3>Vegas PBS</h3>
+Vegas PBS webpage contains videos, lesson plan, and resources to aid in building awareness and prevention of bullying/cyberbullying.			  
+			  <p class="bully-bottom"><a href="http://www.vegaspbs.org/bullying/"  target="_blank">Learn More</a> </p>
+			  
+			   <h3>Welcoming Schools</h3>
+A project of the Human Rights Foundation. Welcoming Schools, a project of the Human Rights Campaign Foundation, offers an Lesbian, Gay, Bisexual and Transgender, inclusive method to address family diversity, gender stereotyping, bullying, and name-calling in K-5 learning settings.</p>			  
+			  <p class="bully-bottom"><a href="http://www.welcomingschools.org" target="_blank">Learn More</a> </p> -->
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

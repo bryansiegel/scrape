@@ -1,0 +1,114 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Government Relations</h1>
+<p>
+	The Government Relations Department builds and sustains close relationships with local, state, and federal officials to increase support for student-centric public policy that supports the unique needs of the District. The Government Relations team represents the District in matters concerning Congress, the Nevada Legislature, the Nevada State Board of Education, the Nevada Department of Education, and local governments. The Department helps:</p>
+<ul dir="ltr">
+<li>
+		develop legislative priorities; </li>
+<li>
+		represent the District at legislative hearings </li>
+<li>
+		lobby during the legislative session</li>
+<li>
+		meet with legislators during the interim to assist with the education-related concerns of their constituents, and </li>
+<li>
+		serve as a District contact on various public policy issues. </li>
+</ul>
+<p>
+	The office also monitors the District's compliance with legislation during the interim.</p>
+<p>
+	 </p>
+<hr/>
+<h2>
+	Contact CCSD Government Relations</h2>
+<p>
+	Subscribe to Government Relations email updates <a href="https://clark-county-school-district.read.axioshq.com/signup/government-relations-quarterly">here</a>.<br>
+<br>
+	Interested in advocacy opportunities? We invite you to join us in strengthening the public education system in Southern Nevada. Parents, students, and vested stakeholders alike are invited to participate in discussions and activities related to education &amp; policy in Nevada. Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScRpQ5Oa0uHyxrI_YxM9y0sim-es4P3rHDw3_4tQfrG0qrsDQ/viewform">here</a></br></br></p>
+<hr/>
+<h2>
+	2023 Legislative Session</h2>
+<p>
+	05/27/2023 - <a href="http://eepurl.com/ir-KBg" target="_blank">[CCSD Brief #6] Nevada’s 82nd Legislative Session</a><br>
+	05/12/2023 - <a href="http://eepurl.com/ircfw-/" target="_blank">[CCSD Brief #5] Nevada’s 82nd Legislative Session</a><br>
+	05/08/2023 - <a href="http://eepurl.com/iqP6is" target="_blank">AB 175 Call to Action</a><br>
+	04/26/2023 - <a href="http://eepurl.com/ipZPeE" target="_blank">[CCSD Brief #4] Nevada’s 82nd Legislative Session</a><br>
+	04/14/2023 - <a href="http://eepurl.com/imZm8Y" target="_blank">[CCSD Brief #3] Nevada’s 82nd Legislative Session</a><br>
+	03/03/2023 - <a href="http://eepurl.com/il7wFA" target="_blank">[CCSD Brief #2] Nevada’s 82nd Legislative Session</a><br/>
+	02/18/2023 - <a href="http://eepurl.com/ik6JAT" target="_blank">[CCSD Legislative Brief] Nevada's 82nd Legislative Session</a></br></br></br></br></br></p>
+<hr/>
+<h2>
+	Resources</h2>
+<ul dir="ltr">
+<li>
+<a href="https://ccsd.net/district/data/" style="text-decoration:none;" target="_blank">CCSD District Data</a></li>
+<li>
+<a href="https://newsroom.ccsd.net/wp-content/uploads/ataglance_CCSD_Mar21.pdf" style="text-decoration:none;" target="_blank">CCSD At A Glance - English PDF</a></li>
+<li>
+<a href="https://newsroom.ccsd.net/wp-content/uploads/ataglance_CCSD_spanish_Mar21.pdf" style="text-decoration:none;" target="_blank">CCSD At A Glance - Spanish PDF</a></li>
+<li>
+<a href="http://openbook.ccsd.net/index-data.php" style="text-decoration:none;" target="_blank">CCSD Fiscal Transparency </a></li>
+<li>
+<a href="https://future.ccsd.net/" style="text-decoration:none;" target="_blank">CCSD Annual ARP ESSER III Use of Funds Updates</a></li>
+<li>
+<a href="https://www.leg.state.nv.us/whosmylegislator/" style="text-decoration:none;" target="_blank">Who’s my legislator? </a></li>
+<li>
+<a href="https://www.leg.state.nv.us/" style="text-decoration:none;" target="_blank">Nevada Legislature </a></li>
+<li>
+<a href="https://www.leg.state.nv.us/Division/Research/Content/items/nevadas-legislative-process" style="text-decoration:none;" target="_blank">Nevada’s Legislative Process</a></li>
+<li>
+<a href="https://doe.nv.gov/" style="text-decoration:none;" target="_blank">Nevada Department of Education </a></li>
+<li>
+<a href="https://www.ed.gov/" style="text-decoration:none;" target="_blank">US Department of Education</a></li>
+</ul>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2><a href="https://ccsd.net/contactus/">Let's Talk</a><br/>
+<a href="https://ccsd.net/students/safevoice/">Safe Voice</a><br/>
+<a href="https://itsyourchoice.ccsd.net/">CCSD Schools of Choice</a><br/>
+<a href="https://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public">BoardDocs</a><br/></section><section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

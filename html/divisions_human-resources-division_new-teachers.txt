@@ -1,0 +1,39 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>Sorry, we can't find the page you're looking for.</h1>
+<h2>Error Code: 404</h2>
+<p>Here are some popular links that may help:
+<ul>
+<li><a href="/parents/infinite-campus-choice.php">Infinite Campus</a></li>
+<li><a href="/schools/">Schools</a></li>
+<li><a href="/employees/prospective/">Jobs</a></li>
+<li><a href="/district/calendar/">Calendar</a></li>
+<li><a href="/schools/zoning/search/">Zoning Search</a></li>
+<li><a href="/departments/transportation">Transportation</a></li>
+<li><a href="/parents/">Parents</a></li>
+<li><a href="/district/directory/">Directory</a></li>
+</ul>
+<img alt="" class="hero" src="/_static/images/red-backpack.jpg"/>
+<!--
+					
+					<div class="search-wrap">
+						<form style="margin: 0; padding: 0;" name="gs" id="searchForm" action="http://googleapp.ccsd.net/search" method="get" accept-charset="utf-8" role="search">
+							<div><input type="text" name="q" class="search-input" value=""></div>
+							<div class="search-submit">
+								<input value="" type="submit" name="q" id="main_search_field" />
+							</div>
+							<input name="client" value="ccsd_2012" type="hidden"/>
+					        <input name="proxystylesheet" value="ccsd_2012" type="hidden"/>
+					        <input name="proxyreload" value="1" type="hidden"/>
+					        <input name="output" value="xml_no_dtd" type="hidden"/>
+					        <input name="site" value="ccsd_2012" type="hidden"/>
+						</form>
+					</div>
+
+				-->
+<ul>
+</ul>
+</p></section>
+</div> <!-- / main_content_wrap -->
+</div>

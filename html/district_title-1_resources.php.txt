@@ -1,0 +1,442 @@
+<div class="content-wrap" id="content_wrap">
+<div class="aux-nav-wrap sticky-top" style="width:955px;">
+<div align="center" id="aux_nav_choice" style="width:955px;background: #1771b7;margin-left: auto;margin-right: auto;align-content: center;">
+<a class="page-link" data-page="#collapseOne" href="https://ccsd.net/district/title-1/index.php#Support" id="myID Support" style="width: auto;padding-left: 15px;margin-left: 5px;">School-Based Support</a> 
+
+			<a class="page-link" data-page="#collapseTwo" href="https://ccsd.net/district/title-1/index.php#Childhood" id="myID" style="width: auto;padding-left: 15px;">Early Childhood Programs</a> 
+			<div class="dropdown2">
+<a class="dropbtn page-link" data-page="#collapseThree" href="https://ccsd.net/district/title-1/index.php#HOPE" id="myID" style="width: auto;padding-bottom: 10px;padding-left: 15px;">HOPE: Homeless Outreach Program for Education</a> 
+			    <div class="dropdown-content" style="width:560px;">
+<ul id="myID" style="list-style-type: none;">
+<li><a href="https://ccsd.net/district/title-1/faq.php">FAQs</a></li>
+<li><a href="https://ccsd.net/district/title-1/services.php">Services and Supports</a></li>
+<li><a href="https://ccsd.net/district/title-1/resources.php">Resources</a></li>
+<li><a href="https://ccsd.net/district/title-1/law.php">Law</a></li>
+</ul>
+</div>
+</div>
+<div class="dropdown2">
+<a class="dropbtn page-link" data-page="#collapseFour" href="https://ccsd.net/district/title-1/index.php#Family" id="myID" style="width: auto;padding-bottom: 10px;padding-left: 15px;">Family Engagement</a> 
+			    <div class="dropdown-content" style="width:560px;margin-left: -100px;">
+<ul id="myID" style="list-style-type: none;">
+<li><a href="https://ccsd.net/district/title-1/policies.php">Policies</a></li>
+<li><a href="https://engage.ccsd.net/family/" target="_blank">Family Engagement</a></li>
+<li><a href="https://ccsd.net/district/title-1/family-center.php">Family Centers</a></li>
+</ul>
+</div>
+</div>
+<a class="page-link" data-page="#collapseFive" href="https://ccsd.net/district/title-1/programs.php" id="myID Support" style="width: auto;padding-left: 15px;margin-left: 0px;">Extension Programs</a> 
+			
+	</div>
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- 				<section class="content-holder"> -->
+</main></div>
+<div class="container">
+<h1 class="content-holder">Resources</h1>
+<div class="container1" id="page_container">
+<div aria-multiselectable="true" class="panel-group" id="accordion" role="tablist">
+<div class="panel panel-primary" id="collapseOne_container">
+<div class="panel-heading" id="headingOne myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseOne" aria-expanded="false" data-parent="#accordion" data-toggle="collapse" href="#collapseOne" role="button">
+							Community Resources					
+							</a>
+</h2>
+</div>
+<div aria-labelledby="headingOne" class="panel-collapse collapse in" id="collapseOne" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<p><strong><a href="https://www.calvarydowntownoutreach.org/" targe="_blank">Calvary Downtown Outreach</a> – (702) 474-3030</strong><br/>
+
+					All are welcome every Saturday at noon at the City Impact Center, 950 E. Sahara Ave. for a barbeque meal, worship, and bible study. Wednesdays and Thursdays a food pantry operates from 10:00 to 2:00 PM at the City Impact Campus at 968 E. Sahara Ave. The food pantry is open to anyone living in a house or apartment that can provide valid proof of residency that they live in the 90101, 89104, 89109, 89169, 89121 or 89119 zip codes and have picture id.</p>
+<p><strong><a href="https://www.calvarydowntownoutreach.org/" targe="_blank">Clark County Public Guardian</a> – (702) 455-0000</strong></p>
+<p><strong><a href="https://www.clarkcountynv.gov/residents/assistance_programs/index.php" targe="_blank">Clark County Social Services</a> – (702) 455-3440</strong><br/>
+					
+					Provides a variety of services for needy residents of Clark County who are not assisted by other state, federal or local programs. Services are primarily targeted for childless adults. The primary mandates are to provide financial and medical assistance, protective services for seniors. Social Service is also responsible for other programs and duties assigned by the Board of County Commissioners.</p>
+<p><strong>Social Services</strong>: Their mission is to provide individuals and families facing a temporary crisis with emergency assistance to meet basic needs. Depending on the individual or family situation and their available resources, they can assist with basic necessities such as emergency food, clothing, and baby food. When available, 24-hour bus passes, rent and utility payment assistance is provided.</p>
+<p><strong>Women, Infants and Children (WIC)</strong>: This supplemental food program provides food, nutritional education, and referrals to health and public agencies to pregnant women, recently pregnant, and women with children up to the age of five.</p>
+<p><strong>Homeless to Home (Tenant Based Rental Assistance Program)</strong>: This program provides single-men or women with children; two parent married couples; veterans of any age and seniors 62 years or older, assistance with housing, utility payment assistance, case management, job training, food and clothing to end the cycle of homelessness and to gain self-sufficiency through employment. They will assist clients for 6 months to one year, helping them end the cycle of homelessness.</p>
+<p><strong>St. Vincent Lied Dining Facility</strong>: This facility at 1502 North Main Street, feeds nutritious meals to homeless and needy men, women, and children every day of the year, in a clean and safe environment, no questions asked. A free community meal is served daily 10-11 AM. Additional meals are served for $3 Monday to Friday and are open to the public 7-8 AM for breakfast, 12-1 PM for lunch, and 3-5 PM for dinner. Sunday lunch is served 12-1 PM and dinner is served 3-5 PM.</p>
+<p><strong>Community Food Pantry</strong>: This pantry provides groceries for individuals and families in need Monday through Friday 8 AM to 3 PM.</p>
+<p><strong>St. Vincent HELP Apartments</strong>: These 120 fully furnished apartments are specifically designed to help men and women regain their independence and transition to permanent housing.</p>
+<p><strong><a href="https://www.catholiccharities.com/" targe="_blank">Catholic Charities</a> – (702)385-2662</strong></p>
+<p><strong><a href="https://www.clarkcountynv.gov/residents/family_services/index.php" targe="_blank">Family Services</a> – (702) 455-5444</strong><br/>
+					
+					A local public agency whose role is to help keep children safe. The agency was formed in response to the merger of state and county child welfare services. Services include adoption, case management, child abuse hotline, child protection, independent living, and the parenting project.</p>
+<p><strong><a href="https://www.fosterkinship.org/" targe="_blank">Foster Kinship</a> – (702) 546-9988</strong><br/>
+					Foster Kinship is a comprehensive support program for kinship caregivers in Nevada designed to increase the stability and well-being of the kinship family.</p>
+<p><strong><a href="https://www.helpsonv.org/" targe="_blank">HELP of Southern Nevada</a> – (702) 369-4357</strong>
+					A community resource that assists families and individuals through direct services, training and referral to community resources. The building blocks lead to four cornerstones: Housing, Emergency Services, Life Skills and Prevention. Below are some of the services they offer.</p>
+<p><strong>Nevada 2-1-1</strong>: An easy to remember telephone number that connects callers to free information about critical health and human services available in their community. The center is staffed by live information and referral specialists who are available 24 hours a day, 7 days a week, 365 days a year.</p>
+<ul style="margin-left:-28px;"><strong>Social Services</strong>: Comprised of 3 main divisions:
+						<li style="margin-left:35px;"><strong>The Division of Emergency Resource Services (DERS)</strong> is a link between people needing services and those providing them. The program addresses needs for basic survival by providing rent and utility assistance, clothing vouchers, food vouchers, gas coupons, toiletries, blankets, etc.</li>
+<li style="margin-left:35px;"><strong>The Division of Homeless Services O.U.T.R.E.A.C.H.</strong> is contracted by the County to perform two functions: Mobile Crisis Intervention Team and Intensive Case Management.</li>
+<li style="margin-left:35px;"><strong>The Division of Family Services (A New Start)</strong> is a supportive housing program that provides rental assistance and supportive services to homeless families who have a documented disability</li>
+</ul>
+<p><strong>Weatherization</strong>: Assists low-income households occupied by seniors, physically challenged, and homes with children by installing energy saving devises, such as solar screens. Weatherizing equals money in energy savings that clients can use toward necessities like food.</p>
+					
+					 
+					
+					Shannon West Homeless Youth Center: Residential facility for youth ages 16-21. The youth live in studio apartments and learn the basic life skills necessary to reach independence. The campus provides 24-hour staffing for supervision and transportation of the residents.
+					
+					 
+					
+					<p><strong>Work Opportunities Readiness Center (W.O.R.C.)</strong>: offers free assistance to anyone who has recently lost his or her primary source of income due to job lay-offs, divorce, death, or disability.</p>
+<p><strong>The Community Alternative Sentencing Program (CAS)</strong>: Gives court appointed individuals the opportunity to serve the community.</p>
+<p><strong><a href="https://www.lssnv.org/" targe="_blank">Lutheran Social Services</a> – (702) 639-1730</strong><br/>
+					A social ministry with supportive services for senior citizens, youth, and low-income families. The agency has the following services currently available to families in need:</p>
+<p><strong>Emergency Food Pantry</strong>: Supermarket style client-choice emergency food pantry where clients are given a cart to select fresh produce and packaged food items for themselves.</p>
+<p><strong>Emergency Services Program</strong>: Temporary financial support through rental and utility assistance for low-income individuals living at/or below the poverty line.</p>
+<p><strong>Career Connections Center</strong>: Provides employment search and retention services to individuals and families. They provide birth certificates and state identification documents necessary for obtaining employment in Nevada.</p>
+<p><strong>Supportive Housing Program (Project Return Home)</strong>: Family supportive transitional housing services provided through three apartment homes for homeless families. This community-based program offers homeless families in the community, whose other resources have been exhausted, transitional housing with wrap around supportive services. It requires the head of household to be willing and able to participate in a written case service plan, which will within 24 months facilitate long-term stabilization, employment and housing.</p>
+<p><strong><a href="https://www.lssnv.org/" targe="_blank">Social Security Administration</a> – 800-772-1213</strong><br/>
+<strong>North Las Vegas</strong>: 44340 Simmons Street – (866) 704-4859<br/>
+<strong>Henderson</strong>: 10416 S. Eastern Avenue- (866) 614-9667<br/>
+<strong>Las Vegas</strong>: CAC-1511 N. Las Vegas Blvd. – (855) 207-7084</p>
+<p><strong><a href="https://www.ssa.gov/" targe="_blank">Southern Nevada Health District</a> – (702) 759-1000</strong><br/>
+					Offers services and provides regulatory supervision to protect and promote the health, the environment and the well-being of Clark County residents and visitors. The District is divided into the following four divisions.</p>
+<p><strong>Administrative Services</strong>: Covers the operations of health cards, vital records and public information.</p>
+<p><strong>Community Health Services</strong>: Includes emergency medical services, epidemiology, chronic disease prevention and health promotion, public health preparedness, and the Southern Nevada Public Health Laboratory.</p>
+<p><strong>Environmental Health</strong>: Oversees plan review and inspection programs involving food and beverage establishments, public accommodations, subdivisions, child care facilities, body art facilities, public swimming pools, public water systems, septic tanks, and solid waste facilities.</p>
+<p><strong>Nursing and Clinics</strong>: Provides public health-related clinical services at an average cost of $35. Services are provided regardless of a client’s ability to pay. Administers childhood and adult immunizations, offers sexually transmitted disease treatment and control, tuberculosis treatment and control, kids clinics, and HIV/AIDS case management.</p>
+<p><strong><a href="https://www.vitalchek.com/v/birth-certificates?ScenarioName=ScenarioAtomicDust" targe="_blank">Birth Certificates</a> – (702) 759-1010</strong></p>
+<p><strong><a href="https://dwss.nv.gov/" targe="_blank">State of Nevada Welfare Department</a> – (702) 486-5000</strong><br/>
+					
+					Provides services enabling Nevada families, the disabled and elderly to achieve their highest levels of self-sufficiency.</p>
+<p><strong><a href="https://www.threesquare.org/" targe="_blank">Three Square Food Bank</a> – (702) 644-3663</strong><br/>
+					
+					Southern Nevada’s only food bank providing assistance to it residents. This is a community collaborative partnership providing the equivalent of nearly 18 million meals per year to more than 650 Program Partners. Below are some of the services they offer:</p>
+<p><strong>Backpack for Kids Program</strong>: Provides a bag of nutritious, kid-friendly, shelf-stable food to children who lack adequate food over the weekend.
+					Kids Café Program: One of the largest charitable meal service programs, which provides free and prepared food and nutrition education to hungry children in a safe environment. Provides meals to children after school in the late afternoon.</p>
+<p><strong>Summer Food Service Program (SFSP)</strong>: Provides nutritious meals to children 18 or younger in low-income areas during the summer. The program ensures that children’s nutritional needs are met during their school vacation when FRL meals are not available.</p>
+<p><strong>Supplemental Nutrition Assistance Program (SNAP Outreach)</strong>: Provides low-income households with electronic benefits they can use like a debit card to purchase food at stores authorized by the US Department of Agriculture.</p>
+<p><strong><a href="https://lvccul.org/" targe="_blank">Urban League</a> – (702) 636-3949</strong></p>
+<p><strong><a href="https://usvets.org/" targe="_blank">U.S. Vets</a> – (702) 219-3244</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseTwo_Container">
+<div class="panel-heading" id="headingTwo myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseTwo" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseTwo" role="button">
+	                    Family Resources
+	                    </a>
+</h2>
+</div>
+<div aria-labelledby="headingTwo" class="panel-collapse collapse in" id="collapseTwo" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<p><strong><a href="https://dhhs.nv.gov/uploadedFiles/dhhsnvgov/content/Programs/Grants/Programs/FRC/South_FRCs_Flyer.pdf" target="_blank">Family Resource Centers (FRCs)</a></strong> provide case management, information, and referrals for individuals and families in need of assistance in accessing services and programs that will strengthen and support the family.</p>
+<p><ul style="margin-left:-28px;"><strong>Las Vegas East and Central</strong> – (702) 631-7098<br/>
+	(Laughlin, Searchlight)
+
+   	<li style="margin-left:35px;">89101, 89102, 89104, 89106, 89107, 89109, 89110, 89119, 89120, 89121, 89142, 89169</li>
+<li style="margin-left:35px;">East Valley Family Services 1800 E Sahara Avenue, Suite 117, Las Vegas 89104</li>
+</ul>
+</p>
+<p><ul style="margin-left:-28px;"><strong>Las Vegas North and North Las Vegas</strong> – (702) 685-3459<br/>
+	(Overton, Logandale, Moapa)
+
+     <li style="margin-left:35px;">89030, 89031, 89032, 89033, 89036, 89081, 89084, 89085, 89086, 89087, 89108, 89115, 89130, 89131, 89143, 89149, 89156, 89191</li>
+<li style="margin-left:35px;">Olive Crest 3825 W Cheyenne, Suite 604, North Las Vegas 89030</li>
+</ul>
+</p>
+<p><ul style="margin-left:-28px;"><strong>Las Vegas South and Henderson</strong> – (702) 566-0576<br/>
+
+(Mesquite, Bunkerville)
+
+     <li style="margin-left:35px;">89002, 89005, 89011, 89012, 89014, 89015, 89044, 89052, 89074, 89122, 89123, 89141, 89183</li>
+<li style="margin-left:35px;">Hopelink 178 Westminster Way, Henderson 89015</li>
+</ul>
+</p>
+<p><ul style="margin-left:-28px;"><strong>Las Vegas West</strong> – (702) 932-1880<br/>
+<li style="margin-left:35px;">89004, 89018, 89103, 89113, 89117, 89118, 89124, 89128, 89129, 89134, 89135, 89138, 89139, 89141, 89144, 89145, 89146, 89147, 89148, 89166, 89178, 89179</li>
+<li style="margin-left:35px;">Boys &amp; Girls Club of Las Vegas 2850 S Lindell Road. Las Vegas 89146</li>
+</ul>
+</p>
+<p><ul style="margin-left:-28px;"><strong>North Rural Clark County</strong> – (702) 394-6400<br/>
+<li style="margin-left:35px;">Overton, Logandale, Moapa) – 89021, 89025, 89040</li>
+<li style="margin-left:35px;">Cappalappa Family Resource Center 189 N Moapa Valley Boulevard, Overton 89040</li>
+</ul>
+</p>
+<p><ul style="margin-left:-28px;"><strong>North Rural Clark County</strong> – (702) 345- 5116<br/>
+<li style="margin-left:35px;">(Mesquite, Bunkerville) – 89007, 89024, 89027</li>
+<li style="margin-left:35px;">Salvation Army in Mesquite 355 W Mesquite Boulevard, Mesquite 89027</li>
+</ul>
+</p>
+<p><ul style="margin-left:-28px;"><strong>South Rural Clark County</strong> – (702) 845-0293<br/>
+<li style="margin-left:35px;">(Lauglin, Searchlight) – 89019, 89026, 89028, 89029, 89039, 89046</li>
+<li style="margin-left:35px;">East Valley Family Services Call for location</li>
+</ul>
+</p>
+<p><ul style="margin-left:-28px;"><strong>Southern Nye County</strong> – (775) 751-1118<br/>
+
+(Pahrump)
+
+    <li style="margin-left:35px;">(Pahrump) – 89003, 89020, 89023, 89041, 89048, 89060, 89061</li>
+<li style="margin-left:35px;">NV Outreach Training Organization, NO TO Abuse 621 S Blagg Road, Pahrump 89048</li>
+</ul>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseThree_Container">
+<div class="panel-heading" id="headingThree myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseThree" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseThree" role="button">
+	                    Food Resources
+	                    </a>
+</h2>
+</div>
+<div aria-labelledby="headingThree" class="panel-collapse collapse in" id="collapseThree" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<h3>Emergency Food Banks</h3>
+<p><a href="https://www.catholiccharities.com/" target="_blank"><strong>Catholic Charities</strong></a><br/>
+<a href="https://www.jfsalv.org/" target="_blank"><strong>Jewish Family Services</strong><br/>
+<a href="https://www.salvationarmysouthernnevada.org/family-services" target="_blank"><strong>Salvation Army Family Center &amp; Food Bank</strong><br/>
+<a href="https://www.threesquare.org/" target="_blank"><strong>Three Square Food Bank</strong></a></a></a></p>
+<h3>Meal Sites</h3>
+<p><a href="https://www.catholiccharities.com/" target="_blank"><strong>Catholic Charities</strong></a> – (702) 387-2291<br/>
+<a href="https://www.citymissionoflasvegas.org/" target="_blank"><strong>City Mission of Las Vegas</strong></a> – (702) 384-1930<br/>
+<strong>Friends in the Desert</strong> – (702) 565-8742<br/>
+<strong>Las Vegas Rescue Mission</strong> – (702) 382-1766<br/>
+<a href="https://www.threesquare.org/" target="_blank"><strong>Three Square</strong></a> – (702) 644-3663</p>
+<h3>Summer Food Service Program</h3>
+<p><a href="https://ccsd.nutrislice.com/menu/menus-eula" target="_blank"><strong>CCSD Meal Finder</strong></a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseFour_Container">
+<div class="panel-heading" id="headingFour myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseFour" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseFour" role="button">
+	                    Medical Resources
+	                    </a>
+</h2>
+</div>
+<div aria-labelledby="headingFour" class="panel-collapse collapse in" id="collapseFour" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<h3>Health Care Clinics</h3>
+<p><strong>American Diabetes Foundation</strong><br/>
+							800-366-1655</p>
+<strong>Cambridge Family Health Center &amp; NV Health Center</strong>
+							(702) 307-5415<br/>
+							3900 Cambridge Ave., Las Vegas, NV
+<strong>Downtown Outreach Center</strong><br/>
+							(702) 380-8511<br/>
+							403 W. Wilson Ave., Las Vegas, NV
+<strong>Family Health Center</strong><br/>
+							(702) 214-5948<br/>
+							2225 Civic Center Dr., Suite 204C, North Las Vegas, NV
+<strong>Huntridge Teen Clinic</strong><br/>
+							(702) 732-8776<br/>
+							2100 S. Maryland Pkwy. #1, Las Vegas, NV
+<strong>Juvenile Diabetes Association</strong><br/>
+							(702) 732-4795
+<strong>Las Vegas Outreach Clinic</strong><br/>
+							(702) 307-4635<br/>
+							1511 Las Vegas Blvd., North Las Vegas, NV
+<strong>Positive Impact</strong><br/>
+							(702) 616-4824
+<strong>Southern Nevada Health District</strong><br/>
+							(702) 759-1000
+<!--
+School-Based Health Centers
+
+School based health centers are free for children 0-18 who are not covered by insurance.
+-->
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseFive_Container">
+<div class="panel-heading" id="headingFive myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseFive" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseFive" role="button">
+	                    Phone Numbers
+	                    </a>
+</h2>
+</div>
+<div aria-labelledby="headingFive" class="panel-collapse collapse in" id="collapseFive" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<h3>Emergency Phone Numbers</h3>
+<p><strong>Boulder City Police Department</strong> – (702) 293-9224<br/>
+<strong>Clark County Fire Department</strong> – 911<br/>
+<strong>Henderson Police Department</strong>  – (702) 565-8933<br/>
+<strong>LV Metro Police Department</strong>  – (702) 229-3111<br/>
+<strong>Mt. Charleston Rangers</strong>  – (702) 297-1229<br/>
+<strong>North Las Vegas Police Department</strong>  – (702) 633-9111</p>
+<h3>Hotlines</h3>
+<p><strong>Boys Town National Hotline</strong> – 1-800-448-3000<br/>
+<strong>Catholic Charities</strong> – (702) 385-2662<br/>
+<strong>Child Abuse and Neglect Hotline</strong> – (702) 399-0081<br/>
+<strong>Child Protective Services</strong> – (702) 455-5401<br/>
+<strong>Domestic Violence Crisis Hotline</strong> – (702) 646-4981<br/>
+<strong>HELP of Southern Nevada</strong> – (702) 369-4357<br/>
+<strong>Homework Hotline</strong> – (702) 799-5111<br/>
+<strong>National Runaway Hotline</strong> – 1-800-RUNAWAY<br/>
+<strong>National Suicide Prevention Hotline</strong> – 1-800-SUICIDE<br/>
+<strong>Psychiatric Observation Unit</strong> – (702) 486-8020<br/>
+<strong>Rape Crisis</strong> – (702) 366-1640<br/>
+<strong>Safe House Domestic Violence Crisis Hotline</strong> – (702) 564-3227<br/>
+<strong>Safe Nest Domestic Violence Crisis Hotline</strong> – (702) 646-4981<br/>
+<strong>Safe Place</strong> – 1-866-U-R-SAFE</p>
+<h3>Clark County School District Phone Numbers</h3>
+<p><strong>Administration Center District Switchboard</strong> – (702) 799-5000<br/>
+<strong>Adult Education</strong> – (702) 799-8650<br/>
+<strong>Educational Services Division</strong>  – (702) 855-9765<br/>
+<strong>Food Services Department</strong>  – (702) 799-8123<br/>
+<strong>Guidance &amp; Counseling</strong>  – (702) 799-8441<br/>
+<strong>Student Data Services</strong>  – (702) 799-2492<br/>
+<strong>Student Support Services Division</strong>  – (702) 799-5471<br/>
+<strong>Superintendent’s Office</strong>  – (702) 799-5310<br/>
+<strong>Title I </strong> – (702) 799-3850<br/>
+<strong>Title I HOPE</strong> (Homeless Outreach Program for Education)  – (702) 855-6682<br/>
+<strong>Transportation</strong>  – (702) 799-8110<br/>
+<strong>Zoning</strong>  – (702)799-6430</p>
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseSix_Container">
+<div class="panel-heading" id="headingSix myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseSix" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseSix" role="button">
+	                    Youth Resources
+	                    </a>
+</h2>
+</div>
+<div aria-labelledby="headingSix" class="panel-collapse collapse in" id="collapseSix" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<p><strong><a href="http://www.bbbsn.org" target="_blank">Big Brothers, Big Sisters (ages 6-18)</a></strong><br/>
+(702) 731-2227<br/>
+A non-profit corporation that is a leader in youth mentoring services. Their primary focus is on quality programs that have a significant impact on the lives of youth in our community, ages 6 through 18, and to be collaborative partners to other youth development nonprofits in the community.</p>
+<p><strong><a href="https://www.bgcsnv.org/" target="_blank">Boys and Girls Club</a></strong><br/>
+(702) 367-2582<br/>
+The Boys &amp; Girls Clubs of Southern Nevada, our mission is to enable all young people, especially those who need us most, to reach their full potential as productive, caring, responsible citizens.</p>
+<p><strong><a href="http://helpsonv.org/" target="_blank">HELP of Southern Nevada WIA (Workforce Investment Act)</a></strong><br/>
+(702) 369-4357<br/>
+Through the Workforce Investment Act-Youth Program, Work Opportunities Readiness Center (W.O.R.C.) provides low income, at-risk youth (homeless or near homeless youth), ages 16-21 with long term outcomes such as: basic educational and employment skills; completion of academic certificates (including high school diplomas &amp; equivalents) and; placement in employment, post-secondary education and/or training</p>
+<p><strong>Juvenile Work Permits (ages 14-17)</strong><br/>
+(702) 455-5240</p>
+All juveniles between the ages of 14 and 17 years of age must obtain a Work Permit for each job held until the age of 18. An exception to this would be a juvenile working in a family-owned business. Juvenile Work Permits are issued Monday through Friday, 8 a.m. to 4 p.m., at the Payment Center, for a fee of $1.00 by the Department of Juvenile Justice Services.
+<p><strong><a href="http://www.nphy.org/" target="_blank">Nevada Partnership for Homeless Youth (ages 12-24)</a></strong><br/>
+(702) 383-1332<br/>
+A youth service provider in Nevada with a continuum of care extending from street outreach and 24-hour crisis intervention services to a full-time drop-in center and an independent living program. No parental consent is needed.</p>
+<p><strong><a href="http://nevadachildseekers.org/" target="_blank">NV Child Seekers</a></strong><br/>
+(702) 458-7009<br/>
+A nonprofit, missing children’s organization in Nevada that does not charge for their services. The organization works to keep parents closely involved in their cases and is available to assist the proper authorities. Trained, police-screened volunteers carry out many of the education programs.</p>
+<p><strong>Safe Place</strong><br/>
+1-866-U-R-SAFE<br/>
+Provides safety for individuals and families affected by sexual and domestic violence. 24-hour Hotline connects you to crisis support and information.</p>
+<p><strong>Safe Place Mobile Crisis</strong><br/>
+(702) 383-1332<br/>
+Provides access to immediate help and supportive resources for young people in crisis through a network of sites sustained by qualified agencies, trained volunteers, and businesses. Through a partnership with Terrible Herbst Gaming, the program is available 24-hours a day to any youth in crisis at all Terrible Herbst convenience stores.</p>
+<p><strong><a href="http://helpsonv.org/programs-youth.php" target="_blank">Shannon West Homeless Youth Center (ages 16-24)</a></strong><br/>
+(702) 369-4357<br/>
+Provides residential and day programming for at-risk youth that are homeless or are at risk of becoming homeless. The Youth Center motivates residents towards reaching self-sufficiency by providing the training and skills to further their education, employment, social and life skills. The Youth Center is a residential facility for youth ages 16-21. </p>
+<p><strong>Sierra NV Job Corps (ages 16-24)</strong><br/>
+(702) 382-2702<br/>
+A no-cost education and career technical training program administered by the U.S. Department of Labor that helps young people ages 16 through 24 improve the quality of their lives through career technical and academic training. The Job Corps program is authorized by Title I-C of the Workforce Investment Act of 1998.</p>
+<p><strong><a href="http://www.childrenfirst-nv.org/" target="_blank">Southern NV Children First</a></strong><br/>
+(702) 487-5665</p>
+A non-profit organization created to mentor, educate and train homeless, pregnant and parenting youth and young adults. Southern Nevada Children First takes care of the youths basic necessities like food and shelter while teaching them how to be positive parents and independent adults. They are able to assist youth through comprehensive programs and services.
+<p><strong><a href="http://www.streetteens.org/index.php" target="_blank">Street Teen Drop-In Shelter (ages 12-21)</a></strong><br/>
+(702) 809-3585<br/>
+A volunteer based, non-profit organization dedicated to assisting homeless, abandoned, and at risk youth, ages 12-21, in the Las Vegas Valley. Their primary goal is to meet the survival needs of our youth by providing basic necessities in a safe, compassionate environment. They provide access to educational, health care, and employment resource services through a drop-in center and by actively collaborating with community partners.</p>
+<p><strong><a href="https://www.lasvegasymca.org/" target="_blank">YMCA of Southern Nevada</a></strong><br/>
+(702) 877-9622<br/>
+As part of the YMCA’s summer food program, children receive up to two meals a day and participate in recreational and learning activities to keep their bodies and minds active. The YMCA’s summer food program helps children stay well-nourished, active and energized all summer long, and also provide some important relief to struggling families.</p>
+<p><strong><a href="https://www.westcare.com/" target="_blank">WestCare Youth Shelter</a></strong><br/>
+(702) 385-2020 ext. 61255<br/>
+A homeless/runaway shelter and social model detoxification center for youth ages 10-17. Here these youth can find a safe haven from the often brutal conditions they experience on the streets of Las Vegas.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseSeven_Container">
+<div class="panel-heading" id="headingSeven myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseSeven" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseSeven" role="button">
+	                    External Resources
+	                    </a>
+</h2>
+</div>
+<div aria-labelledby="headingSeven" class="panel-collapse collapse in" id="collapseSeven" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<h3>External Resources</h3>
+<p><a href="https://helphopehome.org/" target="_blank">Help Hope Home – Ending Homelessness in Southern Nevada</a>
+<a href="https://naehcy.org/" target="_blank">The National Association for the Education of Homeless Children and Youth (NAEHCY)</a><br/>
+<a href="https://nche.ed.gov/" target="_blank">National Center for Homeless Education (NCHE)</a><br/>
+<a href="https://schoolhouseconnection.org/" target="_blank">SchoolHouse Connection</a><br/>
+<a href="https://endhomelessness.org/" target="_blank">National Alliance to End Homelessness</a><br/>
+<a href="https://www.usich.gov/" target="_blank">United States Interagency Council on Homelessness (USICH)</a><br/>
+<a href="https://homelesslaw.org/" target="_blank">National Law Center on Homelessness and Poverty</a></p>
+</div>
+</div>
+</div>
+</div>
+<!--
+        <div class="panel panel-primary" 
+	            id="collapseEight_Container">
+	            <div class="panel-heading" 
+	                role="tab" 
+	                id="headingEight myID">
+	                <h2 class="panel-title">
+	                    <a class="collapsed" 
+	                        role="button" 
+	                        data-toggle="collapse" 
+	                        data-parent="#accordion" 
+	                        href="#collapseEight" 
+	                        aria-expanded="false" 
+	                        aria-controls="collapseEight">
+	                    Extension Programs
+	                    </a>
+	                </h2>
+	            </div>
+	            <div id="collapseEight" 
+	                class="panel-collapse collapse in" 
+	                role="tabpanel" 
+	                aria-labelledby="headingEight">
+	                <div class="panel-body">
+						 <div class="panel-body">
+						<h3>Extension Programs</h3>
+
+<a href="/title-i/extension-programs/charter-schools/">Charter School Services</a><br>
+<a href="/title-i/extension-programs/migrant-program/">Migrant Services</a><br>
+<a href="/title-i/extension-programs/neglected-and-delinquent-programs/">Neglected and Delinquent Services<br>
+</a><a href="/title-i/extension-programs/private-schools/">Private School Supplemental Services</a><br>
+<a href="/title-i/extension-programs/special-projects/">Special Projects</a>
+							 
+							 
+						 
+						 </div>
+	                </div>
+				   
+	            </div>
+	        </div>
+-->
+</div>
+ <!-- /main_content_wrap -->
+</div> <!-- /content-wrap -->
+<!-- 	Popups -->
+<!--
+	     <div class="popup" id="popup">
+            <div class="popup-inner">
+                <div class="popup__photo">
+                    <img class="image" src="images/Habits-of-Learning.png" >
+                </div>
+                 <a class="popup__close" href="#">X</a>
+            </div>
+        </div>
+-->
+</div>
+</div>

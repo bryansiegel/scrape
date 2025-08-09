@@ -1,0 +1,18 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	National School Lunch Program</h1>
+<p>
+	The National School Lunch Program (NSLP) is a federally assisted meal program operating in the Clark County School District, which provides nutritionally balanced, low-cost or free lunches to students.</p>
+<p>
+	The goal of the CCSD Child Nutrition Program is to serve nutritious, appetizing, and affordable meals to students. We believe that good nutrition is an important key to learning and that every child has the right to a nutritious breakfast and lunch at the lowest possible price.</p>
+<p>
+	Menus are posted in all school cafeterias and are available online at <a href="https://menu.ccsd.net/">https://menu.ccsd.net</a>.</p>
+<p>
+	The Clark County School District participates in the Community Eligibility Provision of the federal Healthy, Hunger-Free Kids Act district wide and will provide free school meals to all students during the 2025-2026 school year.</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

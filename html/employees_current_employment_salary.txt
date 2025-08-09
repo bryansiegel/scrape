@@ -1,0 +1,224 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Salary Information</h1>
+<a name="salaries"></a>
+<h2>Administrative Personnel Salary Schedule</h2>
+<ul>
+<li><a href="/employees/resources/pdf/salary-info/2024-25AdminSalarySchedule-SalaryIncrease3Percent.pdf" target="_blank">2024-2025 Administrative Salary Schedule - FY2025 (PDF)</a> (new) </li>
+<li><a href="/employees/resources/pdf/salary-info/2023-24AdminSalarySchedule.pdf" target="_blank">2023-2024 Administrative Salary Schedule - FY2024 (PDF)</a></li>
+<li><a href="/employees/resources/pdf/salary-info/2022-23AdminSalarySchedule.pdf" target="_blank">2022-2023 Administrative Salary Schedule - FY2023 (PDF)</a> </li>
+<!-- 					<li><a href="/employees/resources/pdf/salary-info/2021-22AdminSalarySchedule.pdf" target="_blank">2021-2022 Administrative Salary Schedule (PDF)</a> </li> -->
+<!-- 					<li><a href="/employees/resources/pdf/salary-info/2021-22AdminSalaryScheduleFY22.pdf" target="_blank">Administrative Salary Schedule - FY2022 (PDF)</a> effective July 1, 2021</li> -->
+<!-- 					<li><a href="/employees/resources/pdf/salary-info/2020-21AdminSalaryScheduleFY21.pdf" target="_blank">2020-2021 Administrative Salary Schedule (PDF)</a></li> --><li><a href="/employees/resources/pdf/salary-info/2025-2026-Admin-License-Payroll-Calendar.pdf" target="_blank">2025-2026 Payroll Calendar (PDF)</a></li>
+<li><a href="/employees/resources/pdf/salary-info/2024-2025-Admin-License-Payroll-Calendar.pdf" target="_blank">2024-2025 Payroll Calendar (PDF)</a></li>
+<!-- 					<li><a href="/employees/resources/pdf/salary-info/2023-2024-HCM-Admin-Payroll-Calendar.pdf" target="_blank">2023-2024 Payroll Calendar (PDF)</a></li> -->
+<!-- 					<li><a href="/employees/current/employment/steps.php" target="_blank">Step Advancement for Administrative and Professional-Technical Employees</a></li> -->
+<!-- 					<li><a href="/employees/resources/pdf/salary-info/2020-21AdminSalaryScheduleFY21.pdf" target="_blank">2020-2021 Administrative Salary Schedule (PDF)</a></li> -->
+<!--<li><a href="/employees/resources/pdf/salary-info/admin-salary-schedules-fy2017-2019.pdf" target="_blank">Administrative Salary Schedule FY2017-2019</a></li>
+
+					<li><a href="/employees/resources/pdf/salary-info/admin-salary-schedules-fy2016-2017-arbitrated.pdf">Administrative Salary Schedule - FY2016-2017 - ARBITRATED</a></li>
+					<li><a href="/employees/resources/pdf/salary-info/admin-salary-schedules-fy2015-2016-arbitrated.pdf">Administrative Salary Schedule - FY2015-2016 - ARBITRATED</a></li>
+-->
+</ul>
+<h2>CCSD School Principal Salary Steps</h2>
+<ul>
+<li><a href="/employees/resources/pdf/School-Based-Site-Management-Plan.pdf" target="_blank">CCSD School-Based Site Management Plan (PDF)</a></li>
+<li><a href="/employees/resources/pdf/site-management-reports/WebPointsTable2425.REV031125.pdf" target="_blank">Site Management Report 2024 - 2025 (PDF)</a> </li>
+<li><a href="/employees/resources/pdf/site-management-reports/site_management_report-24-25-rev.pdf" target="_blank">Site Management Report 2023 - 2024 (PDF)</a> </li>
+<li><a href="/employees/resources/pdf/site-management-reports/site_management_report-22-23.pdf" target="_blank">Site Management Report 2022 - 2023 (PDF)</a> </li>
+<li><a href="/employees/resources/pdf/site-management-reports/site_management_report-21-22-new.pdf" target="_blank">Site Management Report 2021 - 2022 (PDF)</a> </li>
+<li><a href="/employees/resources/pdf/site-management-reports/site_management_report-20-21.pdf" target="_blank">Site Management Report 2020 - 2021 (PDF)</a> </li>
+<!-- 					<li><a href="/employees/resources/pdf/site-management-reports/site_management_report-19-20.pdf" target="_blank">Site Management Report 2019 - 2020 (PDF)</a> </li> -->
+<!-- <li><a href="/employees/resources/pdf/site-management-reports/site_management_report-18-19.pdf" target="_blank">Site Management Report 2018 - 2019 (PDF)</a> </li> -->
+<!-- 					<li><a href="/employees/resources/pdf/site-management-reports/site_management_report-17-18.pdf" target="_blank">Site Management Report 2017 - 2018 (PDF)</a> </li> -->
+<!-- 					<li><a href="/employees/resources/pdf/site-management-reports/site_management_report-16-17.pdf" target="_blank">Site Management Report 2016 - 2017 (PDF)</a> </li> -->
+<!-- 					<li><a href="/employees/resources/pdf/site-management-reports/site_management_report-15-16.pdf" target="_blank">Site Management Report 2015 - 2016 (PDF)</a> </li> -->
+<!-- 					<li><a href="/employees/resources/pdf/site-management-reports/site_management_report-14-15.pdf" target="_blank">Site Management Report 2014 - 2015 (PDF)</a> </li> -->
+<!-- 					<li><a href="/employees/resources/pdf/site-management-reports/site_management_report-13-14.pdf" target="_blank">Site Management Report 2013 - 2014</a> </li> -->
+</ul>
+<h2>Licensed Personnel Salary Schedule</h2>
+<ul>
+<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-2025-2026-07-01-2025.pdf" target="_blank">Licensed Professional Salary Table FY 2025-2026 Implementation Date of July 1, 2025 (PDF)</a> (new)</li>
+<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-2024-2025-Reporting.pdf" target="_blank">Licensed Professional Salary Table FY 2024-2025 Implementation Date of September 1, 2024 (PDF)</a> (new)</li>
+<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-2024-2025-PERS-Restoration.pdf" target="_blank">Licensed Professional Salary Table FY 2024-2025 Implementation Date of September 1, 2024  (For Illustrative Purposes)  (PDF)</a> (new)</li>
+<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-2023-2024-231-Reporting.pdf" target="_blank">Licensed Professional Salary Table FY 2023-2024 Implementation Date of February 1, 2024 (PDF)</a> (old)</li>
+<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-2023-2024-PERS-Restoration.pdf" target="_blank">Licensed Professional Salary Table FY 2023-2024 Implementation Date of February 1, 2024 (For Illustrative Purposes)  (PDF)</a> (old)</li>
+<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-FY2023-070123.pdf" target="_blank">Professional Salary Table - Fiscal Year 2024 (PDF)</a> (old)</li>
+<!-- 			<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-FY2023.pdf" target="_blank">Professional Salary Table - Fiscal Year 2023 (PDF)</a> (old)</li> -->
+<!--
+				<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-FY2022-CCEA.pdf" target="_blank">Professional Salary Table - Fiscal Year 2022 (PDF)</a> (old)</li>
+				<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTableFY2022.pdf" target="_blank">Professional Salary Table - Fiscal Year 2022 (PDF)</a> </li>				
+				<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTableFY2021.pdf" target="_blank">Professional Salary Table - Fiscal Year 2021 (PDF)</a> </li>
+-->
+<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryScheduleWithBenfitsFY2025.pdf" target="_blank">Licensed Professional Salary Table FY2025 with benefits effective September 1, 2024 (PDF)</a> (new)</li>
+<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-FY2024-Benefits.pdf" target="_blank">Licensed Professional Salary Table FY 2024 with Benefits Implementation Date of July 1, 2024 (PDF)</a> (old)</li>
+<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable_BenefitsFY2023.pdf" target="_blank">Professional Salary Table with Benefits - Fiscal Year 2023 (PDF)</a> (old)</li>
+<!--
+				<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable_BenefitsFY2022-3percent.pdf" target="_blank">Professional Salary Table with Benefits - Fiscal Year 2022 (PDF)</a></li>
+				<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable_BenefitsFY2022.pdf" target="_blank">Professional Salary Table with Benefits - Fiscal Year 2022 (PDF)</a></li>
+				<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable_BenefitsFY2021.pdf" target="_blank">Professional Salary Table with Benefits - Fiscal Year 2021 (PDF)</a></li>
+-->
+<!-- 			<li><a href="/employees/resources/pdf/salary-info/licensed-professional-salary-table-09302019.pdf" target="_blank">Professional Salary Table - Effective July 1, 2019 (PDF)</a></li> -->
+<li><a href="/employees/resources/pdf/salary-info/2015-2016-Transitional-Salary-Schedule.pdf" target="_blank">Professional Salary Table - 2015-2016 - Transitional Salary Schedule (PDF)</a></li>
+<li><a href="/employees/resources/pdf/salary-info/2025-2026-Admin-License-Payroll-Calendar.pdf" target="_blank">2025-2026 Payroll Calendar (PDF)</a></li>
+<li><a href="/employees/resources/pdf/salary-info/2024-2025-Admin-License-Payroll-Calendar.pdf" target="_blank">2024-2025 Payroll Calendar (PDF)</a></li>
+<!-- 			<li><a href="/employees/resources/pdf/salary-info/2022-2023-HCM-Admin-Payroll-Calendar.pdf" target="_blank">2022-2023 Payroll Calendar (PDF)</a> (revised June 28, 2022)</li> -->
+<!-- 				<li><a href="/employees/resources/pdf/salary-info/2023-2024-HCM-Admin-Payroll-Calendar.pdf" target="_blank">2023-2024 Payroll Calendar (PDF)</a></li> -->
+</ul>
+<h2>Licensed Salary Information</h2>
+<ul>
+<!-- 				<li><a href="/employees/resources/pdf/VerificationSalaryPlacementForm2019.pdf" target="_blank">Verification of Salary Placement Form (PDF)</a></li> -->
+<li><a href="/employees/resources/pdf/verification-of-experience2022-form.pdf" target="_blank">Verification of Experience Form (PDF)</a></li>
+<li><a href="/employees/resources/pdf/how-to-calculate-contracted-pay.pdf" target="_blank">How to Calculate Contracted Pay (PDF)</a></li>
+<!-- 				<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeOd-4AB6MEg4zH-wPRQ2oqTccDLgCvSXZwvg9VdB7kJOAtBQ/viewform" target="_blank">Salary Placement Estimate</a></li> -->
+<li><a href="/employees/current/employment/growth.php" target="_blank">CCSD Professional Growth System (PGS)</a></li>
+</ul>
+<h2>Police Officers and Administrators Salary Information</h2>
+<ul>
+<li><a href="/employees/resources/pdf/salary-info/2024-25PoliceAdminSalaryScheduleFY25.pdf" target="_blank">2024-2025 Police Administrator Salary Schedule - FY2025 (PDF)</a> (new)</li>
+<li><a href="/employees/resources/pdf/salary-info/2023-24PoliceAdminSalaryScheduleFY24-PERSIncrease.pdf" target="_blank">2023-2024 Police Administrator Salary Schedule - FY2024 (PDF)</a> </li>
+<li><a href="/employees/resources/pdf/salary-info/2022-23PoliceAdminSalaryScheduleFY23.pdf" target="_blank">2022-2023 Police Administrator Salary Schedule - FY2023 (PDF)</a></li>
+<!-- 				<li><a href="/employees/resources/pdf/salary-info/2021-22PoliceAdminSalaryScheduleFY22-SalaryIncrease.pdf" target="_blank">2021-2022 Police Administrative Salary Schedule (PDF)</a></li> -->
+<!-- 				<li><a href="/employees/resources/pdf/salary-info/2021-22PoliceAdminSalaryScheduleFY22-PERSIncrease.pdf" target="_blank">Police Administrator Salary Schedule - FY 2022 (PDF)</a> effective July 1, 2021</li> -->
+<!-- 				<li><a href="/employees/resources/pdf/salary-info/2020-21PoliceAdminSalaryScheduleFY21.pdf" target="_blank">2020-2021 Police Administrator Salary Schedule (PDF)</a></li> -->
+<!-- 				<li><a href="/employees/resources/pdf/Salary_Table_FY2024_POLICE_OFFICERS.pdf" target="_blank">Police Officers Salary Schedule FY2024 (PDF)</a> (new)</li> -->
+<li><a href="/employees/resources/pdf/Salary_Table_FY2022_POLICE_OFFICERS.pdf" target="_blank">Police Officers Salary Schedule FY2022 (PDF)</a> (new)</li>
+<li><a href="/employees/resources/pdf/Salary_Table_FY2021_POLICE_OFFICERS.pdf" target="_blank">Police Officers Salary Schedule FY2021 (PDF)</a> (old)</li>
+<!--				<li><a href="/employees/resources/pdf/salary-info/2025-2026-HCM-Support-Subs-Police-PayrollCalendar.pdf" target="_blank">2025-2026 Payroll Calendar (PDF)</a></li>-->
+<li><a href="/employees/resources/pdf/salary-info/Calendar for Support-Professional-Police25-26.pdf" target="_blank">2025-2026 Payroll Calendar (PDF)</a></li>
+<li><a href="/employees/resources/pdf/salary-info/2024-2025-HCM-Support-Subs-Police-PayrollCalendar.pdf" target="_blank">2024-2025 Payroll Calendar (PDF)</a></li>
+<!-- 				<li><a href="/employees/resources/pdf/salary-info/2023-2024-HCM-Support-Subs-Police-PayrollCalendar.pdf" target="_blank">2023-2024 Payroll Calendar (PDF)</a></li> -->
+<!--<li><a href="/employees/resources/pdf/2019-20_PAA_SALARY_3_Percent.pdf" target="_blank">2019-2020 Police Administrator Salary Schedule (PDF)</a></li>
+-->
+</ul>
+<h2>Substitute Salary Schedule</h2>
+<ul>
+<li><a href="/employees/resources/pdf/salary-info/Salary-Substitutes-Updated-07-31-2025.pdf" target="_blank">General Salary Schedule (PDF)</a></li>
+<li><a href="/employees/resources/pdf/salary-info/2024-2025Title1-List-071924.pdf" target="_blank">2024-2025 Title 1 School List (PDF)</a></li>
+<li><a href="/employees/resources/pdf/salary-info/2024-2025-list-of-early-hiring-schools.pdf" target="_blank">2024-2025 Early Hiring Schools (PDF)</a></li>
+<!-- 			<li><a href="/employees/resources/pdf/support-staff-subs-payroll-cal-19-20.pdf" target="_blank">Payroll Calendar (PDF)</a></li> -->
+<!-- 				<li><a href="/employees/resources/pdf/2021-2022-support-staff-subs-payroll-new.pdf" target="_blank">2021-2022 Payroll Calendar (PDF)</a></li> -->
+<li><a href="/employees/resources/pdf/salary-info/Calendar for Support-Professional-Police25-26.pdf" target="_blank">2025-2026 Payroll Calendar (PDF)</a></li>
+<li><a href="/employees/resources/pdf/salary-info/2024-2025-HCM-Support-Subs-Police-PayrollCalendar.pdf" target="_blank">2024-2025 Payroll Calendar (PDF)</a></li>
+<!-- 				<li><a href="/employees/resources/pdf/salary-info/2023-2024-HCM-Support-Subs-Police-PayrollCalendar.pdf" target="_blank">2023-2024 Payroll Calendar (PDF)</a></li> -->
+</ul>
+<h2>Support Professional Salary Schedule</h2>
+<ul><li><a href="/employees/resources/pdf/Support_Salary_Schedule_2024-2025.pdf" target="_blank">General Salary Schedule (PDF)</a> (new)</li>
+<li><a href="/employees/resources/pdf/Support_Salary_Schedule_2023-2024.pdf" target="_blank">General Salary Schedule (PDF)</a> (old)</li>
+<li><a href="/employees/resources/pdf/Support_Salary_Schedule_2022-2023.pdf" target="_blank">General Salary Schedule (PDF)</a> (old) </li>
+<!-- 				<li><a href="/employees/resources/pdf/Support_Salary_Schedule_2021-2022.pdf" target="_blank">General Salary Schedule (PDF)</a></li>  -->
+<li><a href="/employees/resources/pdf/salary-info/Calendar for Support-Professional-Police25-26.pdf" target="_blank">2025-2026 Payroll Calendar (PDF)</a></li>
+<li><a href="/employees/resources/pdf/salary-info/2024-2025-HCM-Support-Subs-Police-PayrollCalendar.pdf" target="_blank">2024-2025 Payroll Calendar (PDF)</a></li>
+<!-- 				<li><a href="/employees/resources/pdf/salary-info/2023-2024-HCM-Support-Subs-Police-PayrollCalendar.pdf" target="_blank">2023-2024 Payroll Calendar (PDF)</a></li> -->
+</ul>
+<!-- 				<li><a href="/employees/resources/pdf/Support_Salary_Schedule_FY2021.pdf" target="_blank">General Salary Schedule (PDF)</a> (old)</li></ul> -->
+<a name="verification"></a>
+<h2>Employment and Payroll Verification</h2>
+<!--	<br>
+
+						<div class="alert-primary">
+			<strong>Notice for Website Verifications
+</strong><br>
+	        Due to the high volume of requests, please allow up to 3-4 weeks before  requests are completed.</div>
+-->
+<p><strong>Forms: Public Service Loan Forgiveness, DoDEA Form 5013, and Heartland/Perkins Deferment</strong><br>
+<p>District employees may obtain employment and payroll verification through Experian Verify. This service offers secure, confidential internet access and telephone support Mon-Fri 9am – 7pm (ET).</p>
+<p>To access <strong>Employment Verification Information</strong>, verifiers will need to register and submit their requests online at <a href="https://www.experian.com/employer-services/products/verification-fulfillment/experian-verify" target="_blank">www.experianverify.com</a>. They will need the following information:</p>
+<ol>
+<li>Your full Social Security Number</li>
+<li>Your First and Last Name</li>
+<li>Name of Employer (Clark County School District)</li>
+<li>A signed authorization form (for income verification)</li>
+</ol>
+<p>No company code or salary pin required. If your verifier has questions or encounter issues, they can contact customer support by calling (404) 382-5400, option 2.</p>
+<p>Do you have a <strong>Public Service Loan Forgiveness</strong> form? You can submit your request to Experian Verify by fax at (404) 829-1336 or by email to <a href="https://voie.experian.com/app/ee/eeregister.aspx" target="_blank">https://voie.experian.com/app/ee/eeregister.aspx</a>. Select “create an employee account” and enter the following:</p>
+<ol>
+<li>Access code: 4E13D10A</li>
+<li>Full Social Security Number</li>
+<li>Your Full Name</li>
+<li>Date of Birth</li>
+<li>Email Address</li>
+</ol>
+<p>Login with your Credentials by following prompts: A password setup link will be sent to your email address. Click the link to create a password and activate your account. Once logged in select the “Letters” on homepage or sidebar menu. Select “PSLF Letter”. A letter with submittal instructions and completed ECF will be generated.<p>
+<p>Do you have a <strong>Social Service Request</strong> from a government agency? Please submit your request to Experian Verify by fax at (404) 829-1336 or by email to <a href="mailto:verify@experian.com">verify@experian.com</a>. You can also have your caseworker send the request directly to this fax or email. Be sure to include the following information on the form:</p>
+<ol>
+<li>Your Full Name</li>
+<li>The last 4 of your Social Security Number</li>
+<li>A return fax number for the social security agency</li>
+</ol>
+<p>Requests will be processed within one (1) business day. If you have any questions, you can contact Experian Verify’s social service department at (404) 382-5400, option 4.</p>
+					
+					The <strong>Experian Verify Employee Portal</strong> provides secure employment and/or income information to our credentialed verifiers (mortgage companies, lenders, pre-employment screeners, etc.) on behalf of your employer. You may view your report and control access to your information using the Experian Verify employee portal. Visit <a href="https://www.experian.com/employer-services/products/verification-fulfillment/experian-verify" target="_blank">www.experianverify.com</a> and choose “I am an Employee”. Enter the following:
+						<ol>
+<li>Access code: 4E13D10A</li>
+<li>Full Social Security Number</li>
+<li>Your Full Name</li>
+<li>Date of Birth</li>
+<li>Email Address</li>
+</ol>
+<p>Click Create an Employee Account. A password setup link will be sent to your email address. Click the link to create a password and activate your account. Lastly log in with your credentials. </p>
+<p><strong>Forms: Verification of Teaching Experience, Fedloan Teach Grant Certification, and Teacher Loan Forgiveness, click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdrlyZF6MQ5VxpcYBbFq_CUNarAjmd2RPb2B1U3LZj1OFk0jA/viewform" target="_blank">here</a><!-- 						click <a href="https://docs.google.com/forms/d/1f6qY67dFUzwNa9KlXM-__tuVBrq798IpzJqE-KaUsQY/viewform" target="_blank">here</a>  -->for CCSD to complete the request.
+</strong></p>
+</p></p></br></p></section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar_wrap -->
+</div>

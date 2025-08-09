@@ -1,0 +1,49 @@
+<div class="content-wrap" id="content_wrap">
+<div class="sticky-top super-nav">
+<p></p>
+<!--                 <div align="center" class"trustee-nav" style="width:960px;margin-left: -40px;margin-right: auto;"> -->
+<!--             <a class="trustee-link" style="color:#ffffff;" href="/trustees/details/index.php">Meet Your School District Trustees</a> -->
+<!-- 				</div>  -->
+</div>
+<!--         <header class="header2" style="margin-top: 0px !important;">
+            <p></p>
+        </header> -->
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<!--Trustee Container - ALL  -->
+<div style="clear: both; margin-left: 20px;margin-right: 20px;">
+<!--RIGHT SIDE BAR STARTS -->
+<!-- END OF RIGHT SIDE BAR STARTS -->
+<!-- TRUSTEE BIO CONTENT STARTS -->
+<div style="margin-bottom: 50px; ">
+<!-- 	                <img style="margin-bottom: -30px;margin-top: -55px;" src="/_static/images/gradient-banner.svg" alt="banner" tabindex="-1"> -->
+<img alt="Superintendent Ebert" class="super-detailimg trustee-detailimg" src="images/Ebert-2025.png">
+<h1 style="margin: 0 0 5px;">Jhone Ebert</h1>
+<h2 style="margin: 0 0 5px;">Superintendent</h2>
+<div class="trustee-bio" style="background-color: #fbfbfb; border: 1px solid #e3e3e3;">
+<p>Jhone Ebert brings over three decades of experience, passion, and proven leadership to her Superintendent of the Clark County School District (CCSD) role. A longtime Southern Nevada resident and CCSD educator, Superintendent Ebert has dedicated her career to ensuring that every student—no matter their background or zip code—has the opportunity to succeed in school and life.</p>
+<p>As Superintendent of CCSD—the fifth-largest school district in the nation—Ebert brings deep experience and a strong track record of improving educational outcomes across Nevada. She approaches her role with a clear focus on expanding college and career readiness opportunities, advancing innovation and equity in classrooms, and fostering a culture where every employee feels valued and every student has the support they need to thrive.</p>
+<p>Before being selected as Superintendent in 2025, Ebert served as Nevada's Superintendent of Public Instruction, overseeing the academic progress of nearly 500,000 students across the state's 17 school districts. Under her leadership, Nevada transformed its 54-year-old education funding formula into a more equitable, student-focused model—the Pupil-Centered Funding Plan. Her tenure also saw bold investments in teacher recruitment and retention, as well as expanded access to career and technical education. She positioned Nevada as a national leader in computer science education, ensuring that more than 95% of high school students had access to foundational coursework that prepares them for the future.</p>
+<p>Superintendent Ebert's impact extends beyond policy. She's known for her collaborative approach, unwavering belief in the power of public education, and commitment to listening to students, families, and educators. During the COVID-19 pandemic, she led the statewide effort to ensure every student had the technology and connectivity needed to continue learning—work that earned Nevada national recognition.</p>
+<p>A lifelong learner, Ebert holds a Master of Education in Instructional and Curricular Studies from the University of Nevada, Las Vegas, and a Bachelor of Arts in Mathematics from California State University, Fresno. She has been honored nationally for her educational leadership, including the International Society for Technology in Education (ISTE) Impact Award, the National Community Builder Award, the UNLV College of Education Alumna of the Year, and the Presidential Award for Excellence in Mathematics Teaching.</p>
+<!--
+
+                 <div class="sidebar-banner" style="float:right; height:330px; margin-top: 0px;margin-left: 20px; margin-right: 0px;margin-bottom: 20px;
+	                 height:250px; width: 200px;padding: 10px;">
+                                       <div><img src="/_static/images/icons/circle-question.png" class="trustee-sidebar-icon" alt="question"></div>
+		                    <div class="trustee-sidebar-question">Have A Question?</div>
+		                    <div class="trustee-sidebar-contact">Contact us at</div>
+		                    <div class="trustee-sidebar-phone">702-799-CCSD</div>
+		                    <div class="trustee-sidebar-email">Email Your Trustee</div>
+                   <a href="/trustees/contact/all"> <img src="/_static/images/icons/email-trustee.png" class="trustee-sidebar-iconemail" alt="email"/></a>
+          			</div>
+		        </div>
+-->
+<!--
+<button id="p2" class="more-link">Read Less</button></div>
+</div>
+</div>
+-->
+</div></img></div></div></section>
+</div>
+</div>

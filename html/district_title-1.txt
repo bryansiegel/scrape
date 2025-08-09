@@ -1,0 +1,507 @@
+<div class="content-wrap" id="content_wrap">
+<div class="aux-nav-wrap sticky-top" style="width:955px;">
+<div align="center" id="aux_nav_choice" style="width:955px;background: #1771b7;margin-left: auto;margin-right: auto;align-content: center;">
+<a class="page-link" data-page="#collapseOne" href="https://ccsd.net/district/title-1/index.php#Support" id="myID Support" style="width: auto;padding-left: 15px;margin-left: 5px;">School-Based
+				Support</a> 
+
+			<a class="page-link" data-page="#collapseTwo" href="https://ccsd.net/district/title-1/index.php#Childhood" id="myID" style="width: auto;padding-left: 15px;">Early Childhood Programs</a> 
+			<div class="dropdown2">
+<a class="dropbtn page-link" data-page="#collapseThree" href="https://ccsd.net/district/title-1/index.php#HOPE" id="myID" style="width: auto;padding-bottom: 10px;padding-left: 15px;">HOPE:
+					Homeless Outreach Program for Education</a> 
+				<div class="dropdown-content" style="width:560px;">
+<ul id="myID" style="list-style-type: none;">
+
+<li><a href="https://ccsd.net/district/title-1/faq.php">FAQs</a></li>
+<li><a href="https://ccsd.net/district/title-1/services.php">Services and Supports</a></li>
+<li><a href="https://ccsd.net/district/title-1/resources.php">Resources</a></li>
+<li><a href="https://ccsd.net/district/title-1/law.php">Law</a></li>
+</ul>
+</div>
+</div>
+<div class="dropdown2">
+<a class="dropbtn page-link" data-page="#collapseFour" href="https://ccsd.net/district/title-1/index.php#Family" id="myID" style="width: auto;padding-bottom: 10px;padding-left: 15px;">Family
+					Engagement</a> 
+				<div class="dropdown-content" style="width:560px;margin-left: -145px;">
+<ul id="myID" style="list-style-type: none;">
+<li><a href="https://ccsd.net/district/title-1/policies.php">Policies</a></li>
+<li><a href="https://engage.ccsd.net/family/" target="_blank">Family Engagement</a></li>
+<li><a href="https://ccsd.net/district/title-1/family-center.php">Family Centers</a></li>
+</ul>
+</div>
+</div>
+<a class="page-link" data-page="#collapseFive" href="https://ccsd.net/district/title-1/programs.php" id="myID Support" style="width: auto;padding-left: 15px;margin-left: 0px;">Extension
+				Programs</a> 
+
+		</div>
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- 				<section class="content-holder"> -->
+</main></div>
+<div class="container">
+<h1 class="content-holder">About Title I</h1>
+<div class="contact-side-wrap contact-side">
+<p><strong>Contact</strong><br/>
+
+				Greg Kramer, Director<br/>
+				Phone: (702) 799-3850<br/>
+				Fax: (702) 799-3824</p>
+<p><strong>Address</strong><br/>
+
+				3311 E. Flamingo Rd,<br/>
+				Las Vegas, NV 89121 | <a href="https://www.google.com/maps/place/3311+E+Flamingo+Rd,+Las+Vegas,+NV+89121/@36.1147419,-115.1050167,17z/data=!3m1!4b1!4m5!3m4!1s0x80c8c5291e48cedf:0x79d8792002457309!8m2!3d36.1147376!4d-115.102828?shorturl=1" target="_blank">Map</a><br/>
+				Location Code: 671</p>
+</div> <!-- /sidebar_wrap -->
+<p>Title I is the federal education law that provides funding to elementary and secondary schools for programs
+			and services to help economically disadvantaged students to succeed.</p>
+<p>The purpose of Title I is to ensure that all students have an equal opportunity to reach State learning
+			standards. Title I is intended to help close the gap in academic achievement between students in different
+			ethnic and income groups.</p>
+<ul>Programs funded by Title I include:
+			<ul style="list-style: disc;">
+<li>School-Based Programs</li>
+<li>Early Childhood and Pre-Kindergarten</li>
+<li>Homeless Services, Project HOPE</li>
+<li>Family Engagement</li>
+<li>Migrant Services</li>
+<li>Neglected and Delinquent Services</li>
+</ul>
+</ul>
+<p>Title I was first enacted in 1965 as part of the “War on Poverty.” It was part of the Elementary and
+			Secondary Education Act (ESEA) to ensure equal educational opportunities for all children. Its purpose was
+			to close the achievement gap between poor and affluent children by providing additional resources to schools
+			serving disadvantaged students.</p>
+</div>
+<div class="container1" id="page_container">
+<div aria-multiselectable="true" class="panel-group" id="accordion" role="tablist">
+<div class="panel panel-primary" id="collapseOne_container Support">
+<div class="panel-heading" id="headingOne myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseOne" aria-expanded="false" data-parent="#accordion" data-toggle="collapse" href="#collapseOne" role="button">
+							School-Based Support
+						</a>
+</h2>
+</div>
+<div aria-labelledby="collapseOne" class="panel-collapse collapse in" id="collapseOne" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<div class="contact-side-wrap contact-side" style="margin-top: -22px;width: 225px !important;margin-right:-11px !important;margin-left: 16px;">
+<p><strong>Address</strong><br/>
+									3311 E. Flamingo Rd,<br/>
+									Las Vegas, NV 89121 | <a href="https://www.google.com/maps/place/3311+E+Flamingo+Rd,+Las+Vegas,+NV+89121/@36.1147419,-115.1050167,17z/data=!3m1!4b1!4m5!3m4!1s0x80c8c5291e48cedf:0x79d8792002457309!8m2!3d36.1147376!4d-115.102828?shorturl=1" target="_blank">Map</a><br/>
+									Location Code: 671</p>
+</div> <!-- /sidebar_wrap -->
+<p>The Title I School-Based Support program serves students in Clark County School District
+								Title I-eligible schools. Title I School-Based Support works directly with district
+								administration and staff to develop and implement each school’s Title I plan. Technical
+								and administrative support is provided to each school to ensure that the Title I plan
+								supports the school’s plan for academic improvement. Title I ensures that each school
+								complies with all federal, state, and district regulations that govern the use of Title
+								I funds.</p>
+<ul>Services provided to Title I schools include:
+
+								<ul style="list-style: disc;">
+<li>Technical assistance to school-based personnel in the development and
+										implementation of Title I budgets.</li>
+<li>Technical assistance in the identification of scientific, research-based
+										curriculum and technology for the Title I program.</li>
+<li>Technical assistance in the development and implementation of a Parent
+										Involvement Policy in compliance with the regulations of the Elementary and
+										Secondary Education Act (ESEA).</li>
+<li>Technical assistance with required paperwork for the expenditure of Title I
+										funds.</li>
+<li>Monitoring of Title I plans to ensure compliance with Federal, State and
+										District regulations.</li>
+<li>Technical assistance to teachers and support staff regarding curriculum
+										technology, teaching techniques, and instructional strategies to increase
+										student achievement.</li>
+<li>Collaboration with Performance Zones and District staff to assist schools with
+										the implementation of District achievement goals.</li>
+<li>Yearly review, in collaboration with the School Improvement Department, of
+										School Performance Plans to ensure compliance with the ESEA.</li>
+</ul>
+</ul>
+<h3>CCSD Supplement Not Supplant Methodology</h3>
+<p>Regardless of a school’s Title I designation, the basic allocation is based on total
+								enrollment counts for each school, as if the state and local funds are the only monies
+								that school is receiving. Each school is also given additional allocations for other
+								needs (technology, supplies, etc.). As a result, all schools are treated the same
+								whether or not these schools are Title I-A served.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseTwo_Container Childhood">
+<div class="panel-heading" id="headingTwo myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseTwo" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseTwo" role="button">
+							Early Childhood Programs
+						</a>
+</h2>
+</div>
+<div aria-labelledby="collapseTwo" class="panel-collapse collapse in" id="collapseTwo" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<div class="contact-side-wrap contact-side" style="margin-top: -22px;width: 225px !important;margin-right:-11px !important;margin-left: 16px;margin-bottom: 25px;">
+<p><strong>Contact</strong><br/>
+
+									Daina Loeffler, Coordinator<br/>
+									Phone: (702) 799-3920<br/>
+<!-- Fax: (702) 799-3824 -->
+</p>
+<p><strong>Address</strong><br/>
+									Student Support Services Division<br/>
+									Early Childhood Title I Program<br/>
+									3820 Cecile Avenue<br/>
+									Las Vegas, NV 89115 | <a href="https://www.google.com/maps/place/3820+Cecile+Ave,+Las+Vegas,+NV+89115/@36.2147686,-115.0934128,17z/data=!3m1!4b1!4m5!3m4!1s0x80c8dd32f8c19be1:0x3ceb32d8c0dfc6c2!8m2!3d36.2147686!4d-115.0912188" target="_blank">Map</a><br/>
+									Location Code: 820</p>
+</div> <!-- /sidebar_wrap -->
+<p>Early Childhood Title I Programs provide preschool educational experiences and services
+								to students who are at-risk for meeting Nevada Academic Content Standards.</p>
+<ul><strong>Eligibility</strong><br/>
+<p>Priority is given to students who are four years old on the first day of the current year for the Pre-K
+									Program and:</p>
+<ul style="list-style: disc;">
+<li>Reside within the zone of a school with a Title I Pre-k program and submit proof of residence. (zone variances
+										are not allowed)</li>
+<li>Participate in the program screening, have current immunizations and submit
+										official birth certificate</li>
+</ul>
+</ul>
+<p></p>
+<!-- <h3>2024-2025 Schools</h3>
+							<table width="80%" style="margin-left: 100px;">
+								<tr>
+									<td align="left" valign="top" width="20%">
+										Adams ES<br>
+										Adcock ES<br>
+										Bailey ES<br>
+										Bell ES<br>
+										Booker ES<br>
+										Bowler J ES<br>
+										Bruner ES<br>
+										Cahlan ES<br>
+										Cox C ES<br>
+										Cozine ES<br>
+										Culley ES<br>
+										Dearing ES<br>
+										Decker ES<br>
+										Deskin ES<br>
+										Diskin ES<br>
+
+
+									</td>
+									<td align="left" valign="top" width="20%">
+									Elizondo ES<br>
+										Ferron ES<br>
+										Fitzgerald ES<br>
+										French ES<br>
+										Goldfarb ES<br>
+										Gragson ES<br>
+										Griffith ES<br>
+										Guy ES<br>
+										Harris ES<br>
+										Hayden ES<br>
+										Herr ES<br>
+										Hickey ES<br>
+										Hinman ES<br>
+										Kelly ES<br>
+										King ES<br>
+										
+
+									</td>
+									<td align="left" valign="top" width="20%">
+									Lincoln ES<br>
+										Long ES<br>
+										Lowman ES<br>
+										McCall ES<br>
+										McMillan ES<br>
+										Mendoza ES<br>
+										Mountain View ES<br>
+										Perkins, C ES<br>
+										Priest ES<br>
+										Red Rock ES<br>
+										Reed ES<br>
+										Ronnow ES<br>
+										Roundy ES<br>
+										Sewell ES<br>
+										Smith, Hal ES<br>
+										
+
+									</td>
+									<td align="left" valign="top" width="20%">
+									Snyder W ES<br>
+										Sunrise Acres ES<br>
+										Taylor R ES<br>
+										Thiriot ES<br>
+										Toland ES<br>
+										Ullom ES<br>
+										Vegas Verdes ES<br>
+										Wasden ES<br>
+										Watson ES<br>
+										West Prep ES<br>
+										Whitney ES<br>
+										Williams, W ES<br>
+										Wolfe, Eva ES<br>
+										Woolley ES<br>
+										Wynn ES
+
+									</td>
+								</tr>
+							</table> -->
+<hr/>
+<h3>Program Components and Support Services</h3>
+<p>Early Childhood Title I Programs use Title I funds, in whole or in part, to improve
+								cognitive, health, and social emotional outcomes for eligible children prior to entering
+								kindergarten. The program is designed to prepare eligible children with the prerequisite
+								skills and dispositions for learning that will enable them to benefit from later school
+								experiences.</p>
+<p>The Clark County School District Early Childhood Title I Program provides a high quality
+								learning environment and is comprised of the following components and support services:
+							</p>
+<ul><strong>Components</strong><br/>
+<ul style="list-style: disc;">
+<li>Highly qualified early childhood licensed teacher</li>
+<li>Highly qualified teacher/family aide</li>
+<li>Half day program: AM-2.5 hours with breakfast; PM-2.5 hours with lunch</li>
+<li>Direct and student initiated instruction focused on mastery of NV Pre-K Content
+										Standards</li>
+<li>Teacher-student ratio – 20:2</li>
+<li>1 teacher, 1 teacher/family aide</li>
+<li>Minimum number of students: 18-20 per session</li>
+<li>Ongoing observation, screening, and assessment with progress reports 3 times per
+										year</li>
+<li>Family Engagement</li>
+</ul>
+</ul>
+<ul><strong>Services</strong><br/>
+<ul style="list-style: disc;">
+<li>Title I school nurses provide hearing, vision and dental screening</li>
+<li>School health services</li>
+<li>Referral services</li>
+<!-- <li>Access to an Early Childhood Social Worker</li> -->
+<!-- <li>Social Work referrals and other services to students enrolled in the program </li>-->
+<li>Nutritious meals are provided</li>
+</ul>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseThree_Container HOPE">
+<div class="panel-heading" id="headingThree myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseThree" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseThree" role="button">
+							HOPE: Homeless Outreach Program for Education
+						</a>
+</h2>
+</div>
+<div aria-labelledby="collapseThree" class="panel-collapse collapse in" id="collapseThree" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<div class="contact-side-wrap contact-side" style="margin-top: -22px;width: 225px !important;margin-right:-11px !important;margin-left: 16px;margin-bottom: 25px;">
+<p><strong>Contact</strong><br/>
+<strong>McKinney-Vento School Liaison</strong><br/>
+									Kelly-Jo Shebeck<br/>
+<a href="mailto:shebek@nv.ccsd.net">shebek@nv.ccsd.net</a><br/><br/>
+<strong>McKinney-Vento Community Liaison</strong><br/>
+									Meg Pike<br/>
+<a href="mailto:meg.pike@nv.ccsd.net">meg.pike@nv.ccsd.net</a><br/><br/>
+									Phone: (702) 855-6682<br/>
+									Fax: (702) 855-6667<br/>
+<a href="https://sites.google.com/nv.ccsd.net/titleihope/home" traget="_blank">Title
+										I HOPE</a>
+</p>
+</div> <!-- /sidebar_wrap -->
+<h3>Mission Statement</h3>
+<p>The Title I Homeless Outreach Program for Education (HOPE) of the Clark County School
+								District works to remove barriers for students experiencing homelessness, to enroll in
+								school and educate school personnel, parents, and unaccompanied youth of the educational
+								options under <a href="https://www.federalregister.gov/documents/2016/03/17/2016-06073/mckinney-vento-education-for-homeless-children-and-youths-program" target="_blank">McKinney-Vento Federal Law</a>.</p>
+<p>Students experiencing homelessness are those who lack a fixed, regular, and adequate
+								nighttime residence, which includes the following:</p>
+<ul>
+<ul style="list-style: disc;">
+<li>Living with friends or relatives due to loss of housing, economic hardship, or a
+										similar reason;</li>
+<li>Living in a hotel or motel due to lack of alternative accommodations;</li>
+<li>Living in an emergency or transitional shelter;</li>
+<li>Living in a car, park, on the street, or similar settings.</li>
+</ul>
+</ul>
+<p>Student services include:</p>
+<ul>
+<ul style="list-style: disc;">
+<li>Immediate enrollment in school</li>
+<li>Free school breakfast and lunch</li>
+<li>Backpacks with school supplies and toiletries</li>
+<li>Transportation to school of origin</li>
+<ul>
+<li>Should a student become homeless, at parental request, the student is
+											entitled to receive transportation to his or her school of origin or last
+											school attended, if the school is two miles or more from the student’s
+											current address</li>
+</ul>
+<li>Emergency clothing</li>
+<ul>
+<li>CCSD, in partnership with the Assistance League of Las Vegas, provide
+											clothing to students once a year</li>
+<li>Operation School Bell is available to elementary and middle school students
+											on a referral basis</li>
+</ul>
+<li>Assistance with summer school tuition grants</li>
+</ul>
+</ul>
+<hr/>
+<h3>School Advocates</h3>
+<p>Every school in Clark County School district has a designated Title I HOPE Advocate on
+								campus. Please call the school for contact information.</p>
+<h3>Get Involved</h3>
+<p><a href="https://docs.google.com/document/d/1tp1eHrpyLLz0cENDc4J_CnS4TT-ahXrUfEqsIVUwTHQ/edit" target="_blank">Donations and Donor Opportunities</a><br>
+								Community trainings: contact us at: <a href="mailto:titleihope@nv.ccsd.net">titleihope@nv.ccsd.net</a></br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseFour_Container Family">
+<div class="panel-heading" id="headingFour myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseFour" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseFour" role="button">
+							Family Engagement
+						</a>
+</h2>
+</div>
+<div aria-labelledby="collapseFour" class="panel-collapse collapse in" id="collapseFour" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<h3>Family Engagement under the Every Student Succeeds Act (ESSA)</h3>
+<p>ESSA calls for school districts to offer programs and activities in order to involve
+								parents and family members in their child’s school. Additionally, all Title I schools
+								must develop, with parents input, a written parent and family engagement policy, and
+								reserve at least 1% of its Title I funds to support parent and family engagement
+								activities.</p>
+<hr>
+<h3>Parenting Programs</h3>
+<p>The Family Engagement Department implements strategies using best practices to assist
+								schools in creating organizational conditions that foster trusting relationships with
+								families and caregivers. Strong relationships with families and high impact family
+								engagement will establish a sustainable culture of engagement, improve school attendance
+								and increase student outcomes. Offering families digital learning opportunities will
+								build family efficacy and confidence in navigating the school system. The Family
+								Engagement Department provides Title I families of CCSD the necessary tools to best
+								support their children’s academic and social-emotional progress.</p>
+<ul style="list-style: disc;">
+<li><strong>University of Family Learning</strong>:
+									The Family Engagement Department implements the University of Family Learning (UFL),
+									which provides families with educational resources and support through classes and
+									workshops focused on parents as teaching partners, navigating the school system,
+									family wellness and development and involvement, leadership and advocacy. Classes
+									are offered at the ten Title I Family Engagement Centers. Courses and workshops were
+									adapted to support families and students with social-emotional support, attendance,
+									and accessing technology.</li>
+<li><strong>Title I Family Engagement Centers</strong>:
+									Title I Family Engagement Centers are strategically located in nine Title I
+									elementary schools and one Title I middle school to serve the families of CCSD. In
+									collaboration with community and District partners, the centers provide
+									opportunities to improve family capabilities and establish and nurture relationships
+									with one common goal - student academic achievement. These resources include support
+									with technology, English classes for adults, early childhood learning,
+									academically-focused workshops and social emotional learning.</li>
+</ul>
+<p>We look forward to partnering with you in support of the students of CCSD.</p>
+<!--
+<h3>Resources</h3>
+						<ul>
+						<li>Policies</li>
+						<li>FACES</li>
+						<li>2018-2019 Family Centers</li>
+						</ul>
+-->
+</hr></div>
+</div>
+</div>
+</div>
+<!--
+			<div class="panel panel-primary" 
+				id="collapseFive_Container Program">
+				<div class="panel-heading" 
+					role="tab" 
+					id="headingFive myID">
+					<h2 class="panel-title">
+						<a class="collapsed" 
+							role="button" 
+							data-toggle="collapse" 
+							data-parent="#accordion" 
+							href="#collapseEight" 
+							aria-expanded="false" 
+							aria-controls="collapseFive">
+						Extension Programs
+						</a>
+					</h2>
+				</div>
+				<div id="collapseFive" 
+					class="panel-collapse collapse in" 
+					role="tabpanel" 
+					aria-labelledby="headingFive">
+					<div class="panel-body">
+						 <div class="panel-body">
+						<h3>Extension Programs</h3>
+
+<a href="https://ccsd.net/district/title-1/programs.php">Charter School Services</a><br>
+<a href="https://ccsd.net/district/title-1/programs.php/">Migrant Services</a><br>
+<a href="https://ccsd.net/district/title-1/programs.php">Neglected and Delinquent Services<br>
+</a><a href="https://ccsd.net/district/title-1/programs.php/">Private School Supplemental Services</a><br>
+<a href="https://ccsd.net/district/title-1/programs.php">Special Projects</a>
+							 
+							 
+						 
+						 </div>
+					</div>
+				   
+				</div>
+			</div>
+-->
+<!--
+	 <div class="panel panel-primary" 
+				id="collapseFive_Container">
+				<div class="panel-heading" 
+					role="tab" 
+					id="headingFive myID">
+					<h2 class="panel-title">
+						<a class="collapsed" 
+							role="button" 
+							data-toggle="collapse" 
+							data-parent="#accordion" 
+							href="#collapseFive" 
+							aria-expanded="false" 
+							aria-controls="collapseFive">
+						Resources
+						</a>
+					</h2>
+				</div>
+				<div id="collapseFive" 
+					class="panel-collapse collapse in" 
+					role="tabpanel" 
+					aria-labelledby="headingFive">
+					 <div class="panel-body">
+						 <div class="panel-body">
+							 <h3>Community Resources</h3>
+							 
+
+						</div>
+					</div>
+				</div>
+			</div>
+-->
+</div>
+</div>
+<!-- 	Popups -->
+<!--
+		 <div class="popup" id="popup">
+			<div class="popup-inner">
+				<div class="popup__photo">
+					<img class="image" src="images/Habits-of-Learning.png" >
+				</div>
+				 <a class="popup__close" href="#">X</a>
+			</div>
+		</div>
+-->
+</div>

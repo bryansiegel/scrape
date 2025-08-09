@@ -1,0 +1,260 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>Governance Policies</h1>
+<h2>Notification of proposed changes to CCSD Board of School Trustees Governance
+					    Policies</h2>
+<p><a href="notices">View</a> proposed Governance Policy changes</p>
+<!-- Start board policies and regulations table -->
+<h2>Current  Governance Policies</h2>
+<p>To view a Policy click on its Number.</p>
+<p>Click <a href="appendix">here</a> to view the Governance Policy Appendix.</p>
+<hr/>
+<ul class="num-list" id="pagin8_top"><li class="num-list-item"><a class="num-link num-current" href="#">1</a></li><li class="num-list-item"><a class="num-link" href="?page=2">2</a></li><li class="num-list-item"><a class="num-link" href="?page=2">›</a></li><li class="num-list-item"><a class="num-link" href="?page=2">»</a></li></ul>
+<table class="simple-table-rows" width="100%">
+<thead>
+<tr>
+<th>Number</th>
+<th>Title</th>
+<th>Date</th>
+</tr>
+</thead>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-01_P.pdf" target="_blank">GP-01</a></td>
+<td>Global Governance Commitment</td>
+<td nowrap="nowrap">May. 25, 2017</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-02_P.pdf" target="_blank">GP-02</a></td>
+<td>Governing Style</td>
+<td nowrap="nowrap">May. 25, 2017</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-03_P.pdf" target="_blank">GP-03</a></td>
+<td>Board Responsibilities</td>
+<td nowrap="nowrap">Feb. 08, 2018</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-04.1_P.pdf" target="_blank">GP-04.1</a></td>
+<td>Board Members' Conduct and Ethics</td>
+<td nowrap="nowrap">May. 25, 2017</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-04.2_P.pdf" target="_blank">GP-04.2</a></td>
+<td>Board Members' Principles of Operation</td>
+<td nowrap="nowrap">Aug. 08, 2024</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-05_P.pdf" target="_blank">GP-05</a></td>
+<td>Board Officers </td>
+<td nowrap="nowrap">Jun. 25, 2020</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-06_P.pdf" target="_blank">GP-06</a></td>
+<td>President's Role</td>
+<td nowrap="nowrap">May. 25, 2017</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-07  _P.pdf" target="_blank">GP-07  </a></td>
+<td>Vice President's Role </td>
+<td nowrap="nowrap">Jun. 25, 2020</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-08_P.pdf" target="_blank">GP-08</a></td>
+<td>Clerk's Role</td>
+<td nowrap="nowrap">Feb. 08, 2018</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-09_P.pdf" target="_blank">GP-09</a></td>
+<td>Meeting Planning</td>
+<td nowrap="nowrap">Jan. 12, 2023</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-10_P.pdf" target="_blank">GP-10</a></td>
+<td>Construction of the Agenda</td>
+<td nowrap="nowrap">Sep. 09, 2021</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-11_P.pdf" target="_blank">GP-11</a></td>
+<td>Public Comment</td>
+<td nowrap="nowrap">Aug. 11, 2022</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-12_P.pdf" target="_blank">GP-12</a></td>
+<td>Types Of Meetings</td>
+<td nowrap="nowrap">May. 25, 2017</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-13_P.pdf" target="_blank">GP-13</a></td>
+<td>Closed Sessions of the Board</td>
+<td nowrap="nowrap">May. 25, 2017</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-14_P.pdf" target="_blank">GP-14</a></td>
+<td>Board Committee Principles</td>
+<td nowrap="nowrap">May. 25, 2017</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-15_P.pdf" target="_blank">GP-15</a></td>
+<td>Board Committees</td>
+<td nowrap="nowrap">May. 25, 2017</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-16_P.pdf" target="_blank">GP-16</a></td>
+<td>Policy Development and Review</td>
+<td nowrap="nowrap">Jan. 10, 2019</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-17_P.pdf" target="_blank">GP-17</a></td>
+<td>Cost of Governance</td>
+<td nowrap="nowrap">May. 25, 2017</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-18_P.pdf" target="_blank">GP-18</a></td>
+<td>Travel and other Board Expenses</td>
+<td nowrap="nowrap">Oct. 26, 2017</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-19_P.pdf" target="_blank">GP-19</a></td>
+<td>Vacancies on the Board</td>
+<td nowrap="nowrap">Aug. 10, 2017</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/GP-20_P.pdf" target="_blank">GP-20</a></td>
+<td>Board Public Communications</td>
+<td nowrap="nowrap">Sep. 09, 2021</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/BSE-1_P.pdf" target="_blank">B/SE-1</a></td>
+<td>Board and Superintendent Evaluation Methodology</td>
+<td nowrap="nowrap">Jan. 12, 2023</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/BSE-2_P.pdf" target="_blank">B/SE-2</a></td>
+<td>Board Evaluation Methodology</td>
+<td nowrap="nowrap">Jan. 12, 2023</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/BSE-3_P.pdf" target="_blank">B/SE-3</a></td>
+<td>Board Report and Progress Monitoring</td>
+<td nowrap="nowrap">Sep. 09, 2021</td>
+</tr>
+<!--  set file name suffix type -->
+<tbody>
+<tr>
+<td><a href="/trustees/pdf/governance/BSE-4_P.pdf" target="_blank">B/SE-4</a></td>
+<td>Board Report Content</td>
+<td nowrap="nowrap">Sep. 09, 2021</td>
+</tr>
+</tbody>
+</tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></tbody></table>
+<ul class="num-list" id="pagin8_bot"><li class="num-list-item"><a class="num-link num-current" href="#">1</a></li><li class="num-list-item"><a class="num-link" href="?page=2">2</a></li><li class="num-list-item"><a class="num-link" href="?page=2">›</a></li><li class="num-list-item"><a class="num-link" href="?page=2">»</a></li></ul> </section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

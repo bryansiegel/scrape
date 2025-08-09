@@ -1,0 +1,97 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Student Attire</h1>
+<p>Clark County School District Regulation 5131, Dress and Appearance, indicates that principals may establish a policy that requires students to wear Standard Student Attire for the purpose of increasing student achievement, promoting safety, and enhancing a positive school climate.</p>
+<p>Each school that chooses to participate will determine its involvement, appropriate attire, programs for financial assistance, and work with members of the school community to ensure student/parent/staff input and involvement throughout the decision-making process. The principal and the site-based committee shall determine Standard Student Attire requirements from the approved list, outlined in CCSD Regulation 5131. </p>
+<p>Stricter Standard Student Attire requirements than those delineated in CCSD Regulation 5131 (IV), Basic Dress Code, may be implemented through the survey process set forth in the regulation. Schools implementing mandatory Standard Student Attire will survey their community every fourth year.					</p>
+<table class="simple-table">
+<tr>
+<th>Tops</th>
+<th>Bottoms</th>
+</tr>
+<tr>
+<td>
+<ul>
+<li style="list-style-type: none;">Shirts/blouses in basic/optional colors (plain or school logo, long-  or short-sleeved, with or without collar)</li>
+<li style="list-style-type: none;">Sweaters in basic/optional colors worn over approved shirts</li>
+<li style="list-style-type: none;">Sweatshirts in basic/optional colors (plain or school logo) </li>
+<li style="list-style-type: none;">Jumpers/dresses in basic/optional colors </li>
+</ul>
+</td>
+<td>
+<ul>
+<li style="list-style-type: none;">Pants, shorts, jeggings/yoga pants, skirts, skorts in basic/optional colors (sized to fit). </li>
+<li style="list-style-type: none;">Blue jeans in basic/optional colors (sized to fit). </li>
+<li style="list-style-type: none;">Denim pants in basic/optional colors (sized to fit). </li>
+<li style="list-style-type: none;">Sweatpants in basic/optional colors (sized to fit).</li>
+<li style="list-style-type: none;">Tights/leggings in basic/optional colors worn under clothing (solids or patterns)</li>
+</ul>
+</td>
+</tr>
+</table>
+<p>The school logo may only include the school name and/or school mascot.  No other names or symbols related to school athletic teams, school clubs/activities, charitable organizations, or similar groups/organizations should be on the clothing.</p>
+<p>Colors and styles of outerwear, such as jackets and coats, are not required to meet the color/style specifications of Standard Student Attire. </p>
+<p>For more information, download <a href="/district/policies-regulations/pdf/5131_R.pdf">CCSD Regulation 5131, Dress and Appearance</a>.</p>
+</section>
+</div> <!-- / content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

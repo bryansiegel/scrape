@@ -1,0 +1,51 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Zoning Information</h1>
+<h2>Zoning Search</h2>
+<p>Use the <a href="search/">Zoning Search</a> tool to find out what school your child is zoned for.</p>
+<hr/>
+<h2>Zoning Maps</h2>
+<ul>
+<li><a href="https://sites.google.com/nv.ccsd.net/dzgwebsite/resources#h.cu2e3xip40j4">Attendance Boundary Maps</a></li>
+</ul>
+<hr/>
+<h2>School Choice</h2>
+<ul>
+<li><a href="https://itsyourchoice.ccsd.net/">CCSD School Choice</a></li>
+</ul>
+<hr/>
+<h2>Suggested Routes to School</h2>
+<ul>
+<li><a class="xlink" href="https://www.cityofhenderson.com/government/departments/public-works/safe-routes-to-school" target="_blank">City of Henderson</a></li>
+<!-- 						<li><a href="http://www.cityofnorthlasvegas.com/departments/public_works/walking_maps_to_schools_located_in_north_las_vegas.php" class="xlink" target="_blank">City of North Las Vegas</a></li> -->
+<li><a class="xlink" href="https://www.lasvegasnevada.gov/Residents/Parking-Transportation/Parking/Safe-Routes-To-School" target="_blank">City of Las Vegas</a></li>
+<li><a class="xlink" href="https://www.clarkcountynv.gov/government/departments/public_works_department/suggested_routes_to_school_maps.php" target="_blank">Clark County</a></li>
+</ul>
+<p>For additional zoning information, please visit the <a href="https://sites.google.com/nv.ccsd.net/dzgwebsite/dzg">Demographics, Zoning and Geographic Information Systems (DZG)</a> website.</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<aside>
+<!--?php include($home---><!--inc['trending']);?>-->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+--> </aside> <!-- /aside -->
+</div> <!-- /sidebar-wrap -->
+</div>

@@ -1,0 +1,61 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<img alt="SafeVoice" height="179" src="images/safevoice-hero.jpg" width="556"/><br/><br/>
+<h1>SafeVoice</h1>
+<p>SafeVoice is an anonymous tip report system with live response 24/7/365. Safevoice (SV) includes and goes beyond bullying to create an anonymous way to also report threats of school violence and friends at risk of suicide, self-harm, drugs and more.</p>
+<a class="more-link" href="https://www.p3campus.com/tipform.aspx?ID=5004">Make A Report</a>
+<div class="venn-diagram"><img alt="SafeVoice Venn Diagram" height="235" src="images/sv-venn-diagram.jpg" width="389"/></div>
+<div class="horiz-rule"></div>
+<h2>Students</h2>
+<p>Today and everyday we challenge you to be an upstander.  Use your voice to speak out for yourself and those around you.  SafeVoice was created for you to anonymously submit a tip of concern about your safety or well-being or that of a friend or classmate.  Speaking up ensures that your school campus remains a safe and welcoming place.  Through SafeVoice, trained professionals are available to respond 24/7/365 to any tips received.  Submit a tip her or download the app on your cellular telephone from the Apple App Store or on Google Play today.</p>
+<h3>Student Resources</h3>
+<ul>
+<li><a href="pdf/SafeVoice-How-to-Report.pdf">SafeVoice How To Report (PDF)</a></li>
+<li><a href="pdf/SafeVoice-3-5-presentation.pdf">SafeVoice 3-5 Presentation (PDF)</a></li>
+<li><a href="pdf/SafeVoice-6-12-presentation.pdf">SafeVoice 6-12 Presentation (PDF)</a></li>
+</ul>
+<div class="horiz-rule"></div>
+<h2>Parents</h2>
+<p>Parents and guardians are influential figures in creating safe schools and communities for their children.  SafeVoice offers students a comprehensive, reliable, and private way to report tips anonymously 24/7/365.  No report goes unanswered as trained professionals in the Department of Public Safety and a select team of school staff are prepared to respond appropriately and in a timely manner.  When appropriate CCSD Police and/or local law enforcement agencies  will respond as well.  As a parent/guardian, we encourage you to discuss SafeVoice with your child and make sure that the app is downloaded on their mobile device.</p>
+<h3>Parent Resources</h3>
+<ul>
+<li><a href="pdf/SafeVoice-Introduction.pdf">SafeVoice Introduction (PDF)</a></li>
+<li><a href="pdf/parent-letter.pdf">Parent Letter - English (PDF)</a></li>
+<li><a href="pdf/parent-letter-spanish.pdf">Parent Letter - Spanish (PDF)</a></li>
+<li><a href="pdf/parent-faq.pdf">Parent FAQ - English (PDF)</a></li>
+<li><a href="pdf/parent-faq-spanish.pdf">Parent FAQ - Spanish (PDF)</a></li>
+</ul>
+<div class="horiz-rule"></div>
+<h2>Community</h2>
+<p>Schools and communities throughout Nevada are fortunate to have a wide range of partners in mental and behavioral health agencies, child welfare agencies, local law enforcement agencies, community protection organizations, and community interest groups that can provide prevention, intervention, support services to children and families.  Clark County students and families also have access to the Harbor, a juvenile assessment center and CCSD Police.  Whether it is better family communication or responding to significant concerns about a youth's mental health, there are professionals eager to assist.</p>
+<h3>Community Resources</h3>
+<ul>
+<li><a href="pdf/SafeVoice-Introduction.pdf">SafeVoice Introduction (PDF)</a></li>
+<!-- 					<li><a href="pdf/SafeVoice-Information.pdf">SafeVoice Information (PDF)</a></li> -->
+<li><a href="pdf/SafeVoice-How-to-Report.pdf">SafeVoice How To Report (PDF)</a></li>
+</ul>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

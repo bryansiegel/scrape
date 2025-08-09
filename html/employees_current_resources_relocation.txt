@@ -1,0 +1,103 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Relocation Information</h1>
+<p><a href="https://recruitment.ccsd.net/live-in-las-vegas/">Relocation Guide</a></p>
+<!-- 			<p><a href="http://lvrelocationguide.org/">Relocation Guide</a></p> -->
+<h2>Professional Information</h2>
+<ul>
+<li><a class="xlink-blue" href="http://www.ccasa.net/" target="_blank">Clark County Association of School Administrators and Professional-technical Employees (CCASAPE)</a></li>
+<li><a class="xlink-blue" href="http://www.ccea-nv.org/" target="_blank">Clark County Education Association (CCEA)</a></li>
+<li><a class="xlink-blue" href="https://nsc.edu/ctle/" target="_blank">Center for Teaching Excellence (CTLE)</a></li>
+<li><a class="xlink-blue" href="http://www.esea-nv.org/" target="_blank">Education Support Employees Association (ESEA)</a></li>
+<li><a class="xlink-blue" href="https://doe.nv.gov" target="_blank">Nevada Department of Education</a></li>
+<li><a class="xlink-blue" href="http://www.nvpers.org/" target="_blank">Nevada Public Employees Retirement System</a></li>
+<li><a class="xlink-blue" href="https://www.poaccsd.com/" target="_blank">Police Officers Association of the CCSD</a></li>
+</ul>
+</section>
+<section class="content-holder">
+<h2>Local Information</h2>
+<ul>
+<li><a class="xlink-blue" href="http://www.bcnv.org/" target="_blank">Boulder City Official Website</a></li>
+<li><a class="xlink-blue" href="http://www.cityofhenderson.com/" target="_blank">City of Henderson Official Website</a></li>
+<li><a class="xlink-blue" href="http://www.lasvegasnevada.gov/" target="_blank">City of Las Vegas Official Website</a></li>
+<li><a class="xlink-blue" href="http://www.cityofnorthlasvegas.com/" target="_blank">City of North Las Vegas Official Website</a></li>
+<li><a class="xlink-blue" href="http://www.accessclarkcounty.com/" target="_blank">Clark County, NV official Website</a></li>
+<li><a class="xlink-blue" href="http://www.lvchamber.com" target="_blank">Las Vegas Chamber of Commerce</a></li>
+<li><a class="xlink-blue" href="http://lvrelocationguide.org/" target="_blank">Relocation Guide</a></li>
+<li><a class="xlink-blue" href="http://www.nv.gov/" target="_blank">State of Nevada Official Website</a></li>
+<li><a class="xlink-blue" href="https://lasvegassun.com/" target="_blank">The Las Vegas Sun: Local Newspaper</a></li>
+<li><a class="xlink-blue" href="http://www.lvrj.com/" target="_blank">The Review Journal: Local Newspaper</a></li>
+</ul>
+</section>
+<section class="content-holder">
+<h2>Recreational Information</h2>
+<ul class="xlink">
+<li><a class="xlink-blue" href="http://deathvalley.com/" target="_blank">Death Valley</a></li>
+<li><a class="xlink-blue" href="http://www.thecanyon.com/" target="_blank">Grand Canyon</a></li>
+<li><a class="xlink-blue" href="http://www.sunsetcities.com/mt-charleston.html" target="_blank">Mount Charleston</a></li>
+<li><a class="xlink-blue" href="http://www.nps.gov/" target="_blank">National Park Service</a></li>
+<li class="xlink"><a class="xlink-blue" href="http://www.desertusa.com/redrock/" target="_blank">Red Rock Canyon</a></li>
+</ul>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar_wrap -->
+</div>

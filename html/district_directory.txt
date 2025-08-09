@@ -1,0 +1,25 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Directory</h1>
+<div class="directory-card">
+<img alt="Icon of a school" height="81" src="images/schools-icon.png" width="77"/>
+<h2>Schools</h2>
+<ul>
+<li><a href="https://ccsd.net/district/directory/resources/pdf/school-telephone-directory.pdf" target="_blank">School telephone directory (PDF)</a></li>
+<li><a href="schools-directory.php">List of schools</a></li>
+</ul>
+</div>
+<div class="directory-card extra-padding">
+<img alt="Icon of a briefcase" height="61" src="images/admin-icon.png" width="67"/>
+<h2>Administrative</h2>
+<ul>
+<li><a href="https://ccsd.net/district/directory/resources/pdf/ccsd-administrative-telephone-directory.pdf" target="_blank">Administrative telephone directory (PDF)</a></li>
+<li><a href="admin-directory.php">List of administrative departments</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+<!--                 <div class="emp-email-directory">Use the <a href="/district/directory/employee-email-directory.php">Employee Email Directory</a> to find an employee's email address</div> -->
+</section>
+</div><!-- / content_wrap -->
+</div>

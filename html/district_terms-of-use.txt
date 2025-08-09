@@ -1,0 +1,84 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Social Media Terms of Use</h1>
+<p>Our social media sites were created to share information about the school district with the general public. To promote appropriate information exchange with our families and community, the Clark County School District (CCSD) welcomes comments related to the specific content posted on our accounts. Please note that this platform is not a public forum.
+</p>
+<p>CCSD reserves the right to hide or remove inappropriate comments containing the following:
+</p>
+<ul>
+<li>Comments not topically related to the post for which they are made will be deleted from under that post;</li>
+<li>Abusive, vulgar, or obscene language or content;</li>
+<li>Content that promotes, fosters, or perpetuates discrimination based on race, color, national origin, ancestry, age, religion, sex, sexual orientation, gender identity or expression, marital status, status with regard to public assistance, or physical or mental disability;</li>
+<li>Sexual content;</li>
+<li>Solicitations of commerce;</li>
+<li>Content that encourages, promotes, or incites criminal or illegal activity or comments that otherwise incite imminent lawless action;</li>
+<li>Information that may tend to compromise the safety or security of the public or public systems;</li>
+<li>Content that violates a legal ownership interest of any other party; or</li>
+<li>Apparent spam or trolling.</li>
+</ul>
+<p>Your use of or posting on CCSD’s social media sites is voluntary and constitutes acceptance of these terms. Failure to comply with these terms could lead to the user being blocked or banned.</p>
+<p>You understand you are responsible for any content or comments you post to CCSD social media sites. Under no circumstances will CCSD be responsible or liable in any way for any content or post by you or another user or for any loss or damage incurred as a result of the use of any content posted by you or another user via a CCSD social media site. CCSD does not guarantee the accuracy, integrity, or quality of any content or comments posted by users. The comments expressed by users on the CCSD social media sites do not necessarily reflect the opinions or positions of CCSD, the Board of School Trustees, or its employees.</p>
+<p>Social media users should not include confidential, personally identifiable information in their social media posts. All information posted by users on the CCSD social media sites will be considered public information and may be subject to the public records law. CCSD may re-post or disseminate such messages, images, and information as it deems appropriate.</p>
+</section>
+</div> <!-- / content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

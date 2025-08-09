@@ -1,0 +1,905 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Student Graduation Schedule 2025</h1>
+<!-- 					<p>Graduations have been postponed until further notice.</p> -->
+<!-- 					<p>The 2025 graduation schedule has not been determined at this time.</p> -->
+<!-- 					<p>View the Link to the live streaming: <a href="https://www.vegasgraduations.com/" target="_blank">CCSD Graduations at the Thomas and Mack Center</a><br> -->
+<!-- 					 View the Link Live Streaming: <a href="https://ccsdgraduations.eduvision.tv/Default" target="_blank">Graduation events</a></p> -->
+<p><a href="https://ccsdgraduations.eduvision.tv/LiveEvents" target="_blank">View the Link to the live streaming</a></p>
+<p>Download the <a <!--="" href="/students/resources/pdf/grad-schedule/2025-CCSD-Graduation-Schedule.pdf" target="_blank">Graduation Schedule (PDF)</a></p>
+<table cellpadding="0" cellspacing="1" class="simple-table-rows" width="100%">
+<tbody><tr>
+<th style="font-weight: 500;">High School</th>
+<th style="font-weight: 500;">Date</th>
+<th style="font-weight: 500;">Time</th>
+<th style="font-weight: 500;">Location</th>
+<!--
+                                <th style="font-weight: 500;">District</th>
+                                <th style="font-weight: 500;">Region</th>
+-->
+<!-- 							</tr> -->
+<!--    <tr>
+                                 <td colspan="4">The summer graduation schedule will be posted soon.</td>
+                             </tr> -->
+<tr>
+<td width="30%">Adult Education Programs</td>
+<td class="text-center" width="20%">May 23, 2025</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Advanced Technologies Academy</td>
+<td class="text-center" width="20%">May 23, 2025</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Arbor View HS</td>
+<td class="text-center" width="20%">May 27, 2025</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Basic Academy of International Studies</td>
+<td class="text-center" width="20%">May 28, 2025</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Bonanza HS</td>
+<td class="text-center" width="20%">May 29, 2025</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Boulder City HS</td>
+<td class="text-center" width="20%">May 23, 2025</td>
+<td class="text-center" width="10%">7:30 PM</td>
+<td class="text-center" width="20%">Boulder City HS Field</td>
+</tr><tr>
+<td width="30%">Burk Horizon Sunset HS</td>
+<td class="text-center" width="20%">May 29, 2025</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Lowden Theatre</td>
+</tr><tr>
+<td width="30%">Canyon Springs HS and the Leadership and Law Preparatory Academy</td>
+<td class="text-center" width="20%">May 28, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Centennial HS</td>
+<td class="text-center" width="20%">May 27, 2025</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Central Technical Training Academy</td>
+<td class="text-center" width="20%">May 29, 2025</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Lowden Theatre</td>
+</tr><tr>
+<td width="30%">Chaparral HS</td>
+<td class="text-center" width="20%">May 28, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Cheyenne HS</td>
+<td class="text-center" width="20%">May 29, 2025</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Cimarron-Memorial HS</td>
+<td class="text-center" width="20%">May 24, 2025</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Clark HS</td>
+<td class="text-center" width="20%">May 27, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">College of Southern Nevada HS East</td>
+<td class="text-center" width="20%">May 27, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">College of Southern Nevada HS South</td>
+<td class="text-center" width="20%">May 27, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">College of Southern Nevada HS West</td>
+<td class="text-center" width="20%">May 27, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Coronado HS</td>
+<td class="text-center" width="20%">May 29, 2025</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Cowan Sunset HS</td>
+<td class="text-center" width="20%">May 24, 2025</td>
+<td class="text-center" width="10%">10:00 AM</td>
+<td class="text-center" width="20%">Chaparral Theater</td>
+</tr><tr>
+<td width="30%">Del Sol Academy of the Performing Arts</td>
+<td class="text-center" width="20%">May 29, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Desert Oasis HS</td>
+<td class="text-center" width="20%">May 29, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Desert Pines HS</td>
+<td class="text-center" width="20%">May 29, 2025</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Desert Rose HS</td>
+<td class="text-center" width="20%">May 29, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Lowden Theatre</td>
+</tr><tr>
+<td width="30%">Durango HS</td>
+<td class="text-center" width="20%">May 29, 2025</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">East CTA</td>
+<td class="text-center" width="20%">May 27, 2025</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Eldorado HS</td>
+<td class="text-center" width="20%">May 30, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Florence McClure Women's Correctional Center Adult HS</td>
+<td class="text-center" width="20%">May 22, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Florence McClure Campus</td>
+</tr><tr>
+<td width="30%">Foothill HS</td>
+<td class="text-center" width="20%">May 23, 2025</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Global Community HS</td>
+<td class="text-center" width="20%">May 30, 2025</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Lowden Theatre</td>
+</tr><tr>
+<td width="30%">Green Valley HS</td>
+<td class="text-center" width="20%">May 23, 2025</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Healing Center at St. Jude's Ranch for Children</td>
+<td class="text-center" width="20%">May 30, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Boulder City HS Theater</td>
+</tr><tr>
+<td width="30%">Helen J. Stewart</td>
+<td class="text-center" width="20%">May 13, 2025</td>
+<td class="text-center" width="10%">5:00 PM</td>
+<td class="text-center" width="20%">Helen J. Stewart Campus</td>
+</tr><tr>
+<td width="30%">High Desert State Prison</td>
+<td class="text-center" width="20%">May 20, 2025</td>
+<td class="text-center" width="10%">8:30 AM</td>
+<td class="text-center" width="20%">High Desert Campus</td>
+</tr><tr>
+<td width="30%">Indian Springs HS</td>
+<td class="text-center" width="20%">May 27, 2025</td>
+<td class="text-center" width="10%">7:00 PM</td>
+<td class="text-center" width="20%">Indian Springs HS Gym</td>
+</tr><tr>
+<td width="30%">John F. Miller</td>
+<td class="text-center" width="20%">May 16, 2025</td>
+<td class="text-center" width="10%">10:00 AM</td>
+<td class="text-center" width="20%">Miller Campus</td>
+</tr><tr>
+<td width="30%">Las Vegas Academy of the Arts</td>
+<td class="text-center" width="20%">May 28, 2025</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Las Vegas HS</td>
+<td class="text-center" width="20%">May 28, 2025</td>
+<td class="text-center" width="10%">7:30 PM</td>
+<td class="text-center" width="20%">Las Vegas HS Field</td>
+</tr><tr>
+<td width="30%">Laughlin HS</td>
+<td class="text-center" width="20%">May 24, 2025</td>
+<td class="text-center" width="10%">4:00 PM</td>
+<td class="text-center" width="20%">Laughlin HS</td>
+</tr><tr>
+<td width="30%">Legacy HS</td>
+<td class="text-center" width="20%">May 24, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Liberty HS</td>
+<td class="text-center" width="20%">May 28, 2025</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Miley Achievement Center</td>
+<td class="text-center" width="20%">May 23, 2025</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Miley Campus</td>
+</tr><tr>
+<td width="30%">Mission HS</td>
+<td class="text-center" width="20%">May 30, 2025</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Lowden Theatre</td>
+</tr><tr>
+<td width="30%">Moapa Valley HS</td>
+<td class="text-center" width="20%">May 23, 2025</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Moapa Valley HS Campus</td>
+</tr><tr>
+<td width="30%">Mojave HS</td>
+<td class="text-center" width="20%">May 30, 2025</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Morris Sunset East HS</td>
+<td class="text-center" width="20%">May 29, 2025</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Lowden Theatre</td>
+</tr><tr>
+<td width="30%">Nevada Learning Academy at CCSD</td>
+<td class="text-center" width="20%">May 27, 2025</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Northwest CTA</td>
+<td class="text-center" width="20%">May 28, 2025</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Palo Verde HS</td>
+<td class="text-center" width="20%">May 29, 2025</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Preparatory Institute, School for Academic Excellence at Charles I. West Hall HS</td>
+<td class="text-center" width="20%">May 30, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Lowden Theatre</td>
+</tr><tr>
+<td width="30%">Rancho HS</td>
+<td class="text-center" width="20%">May 27, 2025</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Sandy Valley HS</td>
+<td class="text-center" width="20%">May 27, 2025</td>
+<td class="text-center" width="10%">5:00 PM</td>
+<td class="text-center" width="20%">Sandy Valley HS Gym</td>
+</tr><tr>
+<td width="30%">Shadow Ridge HS</td>
+<td class="text-center" width="20%">May 28, 2025</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Sierra Vista HS</td>
+<td class="text-center" width="20%">May 24, 2025</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Silverado HS</td>
+<td class="text-center" width="20%">May 30, 2025</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Southeast CTA</td>
+<td class="text-center" width="20%">May 27, 2025</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Southern Desert Correctional Center</td>
+<td class="text-center" width="20%">May 21, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Southern Desert Campus
+</td>
+</tr><tr>
+<td width="30%">Southwest CTA</td>
+<td class="text-center" width="20%">May 24, 2025</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Spring Valley HS</td>
+<td class="text-center" width="20%">May 23, 2025</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Sunrise Mountain HS</td>
+<td class="text-center" width="20%">May 28, 2025</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr><tr>
+<td width="30%">Valley HS</td>
+<td class="text-center" width="20%">May 24, 2025</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Variety School</td>
+<td class="text-center" width="20%">May 14, 2025</td>
+<td class="text-center" width="10%">5:00 PM</td>
+<td class="text-center" width="20%">Variety Campus</td>
+</tr><tr>
+<td width="30%">Veterans Tribute CTA</td>
+<td class="text-center" width="20%">May 24, 2025</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Virgin Valley HS</td>
+<td class="text-center" width="20%">May 23, 2025</td>
+<td class="text-center" width="10%">8:30 PM</td>
+<td class="text-center" width="20%">Virgin Valley HS Field</td>
+</tr><tr>
+<td width="30%">West CTA</td>
+<td class="text-center" width="20%">May 24, 2025</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr><tr>
+<td width="30%">Western HS</td>
+<td class="text-center" width="20%">May 30, 2025</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+</tr></tbody></table>
+<!--
+ <p class="note">This list was last revised on 01/107/2020.</p>
+					<table width="100%" class="simple-table-rows" cellspacing="1" cellpadding="0">
+					<tbody>
+						<tr>
+								<th>School</th>
+								<th>Day</th>
+								<th>Date</th>
+								<th>Time</th>
+                                <th>Location</th>
+						</tr>
+
+                        <tr>
+								<td width="35%">Adult Education</td>
+								<td class="text-center" width="12%">Saturday</td>
+								<td class="text-center" width="15%">5/23/2020</td>
+								<td class="text-center" width="15%">3:00 p.m.</td>
+								<td class="text-center" width="30%">Orleans Arena</td>
+						</tr>
+						
+						<tr>
+								<td>Advanced Technologies Academy</td>
+								<td class="text-center" >Tuesday</td>
+								<td class="text-center">5/26/2020</td>
+								<td class="text-center">12:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+						
+						<tr>
+								<td >Arbor View HS</td>
+								<td class="text-center" >Saturday</td>
+								<td class="text-center" >5/23/2020</td>
+								<td class="text-center">3:00 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+						
+						<tr>
+								<td>Basic Academy of International Studies</td>
+								<td class="text-center" >Saturday</td>
+								<td class="text-center" >5/23/2020</td>
+								<td class="text-center" >9:00 a.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+						
+						<tr>
+								<td>Bonanza HS</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/27/2020</td>
+								<td class="text-center" >12:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+						
+						<tr>
+								<td>Boulder City HS</td>
+								<td class="text-center" >Thursday</td>
+								<td class="text-center" >5/21/2020</td>
+								<td class="text-center" >7:30 p.m.</td>
+								<td class="text-center">Boulder City HS</td>
+						</tr>
+												
+						<tr>
+								<td>Burk Horizon/Southwest Sunset HS</td>
+								<td class="text-center" >Friday</td>
+								<td class="text-center" >5/22/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Las Vegas Academy</td>
+						</tr>
+						
+						<tr>
+								<td>Canyon Springs HS and the Leadership and Law Preparatory Academy</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/27/2020</td>
+								<td class="text-center" >9:00 a.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+												
+						<tr>
+								<td>Centennial HS</td>
+								<td class="text-center" >Tuesday</td>
+								<td class="text-center" >5/26/2020</td>
+								<td class="text-center" >6:00 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+																		
+						<tr>
+								<td>Chaparral HS</td>
+								<td class="text-center" >Tuesday</td>
+								<td class="text-center" >5/26/2020</td>
+								<td class="text-center" >6:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+						
+						<tr>
+								<td>Cheyenne HS</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/27/2020</td>
+								<td class="text-center" >6:00 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+						
+						<tr>
+								<td>Cimarron-Memorial HS</td>
+								<td class="text-center" >Saturday</td>
+								<td class="text-center" >5/23/2020</td>
+								<td class="text-center" >12:00 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+						
+						<tr>
+								<td>Clark, Ed W. HS</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/27/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+												
+						<tr>
+								<td>College of Southern Nevada HS East</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/27/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																		
+						<tr>
+								<td>College of Southern Nevada HS South</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/27/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+
+												
+						<tr>
+								<td>College of Southern Nevada HS West</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/27/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+						
+						<tr>
+								<td>Coronado HS</td>
+								<td class="text-center" >Friday</td>
+								<td class="text-center" >5/22/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+						
+						<tr>
+								<td>Cowan Academic Center</td>
+								<td class="text-center" >Friday</td>
+								<td class="text-center" >5/22/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Las Vegas Academy</td>
+						</tr>
+												
+						<tr>
+								<td>Cowan Sunset Southeast HS</td>
+								<td class="text-center" >Friday</td>
+								<td class="text-center" >5/22/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Las Vegas Academy</td>
+						</tr>
+																		
+						<tr>
+								<td>Del Sol Academy of the Performing Arts</td>
+								<td class="text-center" >Tuesday</td>
+								<td class="text-center" >5/26/2020</td>
+								<td class="text-center" >9:00 a.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																		
+						<tr>
+								<td>Desert Oasis HS</td>
+								<td class="text-center" >Thursday</td>
+								<td class="text-center" >5/21/2020</td>
+								<td class="text-center" >12:00 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+																								
+						<tr>
+								<td>Desert Pines HS</td>
+								<td class="text-center" >Friday</td>
+								<td class="text-center" >5/22/2020</td>
+								<td class="text-center" >9:00 a.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+																								
+						<tr>
+								<td>Desert Rose Adult HS</td>
+								<td class="text-center" >Saturday</td>
+								<td class="text-center" >5/23/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																														
+						<tr>
+								<td>Desert Rose HS</td>
+								<td class="text-center" >Saturday</td>
+								<td class="text-center" >5/23/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																																				
+						<tr>
+								<td>Durango HS</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/27/2020</td>
+								<td class="text-center" >9:00 a.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																																										
+						<tr>
+								<td>East Career and Technical Academy</td>
+								<td class="text-center" >Saturday</td>
+								<td class="text-center" >5/23/2020</td>
+								<td class="text-center" >12:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																																												
+						<tr>
+								<td>Eldorado HS</td>
+								<td class="text-center" >Friday</td>
+								<td class="text-center" >5/22/2020</td>
+								<td class="text-center" >9:00 a.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																																																		
+						<tr>
+								<td>Florence McClure Women's Correctional Center HS</td>
+								<td class="text-center" >Monday</td>
+								<td class="text-center" >5/18/2020</td>
+								<td class="text-center" >9:00 a.m.</td>
+								<td class="text-center">Florence McClure Women's Correctional Center</td>
+						</tr>
+																																																		
+						<tr>
+								<td>Foothill HS</td>
+								<td class="text-center" >Tuesday</td>
+								<td class="text-center" >5/26/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+																																																								
+						<tr>
+								<td>Global Community HS at Morris Hall</td>
+								<td class="text-center" >Thursday</td>
+								<td class="text-center" >5/21/2020</td>
+								<td class="text-center" >9:00 a.m.</td>
+								<td class="text-center">Desert Pines HS</td>
+						</tr>
+																																																								
+						<tr>
+								<td>Green Valley HS</td>
+								<td class="text-center" >Thursday</td>
+								<td class="text-center" >5/21/2020</td>
+								<td class="text-center" >6:00 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+																																																														
+						<tr>
+								<td>Helen J. Stewart School</td>
+								<td class="text-center" >Thursday</td>
+								<td class="text-center" >5/14/2020</td>
+								<td class="text-center" >7:00 p.m.</td>
+								<td class="text-center">Helen J. Stewart School</td>
+						</tr>
+																																																														
+						<tr>
+								<td>High Desert State Prison Adult HS</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/20/2020</td>
+								<td class="text-center" >8:30 a.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+																																																														
+						<tr>
+								<td>High Desert State Prison Youth Offenders</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/20/2020</td>
+								<td class="text-center" >1:00 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+																																																																				
+						<tr>
+								<td>Indian Springs HS</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/20/2020</td>
+								<td class="text-center" >7:00 p.m.</td>
+								<td class="text-center">Indian Springs HS</td>
+						</tr>
+																																																																										
+						<tr>
+								<td>Las Vegas Academy of Arts</td>
+								<td class="text-center" >Saturday</td>
+								<td class="text-center" >5/23/2020</td>
+								<td class="text-center" >6:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																																																																										
+						<tr>
+								<td>Las Vegas HS</td>
+								<td class="text-center" >Friday</td>
+								<td class="text-center" >5/22/2020</td>
+								<td class="text-center" >7:30 p.m.</td>
+								<td class="text-center">Las Vegas HS</td>
+						</tr>
+																																																																																
+						<tr>
+								<td>Laughlin HS</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/20/2020</td>
+								<td class="text-center" >6:00 p.m.</td>
+								<td class="text-center">Laughlin HS</td>
+						</tr>
+																																																																																
+						<tr>
+								<td>Legacy HS</td>
+								<td class="text-center" >Thursday</td>
+								<td class="text-center" >5/21/2020</td>
+								<td class="text-center" >9:00 a.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+																																																																																
+						<tr>
+								<td>Liberty HS</td>
+								<td class="text-center" >Friday</td>
+								<td class="text-center" >5/22/2020</td>
+								<td class="text-center" >6:30 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+
+						<tr>
+								<td>Miley Achievement</td>
+								<td class="text-center" >Friday</td>
+								<td class="text-center" >5/22/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Las Vegas Academy</td>
+						</tr>
+						
+						<tr>
+								<td>Miller, John F.</td>
+								<td class="text-center" >Friday</td>
+								<td class="text-center" >5/15/2020</td>
+								<td class="text-center" >10:00 a.m.</td>
+								<td class="text-center">Miller School</td>
+						</tr>
+												
+						<tr>
+								<td>Mission HS</td>
+								<td class="text-center" >Thursday</td>
+								<td class="text-center" >5/21/2020</td>
+								<td class="text-center" >9:00 a.m.</td>
+								<td class="text-center">The Historic Fifth Street School</td>
+						</tr>
+																		
+						<tr>
+								<td>Moapa Valley HS</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/20/2020</td>
+								<td class="text-center" >7:00 p.m.</td>
+								<td class="text-center">Moapa Valley HS</td>
+						</tr>
+																		
+						<tr>
+								<td>Mojave HS</td>
+								<td class="text-center" >Friday</td>
+								<td class="text-center" >5/22/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																		
+						<tr>
+								<td>Morris Sunset East HS</td>
+								<td class="text-center" >Friday</td>
+								<td class="text-center" >5/22/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Las Vegas Academy</td>
+						</tr>
+																								
+						<tr>
+								<td>Nevada Learning Academy at CCSD</td>
+								<td class="text-center" >Friday</td>
+								<td class="text-center" >5/22/2020</td>
+								<td class="text-center" >12:00 p.m.</td>
+								<td class="text-center">Las Vegas Academy</td>
+						</tr>
+																								
+						<tr>
+								<td>Northwest Career and Technical Academy</td>
+								<td class="text-center" >Friday</td>
+								<td class="text-center" >5/22/2020</td>
+								<td class="text-center" >12:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																														
+						<tr>
+								<td>Palo Verde HS</td>
+								<td class="text-center" >Thursday</td>
+								<td class="text-center" >5/21/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+																														
+						<tr>
+								<td>Preparatory Institute, School for Academic Excellence at Charles I. West Hall (West Prep) HS</td>
+								<td class="text-center" >Tuesday</td>
+								<td class="text-center" >5/26/2020</td>
+								<td class="text-center" >9:00 a.m.</td>
+								<td class="text-center">Smith Center</td>
+						</tr>
+																																				
+						<tr>
+								<td>Rancho HS</td>
+								<td class="text-center" >Saturday</td>
+								<td class="text-center" >5/23/2020</td>
+								<td class="text-center" >6:00 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+																																										
+						<tr>
+								<td>Sandy Valley HS</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/20/2020</td>
+								<td class="text-center" >5:00 p.m.</td>
+								<td class="text-center">Sandy Valley HS</td>
+						</tr>
+																																																
+						<tr>
+								<td>Shadow Ridge HS</td>
+								<td class="text-center" >Friday</td>
+								<td class="text-center" >5/22/2020</td>
+								<td class="text-center" >12:00 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+																																																
+						<tr>
+								<td>Sierra Vista HS</td>
+								<td class="text-center" >Saturday</td>
+								<td class="text-center" >5/23/2020</td>
+								<td class="text-center" >9:00 a.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																																																						
+						<tr>
+								<td>Silverado HS</td>
+								<td class="text-center" >Tuesday</td>
+								<td class="text-center" >5/26/2020</td>
+								<td class="text-center" >9:00 a.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+																																																						
+						<tr>
+								<td>Southeast Career and Technical Academy</td>
+								<td class="text-center" >Thursday</td>
+								<td class="text-center" >5/21/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																																																												
+						<tr>
+								<td>Southern Desert Correctional Center</td>
+								<td class="text-center" >Tuesday</td>
+								<td class="text-center" >5/19/2020</td>
+								<td class="text-center" >9:00 a.m.</td>
+								<td class="text-center">Southern Desert Correctional Center/td>
+						</tr>
+																																																																		
+						<tr>
+								<td>Southwest Career and Technical Academy</td>
+								<td class="text-center" >Thursday</td>
+								<td class="text-center" >5/21/2020</td>
+								<td class="text-center" >9:00 a.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																																																																								
+						<tr>
+								<td>Spring Valley HS</td>
+								<td class="text-center" >Thursday</td>
+								<td class="text-center" >5/21/2020</td>
+								<td class="text-center" >6:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+						
+						<tr>
+								<td>SUMMER GRADUATION</td>
+								<td class="text-center" >Tuesday</td>
+								<td class="text-center" >8/4/2020</td>
+								<td class="text-center" >1:30 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>																																																																		
+						<tr>
+								<td>Sunrise Mountain HS</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/27/2020</td>
+								<td class="text-center" >6:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																																																																														
+						<tr>
+								<td>Valley HS</td>
+								<td class="text-center" >Tuesday</td>
+								<td class="text-center" >5/26/2020</td>
+								<td class="text-center" >12:00 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+						
+						<tr>
+								<td>Variety School</td>
+								<td class="text-center" >Tuesday</td>
+								<td class="text-center" >5/12/2020</td>
+								<td class="text-center" >6:00 p.m.</td>
+								<td class="text-center">Variety School</td>
+						</tr>
+												
+						<tr>
+								<td>Veterans Tribute Career and Technical Academy</td>
+								<td class="text-center" >Thursday</td>
+								<td class="text-center" >5/21/2020</td>
+								<td class="text-center" >12:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																		
+						<tr>
+								<td>Virgin Valley HS</td>
+								<td class="text-center" >Thursday</td>
+								<td class="text-center" >5/21/2020</td>
+								<td class="text-center" >8:00 p.m.</td>
+								<td class="text-center">Virgin Valley HS</td>
+						</tr>
+																								
+						<tr>
+								<td>West Career and Technical Academy</td>
+								<td class="text-center" >Tuesday</td>
+								<td class="text-center" >5/26/2020</td>
+								<td class="text-center" >3:00 p.m.</td>
+								<td class="text-center">Orleans Arena</td>
+						</tr>
+																								
+						<tr>
+								<td>Western HS</td>
+								<td class="text-center" >Wednesday</td>
+								<td class="text-center" >5/27/2020</td>
+								<td class="text-center" >12:00 p.m.</td>
+								<td class="text-center">Thomas & Mack Center</td>
+						</tr>
+						</tbody>
+					</table>  
+-->
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

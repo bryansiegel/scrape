@@ -1,0 +1,51 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- MAIN CONTENT -->
+<div id="main_content">
+<section class="content-holder">
+<h1>School Contact Information</h1>
+<div>
+<div class="addr-txt">
+<h2 style="color: #444;font-size: 21px;line-height: 27px;margin: 20px 0 10px">
+                MCCAW, GORDON ES<br/>
+</h2>
+<!-- 		Principal:  -->
+<p>Principal:  Furman-Born, Jennifer M<br>
+<!-- 		Principal:  -->
+<!--         <a href="/schools/contact-information/">Link to this page</a> -->
+<!-- 								$principle = $match['TXTADMINISTRATOR']; -->
+<!-- 								Furman-Born, Jennifer M --><!-- <br> -->
+                                330 TIN STREET<br>
+                                HENDERSON, NV 89015<br>
+                                Phone: 702-799-8930<br/>
+                                Fax: 702-799-8910<br/>
+<a href="http://maps.google.com/maps?q=330 TIN STREET,+HENDERSON,+NV+89015">Map</a>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/mccawes">Website</a> </br></br></br></p>
+<b>Region:</b> 3                                                             <p><b>Motto:</b> Dedicated to giving our best everyday in everything we do!</p> <p><b>Mission:</b> We at Gordon McCaw Elementary School, in partnership with parents, families, and the community, are dedicated to creating an environment that ensures that all students achieve the highest standards both academically and socially to become lifelong learners and productive members of our global and diverse society.</p>
+</div>
+</div>
+</section>
+</div><!-- /main_content -->
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

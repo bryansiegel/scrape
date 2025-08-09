@@ -1,0 +1,71 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Resources</h1>
+<h2>
+	Dress Code Policies</h2>
+<p>
+<a href="/resources/education-services-division/dresscodeenglish.pdf" target="_blank">Behavior/Continuation Schools - English</a><br>
+<a href="/resources/education-services-division/dresscodespanish.pdf" target="_blank">Behavior/Continuation Schools - Spanish</a><br>
+	 </br></br></p>
+<hr/>
+<h2>
+	Expulsion Due Process</h2>
+<p>
+<a href="https://ccsd.net/district/policies-regulations/pdf/5114.2_R.pdfi" target="_blank">Discipline Expulsion Procedures</a><br/>
+<a href="/resources/education-services-division/expulsioninfo.pdf" target="_blank">Expulsion Information</a><br/>
+<a href="/resources/education-services-division/expulsioncontacts.pdf" target="_blank">Expulsion Process Contact Personnel</a><br/>
+<a href="/resources/education-services-division/trialenrollments.pdf" target="_blank">Expulsion Trial Enrollments</a><br/>
+<a href="/resources/education-services-division/expulsion-due-process.pdf" target="_blank">Brochure Expulsion Due Process - English</a><br/>
+<a href="/resources/education-services-division/expulsion-due-process-spanish.pdf" target="_blank">Brochure Expulsion Due Process - Spanish</a><br/>
+<a href="/resources/education-services-division/ferpaenglish.pdf" target="_blank">FERPA - English</a><br/>
+<a href="/resources/education-services-division/ferpaspanish.pdf" target="_blank">FERPA - Spanish</a></p>
+<hr/>
+<h2>
+	Shared Housing</h2>
+<p>
+<a href="https://sites.google.com/nv.ccsd.net/sharedhousing/home" target="_blank">Shared Housing</a></p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

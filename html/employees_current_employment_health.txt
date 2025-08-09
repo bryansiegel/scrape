@@ -1,0 +1,742 @@
+<div class="content-wrap" id="content_wrap">
+<div class="aux-nav-wrap sticky-top" style="width:956px;">
+<div align="center" id="aux_nav_choice" style="width:955px;background: #1771b7;margin-left: auto;margin-right: auto;align-content: center;">
+<a class="page-link" data-page="#collapseOne" href="#Group" id="myID" style="width: auto;padding-left: 15px;">Group Health Insurance</a> 
+            <!-- 	        <a href="#Group" id="myID" class="page-link" data-page="#collapseSix" style="width: auto;padding-left: 25px;margin-left: 45px;">Support Professional Health Insurance</a>&nbsp;	 -->
+<a class="page-link" data-page="#collapseTwo" href="#Plans" id="myID" style="width: auto;padding-left:15px;">Programs/Plans</a> 
+
+            <!-- 			<a href="https://ccsddev.net/employees/current/employment/index-health.php#Group" id="myID" class="page-link" data-page="#collapseOne" style="width: auto;padding-left: 25px;margin-left: 45px;">Group Health Insurance</a>&nbsp; -->
+<!--             <a href="https://ccsddev.net/employees/current/employment/index-health.php#Plans" id="myID" class="page-link" data-page="#collapseTwo" style="width: auto;padding-left:25px;">Programs and Plans</a>&nbsp; -->
+<a class="page-link" data-page="#collapseThree" href="#Payroll" id="myID" style="width: auto;padding-left: 15px;">Payroll Deductions</a> 
+            <a class="page-link" data-page="#collapseFour" href="#Membership" id="myID" style="width: auto;padding-left: 15px;">Memberships</a> 
+            <a class="page-link" data-page="#collapseFive" href="#Donations" id="myID" style="width: auto;padding-left: 12px;">Donations</a> 
+            <a class="page-link" data-page="#collapseSix" href="#Contact" id="myID" style="width: auto;padding-left: 10px;">Contact Information</a> 
+
+        </div>
+<main class="main-content-wrap" id="main_content_wrap">
+</main></div>
+<div class="container">
+<h1 class="content-holder">Employee Health &amp; Wellness Benefits</h1>
+<div class="contact-side-wrap contact-side">
+<p>
+<h3>Contact</h3>
+<strong>Employee Benefits</strong><br/>
+
+            Phone: (702) 799-5418<br/>
+            Fax: (702) 799-2918</p>
+<p><strong>Address</strong><br/>
+
+                2832 E. Flamingo Road<br/>
+                Las Vegas, NV 89121 <br/><a href="https://www.google.com/maps/place/Parking+lot,+2832+E+Flamingo+Rd,+Las+Vegas,+NV+89121/@36.1143939,-115.1149507,17z/data=!3m1!4b1!4m6!3m5!1s0x80c8c520cfb45983:0x8dbf5e06c0d5a1f1!8m2!3d36.1143939!4d-115.112762!16s%2Fg%2F11bw3xxpv_?entry=ttu" target="_blank">Map</a>
+</p>
+</div> <!-- /sidebar_wrap -->
+<p>The Clark County School District aims to provide quality, affordable health care coverage to our 40,000
+            employees and their dependents. </p>
+<p>We negotiate with each employee association to provide either health insurance plans or contribute
+            toward health care plans for our employees.  No changes will be made to employee health care plans
+            unless they are negotiated with each employee group. Benefits for Clark County School District
+            employees are outlined in the <a class="pdflink" href="https://ccsd.net/employees/current/employment/information#agreements" target="_blank">Negotiated Agreements</a>.
+        </p>
+<p>To give your input on health care coverage, please contact your employee association or <a class="pdflink" href="http://ccsd.net/trustees/contact/all" target="_blank">email the Board of School Trustees</a>.  
+        <p style="padding-bottom: 10px;">For more information about the benefits offered through each association,
+            please see below:</p>
+</p></div>
+<div class="container1" id="page_container">
+<div aria-multiselectable="true" class="panel-group" id="accordion" role="tablist">
+<div class="panel panel-primary" id="collapseOne_Container Group">
+<div class="panel-heading" id="headingOne myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseOne" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseOne" role="button">
+                            Group Health Insurance
+                        </a>
+</h2>
+</div>
+<div aria-labelledby="collapseOne" class="panel-collapse collapse in" id="collapseOne" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body" id="#Group">
+<a id="#Group"></a>
+<h2>Group Health Insurance</h2>
+<id="support">
+<p>
+<strong style="font-size: 18px;">Support Professionals / Police / Police
+                                        Administrators</strong><br>
+                                    Please call CCSD Benefits<br>
+                                    702-799-5418
+                                </br></br></p>
+<p>
+<a href="https://ccsd.net/resources/employee-benefits/2025-2026_CCSD_Health_Plan_Notices.pdf" target="_blank">2025-2026 Health Plan Notices (PDF)</a><br>
+<a href="https://ccsd.net/resources/employee-benefits/2025_Meaningful_Notice_403_b_and_457_b.pdf" target="_blank">Meaningful Notice/Plan Summary Information 403(b) and 457(b) (PDF)</a>
+</br></p>
+<!--
+                                <p><strong>2024 - 2025 Benefit Overview</strong> <span
+                                        style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: small;">(effective
+                                        September 1, 2024)</span></p>
+
+                                <ul>
+                                    <li>
+                                        <a href="https://ccsd.net/resources/employee-benefits/2024-2025ClarkCountySchoolDistrictBenefitsOverviewSupportProfessionals8222024.pdf"
+                                            target="_blank">Support Professionals (PDF)</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://ccsd.net/resources/employee-benefits/2024-2025ClarkCountySchoolDistrictBenefitsOverviewPolice8222024.pdf"
+                                            target="_blank">School Police Employees (PDF)</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://ccsd.net/resources/employee-benefits/2024-2025ClarkCountySchoolDistrictBenefitsOverviewPoliceAdministrators8222024.pdf"
+                                            target="_blank">Police Administrators (PDF)</a>
+                                    </li>
+                                </ul>
+-->
+<p><strong>2025 - 2026 Benefit Overview</strong> <span style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: small;">(effective September 1, 2025)</span></p>
+<ul>
+<li>
+<a href="https://ccsd.net/resources/employee-benefits/2025-2026-CCSD-Benefits-Overview-Support-Professionals.pdf" target="_blank">Support Professionals (PDF)</a>
+</li>
+<li>
+<a href="https://ccsd.net/resources/employee-benefits/2025-2026-CCSD-Benefits-Overview-Police.pdf" target="_blank">School Police Employees (PDF)</a>
+</li>
+<li>
+<a href="https://ccsd.net/resources/employee-benefits/2025-2026--CCSD-Benefits-Overview-Police-Administrators.pdf" target="_blank">Police Administrators (PDF)</a>
+</li>
+<li>
+<a href="https://ccsd.net/resources/employee-benefits/ESS-Guide-Open-Enrollment.pdf" target="_blank">
+                                            HCM Guide - Open Enrollment (PDF)</a></li>
+
+</ul>
+<!--
+                             <p><strong>2023 - 2024 Benefit Overview</strong> <span
+                                        style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: small;">(effective
+                                        September 1, 2023)</span></p>
+
+                                <ul>
+                                    <li>
+                                        <a href="https://ccsd.net/resources/employee-benefits/2023-2024-CCSD-Benefits-Overview-Support-Professionals.pdf"
+                                            target="_blank">Support Professionals (PDF)</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://ccsd.net/resources/employee-benefits/2023-2024-CCSD-Benefits-Overview-Police.pdf"
+                                            target="_blank">School Police Employees (PDF)</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://ccsd.net/resources/employee-benefits/2023-2024-CCSD-Benefits-Overview-Police-Administrators.pdf"
+                                            target="_blank">Police Administrators (PDF)</a>
+                                    </li>
+                                </ul>
+-->
+<!--
+                            <p>
+                                <strong>2022-2023 Benefits Overview</strong></p>
+                            <ul>
+                                <li>
+                                    <a href="https://ccsd.net/resources/employee-benefits/2022-2023-CCSD-Benefits-Overview-Support-Professionals.pdf" target="_blank">Support Professionals (PDF)</a></li>
+                                <li>
+                                    <a href="https://ccsd.net/resources/employee-benefits/2022-2023-CCSD-Benefits-Overview-Police.pdf" target="_blank">School Police Employees (PDF)</a></li>
+                                <li>
+                                    <a href="https://ccsd.net/resources/employee-benefits/2022-2023-CCSD-Benefits-Overview-Police-Administrators.pdf" target="_blank">Police Administrators (PDF)</a></li>
+                            </ul>
+                           
+-->
+<p>
+<strong><a href="https://www.brainshark.com/1/player/locktonmw?pi=zHhz15VbTuzX0Adz0&amp;r3f1=&amp;fb=0" rel="nofollow" target="_blank">New Hire Benefits Presentation</a></strong>
+</p>
+<p>
+<strong><a href="https://ccsd.net/resources/employee-benefits/CCSD%20New%20Hire%20Checklist%207.15.2024.pdf" target="_blank">CCSD New Hire Checklist (PDF)</a></strong>
+</p>
+<p>
+<strong>Medical/HealthPlan of NV</strong>
+</p>
+<ul>
+<li>
+<a href="https://ccsd.net/resources/employee-benefits/2024-Summary-Benefits-Coverage-HMO.pdf" target="_blank">HMO Summary of Benefits Coverage (PDF)</a>
+</li>
+<li>
+<a href="https://ccsd.net/resources/employee-benefits/2023-Benefits-Guide-HMO.pdf" target="_blank">HMO Guide (PDF)</a>
+</li>
+<li>
+<a href="https://ccsd.net/resources/employee-benefits/2024-Summary-Benefits-Coverage-POS.pdf" target="_blank">POS Summary of Benefits Coverage (PDF)</a>
+</li>
+<li>
+<a href="https://ccsd.net/resources/employee-benefits/2023-Benefits-Guide-POS.pdf" target="_blank">POS Guide (PDF)</a>
+</li>
+<li>
+<a href="https://ccsd.net/resources/employee-benefits/2024-Summary-Benefits-Coverage-PPO.pdf" target="_blank">PPO Summary of Benefits Coverage (PDF)</a>
+</li>
+<li>
+<a href="http://ccsd.net/resources/employee-benefits/2023-Benefits-Guide-PPO.pdf" target="_blank">PPO Guide (PDF)</a>
+</li>
+</ul>
+<p>
+<strong>Additional Information about your Medical Benefits:</strong>
+</p>
+<ul>
+<li>
+<a href="http://www.ccsd.net/resources/employee-benefits/2023-HPN-Points-Care-Flyer.pdf" target="_blank">HPN Points of Care (PDF)</a>
+</li>
+<li>
+<a href="http://www.ccsd.net/resources/employee-benefits/2022-2023-Urgent-Care-House-Call-Flyer.pdf" target="_blank">Urgent Care House Call Flyer (PDF)</a>
+</li>
+<li>
+<a href="http://www.ccsd.net/resources/employee-benefits/24-7NowClinicVirtualVisitsFlyer.pdf" target="_blank">24.7 NowClinic Virtual Visits Flyer (PDF)</a>
+</li>
+<li>
+<a href="http://www.ccsd.net/resources/employee-benefits/2023-Vital-Medications-Program-Rx.pdf" target="_blank">2023 Vital Medication Program (PDF)</a>
+</li>
+<li>
+<a href="http://www.ccsd.net/resources/employee-benefits/VeraWholeHealthPoster.pdf" target="_blank">Vera Whole Health Poster (PDF)</a>
+</li>
+<li>
+<a href="http://www.ccsd.net/resources/employee-benefits/VeraWelcomeBooklet.pdf" target="_blank">Vera Welcome Booklet (PDF)</a>
+</li>
+</ul>
+<!-- new -->
+<p><b>Vera Whole Health</b></p>
+<p>All Support and Police Professionals enrolled in the CCSD health insurance have the
+                                    added benefit of receiving medical care from <a href="https://patients.verawholehealth.com/" rel="nofollow">Vera Whole
+                                        Health</a>. You have more important things to do than sit in a waiting room only
+                                    to be rushed through an appointment. That’s why we do healthcare differently,
+                                    including flexible appointment options, family care, free health coaching, and
+                                    longer visits.</p>
+<p>Plus, it’s all part of your CCSD benefits<b><a href="https://ccsd.net/resources/employee-benefits/Its-Free-Really.pdf">—at
+                                            no cost to you.</a></b></p>
+<p><b>Services offered at Vera</b></p>
+<ul>
+<li><a href="https://ccsd.net/resources/employee-benefits/CCSD-Vera-Annual-Health-Check.pdf">Preventive
+                                            care</a>
+<ul>
+<li>Check-ups, screenings, immunizations, well-woman exams, family planning
+                                            </li>
+</ul>
+</li>
+<li>Chronic disease support
+                                        <ul>
+<li>For conditions like diabetes, hypertension, and depression</li>
+</ul>
+</li>
+<li>Acute care
+                                        <ul>
+<li>Coughs and colds, wound care, sprains and strains, rashes, UTIs, back
+                                                pain</li>
+</ul>
+</li>
+<li><a href="https://ccsd.net/resources/employee-benefits/CCSD-Vera-Health-Coach.pdf">Health
+                                            coaching</a>
+<ul>
+<li>Empathetic coaches who provide accountability to help you reach your
+                                                goals</li>
+</ul>
+</li>
+<li>Additional services
+                                        <ul>
+<li>
+                                                On-site labs, vaccinations, travel medicine, behavioral health,
+                                                specialty care coordination and advocacy
+                                            </li>
+</ul>
+</li>
+</ul>
+<div style="margin-left: 50px;margin-bottom:50px;padding-bottom: 50px;width: 80%">
+<div style="float:left;">
+<p><b>Summerlin Wellness Care Center</b>
+<br/>331 North Buffalo Dr.
+                                            <br/>Suite 120
+                                            <br/>Las Vegas, NV 89145
+                                            <br/>(702) 846-1003
+                                        </p>
+</div>
+<div style="float:right;">
+<p><b>Green Valley Wellness Care Center</b>
+<br/>100 North Green Valley Pkwy
+                                            <br/>Suite 235
+                                            <br/>Henderson, NV 89074
+                                            <br/>(725) 333-8036
+                                        </p>
+</div>
+</div>
+<br/>
+<br/>
+<center>
+<img alt="Schedule your appointment by calling 888-801-8372" src="https://ccsd.net/resources/employee-benefits/vera-appointment-qr-code.png"/>
+</center>
+<p><b><a href="https://ccsd.net/resources/employee-benefits/CCSD-Vera-Presentation.pdf">Vera
+                                            Presentation</a></b></p>
+<!-- end new -->
+<p>
+<b>Dental/United Healthcare</b>
+</p>
+<ul>
+<li>
+<a href="https://www.ccsd.net/resources/employee-benefits/2021-UHC-Dental-Benefit-Summary.pdf" target="_blank">UHC Dental Benefit Summary (PDF)</a>
+</li>
+</ul>
+<p>
+<b>Vision/EyeMed</b><span style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: small;">
+                                        (New Carrier effective September 1, 2023)</span>
+</p>
+<ul>
+<li><a href="https://www.ccsd.net/resources/employee-benefits/EyeMedBenefitSummary-2023-2024.pdf" target="_blank">EyeMed Benefit Summary (PDF)</a></li>
+<li><a href="https://www.ccsd.net/resources/employee-benefits/EyeMedDiabeticCareBenefitSummary-2023-2024.pdf" target="_blank">EyeMed Diabetic Care Benefit Summary (PDF)</a></li>
+<li><a href="https://www.ccsd.net/resources/employee-benefits/EyeMed-Member-FAQs.pdf" target="_blank">EyeMed Member FAQs (PDF)</a></li>
+<li><a href="https://www.ccsd.net/resources/employee-benefits/EyeMedProviderLocatorSearch-2023-2024.pdf" target="_blank">EyeMed: Provider Locator - Search. Select. Save. (PDF)</a>
+</li>
+<li><a href="https://www.ccsd.net/resources/employee-benefits/EyeMed-Eye360-Savings.pdf" target="_blank">EyeMed360 Savings (PDF)</a></li>
+<li><a href="https://www.ccsd.net/resources/employee-benefits/CCSDEyeMedVirtualBenefitFair.pdf" target="_blank">EyeMed Virtual Benefit Fair (PDF)</a></li>
+</ul>
+<!--
+                            <p>
+                                <b>Superior Vision</b></p>
+                            <ul>
+                                <li>
+                                    <a href="https://www.ccsd.net/resources/employee-benefits/2021-CCSD-Superior-Vision-Benefit-Summary.pdf" target="_blank">Superior Vision Benefit Summary (PDF)</a></li>
+                                <li>
+                                    <a href="https://www.ccsd.net/resources/employee-benefits/SVS-Finding-Network-Provider-Flyer-National.pdf" target="_blank">Superior Vision: Finding In Network Providers (PDF)</a></li>
+                            </ul>
+                            
+-->
+<p><b>Travel Assistance, ID Theft, Beneficiary Assistance &amp; Estate Guidance /
+                                        Symetra</b></p>
+<p>Whether you’re managing a loved one’s final affairs, are in need of assistance while
+                                    traveling, or looking for guidance on how to resolve identity theft, Symetra Support
+                                    services offered through your group coverage provides direct assistance when you
+                                    need it most.</p>
+<p>
+<ul>
+<li><a href="https://ccsd.net/resources/employee-benefits/SymetraLifeBenefitSummary.pdf">Symetra
+                                            Support For Life's Challenges (PDF)</a></li>
+</ul>
+<b>Life and Long Term Disability/Symetra</b>
+</p>
+<ul>
+<li>
+<a href="https://www.ccsd.net/resources/employee-benefits/SymetraLifeBenefitSummary.pdf" target="_blank">Symetra Life Benefit Summary (PDF)</a>
+</li>
+<li>
+<a href="https://www.ccsd.net/resources/employee-benefits/SymetraPortabilityConversion.pdf" target="_blank">Symetra Life - Portability vs. Conversion (PDF)</a>
+</li>
+<li>
+<a href="https://www.ccsd.net/resources/employee-benefits/SymetraLifePortabilityKit.pdf" target="_blank">Symetra Life - Group Life Insurance Portability
+                                            Kit (PDF)</a>
+</li>
+<li>
+<a href="https://www.ccsd.net/resources/employee-benefits/SymetraLifeConversionKit.pdf" target="_blank">Symetra Life - Group Life Insurance Conversion Kit (PDF)</a>
+</li>
+<li>
+<a href="https://www.ccsd.net/resources/employee-benefits/SymetraLongTermDisabilityBenefitSummary.pdf" target="_blank">Symetra Long Term Disability Benefit Summary (PDF)</a>
+</li>
+</ul>
+</id="support"></div>
+<p>
+<strong style="font-size: 18px;">Administrative Staff</strong><br>
+                            Please call CCASAPE<br>
+                            702-796-9602 <br>
+<strong>To learn more about your benefits click here</strong> <a href="https://www.ccasa.net/" rel="nofollow" target="_blank">ccasa.net</a>
+</br></br></br></p>
+<p>
+<strong style="font-size: 18px;">Licensed &amp; Certified Staff</strong><br>
+                            Please call the Teachers Health Trust<br>
+                            702-794-0272<!-- <span style="color: rgb(68, 68, 68); font-family: arial, sans-serif;">Option 8</span> --><br>
+                            800-432-5859<br>
+<strong>To learn more about your benefits click here</strong> <a href="https://www.ththealth.org/" rel="nofollow" target="_blank">ththealth.org</a>
+</br></br></br></br></p>
+<hr/>
+<h2>Questions About Medicare?</h2>
+<!--                             <h2>Important Contact Information</h2> -->
+<p>
+                            Are you nearing age 65 and have questions about your Medicare options? You can talk or
+                            live chat with a real person, 24 hours a day, 7 days a week (except some federal
+                            holidays).</p>
+<p>
+<strong>1-800-MEDICARE (1-800-633-4227)</strong><br>
+<a href="https://www.medicare.gov/talk-to-someone" rel="nofollow" target="_blank">Contact
+                                Medicare</a>
+</br></p>
+<p>If you or a dependent are enrolling in Medicare Part B, the Benefits Department completes
+                            the CMS-L564 (CMS-R-297) on your behalf. Section B is the employer portion of this form
+                            that confirms the dates of enrollment in the CCSD medical plan. Please call our team to
+                            request this form for you or your dependent. We are available Monday - Friday, 7:30am to
+                            5:00pm.
+                        </p>
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseTwo Container Plans">
+<div class="panel-heading" id="headingTwo myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseTwo" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseTwo" role="button">
+                        Programs and Plans
+                    </a>
+</h2>
+</div>
+<div aria-labelledby="collapseTwo" class="panel-collapse collapse in" id="collapseTwo" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body" id="#Plans">
+<h2>
+<strong style="caret-color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; text-size-adjust: auto;">Life
+                                Connection Employee Assistance and Worklife Program</strong>
+</h2>
+<p>
+                            For CCSD employees in need of assistance, the Life Connection Employee Assistance and
+                            Worklife Program is available to CCSD employees. This resource provides counseling
+                            services, as well as support for legal, financial, child, eldercare, and daily living
+                            needs. CCSD employees can call 1-800-280-3782 or visit the <a href="http://bhoptions.com" rel="nofollow">www.bhoptions.com</a>.</p>
+<hr/>
+<p>
+<a href="/resources/employee-benefits/2023-CCSD-EAP-Benefits-Highlights-Flyer.pdf" target="_blank">CCSD Employee Assistance Program Flyer (PDF)</a><br>
+<a href="https://www.brainshark.com/1/player/uhc?&amp;fb=0&amp;r3f1=&amp;custom=ccsdtlceap" rel="nofollow" target="_blank">CCSD "TLC" Employee Assistance Program
+                                Orientation</a><br>
+<br>
+<a href="https://ccsd.net/community/mentalhealth/" target="_blank">Additional
+                                CCSD-sponsored Mental Health Services</a><br>
+</br></br></br></br></p>
+<hr/>
+<h2>
+                            403(b) and 457(b) Savings Plans</h2>
+<p>
+                            CCSD continually strives to offer and educate staff about our unique and advantageous
+                            benefits. One such benefit is our elective <strong>Tax Savings Retirement Savings
+                                Plan(s) </strong>that employees can utilize to help provide financial security at
+                            retirement. For guides and annual benefit limits, please visit the link below. TSA
+                            Consulting Group, Inc. (TSACG) is the compliance administrator for our plan(s).</p>
+<h2><a href="/resources/employee-benefits/2025-403b-457b-Basics-EmployeeNewsletter.pdf" target="_blank">2025 TSA Newsletter for New Annual Limits</a></h2>
+<p>
+<a href="http://www.tsacg.com/individual/plan-sponsor/nevada/clark-county-school-district/" rel="nofollow" target="_blank">Tax Savings Retirement Plans</a><br>
+<a href="/resources/employee-benefits/Approved-403b-457b-Vendors-02012024.pdf" target="_blank">Approved 403(b) and 457(b) Vendors (PDF)</a> <span style="color: red;">(updated 2/01/2024)</span>
+<p>
+                            To further encourage participation in our voluntary retirement plans, CCSD now offers an
+                            easy and quick 403(b) enrollment option called <strong>QuickENROLL.</strong> This new
+                            option helps employees rapidly enroll in a 403(b) retirement savings account without
+                            having to conduct initial research or meet with an Investment Provider representative.
+                        </p>
+<p>
+<a href="https://www.myquickenroll.com/" rel="nofollow" target="_blank">www.myquickenroll.com</a>
+</p>
+<p>
+                            In addition, the <a href="https://usrbpfinancialwellness.com/" rel="nofollow" target="_blank">Financial
+                                Wellness</a> page covers areas such as managing personal finances, college funding
+                            options, and how to navigate Social Security when the time comes. You will find
+                            calculators, videos, and informative content on various topics to help guide you in your
+                            planning process.</p>
+<ul>
+<li style="margin-left: 15px;">
+<a href="/resources/employee-benefits/Employee-Newsletter-New-Annual-Limits-2024.pdf" target="_blank">Employee Newsletter for Annual Limits 2024</a>
+</li>
+<li style="margin-left: 15px;">
+<a href="/resources/employee-benefits/Meaningful-Notice-Plan-Summary-Guide-2024.pdf" target="_blank">Meaningful Notice &amp; Plan Summary Guide 2024</a>
+</li>
+<li style="margin-left: 15px;">
+<a href="/resources/employee-benefits/Annual-Retirement-Benefits-Guide-2024.pdf" target="_blank">Annual Retirement Benefits Guide 2024</a>
+</li>
+<li style="margin-left: 15px;">
+<a href="/resources/employee-benefits/Maximum-Allowable-Contribution-Guidelines-2024.pdf" target="_blank">Maximum Allowable Contribution Guidelines 2024</a>
+</li>
+<li style="margin-left: 15px;">
+<a href="/resources/employee-benefits/2024-403b-457bPlan-Comparison.pdf" target="_blank">2024 403(b) and 457(b) Plan Comparison</a>
+</li>
+</ul>
+<hr/>
+<h2>
+                            Flexible Spending Accounts</h2>
+<p>
+<a href="https://americanfidelity.com/pages/clark-county-schools/?wvideo=ivm9w7kztt" rel="nofollow" target="_blank">Flexible Spending Accounts Video</a>
+</p>
+<h2>
+                            Retirement Plan</h2>
+<p>
+<a href="https://www.nvpers.org/front" rel="nofollow" target="_blank">Public
+                                Employees™ Retirement
+                                System of Nevada (PERS)</a><br>
+                            702-486-3900<br/>
+                            866-473-7768
+                        </br></p>
+<p>
+<!-- <h2>
+                            Foundation 99: Certified Financial Coaching Sessions</h2>
+                        <p>
+                            <a href="https://foundation99.org/coaching" target="_blank" rel="nofollow">Foundation 99 - Financial
+                                Coaching</a><br />
+                            888-599-4245
+                        </p>
+                        <p>Dreaming of the day with no financial stress? CCSD has partnered with Foundation 99 to
+                            help you identify your financial goals and develop a plan of action. Schedule a
+                            confidential, no-cost session with a Financial Coach to address topics like:</p>
+                        <ul>
+                            <li style="margin-left: 15px;">
+                                Tackling your debt</li>
+                            <li style="margin-left: 15px;">
+                                Understanding your credit</li>
+                            <li style="margin-left: 15px;">
+                                Creating a budget that sticks</li>
+                            <li style="margin-left: 15px;">
+                                Facing your student loans</li>
+                            <li style="margin-left: 15px;">
+                                Working toward a debt-free life</li>
+                        </ul>
+                        <p><a href="https://www.ccsd.net/resources/employee-benefits/F99-Coaching-Flyer.pdf"
+                                target="_blank">F99 Coaching Flyers - English (PDF)</a><br>
+                            <a href="https://www.ccsd.net/resources/employee-benefits/F99-Coaching-Flyer-Spanish.pdf"
+                                target="_blank">F99 Coaching Flyers - Spanish (PDF)</a>
+                        </p> -->
+</p></br></p></div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseThree_Container Payroll">
+<div class="panel-heading" id="headingThree myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseThree" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseThree" role="button">
+                        Payroll Deductions
+                    </a>
+</h2>
+</div>
+<div aria-labelledby="collapseThree" class="panel-collapse collapse in" id="collapseThree" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<h2>Voluntary Supplemental Benefits Available Via Payroll Deduction</h2>
+<p>
+                            Below is a list of companies offering voluntary benefits. CCSD does not endorse any of
+                            these products and the list is for informational purposes only.</p>
+<h3>
+                            Auto/Property Insurance</h3>
+<p>
+<a href="http://www.horacemann.com/" rel="nofollow" target="_blank">Horace Mann</a><br/>
+                            702-895-9230
+                        </p>
+<h3>
+                            Supplemental Insurance</h3>
+<p>
+<a href="http://www.aflac.com/" rel="nofollow" target="_blank">AFLAC</a><br/>
+                            702-312-3522
+                        </p>
+<p>
+<a href="http://www.afadvantage.com/products/" rel="nofollow" target="_blank">American
+                                Fidelity</a><br/>
+                            702-433-5333
+                        </p>
+<p>
+<a href="http://www.coloniallife.com/" rel="nofollow" target="_blank">Colonial
+                                Life</a><br/>
+                            (800) 325-4368
+                        </p>
+<p>
+<a href="http://www.horacemann.com/" rel="nofollow" target="_blank">Horace Mann</a><br/>
+                            702-895-9230
+                        </p>
+<p>
+<a href="http://www.wisnv.com/" rel="nofollow" target="_blank">Western Insurance
+                                Specialties</a><br/>
+                            800-342-0707
+                        </p>
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseFour_Container Membership">
+<div class="panel-heading" id="headingFour myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseFour" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseFour" role="button">
+                        Memberships
+                    </a>
+</h2>
+</div>
+<div aria-labelledby="collapseFour" class="panel-collapse collapse in" id="collapseFour" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<div class="full-wrap" id="main_content_wrap" role="main">
+<!--                                     <h2>Memberships</h2> -->
+<!--                                     <p><a target="_blank" href="http://www.lasvegasymca.org/">YMCA of Southern Nevada</a><br>702-877-9622</p> -->
+<img alt="CCSD Funding" height="auto" src="https://www.ccsd.net/employees/resources/images/CCSD_EmpCompBenegraphic.png" style="margin-left: -50px;" width="800"/>
+<div class="content-full-wrap" style="margin-left: 75px;margin-right: 200px;width: 800px;clear: both;">
+<div class="card-wrapper" id="card1" style="margin-left: 20px;margin-right: -5px;">
+<a href="https://www.ccasa.net/" id="we-are" rel="nofollow">
+<h2 align="center" class="card-title">CCASAPE</h2>
+</a>
+<div class="card-content">
+<div class="card-text">
+                                            HEALTH &amp; WELFARE TRUST<br/>4055 SOUTH SPENCER STREET, SUITE 230<br/>
+                                            LAS VEGAS, NV 89119<br/>
+                                            (702) 796 - 9602<br/>
+                                            MEMBERSHIP<br/>
+                                            ENROLLMENT: OPEN<br/>
+                                            WITHDRAWAL: BY SEPT 15<br/>
+</div>
+</div>
+</div>
+<div class="card-wrapper" id="card2" style="margin-left: 20px;margin-right: 20px;">
+<a href="https://new.ccea-nv.org/" id="we-are" rel="nofollow">
+<h2 align="center" class="card-title">CCEA</h2>
+</a>
+<div class="card-content">
+<div class="card-text">
+                                            TEACHERS HEALTH TRUST<br/>
+                                            4230 MCLEOD DRIVE<br/>
+                                            LAS VEGAS, NV 89121<br/>
+                                            (702) 733 - 3063<br/>
+                                            MEMBERSHIP<br/>
+                                            ENROLLMENT: OPEN<br/>
+                                            WITHDRAWAL: JULY 1 - 15<br/>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="content-full-wrap" style="margin-left: 35px !important;margin-right:10px !important;">
+<div class="card-wrapper cards-bottom-rowcards-bottom-row" id="card3" style="margin-left: -39px !important;margin-right:10px !important;">
+<a href="http://www.esea-nv.org/" id="we-are" rel="nofollow">
+<h2 align="center" class="card-title">ESEA</h2>
+</a>
+<div class="card-content">
+<div class="card-text">
+                                        CCSD HEALTH &amp; WELFARE<br/>
+                                        3511 EAST HARMON AVENUE<br/>
+                                        LAS VEGAS, NV 89121<br/>
+                                        (702) 794 - 2537<br/>
+                                        MEMBERSHIP<br/>
+                                        ENROLLMENT: OPEN<br/>
+                                        WITHDRAWAL: JULY 1 - 15<br/>
+</div>
+</div>
+</div>
+<div class="card-wrapper cards-bottom-row" id="card4" style="margin-left: 0px;margin-right:15px;">
+<h2 align="center" class="card-title">PAA</h2>
+<div class="card-content">
+<div class="card-text">
+                                        CCSD HEALTH &amp; WELFARE<br/>
+                                        PO BOX 530336<br/>
+                                        HENDERSON, NV, 89053<br/>
+                                        MEMBERSHIP<br/>
+                                        ENROLLMENT: OPEN<br/>
+                                        WITHDRAWAL: BY SEPT 15<br/>
+</div>
+</div>
+</div>
+<div class="card-wrapper" id="card5" style="margin-top:20px;">
+<a href="https://www.poaccsd.com/" id="we-are" rel="nofollow">
+<h2 align="center" class="card-title">POA</h2>
+</a>
+<div class="card-content">
+<div class="card-text">
+                                        CCSD HEALTH &amp; WELFARE<br/>
+                                        145 PANAMA STREET<br/>
+                                        HENDERSON, NV 89015<br/> POACCSD.COM
+                                        (702) 897 - 9366
+                                        MEMBERSHIP<br/>
+                                        ENROLLMENT: OPEN<br/>
+                                        WITHDRAWAL: BY SEPT 15<br/>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseFive_Container Donations">
+<div class="panel-heading" id="headingFive myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseFive" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseFive" role="button">
+                        Donations
+                    </a>
+</h2>
+</div>
+<div aria-labelledby="collapseFive" class="panel-collapse collapse in" id="collapseFive" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<h2>Donations</h2>
+<p><a href="http://vegaspbs.org" title="Vegas PBS">Vegas PBS</a></p>
+<p>It is our hope that you will consider supporting public television in our community by becoming a member of our broadcast family.</p>
+<p>Like you, <a href="https://www.vegaspbs.org/" title="Vegas PBS">Vegas PBS</a> is part of the Clark County School District. We are a self-funded, donor supported television station serving Las Vegas. Your <a href="https://www.vegaspbs.org/support/membership/" title="Vegas PBS Membership">Vegas PBS membership</a> helps provide thousands of educational workshops to CCSD students each year, as well as professional training to CCSD teachers.</p>
+<p>Vegas PBS is dedicated to enriching lives in Southern Nevada using television and other technologies to educate and individuals. Beyond providing access to thoughtful and thought-provoking media, Vegas PBS supports our community with free access to hundreds of thousands of classroom-ready digital learning resources for educators, supporting children, parents and caregivers through our <a href="https://www.vegaspbs.org/rtl/" title="Ready To Learn">Ready To Learn</a> initiative and providing free media resources to serve community members with special needs through our <a href="https://www.vegaspbs.org/special-needs/" title="Special Needs Resource Library">Special Needs Resource Library</a>.</p>
+<p>All Vegas PBS members receive 12 monthly issues of the <a href="https://www.vegaspbs.org/source/" title="Vegas PBS Source Magazine">Vegas PBS Source magazine</a>, keeping you up to date on your favorite public television programs. and upcoming programs, concerts, trips and events through our bi-weekly Engage e-newsletter. You will also be eligible for <a href="https://www.vegaspbs.org/passport/" title="Vegas PBS Passport">Vegas PBS Passport</a>, our streaming, on-demand library featuring the best of PBS. Watch individual episodes or entire seasons on any device, whenever you wish.</p>
+<a href="http://vegaspbs.org" title="Vegas PBS">Vegas PBS</a><br>
+                            702-799-1010<br>
+<img alt="Vegas PBS" height="auto" src="https://ccsd.net/employees/resources/images/vegas-pbs-logo.png" width="200"/><br>
+<a href="/resources/employee-benefits/CCSD-PayrollDeduction-Flyer-Nov2024.pdf" target="_blank" title="Vegas PBS Payroll Deduction Form">Vegas PBS Payroll Deduction Form</a>
+
+<hr/>
+<p>
+<a href="https://uwsn.org/ccsd-workplace-giving-campaign/" rel="nofollow" target="_blank">United Way of Southern Nevada
+                                (UWSN)</a><br/>
+</p>
+<!-- 								<img src="https://ccsd.net/employees/resources/images/united-way.png" alt="United Way Logo" width="200" height="auto"> -->
+<p>United Way of Southern Nevada (UWSN) believes that everyone deserves a roof over their
+                            heads, a good job, and access to a quality education. For over 65 years, UWSN has united
+                            our community to improve people’s lives. UWSN is proud of the strong partnership we have
+                            with the leadership and staff at Clark County School District (CCSD) in support of our
+                            local community.</p>
+<p>
+                            Together, UNITED, we have the ability to serve the most vulnerable CCSD students in our
+                            community and give them hope for the future, because of generous donors like you.
+                            Remember what is raised here, stays here! </p>
+<p>Thank you for making a difference.</p>
+<p>
+<a href="http://www.uwsn.org/" rel="nofollow" target="_blank">United Way</a><br>
+                            702-892-2367<br/>
+<img alt="United Way Logo" height="auto" src="https://ccsd.net/employees/resources/images/united-way.png" width="200"/>
+<hr/>
+</br></p>
+<p>
+<a href="https://thepef.org/" rel="nofollow" target="_blank">Public Education
+                                Foundation</a><br>
+                            702-799-1042
+                        </br></p>
+</br></br></br></div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseSix_Container Contact">
+<div class="panel-heading" id="headingSix myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseSix" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseSix" role="button">
+                        Contact Information
+                    </a>
+</h2>
+</div>
+<div aria-labelledby="collapseSix" class="panel-collapse collapse in" id="collapseSix" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<p><span style="color: rgb(255, 0, 0);">Si necesita ayuda en español, por favor llame al
+                                Departamento de Beneficios del CCSD.</span></p>
+<h2>Contact Information</h2>
+<!--                             <h2>Important Contact Information</h2> -->
+<p>
+<strong>For questions about your Medical, Dental, Vision and Life Benefits:</strong>
+</p>
+<p>
+<strong>Licensed &amp; Certified Staff</strong><br>
+                            Please call the <strong>Teachers Health Trust</strong><br>
+                            702-794-0272<br>
+                            800-432-5859<br>
+<strong>To learn more about your benefits:</strong> <a href="https://www.ththealth.org/" rel="nofollow" target="_blank">ththealth.org</a>
+</br></br></br></br></p>
+<p>
+<strong>Administrative Staff</strong><br>
+                            Please call <strong>CCASAPE</strong><br>
+                            702-796-9602<br>
+<strong>To learn more about your benefits:</strong> <a href="https://www.ccasa.net/" rel="nofollow" target="_blank">ccasa.net</a>
+</br></br></br></p>
+<p>
+<strong>Support Professionals &amp; Police Personnel </strong><br>
+                            Please call <strong>CCSD Benefits</strong><br>
+                            702-799-5418<br>
+<strong>To learn more about your benefits, click the <a href="https://ccsd.net/departments/employee-benefits/group-health-insurance" target="_blank">Group Health Insurance</a> tab above.</strong>
+</br></br></br></p>
+<p>
+                            For more information about the <strong>403(b)/457(b)</strong> options, <strong>Employee
+                                Assistance Program, Flexible Spending Account</strong> and <strong>Supplemental
+                                Voluntary Benefits,</strong> click on the <a href="https://ccsd.net/departments/employee-benefits/programs-plans" target="_blank">Programs/Plans</a> or <a href="https://ccsd.net/departments/employee-benefits/payroll-deductions" target="_blank">Payroll Deductions</a> tabs above.</p>
+<p>
+<strong>For additional assistance, please contact:</strong>
+</p>
+<p>
+<strong>CCSD Benefits</strong><br>
+                            2832 E. Flamingo<br>
+                            Las Vegas, NV 89121<br>
+                            Phone: 702-799-5418<br>
+                            Fax: 702-799-2918
+                        </br></br></br></br></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>

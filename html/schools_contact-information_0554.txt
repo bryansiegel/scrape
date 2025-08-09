@@ -1,0 +1,51 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- MAIN CONTENT -->
+<div id="main_content">
+<section class="content-holder">
+<h1>School Contact Information</h1>
+<div>
+<div class="addr-txt">
+<h2 style="color: #444;font-size: 21px;line-height: 27px;margin: 20px 0 10px">
+                CHAPARRAL HS<br/>
+</h2>
+<!-- 		Principal:  -->
+<p>Principal:  Cummings, Kristal N<br>
+<!-- 		Principal:  -->
+<!--         <a href="/schools/contact-information/">Link to this page</a> -->
+<!-- 								$principle = $match['TXTADMINISTRATOR']; -->
+<!-- 								Cummings, Kristal N --><!-- <br> -->
+                                3850 ANNIE OAKLEY DRIVE<br>
+                                LAS VEGAS, NV 89121<br>
+                                Phone: 702-799-7580<br/>
+                                Fax: 702-799-0776<br/>
+<a href="http://maps.google.com/maps?q=3850 ANNIE OAKLEY DRIVE,+LAS VEGAS,+NV+89121">Map</a>
+                                 | <a href="http://www.chaparrallasvegas.com/">Website</a> </br></br></br></p>
+<b>Region:</b> 2                                                             <p><b>Motto:</b> <strong>C</strong>ourage-<strong>H</strong>armony-<strong>A</strong>mbition-<strong>P</strong>ride</p> <p><b>Mission:</b> <strong>EMPOWERING</strong> students within an environment of <strong>RIGOR</strong>, <strong>RELEVANCE RELATIONSHIPS</strong>, and <strong>RESPONSIBILITY</strong>.</p>
+</div>
+</div>
+</section>
+</div><!-- /main_content -->
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

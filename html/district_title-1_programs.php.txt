@@ -1,0 +1,167 @@
+<div class="content-wrap" id="content_wrap">
+<div class="aux-nav-wrap sticky-top" style="width:955px;">
+<div align="center" id="aux_nav_choice" style="width:955px;background: #1771b7;margin-left: auto;margin-right: auto;align-content: center;">
+<a class="page-link" data-page="#collapseOne" href="https://ccsd.net/district/title-1/index.php#Support" id="myID Support" style="width: auto;padding-left: 15px;margin-left: 5px;">School-Based Support</a> 
+
+			<a class="page-link" data-page="#collapseTwo" href="https://ccsd.net/district/title-1/index.php#Childhood" id="myID" style="width: auto;padding-left: 15px;">Early Childhood Programs</a> 
+			<div class="dropdown2">
+<a class="dropbtn page-link" data-page="#collapseThree" href="https://ccsd.net/district/title-1/index.php#HOPE" id="myID" style="width: auto;padding-bottom: 10px;padding-left: 15px;">HOPE: Homeless Outreach Program for Education</a> 
+			    <div class="dropdown-content" style="width:560px;">
+<ul id="myID" style="list-style-type: none;">
+<li><a href="https://ccsd.net/district/title-1/faq.php">FAQs</a></li>
+<li><a href="https://ccsd.net/district/title-1/services.php">Services and Supports</a></li>
+<li><a href="https://ccsd.net/district/title-1/resources.php">Resources</a></li>
+<li><a href="https://ccsd.net/district/title-1/law.php">Law</a></li>
+</ul>
+</div>
+</div>
+<div class="dropdown2">
+<a class="dropbtn page-link" data-page="#collapseFour" href="https://ccsd.net/district/title-1/index.php#Family" id="myID" style="width: auto;padding-bottom: 10px;padding-left: 15px;">Family Engagement</a> 
+			    <div class="dropdown-content" style="width:560px;margin-left: -100px;">
+<ul id="myID" style="list-style-type: none;">
+<li><a href="https://ccsd.net/district/title-1/policies.php">Policies</a></li>
+<li><a href="https://engage.ccsd.net/family/" target="_blank">Family Engagement</a></li>
+<li><a href="https://ccsd.net/district/title-1/family-center.php">Family Centers</a></li>
+</ul>
+</div>
+</div>
+<a class="page-link" data-page="#collapseFive" href="https://ccsd.net/district/title-1/programs.php" id="myID Support" style="width: auto;padding-left: 15px;margin-left: 0px;">Extension Programs</a> 
+			
+	</div>
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- 				<section class="content-holder"> -->
+</main></div>
+<div class="container">
+<h1 class="content-holder">Resources</h1>
+<div class="container1" id="page_container">
+<div aria-multiselectable="true" class="panel-group" id="accordion" role="tablist">
+<div class="panel panel-primary" id="collapseOne_container">
+<div class="panel-heading" id="headingOne myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseOne" aria-expanded="false" data-parent="#accordion" data-toggle="collapse" href="#collapseOne" role="button">
+							Charter School Services			
+							</a>
+</h2>
+</div>
+<div aria-labelledby="headingOne" class="panel-collapse collapse in" id="collapseOne" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<p>District-sponsored charter schools are also eligible for Title I funding.  Their poverty level is determined using their free and reduced lunch percentage or a comparable measure.  The charter schools receiving Title I funding are considered part of the LEA.  The statute requires that their teachers and paraprofessional meet the “highly qualified” standards as public school personnel.  The District is responsible for ensuring that the charter school complies with the content of its charter and certain fiscal and operational requirements.</p>
+<p>In general, the accountability requirement applies to charter schools in the same way they apply to regular public schools or LEAs:</p>
+<ul style="list-style: disc;">
+<li>Participate in the state assessment system;</li>
+<li>Be compared to the state-developed measure of achievement;</li>
+<li>If they are Title I schools that fail to meet the state-developed measure of achievement, be identified for focus or priority schools status.</li>
+</ul>
+<p><strong>Charter Schools Contact</strong><br/>
+						Coordinator – Amy Cartwright<br/>
+						799-3850, ext. 5063 – WAN 0671-5063</p>
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseTwo_Container">
+<div class="panel-heading" id="headingTwo myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseTwo" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseTwo" role="button">
+	                    Migrant Services
+	                    </a>
+</h2>
+</div>
+<div aria-labelledby="headingTwo" class="panel-collapse collapse in" id="collapseTwo" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<p>This program assists students whose parent(s) is/are a migratory agricultural or fishing industry worker who has, in the preceding 36 months, moved from one school district to another to obtain temporary or seasonal employment in agricultural or fishing related work.  Clark County School District has a limited migratory population predominantly in Virgin Valley.  These students are served through ancillary services supported by a Title I Coordinator.  Home visits are made to the homes of Pre-K migrant children to work with both the parent and the child.</p>
+<p><strong>Program Contact</strong><br/>
+						Coordinator – Amy Cartwright<br/>
+						799-3850, ext. 5063 – WAN 0671-5063</p>
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseThree_Container">
+<div class="panel-heading" id="headingThree myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseThree" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseThree" role="button">
+	                    Neglected and Delinquent Services
+	                    </a>
+</h2>
+</div>
+<div aria-labelledby="headingThree" class="panel-collapse collapse in" id="collapseThree" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<p>Title I provides assistance to improve educational opportunities to neglected and delinquent students in local and state institutions. This program specifically offers students assistance in making the transition from the institution to the school and provides a support system to help prevent them from dropping out of school. The focus is on giving supplementary educational assistance to children in Juvenile Court Schools and Spring Mountain Youth Camp.</p>
+<p>A bilingual transitional assistant works with the State of Nevada Juvenile Probation Department to facilitate the timely re-enrollment in school of students returning from correctional facilities in Caliente and Elko. This position provides follow-up for parents, schools, and students.</p>
+<p><strong>Program Contact</strong><br/>
+						Coordinator – Amy Cartwright<br/>
+						799-3850, ext. 5063 – WAN 0671-5063</p>
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseFour_Container">
+<div class="panel-heading" id="headingFour myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseFour" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseFour" role="button">
+	                   Private School Supplemental Services
+	                    </a>
+</h2>
+</div>
+<div aria-labelledby="headingFour" class="panel-collapse collapse in" id="collapseFour" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<p>ESEA requires that local education agencies (LEAs) provide eligible private school children with Title I benefits that address their needs, on an equitable basis and in a timely manner.  Eligible students in private schools are provided the opportunity to participate in tutoring activities.  Private schools are also provided with the Title I parental involvement and professional development activities required by ESEA.</p>
+<p>Appropriate consultation with private school officials is key to ensuring that the LEA’s program for equitable participation is a success.  Consultation must be timely and meaningful.  To be meaningful, the LEA must genuinely consider the comments of the private school.  In the end, however, the LEA makes the final decisions with respect to the Title I services that are provided to eligible private school students.</p>
+<p>The LEA must annually contact private school officials and make an offer of services.  Additionally, the LEA must issue an invitation to a meeting at which public school officials explain the program and provide private school representatives with an opportunity to ask questions about how their students may participate.</p>
+<p>A bilingual transitional assistant works with the State of Nevada Juvenile Probation Department to facilitate the timely re-enrollment in school of students returning from correctional facilities in Caliente and Elko. This position provides follow-up for parents, schools, and students.</p>
+<p><strong>Program Contact</strong><br/>
+						Coordinator – Amy Cartwright<br/>
+						799-3850, ext. 5063 – WAN 0671-5063</p>
+<!--
+School-Based Health Centers
+
+School based health centers are free for children 0-18 who are not covered by insurance.
+-->
+</div>
+</div>
+</div>
+</div>
+<div class="panel panel-primary" id="collapseFive_Container">
+<div class="panel-heading" id="headingFive myID" role="tab">
+<h2 class="panel-title">
+<a aria-controls="collapseFive" aria-expanded="false" class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#collapseFive" role="button">
+	                   Special Projects
+	                    </a>
+</h2>
+</div>
+<div aria-labelledby="headingFive" class="panel-collapse collapse in" id="collapseFive" role="tabpanel">
+<div class="panel-body">
+<div class="panel-body">
+<p>Special projects focus on District initiatives that have been approved by the superintendent and deputy superintendent.  Projects vary in the funding level as well as the depth of involvement. Various departments within the District, such as Curriculum and Professional Development, Technical and Information Systems Services Division, Turnaround Zone, Priority and Focus Schools, Zoom Schools, and ELL, have received Title I funds.  These funds must be utilized to support the students and staff in Title I schools.</p>
+<p>A bilingual transitional assistant works with the State of Nevada Juvenile Probation Department to facilitate the timely re-enrollment in school of students returning from correctional facilities in Caliente and Elko. This position provides follow-up for parents, schools, and students.</p>
+<p><strong>Program Contact</strong><br/>
+						Coordinator – CJ Miller <br/>
+						799-3850, ext. 5017 – WAN 0671-5017</p>
+						
+						Secretary – Joe Blaum <br/>
+						799-3850, ext. 5015 – WAN 0671-5015
+</div>
+</div>
+</div>
+</div>
+</div>
+ <!-- /main_content_wrap -->
+</div> <!-- /content-wrap -->
+<!-- 	Popups -->
+<!--
+	     <div class="popup" id="popup">
+            <div class="popup-inner">
+                <div class="popup__photo">
+                    <img class="image" src="images/Habits-of-Learning.png" >
+                </div>
+                 <a class="popup__close" href="#">X</a>
+            </div>
+        </div>
+-->
+</div>
+</div>

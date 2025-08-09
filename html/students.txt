@@ -1,0 +1,88 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<section class="content-holder">
+<h1>Student General Information</h1>
+<a name="student"></a>
+<h2>Student Information</h2>
+<ul>
+<!-- <li><a href="/students/graduation-schedule.php">2022 Graduation Schedule</a></li> -->
+<li><a href="https://sites.google.com/nv.ccsd.net/ccsdstudentactivities/home">Student Activities</a></li>
+<!-- 							<li><a href="/students/exam-information/">Exam Information</a></li> -->
+<!-- 							<li><a href="/students/school-reunion-information/">School Reunion Info</a></li> -->
+<li><a href="http://transcripts.ccsd.net">Transcript Request</a></li>
+<li><a href="/community/protect-our-kids">Protect Our Kids</a></li>
+</ul>
+<a name="school"></a>
+<h2>School Information</h2>
+<ul>
+<li><a href="/schools/contact-information/">Search for a school</a></li>
+<li><a href="/schools/websites/">List of school websites</a></li>
+<li><a href="/schools/zoning/">Zoning search and maps</a></li>
+</ul>
+<a name="curriculum"></a>
+<h2>Curriculum Overviews</h2>
+<ul>
+<li><a href="/students/resources/pdf/curriculum/CCSDCurriculumOverview_2025–2026_Pre-Kindergarten–Grade5_English.pdf" target="_blank">Curriculum Overview, Grades Pre-Kindergarten-5, ENGLISH</a></li>
+<li><a href="/students/resources/pdf/curriculum/CCSDCurriculumOverview_2025–2026_Pre-Kindergarten–Grade5_Spanish.pdf" target="_blank">Curriculum Overview, Grades Pre-Kindergarten-5, SPANISH</a></li>
+<li><a href="/students/resources/pdf/curriculum/CCSDCurriculumOverview_2025–2026_Grades6–8_English.pdf" target="_blank">Curriculum Overview, Grades 6-8 ENGLISH</a></li>
+<li><a href="/students/resources/pdf/curriculum/CCSDCurriculumOverview_2025–2026_Grades6–8_Spanish.pdf" target="_blank">Curriculum Overview, Grades 6-8 SPANISH</a></li>
+<li><a href="/students/resources/pdf/curriculum/CCSDCurriculumOverview_2025–2026_Grades9–12_English.pdf" target="_blank">Curriculum Overview, Grades 9-12 ENGLISH</a></li>
+<li><a href="/students/resources/pdf/curriculum/CCSDCurriculumOverview_2025–2026_Grades9–12_Spanish.pdf" target="_blank">Curriculum Overview, Grades 9-12 SPANISH</a></li>
+</ul>
+<!-- 					<h2>Student Opportunities</h2>
+					
+						<ul>
+							<li><a href="/community/partnership/programs/paybac/paybac-index/">PAYBAC Program</a></li>
+							<li><a href="http://www.thepef.org/programs_scholarships.html" target="_blank">Scholarships</a></li>
+							<li><a href="http://www.thepef.org/programs_main.html" target="_blank">Programs and Initiatives</a></li>
+							<li><a href="http://www.thepef.org/programs_grants.html" target="_blank">Grant Programs</a></li>
+							<li><a href="http://www.nevadayouth.org" target="_blank">Youth Employment Services</a></li>
+						</ul> -->
+<a name="bully"></a>
+<h2>Report a Bully</h2>
+<ul>
+<li><a href="/students/bully/">Say No To Bullying</a></li>
+</ul>
+<a name="info"></a>
+<h2>Additional Information</h2>
+<ul>
+<!-- 						<li><a href="http://tv.ccsd.net/" target="_blank">CCSDTV</a></li> -->
+<!-- 						<li><a href="http://my.ccsd.net/" target="_blank">my.ccsd.net</a></li> -->
+<li><a href="/district/info/non-discrimination/">Notice of Nondiscrimination</a></li>
+<!-- 						<li><a href="http://vegaspbs.org/index.aspx?NID=257">Homework Hotline</a></li> -->
+<!-- 						<li><a href="/students/sex-ed-info.php">Sex Education Curriculum Info</a></li> -->
+<li><a href="/employees/canvas/">Canvas LMS</a></li>
+</ul>
+</section>
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+				<div class="sidebar-banner">
+					<div><img src="/_static/images/icons/circle-question.png" alt="Question Mark" class="sidebar-icon"></div>
+					<div class="sidebar-question">Have A Question?</div>
+					<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+					<div class="sidebar-contact">Contact us at</div>
+					<div class="sidebar-phone">702-799-CCSD</div>
+				</div>
+-->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

@@ -1,0 +1,25 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<!-- <h1> Comprehensive Annual Financial Report</h1> -->
+<h1> Annual Comprehensive Financial Report</h1>
+<!-- Descriptive text goes here -->
+<!-- <p>List of reports.</p> -->
+<hr/>
+<p>
+<h2>Yearly Reports</h2>
+<!--<a href="/departments/accounting-department/cafr?y=2024">2024Annual Comprehensive Financial Report</a><br> -->
+<a href="/departments/accounting-department/annual-comprehensive-financial-report?y=2024">2024 Annual Comprehensive Financial Report</a><br/>
+</p>
+<!--<a href="/departments/accounting-department/cafr?y=2023">2023Annual Comprehensive Financial Report</a><br> -->
+<a href="/departments/accounting-department/annual-comprehensive-financial-report?y=2023">2023 Annual Comprehensive Financial Report</a><br/>
+
+<!--<a href="/departments/accounting-department/cafr?y=2022">2022Annual Comprehensive Financial Report</a><br> -->
+<a href="/departments/accounting-department/annual-comprehensive-financial-report?y=2022">2022 Annual Comprehensive Financial Report</a><br/>
+
+<!--<a href="/departments/accounting-department/cafr?y=2021">2021Annual Comprehensive Financial Report</a><br> -->
+<a href="/departments/accounting-department/annual-comprehensive-financial-report?y=2021">2021 Annual Comprehensive Financial Report</a><br/>
+
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

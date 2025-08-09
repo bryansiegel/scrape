@@ -1,0 +1,113 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Office of Homeschool</h1>
+<p class="addr-txt">
+	4204 Channel 10 Drive<br>
+	Las Vegas, NV 89119</br></p>
+<hr/>
+<h4>
+	Kuldip Mangat, Coordinator</h4>
+<p>
+	A student may be excused from compulsory attendance at a public school when written evidence (Parent’s/Guardian’s Guide to Homeschool and the State of Nevada Notice of Intent to Homeschool form) is provided to the Clark County School District (District) that a student will receive equivalent instruction. Upon receipt of the Parent’s/Guardian’s Guide to Homeschool and the State of Nevada Notice of Intent to Homeschool form and the student's educational plan, the District will provide a receipt to the student's parent/guardian.</p>
+<p>
+	For more information about Nevada homeschool law, refer to <a href="http://leg.state.nv.us/NRS/NRS-392.html#NRS392Sec070" target="_blank">Nevada Revised Statues NRS 392.070</a>.</p>
+<table class="simple-table" width="100%">
+<tbody>
+<tr>
+<td align="center" width="100%">
+<a href="/resources/education-services-division/Parent_Guide_to_Homeschool.pdf" target="_blank">Parent’s/Guardian’s Guide to Homeschool and the State of Nevada Notice of Intent to Homeschool form</a></td>
+</tr>
+</tbody>
+</table>
+<hr/>
+<h4>
+	Email: <br>
+<a href="mailto:CCSDHomeschool@nv.ccsd.net">CCSDHomeschool@nv.ccsd.net</a></br></h4>
+<p>
+<em>Parent’s/Guardian’s Guide to Homeschool and the State of Nevada Notice of Intent to Homeschool</em> form and the student's educational plan must be submitted to your zoned school or via email: <a href="mailto:CCSDHomeschool@nv.ccsd.net">CCSDHomeschool@nv.ccsd.net</a>. Once the <em>Parent’s/Guardian’s Guide to Homeschool and the State of Nevada Notice of Intent to Homeschool</em> form have been processed, the Clark County School District (District) will send the receipt to the parent/guardian listed mailing address via U.S. mail or via email.</p>
+<p>
+	For assistance, call 702-799-8630.    </p>
+<p>
+	Please note that the Education Services Division is the District's go-between for the required homeschool paperwork with the State of Nevada Department of Education.</p>
+<p>
+	Contact your child's zoned high school for qualifying testing dates. </p>
+<hr/>
+<h3>
+	Forms</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/file/d/1EDHWH95epECFddCU6Uml4RD-VW8W4RJy/view" target="_blank">State of Nevada Notice of Intent to Homeschool</a></li>
+<li>
+<a href="https://drive.google.com/file/d/1VF_n3dNeSoKLZnjhzXQCQG3nfk5IpujV/view" target="_blank">Parent’s/Guardian’s Guide to Homeschool</a></li>
+<li>
+<a href="https://drive.google.com/file/d/1OZc7jfAtLKzJ8V2jgWdYNVeTzLY_vIEJ/view" target="_blank">Parent’s/Guardian’s Guide to Homeschool (Spanish)</a></li>
+<li>
+<a href="https://ccsd.net/resources/education-services-division/notice-of-intent-to-participate.pdf" target="_blank">State of Nevada Notice of Intent of Homeschooled Child to Participate in Programs and Activities</a></li>
+</ul>
+<h3>
+	Helpful Links and Resources</h3>
+<ul>
+<li>
+<a href="https://doe.nv.gov/craleo/nevada-homeschooling" target="_blank">Nevada Department of Education — Homeschooling</a></li>
+<li>
+<a href="https://ccsd.net/divisions/education-services-division/homeschool" target="_blank">District — Homeschool Information</a></li>
+<li>
+<a href="https://www.leg.state.nv.us/NAC/NAC-389.html#NAC389Sec680" target="_blank">Nevada Administrative Code (NAC) 389.680 Credits for Correspondence Courses</a></li>
+<li>
+<a href="https://nevadahomeschoolnetwork.com/navigation/contact-us/" target="_blank">Nevada Homeschool Organization Website</a></li>
+<li>
+<a href="https://doe.nv.gov/offices/office-of-teaching-and-learning/world-language/academic-content-standards" target="_blank">Nevada Department of Education's Academic Standards</a></li>
+</ul>
+<p>
+	Upon returning to the District, please note the following regulations and state laws regarding grade-level placement:</p>
+<ul>
+<li>
+		District <a href="https://ccsd.net/district/policies-regulations/pdf/5123_R.pdf" target="_blank">Regulation 5123</a> outlines the requirements for promotion, retention, and demotion of students, including credit requirements and criteria for promotion to high school on academic probation.</li>
+<li>
+		District <a href="https://ccsd.net/district/policies-regulations/notices/r-5111-age-of-entrance-an.pdf" target="_blank">Regulation 5111</a> requires students "shall be placed in the age-appropriate grade based upon their age as of August 1, unless retained or demoted in accordance with District policies and regulations. Age-appropriate grade is determined by the ages provided in NRS 392.040.”</li>
+</ul>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

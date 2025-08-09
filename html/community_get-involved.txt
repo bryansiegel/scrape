@@ -1,0 +1,82 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>Get Involved</h1>
+<p><img alt="get-involved" class="portrait float-right" height="214" src="images/get-involved.jpg" width="300">
+                    Each person holds the power to make a positive impact on Clark County's 316,000 students.</img></p>
+<p>By getting involved, you can help build our workforce and improve our economy. You can also make the difference in the life of a child!</p>
+<p>First, take the Pledge of Achievement to learn more about the District's strategic vision and find out how you can help. </p>
+<p>Help a student to graduate by mentoring him or her. We need community mentors who are willing to give a student one hour a week.</p>
+<p>Our School-Community Partnership program teams with schools, businesses, community organizations and parents to <a href="https://engage.ccsd.net/partnershipopportunities/">make a difference</a> in the lives of students.</p>
+<p>Our <a href="/schools/support-a-school">Support a School</a> program allows schools to list items they need that go beyond school supplies such as paper, pencils, backpacks and tissues.</p>
+<p>The Clark County READS program asks community members to read with two students one hour a week for 12 weeks to support reading skills that are fundamental in the classroom and beyond. The program will provide an orientation, we just need your dedication and support!</p>
+<p>Teachers thrive with creative resources, and you can help in various ways through the Teacher EXCHANGE™</p>
+<p>Your voice counts. <a href="/trustees">Attend a meeting of the CCSD Board of Trustees</a>, ask about serving on a board committee or participate in your trustee's parent meetings.</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/@CCSDPartnership" width="260" height="350" data-widget-id="322426958728265728">Tweets by @CCSDPartnership</a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+</div> <!-- /sidebar-wrap -->
+</div>

@@ -1,0 +1,38 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1 style="color:black; text-align:left; font-size:28px;">
+	Nutrition Standards for School Meals</h1>
+<p>
+	Federal, State and Local Standards have been set that govern what food may be provided to students during school hours.</p>
+<h3>
+	FEDERAL STANDARDS</h3>
+<p>
+<strong>Healthy, Hunger-Free Kids Act of 2010</strong>, the United States Department of Agriculture (USDA) updated the nutrition standards for reimbursable school meals and established nutrition standards for all other foods served outside the school meals program at any time during the school day.</p>
+<p>
+<a href="https://tinyurl.com/y6q3fqb2">Healthy, Hunger-Free Kids Act of 2010 Fact Sheet</a></p>
+<p>
+	 </p>
+<h3>
+	STATE STANDARDS</h3>
+<p>
+	Each School district that participates in the National School Lunch Program, National School Breakfast Program, Supper Meals, or Summer Meal Service is required by federal law to establish a local school wellness policy for all schools under its jurisdiction. A local school wellness policy is a written document of official policies that guide the school district’s efforts to establish a school environment that promotes students’ health, well-being, and ability to learn by supporting healthy eating and physical activity.</p>
+<p>
+<a href="https://tinyurl.com/y5syn9ov">The State of Nevada Wellness Policy</a></p>
+<p>
+	 </p>
+<h3>
+	DISTRICT WELLNESS POLICY</h3>
+<p>
+	CCSD Regulation -5157 reinforces the above local standards and further highlights the areas of smart snacks generated revenue, special occasions, reimbursable meals and exempt areas.</p>
+<p>
+<a href="https://tinyurl.com/yx9zbj2u">Clark County School District Wellness Regulation (R-5157)</a></p>
+<p>
+<a href="/resources/food-service/5157r-s.pdf">Clark County School District Wellness Regulation (R-5157) Spanish</a></p>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

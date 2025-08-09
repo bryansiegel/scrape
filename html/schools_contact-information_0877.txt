@@ -1,0 +1,51 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- MAIN CONTENT -->
+<div id="main_content">
+<section class="content-holder">
+<h1>School Contact Information</h1>
+<div>
+<div class="addr-txt">
+<h2 style="color: #444;font-size: 21px;line-height: 27px;margin: 20px 0 10px">
+                BURK HORIZON / SOUTHWEST SUNSET HS<br/>
+</h2>
+<!-- 		Principal:  -->
+<p>Principal:  Davis, Chancellor R<br>
+<!-- 		Principal:  -->
+<!--         <a href="/schools/contact-information/">Link to this page</a> -->
+<!-- 								$principle = $match['TXTADMINISTRATOR']; -->
+<!-- 								Davis, Chancellor R --><!-- <br> -->
+                                4560 WEST HARMON AVENUE<br>
+                                LAS VEGAS, NV 89103<br>
+                                Phone: 702-799-8150<br/>
+                                Fax: 702-799-1207<br/>
+<a href="http://maps.google.com/maps?q=4560 WEST HARMON AVENUE,+LAS VEGAS,+NV+89103">Map</a>
+                                 | <a href="https://www.burkhs.org/">Website</a> </br></br></br></p>
+<b>Region:</b> ESD                                                             <p><b>Motto:</b> <strong>B</strong>uilding <strong>U</strong>p <strong>R</strong>elevant <strong>K</strong>nowledge.</p> <p><b>Mission:</b> The mission of Burk High School is to empower students to graduate and plan for positive life options.</p>
+</div>
+</div>
+</section>
+</div><!-- /main_content -->
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

@@ -1,0 +1,64 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<!-- MAIN CONTENT -->
+<div id="main_content">
+<section class="content-holder">
+<h1>Schools General Information</h1>
+<h2>Zoning Information</h2>
+<ul>
+<li><a href="/schools/zoning/">Zoning Search and Maps</a></li>
+</ul>
+<hr/>
+<h2>School Contact Information</h2>
+<ul>
+<li><a href="/schools/contact-information/">Search for a School</a></li>
+<li><a href="/schools/websites/">List of School Websites</a></li>
+<li><a href="/district/directory/resources/pdf/school-telephone-directory.pdf">School Telephone Directory (PDF)</a></li>
+<li><a href="/schools/magnet-cta/">Magnet Schools and Career &amp; Technical Academies</a></li>
+<!-- 							<li><a href="/schools/summer-school/">Summer School Information</a></li> -->
+</ul>
+<hr/>
+<h2>School Accountability Reports</h2>
+<p><a href="/schools/accountability-reports">School Accountability Reports</a> contain detailed information about schools in the Clark County School District, as well as charter schools. Annual reports are prepared in compliance with the federal No Child Left Behind Act (NCLB) and Nevada Revised Statute (NRS) 385. Accountability reports are used by teachers and administrators as they develop academic plans to increase achievement of all students.</p>
+<hr/>
+<h2>Firearms Confiscation Report</h2>
+<ul>
+<li><a href="https://ccsd.net/schools/firearms-confiscation-report/">Firearms Confiscation Report</a></li>
+</ul>
+<hr/>
+<h2>School Performance Plans</h2>
+<p><a href="https://drive.google.com/drive/folders/1v2I_SvexstJk2AGA3THUyvqoB7a0W4Ol">School Performance Plans</a> contain detailed information about schools in the Clark County School District, as well as charter schools. Plans are prepared in compliance with the Nevada Revised Statutes (NRS) 385A.650, 388G.700, and 388G.710. School Performance Plans identify goals and improvement strategies, along with detailed action steps designed to increase the achievement of all students.</p>
+<!--
+					<hr />
+					<h2>District School Improvement Plans</h2>
+						<ul>
+							<li><a href="/schools/pdf/acc_pdfs_2010/CCSD_2010-2013_YEAR_1_DIP.pdf" class="pdflink">2010 - 2011 District Improvement and AMAO Plan (PDF)</a></li>
+						</ul>
+-->
+</section>
+<!-- <div id="school_videos" class="ccsdtv-api" data-label="School Videos" data-tags="schools"></div>-->
+</div><!-- /main_content -->
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--?php include($home---><!-- inc['trending']); ?>-->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

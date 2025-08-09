@@ -1,0 +1,21 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h2>
+	Mission Statement</h2>
+<p>
+	Our mission is to independently evaluate the effectiveness of the District's activities and provide consulting services designed to add value and improve the District's operations.</p>
+<hr/>
+<h2>
+	Internal Audit Department Charter</h2>
+<p>
+	Clark County School District Regulation 3420 establishes the purpose of the department, the authority under which it operates, and the responsibilities of the department.</p>
+<p>
+	All internal audits are conducted and reported on in accordance with the Institute of Internal Auditors Code of Ethics and the International Standards for the Professional Practice of Internal Auditing.</p>
+<p>
+<a href="/district/policies-regulations/pdf/3420_R.pdf">CCSD Regulation 3420</a></p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

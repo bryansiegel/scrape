@@ -1,0 +1,145 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Doing Business with CCSD</h1>
+<p>
+	Clark County School District encourages and promotes all suppliers in doing business with CCSD.</p>
+<p>
+	District contracting and purchasing activities are divided up as follows:</p>
+<h2>
+	Public Works</h2>
+<p>
+	Capital Program Office<br>
+	1180 Military Tribute Place<br>
+	Henderson, NV 89074<br/>
+	(702) 799-8710</br></br></p>
+<h2>
+	Goods, Commodities, and Non-Construction Services</h2>
+<p>
+	Purchasing &amp; Warehousing Department<br/>
+	4212 Eucalyptus Avenue<br/>
+	Las Vegas, NV 89121<br/>
+	(702) 799-5225<br/>
+	(702) 799-5504 fax</p>
+<p>
+	The Purchasing Department does not pre-qualify suppliers nor maintain a bidders' list. The bidders' list is maintained by the on-line hosting system at <a href="http://www.demandstar.com/" target="_blank">www.demandstar.com</a>. Download and submittal opportunities for competitive efforts can be found at <a href="https://ccsd.bonfirehub.com">https://ccsd.bonfirehub.com</a>. All formal competitive efforts are advertised in the classified section of the Review-Journal.</p>
+<h2>
+	General Bidding Information</h2>
+<p>
+<a href="/resources/purchasing-warehousing/food-sv-rfp-t-cs-pur-rfp-002-1-2-24.pdf" target="_blank">Food Service RFP General Terms and Conditions</a><br/>
+<a href="/resources/purchasing-warehousing/ifb-t-cs-pur-bid-002-1-2-24.pdf" target="_blank">Invitation for Bid Terms and Conditions</a><br/>
+<a href="/resources/purchasing-warehousing/textbook-rfp-tcs-pur-rfp-003-1-2-24.pdf" target="_blank">Textbook RFP General Terms and Conditions</a><br/>
+<a href="/resources/purchasing-warehousing/expense-guidelines-for-consulting.pdf" target="_blank">Expense Guidelines for Consulting</a><br/>
+<a href="/resources/purchasing-warehousing/general-conditions-for-on-site-services.pdf" target="_blank">General Conditions for On-Site Services</a><br/>
+<a href="/resources/purchasing-warehousing/professional-services-agreement.pdf" target="_blank">Professional Services Agreement Template</a><br/>
+<a href="/resources/purchasing-warehousing/po-terms-and-conditions-12-30-22.pdf" target="_blank">PO Terms and Conditions</a></p>
+<h2>
+	Applicable Statutes, Policies and Regulations</h2>
+<p>
+<a href="http://www.leg.state.nv.us/NRS/NRS-332.html" target="_blank">NRS 332</a><br/>
+<a href="/district/policies-regulations/pdf/3310_R.pdf" target="_blank">CCSD Regulation 3310</a><br/>
+<a href="/district/policies-regulations/pdf/3311_R.pdf" target="_blank">CCSD Regulation 3311</a><br/>
+<a href="/district/policies-regulations/pdf/3312_R.pdf" target="_blank">CCSD Regulation 3312</a><br/>
+<a href="/district/policies-regulations/pdf/3313_R.pdf" target="_blank">CCSD Regulation 3313</a><br/>
+<a href="/district/policies-regulations/pdf/3314_R.pdf" target="_blank">CCSD Regulation 3314</a><br/>
+<a href="/district/policies-regulations/pdf/3315_R.pdf" target="_blank">CCSD Regulation 3315</a><br/>
+<a href="/district/policies-regulations/pdf/3316_R.pdf" target="_blank">CCSD Regulation 3316</a></p>
+<h3>
+	Public Works</h3>
+<p>
+<a href="http://www.leg.state.nv.us/NRS/NRS-338.html" target="_blank">NRS 338</a><br/>
+<a href="/district/policies-regulations/pdf/7210_P.pdf" target="_blank">CCSD Policy 7210</a><br/>
+<a href="/district/policies-regulations/pdf/7210_R.pdf" target="_blank">CCSD Regulation 7210</a></p>
+<h3>
+	Architects and Engineering Services</h3>
+<p>
+<a href="/district/policies-regulations/pdf/7211_R.pdf" target="_blank">CCSD Regulation 7211</a></p>
+<h3>
+	Professional Services and Out-of-District Consultants</h3>
+<p>
+<a href="/district/policies-regulations/pdf/2310_R.pdf" target="_blank">CCSD Regulation 2310</a></p>
+<h3>
+	Supplier Application Documents</h3>
+<p>
+<a href="/resources/purchasing-warehousing/supplier-application-update-form-4-2025.pdf" target="_blank">Supplier Application / Update form</a><br/>
+<a href="/resources/purchasing-warehousing/public-disclosure-form3-15-11-fill.pdf" target="_blank">Public Disclosure form</a><br/>
+<a href="/resources/purchasing-warehousing/supplier-federal-2cfr200-certification-form-10.20.23.pdf" target="_blank">Supplier Federal Certification form</a><br/>
+<a href="/resources/purchasing-warehousing/w9-2024.pdf" target="_blank">W-9</a><br/>
+<a href="/resources/purchasing-warehousing/supplier-contact-list-designation-form-09-2022.pdf" target="_blank">Supplier Contact List Designation Form</a></p>
+<p>
+	 </p>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>Supplier Information
+<ul>
+<li><a href="http://www.demandstar.com/supplier/bids/agency_inc/bid_list.asp?f= search&amp;mi=137966" target="_blank">Current
+Bid/RFP Opportunities</a></li>
+<li><a href="/departments/purchasing-warehousing/doing-business-with-ccsd">Doing Business with CCSD</a></li>
+<li><a href="/resources/purchasing-warehousing/5941.2-outreach-brochure-5-4-2022-220510.pdf">How
+To Do Business With The District</a></li>
+</ul>
+
+Community Information
+<ul>
+<li><a href="https://ccsd.net/departments/purchasing-warehousing/surplus-available-to-the-public-for-sale">Surplus Available to the Public for Sale</a></li>
+<li><a href="/departments/purchasing-warehousing/employee-purchase-options">Employee Purchase Options</a></li>
+</ul>
+
+Catalogs
+<ul>
+<li><a href="https://prd-wd.ccsd.net:8120/sap/bc/webdynpro/sap/zsrmtextbook_catalog?sap-client=400#" target="_blank">Adopted Textbook Catalog - Display-Only</a></li>
+<li><a href="/departments/purchasing-warehousing/adopted-textbook-buy-guides">Adopted Textbook Buy Guides</a></li>
+<li><a href="https://erp-portal.ccsd.net/irj/go/km/docs/documents/Public%20Documents/Purchasing/Generalcatalogprod.html">Shopping Cart Catalog - General - Display-Only</a></li>
+<li><a href="https://erp-portal.ccsd.net/irj/go/km/docs/documents/Public%20Documents/Purchasing/custodialcatalogprod.html">Shopping Cart Catalog - Custodial Services - Display-Only</a></li>
+<li><a href="https://erp-portal.ccsd.net/irj/go/km/docs/documents/Public%20Documents/Purchasing/maintenancecatalogprod.html">Shopping Cart Catalog - Maintenance - Display-Only</a></li>
+<li><a href="/resources/purchasing-warehousing/purchasing-website-directory.pdf">Purchasing Dept. Directory</a></li>
+</ul>
+
+Warehouse Pickup or Transfer
+<ul>
+<li><a href="https://prd-wd.ccsd.net:8121/sap/bc/webdynpro/sap/zmm_ship1_req?sap-client=400#" target="_blank">SHIPPING-1</a></li>
+<li><a href="/resources/purchasing-warehousing/how-to-use-the-shipping-1-form.pdf">How to Use SHIPPING-1 Form</a></li>
+</ul></section><section class="dept-list-wrap"><h2 class="section-title-lined">Departments</h2><ul class="dept-list"><li><a href="/district/directory/maintenance-purchasing">Maintenance Purchasing</a></li><li><a href="/district/directory/warehouse-i">Warehouse I</a></li><li><a href="/district/directory/warehouse-ii">Warehouse II</a></li></ul></section><section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

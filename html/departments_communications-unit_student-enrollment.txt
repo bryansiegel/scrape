@@ -1,0 +1,59 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Student Enrollment and School Capacity</h1>
+<p>
+	Per NRS 388.890, all school districts are required to post the ratio of pupils per licensed teacher.</p>
+<p>
+<a href="/resources/government-affairs/clark-county-school-district-average-class-sizes-2025.pdf" target="_blank">2024-2025 Average Class Size Report</a></p>
+<p>
+<a href="/resources/government-affairs/clark-county-school-district-average-class-sizes-2024.pdf" target="_blank">2023-2024 Average Class Size Report</a></p>
+<p>
+<a href="/resources/government-affairs/clark-county-school-district-average-class-sizes-2023.pdf" target="_blank">2022-2023 Average Class Size Report</a></p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2><a href="https://ccsd.net/contactus/">Let's Talk</a><br/>
+<a href="https://ccsd.net/students/safevoice/">Safe Voice</a><br/>
+<a href="https://itsyourchoice.ccsd.net/">CCSD Schools of Choice</a><br/>
+<a href="https://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public">BoardDocs</a><br/></section><section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

@@ -1,0 +1,74 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Infinite Campus</h1>
+<!--<div class="lang-bar">English | <a href="parentlink-es.php">Espa&ntilde;ol</a></div>-->
+<div class="choice-box">
+<img alt="" class="img-radius" src="/_static/images/new-infinite-campus.png">
+<h2>Infinite Campus System</h2>
+<h3>CCSD Staff</h3>
+<p>If you are a CCSD employee signing into Infinite Campus to complete work related tasks.</p>
+<a class="button-blue-standard" href="http://campus.ccsd.net" tar="" target="_blank">Go to Infinite Campus system</a>
+<div class="horiz-rule-margins"></div>
+<div class="choice-box">
+<img alt="" class="img-radius2" src="/_static/images/Campus_New_2019.png"/>
+<h2>Campus Parent/Student</h2>
+<h3>Parent/Guardian or Student</h3>
+<p>If you are a Parent/Guardian or a Student signing into Infinite Campus to view grades, attendance, etc.</p>
+<a class="button-blue-standard" href="http://ccsd.net/parents/infinite-campus.php" tar="" target="_blank">Go to Campus Parent/Student</a>
+<!--
+                    <table width="100%">
+    <tbody>
+            <tr>
+                    <td width="45%">
+                            <div class="p-contain">
+                                    <p class="cntr"><b>Infinite Campus System</b></p>
+                                    <p align="left" style="padding-left: 7px;"><b>CCSD STAFF</b></p>
+                                    <p align="left">If you are a CCSD employee signing into Infinite Campus to complete work related tasks</p>
+                                    <p class="cntr">Click on the icon below</p>
+                            </div>
+                    </td>
+                    <td width="45%">
+                            <div class="p-contain">
+                                    <p class="cntr"><b>Campus Portal</b></p>
+                                    <p align="left" style="padding-left: 4px;"><b>PARENT/GUARDIAN or STUDENT</b></p>
+                                    <p align="left" >If you are a Parent/Guardian or a Student signing into Infinite Campus to view grades, attendance, etc</p>
+                                    <p class="cntr">Click on the icon below</p>
+                            </div>
+                    </td>
+            </tr>
+            <tr>
+                    <td class="cntr"><a href="http://campus.ccsd.net" target="_blank"><img src="/_static/images/new-infinite-campus.png" class="img-radius" /></a>
+                    </td>
+            
+                    <td class="cntr"><a href="http://ccsd.net/parents/infinite-campus.php" target="_blank"><img src="/_static/images/infinite-portalnew.png" class="img-radius2"/></a>
+                    </td>
+            </tr>
+    </tbody>
+</table>
+                    -->
+</div>
+</img></div></section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

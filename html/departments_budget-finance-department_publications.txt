@@ -1,0 +1,155 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Budget Publications</h1>
+<h2>
+	Comprehensive Annual Budget Report/Budget and Statistical Reports</h2>
+<p>
+<a href="http://ccsd.net/district/resources/pdf/2018-2019-Comprehensive-Annual-Budget-Report.pdf">2018-2019</a><br>
+<a href="/resources/budget-finance-department/2017-2018-comprehensive-annual-budget-report.pdf">2017-2018</a><br>
+<a href="/resources/budget-finance-department/2016-17-cabr-for-website.pdf">2016-2017</a><br/>
+<a href="/departments/budget-finance-department/comprehensive-annual-budget-report-budget-and-statistical-reports?y=2015-2016">2015-2016</a><br/>
+<a href="/departments/budget-finance-department/comprehensive-annual-budget-report-budget-and-statistical-reports?y=2014-2015">2014-2015</a><br/>
+<a href="/departments/budget-finance-department/comprehensive-annual-budget-report-budget-and-statistical-reports?y=2013-2014">2013-2014</a><br/>
+<a href="/departments/budget-finance-department/comprehensive-annual-budget-report-budget-and-statistical-reports?y=2012-2013">2012-2013</a><br/>
+	 </br></br></p>
+<h2>
+	Education Plan &amp; Budget - Quick Facts</h2>
+<p>
+<a href="/resources/budget-finance-department/2015-budget-brochure.pdf" target="_blank">2015</a><br/>
+<a href="/resources/budget-finance-department/2014-budget-brochure.pdf" target="_blank">2014</a><br/>
+<a href="/resources/budget-finance-department/2013.pdf" target="_blank">2013</a><br/>
+<a href="/resources/budget-finance-department/pdf/publications/quick-facts/2012.pdf" target="_blank">2012</a><br/>
+<a href="/resources/budget-finance-department/pdf/publications/quick-facts/2011.pdf" target="_blank">2011</a><br/>
+<a href="/resources/budget-finance-department/pdf/publications/quick-facts/2010.pdf" target="_blank">2010</a></p>
+<h2>
+	Department of Taxation Budget Summaries</h2>
+<h3>
+	2026</h3>
+<p>
+<a href="/resources/budget-finance-department/fy-2026-tentative-budget-state-forms-final.pdf">2026 Tentative Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/ccsdfiscal-year-2026-final-budget.pdf">2026 Final Budget Summary</a></p>
+<h3>
+	2025</h3>
+<p>
+<a href="/resources/budget-finance-department/fy-2025-tentative-budget-state-forms-final-4.17.2024.pdf">2025 Tentative Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/2024-2025-final-budgetstate-forms.pdf">2025 Final Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/fy-2025-amended-final-budget-state-forms-final.pdf">2025 Amended Final Budget</a></p>
+<h3>
+	2024</h3>
+<p>
+<a href="/resources/budget-finance-department/fy-2024-tentative-budget-state-forms-final-4.13.2023.pdf">2024 Tentative Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/fy-2024-final-budget-state-forms-final.pdf">2024 Final Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/fy-2024-amended-final-budget-state-forms-final.pdf">2024 Amended Final Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/resolution-to-augment-2023-2024-budget-signed.pdf">2024 Augmented Budget for Federal Projects Fund</a></p>
+<h3>
+	2023</h3>
+<p>
+<a href="/resources/budget-finance-department/fy-2023-tentative-budget-state-forms-final.pdf">2023 Tentative Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/fy-2023-final-budget-state-forms-final.pdf">2023 Final Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/fy-2023-amended-final-budget-state-forms-final-12.8.2022.pdf">2023 Amended Final Budget Summary</a></p>
+<h3>
+	2022</h3>
+<p>
+<a href="/resources/budget-finance-department/fy-2022-tentative-budget-state-formsfinal.pdf">2022 Tentative Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/ccsd-final-budget-2021-2022.pdf">2022 Final Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/ccsd-fy-2022-amended-final-budget-state-forms.pdf">2022 Amended Final Budget Summary</a></p>
+<h3>
+	2021</h3>
+<p>
+<a href="/resources/budget-finance-department/2021-tentative-budget-state-forms.pdf">2021 Tentative Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/fy-2021-final-budget-state-forms-final.pdf">2021 Final Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/ccsd-fy-2021-amended-final-budget.pdf">2021 Amended Final Budget Summary</a></p>
+<h3>
+	2020</h3>
+<p>
+<a href="/resources/budget-finance-department/ccsd-fy-19-20-tentative-budget.pdf">2020 Tentative Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/ccsd-final-budget-2019-2020-gasb-statement-no.-84-7-9-2019.pdf">2020 Final Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/2019-2020-amended-final-budget.pdf">2020 Amended Final Budget Summary</a></p>
+<h3>
+	2019</h3>
+<p>
+<a href="/resources/budget-finance-department/ccsd-2018-2019-tentative-budget.pdf">2019 Tentative Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/ccsd-2018-2019-final-budget-to-file.pdf">2019 Final Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/ccsd-2018-2019-amended-final-budget.pdf">2019 Amended Final Budget Summary</a></p>
+<h3>
+<strong>2018</strong></h3>
+<p>
+<a href="/resources/budget-finance-department/2017-2018-ccsd-tent-budget-2-website.pdf">2018 Tentative Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/website-final-budget-fy-2017-2018.pdf">2018 Final Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/ccsd-amended-final-budget-fy-2018-all-funds-signed.pdf">2018 Amended Final Budget Summary</a></p>
+<h3>
+	2017</h3>
+<p>
+<a href="/resources/budget-finance-department/tentative-fy-2017-v2-board-signature.pdf">2017 Tentative Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/final-budget-fy-2017-all-funds-6.0-signed.pdf">2017 Final Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/afb-fy-2017-all-funds-6.0-signed.pdf">2017 Amended Final Budget Summary</a></p>
+<h3>
+	2016</h3>
+<p>
+<a href="/resources/budget-finance-department/2016-tentative-budget-summary.pdf" target="_blank">2016 Tentative Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/2016-final-budget-summary.pdf" target="_blank">2016 Final Budget Summary </a><br/>
+<a href="/resources/budget-finance-department/2016-amended-final-budget-summary092915.pdf" target="_blank">2016 Amended Final Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/afb2-fy-2016-signed.pdf" target="_blank">2016 Revised Amended Final Budget Summary</a></p>
+<h3>
+	2015</h3>
+<p>
+<a href="/resources/budget-finance-department/2015-tentative-budget-summary.pdf" target="_blank">2015 Tentative Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/2015-final-budget-summary.pdf" target="_blank">2015 Final Budget Summary </a><br/>
+<a href="/resources/budget-finance-department/2015-amended-final-budget-summary.pdf" target="_blank">2015 Amended Final Budget Summary </a></p>
+<h3>
+	2014</h3>
+<p>
+<a href="/resources/budget-finance-department/2014-tentative-budget-summary.pdf" target="_blank">2014 Tentative Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/2014-final-budget-summary.pdf" target="_blank">2014 Final Budget Summary </a><br/>
+<a href="/resources/budget-finance-department/2014-amended-final-budget-summary.pdf" target="_blank">2014 Amended Final Budget Summary </a></p>
+<h3>
+	2013</h3>
+<p>
+<a href="/resources/budget-finance-department/pdf/publications/2013/2013-tentative-budget-summary.pdf" target="_blank">2013 Tentative Budget Summary</a><br/>
+<a href="/resources/budget-finance-department/pdf/publications/2013/2013-final-budget-summary.pdf" target="_blank">2013 Final Budget Summary </a><br/>
+<a href="/resources/budget-finance-department/2013-amended-final-budget-summary.pdf" target="_blank">2013 Amended Final Budget Summary</a></p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

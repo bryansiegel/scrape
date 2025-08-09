@@ -1,0 +1,30 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<!--
+		<div id="content_wrap" class="content-wrap">
+
+			<div id="main_content_wrap" class="main-content-wrap" role="main">
+				<section class="content-holder">
+-->
+<h1>Public Concern</h1>
+<h2>Public Concern Form</h2>
+<ul>
+<li><a href="resources/pdf/public-concern-form-english.pdf" target="_blank">Public Concern Form (English)</a></li>
+<li><a href="resources/pdf/public-concern-form-spanish.pdf" target="_blank">Public Concern Form (Spanish)</a></li>
+</ul>
+<br/>
+<div class="horiz-rule"></div>
+<h2>Parent Concerns</h2>
+<p>The level of collaboration between families and educators is an important predictor of student academic achievement. Parents and family members who establish strong, positive relationships with school staff have more opportunities to learn about the education system and become better education advocates.</p>
+<p><strong>Who do I contact if I have a concern about my child’s school?</strong>
+<br/>If there is a concern, contact the school to request an opportunity to address your concerns and have a dialogue about the issue. Concerns that are not resolved at the school level may be addressed by contacting the appropriate Region for the school. A listing of the schools and their respective Region may be located via the <a href="https://ccsd.net/district/directory/resources/pdf/school-telephone-directory.pdf" target="_blank">school directory</a>.</p>
+<p>There is also a public concern process per CCSD Policy 1213 that provides a formal investigation of the stated issue and provides the person filing the concern with a written response of that investigation. For more information call the Team Engagement Department at (702) 799-0303 or visit <a href="http://ccsd.net/community/public-concern" target="_blank">ccsd.net/community/public-concern</a>.</p>
+<!--
+					<p>Concerns that are not resolved at the school level may be addressed by calling 702-799-CCSD, where you will be directed to the appropriate department or division.</p>
+					<p>There is also a public concern process per CCSD Policy 1213 that provides a formal investigation of the stated issue and provides the person filing the concern with a written response of that investigation.</p>
+					<p>For more information, contact the Community Services Department at <br> 702-799-5830.</p>
+-->
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

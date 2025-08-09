@@ -1,0 +1,1264 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>School Board Meetings</h1>
+<p> <strong>Livestream Meetings</strong><br/>
+		All meetings of the Board of Trustees, including committees of the Board, are livestreamed the day of the meeting by one of the following ways.</p>
+<p><strong>District Website</strong><br/>
+		On the day of the meeting a link to the meeting can be found on the District’s home webpage <a href="https://ccsd.net/">here</a>. Look for the link in the middle of the home page. Click on the Live Streaming icon to begin viewing. Please call 702-799-2988, for assistance accessing the meeting.</p>
+<p><strong>YouTube</strong><br/>
+		Link to the District’s YouTube channel <a href="https://www.youtube.com/channel/UCb8dUIsat7U7lTjXYPFs_Ww" target="_blank">here</a>.</p>
+<p><strong>Eduvision</strong><br/>
+		Link to Eduvision <a href="https://ccsd.eduvision.tv/LiveEvents" target="_blank">here</a>.</p>
+<p><strong>Video Replays</strong><br/>
+		All meetings of the Board of Trustees, including committees of the Board, are recorded and generally available the next business day for viewing by clicking on the Watch link located in the Video column below.</p>
+<p><strong>BoardDocs</strong><br/>
+	Access meeting agendas and reference material in BoardDocs by linking <a href="https://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">here</a> or by clicking on the icon located in the View BoardDocs column.</p>
+<!--
+	
+	<h3>Audio Files</h3>
+	<p>Audio files of Regular Board Meetings as well as most Work Sessions and Special Meetings are available beginning with the September 20, 2007, meeting.  You may access the audio the next business day by:</p>
+	<p>1. Locating the meeting you are interested in and clicking on the icon that is shown in the Reference Material/BoardDocs column.&nbsp; This will route you to the BoardDocs home page.<br />
+		2. Once at the BoardDocs page, open the meeting of your choice.<br />
+		3. Choose the agenda item you wish to hear and click on the mp3 file.</p>
+	
+	<h3>Video Replays</h3>
+	<p>Video replays of Regular Board Meetings are available by clicking on the   icon located in the Video column.  Videos are posted within a few days of the meeting.</p>
+	
+	<h3>Live Web Casting of Regular Board Meetings</h3>
+	<p>Regular Board Meetings are available to view live on the Web.  Look for the link on <a href="http://www.ccsd.net">www.ccsd.net</a> the date of the meeting.  For more information please call the Board Office at 702-799-1072.</p>
+-->
+<!-- Start school board meetings table -->
+<table border="0" cellpadding="0" cellspacing="1" class="simple-table-rows" width="100%">
+<thead>
+<tr>
+<th>Date</th>
+<th>Agenda</th>
+<!-- <th>Agenda en español</th> -->
+<th>View <!-- Agendas and Reference Material in  -->BoardDocs</th>
+<th>Minutes</th>
+<th>Video</th>
+<th>Video en español</th>
+</tr>
+</thead>
+<tbody>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Dec. 12, 2024<br>Regular Board Meeting</br></td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/12-12-24-regular-board-meeting-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center">N/A</td>
+<!--<td align="center"><a href="videos/index.php?id=1655" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.eduvision.tv/l?meAtDDe" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://www.eduvision.tv/l?meAtDDe" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?meAtDDA" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Dec. 04, 2024<br>Board Work Session</br></td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/12-04-24-bws-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/12-04-24-bws-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1654" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaD%252bU9UyuIaNag%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaD%252bU9UyuIaNag%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Nov. 19, 2024<br>Bond Oversight Committee</br></td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/11-19-24-boc-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center">N/A</td>
+<!--<td align="center"><a href="videos/index.php?id=1653" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAgsSymDMpRyQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAgsSymDMpRyQ%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Nov. 14, 2024<br>Regular Board Meeting</br></td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/11-14-24-regular-board-meeting-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/11-14-24-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1652" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.eduvision.tv/l?mDRgyyy" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://www.eduvision.tv/l?mDRgyyy" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mDRLDeR" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Nov. 12, 2024<br>Attendance Zone Advisory Commission</br></td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/11-12-24-azac-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/11-12-24-azac-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1651" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaC2VkSa4BRSUw%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaC2VkSa4BRSUw%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Nov. 07, 2024<br>School Name Committee </br></td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/11-07-24-school-name-committee-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/approved-minutes-snc-11-7-24-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1650" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAmcCeifJ61JQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAmcCeifJ61JQ%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Nov. 06, 2024<br>Board Work Session</br></td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/11-06-24-bws-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/11-06-24-bws-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1649" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.eduvision.tv/l?mDRLDey" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://www.eduvision.tv/l?mDRLDey" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Oct. 30, 2024<br>Special Board Meeting</br></td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/10-30-24-special-board-meeting-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/10-30-24-sbm-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1647" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCEs2lgWEBekg%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCEs2lgWEBekg%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Oct. 29, 2024<br/>Attendance Zone Advisory Commission</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/10-29-24-azac-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/10-29-24-azac-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1646" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBKUQJb83CLbQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBKUQJb83CLbQ%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Oct. 24, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/10-24-24-rbm-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/10-24-24-rbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1645" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDjquUOao0v9A%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDjquUOao0v9A%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDrDly2CCVcVQ%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Oct. 22, 2024<br/>Attendance Zone Advisory Commission</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/10-22-24-azac-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/10-22-24-azac-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1644" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDDl24RaJL5JQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDDl24RaJL5JQ%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Oct. 15, 2024<br/>Bond Oversight Committee</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/10-15-24-boc-meeting-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/10-15-24-boc-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center">&nbsp;</td>-->
+<!--<td align="center">&nbsp;</td>-->
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Oct. 10, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/10-10-24-rbm-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/10-10-24-rbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1641" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.eduvision.tv/l?RLOLyem" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://www.eduvision.tv/l?RLOLyem" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?RLOLyRm" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Sep. 26, 2024<br/>Regular Board Meeting (Amended Agenda)</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/09-26-24-regular-board-meeting-amended-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/09-26-24-rbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1638" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCMRYjnJJe27w%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCMRYjnJJe27w%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBhtVKzhlJKyw%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Sep. 26, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/09-26-24-regular-board-meeting-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/09-26-24-rbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1635" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCMRYjnJJe27w%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCMRYjnJJe27w%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBhtVKzhlJKyw%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Sep. 24, 2024<br/>Attendance Zone Advisory Commission</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/09-24-24-azac-meeting-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/09-24-24-azac-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1636" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDA4Xe%252bWQErhg%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDA4Xe%252bWQErhg%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Sep. 24, 2024<br/>Bond Oversight Committee</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/09-24-24-boc-meeting-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/9-24-24-boc-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1637" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBvGwBa9ClRSA%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBvGwBa9ClRSA%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Sep. 12, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/09-12-24-regular-board-meeting-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/09-12-24-rbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1634" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.eduvision.tv/l?RgtOmyA" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://www.eduvision.tv/l?RgtOmyA" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?RgtOADe" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Sep. 04, 2024<br/>Board Work Session</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/09-04-24-bws-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/09-04-24-ws-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1633" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCwUxScUZ%252fgDQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCwUxScUZ%252fgDQ%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Aug. 22, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/08-22-24-regular-board-meeting-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/08-22-24-rbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1626" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaB0lxyAP%252bWNdA%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaB0lxyAP%252bWNdA%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?ROgymRg" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Aug. 22, 2024<br/>Regular Board Meeting (Amended Agenda)</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/08-22-24-amended-regular-board-meeting-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/08-22-24-rbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1632" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaB0lxyAP%252bWNdA%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaB0lxyAP%252bWNdA%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?ROgymRg" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Aug. 22, 2024<br/>Audit Advisory Committee</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/08-22-24-audit-advisory-committee-meeting-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/08-22-24-audit-minutes-approved-11-05-24-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1631" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDZS7BC4%252fXOfQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDZS7BC4%252fXOfQ%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Aug. 20, 2024<br/>Bond Oversight Committee </td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/boc-agenda-08-20-24-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/8-20-24-boc-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1630" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAG5rHF2WbzTQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAG5rHF2WbzTQ%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Aug. 08, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/08-08-24-rbm-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/08-08-24-rbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1643" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCagjEGFE%252bzNQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCagjEGFE%252bzNQ%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCYdelnSzg%252b2Q%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Aug. 07, 2024<br/>Board Work Session</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/08-07-24-bws-agenda-pdf-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/08-07-24-ws-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1648" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaD0JiPMxN28kg%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaD0JiPMxN28kg%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Aug. 07, 2024<br/>Board Work Session (Amended Agenda)</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/08-07-24-amended-bws-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/08-07-24-work-session-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1625" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaD0JiPMxN28kg%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaD0JiPMxN28kg%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jul. 25, 2024<br/>Special Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/07-25-24-special-board-meeting-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/07-25-24-sbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1622" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaB5en8WNs2lFA%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaB5en8WNs2lFA%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jul. 11, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/07-11-24-rbm-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/07-11-24-regular-board-meeting-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1621" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAZKuFcVbhBOg%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAZKuFcVbhBOg%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaA3Djg0BuLgiw%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jun. 27, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/06-27-24-rbm-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/06-27-24-rbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1620" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBA3kwQ8Eg4Kg%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBA3kwQ8Eg4Kg%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCAyl0%252fNW4dgg%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jun. 20, 2024<br/>Bond Oversight Committee</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/06-20-24-boc-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/6-20-24-boc-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1619" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDuujzi3S3nMg%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDuujzi3S3nMg%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jun. 13, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/06-13-24-rbm-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/06-13-24-rbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1618" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAr15gAiujllg%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAr15gAiujllg%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaADCU4ep%252b36GQ%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jun. 03, 2024<br/>Oversight Panel for School Facilities Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/06-03-24-angenda-oversight-panel-meeting-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/06-03-24-meeting-minutes-oversight-panel-for-school-facilities-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1617" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAP%252bUajqIxSyw%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAP%252bUajqIxSyw%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">May. 29, 2024<br/>Special Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/05-29-24-sbm-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/05-29-24-sbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1616" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCePaPptpJDIQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCePaPptpJDIQ%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">May. 20, 2024<br/>Special Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/05-20-24-sbm-agenda-final-budget-adoption-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/05-20-24-sbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1615" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBAUQWMpPBjAA%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBAUQWMpPBjAA%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">May. 16, 2024<br/>Regular Board Meeting - Addendum</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/05-16-24-regular-board-meeting-addendum-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/05-16-24-rbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1614" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAl7QW8lnlgIw%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAl7QW8lnlgIw%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCdC8suX5F6Lg%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">May. 16, 2024<br/>Bond Oversight Committee </td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/05-16-24-boc-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/5-16-24-boc-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1613" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaD0%252bBv3NDiMkQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaD0%252bBv3NDiMkQ%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">May. 16, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/05-16-24-regular-board-meeting-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/05-16-24-rbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1611" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAl7QW8lnlgIw%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAl7QW8lnlgIw%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCdC8suX5F6Lg%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">May. 15, 2024<br/>Special Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/05-15-24-sbm-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/05-15-24-sbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1612" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAtQyDLiZkcEw%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAtQyDLiZkcEw%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">May. 09, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/05-09-24-regular-board-meeting-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/05-09-24-rbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1610" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaA4XJ2JZhq1wg%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaA4XJ2JZhq1wg%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAEX1BsaH49mg%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">May. 01, 2024<br/>Board Work Session</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/05-01-24-bws-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/05-01-24-ws-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1609" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaB6ZWbffxELCA%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaB6ZWbffxELCA%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Apr. 25, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/04-25-24-rbm-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/04-25-24-rbm-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1608" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaB%252beGdJLFNKAQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaB%252beGdJLFNKAQ%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Apr. 18, 2024<br/>Bond Oversight Committee</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/04-18-24-boc-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/4-18-24-boc-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1607" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAVytMHB6%252bPVw%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAVytMHB6%252bPVw%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Apr. 11, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/04-11-24-rbm-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/04-11-24-rbm-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1605" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v= https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAMgLHhyDfIxg%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href=" https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAMgLHhyDfIxg%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAiawZmqvj%252fdw%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Apr. 03, 2024<br/>Board Work Session</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/04-03-24-work-session-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/04-03-24-ws-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1604" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaA26N5Yq5yM9A%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaA26N5Yq5yM9A%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Mar. 28, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/03-28-24-regular-board-meeting-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/03-28-24-rbm-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1601" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBVSQXmlm9hdw%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBVSQXmlm9hdw%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBFElu6gmMbEg%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Mar. 14, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/03-14-24-regular-board-meeting-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/03-14-24-rbm-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1598" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaC0Rt%252fVPtpXFA%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaC0Rt%252fVPtpXFA%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAmbJ%252blmLA6Mw%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Mar. 06, 2024<br/>Board Work Session</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/03-06-24-bws-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/03-06-24-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1597" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCs%252bIhtfs9GOA%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCs%252bIhtfs9GOA%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Mar. 05, 2024<br/>Attendance Zone Advisory Commission</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/03-05-24-azac-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/03-05-24-azac-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1596" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaB%252fluy%252b07b3IQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaB%252fluy%252b07b3IQ%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Feb. 29, 2024<br/>Sex Education Advisory Committee Recommending Committee Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/02-29-24-seacrc-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center">N/A</td>
+<!--<td align="center"><a href="videos/index.php?id=1595" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaArX2%252bZiGQEFg%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaArX2%252bZiGQEFg%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Feb. 27, 2024<br/>Audit Advisory Committee</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/02-27-24-audit-advisory-committee-meeting-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center">N/A</td>
+<!--<td align="center"><a href="videos/index.php?id=1594" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCIWudbp7wLDw%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCIWudbp7wLDw%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Feb. 26, 2024<br/>Joint CCSD Board of Trustees and CCSD Attendance Zone Advisory Commission Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/02-26-24-joint-rbm-azac-meeting-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/02-26-24-special-board-meeting-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1593" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDP4%252bUjoT9xew%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDP4%252bUjoT9xew%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Feb. 22, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/02-22-24-rbm-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/02-22-24-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1592" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaA219ph1UgvZQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaA219ph1UgvZQ%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAuPpY5TQRl4w%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Feb. 21, 2024<br/>School Name Committee Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/02-21-24-school-name-committee-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/2-21-24-approved-snc-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1591" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAsQLQUqM%252fYyQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAsQLQUqM%252fYyQ%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Feb. 15, 2024<br/>Bond Oversight Committee</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/02-15-24-boc-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/2-15-24-boc-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1590" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAnBrTpCzkU7w%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAnBrTpCzkU7w%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Feb. 08, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/02-08-24-regular-board-meeting-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/02-08-24-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1588" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBKCQXhWYx6pA%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBKCQXhWYx6pA%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Feb. 07, 2024<br/>Board Work Session</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/02-07-24-bws-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/02-07-24-work-session-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1589" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBiY6%252fKPCenNw%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBiY6%252fKPCenNw%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jan. 25, 2024<br/>Regular Board Meeting, Addendum (Corrected Agenda)</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/01-25-24-corrected-addendum-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/01-25-24-rbm-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1587" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCZ8Hqr920Djw%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCZ8Hqr920Djw%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBQdh4GlTUm1A%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jan. 25, 2024<br/>Regular Board Meeting (Corrected Agenda)</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/01-25-24-regular-board-meeting-corrected-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/01-25-24-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1585" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCZ8Hqr920Djw%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCZ8Hqr920Djw%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBQdh4GlTUm1A%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jan. 23, 2024<br/>Officers Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/01-23-24-officers-meeting-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center">N/A</td>
+<!--<td align="center"><a href="videos/index.php?id=1582" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBomXnUOUvPFA%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBomXnUOUvPFA%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jan. 18, 2024<br/>Bond Oversight Committee</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/01-18-24-boc-meeting-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/1-18-24-boc-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1579" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAT43TAQQtnHA%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAT43TAQQtnHA%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jan. 16, 2024<br/>Attendance Zone Advisory Commission</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/01-16-24-azac-meeting-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/approved-azac-minutes-1-16-24-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1578" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaB8NnKotENMWw%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaB8NnKotENMWw%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jan. 11, 2024<br/>Regular Board Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/01-11-24-regular-board-meeting-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/01-11-24-minutes-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1577" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaATln%252fZI2i5SQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaATln%252fZI2i5SQ%253d%253d" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaB%252b968dmkqkLg%253d%253d" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jan. 10, 2024<br/>Attendance Zone Advisory Commission Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/01-10-23-azac-meeting-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/approved-m1-h1-pim-minutes-1-10-24-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1576" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.youtube.com/live/PALG-naJv64?si=_4qCBNlWDUgTPMEL" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://www.youtube.com/live/PALG-naJv64?si=_4qCBNlWDUgTPMEL" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jan. 10, 2024<br/>Special Board Meeting - Board Retreat</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/01-10-24-special-board-meeting-board-retreat-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/01-10-24-board-retreat-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1575" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAAv0FJvkcEIg%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAAv0FJvkcEIg%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jan. 09, 2024<br/>Attendance Zone Advisory Commission Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/01-09-24-azac-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/approved-c1-pim-minutes-1-9-24-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1574" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.youtube.com/live/Eyk7wllZIaA?si=wc82gzBI4O1tazaW" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://www.youtube.com/live/Eyk7wllZIaA?si=wc82gzBI4O1tazaW" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jan. 08, 2024<br/>Attendance Zone Advisory Commission Meeting</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/01-08-24-azac-meeting-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/approved-m2-pim-minutes-1-8-24-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1573" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.youtube.com/live/dUc-VQlgB-0?si=o1edzHzySCmFRuaK" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://www.youtube.com/live/dUc-VQlgB-0?si=o1edzHzySCmFRuaK" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jan. 03, 2024<br/>Work Session</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/01-03-24-board-work-session-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/01-03-24-work-session-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1572" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCVL59GEzKQLA%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCVL59GEzKQLA%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr>
+<td width="175">Jan. 02, 2024<br/>Special Board Meeting - Oath of Office</td>
+<td align="center">
+<a href="https://ccsd.net/trustees/pdf/agendas/01-02-24-oath-of-office-agenda-pdf" target="_blank">Agenda</a> </td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center">
+<a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">↸</a> </td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/01-02-24-oath-of-office-pdf" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1571" onclick="return popup(this)">Watch</a></td>-->
+<!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaA3p13ab5fL7g%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaA3p13ab5fL7g%253d%253d" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+</tbody>
+</table>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

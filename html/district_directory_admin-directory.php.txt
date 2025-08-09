@@ -1,0 +1,244 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Administrative Directory</h1>
+<h2>Organizational Chart</h2>
+<ul>
+<li><a href="resources/pdf/ccsd-org-chart-new.pdf">CCSD Organizational Chart (PDF)</a><br/>
+			  Please use Google Chrome or Mozilla Firefox.
+              </li>
+</ul>
+<div class="divider"></div>
+<h2>Leadership</h2>
+<ul>
+<li><a href="https://ccsd.net/trustees/">Board of School Trustees</a></li>
+<li><a href="/district/superintendent/">Superintendent</a></li>
+<li><a href="https://newsroom.ccsd.net/image-gallery/">Leadership Team</a></li>
+</ul>
+<div class="divider"></div>
+<h2>Units/Divisions</h2>
+<!-- Business and Finance Unit -->
+<div class="unit">
+<h3><a href="/departments/operations-support-unit">Business and Finance Unit</a></h3>
+<ul>
+<li>Accounts Payable</li>
+<li><a href="/departments/budget-finance-department">Budget</a></li>
+<li><a href="/departments/employee-benefits">Employee Benefits</a></li>
+<li><a href="/departments/accounting-department">General Accounting</a></li>
+<li>Grants Fiscal Services</li>
+<li>Resource Management</li>
+<!--              <li><a href="https://environmental.ccsd.net/">Environmental Services</a></li> -->
+<li><a href="http://riskmanagement.ccsd.net">Risk Management</a></li>
+<li>Strategic Budget Resources</li>
+<li>Treasury</li>
+</ul>
+</div>
+<!-- Chief of Staff Unit -->
+<div class="unit">
+<h3>Chief of Staff</h3>
+<ul>
+<li>Diversity and Affirmative Action and Title IX</li>
+<li><a href="/departments/internal-audit">Internal Audit</a></li>
+</ul>
+</div>
+<div class="unit">
+<h3><a href="/departments/communications-unit/">Communications Unit</a></h3>
+<ul>
+<li><a href="https://www.vegaspbs.org/">Vegas PBS</a></li>
+</ul>
+</div>
+<!-- Human Resources Unit -->
+<div class="unit">
+<h3><a href="/divisions/human-resources-division">Human Resources</a></h3>
+<ul>
+<li>Employee-Management Relations</li>
+</ul>
+</div>
+<!-- Instructional Services Division -->
+<div class="unit">
+
+</div>
+<!-- Office of the Deputy Superintendint Unit -->
+<div class="unit">
+<h3>Office of the Deputy Superintendent, Teaching and Learning</h3>
+<ul>
+<li><span class="strong"><a href="https://teachingandlearning.ccsd.net/">Academic Unit</a></span>
+</li>
+<ul class="sublist">
+<li><a class="strong" href="https://aarsi.ccsd.net/accountability/">Accountability, Research, and Data Services Department</a>
+<ul class="sublist">
+<li><a href="https://aarsi.ccsd.net/accountability/" target="_blank">Accountability</a></li>
+<li><a href="https://aarsi.ccsd.net/assessment-2/" target="_blank">Assessment Department</a></li>
+<li><a href="https://aarsi.ccsd.net/data-services/" target="_blank">Data Services</a></li>
+<!--                <li><a href="https://aarsi.ccsd.net/research/" target="_blank">Research</a></li> -->
+<li><a href="https://aarsi.ccsd.net/school-improvement/" target="_blank">School Improvement Department</a></li>
+<li><a href="https://aarsi.ccsd.net/system-accreditation/" target="_blank">System Accreditation Department</a></li>
+</ul>
+<li><a class="strong" href="https://cceu.ccsd.net/">College and Career Readiness and School Choice Division</a>
+</li>
+<ul>
+<li><a href="https://cteinccsd.org/" target="_blank">Career and Technical Education Department</a></li>
+<li><a href="https://itsyourchoice.ccsd.net/change-of-school-assignment/" target="_blank">Change of School Assignment Department</a></li>
+<!-- 					<li><a href="https://ccsd.net/schools/charter/" target="_blank">Office for Charter Schools</a></li> -->
+<li><a href="https://sites.google.com/nv.ccsd.net/ccrinccsd/home" target="_blank">College and Career Readiness Department</a></li>
+<li><a href="https://magnet.ccsd.net/" target="_blank">Magnet Schools Department</a></li>
+<li>School Choice Department</li>
+<li><a href="https://cteinccsd.org/apps/pages/index.jsp?uREC_ID=476763&amp;type=d&amp;termREC_ID=&amp;pREC_ID=925170" target="_blank">Work-based Learning Department</a></li>
+</ul>
+<li><a class="strong" href="http://cpd.ccsd.net">Curriculum and Instruction Division</a>
+<ul class="sublist">
+<li><a href="https://cpd.ccsd.net/departments/digital-learning-and-instructional-technology/" target="_blank">Digital Learning and Instructional Technical Department</a></li>
+<li><a href="https://cpd.ccsd.net/departments/early-childhood-education/" target="_blank">Early Childhood Education Department</a></li>
+<li><a href="https://cpd.ccsd.net/departments/humanities/" target="_blank">Fine and Performing Arts Department</a></li>
+<li>Fiscal Accountability, Program Analysis, and Professional Learning</li>
+<li><a href="https://sites.google.com/nv.ccsd.net/ccsdcounseling/home?authuser=0" target="_blank">Guidance and Counseling Department</a></li>
+<li><a href="https://cpd.ccsd.net/departments/k-12-literacy-and-language-development/" target="_blank">Literacy and Language Development Department</a></li>
+<li><a href="https://cpd.ccsd.net/departments/k-12-mathematics/" target="_blank">Mathematics Department</a></li>
+<li><a href="https://cpd.ccsd.net/departments/multilingual/" target="_blank">Multilingual Education Department</a></li>
+<li><a href="https://cpd.ccsd.net/departments/science/" target="_blank">Science, Health, Physical Education, and Driver Education Department</a></li>
+<li><a href="https://cpd.ccsd.net/departments/k-12-social-studies/" target="_blank">Social Studies and World Language Department</a></li>
+</ul>
+<li><a class="strong" href="https://academic-unit.ccsd.net/ell/">English Language Learner Division</a>
+<ul class="sublist">
+<li>Access and Equity Department</li>
+<li>Language Development and Instruction Department</li>
+<li>Region Support Department</li>
+</ul>
+</li>
+<li><a class="strong" href="https://sites.google.com/nv.ccsd.net/lpld/home" target="_blank">Leadership and Professional Learning Division</a>
+</li>
+<ul class="sublist">
+<li><a href="https://sites.google.com/nv.ccsd.net/ccsdeod?usp=sharing" target="_blank">Employee Onboarding and Development Department</a></li>
+<li><a href="https://sites.google.com/nv.ccsd.net/leadershipdevelopment/home?pli=1&amp;authuser=0" target="_blank">Leadership Development Department: New Administrators</a></li>
+<li><a href="https://ccsd.instructure.com/courses/1283180" target="_blank">Professional Learning Education Department</a></li>
+<li><a href="https://sites.google.com/nv.ccsd.net/teacherleadershipdepartment/teacher-leadership-department" target="_blank">Leadership Development Department: New Principals and Executive Leadership</a></li>
+<li><a href="https://ccsd.instructure.com/courses/1283180" target="_blank">Professional Learning Education Department</a></li>
+<li><a href="https://sites.google.com/nv.ccsd.net/teacherleadershipdepartment/teacher-leadership-department" target="_blank">Teacher Leadership Department</a></li>
+</ul>
+<li><a class="strong" href="https://ccsd.net/departments/safe-and-respectful-learning-environments-and-opportunities-division/" target="_blank">Safe and Respectful Learning Environments and Opportunities Division</a></li>
+<ul class="sublist">
+<li><a href="https://sites.google.com/nv.ccsd.net/ccsdmtss" target="_blank">Multi-Tiered System of Supports</a></li>
+<li>Safe and Respectful Learning Environments</li>
+</ul>
+</li>
+</li></ul>
+</ul>
+<ul>
+<li><a class="strong" href="https://esd.ccsd.net/">Education Services Division</a>
+</li>
+<ul class="sublist">
+<li>Alternative Services Division
+                    <ul class="sublist">
+<li>21st Century Community Learning Centers</li>
+<li><a href="https://www.clarkcountyadulteducation.net/" target="_blank">Adult Education</a></li>
+<li><a href="https://esd.ccsd.net/wraparound-services/" target="_blank">Wraparound Services Department</a></li>
+</ul>
+<li>Department of Due Processing/<a href="https://www.clarkcountyadulteducation.net/" target="_blank">Office of Homeschool</a></li>
+<li><a href="https://ccsd.net/departments/safe-drug-free-schools" target="_blank">Department of Safe and Drug Free Schools</a></li>
+<li><a href="https://esd.ccsd.net/foster-care/" target="_blank">Foster Care Department</a></li>
+<li>Office of Chronic Absenteeism
+                    <ul class="sublist">
+<li><a href="https://ccsd.net/divisions/education-services-division/attendance-resources" target="_blank">Office of Attendance Enforcement</a></li>
+<li><a href="https://sites.google.com/nv.ccsd.net/sharedhousing/home" target="_blank">Shared Housing Department 
+</a></li>
+</ul>
+<li>Pupil Personnel Services Department</li>
+<li>Region Support Department</li>
+<li><a href="https://esd.ccsd.net/departments/secondary-student-athletics-and-activities/" target="_blank">Secondary Student Athletics and Activities</a></li>
+</li>
+</li></ul>
+</ul>
+<ul>
+</ul>
+
+<ul>
+<li><a class="strong" href="https://ccsd.net/district/directory/schools-directory.php" target="_blank">Region 1</a></li>
+</ul>
+
+<ul>
+<li><a class="strong" href="https://ccsd.net/district/directory/schools-directory.php" target="_blank">Region 2</a></li>
+</ul>
+
+<ul>
+<li><a class="strong" href="https://ccsd.net/district/directory/schools-directory.php" target="_blank">Region 3</a></li>
+</ul>
+
+<ul>
+<li><a class="strong" href="https://ccsd.net/district/directory/schools-directory.php" target="_blank">The Transformation Network</a></li>
+</ul>
+
+<ul>
+<li><a class="strong" href="https://ssd.ccsd.net/" target="_blank">Student Services Division</a></li>
+<ul class="sublist">
+<li><a href="https://ssd.ccsd.net/" target="_blank">Health Services and School Support</a>
+<ul class="sublist">
+<li><a href="https://ssd.ccsd.net/employee-health-services/" target="_blank">Employee Occupational Health Strategy</a></li>
+<li><a href="https://ssd.ccsd.net/health-services/" target="_blank">Health Services</a></li>
+</ul>
+</li>
+<li>Instructional Services
+                  <ul class="sublist">
+<li><a href="https://ssd.ccsd.net/early-childhood-department/" target="_blank">Early Childhood Department</a></li>
+<li>Least Restrictive Environment (LRE) Intensive Intervention Team LIIT</li>
+<li><a href="https://ssd.ccsd.net/office-of-professional-development/" target="_blank">Office of Professional Learning</a></li>
+<li><a href="https://ssd.ccsd.net/ssd-region-support-teams/" target="_blank">Region Support Teams</a></li>
+</ul>
+</li>
+<li><a href="https://ssd.ccsd.net/office-of-compliance-and-monitoring/" target="_blank">Office of Compliance and Monitoring</a></li>
+<li><a href="https://ssd.ccsd.net/personnel-and-finance-department/" target="_blank">Personnel and Finance Office</a>
+<ul class="sublist">
+<li><a href="https://ssd.ccsd.net/alternative-instructional-arrangements/" target="_blank">Alternative Instructional Arrangement (AIA)</a></li>
+<li><a href="https://ssd.ccsd.net/case-management/" target="_blank">Case Management Office</a></li>
+<li><a href="https://ssd.ccsd.net/extended-school-year/" target="_blank">Extended School Year (ESY)</a></li>
+</ul>
+</li>
+<li>Support Services
+                  <ul class="sublist">
+<li><a href="https://ssd.ccsd.net/aba-family-and-student-support-services/" target="_blank">Applied Behavior Analysis (ABA) Family and Student Support Services</a></li>
+<li>Auxiliary Instructional Services</li>
+<li><a href="http://ssd.ccsd.net/related-services/">Related Services</a></li>
+<li>Special Education Programs and Projects</li>
+<li><a href="https://ssd.ccsd.net/student-education-management-systems-main/">Student Education Management Systems (SEMS)</a></li>
+</ul>
+</li>
+</ul></ul></div>
+<!-- Office of General Counsel Unit -->
+<div class="unit">
+<h3>Office of General Counsel</h3>
+<ul>
+<li>Attorneys</li>
+</ul>
+</div>
+<!-- Operational Services Unit -->
+<div class="unit">
+<h3>Operational Services Unit</h3>
+<ul>
+<li><a href="http://facilities.ccsd.net/">Facilities</a></li>
+<li><a href="https://environmental.ccsd.net/">Environmental Services</a></li>
+<li><a href="/departments/food-service">Food Services</a></li>
+<li><a href="/departments/purchasing-warehousing">Purchasing, Warehousing</a>, Mail Services, <br/>and <a href="http://graphics.ccsd.net/">Graphic Arts</a> (This site is only accessible on a District connection.) </li>
+<li><a href="/divisions/technology-information-systems-services">Technology and Information Systems Services</a></li>
+<li><a href="https://transportation.ccsd.net/">Transportation</a></li>
+<!--                 <li><a href="https://www.vegaspbs.org/">Vegas PBS</a></li> -->
+</ul>
+</div>
+<!-- Police Services Unit -->
+<div class="unit">
+<h3><a href="https://www.ccsd.net/departments/police-services">Police Services</a></h3>
+<ul>
+<li>Police Officers</li>
+</ul>
+</div>
+</section>
+</div><!-- / content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--?php include($home---><!-- inc['trending']); ?> -->
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div><!-- /sidebar-wrap -->
+</div>

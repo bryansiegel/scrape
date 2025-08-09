@@ -1,0 +1,30 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Contracting Services</h1>
+<p>
+	Contracting Services is responsible for various employment functions for licensed personnel including:</p>
+<ul>
+<li>
+		Offers of Employment</li>
+<li>
+		New Hire Employment Paperwork</li>
+<li>
+		Annual Employee Contracts and Notice of Intent to Accept Re-Employment</li>
+<li>
+		Maintenance of Employment Files</li>
+<li>
+		Leave of Absence (LOA) Requests</li>
+<li>
+		Employee Separation Paperwork</li>
+<li>
+		Verification of CCSD Teaching Experience</li>
+</ul>
+<p>
+	Additional information can be found in Interact / District Link / Human Resources Division.</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

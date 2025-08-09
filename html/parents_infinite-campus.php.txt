@@ -1,0 +1,102 @@
+<div class="content-wrap" id="content_wrap">
+<div class="full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Campus Parent/Student Information</h1>
+<!--<div class="lang-bar">English | <a href="parentlink-es.php">Espa&ntilde;ol</a></div>-->
+<table>
+<tbody>
+<tr>
+<td><a href="http://campusportal.ccsd.net" target="_blank"><img alt="Campus Parent/Student App" src="/_static/images/Campus_New_2019.png" style="float: left; padding: 1em; width: 160px;"/></a></td>
+<td>
+<p>To help you more effectively monitor the progress of your child, the Clark County School District provides a web based system.  This system will provide detailed, real-time information, including:
+                                Calendar, Schedules, Attendance, Grades, Health (Immunizations Only), Assignments, Academic Planner, Academic Progress, Fees/Payments, To Do Lists, Reports, District/School Notices, Cafeteria Balance, School Meals Application.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<!--<p>Beginning September 30, 2014, parents will receive a letter containing access information and instructions. If you have not received this letter by October 6, 2014, please contact the Portal Liaison at your child(ren)s’ school(s).</p>-->
+<!--             <p><a href="parent-portal-training/story_html5.html" target="_blank">Viewing/Navigating the Parent Portal</a> (training)</p> -->
+<p>Visit <a alt="Campus Logo" href="http://campusportal.ccsd.net" target="_blank">Campus Parent/Student</a></p>
+<p>For technical assistance, contact the Campus Liaison at your child's school during school hours. You may also email<br/>0068-SDM-portalsupport@nv.ccsd.net, or call the Portal Help Desk at 702-799-PORT (702-799-7678), Monday-Friday between the hours <br/>of 6:00 AM-5:00 PM PST.</p>
+<hr/>
+<h2><!-- <img src="/_static/images/icons/important.jpg" /> -->Campus Parent and Campus Student Mobile Apps</h2>
+<table>
+<tbody>
+<tr>
+<td><!-- <img src="/_static/images/icons/campus-portal-icon.png" style="float: left; padding: 1em; width: 80px;" /> -->
+<img alt="Campus Parent Mobile App" src="/_static/images/icons/ParentAppIcon.png" style="margin-left: -70px;margin-top: 10px;width: 200px;"/><br>
+<img alt="Campus Student Mobile App" src="/_static/images/icons/StudentAppIcon.png" style="margin-left: -70px;margin-top: 0px;width: 200px;"/>
+</br></td>
+<td><p>
+<p style="margin-left: -50px;">The Campus Parent and Campus Student mobile apps provide a fast and convenient way for parents and students to check grades, assignments, schedule, attendance and daily planner information on their IOS or Android device. The apps are available to our parents and students at no cost and can be downloaded directly from the iTunes App Store, Google play store or from the links provided below.
+                               </p>
+</p></td>
+</tr>
+</tbody>
+</table>
+<!--
+			<div><p> 
+				<a href="/parents/resources/pdf/infinite-campus/Flyer-ParentsStudents-2018.pdf" target="_blank">New Parent & Student Mobile Apps to be Released the week of September 17, 2018</a>
+				</p>
+			</div>
+-->
+<div class="badges">Campus Student<br>
+<a href="https://itunes.apple.com/us/app/campus-student/id1384542200?mt=8" target="_blank"><img alt="Available on the AppStore" src="/_static/images/badges/badge-appstore.png" title="Available on the AppStore"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.infinitecampus.student.campusportalhybrid" target="_blank"><img alt="Get it on Google Play" src="/_static/images/badges/badge-google" title="Get it on Google Play"/></a>
+<!--                 <a href="http://www.amazon.com/Infinite-Campus-Inc-Mobile-Portal/dp/B007MATTIA/ref=sr" target="_blank"><img src="/_static/images/badges/badge-amz" alt="Available at Amazon AppStore for Android" title="Available at Amazon AppStore for Android" /></a> -->
+</br></div>
+<div class="badges">Campus Parent<br>
+<a href="https://itunes.apple.com/us/app/campus-parent/id1384542785?mt=8" target="_blank"><img alt="Available on the AppStore" src="/_static/images/badges/badge-appstore.png" title="Available on the AppStore"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.infinitecampus.parent.campusportalhybrid" target="_blank"><img alt="Get it on Google Play" src="/_static/images/badges/badge-google" title="Get it on Google Play"/></a>
+<!--                 <a href="http://www.amazon.com/Infinite-Campus-Inc-Mobile-Portal/dp/B007MATTIA/ref=sr" target="_blank"><img src="/_static/images/badges/badge-amz" alt="Available at Amazon AppStore for Android" title="Available at Amazon AppStore for Android" /></a> -->
+</br></div>
+<hr/>
+<h2>Campus Parent/Student Downloads</h2>
+<p> <!-- <b>English Documents</b> -->
+</p>
+<p>
+<a href="/parents/resources/pdf/infinite-campus/CampusParent-StudentPortalMobileAppManual.pdf" target="_blank">Campus Parent-Student Portal and Mobile App Manual</a><br/>
+<!--                 <a href="/parents/resources/pdf/infinite-campus/CampusParentStudent-MobileAppUserGuide2021.pdf" target="_blank">Campus Parent/Student - Mobile App User Guide</a><br> -->
+<a href="/parents/resources/pdf/infinite-campus/CampusParentStudent-FAQs.pdf" target="_blank">Campus Parent/Student - FAQs</a><br/>
+<a href="/parents/resources/pdf/infinite-campus/CampusMobileApp-FAQs2021.pdf" target="_blank">Campus Mobile App - FAQs</a><br/>
+<!--                 <a href="/parents/resources/pdf/infinite-campus/CampusParent-HowtoAccess2021.pdf" target="_blank">Campus Parent - How to Access</a><br> -->
+<a href="/parents/resources/pdf/infinite-campus/CampusParentStudent-AccountSecurityEmailPassword.pdf" target="_blank">Campus Parent/Student - Account Security Email &amp; Password</a><br/>
+<a href="/parents/resources/pdf/infinite-campus/CampusStudent-HowAccessStudentAccount.pdf" target="_blank">Campus Student - How to Access</a><br/>
+<a href="/parents/resources/pdf/infinite-campus/CampusParent-How-to-Access.pdf" target="_blank">Campus Parent - How to Access</a>
+</p>
+<p><b>Documentos Españolas</b></p>
+<p>
+<a href="/parents/resources/pdf/infinite-campus/CampusParent-StudentPortalMobileAppManual-Spanish.pdf" target="_blank">Portal Campus para Padres/Estudiante y Aplicación Móvil Manual</a><br/>
+<!--                 <a href="/parents/resources/pdf/infinite-campus/CampusParentStudent-MobileAppUserGuide-Spanish2021.pdf" target="_blank">Campus para Padres/Estudiantes - Aplicaci&oacute;n Movil Gu&iacute;a de Usuario</a><br> -->
+<a href="/parents/resources/pdf/infinite-campus/CampusParent-StudentFAQs-Spanish2022.pdf" target="_blank">Campus para Padres/Estudiantes - Preguntas Más Frecuentes</a><br/>
+<a href="/parents/resources/pdf/infinite-campus/CampusMobileApp-FAQs-Spanish2021.pdf" target="_blank">Aplicacion Movil Campus - Preguntas Más Frecuentes</a><br/>
+<!--                 <a href="/parents/resources/pdf/infinite-campus/CampusParent-HowtoAccess-Spanish2021.pdf" target="_blank">Campus para Padres - Como Acceder</a><br> -->
+<a href="/parents/resources/pdf/infinite-campus/CampusParentStudentAccountSecurityEmailPassword-Spanish2022.pdf" target="_blank">Campus para Padres - Correo Electrónico de Seguridad de la Cuenta y Contraseña</a><br/>
+<a href="/parents/resources/pdf/infinite-campus/CampusParent-How-to-Access-Spanish.pdf" target="_blank">Como Acceder a la Cuenta Campus Parent</a>
+</p>
+</section>
+</div> <!-- /main_content_wrap -->
+<!--
+    <div id="sidebar_wrap" class="sidebar-wrap">
+       
+
+        <!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div>

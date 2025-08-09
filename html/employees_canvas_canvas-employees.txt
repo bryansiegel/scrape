@@ -1,0 +1,98 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Canvas LMS Information</h1>
+<!-- Prospective employees -->
+<!-- <h2>Canvas (LMS) Information</h2> -->
+<!-- <span class="sub-nav-title"></span> -->
+<div style="float: left;padding-right: 7px;margin-top:10px;"><img alt="Screenshot - Login Screen" src="/employees/canvas/images/CanvasLoginScreenNew.png" width="210px"/></div><p>Canvas LMS is your online classroom
+                        for CCSD. It’s a powerful tool that’s available district wide. If you’re looking for the Canvas LMS trainings, webinars or PDEs that are available,
+                        search Pathlore for “Canvas”. Just looking to get more info? Here's a <a href="https://bit.ly/teachercanvas8" target="_blank">helpful infographic</a> to get started. 
+                        
+                        Additionally, CCSD has a <a href="https://ccsd.instructure.com/courses/1232231" target="_blank">public Canvas LMS course</a> available that’s
+                        full of information on getting started.
+                </p>
+<p>Every school site and department should have a Canvas “Controller” that you can ask for direction to good resources and help you get started on your
+                    adventure in blended learning. Canvas LMS also has an InterAct conference, located in Edlink, where you can read current announcements or have
+                    discussions with other CCSD Canvas LMS users. You can find the CCSD Canvas LMS at canvas.ccsd.net or click the link below to log in.</p>
+<div style="padding-top: 10px; padding-bottom: 10px;">
+<table align="center" border="0" cellspacing="2" width="90%">
+<tr>
+<td align="center">
+<a class="button" href="https://ccsd.instructure.com/" target="_blank">Canvas CCSD Login</a>
+</td>
+</tr>
+</table>
+</div>
+<p>Please use Google Chrome or Mozilla Firefox for the best experience when using Canvas LMS.</p>
+<div>
+<p><em>Note: Please inquire with your admin to find out who the controller is at your site.</em></p>
+<p>Questions and concerns about CCSD's Canvas LMS can be directed to the Online &amp; Blended Learning Department at (702)799-0063.</p>
+</div>
+<hr/>
+<h2>Canvas LMS Mobile Apps</h2>
+<p>Instructure has produced several Canvas LMS apps available for iOS or Android. Search for “Instructure” to find all of the ones available on your device.</p>
+<p>Canvas has an app for Teachers, Students, and Parents.</p>
+<p><a href="https://community.canvaslms.com/community/answers/guides" target="_blank">Search the Canvas Guides</a> for information about all of their mobile apps! Use search term, “mobile”, to get to links to mobile guides for phone and tablet versions of the apps. </p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

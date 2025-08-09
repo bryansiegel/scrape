@@ -1,0 +1,85 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Academic Centers</h1>
+<p>
+	Three Academic Centers serve as alternative school placements (usually 9-18 weeks) for secondary students who have committed severe disciplinary infractions at a comprehensive school.  Academic Centers provide required courses in a structured environment with an emphasis on assisting students to improve self-control, while enhancing social interactions and instilling life-skills.  Following successful release from an Academic Center, students are returned to a comprehensive school.</p>
+<p>
+	 </p>
+<table class="simple-table" height="112" width="476">
+<tbody>
+<tr>
+<td width="50%">
+				Cowan Academic Center<br>
+<a href="/resources/education-services-division/cowan.pdf">Map to School</a></br></td>
+<td align="center" valign="bottom" width="20%">
+<a href="https://sites.google.com/nv.ccsd.net/cowan-academic-center" target="_blank">Website</a></td>
+<td align="center" valign="bottom" width="30%">
+<a href="/resources/education-services-division/cowan-spanish.pdf">Mapa de la Escuela</a></td>
+</tr>
+<tr>
+<td>
+				Peterson Academic Center<br>
+<a href="/resources/education-services-division/peterson.pdf">Map to School</a></br></td>
+<td align="center" valign="bottom" width="20%">
+<a href="https://www.petersonacademic.org/" target="_blank">Website</a></td>
+<td align="center" valign="bottom" width="30%">
+<a href="/resources/education-services-division/peterson-spanish.pdf">Mapa de la Escuela</a></td>
+</tr>
+<tr>
+<td width="50%">
+				South Academic Center<br/>
+<a href="/resources/education-services-division//south.pdf">Map to School</a></td>
+<td align="center" valign="bottom" width="20%">
+<a href="https://www.southacademic.org/" target="_blank">Website</a></td>
+<td align="center" valign="bottom" width="30%">
+<a href="/resources/education-services-division//south-spanish.pdf">Mapa de la Escuela</a></td>
+</tr>
+</tbody>
+</table>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+</div> <!-- /sidebar-wrap -->
+</div>

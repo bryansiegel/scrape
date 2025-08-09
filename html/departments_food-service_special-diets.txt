@@ -1,0 +1,26 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Special Diets</h1>
+<p>
+	Special diets are provided to students with a documented disability or medical condition that limits a major life activity (i.e; breathing,) or students with severe or life-threatening anaphylactic reactions.</p>
+<p>
+	Any change in diet will require submission of a new and revised physician signed <em>CCSD Medical Statement to Request a Special Diet </em>form.</p>
+<p>
+	Unfortunately, CCSD is unable to accommodate special diets based on personal preferences or religious convictions.</p>
+<h2>
+<strong>Medical Statement to Request a Special Diet:</strong></h2>
+<p>
+<a href="/resources/food-service/fsd-f5-14070524-special-diet-request-form.pdf"><strong>CCSD </strong><strong>Medical Statement</strong></a></p>
+<h2>
+	Discontinue A Special Diet:</h2>
+<p>
+<a href="/resources/food-service/fsd-f5-15-discontinue-a-special-diet-english.pdf"><strong>Discontinue a Special Diet English</strong></a></p>
+<p>
+<a href="/resources/food-service/fsd-f5-16-discontinue-a-special-diet-spanish.pdf"><strong>Discontinue a Special Diet Spanish</strong></a></p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+</div> <!-- /sidebar-wrap -->
+</div>

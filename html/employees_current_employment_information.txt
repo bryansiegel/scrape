@@ -1,0 +1,95 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h2>Employment Information</h2>
+<a name="ertk"></a>
+<p><a class="pdflink" href="2025-2026-employees-right-to-know.pdf" target="_blank">An Employee's Right to Know 2025-2026 (PDF)</a></p>
+</section>
+<a name="organizations"></a>
+<section class="content-holder">
+<h2>Employees Organizations</h2>
+<p><a class="xlink" href="http://www.ccea-nv.org" target="_blank">Clark County Education Association</a></p>
+<p><a class="xlink" href="http://www.esea-nv.org" target="_blank">Education Support Employees Association</a></p>
+<p><a class="xlink" href="http://www.ccasa.net" target="_blank">Clark County Association of School Administrators and Professional-Technical Employees</a></p>
+</section>
+<a name="organizations"></a>
+<section class="content-holder">
+<h2>Frequently Asked Questions</h2>
+<p><a class="xlink" href="https://www.ccsd.net/employees/current/services/faq.php" target="_blank">FMLA questions</a></p>
+<!-- 				<p><a class="xlink" target="_blank" href="faq">FMLA questions</a></p> -->
+</section>
+<a name="agreements"></a>
+<section class="content-holder">
+<h2>Negotiated Agreements</h2>
+<p><a class="pdflink" href="/employees/resources/pdf/ccasape_agreement.pdf" target="_blank">Administrators' Agreement</a> - Clark County Association of School Administrators and Professional-Technical Employees (CCASAPE) 2023-2025 Negotiated Agreement.</p>
+<p><a class="pdflink" href="/employees/resources/pdf/paa_agreement-2023-2024.pdf" target="_blank">Police Administrators' Agreement</a></p>
+<p><a class="pdflink" href="/employees/resources/pdf/ccea_agreement.pdf" target="_blank">Teachers' and other licensed positions Agreement</a></p>
+<p><a class="pdflink" href="/employees/resources/pdf/esea_agreement.pdf" target="_blank">Support Staff Agreement</a></p>
+<p><a class="pdflink" href="/employees/resources/pdf/poa_agreement-2023-2025.pdf" target="_blank">School Police Agreement</a></p>
+</section>
+<a name="notice"></a>
+<section class="content-holder">
+<h2>Notice of Non-discrimination</h2>
+<p><a href="/district/info/non-discrimination/">Notice of Non-discrimination</a></p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar_wrap -->
+</div>

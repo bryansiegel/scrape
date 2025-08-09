@@ -1,0 +1,146 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>
+	Marketing Department</h1>
+<p style="font-weight:bold; font-size: 16px;">
+	The Marketing Department champions the District’s brand by creating content that celebrates the success of CCSD students, teachers, and schools and promotes opportunities for students and employees.</p>
+<h3>
+	District Branding</h3>
+<ul style="margin:0px !important;">
+<li>
+<strong>Brand</strong>
+<p style="margin-top:0px !important; padding-top: 0px !important;">
+			Brand consistency is vital to building a solid brand and increasing brand value and trust. Brand guidelines ensure consistency in CCSD's visual and messaging identity, including logos and colors. Adhering to these guidelines builds trust through consistent branding and messaging, enhancing the District's reputation.</p>
+<ul>
+<li>
+				Writing - <a href="https://graphics.ccsd.net/NewFiles/GAC.2006.Site/PDFs/District_Logo_Standards_Bklt/CCSD
+_WritingStandards_2025.pdf" target="_blank">Standards and Style Guide</a></li>
+<li>
+<a href="https://graphics.ccsd.net/templates-logos.php" target="_blank">CCSD Logos, Letterhead, Templates</a></li>
+</ul>
+</li>
+</ul>
+<h3>
+	Content</h3>
+<ul style="margin:0px !important;">
+<li>
+<strong>We are CCSD</strong>
+<p style="margin-top:0px !important; padding-top: 0px !important;">
+			In January 2023, Superintendent Dr. Jesus F. Jara launched "We are CCSD" during the 2023 State of the Schools Address. This campaign aims to highlight the collaborative efforts of the Southern Nevada community in educating the children of Clark County. At newsroom.ccsd.net, the official blog of Clark County School District, the achievements of CCSD students, teachers, and schools take center stage, celebrating their remarkable successes and contributions to the District's educational journey.</p>
+</li>
+</ul>
+<ul style="margin:0px !important;">
+<li>
+<strong>YouTube</strong>
+<p style="margin-top:0px !important; padding-top: 0px !important;">
+			YouTube will serve as the primary video library for CCSD and the CCSD brand. This centralized approach to video storage and organization will help maintain a cohesive and comprehensive video library that showcases the diverse offerings and achievements of CCSD.</p>
+<ul>
+<li>
+<a href="https://www.youtube.com/@ClarkCountySchoolDistrict" target="_blank">https://www.youtube.com/@ClarkCountySchoolDistrict</a></li>
+<li>
+<a href="https://www.youtube.com/watch?v=v3twXhUf_Dw" target="_blank">We are Vegas. We Are CCSD</a></li>
+</ul>
+</li>
+</ul>
+<h3>
+	External Communications</h3>
+<p>
+	Using the web, social media, and email, the Marketing Department will work to provide consistent communication celebrating the successes of CCSD students, teachers, and schools, promoting opportunities for students and employees.</p>
+<ul style="margin:0px !important;">
+<li>
+<strong>CCSD Website</strong>
+<ul style="margin:0px !important;">
+<li>
+				Collaborate with Media Relations and Web Design Departments to maintain consistent messaging, District branding, and voice on the main CCSD website (ccsd.net) to ensure a unified online presence and enhance external communication efforts.</li>
+</ul>
+</li>
+<li>
+<strong>Social Media</strong>
+<p style="margin-top:0px !important; padding-top: 0px !important;">
+			Establish and implement best practices on the District’s primary social media channels throughout all departments, which includes crafting a comprehensive social media strategy and ensuring its effective implementation across various teams</p>
+<ul>
+<li>
+<a href="https://www.linkedin.com/company/clark-county-school-district" target="_blank">LinkedIn</a></li>
+<li>
+<a href="https://www.facebook.com/ClarkCountySchoolDistrict/" target="_blank">Facebook</a></li>
+<li>
+<a href="https://www.instagram.com/clarkcountysch/" target="_blank">Instagram</a></li>
+<li>
+<a href="https://x.com/ClarkCountySch" target="_blank">X</a></li>
+</ul>
+</li>
+<li>
+<strong>Community Newsletter</strong>
+<ul style="margin:0px !important;">
+<li style="margin-top:0px !important; padding-top: 0px !important;">
+				Connects with the Southern Nevada community through an email newsletter that celebrates the success of CCSD students, teachers, and schools by highlighting achievements; and sharing inspiring stories that fosters pride and unity within the community, strengthen external communications, and promote a positive brand perception</li>
+<li>
+<a href="https://clark-county-school-district.read.axioshq.com/signup/community-newsletter" target="_blank">Subscribe to the Community Connection</a></li>
+</ul>
+</li>
+</ul>
+<h3>
+	Internal Communications</h3>
+<p>
+	The Marketing Department will ensure clear and consistent communication, which helps employees stay well-informed about developments in the District and know they are valued. The Marketing Department will build trust through improved internal communication, bringing value to the District’s brand.</p>
+<ul style="margin:0px !important;">
+<li>
+<strong>Employee Email Newsletters</strong>
+<p style="margin-top:0px !important; padding-top: 0px !important;">
+			Employee email newsletters are crucial for improving internal communication. Newsletters provide valuable information, such as updates, policies, development opportunities, and success stories. These bi-monthly newsletters keep employees well-informed and supported, fostering engagement and offering professional growth opportunities.</p>
+</li>
+</ul>
+<h3>
+	Marketing Support and Resources</h3>
+<p>
+	The Marketing Department will establish a centralized marketing support system that provides resources, guidance, and best practices for schools and departments to develop effective marketing strategies. This support system may include workshops, training sessions, or access to marketing professionals who can assist with the creation of promotional materials and campaigns. By equipping other entities within CCSD with the necessary tools and knowledge, the District can collectively elevate its brand through collaborative marketing efforts.</p>
+<ul>
+<li>
+<a href="https://forms.gle/Zxjgjigz9rK4cobP6" target="_blank">Submit Marketing Support Request Here</a></li>
+</ul>
+<h1 style="padding-top:25px;">
+	Web Design Department</h1>
+<p>
+<strong>Web Design creates engaging, pleasing, accessible, and user-friendly experiences to deliver accurate, transparent, and helpful information to the public.</strong></p>
+<h3>
+	Website User Interface</h3>
+<p>
+	Create a consistent design, including the look and feel across all main website and school site pages.</p>
+<ul>
+<li>
+		Maintain branding and cohesive visual design, UX principles, and visual guidelines across multiple digital touchpoints</li>
+<li>
+		Create, maintain, and manage UI style guides and ensure a consistent, integrated brand perception</li>
+<li>
+		Monitor trends and needs of stakeholders to provide responsive designs, products, and services</li>
+<li>
+		Identify design opportunities and actionable concepts that align with the end user and the District’s needs, through design principles, and technical capabilities</li>
+<li>
+		Use current technologies and up-to-date industry trends and best practices to ensure the District brand remains relevant and innovative</li>
+</ul>
+<h3>
+	Web Maintenance</h3>
+<p>
+	Inspect and update routine processes of websites to maintain industry standards.</p>
+<ul>
+<li>
+		Maintain website(s) WCAG web compliance</li>
+<li>
+		Keep content current and up-to-date in a timely manner</li>
+<li>
+		Maintain Google Analytics to track and report website traffic</li>
+<li>
+		Website Search engine features</li>
+<li>
+		Work with Networking and Cybersecurity to ensure that all sites and User accounts are secure</li>
+<li>
+		Incorporation of events/press releases and student/family stories from Newsroom</li>
+<li>
+		Integration of online survey/feedback tools</li>
+</ul>
+<p>
+<a href="https://forms.zohopublic.com/wordpresssupportusern1/form/WebDesignServicesTicketingSystem/formperma/M9Jcju1zpP4HIB-pDvn2WKuqyMZMykvq0MIcOyVRQtk" target="_blank">Submit A Ticket To Web Design Services Here</a></p>
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

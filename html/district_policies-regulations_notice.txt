@@ -1,0 +1,126 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h1>Board Policies &amp; Regulations</h1>
+<h2>Notification of proposed changes to CCSD Policies and/or Regulations</h2>
+<p>State statute requires the Board of School Trustees adopt a
+                          Notice of Intent when it considers the adoption, amendment, or repeal of a
+                          policy or regulation. The Notice of Intent provides the public thirteen (13)
+                          days notice prior to final action by the board.</p>
+<p>Comments by the public are welcome.</p>
+<h2>Policies/Regulations Under Consideration</h2>
+<p>The public is welcome to comment when policies/regulations are under consideration
+                        by the superintendent for adoption, amendment, or repeal. The policies/regulations
+                        listed in this category will be posted for a period of five (5) business
+                        days prior to submission to the Board of School Trustees.</p>
+<p><strong>No policies or regulations are scheduled at this time.</strong></p>
+<h2>Notice of Intent - Date of Meeting:</h2>
+<p>Reflects the date of the board meeting discussion/action will be taken on the
+                        Notice of Intent.</p>
+<table cellspacing="0" class="simple-table-rows" id="notice_intent" name="notice_intent" width="100%">
+<thead>
+<tr>
+<th>Title</th>
+<th>Board Meeting Date</th>
+<th>Contact</th>
+<th>Comment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><a href="/district/policies-regulations/notices/p-5136-personal-technolog.pdf" target="_blank">P-5136, Personal Technology and Communication Devices</a></td>
+<td align="center" valign="top">08/14/25</td>
+<td align="center" valign="top">Jennifer Vaccaro<br/>(702) 799-0063</td>
+<td align="center" valign="top"><a href="/district/policies-regulations/comments/intent/927">Submit a comment</a></td>
+</tr>
+<tr>
+<td valign="top"><a href="/district/policies-regulations/notices/p-4300-employee-in-state-.pdf" target="_blank">P-4300 Employee In-State Work Requirement</a></td>
+<td align="center" valign="top">08/14/25</td>
+<td align="center" valign="top">RoAnn Triana<br/>(702) 799-1030</td>
+<td align="center" valign="top"><a href="/district/policies-regulations/comments/intent/928">Submit a comment</a></td>
+</tr>
+</tbody>
+</table>
+<h2>Final Action - Date of Meeting:</h2>
+<p>This date will indicate the date of the board meeting when the final discussion/action
+                        will occur. This is the last meeting for public comment on the issue.</p>
+<table cellspacing="0" class="simple-table-rows" id="notice_final" name="notice_final" width="100%">
+<thead>
+<tr>
+<th>Title</th>
+<th>Board Meeting Date</th>
+<th>Contact</th>
+<th>Comment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><a href="/district/policies-regulations/notices/r-3312-purchasing-authori.pdf" target="_blank">R-3312, Purchasing Authorization and Neptism--All Funds</a></td>
+<td align="center" valign="top">08/14/25</td>
+<td align="center" valign="top">Jazmin Hernandez<br/>(702) 799-5008</td>
+<td align="center" valign="top"><a href="/district/policies-regulations/comments/final/924">Submit a comment</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+<!-- trending-wrap -->
+<!--
+<section class="trending-wrap">
+	<h3 class="section-title-lined">Quick Links</h3>
+-->
+<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
+<!-- 	<ul id="trending_list" class="trending-list"> -->
+<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
+<!--
+	</ul>
+</section>
+-->
+<!-- /trending-wrap -->
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

@@ -1,0 +1,41 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<style type="text/css">
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}</style>
+<h2 style="text-align:center;">
+	CLARK COUNTY SCHOOL DISTRICT</h2>
+<h1 style="text-align:center;">
+	POLICE DEPARTMENT</h1>
+<p>
+<img alt="" src="https://ccsd.net/resources/police-services/ccsdpd-dept-photo.jpg" style="width: 585px; height: 400px; margin-left: 0px; margin-right: 25px; border-width: 5px; border-style: solid;"/></p>
+<div>
+	The Clark County School District (CCSD), the fifth-largest in the United States, encompasses nearly 8,000 square miles and serves the metropolitan Las Vegas area, surrounding communities, and rural regions. With more than 296,000 students enrolled across 374 schools, CCSD represents a diverse and expansive educational system.
+	<p>
+		Due to the district’s size and complexity, relying solely on traditional school resource officers—as done in many other jurisdictions—proved impractical. In response, CCSD established its own dedicated law enforcement agency: the Clark County School District Police Department (CCSDPD). This department is committed to fostering a safe, secure, and supportive environment for students, staff, and visitors.</p>
+<p>
+		The CCSDPD and it's officers are POST Category I certified by the State of Nevada, granting unrestricted law enforcement authority, including the ability to make arrests and issue traffic citations—comparable to other police agencies within the region.</p>
+<p>
+		The department is comprised of 200 sworn officers and 41 civilian employees. Its command structure includes 22 sergeants, six lieutenants, four captains, and a chief of police.</p>
+<p>
+		Operationally, the department is divided into three Area Commands. Each high school is assigned two officers, with additional patrol units covering all district zones, including rural communities such as Laughlin, Moapa, Sandy Valley, and Indian Springs. Officers are also responsible for supporting all elementary and middle schools within their respective areas.</p>
+<p>
+		CCSDPD maintains 24/7 patrol coverage of all District-owned properties to ensure continuous protection of students and staff.</p>
+<p>
+		In addition to routine patrols, the department operates a variety of specialized units and bureaus, including: Detectives, Training, Traffic, K-9, Diversion &amp; Wellness, Evidence, Records, Social Work Services, and a fully staffed 24/7 Dispatch Center.</p>
+<p>
+		 </p>
+</div>
+<p>
+	 </p>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>To report a crime, please select the above link or call our 24/7 dispatch @ 702.799.5411.  
+
+If this is an emergency, please call 911. </section>
+</div> <!-- /sidebar-wrap -->
+</div>

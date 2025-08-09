@@ -1,0 +1,57 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Zoning Search</h1>
+<p>If you require assistance identifying the zoned school for your address, please contact<br><a href="http://dzg.ccsd.net">Demographics, Zoning &amp; GIS Department</a> at <strong>(702) 799-6430</strong>.</br></p>
+
+					For Registration assistance please call <strong>(702) 799-7678</strong>.
+
+					<h2>Search For Your School Zone</h2>
+<h3>Enter Your Address</h3>
+<form action="/schools/zoning/search/search.php" class="simple-form ajax-search" id="search" method="get" name="search">
+<table cellpadding="0" cellspacing="0" class="zoning-search-tbl">
+<tr>
+<td colspan="2">
+<label for="year">Choose A School Year</label><br/>
+<select id="year" name="year">
+<!--                                         <option value="2022">2022 - 2023 School Year</option> -->
+<!-- 										<option value="2024">2023 - 2024 School Year</option> -->
+<!--                                         <option value="2025">2024 - 2025 School Year</option> -->
+<option value="2026">2025 - 2026 School Year</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>
+<label for="house">Street Number</label><br>
+<span class="note"><strong>Example</strong>: 1234</span><br>
+<input id="house" name="house" placeholder="" style="width: 100px" type="text" value=""/><br/>
+</br></br></td>
+<td>
+<label for="street">Street Name</label><br/>
+<span class="note"><strong>Do Not Enter</strong> street direction (N, S, E, W) or street type (ST, AVE, LN, DR, etc.)</span><br/>
+<input id="street" name="street" placeholder="" style="width: 100%; margin-bottom: .5em;" type="text" value=""/><br/>
+</td>
+</tr>
+</table>
+<input id="uniqueid" name="uniqueid" type="hidden"/>
+<!--<input type="hidden" name="year" id="year">-->
+<input id="submit" type="submit" value="Search"/>
+<!-- <a href="./">Cancel</a>  -->
+</form>
+<div class="ajax-search-results" id="search_results" style="display: none;"></div>
+<h3>Interactive Google Map</h3>
+<a class="button-blue-standard" href="https://bit.ly/CCSDZoning">View interactive Google Map</a>
+<ul>
+<li>Select the magnifying glass icon to search your address or locate a school.</li>
+<li>Click on the residence for zoned school information.</li>
+<li>Check the various zone layer to turn on attendance boundaries.</li>
+</ul>
+<p>Please note Google does not validate addresses, and new residential addresses may experience delays until Google enters them. Use the search function above for more up-to-date validated residential addresses searches. If you experience errors with the search above try just entering the address number and the first few letters of the street name.</p>
+<div class="horiz-rule"></div>
+<div><p>If you are unable to locate your zoned school, please refer to the <a href="/schools/zoning/resources/address-troubleshooting-guide-13-14.pdf">Address Troubleshooting Guide (PDF)</a>.</p>
+<p>If you have questions regarding bus transportation, please contact <a href="http://ccsd.net/departments/transportation">Transportation Department</a> at 702-799-8100.</p>
+</div>
+</section>
+</div>
+</div>

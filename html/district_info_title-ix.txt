@@ -1,0 +1,83 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<h1>Title IX</h1>
+<h2>Title IX Notice of Non-Discrimination</h2>
+<p>Title IX of the Education Amendments of 1972 (Title IX) prohibits recipients of federal financial assistance, including the Clark County School District (CCSD), from discriminating on the basis of sex.  CCSD does not discriminate on the basis of sex in its education programs or activities, and is required by Title IX not to discriminate in such a manner.</p>
+<p>Above is the Title IX notice of non-discrimination. <a href="/district/info/non-discrimination.php">View the full version of CCSD’s “Non-Discrimination and Accessibility Notice</a>”.</p>
+<h2>Reporting or Formal Complaint of Sexual Harassment under Title IX</h2>
+<p>If you experience sexual harassment, you may file a formal complaint or make a report of sexual harassment to CCSD’s Title IX Coordinator.  If you see, hear, or otherwise learn of sexual harassment (whether or not you are the person alleged to be the victim), you may make a report to CCSD’s Title IX Coordinator.  If you are not sure whether the conduct fits the definition, the conduct should still be reported. </p>
+<p>Under Title IX, any employee or official of CCSD who has actual knowledge (sees, hears, or otherwise learns) of sexual harassment that occurred within an education program or activity <strong>must</strong> promptly report the incident to the CCSD Title IX Coordinator.</p>
+<h2>Title IX Coordinator</h2>
+<p>In accordance with Title IX, CCSD has designated and authorized the Executive Manager of Diversity and Affirmative Action/ADA and Title IX Program Coordinator to serve as the CCSD Title IX Coordinator.</p>
+<p>A complainant (alleged victim) may file a formal complaint or make a report of sexual harassment, and any other person may make a report of sexual harassment under Title IX, in any of the following manners:</p>
+<ol>
+<li>Emailing the complaint or report to <a href="mailto:TitleIXCoordinators@nv.ccsd.net">TitleIXCoordinators@nv.ccsd.net</a>.
+						</li>
+<li>Contacting the Office of Diversity and Affirmative Action/ADA and Title IX Programs via phone at 702-799-5087 to obtain guidance on how and where to submit a complaint or report.</li>
+<li>Faxing the complaint or report to the attention of the Title IX Coordinator at 702-799-5257.</li>
+<li>Mailing the complaint or report to the attention of the Title IX Coordinator at the following address: Office of Diversity and Affirmative Action/ADA and Title IX Programs (Attention Title IX Coordinator) 4212 E. Eucalyptus Ave Annex Las Vegas, NV 89121.</li>
+<li>In person at the Office of Diversity and Affirmative Action/ADA and Title IX Programs at the address set forth above.</li>
+</ol>
+<p>Complaints or inquiries regarding the application of Title IX to CCSD may also be sent directly to the United States Department of Education – Office for Civil Rights, 915 2nd Ave. Room 3310, Seattle, Washington 98174-1099. The email address is <a href="mailto:OCR.Seattle@ed.gov">OCR.Seattle@ed.gov</a>.  OCR may also be contacted at <a href="mailto:OCR@ed.gov">OCR@ed.gov</a>.</p>
+<a href="mailto:"></a>
+<h2>Definition of Title IX Sexual Harassment</h2>
+<p>Under Title IX, sexual harassment means conduct on the basis of sex, occurring within the United States, that satisfies one or more of the following:</p>
+<ol>
+<li>An employee of CCSD conditioning the provision of an aid, benefit, or service of CCSD on an individual’s participation in unwelcome sexual conduct (i.e., quid pro quo sexual harassment).  This applies to all employees.</li>
+<li>Unwelcome conduct determined by a reasonable person to be so severe, pervasive, and objectively offensive that it effectively denies a person equal access to an education activity or program.  This applies to all students and employees.  (For purposes of Title IX sexual harassment, education activity or program is defined as a location, event, or circumstance over which CCSD exercised substantial control over both the person(s) alleged to have committed sexual harassment and the context in which the harassment occurred.)</li>
+<li>Sexual assault, dating violence, domestic violence, or stalking as those terms are defined below (and which are based on federal laws).  This applies to all students and employees.
+
+							<ol type="a">
+<li>“Sexual assault,” as defined in 20 U.S.C. § 1092(f)(6)(A)(v), means an offense classified as a forcible or nonforcible sex offense under the uniform crime reporting system of the Federal Bureau of Investigation.</li>
+<li>“Dating violence,” as defined in 34 U.S.C. § 12291(a)(10), means violence committed by a person—
+
+									<ol type="1">
+<li>Who is or has been in a social relationship of a romantic or intimate nature with the victim; and</li>
+<li>Where the existence of such a relationship shall be determined based on a consideration of the following factors:
+
+											<ol type="a">
+<li>The length of the relationship.</li>
+<li>The type of relationship.</li>
+<li>The frequency of interaction between the persons involved in the relationship.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>“Domestic violence,” as defined in 34 U.S.C. § 12291(a)(8), includes felony or misdemeanor crimes of violence committed by a current or former spouse or intimate partner of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, by a person similarly situated to a spouse of the victim under the domestic or family violence laws of the jurisdiction receiving grant monies, or by any other person against an adult or youth victim who is protected from that person's acts under the domestic or family violence laws of the jurisdiction.  </li>
+<li>“Stalking,” as defined in 34 U.S.C. § 12291(a)(30), means engaging in a course of conduct directed at a specific person that would cause a reasonable person to—
+
+									<ol type="1">
+<li>Fear for his or her safety or the safety of others; or</li>
+<li>Suffer substantial emotional distress.</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<h2>Interim Title IX Sexual Harassment Grievance Procedures</h2>
+<p>CCSD’s Interim Title IX Sexual Harassment Grievance Procedures are pending review by the Clark County School District Superintendent or designee and are subject to approval by the Clark County School District Board of School Trustees.</p>
+<p><a href="pdf/ccsd-interim-title-ix-sexual-harassment-grievance-procedures-8-14-20.pdf">The Interim Title IX Sexual Harassment Grievance Procedures (PDF)</a></p>
+<h2>Standard of Evidence in Title IX Process</h2>
+<p>The Clark County School District will use the preponderance of the evidence standard in its Title IX sexual harassment grievance procedures.</p>
+<h2>Title IX Sexual Harassment Training Materials</h2>
+<!-- <p>The following are materials that have been used or will be used to train the CCSD Title IX team and any person who aids in facilitating an informal review process in a Title IX proceeding.</p> -->
+<ul>
+<li><a href="pdf/relevant-title-ix-training-2017.pdf">Relevant Title IX Training 2017 (PDF)</a></li>
+<li><a href="pdf/relevant-title-ix-training-2018.pdf">Relevant Title IX Training 2018 (PDF)</a></li>
+<li><a href="pdf/august-2020-title-ix-training.pdf">Title IX Coordinator and Administrator Level One Training &amp; Certification Course August 13-14, 2020 (PDF)</a></li>
+<li><a href="https://atixa.org/2020-regulations-requirement-posting-of-training-materials/ ">ATIXA Training Materials</a></li>
+<li><a href="https://www.youtube.com/watch?v=TdfT5R8ibm4&amp;t=1s">OCR Webinar: Title IX Regulations Addressing Sexual Harassment (posted May 8, 2020)</a></li>
+<li><a href="https://www.youtube.com/watch?v=yQ4-S5_Jahw">Conducting and Adjudicating Title IX Hearings: An OCR Training Webinar (posted July 23, 2020)</a></li>
+<li><a href="https://www.youtube.com/watch?v=YA5S2_A3UAY">OCR Short Webinar on How to Report Sexual Harassment under Title IX (posted July 27, 2020)</a></li>
+<li><a href="https://www.youtube.com/watch?feature=youtu.be&amp;utm_content=&amp;utm_medium=email&amp;utm_name=&amp;utm_source=govdelivery&amp;utm_term=&amp;v=XzSJ4uNspq8">The First Amendment and Title IX: An OCR Short Webinar (posted on July 29, 2020)</a></li>
+<li><a href="https://www.youtube.com/watch?v=48UwobtiKDI">OCR Webinar on Due Process Protections under the New Title IX Regulations (posted on July 21, 2020)</a></li>
+<li><a href="https://www.youtube.com/watch?v=i-BCnhUsJ4s&amp;feature=youtu.be&amp;utm_content=&amp;utm_medium=email&amp;utm_name=&amp;utm_source=govdelivery&amp;utm_term=">OCR Webinar on New Title IX Protections Against Sexual Assault (posted July 7, 2020)</a></li>
+<li><a href="https://www.youtube.com/watch?v=oqsroXvzRAc">OCR Short Webinar on Sexual Violence in Public Schools (posted on March 19, 2020)</a></li>
+</ul>
+<h2>Full Version of Title IX Sexual Harassment Regulations</h2>
+<p><a href="https://www.govinfo.gov/content/pkg/FR-2020-05-19/pdf/2020-10512.pdf">Full version of the Title IX Regulations Addressing Sexual Harassment (PDF)
+</a></p>
+</section>
+</div> <!-- /main_content_wrap -->
+</div>

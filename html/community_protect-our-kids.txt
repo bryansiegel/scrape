@@ -1,0 +1,100 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<img alt="" class="hero" src="images/protect-hero.jpg"/>
+<h1>Protect Our Kids</h1>
+<p>The Clark County School District is entrusted with the most precious resource that exists, our community’s children. The vast majority of our employees and volunteers work hard every day to develop appropriate relationships with students.</p>
+<p>However, we know that even one employee or volunteer who has an inappropriate communication or relationship with a student is too many. This website outlines recent changes made to protect our kids and to give families peace of mind.</p>
+<p>This website also provides information regarding a new state  that requires adults who volunteer at our schools or during school activities to be fingerprinted.</p>
+<p>To report alleged abuse or misconduct, call CCSD Police at: 702-799-5411 or local law enforcement. Additionally, contact Child Protective Services at: 702-399-0081.</p>
+<h2>Volunteer fingerprinting process required under state law:</h2>
+<p>The 2019 Nevada Legislature passed Senate Bill 185, which makes it easier to volunteer at Clark County School District (CCSD) schools. The bill clarifies requirements for parents and members of the community to volunteer at schools. <a href="https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6313/Text">Click here</a> to view details regarding SB 185.</p>
+<p>The fingerprinting law modification will no longer require people who volunteer four or more times a month to go through the fingerprinting process, unless they will be left unsupervised with students.</p>
+<p>Also, some volunteers, such as law enforcement officials, who are fingerprinted as part of their job can receive a waiver from having to be fingerprinted again.</p>
+<p>This website will continue to be updated as needed as CCSD works to update its volunteer requirements to comply with SB 185 passed into law in June 2019.</p>
+<p>Volunteers can <a href="https://ccsd.taleo.net/careersection/7/jobsearch.ftl?lang=en">start the online application process here</a>.</p>
+<!--
+					<ul>
+						<li>Visit and follow the path: Employees>Job Opportunities>Apply Now</li>
+						<li>On the left side of the webpage look for - CCSD Representative/Volunteers - click the "here" link in blue font</li>
+						<li>Follow the directions to create a volunteer account</li>
+						<li>Complete the application as indicated (<a href="pdf/CCSD_Reprentative_Application_Instructions.pdf">Additional instructions</a>) <a href="pdf/Instrucciones-de-aplicacion.pdf">Instrucciones de aplicación</a></li>
+						<li>The process consists of payment to complete a eligibility check including fingerprinting (<a href="pdf/volunteer-fingerprinting-instructions-english.pdf">Instructions</a>) <a href="pdf/volunteer-fingerprinting-instructions-spanish.pdf">Instrucciones de huellas dactilares</a></li>
+						<li>Once this process is complete, volunteers will be issued a CCSD volunteer badge. This application process will be effective for 5 years, but badges will be re-issued annually.</li>
+						<li><a href="pdf/Volunteer-Application-Instructions-for-Government-Employees.pdf">Volunteer application Instructions for Government Employees</a></li>
+						<li><a href="pdf/Application-Instructions-for-Volunteers-of-Government-and-Non-Profit-Entitites.pdf">Volunteer application instructions for volunteers of Government and Non-Profit entities</a></li>
+					</ul>
+-->
+<!--
+					<p>State law also requires volunteers to acknowledge they are mandatory child abuse reporters:</p>
+					<ul>
+						<li><a href="http://ccsd.net/community/protect-our-kids/pdf/FinalVolunteerAcknowledgmentReportChildAbuseDraft8417.pdf">Final Volunteer Acknowledgement Form (you will sign this form at your school)</a></li>
+						<li><a href="http://ccsd.net/community/protect-our-kids/pdf/Forma-Reconocimiento-Final-de-Voluntario.pdf">Forma Reconocimiento Final de Voluntario (usted firmará forma en su escuela)</a></li>
+						<li><a href="http://ccsd.net/community/protect-our-kids/pdf/DefinitionsforChildAbuseVolunteerAcknowledgment8417.pdf">Definitions of Child Abuse for Volunteers (this is optional reading for volunteers)</a></li>
+						<li><a href="http://ccsd.net/community/protect-our-kids/pdf/Definiciones-de-abuso-infantil-para-voluntarios.pdf">Definiciones de abuso infantil para voluntarios (Esta es una lectura opcional para voluntarios)
+</a></li>
+
+					</ul>
+-->
+<h2>Policy and Regulation 4100:</h2>
+<p>CCSD has also worked with employees, students, families and the community to develop guidelines and a regulation that outline appropriate relationships, interactions, and communications between district employees/volunteers and students.</p>
+<p>The Clark County School District (CCSD) Board of School Trustees voted during a Regular Board Meeting on Sept. 28, 2017 to approve <a href="http://ccsd.net/district/policies-regulations/pdf/4100_P.pdf">Policy 4100</a> and <a href="http://ccsd.net/district/policies-regulations/pdf/4100_R.pdf">Regulation 4100</a>.
+</p>
+<p>A working group of employees, students, parents, and community members helped develop the draft of this regulation, which was then presented to a community roundtable for input on June 15, 2017. CCSD also gathered input via an online survey, and survey results can be seen below.
+</p>
+<h2>Guidelines for CCSD employees:</h2>
+<p><a href="http://ccsd.net/community/protect-our-kids/pdf/faqs.pdf">FAQ’s for CCSD Employees</a></p>
+<h2>Training videos:</h2>
+<ul>
+<li>Videos are being updated to align with changes made to state law regarding volunteering at schools by the 2019 Legislature in June 2019. The changes are designed to make it easier to volunteer at CCSD schools</li>
+</ul>
+<h2>Parent letter about Policy and Regulation 4100:</h2>
+<p>Messaging is being updated to align with changes made to state law regarding volunteering at schools by the 2019 Legislature in June 2019. The changes are designed to make it easier to volunteer at Clark County School District CCSD schools</p>
+<h2>List of approved electronic systems for communication with students:</h2>
+<p><a href="https://safe.ccsd.net/approved-list/">View the list of approved electronic systems for communication with students. Please filter the selection by selecting "Communication".</a></p>
+<!-- 					<p><a href="https://docs.google.com/document/d/1EEhDevDXgq6_Rio7dXnHWuYm1ULS0PVJfNxSDoSUZlk/edit?usp=sharing">View the list of approved electronic systems for communication with students</a></p> -->
+<h2>Responsible Digital Citizenship:</h2>
+<ul>
+<li><a href="http://ccsd.net/community/protect-our-kids/pdf/DigitalPledge_Poster-Flyer%20.pdf">Digital Pledge Poster</a></li>
+<li><a href="http://ccsd.net/community/protect-our-kids/pdf/DigitalCitizen_Poster-Flyer.pdf">Digital Citizen Poster</a></li>
+<li><a href="http://ccsd.net/community/protect-our-kids/pdf/KidSMART_Poster-Flyer.pdf">KidSMART Poster</a></li>
+<li><a href="http://ccsd.net/community/protect-our-kids/pdf/DigitalCitizenship-TeacherResources_July2017.pdf">Digital Citizenship Teacher Resource</a></li>
+</ul>
+<h2>Here are the results of the online survey:</h2>
+<img alt="Question 1 survey result" src="images/q1-4100.png"/><br>
+<img alt="Question 2 survey result" src="images/q2-4100.png"/><br>
+<img alt="Question 3 survey result" src="images/q3-4100.png"/><br/>
+<img alt="Question 4 survey result" src="images/q4-4100.png"/><br/>
+<img alt="Question 5 survey result" src="images/q5-4100.png"/><br/>
+<img alt="Question 6 survey result" src="images/q6-4100.png"/><br/>
+<img alt="Question 7 survey result" src="images/q7-4100.png"/><br/>
+</br></br></section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section>
+<!-- 	<h3 class="section-title-lined">Social</h3> -->
+<!-- LINKEDIN -->
+<div style="margin: 1em 0;">
+<div class="sidebar-banner">
+<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="sidebar-question">Have A Question?</div>
+<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+<div class="sidebar-contact">Contact us at</div>
+<div class="sidebar-phone">702-799-CCSD</div>
+</div>
+</div>
+<!-- TWITTER -->
+<!--
+	<div style="margin: 1em 0;">
+		<a class="twitter-timeline" href="https://twitter.com/@CCSDPartnership" width="260" height="350" data-widget-id="322426958728265728">Tweets by @CCSDPartnership</a>
+	</div>
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div style="margin: 1em 0;">
+		<div class="fb-recommendations" data-site="ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+	</div>
+-->
+</section>
+</div> <!-- /sidebar-wrap -->
+</div>

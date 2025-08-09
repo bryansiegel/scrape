@@ -1,0 +1,201 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main">
+<section class="content-holder">
+<section class="content-holder">
+<h1>Committees</h1>
+<h3><a href="https://docs.google.com/document/d/1PIwUlrlx3-AabHq6UkwNM3Ua6AUkgNz6Wa8WvW-GV74/view?tab=t.0" target="_blank">NIAA Parent/Guardian Representative Application</a></h3>
+<p>CCSD is accepting applications for a Parent/Guardian Representative to serve on the Nevada Interscholastic Activities Association (NIAA) Board of Control. The applicant must have a student currently participating in a sanctioned high school sport and meet eligibility requirements outlined in <a href="https://www.leg.state.nv.us/nac/NAC-385B.html#NAC385BSec110" target="_blank">NAC 385B</a>.</p>
+<p>The term begins September 23, 2025, and ends June 2028. Some travel to Reno may be required, with costs covered by NIAA. The application will be open for 14 days starting August 1, 2025.</p>
+<p>The selected parent/guardian must understand if they are selected to serve in this role representing their region within the NIAA, there is a potential loss of personal/professional (work) time as the NIAA Board of Control conducts four regularly scheduled seasonal meetings; may conduct, at any given time, an emergency meeting; and the NIAA office staff will conduct prescheduled committee meetings in addition to the NIAA Board of Control meetings. While there may be virtual options for some meetings, the member’s attendance may be required when virtual options are not available. Travel to Reno, Nevada, may be required to participate in meetings. The NIAA will provide coverage for all travel and lodging accommodations in Reno, Nevada. The selected member’s name, image, and likeness may be included in reports generated through the media, public commentary, and NIAA staff materials.</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1rFRUfxcsd_HzI5sYrBsqu5NuaUaWcGflYQ8c4Z1xRtK5JQ/viewform" target="_blank">Online Application</a></p>
+<hr/>
+<h2>School Board Committees</h2>
+<hr/>
+<p><strong><a href="http://azac.ccsd.net" target="_blank">Attendance Zone Advisory Commission (AZAC)</a></strong>
+<ul>
+<li>The purpose of this commission is to bring school zoning recommendations to the full Board. Each Board member appoints two members from his or her District.</li>
+<li>Committee members include: Nicholas Fedei, Chair, Dave Flatt, Vice Chair, Lance Arnt, Diane Kinsel, John Shea, Jess Tirado, Matthew Tramp, Tim Vicario, Rudy Zamora.</li>
+</ul>
+<p><strong>Audit Advisory Committee</strong>
+<ul>
+<li>The purpose of this committee is to advise the Board in strengthening accountability for stewardship and efficient use of public funds; provide a communication link between external and internal auditors and the Board of Trustees; enhance transparency of the District's financial operations; and improve public trust in the honesty and integrity of its public officials.</li>
+<li><a href="/trustees/pdf/committee-bylaws/Audit-Advisory-Committee-Bylaws-and-Calendar-06-2023.pdf" target="_blank">Committee Bylaws and Calendar</a></li>
+<li>Committee members include: Elizabeth Hammer, Maegan Hilton, Joshua Robinson, Joseph Throneberry.</li>
+</ul>
+<hr/>
+<!--
+                            
+  <h2>Join the CCSD Board of Trustees Audit Audit Advisory Committee</h2>
+
+<p>The Clark County School District Board of Trustees formed the Audit Advisory Committee in 2008 to provide advice in the following areas:  Strengthening accountability for the stewardship and efficient use of public funds; providing a communication link between the external and internal auditors and the Board; enhancing transparency of the District's financial operations; and improving public trust in the honesty and integrity of its public officials.  Committee members serve two-year terms.<br> 
+<a href="pdf/2025-Audit-Advisory-Committee-Application-new.pdf" target="_blank">Audit Audit Advisory Committee Application (PDF)</a> 
+</p>
+<p>The Clark County School District Board of Trustees Audit Advisory Committee is looking to fill one member vacancy.  Applications must be received in the Office of the Board of Trustees on or before Friday, April 25, 2025, at 4:00 p.m. <br>
+No exceptions will be made.  Postmarks will not be considered.
+	
+</p>
+                            
+                            <hr>
+-->
+<p><strong><a href="http://capitalimprovementplan.ccsd.net/who-we-are/" target="_blank">Bond Oversight Committee (BOC)</a></strong>
+<ul>
+<li>The purpose of this committee is to provide input on the distribution of the district's 1998 bond funds. Each Board member appoints one committee member from their District. The district also nominates members of the committee.</li>
+<li>Board liaison is Trustee Emily Stevens.</li>
+<li>Committee members include: Alfonso Lopez, Chair, Jeana Blackman-Taylor, First Vice Chair, Sally Achord, Jessica Allen, Abraham Camejo, David Flatt, David Flippo, Margarita Gamboa Harris, Byron Goynes, Robert Gurdison, Nakia Jackson-Hale, Walter Jones, Stephen Silberkraus, Yvette Williams.</li>
+</ul>
+<p><strong><a href="http://ccsd.net/resources/administrative-management/committees/oversight-panel-for-school-facilities.pdf" target="_blank">Oversight Panel for School Facilities</a></strong>
+<ul>
+<li>The purpose of this panel is to examine and make recommendations for financing the costs of new construction, design, maintenance and repair of school facilities.
+Board liaison is Trustee Ramona Esparza-Stoffregan.</li>
+<!--                                 <li>Committee members include:   James Barrett, Chair, Eric Giles, Vice Chair, Rick Darnold, Olivia Diaz, Tracy Folda, Pamela Goynes-Brown, James Halsey, Allan Litman, Michelle Romero, Tick Segerblom, and Anna Slighting.</li> -->
+<li>Elected Local Government members include: Councilwoman Carrie Cox -  City of Henderson, Councilwoman Ruth Garcia-Anderson - City of North Las Vegas, Mayor Carolyn Goodman -  City of Las Vegas, Councilwoman Sherri Jorgensen -  Boulder City, Mayor Allan Litman -  City of Mesquite, Commissioner Tick Segerblom - Clark County.</li>
+<li>Board of School Trustees appointed members include: Greg Korte - Construction Project Financing/Cost Estimation, Eric Giles (Chair) -  Structural/Civil Engineering, James Halsey (Vice Chair) - Construction/Public Works, Michael Longi -  Gaming, Anna Slighting - General Public.</li>
+</ul>
+<p><strong><a href="/trustees/school-name-committee.php" target="_blank">School Name Committee</a></strong>
+<ul>
+<li>The purpose of this committee is to review naming nominations for unnamed Clark County School District facilities, including schools, central office locations and areas within schools (for example, libraries and sports facilities).</li>
+<!--                             <li>Board liaisons are Chairperson Trustee Irene A. Cepeda, and Linda P. Cavazos.</li> -->
+<li>Two School Board trustees serve as members of the committee: Trustee Tameka Henry (committee chairperson) and Trustee Linda P. Cavazos. The other committee members, who are appointed by the superintendent, include: Bradley Combs, Abigail Johnson, Piper Overstreet-White, and Michael Patterson.</li>
+</ul>
+<hr>
+<!--
+          <h2>Selection Process for Sex Education Advisory Committee</h2>
+          <p>
+          <p>The Clark County School District Board of Trustees Sex Education Advisory Committee (SEAC) is accepting applications of interest from individuals wishing to join this committee. The SEAC has vacancies for counseling, religion, one parent/guardian, and one Clark County School District student. For information regarding the Selection Process, please review the following link <a href="https://ccsd.net/trustees/pdf/SEAC-Selection-Process-2024.pdf" target="_blank">here</a> (PDF).</p>
+          <p>Individuals wishing to join this committee please follow the Sex Education Advisory Committee Application <a href="https://docs.google.com/forms/d/e/1FAIpQLSeE7czpSf_YdLexJ9Axn916xprtQ3N5K--V2PX5RiVw9xwzlg/viewform" target="_blank">here</a>.</p>
+-->
+<h2>Sex Education Advisory Committee</h2>
+<!--
+  <p><strong>Sex Education Advisory Committee (SEAC) Application Notification Selection Process </strong></p>
+          <p>Nevada Revised Statutes (NRS) 389.036 mandates that a Sex Education Advisory Committee (SEAC) to the Board of School Trustees for all school districts be established. Clark County School District Regulation 6123 and Policy 6123, Instruction on the Human Immunodeficiency Virus, Human Reproductive System, Related Communicable Diseases, and Sexual Responsibility, state that the Board of School Trustees shall appoint an advisory committee consisting of the following representation for a two-year term:</p>
+         
+	          <blockquote>1. Five parents/guardians of children who attend schools in the Clark County School District (District).<br>
+				  2. Four representatives, one from each of four of the following professions or occupations: 
+				  <ul class="lower" style="margin-top: 2px;margin-bottom: -25px;">
+					<li>Medicine or nursing,</li> <li>Counseling,</li><li>Religion,</li> <li>Pupils who attend school in the District,</li> <li>Teaching.</li></ul><br/>
+				  3. Two students will be appointed as non-voting members to serve as a resource to the committee. 
+				  </blockquote>
+	          
+	          <p>SEAC is looking to fill the following vacancies: counseling, religion, one parent/guardian, and one student.</p>
+
+<p>Additionally, as per the Sex Education Advisory Committee Bylaws, there shall be no more than two SEAC voting members from one Trustee's voting district.</p>
+
+<p>District C currently has two voting members, therefore no applications for voting members shall be accepted from District C.</p>
+
+	           <p>Applications will be accepted beginning Friday, August 16, 2024, and must be submitted electronically via Google Form no later than 4:00 p.m. on Tuesday, September 17, 2024.The application can be accessed <a href=" https://bit.ly/4dA8ZRL. " target="_blank">here</a>.</p>
+-->
+<!--
+   <p><strong>Sex Education Advisory Committee Selection Process</strong></p>
+   <p>Nevada Revised Statutes (NRS) <a href="https://www.leg.state.nv.us/nrs/nrs-389.html#NRS389Sec036" target="_blank">389.036</a> mmandates that a Sex Education Advisory Committee (SEAC) to the Board of School Trustees for all school districts be established. Clark County School District (District) <a href="https://ccsd.net/district/policies-regulations/pdf/6123_R.pdf" target="_blank">Regulation 6123</a> and <a href="https://ccsd.net/district/policies-regulations/pdf/6123_P.pdf" target="_blank">Policy 6123</a>, Instruction on the Human Immunodeficiency Virus, Human
+Reproductive System, Related Communicable Diseases, and Sexual Responsibility, state that the Board of School Trustees shall appoint an advisory committee consisting of the following representation for a two-year term:</p>
+         
+	          <blockquote>1. Five parents/guardians of children who attend schools in the Clark County School District (District).<br>
+				  2. Four representatives, one from each of four of the following professions or occupations:<br>
+				  <ul class="lower" style="margin-top: 2px;margin-bottom: -25px;">
+					<li>Medicine or nursing,</li> 
+					<li>Counseling,</li>
+					<li>Religion,</li> 
+					<li>Pupils who attend school in the District,</li> 
+					<li>Teaching.</li>
+					</ul>
+					<br/>
+				  3. Two students will be appointed as non-voting members to serve as a resource to the committee. 
+				  </blockquote>
+	          
+	          <p>SEAC is looking to fill the following vacancies: <strong>medicine or nursing, counseling, religion, teaching, five (5) parents/guardians, and two (2) students</strong>.</p>
+
+<p>Additionally, as per the SEAC Bylaws, there shall be no more than two SEAC voting members from one
+Trustee?s voting district.</p>
+
+<p>District C currently has two voting members, therefore no applications for voting members shall be accepted from District C.</p>
+
+	 <p>All applications must be submitted electronically via the SEAC Application Google form no later than
+4:00 p.m. on Thursday, June 12, 2025. No exceptions will be made.</p>
+  
+  
+   <p>Applications will be accepted beginning Friday, May 9, 2025, and must be submitted electronically via the <a href="https://docs.google.com/forms/u/0/d/e/1FAIpQLSeE7czpSf_YdLexJ9Axn916xprtQ3N5K--V2PX5RiVw9xwzlg/closedform" target="_blank">SEAC Application</a> Google Form no later than 4:00 p.m. on Thursday, June 12, 2025. Exceptions will not be made. Applicants who submitted applications previously and are interested are encouraged to complete a new application.</p>
+  
+  <hr />
+  
+-->
+<p><strong><a href="https://cpd.ccsd.net/departments/science/k-12-health-and-physical-education/sex-education/">Sex Education Advisory Committee</a></strong>
+<ul>
+<li>The purpose of the committee is to make recommendations to the Board regarding content and materials that are contained in sex education units.</li>
+<li>Committee members include: Garet Benavides, Zachariah Brown, Amanda Knowles, Dennis Lawrence, Elizabeth Ornelas, Erica Reynolds, and Jacqueline Davania-Williamson.   </li>
+</ul>
+<p><strong><a href="https://cpd.ccsd.net/departments/science/k-12-health-and-physical-education/sex-education/">Sex Education Advisory Committee Recommending Committee</a></strong>
+<ul>
+<li>The purpose of this committee is to make recommendations to the Board on membership to the Sex Education Advisory Committee.</li>
+<li>Committee members include: Margy Feldman, Lindsey Dalley, Ender Austin, Stavan Corbett, Julie Vigil, Nicole Hollimon, and Donna West.</li>
+</ul>
+<hr>
+<h2>Government committees with School Board representation</h2>
+<p><strong><a href="http://www.snrpc.org" target="_blank">Southern Nevada Regional Planning Commission (SNRPC)</a></strong>
+<ul>
+<li>The purpose of this regional commission is to develop a comprehensive regional policy plan for balanced economic, social, physical, environmental and fiscal development, as well as orderly growth management of the region.</li>
+<li>Board liaison is Trustee Emily Stevens (voting member) and Trustee Ramona Esparza-Stoffregan.</li>
+</ul>
+<p><strong><a href="http://www.clarkcountynv.gov" target="_blank">Debt Management Commission</a></strong>
+<ul>
+<li>The purpose of this commission is to secure timely and adequate funding to meet cash flow requirements for construction projects throughout Clark County, including other government entities beyond the school district.</li>
+<li>Board liaison is Trustee Emily Stevens (voting member) and Trustee Ramona Esparza-Stoffregan.</li>
+</ul>
+<h2>State or national affiliates</h2>
+<p><strong><a href="http://www.cgcs.org" target="_blank">Council of the Great City Schools</a></strong>
+<ul>
+<li>The purpose of this organization is to advocate for the nation's large urban school districts and their children.</li>
+<!--                             <li><a href="http://cgcs.schoolwires.net/Page/24" target="_blank">Read more</a> about the Council of Great City Schools and what it achieved in the 2013-2014 school year.</li> -->
+<li>Board liaison is Trustee Irene Bustamante Adams.</li>
+</ul>
+<p><strong><a href="http://www.nvasb.org" target="_blank">Nevada Association of School Boards (NASB)</a></strong>
+<ul>
+<li>The purpose of this organization is for members of school boards from throughout the state to work together on education issues that impact all Nevada schools and students.</li>
+<li>This organization is comprised of school districts from throughout the state of Nevada.</li>
+<li>Board liaisons are as follows: Trustee Irene Bustamante Adams and Trustee Brenda Zamora.<!--  sit on the Executive Committee. Trustee Deanna L. Wright, Director, and Trustee Irene A. Cepeda, Legislative Representative. --></li>
+</ul>
+<p><strong><a href="http://www.niaa.com" target="_blank">Nevada Interscholastic Activities Association (NIAA)</a></strong>
+<ul>
+<li>The purpose of this association is to promote, control, supervise, and regulate all interscholastic athletic events and other interscholastic events in Nevada's public schools.</li>
+<li>Board of Control members include Trustee Linda P. Cavazos, Ron Guerzon, Kevin McPartlin, Deanna M. Riddle, and Pam Sloan.</li>
+</ul>
+<p><strong><a href="http://www.pbs.org" target="_blank">Public Broadcasting Service (PBS)</a></strong>
+<ul>
+<li>The Trustee liaison sits on the Vegas PBS board and ensures that other trustees, acting in their capacity as FCC licensees, are aware of national programming policies affecting Vegas PBS.</li>
+<li>Board liaison is Trustee Lydia Dominguez.</li>
+</ul>
+<p><strong><a href="http://www.apts.org" target="_blank">America's Public Television Stations (APTS)</a></strong>
+<ul>
+<li>The Trustee liaison to this organization ensures that other Trustees, acting in their capacity as FCC licensees, are aware of legislative and regulatory issues affecting Vegas PBS, and assists with joint lobbying activities with Southern Nevada Public Television.</li>
+<li>Board liaison is Trustee Lydia Dominguez.</li>
+</ul>
+<h2>National or local boards/committees on which the Board traditionally participates</h2>
+<p><strong><a href="http://www.ccpef.org" target="_blank">Public Education Foundation</a></strong>
+<ul>
+<li>The mission of the Public Education Foundation is to mobilize community and global resources to support and impact public education through initiatives, programs, and promising practices designed to improve student performance and advance quality educational opportunities for all children.</li>
+<li>Board liaison is Trustee Adam Johnson.</li>
+</ul>
+<!--
+                        <p><strong><a href="http://ccsd.net/community/partnership/" target="_blank">School-Community Partnership</a></strong><br />
+                            <ul>
+                            <li>The School-Community Partnership program works with businesses and community members to provide ventures that are designed to support, supplement, and complement the curriculum of the Clark County public schools. The board liaison assists the School-Community Partnership Office with recruitment of partners and assists with strategic planning and goal setting.</li>
+                            <li>Board liaison is Trustee Evelyn Garcia Morales.</li>
+                            </ul>
+-->
+</p></p></p></p></p></p></p></p></hr></p></p></hr></p></p></p></p></p></section>
+</section></div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<div class="sidebar-banner" style="float:right; height:330px; margin-top: 0px;margin-left: 20px; margin-right: 0px;margin-bottom: 20px;
+	                 height:250px; width: 200px;padding: 10px;">
+<div><img alt="question" class="trustee-sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
+<div class="trustee-sidebar-question">Have A Question?</div>
+<div class="trustee-sidebar-contact">Contact us at</div>
+<div class="trustee-sidebar-phone">702-799-CCSD</div>
+<div class="trustee-sidebar-email">Email Your Trustee</div>
+<!--                     <button class="email-link"> -->
+<a href="/trustees/contact/all"><a href="/trustees/contact/all"><img alt="email" class="trustee-sidebar-iconemail" src="/_static/images/icons/email-trustee.png"/></a>
+<!-- </button> -->
+<!--                     <button id="myBtn" class="email-link"><img src="/_static/images/icons/email-trustee.png" class="trustee-sidebar-iconemail" alt="email"/></button> -->
+</a>
+</div>
+</div> <!-- /sidebar-wrap -->
+</div>

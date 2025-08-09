@@ -1,0 +1,51 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- MAIN CONTENT -->
+<div id="main_content">
+<section class="content-holder">
+<h1>School Contact Information</h1>
+<div>
+<div class="addr-txt">
+<h2 style="color: #444;font-size: 21px;line-height: 27px;margin: 20px 0 10px">
+                COLLEGE OF SOUTHERN NEVADA HS WEST<br/>
+</h2>
+<!-- 		Principal:  -->
+<p>Principal:  Connolly, Andrea M<br>
+<!-- 		Principal:  -->
+<!--         <a href="/schools/contact-information/">Link to this page</a> -->
+<!-- 								$principle = $match['TXTADMINISTRATOR']; -->
+<!-- 								Connolly, Andrea M --><!-- <br> -->
+                                6375 WEST CHARLESTON<br>
+                                LAS VEGAS, NV 89146<br>
+                                Phone: 702-651-5030<br/>
+                                Fax: 702-651-5035<br/>
+<a href="http://maps.google.com/maps?q=6375 WEST CHARLESTON,+LAS VEGAS,+NV+89146">Map</a>
+                                 | <a href="https://csnhighschool.org/">Website</a> </br></br></br></p>
+<b>Region:</b> 3                                                             <p><b>Motto:</b> Seize the Opportunity </p> <p><b>Mission:</b> The mission of the College of Southern Nevada High School is to facilitate the successful transition of our students from high school to post-secondary education.</p>
+</div>
+</div>
+</section>
+</div><!-- /main_content -->
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>

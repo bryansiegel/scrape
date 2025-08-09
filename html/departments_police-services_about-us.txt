@@ -1,0 +1,185 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-wrap" id="main_content_wrap" role="main content">
+<section class="content-holder">
+<h2>
+	ABOUT US</h2>
+<div>
+<div>
+<p>
+			The Clark County School District Police Department is dedicated to providing a safe and secure environment conducive to learning.</p>
+<p>
+			The Clark County School District Police Department works hand-in-hand with school administrations, community outreach programs, child and family services, charitable youth organizations, and with other local police agencies to ensure the well-being and safety of our students.</p>
+<h2>
+			Department Mission</h2>
+<p>
+			The mission of the Clark County School District Police Department is to provide a safe and secure educational environment and to maintain a positive and constructive relationship with the community we serve.</p>
+<p>
+			Our mission supports the CCSD Mission in that, "All students progress in school and graduate prepared to succeed and contribute in a diverse global society."</p>
+<h2>
+			P.O.L.I.C.E. - Our Departmental Values</h2>
+<p>
+			The CCSD Police Department exists to serve the school and community. Central to our mission are the values that guide our work and decisions and help us contribute to the quality of life. Our values are characteristics or qualities of worth. They are non-negotiable. Although we may need to balance them, we will never ignore them for the sake of expediency or personal preference. We hold our values before us to teach and remind us, and the school and community we serve, of our ideals. They are the foundation upon which our operations are built.</p>
+</div>
+<h2>
+		Problem Solving</h2>
+<p>
+		We are most effective when we help identify and solve community problems, therefore:</p>
+<ul>
+<li>
+			We work to anticipate and prevent problems and seek innovative solutions.</li>
+<li>
+			We give high priority to preventing crime and helping citizens feel safe.</li>
+<li>
+			We plan, analyze and evaluate.</li>
+<li>
+			We listen to problems and complaints with sympathy and sensitivity.</li>
+</ul>
+<h2>
+		Objectivity</h2>
+<p>
+		The fair and equitable. We are capable people who are doing important and satisfying work for the CCSD, therefore:</p>
+<ul>
+<li>
+			We provide the fair and equitable application of protection, enforcement and service without regards to gender, race, creed, religion, nationality, cultural, or social economic standing and with the highest regards to the protection and respect for human life.</li>
+<li>
+			We respect, care about, trust and support each other.</li>
+<li>
+			We are disciplined and reliable.</li>
+<li>
+			We balance our professional and personal lives.</li>
+<li>
+			We cultivate our best characteristics: initiative, enthusiasm, creativity, patience, competence, and judgment.</li>
+<li>
+			We give first priority to situations which threaten life.</li>
+<li>
+			We use force only when necessary.</li>
+<li>
+			We treat all persons with courtesy and respect.</li>
+<li>
+			We are compassionate and caring.</li>
+</ul>
+<h2>
+		Laws &amp; Constitution</h2>
+<p>
+		We believe in the principles embodied in our Constitution. We recognize the authority of Federal, State and local laws, therefore:</p>
+<ul>
+<li>
+			We respect and protect the rights of all citizens. We treat all persons fairly and without favoritism.</li>
+<li>
+			We are knowledgeable of the laws which we enforce and obey.</li>
+</ul>
+<h2>
+		Integrity</h2>
+<p>
+		We believe integrity is the basis for trust, therefore:</p>
+<ul>
+<li>
+			We are honest and truthful.</li>
+<li>
+			We are consistent in our beliefs and actions.</li>
+<li>
+			We hold ourselves to high standards of moral and ethical conduct.</li>
+<li>
+			We are role models for the school/community.</li>
+</ul>
+<h2>
+		Cooperation</h2>
+<p>
+		We believe that cooperation and team work will enable us to combine our diverse backgrounds, skills and styles to achieve common goals, therefore:</p>
+<ul>
+<li>
+			We work as a team toward realistic, mutually agreed upon goals.</li>
+<li>
+			We seek the help and cooperation of others.</li>
+<li>
+			We seek to resolve conflicts.</li>
+<li>
+			We rely on community support and involvement.</li>
+</ul>
+<h2>
+		Excellence</h2>
+<p>
+		We strive for personal and professional excellence, therefore:</p>
+<ul>
+<li>
+			We have a vision for the future.</li>
+<li>
+			We seek adequate resources: staffing, facilities, equipment and training.</li>
+<li>
+			We recruit and hire the best people.</li>
+<li>
+			We train and develop our employees to their highest potential.</li>
+<li>
+			We are committed to fair and equitable personnel practices.</li>
+<li>
+			We provide organizational mobility.</li>
+<li>
+			We recognize and reward good performance.</li>
+<li>
+			We support reasonable risk-taking and are tolerant of honest mistakes.</li>
+<li>
+			We are receptive to new ideas and to change.</li>
+<li>
+			We lead by example.</li>
+</ul>
+<h3>
+<strong>ACHIEVEMENT</strong></h3>
+<p>
+		We seek to achieve greatness and to facilitate the pursuit of high achievement by the District, therefore:</p>
+<ul>
+<li>
+			We seek to assist the District in improving student and staff achievement.</li>
+<li>
+			We seek personal and departmental achievement through our professionalism, dedication, and commitment.</li>
+</ul>
+<h3>
+<strong>A</strong>CCESS</h3>
+<p>
+		We ensure access is provided to the District and that the Department is accessible to those in need of assistance, or service, therefore:</p>
+<ul>
+<li>
+			We ensure that students, staff, parents, and the community have fair and equitable access to the district and to the Department regardless of gender, race, creed, religion, nationality, cultural identity, sexual orientation, mental capacity, physical ability, or social economic standing and with the highest regard with respect for human life.</li>
+<li>
+			We protect those in need of protection.</li>
+<li>
+			We are open to new ideas, systems, procedures, techniques, and philosophies.</li>
+<li>
+			We encourage individuals and/or groups to contact us to recommend improvements, provide praise, to make a complaint, to work together on issues, or to form a partnership.</li>
+</ul>
+<h3>
+<strong>A</strong>CCOUNTABILITY</h3>
+<p>
+		We are accountable to each other, the district and to the citizens we serve, who are the source of our authority, therefore:</p>
+<ul>
+<li>
+			We are responsive to the parents, students, staff, district, and community concerns.</li>
+<li>
+			We communicate openly and honestly among ourselves and with the parents, students, staff, district, and community.</li>
+<li>
+			We manage our resources effectively.</li>
+<li>
+			We thoroughly investigate complaints against our employees.</li>
+</ul>
+<p>
+		 </p>
+</div>
+<p>
+	 </p>
+<style type="text/css">
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}</style>
+<style type="text/css">
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}</style>
+</section>
+</div> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>To report a crime, please select the above link or call our 24/7 dispatch @ 702.799.5411.  
+
+If this is an emergency, please call 911. </section>
+</div> <!-- /sidebar-wrap -->
+</div>

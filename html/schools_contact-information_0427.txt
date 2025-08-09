@@ -1,0 +1,51 @@
+<div class="content-wrap" id="content_wrap">
+<main class="main-content-wrap" id="main_content_wrap">
+<!-- MAIN CONTENT -->
+<div id="main_content">
+<section class="content-holder">
+<h1>School Contact Information</h1>
+<div>
+<div class="addr-txt">
+<h2 style="color: #444;font-size: 21px;line-height: 27px;margin: 20px 0 10px">
+                GILBERT, C.V.T. ES<br/>
+</h2>
+<!-- 		Principal:  -->
+<p>Principal:  Faltinosky, Deborah Annette <br>
+<!-- 		Principal:  -->
+<!--         <a href="/schools/contact-information/">Link to this page</a> -->
+<!-- 								$principle = $match['TXTADMINISTRATOR']; -->
+<!-- 								Faltinosky, Deborah Annette  --><!-- <br> -->
+                                2101 WEST CARTIER AVENUE<br>
+                                NORTH LAS VEGAS, NV 89032<br>
+                                Phone: 702-799-4730<br/>
+                                Fax: 702-799-4728<br/>
+<a href="http://maps.google.com/maps?q=2101 WEST CARTIER AVENUE,+NORTH LAS VEGAS,+NV+89032">Map</a>
+                                 | <a href="http://www.gilbertmagnetschool.org/">Website</a> </br></br></br></p>
+<b>Region:</b> 1                                                             <p><b>Motto:</b> Gilbert Giraffes are Head and Shoulders Above the Rest</p> <p><b>Mission:</b> The staff and administration of Gilbert Magnet School for Communication and Creative Arts are committed to improving student achievement while empowering students to explore, discover, and express their unique creative abilities.  We hold ourselves responsible for utilizing instructional techniques and resources that provide students with the tools to grow, contribute, and communicate in an ever-changing technological society.  This development will take place in a nurturing and supportive environment where the diversities of life and people are respected, and the physical, social and emotional needs of all students are met.</p>
+</div>
+</div>
+</section>
+</div><!-- /main_content -->
+</main> <!-- /main_content_wrap -->
+<div class="sidebar-wrap" id="sidebar_wrap">
+<!--
+        <div class="sidebar-banner">
+            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
+            <div class="sidebar-question">Have A Question?</div>
+            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
+            <div class="sidebar-contact">Contact us at</div>
+            <div class="sidebar-phone">702-799-CCSD</div>
+        </div>
+-->
+<!--
+<section>
+	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
+	
+-->
+<!-- FACEBOOK RECOMMENDATIONS -->
+<!--
+	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
+</section>
+-->
+</div> <!-- /sidebar-wrap -->
+</div>
