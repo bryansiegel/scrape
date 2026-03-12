@@ -10,7 +10,8 @@
                 ELDORADO HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Brockett, Christina K<br>
+                        
+Principal: Brockett, Christina K<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7200<br/>
                                 Fax: 702-799-7255<br/>
 <a href="http://maps.google.com/maps?q=1139 NORTH LINN LANE,+LAS VEGAS,+NV+89110">Map</a>
-                                 | <a href="http://www.eldoradohs.org">Website</a> </br></br></br></p>
+                                 | <a href="http://www.eldoradohs.org">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Commitment to Excellence Today, Tomorrow, Forever</p> <p><b>Mission:</b> Eldorado High School will provide relevant experiences that develop skills necessary to succeed in an ever-changing world.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

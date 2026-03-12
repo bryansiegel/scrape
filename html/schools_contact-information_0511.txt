@@ -10,7 +10,8 @@
                 MILLER, JOHN F.<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Poglitsch, Elizabeth E<br>
+                        
+Principal: Poglitsch, Elizabeth E<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7401<br/>
                                 Fax: 702-799-0118<br/>
 <a href="http://maps.google.com/maps?q=3840 PECOS MCLEOD INTERCONNECT,+LAS VEGAS,+NV+89121">Map</a>
-                                 | <a href="https://johnfmillerschool.org/">Website</a> </br></br></br></p>
-<b>Region:</b> SSD                                                             <p><b>Motto:</b> All Children Can Learn</p> <p><b>Mission:</b> John F. Miller School provides special education programming and services for students with specialized needs, ages 3-22 years. We are committed to the following beliefs..... That all students have the ability to learn and should be given the opportunity to reach their maximum potential and develop as much self-sufficiency and independence as possible.  That all students will have individualized education programs that reflect their unique and specialized educational needs, and that these programs will be delivered in the least restrictive educational environment appropriate to meet their individual needs. That all students will be provided the opportunity to participate in an educational environment which preserves their dignity, treats all students with respect, and provides an enriched educational experience, with activities geared to the interests and specialized instructional needs of students with the most severe disabilities. That optimal educational progress is achieved through positive home and school partnerships.</p>
-</div>
+                                 | <a href="https://johnfmillerschool.org/">Website</a> 
+<b>Region:</b> 2                                                             <p><b>Motto:</b> All Children Can Learn</p> <p><b>Mission:</b> John F. Miller School provides special education programming and services for students with specialized needs, ages 3-22 years. We are committed to the following beliefs..... That all students have the ability to learn and should be given the opportunity to reach their maximum potential and develop as much self-sufficiency and independence as possible.  That all students will have individualized education programs that reflect their unique and specialized educational needs, and that these programs will be delivered in the least restrictive educational environment appropriate to meet their individual needs. That all students will be provided the opportunity to participate in an educational environment which preserves their dignity, treats all students with respect, and provides an enriched educational experience, with activities geared to the interests and specialized instructional needs of students with the most severe disabilities. That optimal educational progress is achieved through positive home and school partnerships.</p>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

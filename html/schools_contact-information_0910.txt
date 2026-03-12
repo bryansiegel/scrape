@@ -10,7 +10,8 @@
                 HINMAN, EDNA F. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Copenbarger, David M<br>
+                        
+Principal: Copenbarger, David M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8990<br/>
                                 Fax: 702-799-0599<br/>
 <a href="http://maps.google.com/maps?q=450 MERLAYNE DRIVE,+HENDERSON,+NV+89011">Map</a>
-                                 | <a href="https://www.ednafhinmanelementary.com">Website</a> </br></br></br></p>
+                                 | <a href="https://www.ednafhinmanelementary.com">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Hinman Huskies Pull Together</p> <p><b>Mission:</b> It is the mission of Edna F. Hinman Elementary School to provide a safe educational environment that promotes learning and literacy.  It is expected that all members of our school community will behave in a mutually respectful manner and together help promote a positive social and academic environment.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

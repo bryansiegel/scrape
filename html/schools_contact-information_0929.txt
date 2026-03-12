@@ -10,7 +10,8 @@
                 DOOLEY, JOHN ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Hill, Andrea M<br>
+                        
+Principal: Hill, Andrea M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8060<br/>
                                 Fax: 702-799-8076<br/>
 <a href="http://maps.google.com/maps?q=1940 CHICKASAW DRIVE,+HENDERSON,+NV+89002">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/johndooleyelementary">Website</a> </br></br></br></p>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/johndooleyelementary">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> We Rattle the Educational World.</p> <p><b>Mission:</b> To provide a positive learning environment and to build a solid educational foundation in all academic and social areas for each individual student.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

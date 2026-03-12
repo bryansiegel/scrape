@@ -10,7 +10,8 @@
                 COLLEGE OF SOUTHERN NEVADA HS SOUTH<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Connolly, Andrea M<br>
+                        
+Principal: Connolly, Andrea M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-651-3080<br/>
                                 Fax: 702-651-3075<br/>
 <a href="http://maps.google.com/maps?q=700 COLLEGE DRIVE,+HENDERSON,+NV+89002">Map</a>
-                                 | <a href="https://csnhighschool.org/">Website</a> </br></br></br></p>
-<b>Region:</b> 3                                                             <p><b>Motto:</b> Seize the Opportunity </p> <p><b>Mission:</b> The mission of the College of Southern Nevada High School is to facilitate the successful transition of our students from high school to post-secondary education.</p>
-</div>
+                                 | <a href="https://csnhighschool.org/">Website</a> 
+<b>Region:</b> AS                                                             <p><b>Motto:</b> Seize the Opportunity </p> <p><b>Mission:</b> The mission of the College of Southern Nevada High School is to facilitate the successful transition of our students from high school to post-secondary education.</p>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

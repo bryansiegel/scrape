@@ -10,7 +10,8 @@
                 MARTINEZ, REYNALDO L. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Adams, Timothy D<br>
+                        
+Principal: Adams, Timothy D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-3800<br/>
                                 Fax: 702-799-3804<br/>
 <a href="http://maps.google.com/maps?q=350 EAST JUDSON AVE,+NORTH LAS VEGAS,+NV+89030">Map</a>
-                                 | <a href="https://www.reynaldomartinezelementary.com">Website</a> </br></br></br></p>
+                                 | <a href="https://www.reynaldomartinezelementary.com">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Climbing New Heights Toward Excellence</p> <p><b>Mission:</b> The mission of Reynaldo L. Martinez Elementary School is to provide a safe, positive, secure environment where all students can reach their potential in an ever-changing world. Teachers, parents and students will unite to raise student achievement by fostering: life-long love of learning, positive self-image, sense of personal responsibility, appreciation of individual differences and development of talents.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 SHADOW RIDGE HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Kannon, Traci K<br>
+                        
+Principal: Kannon, Traci K<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6699<br/>
                                 Fax: 702-799-4698<br/>
 <a href="http://maps.google.com/maps?q=5050 BRENT LANE,+LAS VEGAS,+NV+89131">Map</a>
-                                 | <a href="http://shadowridgehighschool.com">Website</a> </br></br></br></p>
+                                 | <a href="http://shadowridgehighschool.com">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> First in Spirit, First in Pride</p> <p><b>Mission:</b> Together, the parents, staff, and community of Shadow Ridge High School will ensure that all students have the reading, writing, thinking, and communication competencies to live, lead, create, and compete in an ever-changing world.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

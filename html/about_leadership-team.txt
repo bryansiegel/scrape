@@ -1,0 +1,696 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Leadership Team</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173090">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_173091">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173205">
+<div class="fsElementContent">
+<h2>Superintendent</h2>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideRightLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_173206">
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173207">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173215">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block; border-radius:6px !important"><picture><img alt="Jhone Ebert" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1769092697/ccsdnet/brwdsz95j0zlmridaxg5/jhone-ebert.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="jhone-ebert.jpg" data-resource-uuid="e971ab4a-ffca-41b6-8d0d-41d9df022668" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<p> </p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173208">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173212">
+<div class="fsElementContent">
+<p>Jhone Ebert brings over three decades of experience, passion, and proven leadership to her Superintendent of the Clark County School District (CCSD) role. A longtime Southern Nevada resident and former CCSD educator, Superintendent Ebert has dedicated her career to ensuring that every student—no matter their background or zip code—has the opportunity to succeed in school and life.</p>
+<p><a class="button-1" href="">Learn More About Jhone Ebert</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173138">
+<div class="fsElementContent">
+<h2>Executive Leadership Team</h2>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173092">
+<div class="fsElementContent">
+<p>The Executive Leadership Team serves as the district’s core administrative cabinet, responsible for guiding high-level operations, policy implementation, and strategic planning across CCSD’s nearly 300 schools.</p>
+<p><a class="button-7" href="https://www.ccsd.net/uploaded/themes/default_25/directory/org-chart/ccsd-org-chart.pdf">Organizational Chart</a></p>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173093">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173094">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173095">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Felicia Gonzales" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866573/ccsdnet/ooprvxunxzqteicqesqg/Gonzales-FeliciaJPG-1000x1000-c-r5gnpivsnq5c558xllr62qb3e3jv89msg6kiaal13e.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Gonzales-FeliciaJPG-1000x1000-c-r5gnpivsnq5c558xllr62qb3e3jv89msg6kiaal13e.jpg" data-resource-uuid="a3be545a-709c-4fdc-b90c-ce2eab087c26" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Felicia Gonzales</h4>
+<p>Deputy Superintendent of Business Operations</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173096">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173097">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Dr. Jesse Welsh" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866595/ccsdnet/pvis4qiy93zfbiltdfmf/Welsh-Jesse-1000x1000-c-r5gnribj34v4nid60gmtc8a4jdrrh9ie205erbn3yi.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Welsh-Jesse-1000x1000-c-r5gnribj34v4nid60gmtc8a4jdrrh9ie205erbn3yi.jpg" data-resource-uuid="f4a2421f-aa20-4588-a196-954e929b8e39" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Dr. Jesse Welsh</h4>
+<p><strong>Deputy Superintendent of Teaching and Learning</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173098">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173099">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Justin Dayhoff" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866628/ccsdnet/bdr7zc9tg1hygqgbxxfw/Justin-dayhoff-1-r86s1d3d0puvaqod3dfwtvn2c76aam9cuqyrkdhpze.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Justin-dayhoff-1-r86s1d3d0puvaqod3dfwtvn2c76aam9cuqyrkdhpze.jpg" data-resource-uuid="b0cc85f6-6c77-4065-ba53-b57be1b572d6" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Justin Dayhoff</h4>
+<p>Chief Financial Officer</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173100">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173101">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Mike Casey" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866658/ccsdnet/laktisriskukajsxcklb/casey-1275-200x225-1.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="casey-1275-200x225-1.jpg" data-resource-uuid="0b570c54-cb61-4cf4-9b45-d5018ad87d22" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Mike Casey</h4>
+<p>Chief Operations Officer</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173102">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173103">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173104">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Dr. Anna Colquitt" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1767022609/ccsdnet/iiajkuzjrdltag0phwp4/Anna-Colquitt.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Anna-Colquitt.png" data-resource-uuid="370dc16d-db42-4aac-990a-22b4b3eff6cc" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Dr. Anna Colquitt</h4>
+<p>Chief Strategy Officer</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173105">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173106">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="RoAnn Triana" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866709/ccsdnet/s1h2ngjoqp5abkqmgag1/RoAnnaTrianna.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="RoAnnaTrianna.jpg" data-resource-uuid="46247475-09d9-4a71-a8ca-397e9696993e" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">RoAnn Triana</h4>
+<p>Chief Human Resources Officer</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173107">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173108">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866766/ccsdnet/epkfm5mx848ekims4sib/dr-dustin-manci-qqjahzmo5rcsd73k9gy94ak7x485glle7x9iu0mr4a.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="dr-dustin-manci-qqjahzmo5rcsd73k9gy94ak7x485glle7x9iu0mr4a.png" data-resource-uuid="895c99e8-908c-4f99-9d12-720e37289d0f" loading="lazy" role="presentation" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Dr. Dustin Mancl</h4>
+<p>Chief Academic Officer</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173109">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173110">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Kirsten Searer" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866791/ccsdnet/hjiopx4bpnfjjhmr3fev/Kirsten-searer-1-r86rync59y51ramcy76pmkb4k4k423h9tb49nlinyi.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Kirsten-searer-1-r86rync59y51ramcy76pmkb4k4k423h9tb49nlinyi.jpg" data-resource-uuid="877306fb-da02-4364-81b4-e24356381dcf" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Kirsten Searer</h4>
+<p>Chief Community Engagement Officer</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173111">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173112">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173113">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Mugunth Vaithylingam" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764865454/ccsdnet/sr2zbiwoqgkmqsq1l9eq/MugunthVaithylingam.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="MugunthVaithylingam.png" data-resource-uuid="79b8a31e-8cdc-4de7-ae81-0c941b5649ee" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Mugunth Vaithylingam</h4>
+<p>Chief Information Officer</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173114">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173115">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Henry Blackeye" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866820/ccsdnet/sepygftdb3mgcovk2hom/Henry-Blackeye-Chief-of-School-Police-200x225-1.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Henry-Blackeye-Chief-of-School-Police-200x225-1.jpg" data-resource-uuid="886bc1b0-e3ae-4cb4-94f6-1df8c97d49e4" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Henry Blackeye</h4>
+<p>Chief of School Police, CCSD</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173116">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173117">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Dr. Deanna Jaskolski" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866850/ccsdnet/copfzbsendpry3ub5ncu/dr-deanna-jaskolski-qqjahzmo5rcsd73k9gy94ak7x485glle7x9iu0mr4a.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="dr-deanna-jaskolski-qqjahzmo5rcsd73k9gy94ak7x485glle7x9iu0mr4a.png" data-resource-uuid="c4e34fef-9538-4748-9999-cd436de2417c" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Dr. Deanna Jaskolski</h4>
+<p>Chief of Teaching and Learning Initiatives</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173118">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173119">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Brandon McLaughlin" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764865742/ccsdnet/cqqzijc85ue89pgzyegn/Brandon-McLaughlin.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Brandon-McLaughlin.png" data-resource-uuid="67919e13-3b24-430e-bc86-b7dc23194628" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Brandon McLaughlin</h4>
+<p>Chief of Facilities</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173120">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173121">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173122">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Stacey Sly" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1767022715/ccsdnet/rjz1zhtb28mz7sbzvmti/stacey-sly.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="stacey-sly.png" data-resource-uuid="4ae5f28c-328b-4072-b52e-d77e2444b780" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Stacey Sly</h4>
+<p>Chief of Student Services</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173123">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173124">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Lindsay Tomlinson" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866926/ccsdnet/fgxctttvkpcq9xoidlft/lindsay-tomlinson-qqjahzmo5rcsd73k9gy94ak7x485glle7x9iu0mr4a.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="lindsay-tomlinson-qqjahzmo5rcsd73k9gy94ak7x485glle7x9iu0mr4a.png" data-resource-uuid="6da201dd-a3ba-4918-ab4c-b4cd30e00ddf" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Lindsay Tomlinson</h4>
+<p>Region 1 Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173125">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173126">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Dr. Reece Oswalt" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764865968/ccsdnet/d5uomxfvqz7qhxjnirlt/DrReeceOswalt.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Dr.ReeceOswalt.png" data-resource-uuid="e0c3e66a-49c5-4075-b6f5-8555be25664e" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Dr. Reece Oswalt</h4>
+<p>Region 2 Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173127">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173128">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Theodore Robison III" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866092/ccsdnet/yt4t9guawpg8ijgludz2/TheodoreRobisonIII.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="TheodoreRobisonIII.png" data-resource-uuid="50091940-daa8-43e0-a83b-8d3fa3792330" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Theodore Robison III</h4>
+<p>Region 3 Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173129">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173130">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173131">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Barry C. Bosacker" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866177/ccsdnet/jdlcmxe5u0zwtobf9b1a/Barry-Bosaker-200x225-1.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Barry-Bosaker-200x225-1.png" data-resource-uuid="440ee310-cf94-4efe-b99a-9a23c0e33ea3" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Barry C. Bosacker</h4>
+<p>Region Superintendent,
+  The Transformation Network</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173132">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173133">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Dr. Bradley Keating" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866314/ccsdnet/jmwadudodcfwctjfpphh/Brad-Keating.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Brad-Keating.png" data-resource-uuid="6f9f946a-a44c-4303-857e-fce49175ae80" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Dr. Bradley Keating</h4>
+<p>Assistant Superintendent
+  Community Partnerships and Government Relations</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173134">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173135">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Rosanne Richards" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866396/ccsdnet/wsyvycoallkxyvvyxn9m/Rosanne-Richards.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Rosanne-Richards.png" data-resource-uuid="b4dea8b6-4a80-432b-9f4e-ff5191cc1234" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Rosanne Richards</h4>
+<p>Executive Director, Office of the Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173136">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173137">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Jon Okazaki" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866479/ccsdnet/afblw6tpeonr333jfcr1/jon-okazaki-2025-r8886fumz9fm9e49a903lpdw7tawmx4gleynnsbydm.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="jon-okazaki-2025-r8886fumz9fm9e49a903lpdw7tawmx4gleynnsbydm.jpg" data-resource-uuid="3e1ae6ba-a413-4c1a-a450-7e933bcdda85" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Jon Okazaki</h4>
+<p>General Counsel</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173142">
+<div class="fsElementContent">
+<h2>Extended Leadership Team</h2>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173141">
+<div class="fsElementContent">
+<p>The Extended Leadership Team at Clark County School District (CCSD) comprises senior administrators who each oversee critical operational and educational divisions, working collaboratively to execute district-wide strategies.</p>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173143">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173144">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173145">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Kevin McPartlin" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764868525/ccsdnet/w3k7gxhcdfeborqises2/Kevin-McPartlin-r8897gps6c47kgc73952td1ik6tdtq3uco1665fpai.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Kevin-McPartlin-r8897gps6c47kgc73952td1ik6tdtq3uco1665fpai.png" data-resource-uuid="f72a9686-3cb8-4b08-8e7b-8a1cda800722" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Kevin McPartlin </h4>
+<p>Associate Superintendent, Education Services Division</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173146">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173147">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Alaina Criner-Wilson" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764868559/ccsdnet/dxa6tfhoxq8o0kikjv0a/criner-1275-2-200x225-1-1.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="criner-1275-2-200x225-1-1.jpg" data-resource-uuid="b496fc82-0865-4afa-974e-8faeae985f18" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Alaina Criner-Wilson</h4>
+<p>Assistant Superintendent, Curriculum and Instruction Division</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173148">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173149">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Dr. Cailin Ellis" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764868634/ccsdnet/lqypfcrya2ajtyiub9cc/Dr-Cailin-Ellis-CCSD-Assistant-Superintendent-Leadership-and-Professional-Learning-200x225-1.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Dr-Cailin-Ellis-CCSD-Assistant-Superintendent-Leadership-and-Professional-Learning-200x225-1.jpg" data-resource-uuid="8cb204e1-c0ab-4d4e-8732-2c98d42bb585" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Dr. Cailin Ellis</h4>
+<p>Assistant Superintendent, Leadership and Professional Learning Division</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173150">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173151">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Erick Casallas" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764868713/ccsdnet/ftyua7vh3cndug9s8arg/headshot-2.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="headshot-2.png" data-resource-uuid="b41fe232-e5d8-44bb-83c1-d71f41916d73" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Erick Casallas</h4>
+<p>Assistant Superintendent English Language Learners Division</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173152">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173153">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173154">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Dr. Samuel Scavella" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764868774/ccsdnet/qclpr5dcwszlszjgo8ne/scavella-1275-2-200x225-1.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="scavella-1275-2-200x225-1.jpg" data-resource-uuid="d297c990-a9cc-435e-9ccc-7cb6d085486d" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Dr. Samuel Scavella</h4>
+<p>Assistant Superintendent
+Safe and Respectful Learning Environments and Opportunities Division</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173155">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173156">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Gia Moore" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764868841/ccsdnet/odiuarpwx881jkwetgto/Gia-Moore-lg-1-r839aw97yk6ld9wyp7z8379geezwc9kuwmp8deb3yi.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Gia-Moore-lg-1-r839aw97yk6ld9wyp7z8379geezwc9kuwmp8deb3yi.jpg" data-resource-uuid="8d5e364a-eb63-4ce6-9f17-8672e086ef74" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Gia Moore</h4>
+ 
+
+<p>Assistant Superintendent College and Career Readiness and School Choice</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173157">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173158">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Amber Rideout" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764868947/ccsdnet/r4bjnu1lite6sp6repxg/Amber-Rideout-1.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Amber-Rideout-1.png" data-resource-uuid="ce52aa7f-4c6b-40ca-9cf3-168f3d3f577d" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Amber Rideout</h4>
+ 
+
+<p style="padding-bottom:25px;">Assistant Superintendent Transportation Department</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173159">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173160">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Kristofer Huffman" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764869023/ccsdnet/shu4sjnmpni0pukr4k8d/Kristofer-Huffman.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Kristofer-Huffman.png" data-resource-uuid="116728a7-af24-46db-b551-a17d90bf9d4f" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Kristofer Huffman</h4>
+<p>Assistant Superintendent
+  Assessment, Accountability, Research, and School Improvement</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173161">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173162">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173163">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Louis Markouzis" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764869172/ccsdnet/ulvs6lgnnslsx1oetiax/Louis-Markouzis-scaled-r84zu4nqczy9s1vg2tv8dlzmtkycn7tir793jydrka.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Louis-Markouzis-scaled-r84zu4nqczy9s1vg2tv8dlzmtkycn7tir793jydrka.jpg" data-resource-uuid="7095cfdd-7846-44f9-a6cf-7a220a7937fa" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Louis Markouzis</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173164">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173165">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Hilary Malloy" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764869243/ccsdnet/o6jzewyvxcxopjw35qaf/Hilary-Malloy.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Hilary-Malloy.png" data-resource-uuid="166dbb3c-a735-491f-aefc-a98d356b006c" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Hilary Malloy</h4>
+<p>School Associate Superintendentendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173166">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173167">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Maurice Perkins" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764869309/ccsdnet/jihuwnllkn5bew20qo1t/Perkins.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Perkins.png" data-resource-uuid="11a85d00-f0f1-4e88-aa6f-0c5d12c6d385" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Maurice Perkins</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173168">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173169">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Scarlett Perryman" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764869408/ccsdnet/cqidjroxfytjk43ozykh/scarlett-perryman-2022-200x225-1.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="scarlett-perryman-2022-200x225-1.jpg" data-resource-uuid="c73b13b2-e75c-43c5-b840-dfba7fb07199" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Scarlett Perryman</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173170">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173171">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173172">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Rebecca Tschinkel" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764869484/ccsdnet/ghrwstf5pmftmytu2wka/tschinkel-rebecca_2_orig-r86rmz6af05vllko3nkh60c30w31he597ji84wtn7u.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="tschinkel-rebecca_2_orig-r86rmz6af05vllko3nkh60c30w31he597ji84wtn7u.jpg" data-resource-uuid="12036097-3c8c-40fe-812c-9737e15a7e4e" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Rebecca Tschinkel</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173173">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173174">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Dr. Andrea Womack" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764869549/ccsdnet/xwokqnfsonvtucc3ysp6/andrea-womack-2022-200x225-1.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="andrea-womack-2022-200x225-1.jpg" data-resource-uuid="a90d281e-a3d8-488d-acf5-c44f2cd90467" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Dr. Andrea Womack</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173175">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173176">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Shawn Halland" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764869630/ccsdnet/vm2rv71gdrnmvunawiad/halland-rbt6u04241f3i4dyziljtmlyobdybpq0xn8lb6rm4q.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="halland-rbt6u04241f3i4dyziljtmlyobdybpq0xn8lb6rm4q.png" data-resource-uuid="f710b071-6a67-4fc2-80ff-318373300020" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">  Shawn Halland</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173177">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173178">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Anna Hurst" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764869751/ccsdnet/svhtumxwnh3joshtj5sd/Anna-Hurst-scaled-r850962rpkjfjg109bwc9td4zitrsviwtn0rzc300a.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Anna-Hurst-scaled-r850962rpkjfjg109bwc9td4zitrsviwtn0rzc300a.jpg" data-resource-uuid="4bdc8b21-acad-425e-bd90-f014f9f4d779" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Anna Hurst</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173179">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173180">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173181">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Monica Lang" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764869829/ccsdnet/cnjvf53m6pjxlrtsemn0/monica-lang-2022-200x225-1.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="monica-lang-2022-200x225-1.jpg" data-resource-uuid="a84fc2b7-3274-4ef2-aee7-09a49abe515a" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Monica Lang</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173182">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173183">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<figure class="fsImage"><picture><img alt="Melissa Roehm" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764869892/ccsdnet/kyznf3fa4lwvgh6vzgpd/Roehm-rbt7345qd7w6215gryechtttzsh1y2wciqx1sr97t6.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Roehm-rbt7345qd7w6215gryechtttzsh1y2wciqx1sr97t6.png" data-resource-uuid="b7017396-a478-40a5-a37b-c5b1f30cc16c" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+<h4 style="padding-top:5px;">Melissa Roehm</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173184">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173185">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Greg Misel" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764869970/ccsdnet/hqmh9o19snypt2j5kqqx/Greg-Misel.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Greg-Misel.png" data-resource-uuid="6b472d50-b4c6-4c17-8885-d6a10c4d581b" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Greg Misel</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173186">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173187">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Lynn Walker" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764870036/ccsdnet/spsokzuocorfuc9rpsgz/Walker-rbt7a5y5mhjl4qwtm03m71sadtq5ocvvhn25dgsx56.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Walker-rbt7a5y5mhjl4qwtm03m71sadtq5ocvvhn25dgsx56.png" data-resource-uuid="88b2311b-09a2-4c3d-b4b4-e5477aa429d3" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Lynn Walker</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173188">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173189">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173190">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Emily Petosa" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764870110/ccsdnet/djv3fa27yksx3wvtfcms/Petosa-rbt7i5krpshbtfb0ygfge17c5qch3qlql6oq84yg96.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Petosa-rbt7i5krpshbtfb0ygfge17c5qch3qlql6oq84yg96.png" data-resource-uuid="2ddb1f0b-ed25-487d-9853-950766f40b6a" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Emily Petosa</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173191">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173192">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Ronnie Guerzon" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764870182/ccsdnet/ow2ma1tv6d5qxzvr5wgr/headshot-3.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="headshot-3.png" data-resource-uuid="8bd89f46-f36a-432d-b3f6-98fa97c9b824" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Ronnie Guerzon</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173193">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173194">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Darlin Delgado" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764870243/ccsdnet/zvstppjlrdvopdhda9ww/Darlin-Delgado.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Darlin-Delgado.png" data-resource-uuid="b92555a6-5109-4d31-97ea-ff4c62280063" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Darlin Delgado</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173195">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173196">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Kortney Smith" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764870303/ccsdnet/qch7sdyvvybjnxzsmc7c/Smith.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Smith.png" data-resource-uuid="385121c0-118b-47a6-ac35-f7004687d159" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Kortney Smith</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173197">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173198">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173199">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Robert Solomon" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764870365/ccsdnet/kccrbuw1g7yokh6hgtbb/Solomon.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Solomon.png" data-resource-uuid="1faf22da-5333-4ddd-886e-932fb5c71560" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Robert Solomon</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173200">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173201">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Mikie Young" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764870425/ccsdnet/ovjwm2fqj3hlswguthy8/Mikie-Young-School-Associate-Superintendent-1-200x225-1.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Mikie-Young-School-Associate-Superintendent-1-200x225-1.jpg" data-resource-uuid="298c0893-d4ba-4c30-96ed-e964092a170d" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Mikie Young</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173202">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173203">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Rebecca Lucero" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764870493/ccsdnet/tt9ti4dv60hk9djepjco/rebecca-lucero-2022-200x225-1.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="rebecca-lucero-2022-200x225-1.jpg" data-resource-uuid="b6789058-1433-498c-86a6-7951f3822d65" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Rebecca Lucero</h4>
+<p>School Associate Superintendent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173204">
+</div>
+</div>
+</div>
+</div>
+</main>

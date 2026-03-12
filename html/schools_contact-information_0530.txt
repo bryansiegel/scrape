@@ -10,7 +10,8 @@
                 MOLASKY, IRWIN AND SUSAN JHS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Beals, Spencer A<br>
+                        
+Principal: Beals, Spencer A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-3400<br/>
                                 Fax: 702-799-3407<br/>
 <a href="http://maps.google.com/maps?q=7801 WEST GILMORE AVENUE,+LAS VEGAS,+NV+89129">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/molaskyjhs/home">Website</a> </br></br></br></p>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/molaskyjhs/home">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Let the Magic Begin</p> <p><b>Mission:</b> The mission of Molasky Junior High School is for all members of the school community to excel in terms of individual achievement and performance as contributing members of society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

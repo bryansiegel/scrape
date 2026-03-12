@@ -10,7 +10,8 @@
                 ELIZONDO, RAUL ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Stacey, Christina M<br>
+                        
+Principal: Stacey, Christina M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-1730<br/>
                                 Fax: 702-799-1722<br/>
 <a href="http://maps.google.com/maps?q=4865 GOLDFIELD STREET,+NORTH LAS VEGAS,+NV+89031">Map</a>
-                                 | <a href="https://www.elizondobulldogs.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.elizondobulldogs.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Working Hand-In-Hand to Build A Strong America Through Good Citizenship</p> <p><b>Mission:</b> Our mission at Elizondo Elementary School is to provide a positive learning environment that ensures academic and social success through a cooperative partnership among parents, staff, students, and community.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

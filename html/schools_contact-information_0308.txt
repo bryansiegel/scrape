@@ -10,7 +10,8 @@
                 FERTITTA, VICTORIA MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Siqueiros, Greg P<br>
+                        
+Principal: Siqueiros, Greg P<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-1900<br/>
                                 Fax: 702-799-5688<br/>
 <a href="http://maps.google.com/maps?q=9905 WEST MESA VISTA AVENUE,+LAS VEGAS,+NV+89148">Map</a>
-                                 | <a href="http://www.fertittams.com">Website</a> </br></br></br></p>
+                                 | <a href="http://www.fertittams.com">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Soar Above and Beyond</p> <p><b>Mission:</b> The Victoria Fertitta Middle School community is dedicated to developing learners for life.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

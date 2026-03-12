@@ -10,7 +10,8 @@
                 GREENSPUN, BARBARA AND HANK JHS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Carducci, Jacqueline L<br>
+                        
+Principal: Carducci, Jacqueline L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-0920<br/>
                                 Fax: 702-799-0925<br/>
 <a href="http://maps.google.com/maps?q=140 NORTH VALLE VERDE DRIVE,+HENDERSON,+NV+89074">Map</a>
-                                 | <a href="http://www.greenspunjhs.com/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.greenspunjhs.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Where Students Learn to Succeed and Succeed to Learn</p> <p><b>Mission:</b> Greenspun Junior High School is a supportive community of parents, students, and staff members who are committed to academic and personal excellence.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

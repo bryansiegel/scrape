@@ -75,17 +75,17 @@
 	Science</h3>
 <ul>
 <li>
-<a href="/resources/purchasing-warehousing/amp-grk-science-2023-230807.pdf">Science K; Amplify Science Kindergarten; Course 0036; Amplify</a></li>
+<a href="/resources/purchasing-warehousing/amp-grk-science-2023-230807.pdf" target="_blank">Science K; Amplify Science Kindergarten; Course 0036; Amplify</a></li>
 <li>
-<a href="/resources/purchasing-warehousing/amp-gr1-science-2024-240304.pdf">Science 1; Amplify Science Grade 1; Course 0136; Amplify</a></li>
+<a href="/resources/purchasing-warehousing/amp-gr1-science-2024-240304.pdf" target="_blank">Science 1; Amplify Science Grade 1; Course 0136; Amplify</a></li>
 <li>
-<a href="/resources/purchasing-warehousing/amp-gr2-science-2023-231012.pdf">Science 2; Amplify Science Grade 2; Course 0236; Amplify</a></li>
+<a href="/resources/purchasing-warehousing/amp-gr2-science-2023-231012.pdf" target="_blank">Science 2; Amplify Science Grade 2; Course 0236; Amplify</a></li>
 <li>
-<a href="/resources/purchasing-warehousing/amp-gr3-science-2023-230807.pdf">Science 3; Amplify Science Grade 3; Course 0336; Amplify</a></li>
+<a href="/resources/purchasing-warehousing/amp-gr3-science-2023-230807.pdf" target="_blank">Science 3; Amplify Science Grade 3; Course 0336; Amplify</a></li>
 <li>
-<a href="/resources/purchasing-warehousing/amp-gr4-science-2024-240304.pdf">Science 4; Amplify Science Grade 4; Course 0436; Amplify</a></li>
+<a href="/resources/purchasing-warehousing/amp-gr4-science-2024-240304.pdf" target="_blank">Science 4; Amplify Science Grade 4; Course 0436; Amplify</a></li>
 <li>
-<a href="/resources/purchasing-warehousing/amp-gr5-science-2024-240304.pdf">Science 5; Amplify Science Grade 5; Course 0536; Amplify</a></li>
+<a href="/resources/purchasing-warehousing/amp-gr5-science-2024-240304.pdf" target="_blank">Science 5; Amplify Science Grade 5; Course 0536; Amplify</a></li>
 </ul>
 <h3>
 	Social Studies</h3>
@@ -107,17 +107,17 @@
 	World Language, Elementary</h3>
 <ul>
 <li>
-<a href="/resources/purchasing-warehousing/vis-listos-level-a-revised-240705.pdf">World Language; Listos Level A; Course 004610; Vista Higher Learning</a></li>
+<a href="/resources/purchasing-warehousing/vis-listos-level-a-revised-240705.pdf" target="_blank">World Language; Listos Level A; Course 004610; Vista Higher Learning</a></li>
 <li>
-<a href="/resources/purchasing-warehousing/vis-listos-level-b-revised-241004.pdf">World Language; Listos Level B; Course 014610; Vista Higher Learning</a></li>
+<a href="/resources/purchasing-warehousing/vis-listos-level-b-revised-241004.pdf" target="_blank">World Language; Listos Level B; Course 014610; Vista Higher Learning</a></li>
 <li>
-<a href="/resources/purchasing-warehousing/vis-listos-level-c-revised-241004.pdf">World Language; Listos Level C; Course 024610; Vista Higher Learning</a>:</li>
+<a href="/resources/purchasing-warehousing/vis-listos-level-c-revised-241004.pdf" target="_blank">World Language; Listos Level C; Course 024610; Vista Higher Learning</a>:</li>
 <li>
-<a href="/resources/purchasing-warehousing/vis-listos-level-d-revised-240705.pdf">World Language; Listos Level D; Course 034610; Vista Higher Learning</a></li>
+<a href="/resources/purchasing-warehousing/vis-listos-level-d-revised-240705.pdf" target="_blank">World Language; Listos Level D; Course 034610; Vista Higher Learning</a></li>
 <li>
-<a href="/resources/purchasing-warehousing/vis-listos-level-e-revised-240705.pdf">World Language; Listos Level E; Course 044610; Vista Higher Learning</a></li>
+<a href="/resources/purchasing-warehousing/vis-listos-level-e-revised-240705.pdf" target="_blank">World Language; Listos Level E; Course 044610; Vista Higher Learning</a></li>
 <li>
-<a href="/resources/purchasing-warehousing/vis-listos-level-f-revised-240705.pdf">World Language; Listos Level F; Course 054610; Vista Higher Learning</a></li>
+<a href="/resources/purchasing-warehousing/vis-listos-level-f-revised-240705.pdf" target="_blank">World Language; Listos Level F; Course 054610; Vista Higher Learning</a></li>
 </ul>
 <h2>
 	Secondary Schools</h2>
@@ -130,24 +130,13 @@
 <h3>
 	Art</h3>
 <ul>
-<li>
-<a href="/resources/purchasing-warehousing/ccsd-exploring-art.pdf" target="_blank">Beginning Art, Intermediate Art, Advanced Art; Exploring Art; Courses 8305, 8310, 8315; Glencoe</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/dav-ceramics-i-22-220909.pdf" target="_blank">Ceramics I; Experience Clay; Course 7055; Davis</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/dav-ceramics-ii-22-220909.pdf" target="_blank">Ceramics II; Experience Clay; Course 7060; Davis</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/dav-ceramics-iii-22-220909.pdf" target="_blank">Ceramics III; Experience Clay; Course 7065; Davis</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/dav-drawing-i-22-220909.pdf" target="_blank">Drawing I; The Visual Experience; Course 7085; Davis</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/dav-drawing-ii-22-220909.pdf" target="_blank">Drawing II; The Visual Experience; Course 7090; Davis</a></li>
+<li>
+		 </li>
 </ul>
 <h3>
 	Business</h3>
 <h3>
 	Career and Technical Education</h3>
-<br>
 <h3>
 	Computer Education</h3>
 <br>
@@ -197,13 +186,11 @@
 	Mathematics, Middle School</h3>
 <ul>
 <li>
-<a href="/resources/purchasing-warehousing/mgh-illustrative-math-crs1-7yr-201116.pdf">Mathematics 6; Illustrative Mathematics Crs 1; 7YR; Course 2630; MacMillian McGraw-Hill</a></li>
+<a href="/resources/purchasing-warehousing/mgh-illustrative-math-crs1-1yr-201116.pdf" target="_blank">Mathematics 6; Illustrative Mathematics Crs 1; 1YR; Course 2630; MacMillian McGraw-Hill</a></li>
 <li>
-<a href="/resources/purchasing-warehousing/mgh-illustrative-math-crs1-1yr-201116.pdf">Mathematics 6; Illustrative Mathematics Crs 1; 1YR; Course 2630; MacMillian McGraw-Hill</a></li>
+<a href="/resources/purchasing-warehousing/ken-illustrative-mathematics-gr6-201106.pdf" target="_blank">Mathematics 6; KEN Illustrative Mathematics 6; Course 2630; Kendall/Hunt</a></li>
 <li>
-<a href="/resources/purchasing-warehousing/ken-illustrative-mathematics-gr6-201106.pdf">Mathematics 6; KEN Illustrative Mathematics 6; Course 2630; Kendall/Hunt</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/lnz-illustrative-math-gr6-210304.pdf">Mathematics 6; LNZ Illustrative Mathematics 6; Course 2630; LearnZillion</a></li>
+<a href="/resources/purchasing-warehousing/lnz-illustrative-math-gr-6-upd-2025-250821.pdf" target="_blank">Mathematics 6; LNZ Illustrative Mathematics 6; Course 2630; LearnZillion</a></li>
 <li>
 <a href="/resources/purchasing-warehousing/opn-open-up-resources-math-6-mod-201106.pdf" target="_blank">Mathematics 6; Open Up Resources Math Gr 6; Course 2630; Open Up </a></li>
 <li>
@@ -217,7 +204,7 @@
 <li>
 <a href="/resources/purchasing-warehousing/ken-illustrative-mathematics-gr7-201106.pdf">Mathematics 7; KEN Illustrative Mathematics 7; Course 2670; Kendall/Hunt</a></li>
 <li>
-<a href="/resources/purchasing-warehousing/lnz-illustrative-math-gr7-210304.pdf">Mathematics 7; LNZ Illustrative Mathematics 7; Course 2670; LearnZillion</a></li>
+<a href="/resources/purchasing-warehousing/lnz-illustrative-math-gr-7-upd-2025-250821.pdf" target="_blank">Mathematics 7; LNZ Illustrative Mathematics 7; Course 2670; LearnZillion</a></li>
 <li>
 <a href="/resources/purchasing-warehousing/opn-open-up-resources-math-7-mod-230912.pdf">Mathematics 7; Open Up Resources Math Gr 7; Course 2670; Open Up Resources</a></li>
 <li>
@@ -231,7 +218,7 @@
 <li>
 <a href="/resources/purchasing-warehousing/ken-illustrative-mathematics-gr8-201106.pdf">Pre-Algebra 8; KEN Illustrative Mathematics 8; Course 2710; Kendall/Hunt</a></li>
 <li>
-<a href="/resources/purchasing-warehousing/lnz-illustrative-math-gr8-210304.pdf">Pre-Algebra 8; LNZ Illustrative Mathematics 8; Course 2710; LearnZillion</a></li>
+<a href="/resources/purchasing-warehousing/lnz-illustrative-math-gr-8-upd-2025-250821.pdf" target="_blank">Pre-Algebra 8; LNZ Illustrative Mathematics 8; Course 2710; LearnZillion</a></li>
 <li>
 <a href="/resources/purchasing-warehousing/opn-open-up-resources-math-8-mod-201106.pdf" target="_blank">Pre-Algebra 8; Open Up Resources Math Gr 8; Course 2710; Open Up Resources</a></li>
 <li>
@@ -248,40 +235,6 @@
 <a href="/resources/purchasing-warehousing/hmh-geometry-2023-230731.pdf">Geometry; Geometry; Course 2060; Houghton Mifflin Harcourt</a></li>
 <li>
 <a href="/resources/purchasing-warehousing/sow-big-ideas-alg.ii-2023-230727.pdf">Algebra II; Big Ideas Math: A Bridge to Success; Course 2090; National Geographic Learning, Cengage</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/cen-precalculus-ab-2023-230515.pdf">Precalculus AB H; PreCalculus w/Limits: A Graphing Approach; Course 21454; Cengage National Geographic</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/sav-precalculus-ab-2023-230515.pdf">Precalculus AB H; PreCalculus Enhanced w/Graphic Utilities; Course 21454; Savvas Learning Company</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/cen-precalculus-bc-2023-230515.pdf">Precalculus BC H; PreCalculus w/Limits: A Graphing Approach: Course 21504; Cengage National Geographic</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/sav-precalculus-bc-2023-230515.pdf">Precalculus BC H; PreCalculus Enhanced w/Graphic Utilities; Course 21504; Savvas Learning Company</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/bfw-ap-calculus-ab-2023-230515.pdf">AP Calculus AB; Calculus for AP: Early Transcendentals; Course 21802; Bedford Freeman &amp; Worth</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/sav-graphnumalg-ab-2023-230515.pdf">AP Calculus AB, Calculus: Graphical, Numberical, Algebraic; Course 21802; Prentice Hall</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/sow-ap-calculus-ab-2023-230515.pdf">AP Calculus AB; Calculus for AP; Course 21802; Cengage Learning</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/sow-ap-calculus-enhanced-ab-2023-230515.pdf">AP Calculus AB; Enhanced Calculus AP; Course 21802; Cengage Learning</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/sav-graphnumalg-bc-2023-230515.pdf">AP Calculus BC, Calculus: Graphical, Numberical, Algebraic; Course 21902; Prentice Hall</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/sow-ap-calculus-bc-2023-230515.pdf">AP Calculus BC; Calculus for AP; Course 21902; Cengage Learning</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/sow-ap-calculus-enhanced-bc-2023-230515.pdf">AP Calculus BC; Enhanced Calculus AP; Course 21902; Cengage Learning</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/sav-stats-modeling-the-world-2023-230803.pdf">AP Statistics; Stats: Modeling the World; Course 22502; Prentice Hall</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/bfw-practice-of-statistics-2023-230803.pdf">AP Statistics; The Practice of Statistics; Course 22502; Bedford Freeman &amp; Worth</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/sav-alg.-and-trig-2023-230804.pdf">College Prep Math; Algebra and Trigonometry; Course 2287: Savvas Learning Company </a></li>
-<li>
-<a href="/resources/purchasing-warehousing/mgh-math-for-personal-fin-3yr-190906.pdf">Mathematics of Personal Finance; Math for Business &amp; Personal Finance 3YR; Course 2330; McGraw-Hill</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/mgh-math-for-personal-fin-1yr-190906.pdf">Mathematics of Personal Finance; Math for Business &amp; Personal Finance 1YR; Course 2330; McGraw-Hill</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/gow-math-for-financial-literacy-190918.pdf">Mathematics of Personal Finance; Math for Financial Literacy; Course 2330; Goodheart Wilcox</a></li>
 </ul>
 <h3>
 	Novels</h3>
@@ -314,18 +267,8 @@
 <h3>
 	Science</h3>
 <ul>
-<li>
-<a href="/resources/purchasing-warehousing/iat-active-physics-physics-honors-190919.pdf">Physics, Physics H; Active Physics; Course 3200 &amp; 32004; Activate Learning, LLC</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/prc-human-anatomy-n-phy-2016-180320.pdf">Principles of Anatomy/Physiology H; Human Anatomy/Physiology 2016; Course 34504; Pearson</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/gow-intro-anatomy-n-physiology-2014-180823.pdf">Principles of Anatomy/Physiology H; Intro to Anatomy &amp; Physiology 2014; Course 34504; Goodheart Willcox</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/amp-sci-gr6-add-spanish-200515.pdf">Science 6, Science Accelerated 6; Amplify Science Gr. 6; Course 3620 &amp; 3630; Amplify</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/amp-sci-gr7-add-spanish-200515.pdf">Science 7, Science Accelerated 7; Amplify Science Gr. 7; Course 3690 &amp; 3700; Amplify</a></li>
-<li>
-<a href="/resources/purchasing-warehousing/amp-gr8-science-2024-240304.pdf">Science 8, Science Accelerated 8; Amplify Science Gr. 8; Course 3770 &amp; 3780; Amplify</a></li>
+<li>
+		 </li>
 </ul>
 <h3>
 	Social Studies, Middle School</h3>
@@ -465,7 +408,7 @@
 </ul>
 <p>
 	 </p>
-</br></br></section>
+</br></section>
 </div> <!-- /main_content_wrap -->
 <div class="sidebar-wrap" id="sidebar_wrap">
 <section class="dept-res-wrap"><h2 class="section-title-lined">Quick Info</h2>Supplier Information

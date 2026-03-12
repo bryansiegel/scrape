@@ -1,0 +1,984 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Lisa Satory</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_109540">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_109541">
+<div class="fsElement fsLayout fsTwoColumnWideRightLayout sub-hero-divider fsStyleAutoclear" data-use-new="true" id="fsEl_109542">
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_109543">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109544">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage" data-widget="image"><picture><img alt="Lisa Satory" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764872893/ccsdnet/ufcljd7beiyphcohokpg/L-Satory-2025-Headshot-Edited-r21l784czv06p8rf83synuighkz7r8fps9qqsexm10.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="L-Satory-2025-Headshot-Edited-r21l784czv06p8rf83synuighkz7r8fps9qqsexm10.jpg" data-resource-uuid="5eb6692f-29c8-4f4f-8025-0d9ec4abbdb4" loading="lazy" src="" style="border-radius: 5px;"/></picture></figure>
+<h3>Lisa Satory</h3>
+<h5>Member</h5>
+<p>Clark County</p>
+<p><a href="tel:702-799-CCSD">702-799-CCSD </a></p>
+<p><a class="button-7" href="/about/school-board/contact">Contact</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_109545">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109546">
+<div class="fsElementContent">
+<div style="margin-left: 10px;">
+<p>Lisa Satory was appointed to the Board of Trustees on January 2, 2024, as a non-voting trustee representing Unincorporated Clark County. She is originally from Texas but has been proud to call Southern Nevada her home since 1999. Lisa is passionate about education and believes in developing a positive school culture for teachers and students. She feels that every teacher should be supported and championed by their school leaders and that students should love coming to school every day. She values the importance of building relationships with students and families. Lisa is an advocate for empowering all members of the school community to come together to transform learning environments for the improvement of education in the state of Nevada.</p>
+<p>Lisa Satory is excited about the opportunity to utilize her extensive background in education to support the Clark County School District. She is currently the Principal of the Pinecrest Academy of Nevada, Sloan Canyon campus, a K-12 public charter school with over 2400 students. She served for five years as the Lead Principal of Pinecrest Academy of Nevada, the highest-performing charter school in Nevada. She served as the Principal of Pinecrest Horizon, a K-8 campus for three years. Previously in her career, she was an Assistant Principal, Dean of Students, Educational Computing Specialist, and teacher in the Clark County School District.</p>
+<p>  Lisa Satory is active on numerous education boards in Nevada. She is a member of the Henderson Community Education Advisory Board, the Chair of the Mater Academy of Nevada Board, serves on the Pinecrest Foundation Board, is Vice President of the Pinecrest Conservatory Board, and was previously the Secretary/Treasurer for the Nevada Association of School Administrators Board. She has had the opportunity to present at numerous conferences nationwide on innovative practices in education. Lisa holds a bachelor's degree in Interdisciplinary Studies with an emphasis on K-8 Education from Texas A&amp;M University and two Master's degrees, one in Educational Administration from Western Governors University and one in Educational Technology from the University of Nevada Las Vegas. She is also pursuing her Doctorate in Educational Leadership with an emphasis in Higher Education.</p>
+<p>Lisa is a very active person and enjoys swimming, cycling, and weightlifting in her free time. She is an outgoing and adventurous individual who loves animals and trying new things, especially unusual food. She is a proud wife to David Satory, a CCSD teacher, for over 20 years and a mother to five wonderful school-age children.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_199006">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-199007" role="presentation">
+<a aria-controls="fsEl_199007" aria-selected="false" href="#fs-panel-199007" role="tab">Schools</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_199007" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_199007" aria-expanded="false" href="#fs-panel-199007" role="button">Schools</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-199007"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_199008">
+<div class="fsElementContent">
+<table class="table-styled">
+<thead>
+<tr>
+<th>School</th>
+<th>Level</th>
+<th>District</th>
+<th>Municipality</th>
+<!--
+                            <th>Title</th>
+                            <th>Date</th>
+-->
+</tr>
+</thead>
+<tbody>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Goolsby, Judy and John L. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">O'Callaghan, Mike MS i3 Learn Academy </a></td>
+<td>4</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Frias, Charles and Phyllis ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Petersen, Dean ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Eldorado HS </a></td>
+<td>6</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Bass, John C. ES </a></td>
+<td>1</td>
+<td>A</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Ober, D'Vorre and Hal ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">King, Jr., Martin Luther ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Dearing, Laura ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Rundle, Richard J. ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Long, Walter V. ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Mendoza, John F. ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Lynch, Ann ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Lundy, Earl B. ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Wengert, Cyril ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">French, Doris ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Allen, Dean LaMar ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Goldfarb, Daniel ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Keller, Duane D. MS </a></td>
+<td>4</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Cartwright, Roberta C. ES </a></td>
+<td>1</td>
+<td>A</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Las Vegas HS </a></td>
+<td>6</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Bowler, Sr., Joseph L. ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Cortez, Manuel J. ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Smith, Hal ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Herr, Helen ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Dailey, Jack ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Monaco, Mario C. and JoAnne MS </a></td>
+<td>4</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Schofield, Jack Lund MS </a></td>
+<td>4</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Darnell, Marshall C. ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Brookman, Eileen B. ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Iverson, Mervin R. ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Miller, Sandy Searles ES Academy for International Studies </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Harney, Kathleen and Tim MS </a></td>
+<td>4</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Fertitta, Victoria MS </a></td>
+<td>4</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Rogers, Lucille S. ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Cox, Clyde C. ES </a></td>
+<td>1</td>
+<td>C</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Decker, C. H. ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Tate, Myrtle ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Canarelli, Lawrence and Heidi MS </a></td>
+<td>4</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Kim, Frank ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Lyon, W. Mack MS </a></td>
+<td>4</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Silverado HS </a></td>
+<td>6</td>
+<td>A</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Moapa Valley HS </a></td>
+<td>6</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Thiriot, Joseph E. ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Hummel, John R. ES </a></td>
+<td>1</td>
+<td>A</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Tanaka, Wayne N. ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Jeffers, Jay W. ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Ries, Aldeane Comito ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Wright, William V. ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Steele, Judith D. ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Schorr, Steve ES </a></td>
+<td>1</td>
+<td>A</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Bailey, Dr. William H. "Bob" MS </a></td>
+<td>4</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Mack, Jerome D. MS </a></td>
+<td>4</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Saville, Anthony MS </a></td>
+<td>4</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Del Sol Academy of the Performing Arts </a></td>
+<td>6</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Gray, R. Guild ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Lowman, Mary and Zel ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Guinn, Kenny C. JHS </a></td>
+<td>4</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Bendorf, Patricia A. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Beatty, John R. ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Spring Valley HS </a></td>
+<td>6</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Earl, Marion B. ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Miller, John F. </a></td>
+<td>9</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Ullom, J. M. ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Lake, Robert E. ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Thomas, Ruby S. ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Dondero, Harvey N. ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Beckley, Will ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Ferron, William E. ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Ward, Gene ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Harmon, Harley ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Harris, George E. ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Diskin, Pat A. ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Orr, William E. MS </a></td>
+<td>4</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Woodbury, C. W. MS </a></td>
+<td>4</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Silvestri, Charles A. JHS </a></td>
+<td>4</td>
+<td>A</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Cannon, Helen C. JHS </a></td>
+<td>4</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Cortney, Francis H. JHS </a></td>
+<td>4</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Lawrence, Clifford J. JHS </a></td>
+<td>4</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Valley HS </a></td>
+<td>6</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Chaparral HS </a></td>
+<td>6</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Durango HS </a></td>
+<td>6</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Cunningham, Cynthia ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Centennial HS </a></td>
+<td>6</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">High Desert State Prison Youthful Offender Program </a></td>
+<td>8</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Spring Mountain J/SHS </a></td>
+<td>8</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Bennett, William G. ES </a></td>
+<td>1</td>
+<td>A</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Blue Diamond ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Bowler, Grant ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Whitney ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Barber, Shirley A. ES </a></td>
+<td>1</td>
+<td>A</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Alamo, Tony ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Hickey, Liliam Lujan ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">High Desert State Prison Adult HS </a></td>
+<td>8</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Southern Desert Correctional Center (including Three Lakes Valley Conservation Camp) </a></td>
+<td>8</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Fine, Mark L. ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Bailey, Sister Robert Joseph ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Faiss, Wilbur and Theresa MS </a></td>
+<td>4</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">East Career and Technical Academy </a></td>
+<td>6</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Diaz, Ruben P. ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Reedom, Carolyn S. ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Stuckey, Evelyn ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Gehring, Roger D. ES Academy of Science and Technology </a></td>
+<td>1</td>
+<td>A</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Forbuss, Robert L. ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Roundy, Dr. C. Owen ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">West Career and Technical Academy </a></td>
+<td>6</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Jean Conservation Camp Adult HS </a></td>
+<td>8</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Bryan, Roger M. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Southeast Career and Technical Academy </a></td>
+<td>6</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Wynn, Elaine ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Stewart, Helen J. </a></td>
+<td>9</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Keller, Charlotte and Jerry ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">South Academic Center </a></td>
+<td>8</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Batterman, Kathy L. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Southwest Career and Technical Academy </a></td>
+<td>6</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Sunrise Mountain HS </a></td>
+<td>6</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Sawyer, Grant JHS </a></td>
+<td>4</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Paradise Professional Development ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Jones Blackhurst, Jan ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Wiener, Jr., Louis ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Jydstrup, Helen M. ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Heard, Lomie G. ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Berkley, Shelley ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Adams, Kirk L. ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Summit View Youth Center </a></td>
+<td>8</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Mathis, Dr. Beverly S. ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Mountain View ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Hill, Charlotte ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Von Tobel, Ed MS </a></td>
+<td>4</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Nevada Learning Academy at CCSD </a></td>
+<td>3</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Cashman, James MS </a></td>
+<td>4</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Tomiyasu, Bill Y. ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Hayes, Keith C. and Karen W. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Snyder, William E. ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Tarkanian, Lois and Jerry MS </a></td>
+<td>4</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Manch, J. E. ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Rowe, Lewis E. ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Stanford ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Goodsprings ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Burk Horizon </a></td>
+<td>8</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Sierra Vista HS </a></td>
+<td>6</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Woolley, Gwendolyn ES </a></td>
+<td>1</td>
+<td>C</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Desert Oasis HS </a></td>
+<td>6</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Ortwein, Dennis ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Snyder, Don and Dee ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Thompson, Tyrone ES </a></td>
+<td>1</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Gunderson, Barry and June MS </a></td>
+<td>4</td>
+<td>F</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Abston, Sandra B. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Jenkins, Earl N. ES </a></td>
+<td>1</td>
+<td>G</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">The Healing Center School at St. Jude's Ranch for Children </a></td>
+<td>8</td>
+<td>A</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Perkins, Ute V. ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="/schools" style="cursor: pointer;" target="_blank">Walnut, Cecile Child Development Center </a></td>
+<td>7</td>
+<td>D</td>
+<td>CC</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

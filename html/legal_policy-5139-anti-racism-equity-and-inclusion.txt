@@ -1,0 +1,57 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Policy 5139 Anti-Racism, Equity, and Inclusion</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10640">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_10641">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10642">
+<div class="fsElementContent">
+<h2>Purpose of the Anti- Racism Policy</h2>
+<p>The Clark County School District (District) rejects all forms of racism. This policy ensures that incidents of discrimination based on race are prohibited. The District encourages all employees, students, and parents/guardians to reflect upon and take appropriate action when they are aware of racially motivated incidents, racial discrimination, and racial aggression. The importance of this policy acknowledges the negative impact experienced by individuals, the District, and society as a result of racial discrimination and racism.</p>
+<h3>Accountability in the Clark County School District</h3>
+<p>The District will hold staff and students accountable and align all adult behavior to a renewed culture of high expectations for all students throughout the District and the expectation of an Anti-Racism culture. The District shall ensure the provisions of <a data-file-name="5137_P.pdf" data-resource-uuid="2ff74fdf-9c3e-4fca-bab5-7673209b9f9b" href="/fs/resource-manager/view/2ff74fdf-9c3e-4fca-bab5-7673209b9f9b" target="_blank">Policy 5137, Safe and Respectful Learning Environment: Discrimination Based on Race, Bullying, and Cyberbullying (PDF)</a> are complied with as required.</p>
+<p><a data-file-name="5139_P.pdf" data-resource-uuid="0bc47fed-d900-4d28-b9bb-c82b5476e124" href="/fs/resource-manager/view/0bc47fed-d900-4d28-b9bb-c82b5476e124" target="_blank">Policy 5139 Anti- Racism, Equity, and Inclusion (PDF)</a></p>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10644">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_10645">
+<div class="fsElement fsContent job-card lg-card" data-use-new="true" id="fsEl_10646">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="legal" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756836100/ccsdnet/kf3c4eanblqgrmd5c8ab/legal2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="legal2.png" data-resource-uuid="3d0096e2-26c0-4ce2-a206-92f2b460bc8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Policy 5139</h4>
+<p><a class="button-1" data-file-name="Policy5139-AntiRacismPoster.pdf" data-resource-uuid="aa1c534a-0034-40ce-a233-376662a1ec1f" href="/fs/resource-manager/view/aa1c534a-0034-40ce-a233-376662a1ec1f" target="_blank">View</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_10647">
+<div class="fsElement fsContent job-card lg-card" data-use-new="true" id="fsEl_10648">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="legal" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756836100/ccsdnet/kf3c4eanblqgrmd5c8ab/legal2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="legal2.png" data-resource-uuid="3d0096e2-26c0-4ce2-a206-92f2b460bc8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Anti-Racism Committee Letter</h4>
+<p><a class="button-1" data-file-name="Anti-Racism-Committee-Letter.pdf" data-resource-uuid="12ff7e3f-4c09-4c18-8ed2-1a2621b7ae14" href="/fs/resource-manager/view/12ff7e3f-4c09-4c18-8ed2-1a2621b7ae14" target="_blank">View</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_10649">
+<div class="fsElement fsContent job-card lg-card" data-use-new="true" id="fsEl_10650">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="legal" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756836100/ccsdnet/kf3c4eanblqgrmd5c8ab/legal2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="legal2.png" data-resource-uuid="3d0096e2-26c0-4ce2-a206-92f2b460bc8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Annual Report Policy 5139</h4>
+<p><a class="button-1" data-file-name="Annual-Report-Policy-5139-Anti-Racism-Equity-Inclusion.pdf" data-resource-uuid="70b55ded-1ba6-4a93-b855-c1705325e133" href="/fs/resource-manager/view/70b55ded-1ba6-4a93-b855-c1705325e133" target="_blank">View</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -10,7 +10,8 @@
                 RANCHO HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Smith, Norman E<br>
+                        
+Principal: Smith, Norman E<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7000<br/>
                                 Fax: 702-799-8316<br/>
 <a href="http://maps.google.com/maps?q=1900 SEARLES AVENUE,+NORTH LAS VEGAS,+NV+89101">Map</a>
-                                 | <a href="http://ranchorams.org">Website</a> </br></br></br></p>
+                                 | <a href="http://ranchorams.org">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Students First</p> <p><b>Mission:</b> To Promote Students that are Responsible, High Achieving, and Safe</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 GIBSON, ROBERT O. LEADERSHIP ACADEMY<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Gist, Christopher M<br>
+                        
+Principal: Gist, Christopher M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4700<br/>
                                 Fax: 702-799-4705<br/>
 <a href="http://maps.google.com/maps?q=3900 WEST WASHINGTON AVE,+LAS VEGAS,+NV+89107">Map</a>
-                                 | <a href="https://rogibson.net/">Website</a> </br></br></br></p>
+                                 | <a href="https://rogibson.net/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Gibson Middle School, an Excellent Place to Learn</p> <p><b>Mission:</b> The R.O. Gibson Middle School mission, in conjunction with home and community, is to provide an educational sanctuary where students will be assured opportunities to develop academic and social skills essential to succeed in high school and to meet the challenges of a changing society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

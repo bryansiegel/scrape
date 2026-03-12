@@ -1,0 +1,16 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Request A Substitute (SmartFind Express)</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12855">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_12856">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12857">
+<div class="fsElementContent">
+<p><strong>SmartFind Express</strong> is the system used for the assignment and deployment of substitute personnel within the Clark County School District. If your position requires a substitute when you are absent, you will use the ACCESS ID/EMPLOYEE ID that has been assigned to you in order to obtain your account. You will need to register for a PIN by calling the SmartFind automated line at 702-728-2763 and follow the prompts to record your name and select a PIN.</p>
+<p>Once registered, employees may access SmartFind Express by phone or web browser.</p>
+<p>Your ACCESS/EMPLOYEE ID and PIN are required to access the system via telephone. Your ACCESS/EMPLOYEE ID and PASSWORD are required to access the system via computer or any other device. If you forget or misplace your ACCESS ID/EMPLOYEE ID you may obtain this information from your site office manager or by logging into <a class="xlink-blue" href="https://hcm.ccsd.net/" target="_blank">HCM.CCSD.NET</a> and selecting the “personal details” tile. Your ACCESS ID/EMPLOYEE ID will be located under your name towards the top banner. If you do not have an email address attached to your SmartFind Account you will need to contact the Substitute Help Desk at 702-799-5420. Help Desk hours are 6:00 am to 5:00 pm.</p>
+<p>The web address is <a class="xlink-blue" href="https://ccsd.eschoolsolutions.com" rel="nofollow" target="_blank">https://ccsd.eschoolsolutions.com</a>. A link is available on this page for your convenience.</p>
+<p><a class="button-1" href="https://ccsd.eschoolsolutions.com/" rel="nofollow" target="_blank">Go to SmartFind Express (SEMS)</a></p>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -10,19 +10,20 @@
                 EDWARDS, ELBERT ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Petosa, Emily E<br>
+                        
+Principal: Lively, Shannon<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
-<!-- 								Petosa, Emily E --><!-- <br> -->
+<!-- 								Lively, Shannon  --><!-- <br> -->
                                 4551 DIAMOND HEAD DRIVE<br>
                                 LAS VEGAS, NV 89110<br>
                                 Phone: 702-799-7320<br/>
                                 Fax: 702-799-8890<br/>
 <a href="http://maps.google.com/maps?q=4551 DIAMOND HEAD DRIVE,+LAS VEGAS,+NV+89110">Map</a>
-                                 | <a href="https://edwardseagles.wixsite.com/edwardselementary">Website</a> </br></br></br></p>
+                                 | <a href="https://elbertedwardseagles.wixsite.com/edwardselementary">Website</a> 
 <b>Region:</b> 3                                                                                            <p><b>Mission:</b> The Edwards community of parents, students and staff are working together to raise student achievement.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

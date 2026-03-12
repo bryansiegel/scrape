@@ -1,0 +1,30 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Social Media Terms of Use</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10632">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_10633">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10634">
+<div class="fsElementContent">
+<p>1. The Clark County School District (CCSD)’s social media sites were created to share information about the school district with the general public. To promote effective information exchange with our families and community, CCSD welcomes comments related to the specific content posted on our social media accounts. CCSD social media sites are limited public forums that are subject to these Terms of Use as well as any terms of service set by each respective third-party social media platform on which CCSD operates a site or page. Use of the CCSD social media sites is voluntary, and your use of or engagement with any of CCSD’s social media sites constitutes acceptance of these Terms of Use.</p>
+<p>2. To ensure that our social media sites align with CCSD’s mission of providing a safe and respectful learning environment for all of its students, CCSD reserves the right to hide, delete, or remove any content on the CCSD social media sites if CCSD reasonably believes it contains any of the following:</p>
+<p>a. Comments not related to the specific topic of CCSD’s original post (e.g., do not address or respond to the subject of CCSD’s original post);<br/>
+b. Lewd, vulgar, obscene, or profane language or content;<br/>
+c. Comments that constitute bullying, cyberbullying, or harassment (e.g., direct slurs or targeted harassment toward an individual);<br/>
+d. Comments that constitute discrimination based on race, color, national origin, ancestry, age, religion, sex, sexual orientation, gender identity or expression, marital status, status with regard to public assistance, or physical or mental disability under federal, state, or local law, regulation, or ordinance;<br/>
+e. Sexual content;<br/>
+f. Solicitations of commerce, promotional content, or automated messages;<br/>
+g. Content that encourages, promotes, or incites violence or criminal or illegal activity or comments that otherwise incite imminent lawless action;<br/>
+h. Information that may tend to compromise the safety or security of the public or public systems;<br/>
+i. Impersonating any person or entity; or<br/>
+j. Content that violates a legal ownership interest of any other party.</p>
+<p>CCSD will not hide, delete, or remove content solely on the basis of viewpoint, and these Terms of Use will be applied in a viewpoint-neutral manner.</p>
+<p>3. Repeated failure to comply with these Terms of Use may result in the user being blocked until the start of the following school year. Repeated failure means posting content that violates these Terms of Use on three or more occasions. Before a user is blocked, CCSD will send a warning via social media direct message or other form of communication that is reasonably likely to provide notice to the user. The warning will specifically state which portion(s) of the Terms of Use has been violated and will inform the user that they will be blocked if they continue violating the Terms of Use. If a user is blocked, they may object to the decision by emailing the Communications Office at communications@nv.ccsd.net. The Communications Office will respond to the user with a final decision.</p>
+<p>4. CCSD reserves the right to turn off the comments function on weekends, holidays, or during periods when staff are not on duty. It also reserves the right to limit or turn off the commenting, tagging, and reposting functions in its sole discretion.</p>
+<p>5. You understand you are responsible for any content or comments you post to CCSD social media sites. Under no circumstances will CCSD be responsible or liable in any way for any content or post by you or another user or for any loss or damage incurred as a result of the use of any content posted by you or another user via a CCSD social media site. You further acknowledge and understand that CCSD may report your activity and/or posted content to appropriate law enforcement agencies if any such content contains statements or depictions of violence against a person, entity, government, or targeted groups of people.</p>
+<p>6. CCSD does not pre-screen user posts or comments. CCSD does not guarantee the accuracy, integrity, or quality of any content or comments posted by users. The comments expressed by users on the CCSD social media sites do not necessarily reflect the opinions or positions of CCSD, the Board of School Trustees, or its employees.</p>
+<p>7. Social media users should not include confidential or personally identifiable information in their social media posts. CCSD may re-post or disseminate any information, messages, and images posted by users on CCSD’s social media sites as it deems appropriate. All information posted by users on the CCSD social media sites may also be preserved and/or disclosed by CCSD as required or permitted by law or as CCSD may in good faith deem necessary to comply with legal process, enforce these Terms of Use, respond to claims that any posted content violates the rights of third parties, and/or to protect the rights, property, or safety of CCSD personnel, students, or members of the general public.</p>
+<p>UPDATED: February, 2026</p>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -10,7 +10,8 @@
                 LINCOLN ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Black, Jennifer L<br>
+                        
+Principal: Black, Jennifer L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7133<br/>
                                 Fax: 702-799-1724<br/>
 <a href="http://maps.google.com/maps?q=3010 BERG STREET,+NORTH LAS VEGAS,+NV+89030">Map</a>
-                                 | <a href="https://www.lincolnes.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.lincolnes.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Learners today...Leaders tomorrow.</p> <p><b>Mission:</b> Every student will achieve success in a learning environment that is safe, focused, and consistent.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

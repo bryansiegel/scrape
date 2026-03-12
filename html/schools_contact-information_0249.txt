@@ -10,7 +10,8 @@
                 MORROW, SUE H. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Witte, Jaime L<br>
+                        
+Principal: Witte, Jaime L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-3550<br/>
                                 Fax: 702-799-3556<br/>
 <a href="http://maps.google.com/maps?q=1070 FEATHERWOOD AVENUE,+HENDERSON,+NV+89015">Map</a>
-                                 | <a href="https://www.suemorrowelementary.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.suemorrowelementary.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Our students are in tune with learning.</p> <p><b>Mission:</b> The community of Sue H. Morrow will provide a safe school that promotes learning and literacy. We will create a positive place to learn by behaving respectfully.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -1,0 +1,23 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Employee Services</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_183906">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_183907">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_183908">
+<div class="fsElementContent">
+<ul>
+<li><a contenteditable="false" href="https://docs.google.com/forms/d/e/1FAIpQLSdrlyZF6MQ5VxpcYBbFq_CUNarAjmd2RPb2B1U3LZj1OFk0jA/viewform" style="cursor: pointer;" target="_blank">Request for Verification of Teaching Experience, Fedloan Teach Grant Certification, and Teacher Loan Forgiveness</a></li>
+<li><a contenteditable="false" href="http://ess.ccsd.net" style="cursor: pointer;" target="_blank">Employee Self Service (ESS)</a></li>
+<li><a contenteditable="false" data-page-name="Change of Address" href="/fs/pages/1285" style="cursor: pointer;">Change of Address</a></li>
+<li><a contenteditable="false" data-page-name="Request A Substitute (SmartFind Express)" href="/fs/pages/1286" style="cursor: pointer;">Request a Substitute (SmartFind Express)</a></li>
+<li><a contenteditable="false" data-file-name="EmployeeQuickGuide-03202024.pdf" data-resource-uuid="06cbcfda-6400-494b-98b9-885c0c96e5df" href="/fs/resource-manager/view/06cbcfda-6400-494b-98b9-885c0c96e5df" style="cursor: pointer;">Employee Quick Reference Card</a></li>
+<li><a contenteditable="false" data-file-name="SubstituteQuickGuide-03202024.pdf" data-resource-uuid="fa02d7a9-dcb4-4ae2-8e86-47013b2c9a0d" href="/fs/resource-manager/view/fa02d7a9-dcb4-4ae2-8e86-47013b2c9a0d" style="cursor: pointer;">Substitute Quick Reference Card</a></li>
+<li><a contenteditable="false" data-page-name="Identification Badge" href="/fs/pages/1290" style="cursor: pointer;">I.D. Badge</a></li>
+<li><a contenteditable="false" href="https://www.ccsd.net/resources/employee-salary-information#employment-verification" style="cursor: pointer;">Request for DoDEA Form 5013, Heartland/Perkins Deferment, and Public Service Loan Forgiveness</a></li>
+<li><a contenteditable="false" href="https://www.ccsd.net/resources/employee-salary-information#employment-verification" style="cursor: pointer;">Verification of Income</a></li>
+<li><a contenteditable="false" data-page-name="Employee Health and Wellness Benefits" href="/fs/pages/1287" style="cursor: pointer;">Health Information</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</main>

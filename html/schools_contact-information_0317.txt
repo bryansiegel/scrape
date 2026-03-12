@@ -10,7 +10,8 @@
                 CRAIG, LOIS ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Wyett, Jackie L<br>
+                        
+Principal: Wyett, Jackie L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4910<br/>
                                 Fax: 702-799-4942<br/>
 <a href="http://maps.google.com/maps?q=2637 EAST GOWAN ROAD,+NORTH LAS VEGAS,+NV+89030">Map</a>
-                                 | <a href="https://www.loiscraiglions.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.loiscraiglions.com/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Roaring Into The Future With Pride</p> <p><b>Mission:</b> To empower all students to succeed in a changing world</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

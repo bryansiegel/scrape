@@ -10,7 +10,8 @@
                 TREEM, HARRIET ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Cyprus, Sarah J<br>
+                        
+Principal: Cyprus, Sarah J<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8760<br/>
                                 Fax: 702-799-0916<br/>
 <a href="http://maps.google.com/maps?q=1698 PATRICK LANE,+HENDERSON,+NV+89014">Map</a>
-                                 | <a href="https://treembears.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://treembears.org/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Working As A Team Toward Success</p> <p><b>Mission:</b> In partnership with the community and our sister school, our mission is to provide opportunities for student achievement and to develop responsible citizens prepared to make contributions to a global society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

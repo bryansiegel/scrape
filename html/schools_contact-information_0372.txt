@@ -10,7 +10,8 @@
                 KATZ, EDYTHE &amp; LLOYD ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Dipaolo, Rachel R<br>
+                        
+Principal: DiPaolo, Rachel R<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4330<br/>
                                 Fax: 702-799-4306<br/>
 <a href="http://maps.google.com/maps?q=1800 ROCK SPRINGS DRIVE,+LAS VEGAS,+NV+89128">Map</a>
-                                 | <a href="https://www.katzelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.katzelementary.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Today We Make A Difference For TomorrowBuilding Academic and Social Success Now and For Our Future</p> <p><b>Mission:</b> Our goal is to create life-long learners who possess the skills, confidence, and knowledge to meet the challenges of middle school, high school, college &amp; beyond. </p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

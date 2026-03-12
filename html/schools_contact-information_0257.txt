@@ -10,7 +10,8 @@
                 GAREHIME, EDITH ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Laster, Latara S<br>
+                        
+Principal: Laster, LaTara S<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6000<br/>
                                 Fax: 702-799-6012<br/>
 <a href="http://maps.google.com/maps?q=3850 CAMPBELL ROAD,+LAS VEGAS,+NV+89129">Map</a>
-                                 | <a href="https://www.garehime.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.garehime.com/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> The Power of One is to do something positive.</p> <p><b>Mission:</b> The citizens of Garehime Heights are committed to maximizing student achievement by doing their personal best so that students become responsible, contributing citizens of society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

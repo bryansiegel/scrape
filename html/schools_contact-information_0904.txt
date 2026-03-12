@@ -10,7 +10,8 @@
                 BARTLETT, SELMA F. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Christian, Brodie C<br>
+                        
+Principal: Christian, Brodie C<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5750<br/>
                                 Fax: 702-799-5739<br/>
 <a href="http://maps.google.com/maps?q=1961 WIGWAM PARKWAY,+HENDERSON,+NV+89074">Map</a>
-                                 | <a href="http://www.selmabartlett.com/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.selmabartlett.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Set High Goals - Attain New Heights</p> <p><b>Mission:</b> The Bartlett Elementary School community is committed to excellence in education. It is our mission to provide a caring, positive, and safe learning environment where each child is challenged to achieve commensurate with his/her ability, is valued as a unique individual, and is provided opportunities for academic, social, and personal growth.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

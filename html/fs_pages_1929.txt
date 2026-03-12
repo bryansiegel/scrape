@@ -1,0 +1,19 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Special Diets</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_17425">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_17426">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_17432">
+<div class="fsElementContent">
+<p>Special diets are provided to students with a documented disability or medical condition that limits a major life activity (i.e; breathing,) or students with severe or life-threatening anaphylactic reactions.</p>
+<p>Any change in diet will require submission of a new and revised physician signed <em>CCSD Medical Statement to Request a Special Diet </em>form.</p>
+<p>Unfortunately, CCSD is unable to accommodate special diets based on personal preferences or religious convictions.</p>
+<h2><strong>Medical Statement to Request a Special Diet:</strong></h2>
+<p><a data-file-name="fsd-f5-14070524-special-diet-request-form.pdf" data-resource-uuid="64f621e9-4f16-4f79-bd20-30e0d8e6d19e" href="/fs/resource-manager/view/64f621e9-4f16-4f79-bd20-30e0d8e6d19e"><strong>CCSD </strong><strong>Medical Statement</strong></a></p>
+<h2>Discontinue A Special Diet:</h2>
+<p><a data-file-name="fsd-f5-15-discontinue-a-special-diet-english.pdf" data-resource-uuid="e092d505-e6f2-4ee0-8ca5-28f0e5f51bea" href="/fs/resource-manager/view/e092d505-e6f2-4ee0-8ca5-28f0e5f51bea"><strong>Discontinue a Special Diet English</strong></a></p>
+<p><a data-file-name="fsd-f5-16-discontinue-a-special-diet-spanish.pdf" data-resource-uuid="0e2663a7-3ac4-4cca-b278-016e7e5eb565" href="/fs/resource-manager/view/0e2663a7-3ac4-4cca-b278-016e7e5eb565"><strong>Discontinue a Special Diet Spanish</strong></a></p>
+</div>
+</div>
+</div>
+</div>
+</main>

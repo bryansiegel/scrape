@@ -10,7 +10,8 @@
                 MENDOZA, JOHN F. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Christensen, Rebecka D<br>
+                        
+Principal: Christensen, Rebecka D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8680<br/>
                                 Fax: 702-799-7464<br/>
 <a href="http://maps.google.com/maps?q=2000 SLOAN LANE,+LAS VEGAS,+NV+89142">Map</a>
-                                 | <a href="http://www.mendozaelementary.org/index.jsp">Website</a> </br></br></br></p>
+                                 | <a href="http://www.mendozaelementary.org/index.jsp">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Mendoza, A place for learning, love and laughter </p> <p><b>Mission:</b> All students, staff, and parents of John F. Mendoza community are committed to increasing individual student academic achievement and providing opportunities to become independent thinkers, learners, and responsible citizens.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 BONNER, JOHN W. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Kirkhart, David L<br>
+                        
+Principal: Kirkhart, David L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6050<br/>
                                 Fax: 702-799-6056<br/>
 <a href="http://maps.google.com/maps?q=765 CRESTDALE LANE,+LAS VEGAS,+NV+89144">Map</a>
-                                 | <a href="https://www.bonnerelementary.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.bonnerelementary.com/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Bonner Bobcats are "PAWSitive"</p> <p><b>Mission:</b> The mission of John W. Bonner Elementary is to provide a nurturing, constructive environment for all students to learn and be successful.  Our goal is to foster and build an enriched instructional community that delivers a sound academic based education while accommodating individual learning styles.  Through collaborative effort, we will establish a continuing communication between students, staff, parents and community.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

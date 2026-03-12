@@ -10,19 +10,20 @@
                 SMITH, J.D. MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Rodda, Henry F<br>
+                        
+Principal: Loewy, Hallie E<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
-<!-- 								Rodda, Henry F --><!-- <br> -->
+<!-- 								Loewy, Hallie E --><!-- <br> -->
                                 1880 EAST STANLEY AVENUE<br>
                                 NORTH LAS VEGAS, NV 89030<br>
                                 Phone: 702-799-7080<br/>
                                 Fax: 702-799-7195<br/>
 <a href="http://maps.google.com/maps?q=1880 EAST STANLEY AVENUE,+NORTH LAS VEGAS,+NV+89030">Map</a>
-                                 | <a href="http://www.jdsmithms.org">Website</a> </br></br></br></p>
+                                 | <a href="http://www.jdsmithms.org">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Academic Achievement Makes Dreams Come True.</p> <p><b>Mission:</b> The staff, students, parents, and community partners of J.D. Smith Middle School are committed to creating a safe and positive environment where individuals make dreams a reality through academic achievement and positive citizenship.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

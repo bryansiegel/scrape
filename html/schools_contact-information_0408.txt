@@ -10,7 +10,8 @@
                 GOYNES, THERON H. AND NAOMI D. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Fisher, Jill A<br>
+                        
+Principal: Fisher, Jill A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-1770<br/>
                                 Fax: 702-799-1721<br/>
 <a href="http://maps.google.com/maps?q=3409 DEER SPRINGS WAY,+NORTH LAS VEGAS,+NV+89084">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/goyneselementary">Website</a> </br></br></br></p>
-<b>Region:</b> 1                                                    </div>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/goyneselementary">Website</a> 
+<b>Region:</b> 1                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -1,0 +1,302 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Open Book</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_142722">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_142723">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout nav-sub sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_147669">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_147670">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_147671">
+<div class="fsElementContent">
+<p>CCSD is proud to be an Open Book! We welcome our community to take a look at what it takes to keep the nation's fifth-largest school district running. Change is underway at CCSD. We've asked everyone to be more accountable - from teachers, to facility workers and administrators. We've asked all of our employees to do more with less and eliminate waste. Accountability starts at the top.</p>
+<p>Making our budget information easily accessible to the public tells the taxpayers: we are accountable to you. Funds are dwindling at the same time that expectations are rising. The challenge is to do more with less and we are up to that challenge. Smarter investing means resources can target serious challenges like overcrowding. Come on in and take a look around, visit the "suggestion book" to submit your ideas. We look forward to hearing from you.</p>
+<p>This site complements the preexisting annual budget reports, annual comprehensive financial reports, and state budget forms.</p>
+<!--<p><a alt="Final Budget PDF" class="button-7" data-file-name="Open-Book-User-Guide-2025.pdf" data-resource-uuid="a5f0d4e7-b918-46ed-ad67-811d504356a4" href="/fs/resource-manager/view/a5f0d4e7-b918-46ed-ad67-811d504356a4" target="_blank">Website User Guide</a></p>-->
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_147672">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_147673">
+<div class="fsElementContent">
+<h2>Useful Links</h2>
+<nav>
+<ul class="fsNavLevel1">
+<li><a alt="Fast Facts PDF" data-page-name="District Data" href="/fs/pages/1281">CCSD Data Dashboard</a></li>
+<li><a alt="Fast Facts PDF" data-file-name="December-2024-ataglance_CCSD.pdf" data-resource-uuid="13c113ad-593f-4599-8924-c751e1663c8d" href="/fs/resource-manager/view/13c113ad-593f-4599-8924-c751e1663c8d" target="_blank">December 2024 At A Glance</a></li>
+<li><a alt="Comprehensive PDF" data-file-name="annual-comprehensive-financial-report-2025.pdf" data-resource-uuid="67270350-af14-4f70-9540-3975c101e863" href="/fs/resource-manager/view/67270350-af14-4f70-9540-3975c101e863" target="_blank">Annual Comprehensive Financial Report (PDF)</a></li>
+<li><a alt="Final Budget PDF" data-file-name="Fiscal-Year-2026-Amended-Final-Budget-Presentation.pdf" data-resource-uuid="4cefcc9a-19a2-4baa-add4-9db2a3ab4520" href="/fs/resource-manager/view/4cefcc9a-19a2-4baa-add4-9db2a3ab4520" target="_blank">Fiscal Year 2026 Amended Final Budget Presentation (PDF)</a></li>
+<li><a alt="Nevada Report Card" href="http://nevadareportcard.nv.gov/di/" target="_blank">Nevada Report Card</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_143739">
+<header>
+<div class="fsElementHeaderContent">
+<h2 style="text-align: center;">TOOLS</h2>
+</div>
+</header>
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_143740">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_143743">
+<div class="fsElementContent">
+<div style="text-align:center;">
+<figure class="fsImage"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+<h4>Budget Comparison</h4>
+<p>This tool displays CCSD's budgeted appropriations and staff positions by major functional area.</p>
+ 
+<br/>
+<br/>
+<p><a class="button-1" href="https://bi.ccsd.net/BOE/OpenDocument/opendoc/custom.jsp?sIDType=CUID&amp;iDocID=AcD3.Gu1P3RPqlMN4nz0x2o" target="_blank">View</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_143741">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_143744">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+<h4>Department Analysis</h4>
+<p>This tool displays, in an interactive fashion, CCSD’s budgeted appropriations and staff positions for CCSD's General Operating Fund by department.</p>
+<br>
+<p><a class="button-1" href="https://bi.ccsd.net/BOE/OpenDocument/opendoc/custom.jsp?sIDType=CUID&amp;iDocID=AfZoYZ5TZiZPrYbyYLkqjc4" target="_blank">View</a></p>
+</br></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_143742">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_143745">
+<div class="fsElementContent">
+<div style="text-align:center;">
+<figure class="fsImage"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+<h4>Food Services Analysis</h4>
+<p>This tool displays, in an interactive fashion, CCSD’s budgeted appropriations and staff positions for the Food Services department.</p>
+<p><a class="button-1" href="https://bi.ccsd.net/BOE/OpenDocument/opendoc/custom.jsp?sIDType=CUID&amp;iDocID=ARrQNVFAiCpFuGURkFGiUpQ" target="_blank">View</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_143767">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_143768">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_143769">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+<h4>Actual Salaries &amp; Benefits by Function</h4>
+<p>This tool displays, in an interactive fashion, salaries and benefits for CCSD's general operating fund.</p>
+<p><a class="button-1" href="https://bi.ccsd.net/BOE/OpenDocument/opendoc/custom.jsp?sIDType=CUID&amp;iDocID=Abqhqiz1xrtGhODpWTyoUd0" target="_blank">View</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_143770">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_143771">
+<div class="fsElementContent">
+<div style="text-align:center;">
+<figure class="fsImage"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+<h4>AP Payments</h4>
+<p>View the CCSD accounts payable payments to vendors.</p>
+<p><a class="button-1" href="https://bi.ccsd.net/BOE/OpenDocument/opendoc/custom.jsp?sIDType=CUID&amp;iDocID=AWRFoYAKaxhMt4HF6t0biDg" target="_blank">View</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_143772">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_143773">
+<div class="fsElementContent">
+<div style="text-align:center;">
+<figure class="fsImage"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+<h4>Budget By School</h4>
+<p>This tool displays, in an interactive fashion, the schools' budget.</p>
+<p><a class="button-1" href="https://bi.ccsd.net/BOE/OpenDocument/opendoc/custom.jsp?sIDType=CUID&amp;iDocID=AX9yJXdvUEdBpCc9hMY9L18" target="_blank">View</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_147675">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-147690" role="presentation">
+<a aria-controls="fsEl_147690" aria-selected="false" href="#fs-panel-147690" role="tab">Nevada Revised Statute (NRS) 388G - Reporting FY 2026</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-147688" role="presentation">
+<a aria-controls="fsEl_147688" aria-selected="false" href="#fs-panel-147688" role="tab">Nevada Revised Statute (NRS) 388G - Reporting FY 2025</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-147686" role="presentation">
+<a aria-controls="fsEl_147686" aria-selected="false" href="#fs-panel-147686" role="tab">Nevada Revised Statute (NRS) 388G - Reporting FY 2024</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-147684" role="presentation">
+<a aria-controls="fsEl_147684" aria-selected="false" href="#fs-panel-147684" role="tab">Nevada Revised Statute (NRS) 387.12468 - Reporting FY 2023</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-147682" role="presentation">
+<a aria-controls="fsEl_147682" aria-selected="false" href="#fs-panel-147682" role="tab">Nevada Revised Statute (NRS) 388G - Reporting FY 2022</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-147680" role="presentation">
+<a aria-controls="fsEl_147680" aria-selected="false" href="#fs-panel-147680" role="tab">Nevada Revised Statute (NRS) 388G - Reporting FY 2021</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-147678" role="presentation">
+<a aria-controls="fsEl_147678" aria-selected="false" href="#fs-panel-147678" role="tab">Nevada Revised Statute (NRS) 388G - Reporting FY 2020</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-147676" role="presentation">
+<a aria-controls="fsEl_147676" aria-selected="false" href="#fs-panel-147676" role="tab">Nevada Revised Statute (NRS) 388G - Reporting FY 2019</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_147690" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_147690" aria-expanded="false" href="#fs-panel-147690" role="button">Nevada Revised Statute (NRS) 388G - Reporting FY 2026</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-147690"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_147691">
+<div class="fsElementContent">
+<h3>NEVADA REVISED STATUTE (NRS) 388G - REPORTING FY 2026</h3>
+<p>This tool displays FY 2026 financial reports addressing sections of Nevada Revised Statute (NRS) 388G.</p>
+<p><a data-file-name="NRS-388G-Sect18Reporting-FY2026.pdf" data-resource-uuid="4c80e40b-12cc-4b47-ac1f-ee697f34594f" href="/fs/resource-manager/view/4c80e40b-12cc-4b47-ac1f-ee697f34594f">View NRS 388G Sec. 18 Report</a></p>
+<p><a data-file-name="NRS-388G-Local-School-Precinct-Alloc-2026-Spring.pdf" data-resource-uuid="211abfd4-cc51-4035-95ce-94cb0e13f972" href="/fs/resource-manager/view/211abfd4-cc51-4035-95ce-94cb0e13f972">Local School Precinct Allocations - January 2025</a></p>
+<p><a data-file-name="NRS-388G-LocalSchoolPrecent-FallFY2026.pdf" data-resource-uuid="321b2a87-5f30-484f-8889-a83a9247c439" href="/fs/resource-manager/view/321b2a87-5f30-484f-8889-a83a9247c439">Local School Precinct Allocations - September 2025</a></p>
+<p><a data-file-name="NRS388G-AverageSalaries-2026Spring.pdf" data-resource-uuid="54fae3c1-1a55-40b5-b6dd-802bcf7122df" href="/fs/resource-manager/view/54fae3c1-1a55-40b5-b6dd-802bcf7122df">Average Salaries - January 2025</a></p>
+<p><a data-file-name="NRS388G-AverageSalaries-2026Fall.pdf" data-resource-uuid="c597b991-6652-4deb-b19a-b3968281dec8" href="/fs/resource-manager/view/c597b991-6652-4deb-b19a-b3968281dec8">Average Salaries - September 2025</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_147688" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_147688" aria-expanded="false" href="#fs-panel-147688" role="button">Nevada Revised Statute (NRS) 388G - Reporting FY 2025</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-147688"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_147689">
+<div class="fsElementContent">
+<h3>NEVADA REVISED STATUTE (NRS) 388G - REPORTING FY 2025</h3>
+<p>This tool displays FY 2025 financial reports addressing sections of Nevada Revised Statute (NRS) 388G.</p>
+<p><a data-file-name="NRS-388G-Sect18Reporting-FY2025.pdf" data-resource-uuid="97af6477-d4d9-4bf5-b90d-97cda159fdea" href="/fs/resource-manager/view/97af6477-d4d9-4bf5-b90d-97cda159fdea">View NRS 388G Sec. 18 Report</a></p>
+<p><a data-file-name="NRS-388G-LocalSchoolPrecent-FY2025.pdf" data-resource-uuid="c4e44fbd-9754-410f-89e6-57acc5b5b119" href="/fs/resource-manager/view/c4e44fbd-9754-410f-89e6-57acc5b5b119">Local School Precinct Allocations - January 2024</a></p>
+<p><a data-file-name="NRS-388G-LocalSchoolPrecentAlloc-2025Fall-Updated.pdf" data-resource-uuid="1437546a-5cfe-4bc5-81cf-ca97a461b50c" href="/fs/resource-manager/view/1437546a-5cfe-4bc5-81cf-ca97a461b50c">Local School Precinct Allocations - September 2024</a></p>
+<p><a data-file-name="FY25-Average-Salaries-Spring-Planning-Tool-2024-01-15.pdf" data-resource-uuid="638a97d4-84bd-4ac4-98fe-706f51d2fcc3" href="/fs/resource-manager/view/638a97d4-84bd-4ac4-98fe-706f51d2fcc3">Average Salaries - January 2024</a></p>
+<p><a data-file-name="FY25-Average-Salaries-Spring-Planning-Tool-2024-01-15.pdf" data-resource-uuid="638a97d4-84bd-4ac4-98fe-706f51d2fcc3" href="/fs/resource-manager/view/638a97d4-84bd-4ac4-98fe-706f51d2fcc3">Average Salaries - September 2024</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_147686" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_147686" aria-expanded="false" href="#fs-panel-147686" role="button">Nevada Revised Statute (NRS) 388G - Reporting FY 2024</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-147686"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_147687">
+<div class="fsElementContent">
+<h3><a href="https://bi.ccsd.net/BOE/OpenDocument/opendoc/custom.jsp?sIDType=CUID&amp;iDocID=AZBzxK6xD2VPtp6c39K.oVA">Nevada Revised Statute (NRS) 388G<br>
+- Reporting FY 2024</br></a></h3>
+<p>This tool displays FY 2024 financial reports addressing sections of Nevada Revised Statute (NRS) 388G.</p>
+<p><a data-file-name="NRS-388G-Sec660-ReportingFY24-filed.pdf" data-resource-uuid="9214d622-a863-427f-93cb-77c097d9afe1" href="/fs/resource-manager/view/9214d622-a863-427f-93cb-77c097d9afe1">View NRS 388G Sec. 18 Report</a></p>
+<p><a data-file-name="NRS-388G-Local-School-Precinct-Allocations-2024.pdf" data-resource-uuid="0b7eee91-2caf-4d42-a906-a836f7a9e16d" href="/fs/resource-manager/view/0b7eee91-2caf-4d42-a906-a836f7a9e16d">Local School Precinct Allocations - 2024</a></p>
+<p><a data-file-name="NRS-388G-Local-School-Precinct-Allocations-2024-Fall.pdf" data-resource-uuid="242fe352-e557-46d1-884e-4f25921d20e3" href="/fs/resource-manager/view/242fe352-e557-46d1-884e-4f25921d20e3">Local School Precinct Allocations - 2024</a></p>
+<p><a data-file-name="FY24-Average-Salaries-Spring-Planning-Tool-2023-12-20-Updated.pdf" data-resource-uuid="32161c65-d2ac-4c49-8ca2-a60c9f9fec4a" href="/fs/resource-manager/view/32161c65-d2ac-4c49-8ca2-a60c9f9fec4a">FY24 - Average Salaries - Spring Planning</a></p>
+<p><a data-file-name="NRS388G690-FY2024.pdf" data-resource-uuid="bfc67e93-5623-4335-9b48-7d8c83b95b4e" href="/fs/resource-manager/view/bfc67e93-5623-4335-9b48-7d8c83b95b4e"><strong>View FY2024 NRS 388G.690 1(a),(b),(d)</strong></a></p>
+<p><a data-file-name="FY2024LicensedFTEVacancies-NRS388G6901c.pdf" data-resource-uuid="30043ae3-8059-4472-83bc-9a01f7b207af" href="/fs/resource-manager/view/30043ae3-8059-4472-83bc-9a01f7b207af">View FY2024 Licensed FTE Vacancies - NRS 388G.690 1(c)</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_147684" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_147684" aria-expanded="false" href="#fs-panel-147684" role="button">Nevada Revised Statute (NRS) 387.12468 - Reporting FY 2023</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-147684"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_147685">
+<div class="fsElementContent">
+<h3><a href="https://openbook.ccsd.net/#">Nevada Revised Statute (NRS) 387.12468<br/>
+- Reporting FY 2023</a></h3>
+<p>This tool displays FY 2023 Actuals and FY 2024 Budgeted Amounts addressing sections of Nevada Revised Statute (NRS) 387.12468</p>
+<p><a data-file-name="NRS-38712468-Report-CCSD_Annual-StaffingBudgetComparison.pdf" data-resource-uuid="9be3a874-9838-4fb3-ac02-544334ece27d" href="/fs/resource-manager/view/9be3a874-9838-4fb3-ac02-544334ece27d">CCSD School District_Annual Staffing and Budget Comparison</a></p>
+<p><a data-file-name="NRS-38712468-Public-Schools.pdf" data-resource-uuid="fcf1c8d2-0692-4f9b-be65-fea003b8c63d" href="/fs/resource-manager/view/fcf1c8d2-0692-4f9b-be65-fea003b8c63d">CCSD NRS 387.12468 - Public Schools</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_147682" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_147682" aria-expanded="false" href="#fs-panel-147682" role="button">Nevada Revised Statute (NRS) 388G - Reporting FY 2022</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-147682"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_147683">
+<div class="fsElementContent">
+<h3><a href="https://bi.ccsd.net/BOE/OpenDocument/opendoc/custom.jsp?sIDType=CUID&amp;iDocID=Ad4OKssTfG5Pu1vU4W5uXmU">Nevada Revised Statute (NRS) 388G<br/>
+- Reporting FY 2022</a></h3>
+<p>This tool displays FY 2022 financial reports addressing sections of Nevada Revised Statute (NRS) 388G.</p>
+<p><a data-file-name="FY2022-NRS388G690-1abcd.pdf" data-resource-uuid="6d7b6dc1-c5dc-42cc-a293-c0b43046ef37" href="/fs/resource-manager/view/6d7b6dc1-c5dc-42cc-a293-c0b43046ef37">View FY2022 NRS 388G.690 1(a),(b),(d)</a></p>
+<p><a data-file-name="FY22-Average-Salaries-Spring-Planning-12-17-2020.pdf" data-resource-uuid="62dec20f-3df8-4c1a-8bb6-c2bebd9d1e1f" href="/fs/resource-manager/view/62dec20f-3df8-4c1a-8bb6-c2bebd9d1e1f">FY22 - Average Salaries - Spring Planning</a></p>
+<p><a data-file-name="FY-2022-Licensed-FTE-Vacancies-NRS388G6901c1.pdf" data-resource-uuid="85e1651b-4d1c-43c6-a579-351b368d9b86" href="/fs/resource-manager/view/85e1651b-4d1c-43c6-a579-351b368d9b86">View FY2022 Licensed FTE Vacancies -NRS 388G.690 1(c)</a></p>
+<p><a data-file-name="4NRS-388G-Sec18ReportingFY21-AFB-12-16-20.pdf" data-resource-uuid="11b398b7-b472-45d6-9d51-fffcf5c3fba0" href="/fs/resource-manager/view/11b398b7-b472-45d6-9d51-fffcf5c3fba0">View NRS 388G Sec. 18 Report</a></p>
+<p><a data-file-name="NRS-388G-Local-School-Precinct-Allocations-2022.pdf" data-resource-uuid="450f7f1d-3066-46a7-89ba-955814fab739" href="/fs/resource-manager/view/450f7f1d-3066-46a7-89ba-955814fab739">Local School Precinct Allocations - 2022</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_147680" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_147680" aria-expanded="false" href="#fs-panel-147680" role="button">Nevada Revised Statute (NRS) 388G - Reporting FY 2021</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-147680"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_147681">
+<div class="fsElementContent">
+<h3><a href="https://bi.ccsd.net/BOE/OpenDocument/opendoc/custom.jsp?sIDType=CUID&amp;iDocID=AbMMHEPrwsFCkVOkoL.fdxU">Nevada Revised Statute (NRS) 388G<br/>
+- Reporting FY 2021</a></h3>
+<p>This tool displays FY 2021 financial reports addressing sections of Nevada Revised Statute (NRS) 388G.</p>
+<p><a data-file-name="FY2021-NRS388G690-1abcd.pdf" data-resource-uuid="e1921285-5f58-46e8-a5a4-59b202b2dcf8" href="/fs/resource-manager/view/e1921285-5f58-46e8-a5a4-59b202b2dcf8">View FY2021 NRS 388G.690 1(a),(b),(d)</a></p>
+<p><a data-file-name="FY-2021-Licensed-FTE-Vacancies-NRS388G6901c1.pdf" data-resource-uuid="28791dc5-b48b-45aa-bfe6-2e76982d37ec" href="/fs/resource-manager/view/28791dc5-b48b-45aa-bfe6-2e76982d37ec">View FY2021 Licensed FTE Vacancies -NRS 388G.690 1(c)</a></p>
+<p><a data-file-name="NRS-388G-Local-School-Precinct-Allocations-2021.pdf" data-resource-uuid="a180de3a-b2be-423b-89ee-ef8513e7ebe1" href="/fs/resource-manager/view/a180de3a-b2be-423b-89ee-ef8513e7ebe1">Local School Precinct Allocations - 2021</a></p>
+<p><a data-file-name="NRS388GSec18ReportingFY20-AFB-FY2021.pdf" data-resource-uuid="b60d68f2-c034-4450-b2cc-40b169971ec4" href="/fs/resource-manager/view/b60d68f2-c034-4450-b2cc-40b169971ec4">View NRS 388G Sec. 18 Report</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_147678" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_147678" aria-expanded="false" href="#fs-panel-147678" role="button">Nevada Revised Statute (NRS) 388G - Reporting FY 2020</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-147678"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_147679">
+<div class="fsElementContent">
+<h4 style="text-align:center;"><a href="https://bi.ccsd.net/BOE/OpenDocument/opendoc/custom.jsp?sIDType=CUID&amp;iDocID=AVXRs5wS49tBofNrF7lLtjQ">Nevada Revised Statute (NRS) 388G<br/>
+- Reporting FY 2020</a></h4>
+<p>This tool displays FY 2020 financial reports addressing sections of Nevada Revised Statute (NRS) 388G.</p>
+<p><a data-file-name="Section-181-d.pdf" data-resource-uuid="d4c62027-2c7c-4383-8055-e3afe6f14394" href="/fs/resource-manager/view/d4c62027-2c7c-4383-8055-e3afe6f14394">View 18.1(d)</a></p>
+<p><a data-file-name="AB469-Workbook-FY20-AFB-Actual.pdf" data-resource-uuid="eaba07a6-e15e-4bbe-ba19-fbd140e4cb8a" href="/fs/resource-manager/view/eaba07a6-e15e-4bbe-ba19-fbd140e4cb8a">View 21.1 a,b,d</a></p>
+<p><a data-file-name="FY-2020-Licensed-FTE-Vacancies-NRS-388G690-1c.pdf" data-resource-uuid="a33cf47e-1f37-4b12-aa6e-5aefad0b6ecc" href="/fs/resource-manager/view/a33cf47e-1f37-4b12-aa6e-5aefad0b6ecc">View FY 2020 Licensed FTE Vacancies - NRS 388G.690 1(c)</a></p>
+<p><a data-file-name="AB469Sec18ReportingFY19-AFB-FY2020.pdf" data-resource-uuid="7cc33897-0dc0-4854-b993-cc3822676a0b" href="/fs/resource-manager/view/7cc33897-0dc0-4854-b993-cc3822676a0b">View NRS 388G Sec. 18 Report</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_147676" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_147676" aria-expanded="false" href="#fs-panel-147676" role="button">Nevada Revised Statute (NRS) 388G - Reporting FY 2019</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-147676"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_147677">
+<div class="fsElementContent">
+<h4><a href="https://bi.ccsd.net/BOE/OpenDocument/opendoc/custom.jsp?sIDType=CUID&amp;iDocID=AZkxygECn4pEtpsCmkYA1oM">Nevada Revised Statute (NRS) 388G<br/>
+- Reporting FY 2019</a></h4>
+<p>This tool displays FY 2019 financial reports addressing sections of Nevada Revised Statute (NRS) 388G.</p>
+<p><a data-file-name="211-abd.pdf" data-resource-uuid="3ed38d86-393e-4786-ae21-fd3a75a368f3" href="/fs/resource-manager/view/3ed38d86-393e-4786-ae21-fd3a75a368f3">View 21.1 a,b,d</a><br/>
+<a data-file-name="211-c.pdf" data-resource-uuid="823818b5-c585-4e0e-a671-e5b13ea2750d" href="/fs/resource-manager/view/823818b5-c585-4e0e-a671-e5b13ea2750d">View 21.1 c</a></p>
+<p><a data-file-name="AB469Sec18ReportingFY18-FY2019.pdf" data-resource-uuid="fc51bf94-ef63-4c31-9031-21bc75b3a292" href="/fs/resource-manager/view/fc51bf94-ef63-4c31-9031-21bc75b3a292">View NRS 388G Sec. 18 Report</a></p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -10,7 +10,8 @@
                 COX, DAVID ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Imboden, Tara R<br>
+                        
+Principal: Imboden, Tara R<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5730<br/>
                                 Fax: 702-799-5759<br/>
 <a href="http://maps.google.com/maps?q=280 CLARK DRIVE,+HENDERSON,+NV+89074">Map</a>
-                                 | <a href="http://davidmcoxelementaryschool.com/">Website</a> </br></br></br></p>
+                                 | <a href="http://davidmcoxelementaryschool.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> A+, Achieving Excellence!  Allee Allee Ox in free for learning at the David M. Cox Elementary School, PAWSitively the BEARY finest school in all the land!</p> <p><b>Mission:</b> The teachers, staff, students, families, and community members who share the David M. Cox Elementary School will ensure a positive and safe environment where learning is the highest priority. All students will experience success socially and academically, enabling them to become respectful, responsible, and reliable citizens in a changing society. We will reach every student, in every subject, in every classroom, every day, without exceptions, without excuses.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

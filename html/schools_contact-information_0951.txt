@@ -10,7 +10,8 @@
                 BASIC ACADEMY OF INTERNATIONAL STUDIES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Hadavi, Mohammad T<br>
+                        
+Principal: Hadavi, Mohammad T<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8000<br/>
                                 Fax: 702-799-8966<br/>
 <a href="http://maps.google.com/maps?q=400 PALO VERDE DRIVE,+HENDERSON,+NV+89015">Map</a>
-                                 | <a href="https://www.basicacademy.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.basicacademy.org/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> The strength of the pack is the wolf, and the strength of the wolf is the pack.</p> <p><b>Mission:</b> The mission of Basic High School is to provide a varied instructional environment, which empowers students to utilize communication, problem solving, and critical thinking skills in order to achieve their highest potential as productive citizens in an ever-changing world.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

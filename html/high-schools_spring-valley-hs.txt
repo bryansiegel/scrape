@@ -1,0 +1,34 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Spring Valley High School</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_4687">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_4688">
+<div class="fsElement fsLayout fsTwoColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_4706">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_4707">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_4699">
+<div class="fsElementContent">
+<h3>Address</h3>
+<p>3750 S. Buffalo Dr. Las Vegas, NV 89147
+  <br/><a href="">Map</a></p>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_4700">
+<div class="fsElementContent">
+<h3>Contact Numbers</h3>
+<p><strong>Phone Number</strong> (702) 799-2580</p>
+<p><strong>Fax Number</strong> (702) 799-1288
+
+
+	</p></div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_4708">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="4703" data-source-page-id="798" data-use-new="true" id="fsEl_4703">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeVideo fsResourceDashVideo"><video autoplay="autoplay" controls="controls" controlslist="nodownload" data-dash-url="https://resources.finalsite.net/videos/sp_full_hd_wifi/v1751996682/ccsdnet/ny8epdk9tawajnka2bhm/SpringValleyHSDroneLoop.mpd" data-default-url="https://resources.finalsite.net/videos/t_video_mp4_2160/v1751996682/ccsdnet/ny8epdk9tawajnka2bhm/SpringValleyHSDroneLoop.mp4" data-permitted-user="true" data-resource-title="SpringValleyHSDroneLoop.mp4" data-resource-uuid="c3a696c3-4bca-47f6-adbe-4508fa40dbd3" loop="loop" muted="muted" playsinline="playsinline" poster="https://resources.finalsite.net/videos/v1751996682/ccsdnet/ny8epdk9tawajnka2bhm/SpringValleyHSDroneLoop.jpg"><div class="fsError" data-nosnippet="">Your web browser does not support the &lt;video&gt; tag.</div></video></article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

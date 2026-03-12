@@ -10,7 +10,8 @@
                 ANTONELLO, LEE ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Rozek, Kathi-Anne <br>
+                        
+Principal: Rozek, Kathi-anne<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8380<br/>
                                 Fax: 702-799-8355<br/>
 <a href="http://maps.google.com/maps?q=1101 WEST TROPICAL PARKWAY,+NORTH LAS VEGAS,+NV+89031">Map</a>
-                                 | <a href="https://www.leeantonello.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.leeantonello.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Individuals Exploring Together</p> <p><b>Mission:</b> Our mission is to establish a supportive environment in which all students are challenged to perform at high academic and behavioral levels.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

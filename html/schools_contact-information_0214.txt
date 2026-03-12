@@ -10,7 +10,8 @@
                 PARK, JOHN S. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Benizio, Jennifer L Rudisill<br>
+                        
+Principal: Benizio, Jennifer L Rudisill<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7904<br/>
                                 Fax: 702-799-7949<br/>
 <a href="http://maps.google.com/maps?q=931 FRANKLIN AVENUE,+LAS VEGAS,+NV+89104">Map</a>
-                                 | <a href="https://www.johnsparkes.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.johnsparkes.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> No excuses, just do!</p> <p><b>Mission:</b> Our mission is to teach children how to learn so that they become life-long learners.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

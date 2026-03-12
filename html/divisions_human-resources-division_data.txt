@@ -6,21 +6,21 @@
 <h2>
 	AB266</h2>
 <p>
-<a href="/resources/human-resources-division/2025-26-AB266.pdf" target="_blank">2025-2026 AB226</a></p>
+<a href="/resources/human-resources-division/2025-26-AB266-081825.pdf" target="_blank">2025-2026</a></p>
 <p>
-<a href="/resources/human-resources-division/2024-25-AB266.pdf" target="_blank">2024-2025 AB226</a></p>
+<a href="/resources/human-resources-division/2024-25-AB266-081225.pdf" target="_blank">2024-2025</a></p>
 <p>
-<a href="/resources/human-resources-division/2023-24-AB266.pdf" target="_blank">2023-2024 AB226</a></p>
+<a href="/resources/human-resources-division/2023-24-AB266.pdf" target="_blank">2023-2024</a></p>
 <p>
-<a href="/resources/human-resources-division/2022-23-AB266.pdf" target="_blank">2022-2023 AB226</a></p>
+<a href="/resources/human-resources-division/2022-23-AB266.pdf" target="_blank">2022-2023</a></p>
 <p>
-<a href="/resources/human-resources-division/2021-22-AB266.pdf" target="_blank">2021-2022 AB226</a></p>
+<a href="/resources/human-resources-division/2021-22-AB266.pdf" target="_blank">2021-2022</a></p>
 <p>
 	 </p>
 <h2>
 	Employee Count by Group</h2>
 <p>
-<a href="/resources/human-resources-division/2025-2026-employee-count-by-group-monthly-report-8.1.2025.pdf" target="_blank">2025-2026</a></p>
+<a href="/resources/human-resources-division/2025-2026-employee-count-by-group-monthly-report-9.2.2025.pdf" target="_blank">2025-2026</a></p>
 <p>
 <a href="/resources/human-resources-division/2024-2025-employee-count-by-group-monthly-report-7.1.2025.pdf" target="_blank">2024-2025</a></p>
 <p>
@@ -52,19 +52,42 @@
 <p>
 	 </p>
 <h2>
-	Class-Size Reduction (CSR) for Grades 1, 2,<br>
-	and 3</br></h2>
-<div>
+	Class-Size Reduction (CSR) for Grades Kindergarten and Grades 1, 2, and 3</h2>
+<p>
+	Nevada Revised Statutes (NRS) Chapter 388.700 requires, for each school quarter of a school year, the ratio in each school district of pupils per licensed teacher designated to teach, on a full-time basis, in classes where core curriculum is taught:</p>
+<ul>
+	(a) In kindergarten and grades 1 and 2, must not exceed 16 to 1, and in grade 3, must not exceed 18 to 1; or<br>
 <br>
-	Nevada Revised Statutes (NRS) Chapter 388.700 requires, for each quarter of a school year, that ratios not exceed 16 to 1 in grades 1 and 2, and 19 to 1 in grade 3. However, to allow flexibility in addressing budget shortfalls, Senate Bill 515 of the 2015 Legislature allows school districts to increase these ratios by 1 student (17 to 1 in grades 1 and 2, and 20 to 1 in grade 3.).</br></div>
-<div>
-	 </div>
-<div>
-	Nevada school districts are required to report the ratio of students per teacher in classes where core curriculum is taught for grades 1, 2, and 3. Reports are submitted quarterly throughout the school year. Ratios are calculated using the average daily enrollment on September 30, December 31, March 31, and June 30. Meeting class-size ratio requirements for each individual school by grade is difficult when enrollment by grade varies throughout the school year. Some schools may exceed the requirement while others may be under the requirement. Adding another teacher to a grade not meeting the requirement is cost prohibitive as the State has not provided sufficient funding for the District to do so. Additionally, some schools do not have a sufficient number of classrooms available to meet the class-size ratios in grades 1, 2, and/or 3. The Board of Trustees for each school district must request a variance from the State Board of Education when any elementary school exceeds the required class-size ratio during any quarter of a school year.</div>
-<div>
-	 </div>
-<div>
-	 </div>
+	(b) If a plan is approved pursuant to subsection 3 of NRS 388.720, must not exceed the ratio set forth in that plan for the grade levels specified in the plan.
+</br></br></ul>
+<p>
+	In determining this ratio, all licensed educational personnel who teach a grade level specified in paragraph (a) or a grade level specified in a plan that is approved pursuant to subsection 3 of NRS 388.720, as applicable for the school district, must be counted except teachers of art, music, physical education or special education, teachers who teach one or two specific subject areas to more than one classroom of pupils, counselors, librarians, administrators, deans, specialists, any administrators or other licensed educational personnel, including, without limitation, counselors, coaches and special education teachers, who may be present in a classroom but do not teach every pupil in the classroom and teachers who are not actively teaching pupils during a class period or who do not teach a subject area for which the ratio of pupils per licensed teacher is being determined.</p>
+<p>
+	2. A school district may, within the limits of any plan adopted pursuant to NRS 388.720, assign a pupil whose enrollment in a grade occurs after the end of a quarter during the school year to any existing class regardless of the number of pupils in the class if the school district requests and is approved for a variance from the State Board pursuant to subsection 4.</p>
+<p>
+	3. Each school district that includes one or more elementary schools which exceed the ratio of pupils per class during any quarter of a school year, as reported to the Department pursuant to NRS 388.725:</p>
+<ul>
+	(a) Set forth in subsection 1;<br/>
+<br/>
+	(b) Prescribed in conjunction with a legislative appropriation for the support of the class-size reduction program; or<br/>
+<br/>
+	(c) Defined by a legislatively approved alternative class-size reduction plan, if applicable to that school district,
+</ul>
+<p>
+	must request a variance for each such school for the next quarter of the current school year if a quarter remains in that school year or for the next quarter of the succeeding school year, as applicable, from the State Board by providing a written statement that includes the reasons for the request, the justification for exceeding the applicable prescribed ratio of pupils per class and a plan of actions that the school district will take to reduce the ratio of pupils per class.</p>
+<p>
+	4. The State Board may grant to a school district a variance from the limitation on the number of pupils per class set forth in paragraph (a), (b) or (c) of subsection 3 for good cause, including the lack of available financial support specifically set aside for the reduction of pupil-teacher ratios.</p>
+<p>
+	5. The State Board shall, on a quarterly basis, submit a report to the Interim Finance Committee on each variance requested by a school district pursuant to subsection 4 during the preceding quarter and, if a variance was granted, an identification of each elementary school for which a variance was granted and the specific justification for the variance.</p>
+<p>
+	6. The State Board shall, on or before February 1 of each odd-numbered year, submit a report to the Legislature on:</p>
+<ul>
+	(a) Each variance requested by a school district pursuant to subsection 4 during the preceding biennium and, if a variance was granted, an identification of each elementary school for which variance was granted and the specific justification for the variance.<br/>
+<br/>
+	(b) The data reported to it by the various school districts pursuant to subsection 2 of NRS 388.710, including an explanation of that data, and the current pupil-teacher ratios per class in the grade levels specified in paragraph (a) of subsection 1 or the grade levels specified in a plan that is approved pursuant to subsection 3 of NRS 388.720, as applicable for the school district.
+</ul>
+<p>
+	 </p>
 <h2>
 	Quarterly Reports</h2>
 <h3>

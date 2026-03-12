@@ -10,7 +10,8 @@
                 KING, JR., MARTIN LUTHER ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Taylor, Douglas H<br>
+                        
+Principal: Taylor, Douglas H<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,13 +21,13 @@
                                 Phone: 702-799-7390<br/>
                                 Fax: 702-799-7299<br/>
 <a href="http://maps.google.com/maps?q=2260 BETTY LANE,+LAS VEGAS,+NV+89156">Map</a>
-                                 | <a href="https://mlkjrlv.enschool.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://mlkjrlv.enschool.org/">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> Dream, Plan, Achieve</p> <p><b>Mission:</b> It is our mission to provide a positive and safe
 learning environment where all students are
 supported, inspired, and encouraged to discover
 their unlimited potential as they continuously
 strive for excellence.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

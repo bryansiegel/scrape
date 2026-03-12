@@ -10,7 +10,8 @@
                 ROBERTS, AGGIE ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Rasavong, Marissa L<br>
+                        
+Principal: Rasavong, Marissa L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-1320<br/>
                                 Fax: 702-799-1326<br/>
 <a href="http://maps.google.com/maps?q=227 CHARTER OAK STREET,+HENDERSON,+NV+89074">Map</a>
-                                 | <a href="https://www.aggieroberts.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.aggieroberts.org/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> At Aggie Roberts Elementary School we work hand in hand together to believe, achieve and succeed.</p> <p><b>Mission:</b> Our mission at Aggie Roberts Elementary School is to develop independent, secure individuals, capable of adapting to an ever-changing world. We will teach essential skills and promote a personal lifelong love of learning.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

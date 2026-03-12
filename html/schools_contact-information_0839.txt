@@ -10,7 +10,8 @@
                 HIGH DESERT STATE PRISON YOP<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Rolands, Michael A<br>
+                        
+Principal: Rolands, Michael A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-879-6824<br/>
                                 Fax: 702-879-6821<br/>
 <a href="http://maps.google.com/maps?q=22010 COLD CREEK ROAD,+INDIAN SPRINGS,+NV+89070">Map</a>
-                                 | <a href="">Website</a> </br></br></br></p>
-<b>Region:</b> </div>
+                                 | <a href="">Website</a> 
+<b>Region:</b> AS                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

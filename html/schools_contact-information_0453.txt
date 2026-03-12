@@ -11,7 +11,7 @@
 </h2>
 <!-- 		Principal:  -->
                         
-                                    Principal: McNaught, Colin E<br>
+Principal: McNaught, Colin E<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->

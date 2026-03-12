@@ -1,0 +1,47 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Graduation Requirements</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_188026">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_188027">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_188028">
+<div class="fsElementContent">
+<p>To graduate from the Clark County School District, with a Standard High School Diploma, students must complete their required course work and take tests required by the state.†
+                        Students must earn 22 ½ credits in the following subjects:</p>
+<ul>
+<li>English – 4 credits</li>
+<li>Math – 3 credits *</li>
+<li>Science – 2 credits</li>
+<li>U.S. History – 1 credit</li>
+<li>U.S. Government – 1 credit</li>
+<li>Physical Education – 2 credits **</li>
+<li>World History or Geography 1 credit</li>
+<li>Health Education – ½ credit</li>
+<li>Computers – ½ credit</li>
+<li>Electives – 7 ½ credits</li>
+</ul>
+<p></p>
+<p></p>
+<p>†The Classes of 2015 and 2016 must also pass the Nevada High School Proficiency Exams in reading, writing, math and science. The Classes of 2017 and 2018 will take End of Course Exams.</p>
+<p>Students who do not complete all requirements for a diploma will not be allowed to participate in graduation ceremonies. Students earning an adjusted diploma will be
+                        eligible to participate in graduation ceremonies.</p>
+<h2>Nevada has changed its graduation requirements</h2>
+<p>The approval of Assembly Bill 288 made significant changes to high school graduation requirements in Nevada. These changes will be phased in as
+                        the State Board of Education makes decisions related to the specific requirements of the bill. Below are the changes currently that are planned:</p>
+<ol>
+<li>For students entering the ninth and tenth grade in the 2014-15 school year, the Nevada High School Proficiency Examinations will be replaced with four
+                            End of course Exams, two in Math and two in English Language Arts.</li>
+<li>The 2014-15 End of Course Exams will be an operational field test, meaning students will take the tests, but do not have to earn a passing score, however, they pass the
+                            correlating class. This will also affect the Class of 2017 and the Class of 2018.</li>
+<li>All students will also be required to take a college and career readiness assessment in grade 11 beginning with the 2014-15 school year. While participation will
+                            be required for graduation, the results of the assessment will not be used to determine a student’s eligibility for a diploma.</li>
+<li>Students with disabilities may opt out of the college and career readiness assessment based on the decision of the Individualized Education Program (IEP) team.
+                            Appropriate assessments and accommodations for students with disabilities will be determined by the student’s IEP team.</li>
+<li>AB 288 also changed the statutory reference to the General Educational Development test (GED) and required the State Board of Education to select (a) high school equivalency
+                            assessment. The following three high school equivalency exams have been approved by the State Board of Education starting with the 2014-15 school year: GED, HiSET and TASC.</li>
+</ol>
+<p>The state will transition to these new requirements over the next few years and additional information will be provided as it becomes available. These changes are aligned with
+                        the Nevada Academic Content Standards and are designed to ensure all students are college and career ready.</p>
+</div>
+</div>
+</div>
+</div>
+</main>

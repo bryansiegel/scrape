@@ -1,0 +1,222 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Newsroom</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_105490">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_105491">
+<div class="fsElement fsPostElement fsPost fsThumbnailRectangle fsThumbnailFull fsSingleItem" data-board-id="4,51" data-overwrite-title="" data-use-new="true" id="fsEl_127793">
+<header>
+<div class="fsElementHeaderContent">
+<div>
+<style type="text/css">img {
+    max-height: 400px !important;
+  }
+</style>
+</div>
+</div>
+</header>
+<div class="fsElementContent">
+<article aria-labelledby="fsArticle_127793_1068" class="fsStyleAutoclear fsBoard-51 fsTag-2" data-authenticated-comments="true" data-post-id="1068">
+<a class="fsThumbnail fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/new-episode-of-destination-district-podcast-out-now" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/new-episode-of-destination-district-podcast-out-now"><div class="fsCroppedImage" data-aspect-ratio="0.6668181818181819" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1771363535/ccsdnet/hrgiy5bklexasbhy2gqq/JhonewSSAC.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1771363535/ccsdnet/hrgiy5bklexasbhy2gqq/JhonewSSAC.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1771363535/ccsdnet/hrgiy5bklexasbhy2gqq/JhonewSSAC.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1771363535/ccsdnet/hrgiy5bklexasbhy2gqq/JhonewSSAC.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1771363535/ccsdnet/hrgiy5bklexasbhy2gqq/JhonewSSAC.png","width":1600}]' title="destination district podcast banner"><img alt="destination district podcast banner" class="fsStyleSROnly" data-aspect-ratio="0.6668181818181819" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1771363535/ccsdnet/hrgiy5bklexasbhy2gqq/JhonewSSAC.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1771363535/ccsdnet/hrgiy5bklexasbhy2gqq/JhonewSSAC.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1771363535/ccsdnet/hrgiy5bklexasbhy2gqq/JhonewSSAC.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1771363535/ccsdnet/hrgiy5bklexasbhy2gqq/JhonewSSAC.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1771363535/ccsdnet/hrgiy5bklexasbhy2gqq/JhonewSSAC.png","width":1600}]'/></div></a>
+<div class="fsTitle" id="fsArticle_127793_1068">
+<a class="fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/new-episode-of-destination-district-podcast-out-now" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/new-episode-of-destination-district-podcast-out-now">
+			New Episode of Destination District Podcast Out Now
+</a></div>
+</article>
+</div>
+</div>
+<section class="fsElement fsPostElement fsGrid card accent-1 newsroom-card-fix fsThumbnailOriginal fsThumbnailFull fsItemCount_1" data-board-id="4,51" data-overwrite-title="" data-use-new="true" id="fsEl_152307">
+<header>
+<h3 class="fsElementTitle">Brightspot</h3>
+<div class="fsElementHeaderContent">
+<div>
+<style type="text/css">img {
+  max-height: 350px !important;
+    display: block;
+  margin: 0 auto;
+  }
+  .newsroom-card-fix {
+ 
+  }
+</style>
+</div>
+<h5 class="fsElementTitle" style="margin-top:-50px;">A collection of highlights and achievements from across the District</h5>
+<p> </p>
+</div>
+</header>
+<div class="fsElementContent">
+<div class="fsElementControls">
+<div class="fsAlertFeeds">
+<a aria-label="Post RSS Feed" class="fsRSSIcon" data-boards='[{"id":51,"name":"CCSD Newsroom"}]' href="#" title="Post RSS Feed">
+<span class="fsStyleSROnly">Post RSS Feeds</span>
+</a> <a aria-label="Post Subscription Alerts" class="fsAlertsIcon" data-boards='[{"id":51,"name":"CCSD Newsroom","mailing_list_id":4}]' href="#" title="Post Subscription Alerts">
+<span class="fsStyleSROnly">Subscribe to Post Alerts</span>
+</a> </div>
+</div>
+<div class="fsListItems fsStyleOneColumn">
+<article aria-labelledby="fsArticle_152307_1630" class="fsStyleAutoclear fsBoard-51 fsTag-51 fsTag-52" data-authenticated-comments="true" data-post-id="1630">
+<a class="fsThumbnail fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/bright-spot-january-2026" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/bright-spot-january-2026"><img alt="Brightspot" data-aspect-ratio="0.7495934959349594" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1768935504/ccsdnet/q8ypjtvvdbtaxidfhnpd/brightspot-01.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1768935504/ccsdnet/q8ypjtvvdbtaxidfhnpd/brightspot-01.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1768935504/ccsdnet/q8ypjtvvdbtaxidfhnpd/brightspot-01.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1768935504/ccsdnet/q8ypjtvvdbtaxidfhnpd/brightspot-01.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1768935504/ccsdnet/q8ypjtvvdbtaxidfhnpd/brightspot-01.png","width":1600},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1768935504/ccsdnet/q8ypjtvvdbtaxidfhnpd/brightspot-01.png","width":2200}]'/></a>
+<div class="fsTitle" id="fsArticle_152307_1630">
+<a class="fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/bright-spot-january-2026" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/bright-spot-january-2026">
+			Bright Spot January 2026
+</a></div>
+</article>
+</div>
+<button class="fsLoadMoreButton fsStyleDefaultButton" data-start-row="2" name="button" type="button">Load More
+	
+</button>
+</div>
+</section>
+<div class="fsElement fsLayout fsTwoColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_152297">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_152298">
+<section class="fsElement fsPostElement fsGrid card accent-1 fsThumbnailOriginal fsThumbnailFull fsItemCount_1" data-board-id="51" data-overwrite-title="" data-use-new="true" id="fsEl_152300">
+<header>
+<h3 class="fsElementTitle">News Release</h3>
+<div class="fsElementHeaderContent">
+<h5 class="fsElementTitle" style="margin-top:-50px;">Stay informed with the latest announcements and District news </h5>
+</div>
+</header>
+<div class="fsElementContent">
+<div class="fsElementControls">
+<div class="fsAlertFeeds">
+<a aria-label="Post RSS Feed" class="fsRSSIcon" data-boards='[{"id":51,"name":"CCSD Newsroom"}]' href="#" title="Post RSS Feed">
+<span class="fsStyleSROnly">Post RSS Feeds</span>
+</a> <a aria-label="Post Subscription Alerts" class="fsAlertsIcon" data-boards='[{"id":51,"name":"CCSD Newsroom","mailing_list_id":4}]' href="#" title="Post Subscription Alerts">
+<span class="fsStyleSROnly">Subscribe to Post Alerts</span>
+</a> </div>
+</div>
+<div class="fsListItems fsStyleOneColumn">
+<article aria-labelledby="fsArticle_152300_1897" class="fsStyleAutoclear fsBoard-51 fsTag-4 fsTag-43" data-authenticated-comments="true" data-post-id="1897">
+<a class="fsThumbnail fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/ccsd-board-of-school-trustees-meeting-recap-feb-26-2026" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/ccsd-board-of-school-trustees-meeting-recap-feb-26-2026"><img alt="CCSD earns national innovative technology award" data-aspect-ratio="0.5347222222222222" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1770137026/ccsdnet/n4bo8wj6owpfrwlwluyw/CCSDLogo.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1770137026/ccsdnet/n4bo8wj6owpfrwlwluyw/CCSDLogo.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1770137026/ccsdnet/n4bo8wj6owpfrwlwluyw/CCSDLogo.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1770137026/ccsdnet/n4bo8wj6owpfrwlwluyw/CCSDLogo.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1770137026/ccsdnet/n4bo8wj6owpfrwlwluyw/CCSDLogo.png","width":1440}]'/></a>
+<div class="fsTitle" id="fsArticle_152300_1897">
+<a class="fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/ccsd-board-of-school-trustees-meeting-recap-feb-26-2026" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/ccsd-board-of-school-trustees-meeting-recap-feb-26-2026">
+			CCSD Board of School Trustees Meeting Recap, Feb. 26, 2026
+</a></div>
+</article>
+</div>
+<button class="fsLoadMoreButton fsStyleDefaultButton" data-start-row="2" name="button" type="button">Load More
+	
+</button>
+</div>
+</section>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_152299">
+<section class="fsElement fsPostElement fsGrid card accent-1 fsThumbnailOriginal fsThumbnailFull fsItemCount_1" data-board-id="4,51" data-overwrite-title="" data-use-new="true" id="fsEl_152301">
+<header>
+<h3 class="fsElementTitle">Just the Facts</h3>
+<div class="fsElementHeaderContent">
+<h5 class="fsElementTitle" style="margin-top:-50px;">Information on important topics impacting CCSD and our community</h5>
+</div>
+</header>
+<div class="fsElementContent">
+<div class="fsElementControls">
+<div class="fsAlertFeeds">
+<a aria-label="Post RSS Feed" class="fsRSSIcon" data-boards='[{"id":51,"name":"CCSD Newsroom"}]' href="#" title="Post RSS Feed">
+<span class="fsStyleSROnly">Post RSS Feeds</span>
+</a> <a aria-label="Post Subscription Alerts" class="fsAlertsIcon" data-boards='[{"id":51,"name":"CCSD Newsroom","mailing_list_id":4}]' href="#" title="Post Subscription Alerts">
+<span class="fsStyleSROnly">Subscribe to Post Alerts</span>
+</a> </div>
+</div>
+<div class="fsListItems fsStyleOneColumn">
+<article aria-labelledby="fsArticle_152301_1720" class="fsStyleAutoclear fsBoard-51 fsTag-56 fsTag-57" data-authenticated-comments="true" data-post-id="1720">
+<a class="fsThumbnail fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/just-the-facts-2026-27-school-budgets" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/just-the-facts-2026-27-school-budgets"><img alt="CCSD earns national innovative technology award" data-aspect-ratio="0.5347222222222222" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1770137026/ccsdnet/n4bo8wj6owpfrwlwluyw/CCSDLogo.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1770137026/ccsdnet/n4bo8wj6owpfrwlwluyw/CCSDLogo.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1770137026/ccsdnet/n4bo8wj6owpfrwlwluyw/CCSDLogo.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1770137026/ccsdnet/n4bo8wj6owpfrwlwluyw/CCSDLogo.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1770137026/ccsdnet/n4bo8wj6owpfrwlwluyw/CCSDLogo.png","width":1440}]'/></a>
+<div class="fsTitle" id="fsArticle_152301_1720">
+<a class="fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/just-the-facts-2026-27-school-budgets" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/just-the-facts-2026-27-school-budgets">
+			Just the Facts: 2026-27 School Budgets
+</a></div>
+</article>
+</div>
+<button class="fsLoadMoreButton fsStyleDefaultButton" data-start-row="2" name="button" type="button">Load More
+	
+</button>
+</div>
+<footer>
+<div class="fsElementFooterContent">
+<p style="text-align:center;"><a class="button-7" href="https://www.ccsd.net/fs/resource-manager/view/83f28613-f5aa-4097-be78-fde0c4a87456" target="_blank">26-27 School Budgets</a></p>
+</div>
+</footer>
+</section>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_152302">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_152303">
+<section class="fsElement fsPostElement fsGrid card accent-1 fsThumbnailOriginal fsThumbnailFull fsItemCount_1" data-board-id="4,51" data-overwrite-title="" data-use-new="true" id="fsEl_152304">
+<header>
+<h3 class="fsElementTitle">CCSD Alumni</h3>
+<div class="fsElementHeaderContent">
+<h5 class="fsElementTitle" style="margin-top:-50px;">Highlighting CCSD graduates impacting our community and the nation
+</h5>
+</div>
+</header>
+<div class="fsElementContent">
+<div class="fsElementControls">
+<div class="fsAlertFeeds">
+<a aria-label="Post RSS Feed" class="fsRSSIcon" data-boards='[{"id":51,"name":"CCSD Newsroom"}]' href="#" title="Post RSS Feed">
+<span class="fsStyleSROnly">Post RSS Feeds</span>
+</a> <a aria-label="Post Subscription Alerts" class="fsAlertsIcon" data-boards='[{"id":51,"name":"CCSD Newsroom","mailing_list_id":4}]' href="#" title="Post Subscription Alerts">
+<span class="fsStyleSROnly">Subscribe to Post Alerts</span>
+</a> </div>
+</div>
+<div class="fsListItems fsStyleOneColumn">
+<article aria-labelledby="fsArticle_152304_1642" class="fsStyleAutoclear fsBoard-51 fsTag-27 fsTag-53" data-authenticated-comments="true" data-post-id="1642">
+<a class="fsThumbnail fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/nwcta-alumna-wins-hells-kitchen-cooking-competition" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/nwcta-alumna-wins-hells-kitchen-cooking-competition"><img alt="NWCTA Alumna Wins Hell's Kitchen Cooking Competition" data-aspect-ratio="0.6668181818181819" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1769454804/ccsdnet/ccsdnet/wmzaken1sfxcvbxlr9he/NWCTAbanner.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1769454804/ccsdnet/ccsdnet/wmzaken1sfxcvbxlr9he/NWCTAbanner.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1769454804/ccsdnet/ccsdnet/wmzaken1sfxcvbxlr9he/NWCTAbanner.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1769454804/ccsdnet/ccsdnet/wmzaken1sfxcvbxlr9he/NWCTAbanner.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1769454804/ccsdnet/ccsdnet/wmzaken1sfxcvbxlr9he/NWCTAbanner.png","width":1600}]'/></a>
+<div class="fsTitle" id="fsArticle_152304_1642">
+<a class="fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/nwcta-alumna-wins-hells-kitchen-cooking-competition" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/nwcta-alumna-wins-hells-kitchen-cooking-competition">
+			NWCTA Alumna Wins Hell's Kitchen Cooking Competition 
+</a></div>
+</article>
+</div>
+<button class="fsLoadMoreButton fsStyleDefaultButton" data-start-row="2" name="button" type="button">Load More
+	
+</button>
+</div>
+</section>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_152305">
+<section class="fsElement fsPostElement fsGrid card accent-1 fsThumbnailOriginal fsThumbnailFull fsItemCount_1" data-board-id="51" data-overwrite-title="" data-use-new="true" id="fsEl_152306">
+<header>
+<h3 class="fsElementTitle">Student Spotlight</h3>
+<div class="fsElementHeaderContent">
+<h5 class="fsElementTitle" style="margin-top:-50px;">View student success stories and educator highlights with VegasPBS</h5>
+</div>
+</header>
+<div class="fsElementContent">
+<div class="fsElementControls">
+<div class="fsAlertFeeds">
+<a aria-label="Post RSS Feed" class="fsRSSIcon" data-boards='[{"id":51,"name":"CCSD Newsroom"}]' href="#" title="Post RSS Feed">
+<span class="fsStyleSROnly">Post RSS Feeds</span>
+</a> <a aria-label="Post Subscription Alerts" class="fsAlertsIcon" data-boards='[{"id":51,"name":"CCSD Newsroom","mailing_list_id":4}]' href="#" title="Post Subscription Alerts">
+<span class="fsStyleSROnly">Subscribe to Post Alerts</span>
+</a> </div>
+</div>
+<div class="fsListItems fsStyleOneColumn">
+<article aria-labelledby="fsArticle_152306_1035" class="fsStyleAutoclear fsBoard-51 fsTag-3" data-authenticated-comments="true" data-post-id="1035">
+<a class="fsThumbnail fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/from-adversity-to-triumph-cheyenne-high-seniors-awarded-100k-frias-legacy-scholarship" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/from-adversity-to-triumph-cheyenne-high-seniors-awarded-100k-frias-legacy-scholarship"><img alt="Student Spotlight" data-aspect-ratio="0.5625" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1769181289/ccsdnet/cxruncobtdebhsjokuyg/student-spotlight.jpg","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1769181289/ccsdnet/cxruncobtdebhsjokuyg/student-spotlight.jpg","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1769181289/ccsdnet/cxruncobtdebhsjokuyg/student-spotlight.jpg","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1769181289/ccsdnet/cxruncobtdebhsjokuyg/student-spotlight.jpg","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1769181289/ccsdnet/cxruncobtdebhsjokuyg/student-spotlight.jpg","width":1600},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1769181289/ccsdnet/cxruncobtdebhsjokuyg/student-spotlight.jpg","width":1920}]'/></a>
+<div class="fsTitle" id="fsArticle_152306_1035">
+<a class="fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/from-adversity-to-triumph-cheyenne-high-seniors-awarded-100k-frias-legacy-scholarship" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/from-adversity-to-triumph-cheyenne-high-seniors-awarded-100k-frias-legacy-scholarship">
+			From Adversity to Triumph: Cheyenne High Seniors Awarded $100K Frias Legacy Scholarship
+</a></div>
+</article>
+</div>
+<button class="fsLoadMoreButton fsStyleDefaultButton" data-start-row="2" name="button" type="button">Load More
+	
+</button>
+</div>
+</section>
+</div>
+</div>
+<div class="fsElement fsContent homepage-newsletter" data-use-new="true" id="fsEl_168160">
+<div class="fsElementContent">
+<div style="text-align:center;padding-top: 60px; padding-bottom: 60px;margin-bottom:0px !important;">
+<figure class="fsImage"><picture><img alt="" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755194533/ccsdnet/iqn4zm7tzqok6ljh0757/news-icon.png%22,%22width%22:46}]" data-resource-description="" data-resource-filename="news-icon.png" data-resource-uuid="b932de9a-a526-44e9-9574-21c41755a4cc" loading="lazy" role="presentation" src="" style=""/></picture></figure>
+<h3 style="color:white;">Sign-Up For Our Newsletter</h3>
+<h5 style="color:white; font-size:16px; font-weight:bold;">Stay Up-to-Date with everything at Clark County School District</h5>
+<a class="button-2" href="https://clark-county-school-district.read.axioshq.com/signup/community-newsletter" style="background-color:white !important;" target="_blank">sign up for the community connection newsletter</a></div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_168161">
+<div class="fsElementContent">
+<p style="text-align:center;"><a class="fsLoadMoreButton fsStyleDefaultButton" data-page-name="All News" href="/fs/pages/13720">All News</a></p>
+</div>
+</div>
+</div>
+</div>
+</main>

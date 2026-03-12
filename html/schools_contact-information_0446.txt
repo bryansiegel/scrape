@@ -10,7 +10,8 @@
                 SUNRISE MOUNTAIN HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Martin, Dawn <br>
+                        
+Principal: Martin, Dawn<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-7207<br/>
                                 Fax: 702-799-7212<br/>
 <a href="http://maps.google.com/maps?q=2575 N LOS FELIZ STREET,+LAS VEGAS,+NV+89156">Map</a>
-                                 | <a href="http://www.sunrisemountainhs.com">Website</a> </br></br></br></p>
-<b>Region:</b> 3                                                    </div>
+                                 | <a href="http://www.sunrisemountainhs.com">Website</a> 
+<b>Region:</b> 3                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

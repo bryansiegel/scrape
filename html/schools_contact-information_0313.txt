@@ -10,7 +10,8 @@
                 STANFORD ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Merritt, Ryan R<br>
+                        
+Principal: Merritt, Ryan R<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7272<br/>
                                 Fax: 702-799-7303<br/>
 <a href="http://maps.google.com/maps?q=5350 HARRIS AVENUE,+LAS VEGAS,+NV+89110">Map</a>
-                                 | <a href="https://www.stanfordelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.stanfordelementary.org/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Stanford Sabers, ¿The Best in the West¿</p> <p><b>Mission:</b> The staff of Stanford Elementary, through our school governance framework, has created a professional learning community dedicated to: 1. Providing a safe and positive environment 2. Providing a challenging instructional program that addresses individual learning styles and promotes creativity, inquiry, and problem solving skills 3. Continually increasing student achievement, as monitored through a variety of assessment tools 4. Continually improving working partnerships among staff, students, and parents.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

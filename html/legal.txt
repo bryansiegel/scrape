@@ -1,0 +1,724 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Legal</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10310">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_10311">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_10492">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_10493">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10312">
+<div class="fsElementContent">
+<p>The Clark County School District (CCSD) is committed to maintaining transparency and compliance with all local, state, and federal laws. Legal information related to the District includes policies, regulations, public notices, and rights afforded to students, families, and employees. CCSD provides access to key legal resources, such as information on student privacy, nondiscrimination, accessibility, and public records. Families, staff, and community members are encouraged to review these resources to better understand their rights and responsibilities. For questions or additional details, the District’s Legal Office is available to provide guidance and support.</p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_10494">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="10495" data-source-page-id="1103" data-use-new="true" id="fsEl_10495">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Legal" data-aspect-ratio="0.75" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1756834964/ccsdnet/k42kbjcqyytumv3ab1ze/legal.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1756834964/ccsdnet/k42kbjcqyytumv3ab1ze/legal.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756834964/ccsdnet/k42kbjcqyytumv3ab1ze/legal.png%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="legal.png" data-resource-uuid="1909fb24-4b81-42e1-acc1-364489d62f29"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10428">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_10429">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_10435">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="legal" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756836100/ccsdnet/kf3c4eanblqgrmd5c8ab/legal2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="legal2.png" data-resource-uuid="3d0096e2-26c0-4ce2-a206-92f2b460bc8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Policies and Regulations</h4>
+<p>Review district policies and regulations to understand rules and guidelines for students and families.</p>
+<a class="button-1" data-page-name="Policies and Regulations" href="/fs/pages/1104">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_10430">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_12227">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="legal" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756836100/ccsdnet/kf3c4eanblqgrmd5c8ab/legal2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="legal2.png" data-resource-uuid="3d0096e2-26c0-4ce2-a206-92f2b460bc8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Governance Policies</h4>
+<p>Review CCSD governance policies to understand rules, procedures, and accountability.</p>
+<a class="button-1" data-page-name="Governance Policies" href="/fs/pages/1272">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_10431">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_10319">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="legal" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756836100/ccsdnet/kf3c4eanblqgrmd5c8ab/legal2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="legal2.png" data-resource-uuid="3d0096e2-26c0-4ce2-a206-92f2b460bc8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Notice Of Non-Discrimination</h4>
+<p>Read CCSD’s Notice of Non-Discrimination to understand rights and reporting options.</p>
+<a class="button-1" data-page-name="Notice of Discrimination" href="/fs/pages/1108">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10433">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_10434">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_10317">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="legal" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756836100/ccsdnet/kf3c4eanblqgrmd5c8ab/legal2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="legal2.png" data-resource-uuid="3d0096e2-26c0-4ce2-a206-92f2b460bc8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Accessibility Statement</h4>
+<p>View CCSD’s accessibility statement to learn about website access and support options.</p>
+<a class="button-1" data-page-name="Accessibility Statement" href="/fs/pages/1110">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_10436">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_10437">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="legal" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756836100/ccsdnet/kf3c4eanblqgrmd5c8ab/legal2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="legal2.png" data-resource-uuid="3d0096e2-26c0-4ce2-a206-92f2b460bc8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Social Media Terms of Use</h4>
+<p>Learn CCSD’s social media guidelines to ensure safe and responsible online use.</p>
+<a class="button-1" data-page-name="Social Media Terms of Use" href="/fs/pages/1111">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_10438">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_10439">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="legal" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756836100/ccsdnet/kf3c4eanblqgrmd5c8ab/legal2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="legal2.png" data-resource-uuid="3d0096e2-26c0-4ce2-a206-92f2b460bc8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Acceptable Use Policy</h4>
+<p>Review CCSD’s Acceptable Use Policy to understand proper use of district technology.</p>
+<a class="button-1" data-page-name="Acceptable Use Policy" href="/fs/pages/1112">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10485">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_10486">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_10487">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="legal" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756836100/ccsdnet/kf3c4eanblqgrmd5c8ab/legal2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="legal2.png" data-resource-uuid="3d0096e2-26c0-4ce2-a206-92f2b460bc8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Policy 5139 Anti-Racism, Equity, and Inclusion</h4>
+<p>Learn about CCSD Policy 5139 on anti-racism, equity, and inclusion initiatives.</p>
+<a class="button-1" data-page-name="Policy 5139 Anti-Racism, Equity, and Inclusion" href="/fs/pages/1113">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_10488">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_10432">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="legal" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756836100/ccsdnet/kf3c4eanblqgrmd5c8ab/legal2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="legal2.png" data-resource-uuid="3d0096e2-26c0-4ce2-a206-92f2b460bc8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Title IX</h4>
+<p>Learn about CCSD’s Title IX policy to ensure equity, safety, and support for all.</p>
+<a class="button-1" data-page-name="Title IX" href="/fs/pages/1107">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_10490">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_11787">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="legal" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756836100/ccsdnet/kf3c4eanblqgrmd5c8ab/legal2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="legal2.png" data-resource-uuid="3d0096e2-26c0-4ce2-a206-92f2b460bc8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Privacy Policy</h4>
+<p>Review CCSD’s Privacy Policy to understand how student and staff data is protected.</p>
+<a class="button-1" data-page-name="Privacy Policy" href="/fs/pages/7">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12543">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_12544">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_12545">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="legal" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756836100/ccsdnet/kf3c4eanblqgrmd5c8ab/legal2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="legal2.png" data-resource-uuid="3d0096e2-26c0-4ce2-a206-92f2b460bc8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Assembly Bill 533</h4>
+<p>Learn about Assembly Bill 533 and how it impacts policies and practices in CCSD.</p>
+<a class="button-1" href="https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12824/Overview" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_12546">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_13230">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="legal" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756836100/ccsdnet/kf3c4eanblqgrmd5c8ab/legal2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="legal2.png" data-resource-uuid="3d0096e2-26c0-4ce2-a206-92f2b460bc8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Onboard – Privacy Policy</h4>
+<p>Learn how Onboard collects, uses, and protects your personal information in our Privacy Policy</p>
+<a class="button-1" data-page-name="Onboard – Privacy Policy" href="/fs/pages/1295" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_12548">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_183003">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Public Records Request</h4>
+<p>File a public records request with Clark County School District</p>
+<a class="button-1" data-page-name="Public Records Requests" href="/fs/pages/20854">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_188021">
+<div class="fsElementContent">
+<h2>Back to School Legal Notices</h2>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_10448">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-10449" role="presentation">
+<a aria-controls="fsEl_10449" aria-selected="false" href="#fs-panel-10449" role="tab">Academic Setting and School Day</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10451" role="presentation">
+<a aria-controls="fsEl_10451" aria-selected="false" href="#fs-panel-10451" role="tab">Annual Asbestos Notice</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10453" role="presentation">
+<a aria-controls="fsEl_10453" aria-selected="false" href="#fs-panel-10453" role="tab">Aversive Interventions and Restraints</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10455" role="presentation">
+<a aria-controls="fsEl_10455" aria-selected="false" href="#fs-panel-10455" role="tab">Career and Technical Education</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10457" role="presentation">
+<a aria-controls="fsEl_10457" aria-selected="false" href="#fs-panel-10457" role="tab">Child Find</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10459" role="presentation">
+<a aria-controls="fsEl_10459" aria-selected="false" href="#fs-panel-10459" role="tab">Concerns About Student Disability Issues</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10461" role="presentation">
+<a aria-controls="fsEl_10461" aria-selected="false" href="#fs-panel-10461" role="tab">ESSA - "UNSAFE School Choice Option"</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10463" role="presentation">
+<a aria-controls="fsEl_10463" aria-selected="false" href="#fs-panel-10463" role="tab">Family Educational Rights and Privacy Act</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10465" role="presentation">
+<a aria-controls="fsEl_10465" aria-selected="false" href="#fs-panel-10465" role="tab">Medicaid Information</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10467" role="presentation">
+<a aria-controls="fsEl_10467" aria-selected="false" href="#fs-panel-10467" role="tab">Non-Discrimination and Accessibility Notice</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10469" role="presentation">
+<a aria-controls="fsEl_10469" aria-selected="false" href="#fs-panel-10469" role="tab">Protection and Security of Tests</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10471" role="presentation">
+<a aria-controls="fsEl_10471" aria-selected="false" href="#fs-panel-10471" role="tab">Protection of Pupils Rights Amendment</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10473" role="presentation">
+<a aria-controls="fsEl_10473" aria-selected="false" href="#fs-panel-10473" role="tab">Relationships, Interactions, and Communications Between District Employees or Representatives/Volunteers and Students</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10475" role="presentation">
+<a aria-controls="fsEl_10475" aria-selected="false" href="#fs-panel-10475" role="tab">Safe and Respectful Learning Environment</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10477" role="presentation">
+<a aria-controls="fsEl_10477" aria-selected="false" href="#fs-panel-10477" role="tab">Student Harassment Prohibited</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10479" role="presentation">
+<a aria-controls="fsEl_10479" aria-selected="false" href="#fs-panel-10479" role="tab">Student Wellness Regulation</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10481" role="presentation">
+<a aria-controls="fsEl_10481" aria-selected="false" href="#fs-panel-10481" role="tab">Transportation for Students with Disabilities</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10483" role="presentation">
+<a aria-controls="fsEl_10483" aria-selected="false" href="#fs-panel-10483" role="tab">Treatment of Students and Families Outlined</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10449" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10449" aria-expanded="false" href="#fs-panel-10449" role="button">Academic Setting and School Day</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10449"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10450">
+<div class="fsElementContent">
+			Students with disabilities should always be placed in the least restrictive environment to the maximum extent possible. The student’s Individualized Education Program (IEP) should outline the student’s special designed placement if it is not in the general education environment. Consistent with federal and state law, and Clark County School District (CCSD or District) policy, all students must receive a full school day of instruction, except in those cases where an IEP or Section 504 Plan specifically requires that a student receive a shortened school day.
+
+	</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10451" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10451" aria-expanded="false" href="#fs-panel-10451" role="button">Annual Asbestos Notice</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10451"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10452">
+<div class="fsElementContent">
+<p>As required by the Asbestos Hazard Emergency Response Act of 1986 (AHERA), this is the annual notification of the presence of asbestos-containing materials in certain Clark County School District (District) buildings. Asbestos is a common name given to a group of mineral fibers that occur naturally and have been incorporated into a variety of construction products, such as wall and ceiling plasters and floor tile. These materials pose no risk to health unless they are disturbed in such a way that asbestos fibers become airborne, are inhaled, and get deposited within the lungs.</p>
+<p>This notice is a general notification and is not meant to give specific information about an individual location. An Asbestos Management Plan has been developed for each District location, which identifies the location, type, and amount of asbestos-containing material and describes actions taken to prevent exposure. The site-specific plan is available for review in the main office of each location during regular business hours. Copies of all plans are also kept in the Environmental Services Department office.</p>
+<p>The District is committed to maintaining a safe and healthy environment for our students, staff, and visitors. For more information, visit <a href="https://environmental.ccsd.net/" target="_blank">environmental.ccsd.net</a> or call <a href="tel:(702)-799-0987">702-799-0987</a>.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10453" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10453" aria-expanded="false" href="#fs-panel-10453" role="button">Aversive Interventions and Restraints</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10453"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10454">
+<div class="fsElementContent">
+<p>Nevada law (NRS 388.471 through 388.515) and Clark County School District (District) Regulation 5141.3 prohibit the use of aversive interventions on students with disabilities. Physical and mechanical restraints on students with disabilities are also prohibited except as provided within the law and regulation.</p>
+<p>A copy of the regulation is available on the District website at <a data-file-name="51413_R.pdf" data-resource-uuid="fcd4d038-d30b-44db-a243-3c8d9cf17f14" href="/fs/resource-manager/view/fcd4d038-d30b-44db-a243-3c8d9cf17f14" target="_blank">CCSD Regulation 5141.3_R (PDF)</a> or by calling the Executive Director, Office of Compliance and Monitoring, Student Services Division, at <a href="tel:(702)-799-1020">702-799-1020</a>, or emailing at <a href="mailto:0135-ocm@nv.ccsd.net">0135-ocm@nv.ccsd.net</a>.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10455" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10455" aria-expanded="false" href="#fs-panel-10455" role="button">Career and Technical Education</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10455"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10456">
+<div class="fsElementContent">
+<p>More than 60 Career and Technical Education (CTE) pathways, from agriculture science to web design, are available to Clark County School District (District) high school students. Programs are organized into the following 16 nationally recognized clusters: (1) Agriculture, Food, and Natural Resources; (2) Architecture and Construction; (3) Arts, A/V Technology, and Communication; (4) Business Management and Administration; (5) Education and Training; (6) Finance; (7) Government and Public Administration; (8) Health Science; (9) Hospitality and Tourism; (10) Human Services; (11) Information Technology; (12) Law, Public Safety, Corrections, and Security; (13) Manufacturing; (14) Marketing; (15) Science, Technology, Engineering, and Mathematics; and (16) Transportation, Distribution, and Logistics.</p>
+<p>These courses provide students with the academic and technical knowledge they need to pursue post-secondary opportunities and/or to enter the workplace upon graduation. CTE courses are available at District comprehensive high schools as well as Career and Technical Academies. The programs of study require students to complete a two-year sequence of courses. A small number of select programs may require completion of a sequence of three or four courses. Enrollment into CTE pathways is open for all high school students. CTE pathways provide hands-on training and industry relevant experiences, along with development of leadership skills through participation in career and technical student organizations.</p>
+<p>The Nevada Department of Education (NDE) awards a Certificate of Skill Attainment to every CTE student who: (1) completes the CTE course sequence with a grade point average of 3.0 or higher; (2) passes a published end-of-program technical assessment; and (3) passes the Workplace Readiness assessment for employability skills. Employers in the state of Nevada may utilize this certificate for validation of a student’s knowledge and skills in the various career areas. Completing CTE pathways may contribute to the requirements for a student to qualify for a college and career readiness diploma. In addition, a number of CTE programs of study are offered as dual credit courses and/or articulate with community college courses across the state. The list of articulated CTE programs can be found on the NDE website at <a href="https://doe.nv.gov/offices/craleo/cte" target="_blank">Department of Education – Career and Technical Education</a>. The list of dual credit courses can be confirmed with each postsecondary institution. For more information about CTE courses, visit <a href="https://cteinccsd.org/" target="_blank">cteinccsd.org</a>, or speak with your student’s CTE teacher or counselor. Parents/Guardians may also refer to the school’s course registration guide.</p>
+<p>The District does not discriminate against any person on the basis of race, creed/religion, color, national or ethnic origin, protective hairstyle (to include without limitation hairstyles such as natural hairstyles, afros, bantu knots, curls, braids, locks, and twists), sex, gender identity or expression, sexual orientation, disability, marital status or age, in admission or access to, treatment or employment in, or participation in its programs and activities, and provides equal access to the Boy Scouts of America and other designated youth groups, pursuant to federal and state laws. The District will take steps to ensure that the lack of English language skills will not be a barrier to admission and participation in CTE programs.</p>
+<p>Inquiries regarding compliance with Title IX issues should be directed to the Assistant Human Resources Officer, who also serves as the Title IX Coordinator for the District (not school Athletic Coordinators), at 4121 Eucalyptus Avenue, Building 5, Las Vegas, NV 89121, <a href="tel:(702)-799-5087">702-799-5087</a>, email address <a href="mailto:TitleIXCoordinators@nv.ccsd.net">TitleIXCoordinators@nv.ccsd.net</a>. Inquiries regarding Section 504 compliance should be directed to the Executive Director, Office of Compliance and Monitoring, Student Services Division, at 4170 McLeod Drive, Las Vegas, NV 89121, by phone at <a href="tel:(702)-799-1020">702-799-1020</a>, or by email at <a href="mailto:0135-ocm@nv.ccsd.net">0135-ocm@nv.ccsd.net</a>.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10457" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10457" aria-expanded="false" href="#fs-panel-10457" role="button">Child Find</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10457"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10458">
+<div class="fsElementContent">
+<p>Pursuant to the provisions of <a data-file-name="505-procedural-safeguards.pdf" data-resource-uuid="b49e7dfb-eeae-4450-bf5e-571889a67a5e" href="/fs/resource-manager/view/b49e7dfb-eeae-4450-bf5e-571889a67a5e" target="_blank">Section 504 of the Rehabilitation Act of 1973</a>, and the Individuals with Disabilities Education Act (IDEA), the Clark County School District (District) is ready, willing, and able to identify every qualified student with disabilities residing in the District and determine the need for special education, related services, and/or accommodations.</p>
+<p>Child Find identifies students in Clark County, ages three to 21, who are not enrolled in public school and may be eligible for special education services. Eligibility criteria for evaluation of eligibility for special education services include:</p>
+<ol class="review-list">
+<li style="font-size:15px !important;">Children who are not currently enrolled in a public school, where a suspicion of a disability or delay exists.</li>
+<li style="font-size:15px !important;">Children who are homeschooled, enrolled in private school, reside in hospitals, or are homeless, where a suspicion of a disability or delay exists.</li>
+</ol>
+<p>Parents, guardians, or surrogates must consent to an evaluation of their child prior to an appointment with the Child Find team. A team of professionals will assess the child to determine if they are eligible for special education services under the IDEA. The team, which includes the parents or guardians, develops an Individualized Education Program (IEP) or Service Plan for each eligible student. The Child Find staff also may help families gain access to helpful community services. For more information, please visit <a href="https://ssd.ccsd.net/child-find-department/" target="_blank">Child Find Department</a>. The Child Find office can be contacted by phone at <a href="tel:(702)-799-7463">702-799-7463</a>, or by email at <a href="mailto:childfind@nv.ccsd.net">childfind@nv.ccsd.net</a>.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10459" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10459" aria-expanded="false" href="#fs-panel-10459" role="button">Concerns About Student Disability Issues</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10459"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10460">
+<div class="fsElementContent">
+<p>Concerns regarding students with disabilities that relate to the provision of a free appropriate public education (FAPE) under the Individuals with Disabilities Education Act (IDEA) or Section 504 should be directed to the principal of the school where the concern arose, the school’s Special Education Region Director, or by contacting the Executive Director, Office of Compliance and Monitoring, Student Services Division, by phone at <a href="tel:(702)-799-1020">702-799-1020</a>, or via email <a href="mailto:0135-ocm@nv.ccsd.net">0135-ocm@nv.ccsd.net</a>. Specific concerns relating to facility access for students with disabilities should be addressed by contacting Clark County School District’s Facilities Division, Building Department Director, at <a href="tel:(702)-799-7605">702-799-7605</a>.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10461" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10461" aria-expanded="false" href="#fs-panel-10461" role="button">ESSA - "UNSAFE School Choice Option"</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10461"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10462">
+<div class="fsElementContent">
+<p>As a requirement under the Every Student Succeeds Act (ESSA), the Clark County School District (District) has a school choice process requiring that students in unsafe schools be permitted to transfer to safer public schools. This process, known as the “Unsafe School Choice Option,” permits student transfers for two reasons:</p>
+<ol class="review-list">
+<li style="font-size:15px !important;"> When a school is determined by the state of Nevada to be “persistently dangerous;” or</li>
+<li style="font-size:15px !important;"> When a student becomes the victim of a violent crime at a school.</li>
+</ol>
+<p>If a school is identified as persistently dangerous, the District will inform parents/guardians of the designation within 10 days and offer students the option to transfer to a safe public school within 20 days. Students are allowed to transfer within 30 days. To the extent possible, the District will allow students attending a school identified as persistently dangerous to transfer to a school that has not been identified as being in need of improvement, corrective action, or restructuring. The District will take into account the needs and preferences of the affected students and parents/guardians to the extent possible. It is important to note that transportation is the responsibility of the parent(s)/guardian(s). If a student becomes the victim of a violent criminal offense at school, the student is allowed to transfer to another public school. The transfer is optional; the student is not required to transfer. This requirement does not supersede the District’s ability to discipline offenders in accordance with District regulations.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10463" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10463" aria-expanded="false" href="#fs-panel-10463" role="button">Family Educational Rights and Privacy Act</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10463"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10464">
+<div class="fsElementContent">
+<p>School records of students are confidential, according to the Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 C.F.R. Part 99). The education records maintained by the Clark County School District (District) include a student’s academic permanent record, achievement and scholastic aptitude test results, attendance and discipline file, class record books, grade books, health inventory, and special education confidential folder (if any).</p>
+<p>Directory information is information not generally considered harmful or an invasion of privacy if disclosed. This information is available without the consent of parents/guardians or eligible students. Directory information includes the student’s name, address, grade level, date and place of birth, photographs, participation in officially recognized activities and sports, weight and height if a member of an athletic team, dates and schools of attendance, and degrees and awards received.</p>
+<p>Photographs will be considered directory information only when used in printed school publications including the annual yearbook, playbills, honor roll or other recognition lists, graduation programs, newsletters, and sports activity programs/sheets. Parents/Guardians who do not want directory information released must file a written statement with the principal of the child’s school annually at the start of each school year.</p>
+<p>In addition, two federal laws require local educational agencies to provide military recruiters and post-secondary institutions, upon request, with three information categories – name, address, and telephone listing – unless parents/guardians have advised the school in writing that they do not want their student’s information disclosed without their prior written consent. For military recruiting purposes, military recruiters may also request the District provided student email address (not the personal private email address).</p>
+<p>Information other than directory information is inaccessible without the written consent of the parent/guardian or eligible student. Among those exempt from this ruling are “school officials” who have a “legitimate educational interest,” which may include the Board of School Trustees, administrators, certificated employees, classified support staff, and contractors, consultants, volunteers, and other outside parties performing outsourced institutional services or functions. Legitimate educational interest is defined as any activity having a direct effect on advancing a student’s educational level, coupled with a concern for the student’s social, emotional, and/or physical welfare.</p>
+<p>To inspect education records, parents/guardians should make a written request to the principal of the child’s school to schedule a records review. The school must comply within 10 school days of the written request. The school is not required to make copies of the records unless failure to do so would effectively prevent the parent/guardian from obtaining access to the records.</p>
+<p>Parents/Guardians or eligible students may request to amend student records. The procedure to challenge records is outlined in District Regulation 5125.1, which is available online at <a data-file-name="51251_R.pdf" data-resource-uuid="fdd92d2c-4133-4b13-9dae-576ca7049be5" href="/fs/resource-manager/view/fdd92d2c-4133-4b13-9dae-576ca7049be5" target="_blank">CCSD Regulation R-5125.1 (PDF)</a>, or at your child’s school.</p>
+<p>Parents/Guardians or eligible students who believe their rights have been violated may file a complaint with: Student Privacy Policy Office, U.S. Department of Education, 400 Maryland Ave., SW, Washington, D.C. 20202.</p>
+<p>The confidential records of students who have been enrolled in special education are automatically destroyed during the year of the student’s 28th birthday.</p>
+<p>Upon request, the District discloses education records without consent to officials of other schools in which the student seeks or intends to enroll, or has already enrolled or transferred, if the disclosure is for purposes related to the student’s enrollment or transfer.</p>
+<p>The District has identified the following FERPA liaisons to answer related questions:</p>
+<table class="table-styled" width="100%">
+<thead class="table-dark">
+<tr>
+<th>Department</th>
+<th>Phone Number</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Region Superintendent’s Office for Region 1</td>
+<td><a href="tel:(702)-799-0648">702-799-0648</a></td>
+</tr>
+<tr>
+<td>Region Superintendent’s Office for Region 2</td>
+<td><a href="tel:(702)-799-2939">702-799-2939</a></td>
+</tr>
+<tr>
+<td>Region Superintendent’s Office for Region 3</td>
+<td><a href="tel:(702)-799-0059">702-799-0059</a></td>
+</tr>
+<tr>
+<td>The Transformation Network</td>
+<td><a href="tel:(702)-799-5868">702-799-5868</a></td>
+</tr>
+<tr>
+<td>Education Services Division</td>
+<td><a href="tel:(702)-855-9775">702-855-9775</a></td>
+</tr>
+<tr>
+<td>Office of Compliance and Monitoring</td>
+<td><a href="tel:(702)-799-1020">702-799-1020</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10465" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10465" aria-expanded="false" href="#fs-panel-10465" role="button">Medicaid Information</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10465"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10466">
+<div class="fsElementContent">
+<p>The Clark County School District (District) participates in Nevada Medicaid’s School Health Services (SHS) program and provides school health services to children with a Plan of Care (such as an Individualized Education Program) at no cost to parents/guardians. Additionally, the District provides preventative healthcare services including crisis intervention, screenings, assessments, diagnostics, and treatment. Federal Medicaid funds are available to school districts to help recover the costs of providing these necessary services. To access these funds, the District participates in the Nevada Department of Health and Human Services, Division of Health Care Financing and Policy (DHCFP) Medicaid SHS program.</p>
+<p>The District seeks reimbursement for eligible school health services such as:</p>
+<div class="course-overview">
+<div class="inner-box">
+<ul class="review-list" style="margin-bottom: -10px;">
+<li style="font-size:15px !important;">Applied behavior analysis</li>
+<li style="font-size:15px !important;">Audiological services</li>
+<li style="font-size:15px !important;">Mental/behavioral health services</li>
+<li style="font-size:15px !important;">Nursing services</li>
+<li style="font-size:15px !important;">Occupational therapy</li>
+<li style="font-size:15px !important;">Originating telehealth services</li>
+<li style="font-size:15px !important;">Personal care services</li>
+<li style="font-size:15px !important;">Physical therapy</li>
+<li style="font-size:15px !important;">Screenings and diagnostic services</li>
+<li style="font-size:15px !important;">Speech-Language services</li>
+</ul>
+</div>
+</div>
+<p>The District must disclose information to DHCFP from those students’ education records for which reimbursement is sought. The information that must be disclosed includes the student’s name, date of birth, and information regarding the service that was provided, such as the date, type, and duration of service. The state Medicaid/Children’s Health Insurance Program (CHIP) agency shares beneficiary information with the District (via a third-party billing agent) when the purpose of the disclosure is directly connected to the administration of the Medicaid or CHIP State plan, including establishing eligibility.</p>
+<p>Consent to release information must be obtained in order to seek Medicaid reimbursement. As required by federal law, the District:</p>
+<div class="course-overview">
+<div class="inner-box">
+<ul class="review-list">
+<li style="font-size:15px !important;">Must obtain written consent prior to disclosing students’ health information to DHCFP;</li>
+<li style="font-size:15px !important;">May not require parents/guardians to sign up for or enroll in any public benefits or insurance programs;</li>
+<li style="font-size:15px !important;">May not require parents/guardians to pay any out-of-pocket expenses such as a deductible or co-payment for the costs of the health services the District provides;</li>
+<li style="font-size:15px !important;">May not use students’ Medicaid or other public benefits if that use would:
+<!--
+	  	<ul>
+		  	<li>− Decrease available lifetime coverage or any other insured benefit,</li>
+		  	<li>− Result in families paying for services that would otherwise be covered by Medicaid or other public insurance programs and that are required for children outside of the time that they are in school,</li>
+		  	<li>− Increase insurance premiums or lead to the discontinuation of any public benefits or insurance, or</li>
+		  	<li>− Risk the loss of eligibility for home and community-based waivers, based on aggregate health-related costs.</li> 
+	  	</ul>
+-->
+</li>
+</ul>
+</div>
+</div>
+<div class="course-overview">
+<div class="inner-box" style="margin-left: 40px;margin-bottom: -25px;margin-top: -25px;">
+<p style="font-size:15px !important;">− Decrease available lifetime coverage or any other insured benefit,</p>
+<p style="font-size:15px !important;">− Result in families paying for services that would otherwise be covered by Medicaid or other public insurance programs and that are required for children outside of the time that they are in school,</p>
+<p style="font-size:15px !important;">− Increase insurance premiums or lead to the discontinuation of any public benefits or insurance, or</p>
+<p style="font-size:15px !important;">− Risk the loss of eligibility for home and community-based waivers, based on aggregate health-related costs.</p>
+</div>
+</div>
+<p>Whether or not consent is given or if consent is withdrawn, the District will continue to provide services to students at no cost to parents/guardians.</p>
+<p>Signed consent remains in effect unless it is withdrawn by the parent/guardian, even if students leave the District and re-enroll. Reimbursement is sought for all services within timely filing of the date of consent.</p>
+<p>For more information regarding the District’s Medicaid SHS program, contact the Student Education Management Systems Department Medicaid School Health Services Office at <a href="tel:(702)-799-2899">702-799-2899</a> or email at <a href="mailto:SHS-MedicaidHD@nv.ccsd.net">SHS-MedicaidHD@nv.ccsd.net</a>.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10467" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10467" aria-expanded="false" href="#fs-panel-10467" role="button">Non-Discrimination and Accessibility Notice</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10467"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10468">
+<div class="fsElementContent">
+<p>Clark County School District (CCSD or District) does not discriminate against any person on the basis of race, creed/religion, color, national or ethnic origin, protective hairstyle (to include without limitation hairstyles such as natural hairstyles, afros, bantu knots, curls, braids, locks, and twists), sex, gender identity or expression, sexual orientation, disability, marital status, or age, in admission or access to, treatment or employment, or participation in its programs and activities, and provides equal access to the Boy Scouts of America and other designated youth groups, pursuant to federal and state laws including, but not limited to, Title VI and VII of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972 and 34 C.F.R. § 106.8(b)(1), Section 504 of the Rehabilitation Act of 1973, Title II of the Americans with Disabilities Act of 1990, the Individuals with Disabilities Education Act (IDEA), and the Boy Scouts of America Equal Access Act.
+</p>
+<p>Inquiries about the application of Title IX to the District may be referred to the office of the Assistant Human Resources Officer, who oversees the Office of Diversity and Affirmative Action/ADA and Title IX programs (not school Athletic Coordinators) and serves as the Title IX Coordinator for the District. The Assistant Human Resources Officer is located at 4212 Eucalyptus Avenue, Building 5, Las Vegas, NV 89121,  
+<a href="tel:(702)-799-5087">702-799-5087</a>, email address <a href="mailto:TitleIXCoordinators@nv.ccsd.net">TitleIXCoordinators@nv.ccsd.net</a>. Inquiries may also be made outside of the District and directly with the Assistant Secretary, United States Department of Education – Office for Civil Rights, 915 2nd Ave. Room 3310, Seattle, Washington 98174-1099, email address <a href="mailto:OCR.Seattle@ed.gov">OCR.Seattle@ed.gov</a>.</p>
+<p><strong><u>Concerns of Employees and Other Employment-Related Matters</u> (including applicants for employment, race-based complaints, and sexual harassment complaints)</strong></p>
+<p>The District is an equal opportunity employer. Inquiries regarding employment-related issues and Title IX may be referred to the office of the Assistant Human Resources Officer, who oversees the Office of Diversity and Affirmative Action/ADA and Title IX programs (not school Athletic Coordinators) and who also serves as the Title IX Coordinator for the District (not school Athletic Coordinators). The Assistant Human Resources Officer is located at 4212 Eucalyptus Avenue, Building 5, Las Vegas, NV 89121, <a href="tel:(702)-799-5087">702-799-5087</a>, email address <a href="mailto:ODAA-IC@nv.ccsd.net ">ODAA-IC@nv.ccsd.net </a> or <a href="mailto:TitleIXCoordinators@nv.ccsd.net">TitleIXCoordinators@nv.ccsd.net</a> (Title IX sexual harassment).</p>
+<p>Employees who feel discriminated against should contact their immediate supervisor and/or the office of the Assistant Human Resources Officer who oversees the Office of Diversity and Affirmative Action/ADA and Title IX programs (not school Athletic Coordinators), as the first step in initiating the District’s established grievance/complaint procedures.</p>
+<p><strong><u>Concerns of Students, Parents/Guardians, and Other Program Participants</u></strong>
+</p><p><strong>1)  Disability Discrimination (Title II and Section 504)</strong></p>
+<p>The District is committed to nondiscrimination in its programs, activities and services, and to providing facility accessibility. Parents/Guardians, students, staff, or other members of the public, who are seeking information or have questions about the existence and location of accessible services, activities, and facilities in the District, should contact the building principal with their inquiry. The building principal may, if necessary, refer the person to one or more of the following individuals, who will respond to the inquiry within a reasonable period of time:</p>
+<p>Facility Accessibility: Facilities Division, Building Department Director, located at 1180 Military Tribute Place, Henderson, NV 89074, <a href="tel:(702)-799-7605">702-799-7605</a>, email address <a href="mailto:resopdg@nv.ccsd.net">resopdg@nv.ccsd.net</a>. The District’s Assistant Human Resources Officer who oversees the Office of Diversity and Affirmative Action/ADA and Title IX programs and who also serves as the Title IX Coordinator for the District, located at 4212 Eucalyptus Avenue, Building 5, Las Vegas, NV 89121, <a href="tel:(702)-799-5087">702-799-5087</a>, email address <a href="mailto:ODAA-IC@nv.ccsd.net">ODAA-IC@nv.ccsd.net</a>.</p>
+<p>Transportation: Department of Transportation Director, located at 975 W. Welpman Way, Henderson, NV 89044, <a href="tel:(702)-799-8100">702-799-8100</a>, email address <a href="mailto:transportation@nv.ccsd.net">transportation@nv.ccsd.net</a>.</p>
+<p>Student Programs/Services Access: Executive Director, Office of Compliance and Monitoring, Student Services Division (Section 504 and IDEA disability related), located at 4170 McLeod Drive, Las Vegas, NV 89121 <a href="tel:(702)-799-1020">702-799-1020</a>, email address <a href="mailto:0135-ocm@nv.ccsd.net">0135-ocm@nv.ccsd.net</a>.</p>
+<p>Students, parents/guardians, and other program participants who feel discriminated against relating to school transportation may initiate a complaint by contacting the principal of the school in question. The building principal will work with the designated employee and respond to the inquiry within a reasonable period of time. The designated school employee who is responsible to work with the school principal in resolving the complaints regarding:</p>
+<div class="course-overview">
+<div class="inner-box" style="margin-bottom: -20px;">
+<p style="font-size:15px !important;"> a. disability discrimination concerns, that arise at the school and on the school bus, is the Executive Director, Office of Compliance and Monitoring, Student Services Division, located at 4170 McLeod Drive, Las Vegas, NV 89121, <a href="tel:(702)-799-1020">702-799-1020</a>, email address <a href="mailto:0135-ocm@nv.ccsd.net">0135-ocm@nv.ccsd.net</a>; and</p>
+<p style="font-size:15px !important;"> b. school bus transportation concerns in general, is the Director of Transportation, located at 975 W. Welpman Way, Henderson, NV 89044, <a href="tel:(702)-799-8100">702-799-8100</a>, email address <a href="mailto:transportation@nv.ccsd.net">transportation@nv.ccsd.net</a>.</p></div>
+</div>
+<p>If parents/guardians or members of the public have additional concerns or complaints regarding their accessibility inquiry, they also may initiate a formal review by completing a Public Concern Form and trigger the public concern process as outlined in District Regulation 1213.1, as described below.</p>
+<p><strong>2)  Race/Color/National Origin Discrimination (Title VI)</strong></p>
+<p>Title VI concerns can be addressed by contacting the office of the Assistant Human Resources Officer, who oversees the Office of Diversity and Affirmative Action/ADA and Title IX programs (not school Athletic Coordinators) and who also serves as the Title IX Coordinator for the District (not school Athletic Coordinators). The Assistant Human Resources Officer who also serves as the Title IX Coordinator is located at 4212 Eucalyptus Avenue, Building 5, Las Vegas, NV 89121, <a href="tel:(702)-799-5087">702-799-5087</a>, email address <a href="mailto:TitleIXCoordinators@nv.ccsd.net">TitleIXCoordinators@nv.ccsd.net</a>. Concerns may also be addressed by completing the complaint/grievance process outlined in District Regulation 1213.1 (public concern). This process allows anyone who has a concern to initiate a formal review by completing a Public Concern Form and trigger the public concern process as outlined in District Regulation 1213.1. The procedures also allow for an appeal of the determination.
+
+</p>
+<p><strong>3)  Sex Discrimination (Title IX)</strong></p>
+<p>The District does not discriminate on the basis of sex in its education programs or activities, and is required by Title IX not to discriminate in such a manner. Inquiries or concerns regarding Title IX should be referred to the office of the Assistant Human Resources Officer, who oversees the Office of Diversity and Affirmative Action/ADA and Title IX programs (not school Athletic Coordinators) and who also serves as the Title IX Coordinator for the District. The Assistant Human Resources Officer is located at 4212 Eucalyptus Avenue, Building 5, Las Vegas, NV 89121, <a href="tel:(702)-799-5087">702-799-5087</a>, email address <a href="mailto:TitleIXCoordinators@nv.ccsd.net">TitleIXCoordinators@nv.ccsd.net</a>. Students, parents/guardians, and other program participants who believe they have been subjected to sex discrimination, including sexual or gender-based harassment, may contact the Title IX Coordinator to make a report or file a complaint, who will work with the principal of the school in question or other District staff, as appropriate, to comply with the Title IX requirements and follow the District’s sexual harassment grievance procedures, or they may contact the United States Department of Education, Office for Civil Rights (OCR). For more information on Title IX, visit <a href="https://ccsd.net/" target="_blank">ccsd.net</a>, keyword search “Title IX” or visit <a href="https://ccsd.net/district/info/title-ix.php" target="_blank">Title IX Notice of Non-Discrimination</a>.</p>
+<p>OCR may be contacted by sending a complaint or inquiry to the United States Department of Education – Office for Civil Rights, 915 2nd Ave. Room 3310, Seattle, Washington 98174-1099, email address <a href="mailto:OCR.Seattle@ed.gov">OCR.Seattle@ed.gov</a>.</p>
+<p>Student Athletics/Activities Access, including Title IX Athletic concerns, can be addressed by contacting the Title IX Athletics Compliance Administrator, located at 5100 W. Sahara Ave., Las Vegas, NV 89146, <a href="tel:(702)-799-8493">702-799-8493</a>, email address <a href="mailto:wilbuds@nv.ccsd.net">wilbuds@nv.ccsd.net</a>.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10469" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10469" aria-expanded="false" href="#fs-panel-10469" role="button">Protection and Security of Tests</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10469"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10470">
+<div class="fsElementContent">
+<p>Clark County School District (District), in accordance with Nevada law, has implemented procedures to ensure the security of all state-mandated proficiency exams. The plan includes procedures for:</p>
+<div class="course-overview">
+<div class="inner-box" style="margin-bottom: -35px;">
+<ul class="review-list">
+<li style="font-size:15px !important;">Reporting irregularities in test administration and test security;</li>
+<li style="font-size:15px !important;">Notifying the Nevada Department of Education of testing irregularities;</li>
+<li style="font-size:15px !important;">Ensuring the security of test materials and consistency of test administration;</li>
+<li style="font-size:15px !important;">Verifying the identity of secondary students taking an exam; and</li>
+<li style="font-size:15px !important;">Responding to a report of an irregularity in test administration or security, including actions taken during an investigation and the person responsible for each action.</li>
+</ul>
+</div>
+</div>
+<p>Because test security is a vital part of state-mandated testing and the validity of the resulting data, the District invokes the following penalties:</p>
+<div class="course-overview">
+<div class="inner-box" style="margin-bottom: -35px;">
+<ul class="review-list">
+<ul><li style="font-size:15px !important;">If a teacher or administrator is found, through an investigation of a testing irregularity, to have willfully breached the security or confidentiality of the questions and answers of the examinations that are administered pursuant to NRS 390.105 or the college and career readiness assessment administered pursuant to NRS 390.610, the District must: (1) suspend, dismiss, or fail to reemploy the teacher; or (2) demote, suspend, dismiss, or fail to reemploy the administrator;</li>
+<li style="font-size:15px !important;">A teacher and/or administrator may be suspended, demoted, dismissed, or not reemployed for any other type of breach in test security or administration;</li>
+<li style="font-size:15px !important;">All other District employees may be subject to suspension, dismissal, or non-reemployment for breaches of security or confidentiality; and</li>
+<li style="font-size:15px !important;">Students who willfully breach test procedures will be subject to administrative and disciplinary action consistent with state law and District regulations.</li>
+</ul>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10471" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10471" aria-expanded="false" href="#fs-panel-10471" role="button">Protection of Pupils Rights Amendment</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10471"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10472">
+<div class="fsElementContent">
+<p>The Protection of Pupil Rights Amendment (PPRA) (20 U.S.C. § 1232h; 34 C.F.R. Part 98) affords parents/guardians and students who are 18 or emancipated minors (“eligible students”) certain rights regarding the Clark County School District’s (District) conduct of surveys, collection and use of information for marketing purposes, and certain physical exams. These include the right to:</p>
+<p><strong>Consent before students are required to submit to a survey, analysis, or evaluation that concerns one or more of the following protected areas (“protected information survey”) if the survey, analysis, or evaluation is funded in whole or in part by a program of the U.S. Department of Education:
+</strong></p>
+<div class="course-overview">
+<div class="inner-box" style="margin-bottom: -25px;">
+<p style="font-size:15px !important;">1) Political affiliations or beliefs of the student or student’s parent;</p>
+<p style="font-size:15px !important;">2) Mental or psychological problems of the student or student’s family;</p>
+<p style="font-size:15px !important;">3) Sex behavior or attitudes;</p>
+<p style="font-size:15px !important;">4) Illegal, anti-social, self-incriminating, or demeaning behavior;</p>
+<p style="font-size:15px !important;">5) Critical appraisals of other individuals with whom the respondents have close family relationships;</p>
+<p style="font-size:15px !important;">6) Legally recognized privileged or analogous relationships, such as with lawyers, doctors, or ministers;</p>
+<p style="font-size:15px !important;">7) Religious practices, affiliations, or beliefs of the student or parents; or</p>
+<p style="font-size:15px !important;">8) Income, other than as required by law to determine program eligibility.</p>
+</div>
+</div>
+<p><strong>Receive notice and an opportunity to opt a student out of:
+</strong></p>
+<div class="course-overview">
+<div class="inner-box" style="margin-bottom: -25px;">
+<p style="font-size:15px !important;">1) Any other protected information survey, regardless of funding;</p>
+<p style="font-size:15px !important;">2) Any non-emergency, invasive physical exam or screening required as a condition of attendance, administered by the school or its agent, and not necessary to protect the immediate health and safety of a student, except for hearing, vision, or scoliosis screenings, or any physical exam or screening permitted under state law; and</p>
+<p style="font-size:15px !important;">3) Activities involving collection, disclosure, or use of personal information obtained from students for marketing purposes or to sell or otherwise distribute the information to others.</p>
+</div>
+</div>
+<p><strong>Inspect, upon request of the parent/guardian, and before the instrument is administered or used:</strong></p>
+<div class="course-overview">
+<div class="inner-box" style="margin-bottom: -25px;">
+<p style="font-size:15px !important;">1) Protected information surveys of students and surveys created by a third party;
+</p>
+<p style="font-size:15px !important;">2) Instruments used to collect personal information from students for any of the above marketing, sales, or other distribution purposes; and</p>
+<p style="font-size:15px !important;">3) Instructional material used as part of the educational curriculum.</p>
+</div>
+</div>
+<p>The District has developed and adopted policies, in consultation with parents/guardians, regarding these rights, as well as arrangements to protect student privacy in the administration of protected surveys and the collection, disclosure, or use of personal information for marketing, sales, or other distribution purposes.</p>
+<p>The District will also directly notify parents/guardians and eligible students through the U.S. mail or email, at least annually at the start of each school year, of the specific or approximate dates of the activities or surveys listed below and provide an opportunity for the parent/guardian to opt his or her child out of participation in that activity or survey. For surveys and activities scheduled after the school year starts, parents/guardians will be provided reasonable notification and be provided an opportunity to opt their child out of participation. Following is a list of the specific activities and surveys covered under this requirement:
+</p>
+<div class="course-overview">
+<div class="inner-box" style="margin-bottom: -25px;">
+<ul class="review-list">
+<li style="font-size:15px !important;">Collection, disclosure, or use of personal information for marketing, sales, or other distribution;</li>
+<li style="font-size:15px !important;">Administration of any protected information survey not funded in whole or in part by the U.S. Department of Education; and</li>
+<li style="font-size:15px !important;">Any non-emergency, invasive physical examination or screening as described above.</li>
+</ul>
+</div>
+</div>
+<p>Parents/guardians and eligible students who believe their rights have been violated may file a complaint with: Student Privacy Policy Office, U.S. Department of Education, 400 Maryland Ave., SW, Washington D.C. 20202.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10473" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10473" aria-expanded="false" href="#fs-panel-10473" role="button">Relationships, Interactions, and Communications Between District Employees or Representatives/Volunteers and Students</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10473"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10474">
+<div class="fsElementContent">
+<p>The Clark County School District (District) is committed to ensuring that all relationships, interactions, and communications between District employees or representatives/volunteers and students, regardless of age, are appropriate. In furtherance of this goal, the Board of Trustees enacted Policy and Regulation 4100, which establishes procedures for all employees and representatives/volunteers (including rules related to electronic communication such as email and texting with students), defines appropriate and inappropriate conduct, mandates the reporting of inappropriate conduct, encourages cooperation with law enforcement, and ensures compliance with applicable laws.</p>
+<p>Policy and Regulation 4100 also includes requirements regarding background checks and fingerprinting that align with the Nevada Revised Statutes.</p>
+<p>Additional guidance may be found on the District “Protect Our Kids” website. The website includes links with helpful information, documents (including Frequently Asked Questions), and training videos related to Policy and Regulation 4100. The website is available at <a data-page-name="Protect Our Kids" href="/fs/pages/1291" target="_blank">ccsd.net/protectourkids</a>.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10475" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10475" aria-expanded="false" href="#fs-panel-10475" role="button">Safe and Respectful Learning Environment</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10475"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10476">
+<div class="fsElementContent">
+<p>The Clark County School District (District) is committed to providing a safe, secure, and respectful learning environment for all students and employees at all District facilities, school buildings, on school buses, on school grounds, and at school-sponsored activities. The District strives to address discrimination based on race, bullying, and cyberbullying so that there is no disruption to the learning environment and learning process. District Policy 5137 outlines the requirements and process for ensuring safe and respectful learning environments are maintained. (Policy 5137 can be found at <a href="https://ccsd.net/" target="_blank">ccsd.net</a>, keyword search “Policy 5137” or <a data-file-name="5137_P.pdf" data-resource-uuid="2ff74fdf-9c3e-4fca-bab5-7673209b9f9b" href="/fs/resource-manager/view/2ff74fdf-9c3e-4fca-bab5-7673209b9f9b" target="_blank">CCSD Policy P-5137 (PDF)</a>).</p>
+<p>The Nevada Legislature has defined discrimination based on race, bullying, and cyberbullying. Discrimination based on race, bullying, and/or cyberbullying behaviors are prohibited. The District will comply with the reporting, notice, and investigation requirements set forth in the laws and regulations.</p>
+<p><strong>The following reporting mechanisms are applicable to discrimination based on race, bullying, and cyberbullying.</strong></p>
+<div class="course-overview">
+<div class="inner-box" style="margin-bottom: -35px;">
+<p style="font-size:15px !important;">1. Students: It is the policy of the District to encourage students who are subjected to, witness, or overhear incidents of discrimination based on race, bullying, or cyberbullying to report such incidents. Students should report any incident(s) of discrimination based on race, bullying, or cyberbullying to a teacher, counselor, or school administrator. Students are also encouraged to report knowledge of discrimination based on race, bullying, or cyberbullying via SafeVoice, an anonymous reporting system, which can be accessed 24 hours a day, seven days a week, and 365 days a year. SafeVoice reports can be made through the hotline by calling <a href="tel:1(833)-216-7233">1-833-216-SAFE (7233)</a>, electronically at <a href="http://safevoicenv.org/" target="_blank">safevoicenv.org</a>, or through a free mobile app available in the app store for either Android or iPhone.</p>
+<p style="font-size:15px !important;">2. Employees: Any District teacher, administrator, principal, coach, or other staff member who witnesses, overhears, or receives information about an incident of discrimination based on race, bullying, or cyberbullying at any District facility, on school grounds, in school buildings, on school buses, or at school-sponsored activities, shall report it to the principal or the principal’s designee as soon as practicable, but not later than a time during the same day on which the teacher, administrator, principal, coach, or other staff member witnesses or receives information about the incident.</p>
+</div>
+</div>
+<p style="font-size:15px !important;">The District rejects all forms of racism. The District has adopted Policy 5139 which addresses anti-racism, equity, and inclusion. This policy ensures that incidents of discrimination based on race are prohibited. The District encourages all employees, students, and parents/guardians to reflect upon and take appropriate action when they are aware of racially motivated incidents, racial discrimination, and racial aggression. The importance of this policy acknowledges the negative impact experienced by individuals, the District, and society as a result of racial discrimination and racism. The District will hold staff and students accountable and align all adult behavior to a renewed culture of high expectations for all students throughout the District and the expectation of an anti-racism culture. (Policy 5139 can be found at <a href="https://ccsd.net/" target="_blank">ccsd.net</a>, under Quick Links, or at <a data-file-name="5139_P.pdf" data-resource-uuid="0bc47fed-d900-4d28-b9bb-c82b5476e124" href="/fs/resource-manager/view/0bc47fed-d900-4d28-b9bb-c82b5476e124" target="_blank">CCSD Policy P-5139 (PDF)</a>).</p>
+<p> </p>
+<p> </p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10477" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10477" aria-expanded="false" href="#fs-panel-10477" role="button">Student Harassment Prohibited</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10477"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10478">
+<div class="fsElementContent">
+<p>The Clark County School District (District) supports a learning environment that is free from discrimination, harassment, and intimidation because of a student’s protected status in order to best promote student learning. Where a student has experienced harassment, the District will act promptly and appropriately to prevent its recurrence and correct its discriminatory effects on the complainant and others, where appropriate. Protected class groups include age, race, color, national origin, ethnicity, ancestry, religion, gender identity or expression, sexual orientation, physical attributes, disability, and sex.</p>
+<p><strong>Sexual Harassment</strong></p>
+<p>The District does not discriminate on the basis of sex in its education programs or activities, and is required by Title IX not to discriminate in such a manner.</p>
+<p>Sexual harassment is defined as conduct on the basis of sex that satisfies one or more of the following:</p>
+<p>1. An employee of the District conditioning the provision of an aid, benefit, or service of the District on an individual’s participation in unwelcome sexual conduct (i.e., quid pro quo sexual harassment). This applies to all employees.</p>
+<p>2. Unwelcome conduct determined by a reasonable person to be so severe, pervasive, and objectively offensive that it effectively denies a person equal access to an education program or activity. This applies to all students and employees.</p>
+<p>3. Sexual assault, dating violence, domestic violence, or stalking, as those terms are defined under certain federal laws. (For a full definition of those terms, visit <a href="https://ccsd.net/" target="_blank">ccsd.net</a>, keyword search “Title IX,” or visit <a data-page-name="Title IX" href="/fs/pages/1107" target="_blank">Title IX Notice of Non-Discrimination</a>. This applies to all students and employees.</p>
+<p>Under Title IX, the District must respond when any employee or official of the District with authority to institute corrective measures has actual knowledge (sees, hears, or otherwise learns) of sexual harassment that occurred within an education program or activity. When any employee or official of the District with authority to institute corrective measures has actual knowledge of such sexual harassment, that person has a duty to report it to the District’s Assistant Human Resources Officer, who also serves as the Title IX Coordinator. The Title IX Coordinator (not school Athletic Coordinators) may be contacted by email at <a href="mailto:TitleIXCoordinators@nv.ccsd.net">TitleIXCoordinators@nv.ccsd.net</a>, by phone at <a href="tel:(702)-799-5087">702-799-5087</a>, or by mail at 4212 Eucalyptus Avenue, Building 5, Las Vegas, NV 89121.</p>
+<p>A complainant (alleged victim) may file a formal complaint with the Assistant Human Resources Officer at the contact information above. In addition, any person may report sexual harassment to the Assistant Human Resources Officer at the contact information above.</p>
+<p>Upon receipt of a formal complaint or a report of sexual harassment, the Assistant Human Resources Officer will coordinate the District’s efforts to comply with its obligations under the law. The District will respond promptly and in a manner that is not deliberately indifferent, meaning not clearly unreasonable in light of the known circumstances.</p>
+<p>To read a full version of the new Title IX complaint and response process, including the grievance and investigation procedures, visit <a href="https://ccsd.net/" target="_blank">ccsd.net</a>, keyword search “Title IX,” or visit <a href="https://ccsd.net/district/info/title-ix/" target="_blank">Title IX Notice of Non-Discrimination</a>.</p>
+<p>Retaliatory behavior against any complainant or any participant in the Title IX complaint process is prohibited.</p>
+<p>In addition to contacting the District’s Assistant Human Resources Officer, the Office for Civil Rights (OCR) may also be contacted by sending a complaint or inquiry regarding Title IX to the United States Department of Education – Office for Civil Rights, 915 2nd Ave. Room 3310, Seattle, Washington 98174-1099. The email address is <a href="mailto:OCR.Seattle@ed.go">OCR.Seattle@ed.gov</a>.</p>
+<p><strong>Harassment Not Based on Sex</strong></p>
+<p>For all other types of harassment that are not based on sex (i.e., not based on Title IX), harassment is defined as any verbal, visual, or physical conduct that is sufficiently severe, persistent, or pervasive that it adversely affects, or has the purpose or logical consequence of interfering with the student’s educational program or creates an intimidating, hostile, or offensive school atmosphere. Harassment, whether it is by students, staff, or third parties in the school community, is strictly prohibited, and will subject the perpetrator to disciplinary action. See Regulation 5141.2 which can be found at <a href="https://ccsd.net/" target="_blank">ccsd.net</a> (keyword search “Regulation 5141.2” or <a data-file-name="51412_R.pdf" data-resource-uuid="15037a15-71db-40e0-8733-7fd86168fba6" href="/fs/resource-manager/view/15037a15-71db-40e0-8733-7fd86168fba6" target="_blank">CCSD Regulation 5141.2 (PDF)</a>). It is the principal’s responsibility to take actions as necessary to protect students and District personnel from harassment by students or staff, using the grievance complaint procedure.</p>
+<p>Any student who feels that they are a victim of harassment should immediately contact their teacher and/or principal. If the principal or teacher is believed to be part of the harassment, the student should contact the appropriate Region Superintendent, School Associate Superintendent, or Division Administrator. The student may also contact the office of the Assistant Human Resources Officer (who oversees the Office of Diversity and Affirmative Action/ADA and Title IX programs, who also serves as the Title IX Coordinator for the District) by email at <a href="mailto:TitleIXCoordinators@nv.ccsd.net">TitleIXCoordinators@nv.ccsd.net</a>, by phone at <a href="tel:(702)-799-5087">702-799-5087</a>, or by mail at 4212 Eucalyptus Avenue, Building 5, Las Vegas, NV 89121.</p>
+<p>Any District employee who receives a harassment complaint from a student shall immediately notify the School Principal. Any employee who observes harassing conduct shall take immediate action to stop the harassing conduct and then immediately notify the School Principal of the incident. The principal shall ensure that the complaint is promptly and appropriately investigated and will ensure that there is an opportunity to present witnesses and other evidence. If the investigation is not conducted promptly, the appropriate Region Superintendent or School Associate Superintendent, Division Administrator, or the office of the Assistant Human Resources Officer (who oversees the Office of Diversity and Affirmative Action/ADA and Title IX programs, who also serves as the Title IX Coordinator for the District) will be notified.</p>
+<p>Retaliatory behavior against any complainant or any participant in the complaint process is prohibited.</p>
+<p>Harassment in any form against students by either a student or a District employee is grounds for severe disciplinary action. For students, it may be the basis for suspension/expulsion in accordance with the existing disciplinary procedures. For staff, it may result in disciplinary action up to and including dismissal. If there is a concern that the behavior constitutes bullying, it should also be reported under the bullying procedures set forth in District Policy 5137. Policy 5137 can be found at <a data-file-name="5137_P1_1.pdf" data-resource-uuid="4a76d1ac-f6a1-4d4a-91de-eda600838c9d" href="/fs/resource-manager/view/4a76d1ac-f6a1-4d4a-91de-eda600838c9d" target="_blank">CCSD Policy 5137 (PDF)</a>).</p>
+<p>In addition, the Office for Civil Rights (OCR) may also be contacted by sending a complaint or inquiry to the United States Department of Education – Office for Civil Rights, 915 2nd Ave. Room 3310, Seattle, Washington 98174-1099. The email address is <a href="mailto:OCR.Seattle@ed.gov">OCR.Seattle@ed.gov</a>.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10479" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10479" aria-expanded="false" href="#fs-panel-10479" role="button">Student Wellness Regulation</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10479"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10480">
+<div class="fsElementContent">
+<p>The Clark County School District (District) is committed to providing an environment in which students can make healthy food choices and have opportunities to be physically active. Regulation 5157 defines nutrient standards for food and beverages sold or given away to students in all school venues during the period from midnight before, to 30 minutes after, the end of the official school day. This includes, but is not limited to, student stores, vending machines, cafeteria a la carte lines, fundraising, and all activities sponsored by school organizations (clubs, sports, PTA, etc.) conducted on school property during the school day, and the District’s Food Service Department. The nutrient standards limit calories, fat, sugar, and sodium; prohibit carbonated beverages and caffeine with the exception of trace amounts of naturally-occurring caffeine substances such as chocolate milk (although caffeine is permitted at the high school level if approved by administration), and define acceptable portion sizes. Regulation 5157 can be found at <a href="http://ccsd.net/" target="_blank">ccsd.net</a>, (keyword search “Regulation 5157”, or <a data-file-name="5157_R.pdf" data-resource-uuid="9002e339-a8e2-45c5-9ac0-8771052303e6" href="/fs/resource-manager/view/9002e339-a8e2-45c5-9ac0-8771052303e6" target="_blank">CCSD Regulation 5157 (PDF)</a>).</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10481" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10481" aria-expanded="false" href="#fs-panel-10481" role="button">Transportation for Students with Disabilities</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10481"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10482">
+<div class="fsElementContent">
+<p>The Clark County School District (District) is committed to providing an environment in which students can make healthy food choices and have opportunities to be physically active. Regulation 5157 defines nutrient standards for food and beverages sold or given away to students in all school venues during the period from midnight before, to 30 minutes after, the end of the official school day. This includes, but is not limited to, student stores, vending machines, cafeteria a la carte lines, fundraising, and all activities sponsored by school organizations (clubs, sports, PTA, etc.) conducted on school property during the school day, and the District’s Food Service Department. The nutrient standards limit calories, fat, sugar, and sodium; prohibit carbonated beverages and caffeine with the exception of trace amounts of naturally-occurring caffeine substances such as chocolate milk (although caffeine is permitted at the high school level if approved by administration), and define acceptable portion sizes. Regulation 5157 can be found at <a href="http://ccsd.net/" target="_blank">ccsd.net</a>, (keyword search “Regulation 5157”, or <a data-file-name="12131_R.pdf" data-resource-uuid="eaa1ebaf-38c1-44d2-8fef-c80f36db81dd" href="/fs/resource-manager/view/eaa1ebaf-38c1-44d2-8fef-c80f36db81dd" target="_blank">CCSD Regulation 5157 (PDF)</a>).</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10483" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10483" aria-expanded="false" href="#fs-panel-10483" role="button">Treatment of Students and Families Outlined</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10483"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10484">
+<div class="fsElementContent">
+<p>Board Governance Policy SE-3 provides that with respect to interactions with students and their families or those enrolling to be students, the superintendent shall cause conditions, procedures, or decisions, which support student learning and which are safe, dignified, equitable, nondiscriminatory, and/or nonintrusive. See <a href="http://ccsd.net/" target="_blank">ccsd.net</a> (keyword search “Governance Policies SE-3” or <a data-file-name="SE-03_P.pdf" data-resource-uuid="d62c28fd-59da-48e2-bdf9-8487840c06e7" href="/fs/resource-manager/view/d62c28fd-59da-48e2-bdf9-8487840c06e7" target="_blank">CCSD Governance Policy SE-3 (PDF)</a>).</p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

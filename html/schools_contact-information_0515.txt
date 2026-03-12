@@ -10,7 +10,8 @@
                 BELL, REX ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Aimetti, Jaymes A<br>
+                        
+Principal: Aimetti, Jaymes A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5910<br/>
                                 Fax: 702-799-5916<br/>
 <a href="http://maps.google.com/maps?q=2900 WILMINGTON WAY,+LAS VEGAS,+NV+89102">Map</a>
-                                 | <a href="http://rexbelles.org">Website</a> </br></br></br></p>
+                                 | <a href="http://rexbelles.org">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Reaching for Excellence - No Child is Left Behind</p> <p><b>Mission:</b> The mission of Rex Bell Elementary School is to foster high academic, social, and emotional growth for each child in a safe, nurturing environment, which celebrates achievements, cultures, families, and community pride.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

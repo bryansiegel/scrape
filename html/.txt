@@ -1,0 +1,258 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Home</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_2">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_3">
+<section class="fsElement fsResourceElement fsSlideshow hero-banner fsSlideshowHorizontal fsStatePlaying" data-source-element-id="3408" data-source-page-id="2" data-use-new="true" id="fsEl_3408">
+<header>
+<h2 class="fsElementTitle">HP Hero Slider</h2>
+</header>
+<div class="fsElementContent">
+<div class="fsElementSlideshow" data-adaptive-height="true" data-arrows="true" data-autoplay="true" data-autoplay-speed="10000" data-dots="true" data-fade="true" data-slides-to-show="1" data-vertical="false"><fieldset aria-controls="fsEl_3408" aria-label="slideshow controls" class="fsElementSlideshowControls"><button aria-hidden="false" aria-label="pause slideshow" class="fsSlideshowPause" value="pause slideshow"><span class="fsStyleSROnly">pause slideshow</span></button><button aria-hidden="true" aria-label="play slideshow" class="fsSlideshowPlay fsStateHidden" value="play slideshow"><span class="fsStyleSROnly">play slideshow</span></button></fieldset><article class="fsResource fsStyleAutoclear fsResourceTypeImage"><figure><picture><img alt="CCSD’s Got Talent Crowns a New Grand Champion" data-aspect-ratio="0.5347222222222222" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772841726/ccsdnet/mzmp16jnz3bpxx7ilssh/Homepage-1440x770-c.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772841726/ccsdnet/mzmp16jnz3bpxx7ilssh/Homepage-1440x770-c.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772841726/ccsdnet/mzmp16jnz3bpxx7ilssh/Homepage-1440x770-c.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772841726/ccsdnet/mzmp16jnz3bpxx7ilssh/Homepage-1440x770-c.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1772841726/ccsdnet/mzmp16jnz3bpxx7ilssh/Homepage-1440x770-c.jpg%22,%22width%22:1440}]" data-permitted-user="true" data-resource-title="CCSD’s Got Talent Crowns a New Grand Champion" data-resource-uuid="91d3c6eb-25c5-43df-b69e-84df177af572"/></picture><figcaption id="fsRes_28855_figcaption"><div class="fsTitle fsResourceTitle">CCSD’s Got Talent Crowns a New Grand Champion</div><p><a href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/ccsds-got-talent-crowns-a-new-grand-champion" target="_blank">Learn more</a></p></figcaption></figure></article><article class="fsResource fsStyleAutoclear fsResourceTypeImage"><figure><picture><img alt="Answering Magnet Lottery Questions" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772833145/ccsdnet/rrazlfjovoapbscpvple/IMG_0945.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772833145/ccsdnet/rrazlfjovoapbscpvple/IMG_0945.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772833145/ccsdnet/rrazlfjovoapbscpvple/IMG_0945.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772833145/ccsdnet/rrazlfjovoapbscpvple/IMG_0945.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1772833145/ccsdnet/rrazlfjovoapbscpvple/IMG_0945.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1772833145/ccsdnet/rrazlfjovoapbscpvple/IMG_0945.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="Answering Magnet Lottery Questions" data-resource-uuid="a59bd1c4-4fec-4f0f-8b95-714ae00935b4"/></picture><figcaption id="fsRes_28837_figcaption"><div class="fsTitle fsResourceTitle">Answering Magnet Lottery Questions</div><p><a href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/answering-magnet-lottery-questions" target="_blank">Learn more</a></p></figcaption></figure></article><article class="fsResource fsStyleAutoclear fsResourceTypeImage"><figure><picture><img alt="Two CCSD Educators Named STEM Teachers of the Year by State of Nevada" data-aspect-ratio="0.5624338624338624" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772750363/ccsdnet/msjhjeksnddacjrgeoeg/OSITSTEMTeacherAwardsv2.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772750363/ccsdnet/msjhjeksnddacjrgeoeg/OSITSTEMTeacherAwardsv2.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772750363/ccsdnet/msjhjeksnddacjrgeoeg/OSITSTEMTeacherAwardsv2.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772750363/ccsdnet/msjhjeksnddacjrgeoeg/OSITSTEMTeacherAwardsv2.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1772750363/ccsdnet/msjhjeksnddacjrgeoeg/OSITSTEMTeacherAwardsv2.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1772750363/ccsdnet/msjhjeksnddacjrgeoeg/OSITSTEMTeacherAwardsv2.jpg%22,%22width%22:1890}]" data-permitted-user="true" data-resource-title="Two CCSD Educators Named STEM Teachers of the Year by State of Nevada" data-resource-uuid="ad33c8c8-0914-4b17-9aa6-523c44c91aef"/></picture><figcaption id="fsRes_28786_figcaption"><div class="fsTitle fsResourceTitle">Two CCSD Educators Named STEM Teachers of the Year by State of Nevada</div><p><a href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/two-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada" target="_blank">Learn more</a></p></figcaption></figure></article><article class="fsResource fsStyleAutoclear fsResourceTypeImage"><figure><picture><img alt="CCSD Invites Families to Community Engagement Meeting" data-aspect-ratio="0.5347222222222222" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772052829/ccsdnet/rguzlvznpc6pewg8cr90/TrusteemeetingCavazos.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772052829/ccsdnet/rguzlvznpc6pewg8cr90/TrusteemeetingCavazos.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772052829/ccsdnet/rguzlvznpc6pewg8cr90/TrusteemeetingCavazos.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772052829/ccsdnet/rguzlvznpc6pewg8cr90/TrusteemeetingCavazos.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1772052829/ccsdnet/rguzlvznpc6pewg8cr90/TrusteemeetingCavazos.jpg%22,%22width%22:1440}]" data-permitted-user="true" data-resource-title="CCSD Invites Families to Community Engagement Meeting" data-resource-uuid="0e9dc40d-c7a0-4478-a42f-39a66efcbc67"/></picture><figcaption id="fsRes_28213_figcaption"><div class="fsTitle fsResourceTitle">CCSD Invites Families to Community Engagement Meeting</div><p><a href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/ccsd-invites-families-to-community-engagement-meeting-march10" target="_blank">Learn more</a></p></figcaption></figure></article><article class="fsResource fsStyleAutoclear fsResourceTypeImage"><figure><picture><img alt="CCSD invites parents to Parents Empowering Parents event" data-aspect-ratio="0.6668181818181819" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772477240/ccsdnet/xjfvltqykksmbreqguzt/ParentsEmpoweringParentsbanner.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772477240/ccsdnet/xjfvltqykksmbreqguzt/ParentsEmpoweringParentsbanner.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772477240/ccsdnet/xjfvltqykksmbreqguzt/ParentsEmpoweringParentsbanner.png%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772477240/ccsdnet/xjfvltqykksmbreqguzt/ParentsEmpoweringParentsbanner.png%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1772477240/ccsdnet/xjfvltqykksmbreqguzt/ParentsEmpoweringParentsbanner.png%22,%22width%22:1600}]" data-permitted-user="true" data-resource-title="CCSD invites parents to Parents Empowering Parents event" data-resource-uuid="365dea69-cdb8-4c3c-bdf2-349af7cfeb42"/></picture><figcaption id="fsRes_28389_figcaption"><div class="fsTitle fsResourceTitle">CCSD invites parents to Parents Empowering Parents event</div><p><a href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/ccsd-invites-parents-to-parents-empowering-parents-event" target="_blank">Learn more </a></p></figcaption></figure></article></div><button aria-label="Previous" class="fsPrevButton fsLeftArrow">&lt;</button><button aria-label="Next" class="fsNextButton fsRightArrow">&gt;</button>
+</div>
+</section>
+<section class="fsElement fsNavigation fsList hp--icons--nav" data-use-new="true" id="fsEl_3509">
+<header>
+<h2 class="fsElementTitle">HP Icons Nav</h2>
+</header>
+<div class="fsElementContent">
+<nav><ul class="fsNavLevel1"><li class="icon-heart-hand"><a href="/resources/safevoice">SafeVoice</a></li><li class="icon-classroom"><a href="https://ssd.ccsd.net" target="_blank">Special Education<span class="fsStyleSROnly" data-nosnippet="">(opens in new window/tab)</span></a></li><li class="icon-info"><a href="/ccsd-infinite-campus">INFINITE CAMPUS</a></li><li class="icon-calendar"><a href="/calendars">Calendars</a></li><li class="icon-handshake"><a href="/community">Get Involved</a></li><li class="icon-bullhorn"><a href="/about/newsroom" target="_blank">Newsroom<span class="fsStyleSROnly" data-nosnippet="">(opens in new window/tab)</span></a></li><li class="icon-bus"><a href="/transportation" target="_blank">transportation<span class="fsStyleSROnly" data-nosnippet="">(opens in new window/tab)</span></a></li><li class="icon-school"><a href="https://itsyourchoice.ccsd.net/" target="_blank">Open Enrollment<span class="fsStyleSROnly" data-nosnippet="">(opens in new window/tab)</span></a></li><li class="icon-map"><a href="/zoning">Zoning</a></li><li class="icon-teamwork"><a href="/about/school-board">Trustees</a></li></ul></nav>
+</div>
+</section>
+<section class="fsElement fsContent site--preloader" data-use-new="true" id="fsEl_3511">
+<header>
+<h2 class="fsElementTitle">Site Preloader</h2>
+<div class="fsElementHeaderContent">
+<figure class="fsImage"><picture><img alt="Clark County School District" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/v1747736792/ccsdnet/aq9vdxdimpnyfvgzmdha/preloader-logo1.svg%22,%22width%22:191}]" data-resource-description="" data-resource-filename="preloader-logo1.svg" data-resource-uuid="57fc74e1-8996-4332-95c2-6a35644a5322" src=""/></picture></figure>
+</div>
+</header>
+<div class="fsElementContent">
+<figure class="fsImage"><picture><img alt="Clark County School District" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/v1747736792/ccsdnet/gbxazl5ovyckcrjaddh8/preloader-logo2.svg%22,%22width%22:192}]" data-resource-description="" data-resource-filename="preloader-logo2.svg" data-resource-uuid="5b74efde-6ac3-4b68-9f9f-7e092963e0c0" src=""/></picture></figure>
+</div>
+<footer>
+<div class="fsElementFooterContent">
+<figure class="fsImage"><picture><img alt="Clark County School District" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/v1747736792/ccsdnet/uwaoxa7hedod0yyn37ye/preloader-logo3.svg%22,%22width%22:193}]" data-resource-description="" data-resource-filename="preloader-logo3.svg" data-resource-uuid="a6117df3-dffc-4d7f-9fc7-b4c6fb39f252" src=""/></picture></figure>
+</div>
+</footer>
+</section>
+<div class="fsElement fsLayout fsTwoColumnWideRightLayout super-message fsStyleAutoclear" data-use-new="true" id="fsEl_6926">
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_6927">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="6928" data-source-page-id="2" data-use-new="true" id="fsEl_6928">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Jhone Ebert" data-aspect-ratio="0.8316666666666667" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755191751/ccsdnet/auttiaogbne46v6dlnt5/jhone-happy.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755191751/ccsdnet/auttiaogbne46v6dlnt5/jhone-happy.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755191751/ccsdnet/auttiaogbne46v6dlnt5/jhone-happy.jpg%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="jhone-happy.jpg" data-resource-uuid="03057df0-4520-4983-9751-111297575819"/></picture></figure></article>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_6929">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6930">
+<div class="fsElementContent">
+<div>
+<h1>Welcome to Clark County School District</h1>
+<h2>The Destination District</h2>
+<p>What does it mean to be a Destination District? It means that students, families, and employees choose the Clark County School District because they believe in what is possible here!</p>
+<p><strong>We will reach our Destination when we see:</strong></p>
+<ul>
+<li>Increased student outcomes and enrollment;</li>
+<li>Employees who feel respected, safe, fulfilled, and committed; and</li>
+<li>Community stakeholders who feel included and support CCSD’s priorities.</li>
+</ul>
+<p>CCSD leaders are laser-focused on student success with a Destination in sight - a Destination in which every student is prepared for a bright future! We will invite you to join us every step along the way.</p>
+</div>
+<div style="padding-top:15px;">
+<p><span style="font-size:30px; font-weight:bold;">Jhone Ebert</span><br/>
+<strong>Superintendent</strong></p>
+<div>
+<div><a class="button-1" data-page-name="Superintendent" href="/fs/pages/1077">Learn More About Jhone Ebert</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnLayout hp-space-fix fsStyleAutoclear" data-use-new="true" id="fsEl_6936">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_6937">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6938">
+<div class="fsElementContent">
+<h3>Operation: Destination District</h3>
+<p>CCSD is at a pivotal moment for students, families, staff members, and our entire community as we work to transform our schools to meet the needs of today’s students and workforce.</p>
+<p>Superintendent Ebert’s 100-Day plan made strides in improving CCSD’s climate and culture. We’re building on increased student achievement with our focus on the “Core Four” academic priorities.</p>
+<h5>Up next</h5>
+<p>We are co-designing a strategic plan to set goals and allocate resources, a Facilities Master Plan to ensure every student has access to an up-to-date school with the technology and programming they need to succeed, and an efficiency study to ensure every taxpayer dollar is maximized.</p>
+<p><a class="button-1" data-page-name="Operation Destination District" href="/fs/pages/19300" target="_blank">Learn More about Operation Destination District</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_6939">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="10791" data-source-page-id="2" data-use-new="true" id="fsEl_10791">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Students in classroom Operation Destination District" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="0R3A4710.jpg" data-resource-uuid="b03edff7-8051-4b12-9e36-f138f35da592"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<section class="fsElement fsPostElement fsGrid hp-space-fix fsThumbnailRectangle fsThumbnailFull fsItemCount_4" data-board-id="51" data-overwrite-title="" data-use-new="true" id="fsEl_10832">
+<header>
+<h3 class="fsElementTitle">Newsroom</h3>
+</header>
+<div class="fsElementContent">
+<div class="fsElementControls">
+<div class="fsAlertFeeds">
+<a aria-label="Post RSS Feed" class="fsRSSIcon" data-boards='[{"id":51,"name":"CCSD Newsroom"}]' href="#" title="Post RSS Feed">
+<span class="fsStyleSROnly">Post RSS Feeds</span>
+</a> <a aria-label="Post Subscription Alerts" class="fsAlertsIcon" data-boards='[{"id":51,"name":"CCSD Newsroom","mailing_list_id":4}]' href="#" title="Post Subscription Alerts">
+<span class="fsStyleSROnly">Subscribe to Post Alerts</span>
+</a> </div>
+</div>
+<div class="fsListItems fsStyleFourColumns">
+<article aria-labelledby="fsArticle_10832_1954" class="fsStyleAutoclear fsBoard-51" data-authenticated-comments="true" data-post-id="1954">
+<a class="fsThumbnail fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/ccsds-got-talent-crowns-a-new-grand-champion" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/ccsds-got-talent-crowns-a-new-grand-champion"><div class="fsCroppedImage" data-aspect-ratio="0.5347222222222222" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772841621/ccsdnet/dakgmlppfxqvjdzx48ai/Newsletter-Landscape-1440x770-c.jpg","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772841621/ccsdnet/dakgmlppfxqvjdzx48ai/Newsletter-Landscape-1440x770-c.jpg","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772841621/ccsdnet/dakgmlppfxqvjdzx48ai/Newsletter-Landscape-1440x770-c.jpg","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772841621/ccsdnet/dakgmlppfxqvjdzx48ai/Newsletter-Landscape-1440x770-c.jpg","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1772841621/ccsdnet/dakgmlppfxqvjdzx48ai/Newsletter-Landscape-1440x770-c.jpg","width":1440}]' title="CCSD’s Got Talent Crowns a New Grand Champion"><img alt="CCSD’s Got Talent Crowns a New Grand Champion" class="fsStyleSROnly" data-aspect-ratio="0.5347222222222222" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772841621/ccsdnet/dakgmlppfxqvjdzx48ai/Newsletter-Landscape-1440x770-c.jpg","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772841621/ccsdnet/dakgmlppfxqvjdzx48ai/Newsletter-Landscape-1440x770-c.jpg","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772841621/ccsdnet/dakgmlppfxqvjdzx48ai/Newsletter-Landscape-1440x770-c.jpg","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772841621/ccsdnet/dakgmlppfxqvjdzx48ai/Newsletter-Landscape-1440x770-c.jpg","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1772841621/ccsdnet/dakgmlppfxqvjdzx48ai/Newsletter-Landscape-1440x770-c.jpg","width":1440}]'/></div></a>
+<div class="fsTitle" id="fsArticle_10832_1954">
+<a class="fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/ccsds-got-talent-crowns-a-new-grand-champion" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/ccsds-got-talent-crowns-a-new-grand-champion">
+			CCSD’s Got Talent Crowns a New Grand Champion
+</a></div>
+<a class="fsPostLink fsReadMoreLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/ccsds-got-talent-crowns-a-new-grand-champion" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/ccsds-got-talent-crowns-a-new-grand-champion">
+			Read More
+			<span class="fsStyleSROnly">about CCSD’s Got Talent Crowns a New Grand Champion</span>
+</a>
+<section class="fsSharingButtonsContainer fsSharingTypePost fsItemCount-5">
+<div class="fsSharingButtons">
+<a class="fsSharingLink fsSharingFacebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Fccsds-got-talent-crowns-a-new-grand-champion" rel="noopener" target="_blank" title="Share to Facebook"><span>Share to Facebook</span></a><a class="fsSharingLink fsSharingTwitter" href="https://twitter.com/intent/tweet?text=CCSD%E2%80%99s+Got+Talent+Crowns+a+New+Grand+Champion&amp;url=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Fccsds-got-talent-crowns-a-new-grand-champion" rel="noopener" target="_blank" title="Share to Twitter"><span>Share to Twitter</span></a><a class="fsSharingLink fsSharingLinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Fccsds-got-talent-crowns-a-new-grand-champion&amp;title=CCSD%E2%80%99s+Got+Talent+Crowns+a+New+Grand+Champion&amp;summary=" rel="noopener" target="_blank" title="Share to LinkedIn"><span>Share to LinkedIn</span></a><a class="fsSharingLink fsSharingPinterest" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Fccsds-got-talent-crowns-a-new-grand-champion&amp;media=https%3A%2F%2Fresources.finalsite.net%2Fimages%2Ff_auto%2Cq_auto%2Ct_image_size_1%2Fv1772841621%2Fccsdnet%2Fdakgmlppfxqvjdzx48ai%2FNewsletter-Landscape-1440x770-c.jpg&amp;description=" rel="noopener" target="_blank" title="Share to Pinterest"><span>Share to Pinterest</span></a><a class="fsSharingLink fsSharingEmail" href="mailto:?body=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Fccsds-got-talent-crowns-a-new-grand-champion" rel="noopener" title="Share to Email"><span>Share to Email</span></a>
+</div>
+</section>
+</article>
+<article aria-labelledby="fsArticle_10832_1953" class="fsStyleAutoclear fsBoard-51" data-authenticated-comments="true" data-post-id="1953">
+<a class="fsThumbnail fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/answering-magnet-lottery-questions" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/answering-magnet-lottery-questions"><div class="fsCroppedImage" data-aspect-ratio="0.5624338624338624" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":1600},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":1890}]' title="Answering Magnet Lottery questions"><img alt="Answering Magnet Lottery questions" class="fsStyleSROnly" data-aspect-ratio="0.5624338624338624" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":1600},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":1890}]'/></div></a>
+<div class="fsTitle" id="fsArticle_10832_1953">
+<a class="fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/answering-magnet-lottery-questions" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/answering-magnet-lottery-questions">
+			Answering Magnet Lottery Questions
+</a></div>
+<a class="fsPostLink fsReadMoreLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/answering-magnet-lottery-questions" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/answering-magnet-lottery-questions">
+			Read More
+			<span class="fsStyleSROnly">about Answering Magnet Lottery Questions</span>
+</a>
+<section class="fsSharingButtonsContainer fsSharingTypePost fsItemCount-5">
+<div class="fsSharingButtons">
+<a class="fsSharingLink fsSharingFacebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Fanswering-magnet-lottery-questions" rel="noopener" target="_blank" title="Share to Facebook"><span>Share to Facebook</span></a><a class="fsSharingLink fsSharingTwitter" href="https://twitter.com/intent/tweet?text=Answering+Magnet+Lottery+Questions&amp;url=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Fanswering-magnet-lottery-questions" rel="noopener" target="_blank" title="Share to Twitter"><span>Share to Twitter</span></a><a class="fsSharingLink fsSharingLinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Fanswering-magnet-lottery-questions&amp;title=Answering+Magnet+Lottery+Questions&amp;summary=" rel="noopener" target="_blank" title="Share to LinkedIn"><span>Share to LinkedIn</span></a><a class="fsSharingLink fsSharingPinterest" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Fanswering-magnet-lottery-questions&amp;media=https%3A%2F%2Fresources.finalsite.net%2Fimages%2Ff_auto%2Cq_auto%2Ct_image_size_1%2Fv1772834106%2Fccsdnet%2Fcomgppatqpsxqskcrt6g%2FMagnet.png&amp;description=" rel="noopener" target="_blank" title="Share to Pinterest"><span>Share to Pinterest</span></a><a class="fsSharingLink fsSharingEmail" href="mailto:?body=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Fanswering-magnet-lottery-questions" rel="noopener" title="Share to Email"><span>Share to Email</span></a>
+</div>
+</section>
+</article>
+<article aria-labelledby="fsArticle_10832_1946" class="fsStyleAutoclear fsBoard-51 fsTag-28" data-authenticated-comments="true" data-post-id="1946">
+<a class="fsThumbnail fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/two-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/two-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada"><div class="fsCroppedImage" data-aspect-ratio="0.5624338624338624" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":1600},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":1890}]' title="Two CCSD Educators Named STEM Teachers of the Year by State of Nevada"><img alt="Two CCSD Educators Named STEM Teachers of the Year by State of Nevada" class="fsStyleSROnly" data-aspect-ratio="0.5624338624338624" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":1600},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":1890}]'/></div></a>
+<div class="fsTitle" id="fsArticle_10832_1946">
+<a class="fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/two-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/two-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada">
+			Two CCSD Educators Named STEM Teachers of the Year by State of Nevada
+</a></div>
+<a class="fsPostLink fsReadMoreLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/two-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/two-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada">
+			Read More
+			<span class="fsStyleSROnly">about Two CCSD Educators Named STEM Teachers of the Year by State of Nevada</span>
+</a>
+<section class="fsSharingButtonsContainer fsSharingTypePost fsItemCount-5">
+<div class="fsSharingButtons">
+<a class="fsSharingLink fsSharingFacebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Ftwo-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada" rel="noopener" target="_blank" title="Share to Facebook"><span>Share to Facebook</span></a><a class="fsSharingLink fsSharingTwitter" href="https://twitter.com/intent/tweet?text=Two+CCSD+Educators+Named+STEM+Teachers+of+the+Year+by+State+of+Nevada&amp;url=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Ftwo-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada" rel="noopener" target="_blank" title="Share to Twitter"><span>Share to Twitter</span></a><a class="fsSharingLink fsSharingLinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Ftwo-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada&amp;title=Two+CCSD+Educators+Named+STEM+Teachers+of+the+Year+by+State+of+Nevada&amp;summary=" rel="noopener" target="_blank" title="Share to LinkedIn"><span>Share to LinkedIn</span></a><a class="fsSharingLink fsSharingPinterest" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Ftwo-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada&amp;media=https%3A%2F%2Fresources.finalsite.net%2Fimages%2Ff_auto%2Cq_auto%2Ct_image_size_1%2Fv1772749281%2Fccsdnet%2Fr3cop1fgfaolwhynss93%2FOSITSTEMTeacherAwards.png&amp;description=" rel="noopener" target="_blank" title="Share to Pinterest"><span>Share to Pinterest</span></a><a class="fsSharingLink fsSharingEmail" href="mailto:?body=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Ftwo-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada" rel="noopener" title="Share to Email"><span>Share to Email</span></a>
+</div>
+</section>
+</article>
+<article aria-labelledby="fsArticle_10832_1925" class="fsStyleAutoclear fsBoard-51" data-authenticated-comments="true" data-post-id="1925">
+<a class="fsThumbnail fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/today-is-ccsd-teacher-librarians-day-march-4" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/today-is-ccsd-teacher-librarians-day-march-4"><div class="fsCroppedImage" data-aspect-ratio="0.5347222222222222" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772583479/ccsdnet/idtbvvlaartoq45barbc/Newsroom2.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772583479/ccsdnet/idtbvvlaartoq45barbc/Newsroom2.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772583479/ccsdnet/idtbvvlaartoq45barbc/Newsroom2.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772583479/ccsdnet/idtbvvlaartoq45barbc/Newsroom2.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1772583479/ccsdnet/idtbvvlaartoq45barbc/Newsroom2.png","width":1440}]' title="Today is CCSD Teacher-Librarians Day, March 4"><img alt="Today is CCSD Teacher-Librarians Day, March 4" class="fsStyleSROnly" data-aspect-ratio="0.5347222222222222" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772583479/ccsdnet/idtbvvlaartoq45barbc/Newsroom2.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772583479/ccsdnet/idtbvvlaartoq45barbc/Newsroom2.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772583479/ccsdnet/idtbvvlaartoq45barbc/Newsroom2.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772583479/ccsdnet/idtbvvlaartoq45barbc/Newsroom2.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1772583479/ccsdnet/idtbvvlaartoq45barbc/Newsroom2.png","width":1440}]'/></div></a>
+<div class="fsTitle" id="fsArticle_10832_1925">
+<a class="fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/today-is-ccsd-teacher-librarians-day-march-4" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/today-is-ccsd-teacher-librarians-day-march-4">
+			 Today is CCSD Teacher-Librarians Day, March 4
+</a></div>
+<a class="fsPostLink fsReadMoreLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/today-is-ccsd-teacher-librarians-day-march-4" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/today-is-ccsd-teacher-librarians-day-march-4">
+			Read More
+			<span class="fsStyleSROnly">about  Today is CCSD Teacher-Librarians Day, March 4</span>
+</a>
+<section class="fsSharingButtonsContainer fsSharingTypePost fsItemCount-5">
+<div class="fsSharingButtons">
+<a class="fsSharingLink fsSharingFacebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Ftoday-is-ccsd-teacher-librarians-day-march-4" rel="noopener" target="_blank" title="Share to Facebook"><span>Share to Facebook</span></a><a class="fsSharingLink fsSharingTwitter" href="https://twitter.com/intent/tweet?text=+Today+is+CCSD+Teacher-Librarians+Day%2C+March+4&amp;url=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Ftoday-is-ccsd-teacher-librarians-day-march-4" rel="noopener" target="_blank" title="Share to Twitter"><span>Share to Twitter</span></a><a class="fsSharingLink fsSharingLinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Ftoday-is-ccsd-teacher-librarians-day-march-4&amp;title=+Today+is+CCSD+Teacher-Librarians+Day%2C+March+4&amp;summary=" rel="noopener" target="_blank" title="Share to LinkedIn"><span>Share to LinkedIn</span></a><a class="fsSharingLink fsSharingPinterest" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Ftoday-is-ccsd-teacher-librarians-day-march-4&amp;media=https%3A%2F%2Fresources.finalsite.net%2Fimages%2Ff_auto%2Cq_auto%2Ct_image_size_1%2Fv1772583479%2Fccsdnet%2Fidtbvvlaartoq45barbc%2FNewsroom2.png&amp;description=" rel="noopener" target="_blank" title="Share to Pinterest"><span>Share to Pinterest</span></a><a class="fsSharingLink fsSharingEmail" href="mailto:?body=https%3A%2F%2Fwww.ccsd.net%2Fall-news%2F~board%2Fccsd-newsroom%2Fpost%2Ftoday-is-ccsd-teacher-librarians-day-march-4" rel="noopener" title="Share to Email"><span>Share to Email</span></a>
+</div>
+</section>
+</article>
+</div>
+<button class="fsLoadMoreButton fsStyleDefaultButton" data-start-row="5" name="button" type="button">Load More News
+	
+</button>
+</div>
+</section>
+<div class="fsElement fsContent homepage-newsletter" data-use-new="true" id="fsEl_6950">
+<div class="fsElementContent">
+<div style="text-align:center;padding-top: 60px; padding-bottom: 60px;margin-bottom:0px !important;">
+<figure class="fsImage"><picture><img alt="" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755194533/ccsdnet/iqn4zm7tzqok6ljh0757/news-icon.png%22,%22width%22:46}]" data-resource-description="" data-resource-filename="news-icon.png" data-resource-uuid="b932de9a-a526-44e9-9574-21c41755a4cc" loading="lazy" role="presentation" src="" style=""/></picture></figure>
+<h3 style="color:white;">Sign-Up For Our Newsletter</h3>
+<h5 style="color:white; font-size:16px; font-weight:bold;">Stay Up-to-Date with everything at Clark County School District</h5>
+<a class="button-2" href="https://clark-county-school-district.read.axioshq.com/signup/community-newsletter" style="background-color:white !important;" target="_blank">sign up for the community connection newsletter</a></div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnLayout hp-space-fix fsStyleAutoclear" data-use-new="true" id="fsEl_10797">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_10798">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10800">
+<div class="fsElementContent">
+<h3>Board Meetings</h3>
+<p>Regular meetings of the Board of School Trustees are held the second and fourth Thursday of each month beginning at 5:00 p.m. and Work Sessions are held on the first Wednesday of the month at 4:00 p.m. Meetings are subject to change. All meetings can be viewed on live stream at ccsd.net on the day of the meeting. Special board meetings are held when necessary and are posted in advance in accordance with the Nevada open meeting law.</p>
+<p><a class="button-1" href="/about/school-board#meetings">School Board Meetings and Agendas</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_10799">
+<div class="fsElement fsCalendar fsList fsItemCount_2" data-calendar-ids="47" data-new-calendar-style="true" data-use-new="true" id="fsEl_10793">
+<div class="fsElementContent">
+<div class="fsElementControls">
+<a class="fsCalendarFilter" data-element-id="10793" href="#" title="Filters">
+<span class="fsCalendarFilterIcon">
+<span class="fsStyleSROnly">Calendar Filter</span>
+</span>
+</a>
+<div class="fsAlertFeeds">
+<a aria-label="Calendar RSS Feeds" class="fsRSSIcon" href="#" title="Calendar RSS">
+<span class="fsStyleSROnly">Calendar RSS Feeds</span>
+</a></div>
+</div>
+<div class="fsListItems">
+<div class="fsDayContainer">
+<article aria-labelledby="fsArticle_10793_43982815_2026-03-10T17:30:00Z_2026-03-10T18:30:00Z">
+<time class="fsDate" datetime="2026-03-10T10:30:00-07:00"><span class="fsMonth">Mar</span> <span class="fsDay">10</span> <span class="fsYear">2026</span></time>
+<div class="fsTitle" id="fsArticle_10793_43982815_2026-03-10T17:30:00Z_2026-03-10T18:30:00Z">
+<span aria-hidden="true" class="fsElementEventColorIcon" style="background:#f1af1c" title="Board Meetings"></span><span class="fsStyleSROnly">Board Meetings</span>
+<a class="fsCalendarEventLink" data-occur-id="43982815_2026-03-10T17:30:00Z_2026-03-10T18:30:00Z" href="#">Attendance Zone Advisory Commission Meeting</a>
+</div>
+<div class="fsEventDetails">
+<div class="fsTimeRange">
+<time class="fsStartTime" datetime="2026-03-10T10:30:00-07:00"><span class="fsHour">10</span>:<span class="fsMinute">30</span> <span class="fsMeridian">AM</span></time>
+<span class="fsTimeSeperator"> - </span>
+<time class="fsEndTime" datetime="2026-03-10T11:30:00-07:00"><span class="fsHour">11</span>:<span class="fsMinute">30</span> <span class="fsMeridian">AM</span></time>
+</div>
+</div>
+<a class="fsCalendarEventLink fsReadMoreLink" data-occur-id="43982815_2026-03-10T17:30:00Z_2026-03-10T18:30:00Z" href="#">
+					Read More
+					<span class="fsStyleSROnly">about Attendance Zone Advisory Commission Meeting</span>
+</a></article>
+</div>
+<div class="fsDayContainer">
+<article aria-labelledby="fsArticle_10793_23889853_2026-03-13T00:00:00Z_2026-03-13T01:00:00Z">
+<time class="fsDate" datetime="2026-03-12T17:00:00-07:00"><span class="fsMonth">Mar</span> <span class="fsDay">12</span> <span class="fsYear">2026</span></time>
+<div class="fsTitle" id="fsArticle_10793_23889853_2026-03-13T00:00:00Z_2026-03-13T01:00:00Z">
+<span aria-hidden="true" class="fsElementEventColorIcon" style="background:#f1af1c" title="Board Meetings"></span><span class="fsStyleSROnly">Board Meetings</span>
+<a class="fsCalendarEventLink" data-occur-id="23889853_2026-03-13T00:00:00Z_2026-03-13T01:00:00Z" href="#">Regular Board Meeting</a>
+</div>
+<div class="fsEventDetails">
+<div class="fsTimeRange">
+<time class="fsStartTime" datetime="2026-03-12T17:00:00-07:00"><span class="fsHour"> 5</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+<span class="fsTimeSeperator"> - </span>
+<time class="fsEndTime" datetime="2026-03-12T18:00:00-07:00"><span class="fsHour"> 6</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+</div>
+</div>
+<a class="fsCalendarEventLink fsReadMoreLink" data-occur-id="23889853_2026-03-13T00:00:00Z_2026-03-13T01:00:00Z" href="#">
+					Read More
+					<span class="fsStyleSROnly">about Regular Board Meeting</span>
+</a></article>
+</div>
+</div>
+<button class="fsLoadMoreButton fsStyleDefaultButton" data-start-row="3" name="button" type="button">Load More Board Meetings
+	
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -10,7 +10,8 @@
                 SNYDER, DON AND DEE ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Dalton, Stephanie A<br>
+                        
+Principal: Dalton, Stephanie A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-1360<br/>
                                 Fax: 702-799-1370<br/>
 <a href="http://maps.google.com/maps?q=8951 W FORD AVENUE,+LAS VEGAS,+NV+89148">Map</a>
-                                 | <a href="https://www.donanddeesnyderelementary.com/">Website</a> </br></br></br></p>
-<b>Region:</b> 2                                                    </div>
+                                 | <a href="https://www.donanddeesnyderelementary.com/">Website</a> 
+<b>Region:</b> 2                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

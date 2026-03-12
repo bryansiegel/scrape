@@ -10,7 +10,8 @@
                 ROGICH, SIG MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Harrison, Susan J<br>
+                        
+Principal: Harrison, Susan J<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6040<br/>
                                 Fax: 702-799-6094<br/>
 <a href="http://maps.google.com/maps?q=235 N PAVILION CENTER DR,+LAS VEGAS,+NV+89144">Map</a>
-                                 | <a href="https://www.rogichms.info/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.rogichms.info/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Education in Action</p> <p><b>Mission:</b> The Sig Rogich Middle School mission is to provide a positive middle school experience that fully prepares students with the academic skills, integrity, and moral responsibility that are necessary for success.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

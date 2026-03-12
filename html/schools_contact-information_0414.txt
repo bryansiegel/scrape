@@ -10,7 +10,8 @@
                 MCWILLIAMS, J. T. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Pokornik, Allison M<br>
+                        
+Principal: Pokornik, Allison M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4770<br/>
                                 Fax: 702-799-3170<br/>
 <a href="http://maps.google.com/maps?q=1315 HIAWATHA RD,+LAS VEGAS,+NV+89108">Map</a>
-                                 | <a href="http://jtmcwilliamsjets.org">Website</a> </br></br></br></p>
+                                 | <a href="http://jtmcwilliamsjets.org">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> J. T. Jets Soar Higher</p> <p><b>Mission:</b> The mission of J.T. McWilliams Elementary School is to ensure that all students learn and demonstrate the knowledge, skills, attitudes, and ethics necessary to succeed as contributing members of society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

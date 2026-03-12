@@ -10,7 +10,8 @@
                 LUNT, ROBERT ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Drakulich, Lisa J<br>
+                        
+Principal: Drakulich, Lisa J<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8360<br/>
                                 Fax: 702-799-8372<br/>
 <a href="http://maps.google.com/maps?q=2701 HARRIS STREET,+LAS VEGAS,+NV+89101">Map</a>
-                                 | <a href="http://lunt.ccsd.net/">Website</a> </br></br></br></p>
+                                 | <a href="http://lunt.ccsd.net/">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> Together, working for a brighter tomorrow.</p> <p><b>Mission:</b> It is the mission of Robert Lunt Elementary School to ensure opportunities and experiences for our students to meet the CCSD curriculum benchmarks by addressing individual needs and promoting social and personal growth. Every day is a new day for our children and staff to grow and learn through mutual respect in a positive, collaborative environment.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

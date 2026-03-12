@@ -12,7 +12,7 @@
 <p>
 	A student may be excused from compulsory attendance at a public school when written evidence (Parent’s/Guardian’s Guide to Homeschool and the State of Nevada Notice of Intent to Homeschool form) is provided to the Clark County School District (District) that a student will receive equivalent instruction. Upon receipt of the Parent’s/Guardian’s Guide to Homeschool and the State of Nevada Notice of Intent to Homeschool form and the student's educational plan, the District will provide a receipt to the student's parent/guardian.</p>
 <p>
-	For more information about Nevada homeschool law, refer to <a href="http://leg.state.nv.us/NRS/NRS-392.html#NRS392Sec070" target="_blank">Nevada Revised Statues NRS 392.070</a>.</p>
+	For more information about Nevada homeschool law, refer to <a href="http://leg.state.nv.us/NRS/NRS-392.html#NRS392Sec070" target="_blank">Nevada Revised Statutes NRS 392.070</a>.</p>
 <table class="simple-table" width="100%">
 <tbody>
 <tr>

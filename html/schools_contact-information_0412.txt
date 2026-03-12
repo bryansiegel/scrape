@@ -10,7 +10,8 @@
                 GRIFFITH, E.W. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Andrews, Lori J<br>
+                        
+Principal: Andrews, Lori J<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4200<br/>
                                 Fax: 702-799-0319<br/>
 <a href="http://maps.google.com/maps?q=324 ESSEX DRIVE,+LAS VEGAS,+NV+89107">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/griffith-elementary">Website</a> </br></br></br></p>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/griffith-elementary">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> </p> <p><b>Mission:</b> The vision of E.W. Griffith Elementary School is the achievement of all students to their greatest potential through high expectations, instructional excellence, engagement, and a supportive community.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

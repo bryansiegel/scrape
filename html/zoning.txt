@@ -1,0 +1,108 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Zoning</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10224">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_10225">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_10226">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_10227">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10294">
+<div class="fsElementContent">
+<p>The Clark County School District closely monitors enrollment trends, student demographics, and residential growth to ensure every school is prepared to meet the needs of its community. By carefully managing classroom space and planning for future development, CCSD works to maintain a stable and supportive learning environment for more than 280,000 students across 374 schools. To find your school(s), click on Zoning Search below. Questions may be directed to the <a href="https://sites.google.com/nv.ccsd.net/dzgwebsite/dzg" target="_blank">Demographics and Zoning Website</a>.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_10229">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="10716" data-source-page-id="1092" data-use-new="true" id="fsEl_10716">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><a class="fsResourceLink" data-permitted-user="true" data-preview="false" data-resource-title="map-sm.png" data-resource-type="Image" href="/zoning/zoning-search" target="_blank"><picture><img alt="map" data-aspect-ratio="0.7233333333333334" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755809835/ccsdnet/ylysfvmekukkrct3gips/map-sm.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755809835/ccsdnet/ylysfvmekukkrct3gips/map-sm.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755809835/ccsdnet/ylysfvmekukkrct3gips/map-sm.png%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="map-sm.png" data-resource-uuid="ff41b1f2-bf9d-4ab5-9f08-2811a4dff5d6"/></picture></a></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10231">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_10232">
+<div class="fsElement fsContent job-card" data-use-new="true" id="fsEl_10233">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="School &amp; Zoning Search" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755795842/ccsdnet/tun7k8ekfhji57z7v1zi/search.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="search.png" data-resource-uuid="fec37e50-c044-4102-9aa1-615d9371c65e" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Zoning Search</h4>
+<p><a class="button-1" href="/zoning/zoning-search/">View</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_10234">
+<div class="fsElement fsContent job-card" data-use-new="true" id="fsEl_10235">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="map" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756837633/ccsdnet/uenrjtd8sdvvrhxsnled/map.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="map.png" data-resource-uuid="a307d0ce-67df-4d35-8bac-d00b5f206d86" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Zoning Maps</h4>
+<p><a class="button-1" href="https://sites.google.com/nv.ccsd.net/dzgwebsite/resources#h.cu2e3xip40j4" target="_blank">View</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_10236">
+<div class="fsElement fsContent job-card" data-use-new="true" id="fsEl_10237">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="School" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756497081/ccsdnet/ufhrqr9ubkzdajqueu3e/school.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="school.png" data-resource-uuid="102c0c8d-fcba-4aa1-89c6-032723a05f8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Open Enrollment</h4>
+<p><a class="button-1" href="https://itsyourchoice.ccsd.net/" target="_blank">View</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10242">
+<div class="fsElementContent">
+<h2>Suggested Routes To School</h2>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10243">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_10244">
+<div class="fsElement fsContent job-card" data-use-new="true" id="fsEl_10245">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="map" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756837633/ccsdnet/uenrjtd8sdvvrhxsnled/map.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="map.png" data-resource-uuid="a307d0ce-67df-4d35-8bac-d00b5f206d86" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>City of Henderson</h4>
+<a class="button-1" href="https://www.cityofhenderson.com/government/departments/public-works/safe-routes-to-school" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_10246">
+<div class="fsElement fsContent job-card" data-use-new="true" id="fsEl_10247">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="map" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756837633/ccsdnet/uenrjtd8sdvvrhxsnled/map.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="map.png" data-resource-uuid="a307d0ce-67df-4d35-8bac-d00b5f206d86" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>City of Las Vegas</h4>
+<a class="button-1" href="https://www.lasvegasnevada.gov/Residents/Parking-Transportation/Parking/Safe-Routes-To-School" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_10248">
+<div class="fsElement fsContent job-card" data-use-new="true" id="fsEl_10249">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="map" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756837633/ccsdnet/uenrjtd8sdvvrhxsnled/map.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="map.png" data-resource-uuid="a307d0ce-67df-4d35-8bac-d00b5f206d86" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Clark County</h4>
+<a class="button-1" href="https://www.clarkcountynv.gov/government/departments/public_works_department/suggested_routes_to_school_maps.php" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -1,0 +1,52 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Homeschool</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_190019">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_190020">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_190021">
+<div class="fsElementContent">
+<p class="addr-txt">4204 Channel 10 Drive<br/>
+Las Vegas, NV 89119</p>
+<hr/>
+<h4>Kuldip Mangat, Coordinator</h4>
+<p>A student may be excused from compulsory attendance at a public school when written evidence (Parent’s/Guardian’s Guide to Homeschool and the State of Nevada Notice of Intent to Homeschool form) is provided to the Clark County School District (District) that a student will receive equivalent instruction. Upon receipt of the Parent’s/Guardian’s Guide to Homeschool and the State of Nevada Notice of Intent to Homeschool form and the student's educational plan, the District will provide a receipt to the student's parent/guardian.</p>
+<p>For more information about Nevada homeschool law, refer to <a contenteditable="false" href="http://leg.state.nv.us/NRS/NRS-392.html#NRS392Sec070" style="cursor: pointer;" target="_blank">Nevada Revised Statutes NRS 392.070</a>.</p>
+<table class="simple-table" width="100%">
+<tbody>
+<tr>
+<td align="center" width="100%"><a contenteditable="false" data-file-name="Parent_Guide_to_Homeschool.pdf" data-resource-uuid="7d626108-9230-4206-a128-ffd9aeef45e2" href="/fs/resource-manager/view/7d626108-9230-4206-a128-ffd9aeef45e2" style="cursor: pointer;" target="_blank">Parent’s/Guardian’s Guide to Homeschool and the State of Nevada Notice of Intent to Homeschool form</a></td>
+</tr>
+</tbody>
+</table>
+<hr/>
+<h4>Email: <br/>
+<a contenteditable="false" href="mailto:CCSDHomeschool@nv.ccsd.net" style="cursor: pointer;">CCSDHomeschool@nv.ccsd.net</a></h4>
+<p><em>Parent’s/Guardian’s Guide to Homeschool and the State of Nevada Notice of Intent to Homeschool</em> form and the student's educational plan must be submitted to your zoned school or via email: <a contenteditable="false" href="mailto:CCSDHomeschool@nv.ccsd.net" style="cursor: pointer;">CCSDHomeschool@nv.ccsd.net</a>. Once the <em>Parent’s/Guardian’s Guide to Homeschool and the State of Nevada Notice of Intent to Homeschool</em> form have been processed, the Clark County School District (District) will send the receipt to the parent/guardian listed mailing address via U.S. mail or via email.</p>
+<p>For assistance, call 702-799-8630.    </p>
+<p>Please note that the Education Services Division is the District's go-between for the required homeschool paperwork with the State of Nevada Department of Education.</p>
+<p>Contact your child's zoned high school for qualifying testing dates. </p>
+<hr/>
+<h3>Forms</h3>
+<ul>
+<li><a contenteditable="false" href="https://drive.google.com/file/d/1EDHWH95epECFddCU6Uml4RD-VW8W4RJy/view" style="cursor: pointer;" target="_blank">State of Nevada Notice of Intent to Homeschool</a></li>
+<li><a contenteditable="false" href="https://drive.google.com/file/d/1VF_n3dNeSoKLZnjhzXQCQG3nfk5IpujV/view" style="cursor: pointer;" target="_blank">Parent’s/Guardian’s Guide to Homeschool</a></li>
+<li><a contenteditable="false" href="https://drive.google.com/file/d/1OZc7jfAtLKzJ8V2jgWdYNVeTzLY_vIEJ/view" style="cursor: pointer;" target="_blank">Parent’s/Guardian’s Guide to Homeschool (Spanish)</a></li>
+<li><a contenteditable="false" href="https://ccsd.net/resources/education-services-division/notice-of-intent-to-participate.pdf" style="cursor: pointer;" target="_blank">State of Nevada Notice of Intent of Homeschooled Child to Participate in Programs and Activities</a></li>
+</ul>
+<h3>Helpful Links and Resources</h3>
+<ul>
+<li><a contenteditable="false" href="https://doe.nv.gov/craleo/nevada-homeschooling" style="cursor: pointer;" target="_blank">Nevada Department of Education — Homeschooling</a></li>
+<li><a contenteditable="false" href="https://ccsd.net/divisions/education-services-division/homeschool" style="cursor: pointer;" target="_blank">District — Homeschool Information</a></li>
+<li><a contenteditable="false" href="https://www.leg.state.nv.us/NAC/NAC-389.html#NAC389Sec680" style="cursor: pointer;" target="_blank">Nevada Administrative Code (NAC) 389.680 Credits for Correspondence Courses</a></li>
+<li><a contenteditable="false" data-page-name="Homeschool" href="/fs/pages/21699" style="cursor: pointer;" target="_blank">Nevada Homeschool Organization Website</a></li>
+<li><a contenteditable="false" href="https://doe.nv.gov/offices/office-of-teaching-and-learning/world-language/academic-content-standards" style="cursor: pointer;" target="_blank">Nevada Department of Education's Academic Standards</a></li>
+</ul>
+<p>Upon returning to the District, please note the following regulations and state laws regarding grade-level placement:</p>
+<ul>
+<li>District <a contenteditable="false" href="https://ccsd.net/district/policies-regulations/pdf/5123_R.pdf" style="cursor: pointer;" target="_blank">Regulation 5123</a> outlines the requirements for promotion, retention, and demotion of students, including credit requirements and criteria for promotion to high school on academic probation.</li>
+<li>District <a contenteditable="false" data-file-name="r-5111-age-of-entrance-an_1.pdf" data-resource-uuid="bcc2a90c-94e6-470b-9339-3290a0707c23" href="/fs/resource-manager/view/bcc2a90c-94e6-470b-9339-3290a0707c23" style="cursor: pointer;" target="_blank">Regulation 5111</a><a data-file-name="r-5111-age-of-entrance-an.pdf" data-resource-uuid="7a18bcb9-1d3f-42c7-bc5d-491943b5cd38" href="/fs/resource-manager/view/7a18bcb9-1d3f-42c7-bc5d-491943b5cd38" target="_blank"> </a>requires students "shall be placed in the age-appropriate grade based upon their age as of August 1, unless retained or demoted in accordance with District policies and regulations. Age-appropriate grade is determined by the ages provided in NRS 392.040.”</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</main>

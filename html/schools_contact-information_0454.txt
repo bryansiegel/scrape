@@ -10,7 +10,8 @@
                 CHEYENNE HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Nunez, Anthony M<br>
+                        
+Principal: Nunez, Anthony M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4830<br/>
                                 Fax: 702-799-4856<br/>
 <a href="http://maps.google.com/maps?q=3200 WEST ALEXANDER ROAD,+NORTH LAS VEGAS,+NV+89032">Map</a>
-                                 | <a href="http://cheyennehs.org/">Website</a> </br></br></br></p>
+                                 | <a href="http://cheyennehs.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Dedicated to Excellence</p> <p><b>Mission:</b> The Mission of Cheyenne High School is to prepare students academically and socially, enabling them to be well-equipped to pursue their goals and become successful members of our diverse and changing technological society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

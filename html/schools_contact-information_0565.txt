@@ -10,7 +10,8 @@
                 LIBERTY HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Bellow, Derek W<br>
+                        
+Principal: Bellow, Derek W<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-2270<br/>
                                 Fax: 702-799-6858<br/>
 <a href="http://maps.google.com/maps?q=3700 LIBERTY HEIGHTS AVENUE,+HENDERSON,+NV+89052">Map</a>
-                                 | <a href="http://www.libertyhighpatriots.com/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.libertyhighpatriots.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> A premier school with classical traditions ...</p> <p><b>Mission:</b> Liberty High School, through a classical studies program, prepares each learner to reach his or her academic potential in a content-rich environment for a life of scholarship and artistic appreciation in a democratic society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

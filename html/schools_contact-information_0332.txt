@@ -10,7 +10,8 @@
                 BRIDGER, JIM MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Fricker, Ramona G<br>
+                        
+Principal: Fricker, Ramona G<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7185<br/>
                                 Fax: 702-799-7074<br/>
 <a href="http://maps.google.com/maps?q=2505 NORTH BRUCE STREET,+NORTH LAS VEGAS,+NV+89030">Map</a>
-                                 | <a href="http://www.bridgerms.org/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.bridgerms.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Creating Choices for Our Future</p> <p><b>Mission:</b> The Academy at Jim Bridger Middle School is a student centered community that fosters rich learning environments focused on rigor, relevance, and relationships for all students.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 KESTERSON, LORNA J. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Wright, Kelly L<br>
+                        
+Principal: Wright, Kelly L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6300<br/>
                                 Fax: 702-799-6306<br/>
 <a href="http://maps.google.com/maps?q=231 BAILEY ISLAND DRIVE,+HENDERSON,+NV+89074">Map</a>
-                                 | <a href="http://www.kestersoncoyotes.com/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.kestersoncoyotes.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Kesterson Students are:  Cooperative, Accepting, Responsible, Intelligent, Noble, Giving Coyotes</p> <p><b>Mission:</b> The mission of Lorna J. Kesterson Elementary School is to prepare students to achieve their academic potential and develop necessary social skills to succeed as contributing members of society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

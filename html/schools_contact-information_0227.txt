@@ -10,7 +10,8 @@
                 LUNDY, EARL B. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Welch, Christopher J<br>
+                        
+Principal: Welch, Christopher J<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-872-5438<br/>
                                 Fax: 702-872-0510<br/>
 <a href="http://maps.google.com/maps?q=4405 YELLOW PINE AVE,+MT. CHARLESTON,+NV+89124">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/earl-b-lundy-ccsd/home">Website</a> </br></br></br></p>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/earl-b-lundy-ccsd/home">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> A School With A View</p> <p><b>Mission:</b> Lundy Elementary School will ensure that students achieve academically and demonstrate good citizenship, personal responsibility and respect for people and property.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

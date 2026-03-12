@@ -10,7 +10,8 @@
                 HERR, HELEN ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Hill, Denise R<br>
+                        
+Principal: Hill, Denise R<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8860<br/>
                                 Fax: 702-799-8884<br/>
 <a href="http://maps.google.com/maps?q=6475 EAGLE CREEK LANE,+LAS VEGAS,+NV+89156">Map</a>
-                                 | <a href="http://www.helenherr.com ">Website</a> </br></br></br></p>
+                                 | <a href="http://www.helenherr.com ">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> Above and Beyond</p> <p><b>Mission:</b> The mission of the Helen Herr Elementary School is to provide a safe, secure environment, which encourages and nurtures life-long learners who will be assets to their global society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

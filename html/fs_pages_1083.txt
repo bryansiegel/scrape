@@ -1,0 +1,134 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Parents &amp; Students</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_9860">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_9861">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_207439">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_207440">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207443">
+<div class="fsElementContent">
+<div><p>To help you more effectively monitor the progress of your child, the Clark County School District provides a web based system. This system will provide detailed, real-time information, including: Calendar, Schedules, Attendance, Grades, Health (Immunizations Only), Assignments, Academic Planner, Academic Progress, Fees/Payments, To Do Lists, Reports, District/School Notices, Cafeteria Balance, School Meals Application.</p>
+<p><a class="button-7" href="http://campusportal.ccsd.net" target="_blank">Visit Campus Parent/Student</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_207441">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="207442" data-source-page-id="1083" data-use-new="true" id="fsEl_207442">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><a class="fsResourceLink" data-permitted-user="true" data-preview="false" data-resource-title="Campus_New_2019_1.png" data-resource-type="Image" href="http://campusportal.ccsd.net/" target="_blank"><picture><img alt="Campus" data-aspect-ratio="1.1300448430493273" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1771955449/ccsdnet/ljom0zurvzgtee7ozhs3/Campus_New_2019_1.png%22,%22width%22:223}]" data-permitted-user="true" data-resource-title="Campus_New_2019_1.png" data-resource-uuid="8c70af66-b314-4dbf-af50-2a6639e132c8"/></picture></a></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsEmbed homepage-newsletter" data-use-new="true" id="fsEl_207446">
+<div class="fsElementContent">
+<div style="text-align:center;padding-top: 60px; padding-bottom: 60px;margin-bottom:0px !important;">
+<p style="color:white;font-size:52px;text-align:center;"><i class="fa-solid fa-circle-exclamation" role="presentation"></i></p>
+<p style="color:white;text-align:center;">For technical assistance, contact the Campus Liaison at your child's school during school hours. You may also email 0068-SDM-portalsupport@nv.ccsd.net, or call the Portal Help Desk at 702-799-PORT (702-799-7678), Monday-Friday between the hours of 6:00 AM-5:00 PM PST.</p>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideRightLayout fsStyleAutoclear" data-use-new="true" id="fsEl_207447">
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_207448">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207458">
+<div class="fsElementContent">
+<figure class="fsImage"><picture><img alt="Campus" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1771956496/ccsdnet/wilr82ggkct2uivyunp5/campus2.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1771956496/ccsdnet/wilr82ggkct2uivyunp5/campus2.jpg%22,%22width%22:390}]" data-resource-description="" data-resource-filename="campus2.jpg" data-resource-uuid="19dd0b3d-f1cf-4c6a-9b2f-3df750861084" src=""/></picture></figure>
+<p> </p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_207449">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207451">
+<div class="fsElementContent">
+<p>The Campus Parent and Campus Student mobile apps provide a fast and convenient way for parents and students to check grades, assignments, schedule, attendance and daily planner information on their IOS or Android device. The apps are available to our parents and students at no cost and can be downloaded directly from the iTunes App Store, Google play store or from the links provided below.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207490">
+<div class="fsElementContent">
+<h3 style="text-align: center;">Campus Student</h3>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_207492">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_207493">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207494">
+<div class="fsElementContent">
+<div style="text-align:center">
+<a href="https://itunes.apple.com/us/app/campus-student/id1384542200?mt=8" target="_blank">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Student Campus App Store" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1771956585/ccsdnet/gfnoqcuudztjn24ioiag/badge-appstore.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1771956585/ccsdnet/gfnoqcuudztjn24ioiag/badge-appstore.png%22,%22width%22:271}]" data-resource-description="" data-resource-filename="badge-appstore.png" data-resource-uuid="b4841891-1f28-4e0a-9572-438ae8acfd7d" loading="lazy" src="" style=""/></picture></figure>
+</a>
+</div>
+<p> </p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_207495">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207496">
+<div class="fsElementContent">
+<div style="text-align:center">
+<a href="https://play.google.com/store/apps/details?id=com.infinitecampus.student.campusportalhybrid" target="_blank">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Student Campus Google Play" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1771956650/ccsdnet/ezf10szgiihu5gwrebvs/badge-google.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1771956650/ccsdnet/ezf10szgiihu5gwrebvs/badge-google.png%22,%22width%22:271}]" data-resource-description="" data-resource-filename="badge-google.png" data-resource-uuid="fc9b2eb1-2d43-4aa4-b28b-1001b704be8f" loading="lazy" src="" style=""/></picture></figure>
+</a>
+</div>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207491">
+<header>
+<div class="fsElementHeaderContent">
+<div style="margin-bottom:2px !important; padding-bottom:2px !important;">
+</div>
+</div></header>
+<div class="fsElementContent">
+<h3 style="text-align: center;">Campus Parent</h3>
+</div>
+<footer>
+<div class="fsElementFooterContent">
+</div>
+</footer></div>
+
+</div>
+<div class="fsElement fsLayout fsTwoColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_207500">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_207501">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207502">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><a href="https://itunes.apple.com/us/app/campus-parent/id1384542785?mt=8" target="_blank"><picture><img alt="Parent Campus App Store" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1771956585/ccsdnet/gfnoqcuudztjn24ioiag/badge-appstore.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1771956585/ccsdnet/gfnoqcuudztjn24ioiag/badge-appstore.png%22,%22width%22:271}]" data-resource-description="" data-resource-filename="badge-appstore.png" data-resource-uuid="b4841891-1f28-4e0a-9572-438ae8acfd7d" loading="lazy" src="" style=""/></picture></a></figure>
+</div>
+<p> </p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_207503">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207504">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><a href="https://play.google.com/store/apps/details?id=com.infinitecampus.parent.campusportalhybrid&amp;pli=1" target="_blank"><picture><img alt="Parent Campus Google Play" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1771956650/ccsdnet/ezf10szgiihu5gwrebvs/badge-google.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1771956650/ccsdnet/ezf10szgiihu5gwrebvs/badge-google.png%22,%22width%22:271}]" data-resource-description="" data-resource-filename="badge-google.png" data-resource-uuid="fc9b2eb1-2d43-4aa4-b28b-1001b704be8f" loading="lazy" src="" style=""/></picture></a></figure>
+</div>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207505">
+<div class="fsElementContent">
+<h2>Campus Parent/Student Downloads</h2>
+<p><a data-file-name="CampusParent-StudentPortalMobileAppManual.pdf" data-resource-uuid="6992713d-8ac7-4600-8944-2f4597a2a961" href="/fs/resource-manager/view/6992713d-8ac7-4600-8944-2f4597a2a961" style="cursor: pointer;" target="_blank">Campus Parent-Student Portal and Mobile App Manual</a><br/>
+<a data-file-name="CampusParentStudent-FAQs.pdf" data-resource-uuid="9510480e-55d8-4fb1-a084-313ca7451f8f" href="/fs/resource-manager/view/9510480e-55d8-4fb1-a084-313ca7451f8f" style="cursor: pointer;" target="_blank">Campus Parent/Student - FAQs</a><br/>
+<a data-file-name="CampusMobileApp-FAQs2021.pdf" data-resource-uuid="7a1bfc42-a4f6-4b9c-9618-a3588716b4f2" href="/fs/resource-manager/view/7a1bfc42-a4f6-4b9c-9618-a3588716b4f2" style="cursor: pointer;" target="_blank">Campus Mobile App - FAQs</a><br/>
+<a data-file-name="CampusParentStudent-AccountSecurityEmailPassword_1.pdf" data-resource-uuid="ebc907a9-0172-4962-8b0f-adc863fd4421" href="/fs/resource-manager/view/ebc907a9-0172-4962-8b0f-adc863fd4421" style="cursor: pointer;" target="_blank">Campus Parent/Student - Account Security Email &amp; Password</a><br/>
+<a data-file-name="CampusStudent-HowAccessStudentAccount.pdf" data-resource-uuid="05aacee8-fbdd-40aa-a3ab-c355b1dd2490" href="/fs/resource-manager/view/05aacee8-fbdd-40aa-a3ab-c355b1dd2490" style="cursor: pointer;" target="_blank">Campus Student - How to Access</a><br/>
+<a data-file-name="CampusParent-How-to-Access.pdf" data-resource-uuid="52c1b103-e8d7-41e2-ab85-f13645f4c9ef" href="/fs/resource-manager/view/52c1b103-e8d7-41e2-ab85-f13645f4c9ef" style="cursor: pointer;" target="_blank">Campus Parent - How to Access</a></p>
+<p><b>Documentos Españolas</b></p>
+<p><a data-file-name="CampusParent-StudentPortalMobileAppManual-Spanish.pdf" data-resource-uuid="d3e2851f-4154-4139-a520-cd4a1623df7d" href="/fs/resource-manager/view/d3e2851f-4154-4139-a520-cd4a1623df7d" style="cursor: pointer;" target="_blank">Portal Campus para Padres/Estudiante y Aplicación Móvil Manual</a><br/>
+<a data-file-name="CampusParent-StudentFAQs-Spanish2022.pdf" data-resource-uuid="dc1e5230-1b20-44ea-b868-0e5f9198ae9c" href="/fs/resource-manager/view/dc1e5230-1b20-44ea-b868-0e5f9198ae9c" style="cursor: pointer;" target="_blank">Campus para Padres/Estudiantes - Preguntas Más Frecuentes</a><br/>
+<a data-file-name="CampusMobileApp-FAQs-Spanish2021.pdf" data-resource-uuid="84e706a5-25cf-4106-96c9-83662d0a76e4" href="/fs/resource-manager/view/84e706a5-25cf-4106-96c9-83662d0a76e4" style="cursor: pointer;" target="_blank">Aplicacion Movil Campus - Preguntas Más Frecuentes</a><br/>
+<a data-file-name="CampusParentStudentAccountSecurityEmailPassword-Spanish2022.pdf" data-resource-uuid="dbf674bb-c389-4281-9c1e-7cf8ee6dbb23" href="/fs/resource-manager/view/dbf674bb-c389-4281-9c1e-7cf8ee6dbb23" style="cursor: pointer;" target="_blank">Campus para Padres - Correo Electrónico de Seguridad de la Cuenta y Contraseña</a><br/>
+<a data-file-name="CampusParent-How-to-Access-Spanish.pdf" data-resource-uuid="e123e409-ba70-4ce0-aeb1-3cdfd21b0fb0" href="/fs/resource-manager/view/e123e409-ba70-4ce0-aeb1-3cdfd21b0fb0" style="cursor: pointer;" target="_blank">Como Acceder a la Cuenta Campus Parent</a></p>
+</div>
+</div>
+</div>
+</main>

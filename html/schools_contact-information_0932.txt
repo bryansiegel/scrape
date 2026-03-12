@@ -10,7 +10,8 @@
                 INDIAN SPRINGS HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Welch, Christopher J<br>
+                        
+Principal: Welch, Christopher J<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-0932<br/>
                                 Fax: 702-879-3142<br/>
 <a href="http://maps.google.com/maps?q=400 SKY ROAD,+INDIAN SPRINGS,+NV+89018">Map</a>
-                                 | <a href="https://tbirdterritory.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://tbirdterritory.com/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> You Can't Hide That Thunderbird Pride!</p> <p><b>Mission:</b> The Indian Springs Schools are dedicated to providing instruction that empowers students to become successful citizens and lifelong learners.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

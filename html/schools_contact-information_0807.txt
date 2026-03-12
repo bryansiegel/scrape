@@ -10,18 +10,19 @@
                 SOUTH CAREER AND TECHNICAL ACADEMY<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Thomas, Pate <br>
+                        
+Principal: Thomas, Pate R<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
-<!-- 								Thomas, Pate  --><!-- <br> -->
-                                GILESPIE STREET/EAST STARR AVE<br>
+<!-- 								Thomas, Pate R --><!-- <br> -->
+                                225 EAST STARR AVE<br>
                                 LAS VEGAS, NV 89183<br>
                                 Phone: 702-799-1111<br/>
                                 Fax: --<br/>
-<a href="http://maps.google.com/maps?q=GILESPIE STREET/EAST STARR AVE,+LAS VEGAS,+NV+89183">Map</a>
-                                 | <a href="">Website</a> </br></br></br></p>
-<b>Region:</b> </div>
+<a href="http://maps.google.com/maps?q=225 EAST STARR AVE,+LAS VEGAS,+NV+89183">Map</a>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/southcta-net/home">Website</a> 
+<b>Region:</b> 3                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

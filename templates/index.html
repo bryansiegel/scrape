@@ -67,6 +67,14 @@
                     </div>
                 </div>
             </div>
+            <div class="col-md-2">
+                <div class="card bg-dark text-white">
+                    <div class="card-body text-center">
+                        <h6 class="card-title">PDFs</h6>
+                        <h4 id="pdf-count">0</h4>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <!-- Search and Filter Section -->
@@ -88,6 +96,7 @@
                     <option value="general">General</option>
                     <option value="drive">Google Drive</option>
                     <option value="googleSites">Google Sites</option>
+                    <option value="pdf">PDFs</option>
                 </select>
             </div>
         </div>
@@ -200,6 +209,7 @@
                     document.getElementById('general-count').textContent = data.general.toLocaleString();
                     document.getElementById('drive-count').textContent = data.drive.toLocaleString();
                     document.getElementById('googleSites-count').textContent = data.googleSites.toLocaleString();
+                    document.getElementById('pdf-count').textContent = (data.pdf || 0).toLocaleString();
                 })
                 .catch(error => console.error('Error loading stats:', error));
         }
@@ -264,10 +274,11 @@
             
             const categoryColors = {
                 departments: 'success',
-                divisions: 'info', 
+                divisions: 'info',
                 general: 'warning',
                 drive: 'danger',
-                googleSites: 'secondary'
+                googleSites: 'secondary',
+                pdf: 'dark'
             };
             
             const resultsHtml = pageResults.map(item => `

@@ -1,0 +1,117 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Operational Services Unit</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_8799">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_8800">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208006">
+<div class="fsElementContent">
+<p><a class="button-7" href="https://www.ccsd.net/uploaded/themes/default_25/directory/org-chart/ccsd-org-chart.pdf">Organizational Chart</a></p>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_12079">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-12080" role="presentation">
+<a aria-controls="fsEl_12080" aria-selected="false" href="#fs-panel-12080" role="tab">Food Service Department</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207569" role="presentation">
+<a aria-controls="fsEl_207569" aria-selected="false" href="#fs-panel-207569" role="tab">Graphic Arts</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207567" role="presentation">
+<a aria-controls="fsEl_207567" aria-selected="false" href="#fs-panel-207567" role="tab">Mail Service</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12082" role="presentation">
+<a aria-controls="fsEl_12082" aria-selected="false" href="#fs-panel-12082" role="tab">Purchasing and Warehousing</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12086" role="presentation">
+<a aria-controls="fsEl_12086" aria-selected="false" href="#fs-panel-12086" role="tab">School Safety and Emergency Management Department</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12084" role="presentation">
+<a aria-controls="fsEl_12084" aria-selected="false" href="#fs-panel-12084" role="tab">Transportation Department</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12080" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12080" aria-expanded="false" href="#fs-panel-12080" role="button">Food Service Department</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12080"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12081">
+<div class="fsElementContent">
+<p><a class="button-1" data-page-name="Food Service" href="/fs/pages/20946">More Information</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207569" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207569" aria-expanded="false" href="#fs-panel-207569" role="button">Graphic Arts</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207569"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207570">
+<div class="fsElementContent">
+<p><a class="button-1" href="https://graphics.ccsd.net" target="_blank">More Information</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207567" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207567" aria-expanded="false" href="#fs-panel-207567" role="button">Mail Service</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207567"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207568">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12082" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12082" aria-expanded="false" href="#fs-panel-12082" role="button">Purchasing and Warehousing</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12082"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12083">
+<div class="fsElementContent">
+<p><a class="button-1" data-page-name="Purchasing and Warehousing" href="/fs/pages/21876">More Information</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12086" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12086" aria-expanded="false" href="#fs-panel-12086" role="button">School Safety and Emergency Management Department</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12086"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12087">
+<div class="fsElementContent">
+<div>
+<p>Welcome to the Clark County School District’s Department of School Safety and Emergency Management (SSEM). Our dedicated team collaborates with district stakeholders, law enforcement partners, and the community to ensure a safe learning environment for all students, staff, and visitors.</p>
+<p>Our mission is to mitigate, prepare for, respond to, and recover from emergency incidents through an using an all hazards approach that prioritizes Prevention, Response, and Recovery.</p>
+<p> <a class="button-1" href="https://schoolsafety.ccsd.net/" target="_blank">More Information</a></p></div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12084" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12084" aria-expanded="false" href="#fs-panel-12084" role="button">Transportation Department</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12084"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12085">
+<div class="fsElementContent">
+			Serving families of the Clark County School District for safe transportation to and from schools.
+<p><a class="button-1" href="https://transportation.ccsd.net" target="_blank">More Information</a></p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -10,7 +10,8 @@
                 KELLER, CHARLOTTE AND JERRY ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Carroll, Audrey N<br>
+                        
+Principal: Carroll, Audrey N<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-2140<br/>
                                 Fax: 702-799-2145<br/>
 <a href="http://maps.google.com/maps?q=5445 CEDAR AVENUE,+LAS VEGAS,+NV+89110">Map</a>
-                                 | <a href="https://www.cjkellerelementary.com">Website</a> </br></br></br></p>
-<b>Region:</b> 3                                                    </div>
+                                 | <a href="https://www.cjkellerelementary.com">Website</a> 
+<b>Region:</b> 3                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

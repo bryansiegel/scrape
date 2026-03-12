@@ -10,7 +10,8 @@
                 STEWART, HELEN J.<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Jackson, Palmer D<br>
+                        
+Principal: Jackson, Palmer D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5588<br/>
                                 Fax: 702-799-5592<br/>
 <a href="http://maps.google.com/maps?q=2375 EAST VIKING,+LAS VEGAS,+NV+89169">Map</a>
-                                 | <a href="https://www.ccsdnvstewart.com/">Website</a> </br></br></br></p>
-<b>Region:</b> SSD                                                             <p><b>Motto:</b> Helen J. Stewart School . . . Where Life Is Special</p> <p><b>Mission:</b> Mission Statement:   Helen J. Stewart provides students with learning activities to develop daily living, vocational, communication, social and functional academic skills. We believe the use of a comprehensive Community Based Instruction program is essential to the generalization of these skills.</p>
-</div>
+                                 | <a href="https://www.ccsdnvstewart.com/">Website</a> 
+<b>Region:</b> 2                                                             <p><b>Motto:</b> Helen J. Stewart School . . . Where Life Is Special</p> <p><b>Mission:</b> Mission Statement:   Helen J. Stewart provides students with learning activities to develop daily living, vocational, communication, social and functional academic skills. We believe the use of a comprehensive Community Based Instruction program is essential to the generalization of these skills.</p>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

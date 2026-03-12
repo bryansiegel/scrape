@@ -1,0 +1,107 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Data</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_170567">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_170568">
+<div class="fsElement fsContent sub-hero-border" data-use-new="true" id="fsEl_170569">
+<div class="fsElementContent">
+<h2>AB266</h2>
+<p><a contenteditable="false" data-file-name="2025-26-AB266-081825.pdf" data-resource-uuid="ba5b9d6e-5aa0-4cc8-8655-a77b25cd3056" href="/fs/resource-manager/view/ba5b9d6e-5aa0-4cc8-8655-a77b25cd3056" style="cursor: pointer;" target="_blank">2025-2026</a></p>
+<p><a contenteditable="false" data-file-name="2024-25-AB266-081225.pdf" data-resource-uuid="aeea5406-3f48-4d0c-bc3c-6e7633297dce" href="/fs/resource-manager/view/aeea5406-3f48-4d0c-bc3c-6e7633297dce" style="cursor: pointer;" target="_blank">2024-2025</a></p>
+<p><a contenteditable="false" data-file-name="2023-24-AB266.pdf" data-resource-uuid="2914dbb6-edd0-42da-80f2-ff9be17f3a85" href="/fs/resource-manager/view/2914dbb6-edd0-42da-80f2-ff9be17f3a85" style="cursor: pointer;" target="_blank">2023-2024</a></p>
+<p><a contenteditable="false" data-file-name="2022-23-AB266.pdf" data-resource-uuid="71bd85ef-eee5-401d-bbfd-cb0bbccce28b" href="/fs/resource-manager/view/71bd85ef-eee5-401d-bbfd-cb0bbccce28b" style="cursor: pointer;" target="_blank">2022-2023</a></p>
+<p><a contenteditable="false" data-file-name="2021-22-AB266.pdf" data-resource-uuid="100f52bc-6f92-4db4-942b-8a68277ed8b1" href="/fs/resource-manager/view/100f52bc-6f92-4db4-942b-8a68277ed8b1" style="cursor: pointer;" target="_blank">2021-2022</a></p>
+<p> </p>
+<h2>Employee Count by Group</h2>
+<p><a contenteditable="false" data-file-name="2025-2026_Employee_Count_By_Group_Monthly_Report-3.pdf" data-resource-uuid="006fa395-c83b-45c1-a79c-48f5316aaf39" href="/fs/resource-manager/view/006fa395-c83b-45c1-a79c-48f5316aaf39" style="cursor: pointer;" target="_blank">2025-2026</a></p>
+<p><a contenteditable="false" data-file-name="2024-2025-employee-count-by-group-monthly-report-712025_1.pdf" data-resource-uuid="a2ec575b-0cc2-45e1-8f52-3125041c0b86" href="/fs/resource-manager/view/a2ec575b-0cc2-45e1-8f52-3125041c0b86" style="cursor: pointer;" target="_blank">2024-2025</a></p>
+<p><a contenteditable="false" data-file-name="employee-count-by-group-monthly-report-07-01-24_1.pdf" data-resource-uuid="8c0416bc-3584-4322-9d7a-4fbd57608db6" href="/fs/resource-manager/view/8c0416bc-3584-4322-9d7a-4fbd57608db6" style="cursor: pointer;" target="_blank">2023-2024</a></p>
+<p><a contenteditable="false" data-file-name="employee-count-by-group-monthly-report-07-03-23_1.pdf" data-resource-uuid="36df9b04-a88c-41a4-a5ad-2e544922208b" href="/fs/resource-manager/view/36df9b04-a88c-41a4-a5ad-2e544922208b" style="cursor: pointer;" target="_blank">2022-2023</a></p>
+<p><a contenteditable="false" data-file-name="employee-count-by-group-monthly-report-07-05-22_1.pdf" data-resource-uuid="fa107c4f-c111-4f1c-b29e-f4a0acb5afe2" href="/fs/resource-manager/view/fa107c4f-c111-4f1c-b29e-f4a0acb5afe2" style="cursor: pointer;" target="_blank">2021-2022</a></p>
+<p><a contenteditable="false" data-file-name="employee-count-by-group-monthly-report-07-01-21_1.pdf" data-resource-uuid="8ec05919-0671-435e-b24a-109158f0e8c4" href="/fs/resource-manager/view/8ec05919-0671-435e-b24a-109158f0e8c4" style="cursor: pointer;" target="_blank">2020-2021</a></p>
+<p> </p>
+<h2>Employee Ethnicity by Group</h2>
+<p><a contenteditable="false" data-file-name="CCSD_Employee_Groups__5-Yr_Ethnicity_Comparison_10_1.pdf" data-resource-uuid="6db2f8ea-54ee-4597-94f3-99750eca3937" href="/fs/resource-manager/view/6db2f8ea-54ee-4597-94f3-99750eca3937" style="cursor: pointer;" target="_blank">2025-2026</a></p>
+<p><a contenteditable="false" data-file-name="CCSD-Employee-Groups-5-Yr-Ethnicity-Comparison-10-01-24_1.pdf" data-resource-uuid="1b2e48e5-810b-44ea-8401-2295225ef3e3" href="/fs/resource-manager/view/1b2e48e5-810b-44ea-8401-2295225ef3e3" style="cursor: pointer;" target="_blank">2024-2025</a></p>
+<p><a contenteditable="false" data-file-name="employee-groups-5-yr-ethnicity-comparison-10-01-23_1.pdf" data-resource-uuid="dea9acc8-0f93-4fed-b9f5-19e4bff47538" href="/fs/resource-manager/view/dea9acc8-0f93-4fed-b9f5-19e4bff47538" style="cursor: pointer;" target="_blank">2023-2024</a></p>
+<p><a contenteditable="false" data-file-name="employee-groups-5-yr-ethnicity-comparison-10-01-22_1.pdf" data-resource-uuid="d58a66a9-e39e-4514-9988-9e69c44ee37b" href="/fs/resource-manager/view/d58a66a9-e39e-4514-9988-9e69c44ee37b" style="cursor: pointer;" target="_blank">2022-2023</a></p>
+<p><a contenteditable="false" data-file-name="employee-groups-5-yr-ethnicity-comparison-10-01-21-rev_1.pdf" data-resource-uuid="87f83e26-d557-46cc-878a-86150a5aeaef" href="/fs/resource-manager/view/87f83e26-d557-46cc-878a-86150a5aeaef" style="cursor: pointer;" target="_blank">2021-2022</a></p>
+<p><a contenteditable="false" data-file-name="employee-groups-5-yr-ethnicity-comparison-10-01-20-rev.pdf" data-resource-uuid="c4f00e1e-59ab-4c58-a1f1-5166dbbd34c0" href="/fs/resource-manager/view/c4f00e1e-59ab-4c58-a1f1-5166dbbd34c0" style="cursor: pointer;" target="_blank">2020-2021</a></p>
+<p><a contenteditable="false" data-file-name="employee-groups-5-yr-ethnicity-comparison-09-25-19.pdf" data-resource-uuid="fc4cb20e-5392-46bc-aa4a-a71eec6067f3" href="/fs/resource-manager/view/fc4cb20e-5392-46bc-aa4a-a71eec6067f3" style="cursor: pointer;" target="_blank">2019-2020</a></p>
+<p><a contenteditable="false" data-file-name="employee-groups-5-yr-ethnicity-comparison-10-1-18.pdf" data-resource-uuid="04972a06-bf60-4fd4-a55a-c1a6d8feaeb2" href="/fs/resource-manager/view/04972a06-bf60-4fd4-a55a-c1a6d8feaeb2" style="cursor: pointer;" target="_blank">2018-2019</a></p>
+<p> </p>
+<h2>Class-Size Reduction (CSR) for Grades Kindergarten and Grades 1, 2, and 3</h2>
+<p>Nevada Revised Statutes (NRS) Chapter 388.700 requires, for each school quarter of a school year, the ratio in each school district of pupils per licensed teacher designated to teach, on a full-time basis, in classes where core curriculum is taught:</p>
+<ul>
+<li>(a) In kindergarten and grades 1 and 2, must not exceed 16 to 1, and in grade 3, must not exceed 18 to 1; or<br/>
+<br/>
+	(b) If a plan is approved pursuant to subsection 3 of NRS 388.720, must not exceed the ratio set forth in that plan for the grade levels specified in the plan.</li>
+</ul>
+<p>In determining this ratio, all licensed educational personnel who teach a grade level specified in paragraph (a) or a grade level specified in a plan that is approved pursuant to subsection 3 of NRS 388.720, as applicable for the school district, must be counted except teachers of art, music, physical education or special education, teachers who teach one or two specific subject areas to more than one classroom of pupils, counselors, librarians, administrators, deans, specialists, any administrators or other licensed educational personnel, including, without limitation, counselors, coaches and special education teachers, who may be present in a classroom but do not teach every pupil in the classroom and teachers who are not actively teaching pupils during a class period or who do not teach a subject area for which the ratio of pupils per licensed teacher is being determined.</p>
+<p>2. A school district may, within the limits of any plan adopted pursuant to NRS 388.720, assign a pupil whose enrollment in a grade occurs after the end of a quarter during the school year to any existing class regardless of the number of pupils in the class if the school district requests and is approved for a variance from the State Board pursuant to subsection 4.</p>
+<p>3. Each school district that includes one or more elementary schools which exceed the ratio of pupils per class during any quarter of a school year, as reported to the Department pursuant to NRS 388.725:</p>
+<ul>
+<li>(a) Set forth in subsection 1;<br/>
+<br/>
+	(b) Prescribed in conjunction with a legislative appropriation for the support of the class-size reduction program; or<br/>
+<br/>
+	(c) Defined by a legislatively approved alternative class-size reduction plan, if applicable to that school district,</li>
+</ul>
+<p>must request a variance for each such school for the next quarter of the current school year if a quarter remains in that school year or for the next quarter of the succeeding school year, as applicable, from the State Board by providing a written statement that includes the reasons for the request, the justification for exceeding the applicable prescribed ratio of pupils per class and a plan of actions that the school district will take to reduce the ratio of pupils per class.</p>
+<p>4. The State Board may grant to a school district a variance from the limitation on the number of pupils per class set forth in paragraph (a), (b) or (c) of subsection 3 for good cause, including the lack of available financial support specifically set aside for the reduction of pupil-teacher ratios.</p>
+<p>5. The State Board shall, on a quarterly basis, submit a report to the Interim Finance Committee on each variance requested by a school district pursuant to subsection 4 during the preceding quarter and, if a variance was granted, an identification of each elementary school for which a variance was granted and the specific justification for the variance.</p>
+<p>6. The State Board shall, on or before February 1 of each odd-numbered year, submit a report to the Legislature on:</p>
+<p>(a) Each variance requested by a school district pursuant to subsection 4 during the preceding biennium and, if a variance was granted, an identification of each elementary school for which variance was granted and the specific justification for the variance.<br/>
+<br/>
+(b) The data reported to it by the various school districts pursuant to subsection 2 of NRS 388.710, including an explanation of that data, and the current pupil-teacher ratios per class in the grade levels specified in paragraph (a) of subsection 1 or the grade levels specified in a plan that is approved pursuant to subsection 3 of NRS 388.720, as applicable for the school district.</p>
+<ul>
+</ul>
+<h2>Annual Report</h2>
+<p><a contenteditable="false" data-file-name="FY25-26_CCSD_CSR_Report.pdf" data-resource-uuid="fee88611-5ba4-4aae-92a2-b81e20d4ae3a" href="/fs/resource-manager/view/fee88611-5ba4-4aae-92a2-b81e20d4ae3a" style="cursor: pointer;" target="_blank">2025-26</a></p>
+<h2>Quarterly Reports</h2>
+<h3>2024-25</h3>
+<div><a contenteditable="false" data-file-name="2024-25-CSR-Q1_1.pdf" data-resource-uuid="82f6b2c9-a0aa-4202-9532-73aa601df0ae" href="/fs/resource-manager/view/82f6b2c9-a0aa-4202-9532-73aa601df0ae" style="cursor: pointer;" target="_blank">Quarter 1</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2024-25-CSR-Q2.pdf" style="cursor: pointer;" target="_blank">Quarter 2</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2024-25-CSR-Q3.pdf" style="cursor: pointer;" target="_blank">Quarter 3</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2024-25-CSR-Q4.pdf" style="cursor: pointer;" target="_blank">Quarter 4</a></div>
+<h3>2023-24</h3>
+<div><a contenteditable="false" href="/resources/human-resources-division/2023-24-CSR-Q1.pdf" style="cursor: pointer;" target="_blank">Quarter 1</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2023-24-CSR-Q2.pdf" style="cursor: pointer;" target="_blank">Quarter 2</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2023-24-CSR-Q3.pdf" style="cursor: pointer;" target="_blank">Quarter 3</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2023-24-CSR-Q4.pdf" style="cursor: pointer;" target="_blank">Quarter 4</a></div>
+<h3>2022-23</h3>
+<div><a contenteditable="false" href="/resources/human-resources-division/2022-23-CSR-Q1.pdf" style="cursor: pointer;" target="_blank">Quarter 1</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2022-23-CSR-Q2.pdf" style="cursor: pointer;" target="_blank">Quarter 2</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2022-23-CSR-Q3.pdf" style="cursor: pointer;" target="_blank">Quarter 3</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2022-23-CSR-Q4.pdf" style="cursor: pointer;" target="_blank">Quarter 4</a></div>
+<h3>2021-22</h3>
+<div><a contenteditable="false" href="/resources/human-resources-division/2021-22-CSR-Q1.pdf" style="cursor: pointer;" target="_blank">Quarter 1</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2021-22-CSR-Q2.pdf" style="cursor: pointer;" target="_blank">Quarter 2</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2021-22-CSR-Q3.pdf" style="cursor: pointer;" target="_blank">Quarter 3</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2021-22-CSR-Q4.pdf" style="cursor: pointer;" target="_blank">Quarter 4</a></div>
+<h3>2020-21</h3>
+<div><a contenteditable="false" href="/resources/human-resources-division/2020-21-CSR-Q1.pdf" style="cursor: pointer;" target="_blank">Quarter 1</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2020-21-CSR-Q2.pdf" style="cursor: pointer;" target="_blank">Quarter 2</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2020-21-CSR-Q3.pdf" style="cursor: pointer;" target="_blank">Quarter 3</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2020-21-CSR-Q4.pdf" style="cursor: pointer;" target="_blank">Quarter 4</a></div>
+<h3>2019-20</h3>
+<div><a contenteditable="false" href="/resources/human-resources-division/2019-20-CSR-Q1-rev.pdf" style="cursor: pointer;" target="_blank">Quarter 1</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2019-20-CSR-Q2.pdf" style="cursor: pointer;" target="_blank">Quarter 2</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2019-20-CSR-Q3.pdf" style="cursor: pointer;" target="_blank">Quarter 3</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2019-20-CSR-Q4.pdf" style="cursor: pointer;" target="_blank">Quarter 4</a></div>
+<div style="display:none; ">
+<h3>2018-19</h3>
+<div><a contenteditable="false" href="/resources/human-resources-division/2018-19-csr-q1.pdf" style="cursor: pointer;" target="_blank">Quarter 1</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2018-19-csr-q2.pdf" style="cursor: pointer;" target="_blank">Quarter 2</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2018-19-csr-q3.pdf" style="cursor: pointer;" target="_blank">Quarter 3</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2018-19-csr-q4.pdf" style="cursor: pointer;" target="_blank">Quarter 4</a></div>
+<h3>2017-18</h3>
+<div><a contenteditable="false" href="/resources/human-resources-division/2017-18-csr-q1.pdf" style="cursor: pointer;" target="_blank">Quarter 1</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2017-18-csr-q2.pdf" style="cursor: pointer;" target="_blank">Quarter 2</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2017-18-csr-q3.pdf" style="cursor: pointer;" target="_blank">Quarter 3</a></div>
+<div><a contenteditable="false" href="/resources/human-resources-division/2017-18-csr-q4.pdf" style="cursor: pointer;" target="_blank">Quarter 4</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -13,12 +13,16 @@
 <h2>Vision Statement of the Board of School Trustees</h2>
 <p>All students progress in school and graduate prepared to succeed and contribute in a diverse global society.</p>
 <hr/>
-<h3><a href="https://docs.google.com/document/d/1PIwUlrlx3-AabHq6UkwNM3Ua6AUkgNz6Wa8WvW-GV74/view?tab=t.0" target="_blank">NIAA Parent/Guardian Representative Application</a></h3>
+<!-- <h3><a href="https://docs.google.com/document/d/1PIwUlrlx3-AabHq6UkwNM3Ua6AUkgNz6Wa8WvW-GV74/view?tab=t.0" target="_blank">NIAA Parent/Guardian Representative Application</a></h3>
+
 <p>CCSD is accepting applications for a Parent/Guardian Representative to serve on the Nevada Interscholastic Activities Association (NIAA) Board of Control. The applicant must have a student currently participating in a sanctioned high school sport and meet eligibility requirements outlined in <a href="https://www.leg.state.nv.us/nac/NAC-385B.html#NAC385BSec110" target="_blank">NAC 385B</a>.</p>
+
 <p>The term begins September 23, 2025, and ends June 2028. Some travel to Reno may be required, with costs covered by NIAA. The application will be open for 14 days starting August 1, 2025.</p>
+
 <p>The selected parent/guardian must understand if they are selected to serve in this role representing their region within the NIAA, there is a potential loss of personal/professional (work) time as the NIAA Board of Control conducts four regularly scheduled seasonal meetings; may conduct, at any given time, an emergency meeting; and the NIAA office staff will conduct prescheduled committee meetings in addition to the NIAA Board of Control meetings. While there may be virtual options for some meetings, the member?s attendance may be required when virtual options are not available. Travel to Reno, Nevada, may be required to participate in meetings. The NIAA will provide coverage for all travel and lodging accommodations in Reno, Nevada. The selected member?s name, image, and likeness may be included in reports generated through the media, public commentary, and NIAA staff materials.</p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1rFRUfxcsd_HzI5sYrBsqu5NuaUaWcGflYQ8c4Z1xRtK5JQ/viewform" target="_blank">Online Application</a></p>
-<hr/>
+
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1rFRUfxcsd_HzI5sYrBsqu5NuaUaWcGflYQ8c4Z1xRtK5JQ/viewform" target="_blank">Online Application</a></p> -->
+<!-- <hr /> -->
 <!--
 <h2>Sex Education Advisory Committee Selection Process</h2>
    <p>Nevada Revised Statutes (NRS) <a href="https://www.leg.state.nv.us/nrs/nrs-389.html#NRS389Sec036" target="_blank">389.036</a> mmandates that a Sex Education Advisory Committee (SEAC) to the Board of School Trustees for all school districts be established. Clark County School District (District) <a href="https://ccsd.net/district/policies-regulations/pdf/6123_R.pdf" target="_blank">Regulation 6123</a> and <a href="https://ccsd.net/district/policies-regulations/pdf/6123_P.pdf" target="_blank">Policy 6123</a>, Instruction on the Human Immunodeficiency Virus, Human
@@ -86,12 +90,12 @@ No exceptions will be made.  Postmarks will not be considered.
 <a name="meetings"></a>
 <h2>Upcoming Board Meetings</h2>
 <ul>
-<li>Thursday, Aug 14, 2025, 05:00 pm<br/><span class="note">Regular Board Meeting</span></li>
-<li>Thursday, Aug 28, 2025, 05:00 pm<br/><span class="note">Regular Board Meeting</span></li>
-<li>Wednesday, Sep 03, 2025, 04:00 pm<br/><span class="note">Work Session</span></li>
 <li>Thursday, Sep 11, 2025, 05:00 pm<br/><span class="note">Regular Board Meeting</span></li>
 <li>Thursday, Sep 25, 2025, 05:00 pm<br/><span class="note">Regular Board Meeting</span></li>
 <li>Wednesday, Oct 01, 2025, 04:00 pm<br/><span class="note">Work Session</span></li>
+<li>Thursday, Oct 09, 2025, 05:00 pm<br/><span class="note">Regular Board Meeting</span></li>
+<li>Thursday, Oct 30, 2025, 05:00 pm<br/><span class="note">Regular Board Meeting</span></li>
+<li>Wednesday, Nov 05, 2025, 04:00 pm<br/><span class="note">Work Session</span></li>
 </ul>
 </td>
 <td width="50%">
@@ -130,7 +134,7 @@ No exceptions will be made.  Postmarks will not be considered.
 <p>The Clark County Board of School Trustees is a dedicated group of community leaders who are elected to overlapping four-year terms and represent a specific geographic region of Clark County. Although each trustee represents a different region, they are dedicated to ensuring the success of every student in the district through clear, concise direction to the superintendent. The trustees bring a wealth of experience and concern for children to their position.</p>
 <p>
 <ul>
-<li><a href="pdf/maps/2025-2026/DZG-96141-Trustee-Districts.pdf" target="_blank">Board of Trustee's District Map (PDF)</a></li>
+<li><a href="https://drive.google.com/file/d/1kjsztZVWGi72b82ojjKZWQkTDDfyLc1E/view" target="_blank">Board of Trustee's District Map (PDF)</a></li>
 <li><a href="board-activities-calendar.php">Board of Trustees Activities Calendar</a></li>
 <li><a href="contact/all">Contact a Board Member</a></li>
 </ul>
@@ -138,13 +142,13 @@ No exceptions will be made.  Postmarks will not be considered.
 <hr/>
 <h2>Trustee District Maps</h2>
 <ul>
-<li><a href="pdf/maps/2025-2026/DZG-96142-2025-26-District-A-BOST.pdf" target="_blank">District A (PDF)</a></li>
-<li><a href="pdf/maps/2025-2026/DZG-96143-2025-26-District-B-BOST.pdf" target="_blank">District B (PDF)</a></li>
-<li><a href="pdf/maps/2025-2026/DZG-96144-2025-26-District-C-BOST.pdf" target="_blank">District C (PDF)</a></li>
-<li><a href="pdf/maps/2025-2026/DZG-96145-2025-26-District-D-BOST.pdf" target="_blank">District D (PDF)</a></li>
-<li><a href="pdf/maps/2025-2026/DZG-96146-2025-26-District-E-BOST.pdf" target="_blank">District E (PDF)</a></li>
-<li><a href="pdf/maps/2025-2026/DZG-96147-2025-26-District-F-BOST.pdf" target="_blank">District F (PDF)</a></li>
-<li><a href="pdf/maps/2025-2026/DZG-96148-2025-26-District-G-BOST.pdf" target="_blank">District G (PDF)</a></li>
+<li><a href="https://drive.google.com/file/d/1KujTTr7WyswE6XS4xp5dS7gCVLgr59--/view" target="_blank">District A (PDF)</a></li>
+<li><a href="https://drive.google.com/file/d/1iS7efqb4rMRYpiu7zvwEmeJ0rfV6ftPk/view" target="_blank">District B (PDF)</a></li>
+<li><a href="https://drive.google.com/file/d/1h-5uaJ5xpdOJR1x2IUpCiv9ItDu5foM5/view" target="_blank">District C (PDF)</a></li>
+<li><a href="https://drive.google.com/file/d/1ijbHEzBjtMM_BXe8T9u5IY1aoAznkLPC/view" target="_blank">District D (PDF)</a></li>
+<li><a href="https://drive.google.com/file/d/17qZ1ne9e4jddY7sn7AetV6ILAL6h8k1f/view" target="_blank">District E (PDF)</a></li>
+<li><a href="https://drive.google.com/file/d/1VF_EJBN5PagHLqVNaqPBT9-QROvDXlmP/view" target="_blank">District F (PDF)</a></li>
+<li><a href="https://drive.google.com/file/d/1-n1hL7GEnA7iQvV32klD3K9k71_aF9Gy/view" target="_blank">District G (PDF)</a></li>
 </ul>
 <hr/>
 <table width="100%">

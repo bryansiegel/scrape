@@ -10,7 +10,8 @@
                 HARMON, HARLEY ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Casillas, Magdalena <br>
+                        
+Principal: Casillas, Magdalena<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7740<br/>
                                 Fax: 702-799-7748<br/>
 <a href="http://maps.google.com/maps?q=4820 E. MESA VISTA AVENUE,+LAS VEGAS,+NV+89120">Map</a>
-                                 | <a href="https://harleyharmonelementary.weebly.com/ ">Website</a> </br></br></br></p>
+                                 | <a href="https://harleyharmonelementary.weebly.com/ ">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> WORK - PRIDE - EXCELLENCE</p> <p><b>Mission:</b> All students will achieve academic excellence through rigorous instruction and social-emotional-behavioral learning in order to become lifelong learners, collaborators, and strategic thinkers.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

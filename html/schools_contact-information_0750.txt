@@ -10,7 +10,8 @@
                 JONES BLACKHURST, JAN ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Boccia, Jennifer L<br>
+                        
+Principal: Boccia, Jennifer L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-1252<br/>
                                 Fax: 702-799-1254<br/>
 <a href="http://maps.google.com/maps?q=11141 S. PIONEER WAY,+LAS VEGAS,+NV+89179">Map</a>
-                                 | <a href="http://www.jonesblackhurst.net">Website</a> </br></br></br></p>
-<b>Region:</b> 2                                                    </div>
+                                 | <a href="http://www.jonesblackhurst.net">Website</a> 
+<b>Region:</b> 2                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

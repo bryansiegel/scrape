@@ -1,64 +1,29 @@
-<div class="content-wrap" id="content_wrap">
-<div class="main-content-wrap" id="main_content_wrap" role="main">
-<!-- MAIN CONTENT -->
-<div id="main_content">
-<section class="content-holder">
-<h1>Schools General Information</h1>
-<h2>Zoning Information</h2>
-<ul>
-<li><a href="/schools/zoning/">Zoning Search and Maps</a></li>
-</ul>
-<hr/>
-<h2>School Contact Information</h2>
-<ul>
-<li><a href="/schools/contact-information/">Search for a School</a></li>
-<li><a href="/schools/websites/">List of School Websites</a></li>
-<li><a href="/district/directory/resources/pdf/school-telephone-directory.pdf">School Telephone Directory (PDF)</a></li>
-<li><a href="/schools/magnet-cta/">Magnet Schools and Career &amp; Technical Academies</a></li>
-<!-- 							<li><a href="/schools/summer-school/">Summer School Information</a></li> -->
-</ul>
-<hr/>
-<h2>School Accountability Reports</h2>
-<p><a href="/schools/accountability-reports">School Accountability Reports</a> contain detailed information about schools in the Clark County School District, as well as charter schools. Annual reports are prepared in compliance with the federal No Child Left Behind Act (NCLB) and Nevada Revised Statute (NRS) 385. Accountability reports are used by teachers and administrators as they develop academic plans to increase achievement of all students.</p>
-<hr/>
-<h2>Firearms Confiscation Report</h2>
-<ul>
-<li><a href="https://ccsd.net/schools/firearms-confiscation-report/">Firearms Confiscation Report</a></li>
-</ul>
-<hr/>
-<h2>School Performance Plans</h2>
-<p><a href="https://drive.google.com/drive/folders/1v2I_SvexstJk2AGA3THUyvqoB7a0W4Ol">School Performance Plans</a> contain detailed information about schools in the Clark County School District, as well as charter schools. Plans are prepared in compliance with the Nevada Revised Statutes (NRS) 385A.650, 388G.700, and 388G.710. School Performance Plans identify goals and improvement strategies, along with detailed action steps designed to increase the achievement of all students.</p>
-<!--
-					<hr />
-					<h2>District School Improvement Plans</h2>
-						<ul>
-							<li><a href="/schools/pdf/acc_pdfs_2010/CCSD_2010-2013_YEAR_1_DIP.pdf" class="pdflink">2010 - 2011 District Improvement and AMAO Plan (PDF)</a></li>
-						</ul>
--->
-</section>
-<!-- <div id="school_videos" class="ccsdtv-api" data-label="School Videos" data-tags="schools"></div>-->
-</div><!-- /main_content -->
-</div> <!-- /main_content_wrap -->
-<div class="sidebar-wrap" id="sidebar_wrap">
-<!--?php include($home---><!-- inc['trending']); ?>-->
-<!--
-        <div class="sidebar-banner">
-            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
-            <div class="sidebar-question">Have A Question?</div>
-            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
-            <div class="sidebar-contact">Contact us at</div>
-            <div class="sidebar-phone">702-799-CCSD</div>
-        </div>
--->
-<!--
-<section>
-	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
-	
--->
-<!-- FACEBOOK RECOMMENDATIONS -->
-<!--
-	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
-</section>
--->
-</div> <!-- /sidebar-wrap -->
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Schools</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_7208">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_7209">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_8648">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_8649">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_8646">
+<div class="fsElementContent">
+<p>Schools in the Clark County School District are committed to creating welcoming, supportive environments where every student can thrive. With a wide range of programs and opportunities available, families can explore schools that best fit their child’s needs and interests. Whether you’re searching for a neighborhood school, a magnet program, or a career and technical academy, CCSD makes it easy to find your school and connect with the resources that will guide your student toward success.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
 </div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_8650">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="8651" data-source-page-id="1048" data-use-new="true" id="fsEl_8651">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="School Children" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755809478/ccsdnet/hwftfihp1w8ab50xkh3m/school-children.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755809478/ccsdnet/hwftfihp1w8ab50xkh3m/school-children.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755809478/ccsdnet/hwftfihp1w8ab50xkh3m/school-children.png%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="school-children.png" data-resource-uuid="740a9c65-f273-4ac6-81ec-d561825d3654"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_13035">
+<div class="fsElementContent">
+<div><iframe allowfullscreen="" frameborder="0" height="700px" sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" src="https://lookerstudio.google.com/embed/reporting/fe66eb01-5324-480c-aeec-8d55cff0d890/page/XxejF" style="border:0" width="100%"></iframe></div>
+</div>
+</div>
+</div>
+</div>
+</main>

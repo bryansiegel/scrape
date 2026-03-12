@@ -1,0 +1,44 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Student Attire</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12832">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_12833">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12834">
+<div class="fsElementContent">
+<p>Clark County School District Regulation 5131, Dress and Appearance, indicates that principals may establish a policy that requires students to wear Standard Student Attire for the purpose of increasing student achievement, promoting safety, and enhancing a positive school climate.</p>
+<p>Each school that chooses to participate will determine its involvement, appropriate attire, programs for financial assistance, and work with members of the school community to ensure student/parent/staff input and involvement throughout the decision-making process. The principal and the site-based committee shall determine Standard Student Attire requirements from the approved list, outlined in CCSD Regulation 5131.</p>
+<p>Stricter Standard Student Attire requirements than those delineated in CCSD Regulation 5131 (IV), Basic Dress Code, may be implemented through the survey process set forth in the regulation. Schools implementing mandatory Standard Student Attire will survey their community every fourth year.</p>
+<table class="table-styled">
+<tbody>
+<tr>
+<th>Tops</th>
+<th>Bottoms</th>
+</tr>
+<tr>
+<td>
+<ul>
+<li style="list-style-type: none;">Shirts/blouses in basic/optional colors (plain or school logo, long- or short-sleeved, with or without collar)</li>
+<li style="list-style-type: none;">Sweaters in basic/optional colors worn over approved shirts</li>
+<li style="list-style-type: none;">Sweatshirts in basic/optional colors (plain or school logo)</li>
+<li style="list-style-type: none;">Jumpers/dresses in basic/optional colors</li>
+</ul>
+</td>
+<td>
+<ul>
+<li style="list-style-type: none;">Pants, shorts, jeggings/yoga pants, skirts, skorts in basic/optional colors (sized to fit).</li>
+<li style="list-style-type: none;">Blue jeans in basic/optional colors (sized to fit).</li>
+<li style="list-style-type: none;">Denim pants in basic/optional colors (sized to fit).</li>
+<li style="list-style-type: none;">Sweatpants in basic/optional colors (sized to fit).</li>
+<li style="list-style-type: none;">Tights/leggings in basic/optional colors worn under clothing (solids or patterns)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The school logo may only include the school name and/or school mascot. No other names or symbols related to school athletic teams, school clubs/activities, charitable organizations, or similar groups/organizations should be on the clothing.</p>
+<p>Colors and styles of outerwear, such as jackets and coats, are not required to meet the color/style specifications of Standard Student Attire.</p>
+<p>For more information, download <a data-file-name="5131_R.pdf" data-resource-uuid="82421c8c-d742-4d62-b78b-19da19c929fb" href="/fs/resource-manager/view/82421c8c-d742-4d62-b78b-19da19c929fb" target="_blank">CCSD Regulation 5131, Dress and Appearance</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</main>

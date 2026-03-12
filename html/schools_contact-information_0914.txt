@@ -10,19 +10,20 @@
                 GOODSPRINGS ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Hadavi, Mohammad T<br>
+                        
+Principal: Flanagan, Tammy J<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
-<!-- 								Hadavi, Mohammad T --><!-- <br> -->
+<!-- 								Flanagan, Tammy J --><!-- <br> -->
                                 385 WEST SAN PEDRO AVENUE<br>
                                 GOODSPRINGS, NV 89019<br>
                                 Phone: 702-874-1378<br/>
                                 Fax: 702-874-1802<br/>
 <a href="http://maps.google.com/maps?q=385 WEST SAN PEDRO AVENUE,+GOODSPRINGS,+NV+89019">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/goodspringsschool/home">Website</a> </br></br></br></p>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/goodspringsschool/home">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Historically Sound Education</p> <p><b>Mission:</b> Goodsprings Elementary School will ensure that students achieve academically and demonstrate citizenship, responsibility, and respect for people and property.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

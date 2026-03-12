@@ -10,7 +10,8 @@
                 PREP. INST. SCHOOL FOR ACAD. MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Barker, Nakia <br>
+                        
+Principal: Barker, Nakia<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-3120<br/>
                                 Fax: 702-799-3126<br/>
 <a href="http://maps.google.com/maps?q=2050 WEST SAPPHIRE STONE AVE,+LAS VEGAS,+NV+89106">Map</a>
-                                 | <a href="http://www.westprep.net">Website</a> </br></br></br></p>
+                                 | <a href="http://www.westprep.net">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Providing a World Class Education For All Children</p> <p><b>Mission:</b> Students attending Charles I. West - Edison Junior Academy are academically empowered to read, write and compute as critical and analytical thinkers and problems solvers.  They will move toward meeting and exceeding state standards as measured by Nevada School Assessment Instruments.  Our students will have the necessary social, academic and life skills to be successful in completing high school and engaging in any endeavor that they choose as a life vocation.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

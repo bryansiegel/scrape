@@ -1,0 +1,131 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Traffic Safety</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12757">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_12758">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_12759">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_12760">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12761">
+<div class="fsElementContent">
+<p>The Clark County School District Police Department (CCSDPD) Traffic Bureau is committed to traffic safety and positive engagement within school zones and the surrounding roadways. By maintaining a visible presence and increasing patrols, officers can directly contribute to safer streets for students, parents, staff, and the broader community.</p>
+<p>This mission is achieved through a combination of traffic education, enforcement, and collaborative efforts with local partners. Additionally, the Traffic Bureau benefits from traffic safety grants provided by the Nevada Office of Traffic Safety, further supporting our efforts to enhance safety for all.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_12762">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="12765" data-source-page-id="1276" data-use-new="true" id="fsEl_12765">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="" data-aspect-ratio="0.75" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1757602444/ccsdnet/qvhgqi6irnnui0zkbj3s/traffic.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1757602444/ccsdnet/qvhgqi6irnnui0zkbj3s/traffic.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1757602444/ccsdnet/qvhgqi6irnnui0zkbj3s/traffic.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1757602444/ccsdnet/qvhgqi6irnnui0zkbj3s/traffic.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1757602444/ccsdnet/qvhgqi6irnnui0zkbj3s/traffic.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1757602444/ccsdnet/qvhgqi6irnnui0zkbj3s/traffic.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="traffic.jpg" data-resource-uuid="7a08a4eb-2b5e-4451-a77f-f8391438c117"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_12947">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-12948" role="presentation">
+<a aria-controls="fsEl_12948" aria-selected="false" href="#fs-panel-12948" role="tab">Traffic Complaints</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12950" role="presentation">
+<a aria-controls="fsEl_12950" aria-selected="false" href="#fs-panel-12950" role="tab">Police Departments - Traffic Concerns</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12952" role="presentation">
+<a aria-controls="fsEl_12952" aria-selected="false" href="#fs-panel-12952" role="tab">City/County Public Works - Parking, Signs, Markings, Lighting, Graffiti, Homeless, or Dumping</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12954" role="presentation">
+<a aria-controls="fsEl_12954" aria-selected="false" href="#fs-panel-12954" role="tab">School Crossing Guards</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12956" role="presentation">
+<a aria-controls="fsEl_12956" aria-selected="false" href="#fs-panel-12956" role="tab">CCSD Transportation</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12948" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12948" aria-expanded="false" href="#fs-panel-12948" role="button">Traffic Complaints</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12948"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12949">
+<div class="fsElementContent">
+<p><em><strong>Moving Violations</strong></em> or <em><strong>Parking Complaints</strong></em> on <u>CCSD School Property</u>, <u>within an ACTIVE CCSD School Zone</u>, <u>or at an ACTIVE CCSD Bus Stop</u>:</p>
+<div>Please <a href="mailto:traffic@nv.ccsd.net?subject=%5BTraffic%20Service%20Request%5D">submit a request online</a> for a CCSDPD Traffic Unit Service Request.</div>
+<div> </div>
+<div><em>*For incidents that are occurring at a non-CCSD private or charter school, in your neighborhood, business, or outside of the active school zones, please contact one of the entities below:</em></div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12950" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12950" aria-expanded="false" href="#fs-panel-12950" role="button">Police Departments - Traffic Concerns</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12950"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12951">
+<div class="fsElementContent">
+<ul>
+<li><a href="https://www.lvmpd.com/about/bureaus/traffic-bureau">LVMPD Traffic</a> - City of Las Vegas and Unincorporated Clark County</li>
+<li><a href="https://www.cityofnorthlasvegas.com/residents/police">NLVPD</a> - North Las Vegas </li>
+<li><a href="https://clients.comcate.com/newrequest.php?id=90&amp;dept=908">Henderson PD</a> - Henderson</li>
+<li><a href="https://nhp.nv.gov/">Nevada State Police</a> - Highways, on-ramps, state routes</li>
+<li><a href="https://www.bcnv.org/248/Police-Department">Boulder City PD</a> - Boulder City</li>
+<li><a href="https://www.unlv.edu/police">University Police</a> - UNLV/CSN Properties</li>
+<li><a href="https://www.lasvegasnevada.gov/Government/Departments/Public-Safety">City of Las Vegas Marshals</a> - Las Vegas City Properties</li>
+<li><a href="https://www.clarkcountynv.gov/government/departments/administrative_services/office_of_public_safety/index.php">Clark County Office of Public Safety</a> - Clark County Parks</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12952" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12952" aria-expanded="false" href="#fs-panel-12952" role="button">City/County Public Works - Parking, Signs, Markings, Lighting, Graffiti, Homeless, or Dumping</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12952"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12953">
+<div class="fsElementContent">
+<ul>
+<li><a href="https://seeclickfix.com/web_portal/xnzpFvEJpprZBdgfxT1aZuHG/report/location?lat=36.17193000000004&amp;lng=-115.14000999999995" rel="nofollow" target="_blank">Las Vegas</a></li>
+<li><a href="https://www.cityofnorthlasvegas.com/business/public-works" rel="nofollow" target="_blank">North Las Vegas</a></li>
+<li><a href="https://www.cityofhenderson.com/government/departments/public-works" rel="nofollow" target="_blank">Henderson</a></li>
+<li><a href="https://seeclickfix.com/web_portal/SP3Ed5pT9JA7o21t8bX7JH7V/report/category" rel="nofollow" target="_blank">Unincorporated Clark County</a></li>
+<li><a href="https://seeclickfix.com/web_portal/5i5CvmCWgfrp2GRGxsk8d9sZ/report/category" rel="nofollow" target="_blank">Boulder City</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12954" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12954" aria-expanded="false" href="#fs-panel-12954" role="button">School Crossing Guards</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12954"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12955">
+<div class="fsElementContent">
+<div>The primary responsibility of a school crossing guard is to help children safely cross the street as they walk or bicycle to and from school. School crossing guards control traffic when children are in an intersection and encourage safe behavior by all pedestrians.  <a href="https://thecrossingguardcompany.com/" rel="nofollow" target="_blank">All City Management Services</a> manages the crossing guard program for CCSD schools across the valley.</div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12956" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12956" aria-expanded="false" href="#fs-panel-12956" role="button">CCSD Transportation</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12956"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12957">
+<div class="fsElementContent">
+<div>For information regarding bussing of students to and from CCSD schools, please visit <a href="https://transportation.ccsd.net/" target="_blank">CCSD Transportation</a>.  </div>
+<div> </div>
+<div>School bus tracking and transportation for CCSD can be found at <a href="https://transportation.ccsd.net/get-onboard/">CCSD ONBOARD</a>.</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

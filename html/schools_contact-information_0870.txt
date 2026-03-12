@@ -10,7 +10,8 @@
                 SOUTHEAST CAREER AND TECHNICAL ACADEMY<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Sanchez Ager, Isabelita M<br>
+                        
+Principal: Sanchez Ager, Isabelita M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7500<br/>
                                 Fax: 702-799-2007<br/>
 <a href="http://maps.google.com/maps?q=5710 MOUNTAIN VISTA,+LAS VEGAS,+NV+89120">Map</a>
-                                 | <a href="http://www.secta.us">Website</a> </br></br></br></p>
+                                 | <a href="http://www.secta.us">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> We Build Futures</p> <p><b>Mission:</b> Southeast Career Technical Academy will provide career/technical and academic instruction which imparts entry-level job skills and enables students to meet college entrance requirements.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

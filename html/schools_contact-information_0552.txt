@@ -10,7 +10,8 @@
                 VALLEY HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Perry-Carter, Kimberly K<br>
+                        
+Principal: Perry-carter, Kimberly K<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5450<br/>
                                 Fax: 702-799-1074<br/>
 <a href="http://maps.google.com/maps?q=2839 SOUTH BURNHAM AVE,+LAS VEGAS,+NV+89169">Map</a>
-                                 | <a href="http://www.valleyhs.vegas">Website</a> </br></br></br></p>
+                                 | <a href="http://www.valleyhs.vegas">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Every Student Can Succeed</p> <p><b>Mission:</b> The Valley High School community seeks to educate its diverse population in a safe, nurturing environment by providing opportunities to maximize academic progress, cultivating positive social development, focusing on the transition from school-to-careers, and practicing responsible citizenship skills.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

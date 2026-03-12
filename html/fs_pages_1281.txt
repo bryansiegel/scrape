@@ -1,0 +1,12 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">District Data</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12835">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_12836">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12837">
+<div class="fsElementContent">
+<div><iframe allow="encrypted-media" allowfullscreen="" aria-label="District Data Aggregated Dashboards" class="respiframe" height="100%" src="https://aarsiapps.ccsd.net/datatransparency/" style="min-height:1200px" title="District Data Dashboards" width="100%"></iframe></div>
+</div>
+</div>
+</div>
+</div>
+</main>

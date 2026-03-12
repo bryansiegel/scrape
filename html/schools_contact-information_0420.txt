@@ -10,7 +10,8 @@
                 KIM, FRANK ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Prellwitz, Kelly N<br>
+                        
+Principal: Prellwitz, Kelly N<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5990<br/>
                                 Fax: 702-799-5979<br/>
 <a href="http://maps.google.com/maps?q=7600 PEACE WAY,+LAS VEGAS,+NV+89147">Map</a>
-                                 | <a href="https://www.frankkim.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.frankkim.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Discover the Past...Explore the Future</p> <p><b>Mission:</b> Discovering the Past and Exploring the Future Through Kindness, Integrity, and Motivation.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

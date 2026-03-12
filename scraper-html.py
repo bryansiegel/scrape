@@ -48,7 +48,7 @@ def scrape_all_html_content(base_url):
             soup = BeautifulSoup(response.content, "html.parser")
             base_netloc = urlparse(base_url).netloc
 
-            content_wraps = soup.find_all(class_="content-wrap")
+            content_wraps = soup.find_all(id="fsPageContent")
             if content_wraps:
                 content_str = "".join(str(c) for c in content_wraps)
                 content_hash = hashlib.md5(content_str.encode('utf-8')).hexdigest()

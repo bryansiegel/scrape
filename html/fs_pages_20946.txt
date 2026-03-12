@@ -1,0 +1,854 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Food Service</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_183869">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_183870">
+<div class="fsElement fsContent sub-hero-border" data-use-new="true" id="fsEl_183871">
+<div class="fsElementContent">
+<p>The Clark County School District participates in the Community Eligibility Provision of the federal Healthy, Hunger-Free Kids Act district wide and will provide free school meals to all students during the 2025-2026 school year.</p>
+<p>The Clark County School District Food Service Department is committed to acknowledging parent inquiries within a 48 hour period. A Food Service Supervisor or another department employee will respond to your concern and resolve the matter as soon as possible. Food Service would like to ensure that your child receives tasty, nutritious meals and you receive the assistance you require in a timely manner. Please call 799-8123, Ext. 5001 if you have any questions or concerns.<br/>
+ </p>
+<h2>Meal Pricing</h2>
+<table class="table-styled">
+<caption> </caption>
+<tbody>
+<tr class="even">
+<td align="center" colspan="3">Student Meal Pricing</td>
+</tr>
+<tr class="odd">
+<td> </td>
+<td>Elementary</td>
+<td>Secondary</td>
+</tr>
+<tr class="even">
+<td>Breakfast</td>
+<td>$0.00</td>
+<td>$0.00</td>
+</tr>
+<tr class="odd">
+<td>Lunch</td>
+<td>$0.00</td>
+<td>$0.00</td>
+</tr>
+<tr class="even">
+<td>Snack</td>
+<td>$0.00</td>
+<td>$0.00</td>
+</tr>
+<tr class="odd">
+<td>Supper</td>
+<td>$0.00</td>
+<td>$0.00</td>
+</tr>
+</tbody>
+</table>
+<table class="table-styled">
+<caption> </caption>
+<tbody>
+<tr class="even">
+<td align="center" colspan="2">Adult Meal and At-Cost Pricing</td>
+</tr>
+<tr class="odd">
+<td>Breakfast</td>
+<td>$2.95</td>
+</tr>
+<tr class="even">
+<td>Lunch</td>
+<td>$5.05</td>
+</tr>
+<tr class="odd">
+<td>Snack</td>
+<td>$1.30</td>
+</tr>
+<tr class="even">
+<td>Supper</td>
+<td>$4.95</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h2>Food Service Online Payments</h2>
+<p>To make payments, view purchases and schedule low balance alerts visit <a contenteditable="false" href="https://www.myschoolbucks.com" style="cursor: pointer;">www.myschoolbucks.com</a>. </p>
+<p> </p>
+<h2>Mission Statement</h2>
+<p>The Food Service Department, while fostering community partnerships, is dedicated to meeting the nutritional needs of students by providing quality meals with exceptional customer service.</p>
+<p> </p>
+<h2>Non-Discrimination Statement</h2>
+<p>In accordance with Federal civil rights law and U.S. Department of Agriculture (USDA) civil rights regulations and policies, the USDA, its Agencies, offices, and employees, and institutions participating in or administering USDA programs are prohibited from discriminating based on race, color, national origin, sex, disability, age, or reprisal or retaliation for prior civil rights activity in any program or activity conducted or funded by USDA.</p>
+<p>Persons with disabilities who require alternative means of communication for program information (e.g. Braille, large print, audiotape, American Sign Language, etc.), should contact the Agency (State or local) where they applied for benefits. Individuals who are deaf, hard of hearing or have speech disabilities may contact USDA through the Federal Relay Service at (800) 877-8339. Additionally, program information may be made available in languages other than English.</p>
+<p>To file a program complaint of discrimination, complete the USDA Program Discrimination Complaint Form, (AD-3027) found online at: <a contenteditable="false" href="https://www.usda.gov/oascr/filing-program-discrimination-complaint-usda-customer" style="cursor: pointer;" target="_blank">https://www.usda.gov/oascr/filing-program-discrimination-complaint-usda-customer</a>, and at any USDA office, or write a letter addressed to USDA and provide in the letter all of the information requested in the form. To request a copy of the complaint form, call (866) 632-9992. Submit your completed form or letter to USDA by: </p>
+<p>(1) mail:</p>
+<address>U.S. Department of Agriculture<br/>
+Office of the Assistant Secretary for Civil Rights<br/>
+1400 Independence Avenue, SW<br/>
+Washington, D.C. 20250-9410</address>
+<p> </p>
+<p>(2) fax: (202) 690-7442; or</p>
+<p>(3) email: program.intake@usda.gov.</p>
+<p>This institution is an equal opportunity provider.</p>
+<p style="text-align:center;"> </p>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_199003">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-199004" role="presentation">
+<a aria-controls="fsEl_199004" aria-selected="false" href="#fs-panel-199004" role="tab">Provision Schools</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_199004" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_199004" aria-expanded="false" href="#fs-panel-199004" role="button">Provision Schools</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-199004"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_199005">
+<div class="fsElementContent">
+<address>CCSD Provision schools provide free breakfast and lunch to all students regardless of individual household eligibility. </address>
+<p>Schools implementing a provision have experienced great success, allowing them to make numerous improvements to their school nutrition programs.</p>
+<ul>
+<li><strong>Easing administrative burden.</strong>  Provision status allows eligible schools to provide breakfast and lunch to all students at no charge.</li>
+<li><strong>Increasing participation.</strong>  All children at Provision schools receive meals at no charge, incentivizing participation.</li>
+<li><strong>Improving efficiency.</strong> Provision status helps lunch lines move more quickly, allowing children more time to enjoy their meal.</li>
+<li><strong>Eliminating stigma.</strong>  Because all students eat at no charge, no child at a Provision school will ever be singled out among peers as receiving a subsidized meal, receive an "alternate" meal, or be denied a meal.</li>
+<li><strong>Fighting child hunger.</strong>  Children attending Provision schools can count on two nutritious meals every school day, stretching families' limited budgets and reducing hunger among children.</li>
+</ul>
+<p> </p>
+<h2><strong>Media Release: Clark County School District CEP Schools</strong></h2>
+<h3>Clark County School District is participating in the Community Eligibility Provision (CEP) for the 2025-2026 school year.</h3>
+<p>Section 104(a) of the Healthy, Hunger Free Kids Act of 2010 amended section 11(a)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1759a(a)(1)(the law) to provide an alternative to household applications for free and reduced-price meals in local educational agencies (LEAs) and schools with increased levels of low-income students. This alternative is referred to as the Community Eligibility Provision. All students enrolled in the school may participate in the breakfast and lunch program at no charge to them. All students in the following schools may participate in the breakfast and lunch program at no charge to their household each day of the SY2025-2026. Meal applications are not required for students attending these schools.</p>
+<table class="table-styled">
+<colgroup>
+<col/>
+<col/>
+</colgroup>
+<tbody>
+<tr height="20">
+<td>Abston, Sandra B. ES</td>
+<td>Las Vegas Academy</td>
+</tr>
+<tr height="20">
+<td>Acceleration Academy</td>
+<td>Las Vegas HS</td>
+</tr>
+<tr height="20">
+<td>Adams, Kirk L. ES</td>
+<td>Laughlin JHS/HS</td>
+</tr>
+<tr height="20">
+<td>Adcock, O. K. ES</td>
+<td>Lawrence, Clifford J. JHS</td>
+</tr>
+<tr height="20">
+<td>Advanced Technologies Academy</td>
+<td>Leavitt, Justice Myron E. MS</td>
+</tr>
+<tr height="20">
+<td>Alamo, Tony ES</td>
+<td>Legacy HS</td>
+</tr>
+<tr height="20">
+<td>Allen, Dean LaMar ES</td>
+<td>Liberty HS</td>
+</tr>
+<tr height="20">
+<td>Antonello, Lee ES</td>
+<td>Lied MS</td>
+</tr>
+<tr height="20">
+<td>Arbor View HS</td>
+<td>Lincoln ES</td>
+</tr>
+<tr height="20">
+<td>Bailey, Dr. William H. "Bob" MS</td>
+<td>Long, Walter V. ES</td>
+</tr>
+<tr height="20">
+<td>Bailey, Sister Robert Joseph ES</td>
+<td>Lowman ES</td>
+</tr>
+<tr height="20">
+<td>Barber, Shirley A. ES</td>
+<td>Lummis, William ES</td>
+</tr>
+<tr height="20">
+<td>Bartlett, Selma F. ES</td>
+<td>Lundy, Earl B. ES</td>
+</tr>
+<tr height="20">
+<td>Basic HS</td>
+<td>Lunt, Robert ES</td>
+</tr>
+<tr height="20">
+<td>Bass, John C. ES</td>
+<td>Lynch, Ann ES</td>
+</tr>
+<tr height="20">
+<td>Batterman, Kathy L. ES</td>
+<td>Lyon, W. Mack MS</td>
+</tr>
+<tr height="20">
+<td>Beatty, John R. ES</td>
+<td>Mack, Jerome MS</td>
+</tr>
+<tr height="20">
+<td>Becker, Ernest MS</td>
+<td>Mack, Nate ES</td>
+</tr>
+<tr height="20">
+<td>Beckley, Will ES</td>
+<td>Mackey, Jo ES</td>
+</tr>
+<tr height="20">
+<td>Bell, Rex ES</td>
+<td>Mackey, Jo MS</td>
+</tr>
+<tr height="20">
+<td>Bendorf, Patricia A. ES</td>
+<td>Manch, J. E. ES</td>
+</tr>
+<tr height="20">
+<td>Bennett, William G. ES</td>
+<td>Mannion, Jack and Terry MS</td>
+</tr>
+<tr height="20">
+<td>Berkley, Shelley ES</td>
+<td>Martin, Roy W. MS</td>
+</tr>
+<tr height="20">
+<td>Bilbray, James ES</td>
+<td>Martinez, Reynaldo L. ES</td>
+</tr>
+<tr height="20">
+<td>Blue Diamond ES</td>
+<td>Mathis, Beverly S. ES</td>
+</tr>
+<tr height="20">
+<td>Bonanza HS</td>
+<td>May, Ernest ES</td>
+</tr>
+<tr height="20">
+<td>Bonner, John W. ES</td>
+<td>McCall, Quannah ES</td>
+</tr>
+<tr height="20">
+<td>Booker, Kermit R. ES</td>
+<td>McCaw, Gordon ES</td>
+</tr>
+<tr height="20">
+<td>Boulder City HS</td>
+<td>McDoniel, Estes M. ES</td>
+</tr>
+<tr height="20">
+<td>Bowler, Grant ES</td>
+<td>McMillan, James B. ES</td>
+</tr>
+<tr height="20">
+<td>Bowler, Sr., Joseph L. ES</td>
+<td>McWilliams, J. T. ES</td>
+</tr>
+<tr height="20">
+<td>Bozarth, Henry and Evelyn ES</td>
+<td>Mendoza, John F. ES</td>
+</tr>
+<tr height="20">
+<td>Bracken, Walter ES</td>
+<td>Miley Achievement - Elementary</td>
+</tr>
+<tr height="20">
+<td>Bridger, Jim MS</td>
+<td>Miley Achievement - Secondary</td>
+</tr>
+<tr height="20">
+<td>Brinley, J. Harold MS</td>
+<td>Miller, Bob MS</td>
+</tr>
+<tr height="20">
+<td>Brookman, Eileen B. ES</td>
+<td>Miller, John F.</td>
+</tr>
+<tr height="20">
+<td>Brown, B. Mahlon MS</td>
+<td>Miller, Sandy Searles ES</td>
+</tr>
+<tr height="20">
+<td>Brown, Hannah Marie ES</td>
+<td>Mission HS</td>
+</tr>
+<tr height="20">
+<td>Bruner, Lucile ES</td>
+<td>Mitchell, Andrew ES</td>
+</tr>
+<tr height="20">
+<td>Bryan, Richard H. ES</td>
+<td>Moapa Valley HS</td>
+</tr>
+<tr height="20">
+<td>Bryan, Roger M. ES</td>
+<td>Mojave HS</td>
+</tr>
+<tr height="20">
+<td>Bunker, Berkeley L. ES</td>
+<td>Molasky, Irwin and Susan JHS</td>
+</tr>
+<tr height="20">
+<td>Burkholder MS</td>
+<td>Monaco MS</td>
+</tr>
+<tr height="20">
+<td>Cadwallader, Ralph MS</td>
+<td>Moore, William K. ES</td>
+</tr>
+<tr height="20">
+<td>Cahlan, Marion ES</td>
+<td>Morrow, Sue H. ES</td>
+</tr>
+<tr height="20">
+<td>Cambeiro, Arturo ES</td>
+<td>Mountain View ES</td>
+</tr>
+<tr height="20">
+<td>Canarelli MS</td>
+<td>Neal, Joseph M. ES</td>
+</tr>
+<tr height="20">
+<td>Cannon, Helen C. JHS</td>
+<td>Newton, Ulis ES</td>
+</tr>
+<tr height="20">
+<td>Canyon Springs HS</td>
+<td>Northeast CTA</td>
+</tr>
+<tr height="20">
+<td>Carl, Kay ES</td>
+<td>Northeast CTA ES</td>
+</tr>
+<tr height="20">
+<td>Cartwright, Roberta C. ES</td>
+<td>Northwest CTA</td>
+</tr>
+<tr height="20">
+<td>Cashman, James MS</td>
+<td>Northwest CTA ES</td>
+</tr>
+<tr height="20">
+<td>Centennial HS</td>
+<td>Ober, D'Vorre and Hal ES</td>
+</tr>
+<tr height="20">
+<td>Central CTA</td>
+<td>O'Callaghan, Mike MS</td>
+</tr>
+<tr height="20">
+<td>Chaparral HS</td>
+<td>O'Roarke, Thomas J. ES</td>
+</tr>
+<tr height="20">
+<td>Cheyenne HS</td>
+<td>Orr, William E. MS</td>
+</tr>
+<tr height="20">
+<td>Christensen, M. J. ES</td>
+<td>Ortwein, Dennis ES</td>
+</tr>
+<tr height="20">
+<td>Cimarron-Memorial HS</td>
+<td>Palo Verde HS</td>
+</tr>
+<tr height="20">
+<td>Clark, Ed W. HS</td>
+<td>Paradise ES</td>
+</tr>
+<tr height="20">
+<td>Conners, Eileen ES</td>
+<td>Park, John S. ES</td>
+</tr>
+<tr height="20">
+<td>Coronado HS</td>
+<td>Parson ES</td>
+</tr>
+<tr height="20">
+<td>Cortez, Manuel J. ES</td>
+<td>Perkins, Dr. Claude G. ES</td>
+</tr>
+<tr height="20">
+<td>Cortney, Francis H. JHS</td>
+<td>Perkins, Ute ES</td>
+</tr>
+<tr height="20">
+<td>Cowan Academic Center</td>
+<td>Petersen, Dean ES</td>
+</tr>
+<tr height="20">
+<td>Cox, Clyde C. ES</td>
+<td>Peterson Academic Center</td>
+</tr>
+<tr height="20">
+<td>Cox, David M. ES</td>
+<td>Piggott ES</td>
+</tr>
+<tr height="20">
+<td>Cozine, Steve and Linda ES</td>
+<td>Pittman, Vail ES</td>
+</tr>
+<tr height="20">
+<td>Craig, Lois ES</td>
+<td>Priest, Richard C. ES</td>
+</tr>
+<tr height="20">
+<td>Cram, Brian and Teri MS</td>
+<td>Rancho HS</td>
+</tr>
+<tr height="20">
+<td>Crestwood ES</td>
+<td>Red Rock ES</td>
+</tr>
+<tr height="20">
+<td>Culley, Paul E. ES</td>
+<td>Reed, Doris M. ES</td>
+</tr>
+<tr height="20">
+<td>Cunningham, Cynthia ES</td>
+<td>Reedom, Carolyn S. ES</td>
+</tr>
+<tr height="20">
+<td>Dailey, Jack ES</td>
+<td>Reid, Harry ES</td>
+</tr>
+<tr height="20">
+<td>Darnell, Marshall C. ES</td>
+<td>Rhodes, Betsy ES</td>
+</tr>
+<tr height="20">
+<td>Dearing, Laura ES</td>
+<td>Ries, Aldeane Comito ES</td>
+</tr>
+<tr height="20">
+<td>Decker, C. H. ES</td>
+<td>Roberts, Aggie ES</td>
+</tr>
+<tr height="20">
+<td>Del Sol HS</td>
+<td>Rogers, Lucille S. ES</td>
+</tr>
+<tr height="20">
+<td>Derfelt, Herbert A. ES</td>
+<td>Rogich, Sig MS</td>
+</tr>
+<tr height="20">
+<td>Desert Oasis HS</td>
+<td>Ronnow, C. C. ES</td>
+</tr>
+<tr height="20">
+<td>Desert Pines HS</td>
+<td>Ronzone, Bertha ES</td>
+</tr>
+<tr height="20">
+<td>Desert Rose HS</td>
+<td>Roundy, Dr. C. Owen ES</td>
+</tr>
+<tr height="20">
+<td>Deskin, Ruthe ES</td>
+<td>Rowe, Lewis E. ES</td>
+</tr>
+<tr height="20">
+<td>Detwiler, Ollie ES</td>
+<td>Rundle, Richard J. ES</td>
+</tr>
+<tr height="20">
+<td>Diaz, Ruben P. ES</td>
+<td>Sandy Valley ES</td>
+</tr>
+<tr height="20">
+<td>Dickens, D. L. “Dusty” ES</td>
+<td>Sandy Valley MS/HS</td>
+</tr>
+<tr height="20">
+<td>Diskin, Pat A. ES</td>
+<td>Saville, Anthony MS</td>
+</tr>
+<tr height="20">
+<td>Divich, Kenneth ES</td>
+<td>Sawyer, Grant MS</td>
+</tr>
+<tr height="20">
+<td>Dondero, Harvey N. ES</td>
+<td>Scherkenbach ES</td>
+</tr>
+<tr height="20">
+<td>Dooley, John A. ES</td>
+<td>Schofield, Jack Lund MS</td>
+</tr>
+<tr height="20">
+<td>Duncan, Ruby ES</td>
+<td>Schorr, Steve ES</td>
+</tr>
+<tr height="20">
+<td>Durango HS</td>
+<td>Scott, Jesse D. ES</td>
+</tr>
+<tr height="20">
+<td>Earl, Ira J. ES</td>
+<td>Sedway, Marvin M. MS</td>
+</tr>
+<tr height="20">
+<td>Earl, Marion B. ES</td>
+<td>Sewell, C. T. ES</td>
+</tr>
+<tr height="20">
+<td>East CTA</td>
+<td>Shadow Ridge HS</td>
+</tr>
+<tr height="20">
+<td>Edwards, Elbert ES</td>
+<td>Sierra Vista HS</td>
+</tr>
+<tr height="20">
+<td>Eisenberg, Dorothy ES</td>
+<td>Silverado HS</td>
+</tr>
+<tr height="20">
+<td>Eldorado HS</td>
+<td>Silvestri, Charles A. JHS</td>
+</tr>
+<tr height="20">
+<td>Elizondo, Raul P. ES</td>
+<td>Simmons, Eva G. ES</td>
+</tr>
+<tr height="20">
+<td>Ellis, Robert and Sandy ES</td>
+<td>Smalley ES</td>
+</tr>
+<tr height="20">
+<td>Escobedo, Edmundo MS</td>
+<td>Smith, Hal ES</td>
+</tr>
+<tr height="20">
+<td>Faiss, Wilbur and Theresa MS</td>
+<td>Smith, Helen M. ES</td>
+</tr>
+<tr height="20">
+<td>Ferron, William E. ES</td>
+<td>Smith, J. D. MS</td>
+</tr>
+<tr height="20">
+<td>Fertitta, Victoria MS</td>
+<td>Snyder, Don and Dee ES</td>
+</tr>
+<tr height="20">
+<td>Findlay MS</td>
+<td>Snyder, William E. ES</td>
+</tr>
+<tr height="20">
+<td>Fine, Mark L. ES</td>
+<td>South Academic Center</td>
+</tr>
+<tr height="20">
+<td>Fitzgerald, H. P. ES</td>
+<td>South CTA</td>
+</tr>
+<tr height="20">
+<td>Fong ES</td>
+<td>Southeast CTA</td>
+</tr>
+<tr height="20">
+<td>Foothill HS</td>
+<td>Southwest CTA</td>
+</tr>
+<tr height="20">
+<td>Forbuss, Robert L. ES</td>
+<td>Spring Valley HS</td>
+</tr>
+<tr height="20">
+<td>Fremont MS</td>
+<td>Squires, C. P. ES</td>
+</tr>
+<tr height="20">
+<td>French, Doris ES</td>
+<td>Stanford ES</td>
+</tr>
+<tr height="20">
+<td>Frias ES</td>
+<td>Staton, Ethel W. ES</td>
+</tr>
+<tr height="20">
+<td>Galloway, Fay ES</td>
+<td>Steele, Judith D. ES</td>
+</tr>
+<tr height="20">
+<td>Garehime, Edith ES</td>
+<td>Stevens, Josh ES</td>
+</tr>
+<tr height="20">
+<td>Garrett JHS</td>
+<td>Stewart, Helen J.</td>
+</tr>
+<tr height="20">
+<td>Garside, Frank F. JHS</td>
+<td>Stuckey, Evelyn ES</td>
+</tr>
+<tr height="20">
+<td>Gehring, Roger D. ES</td>
+<td>Sunrise Acres ES</td>
+</tr>
+<tr height="20">
+<td>Gibson, James I. ES</td>
+<td>Sunrise Mountain HS</td>
+</tr>
+<tr height="20">
+<td>Gibson, Robert O. MS</td>
+<td>Swainston, Theron L. MS</td>
+</tr>
+<tr height="20">
+<td>Gilbert ES</td>
+<td>Tanaka, Wayne N. ES</td>
+</tr>
+<tr height="20">
+<td>Givens, Linda Rankin ES</td>
+<td>Tarkanian MS</td>
+</tr>
+<tr height="20">
+<td>Global Community HS</td>
+<td>Tarr ES</td>
+</tr>
+<tr height="20">
+<td>Goldfarb, Daniel ES</td>
+<td>Tartan, John ES</td>
+</tr>
+<tr height="20">
+<td>Goodsprings ES</td>
+<td>Tate, Myrtle ES</td>
+</tr>
+<tr height="20">
+<td>Goolsby, Judy and John L. ES</td>
+<td>Taylor, Glen C. ES</td>
+</tr>
+<tr height="20">
+<td>Goynes ES</td>
+<td>Taylor, Robert L. ES</td>
+</tr>
+<tr height="20">
+<td>Gragson, Oran K. ES</td>
+<td>The Healing Center School at St. Jude's</td>
+</tr>
+<tr height="20">
+<td>Gray, R. Guild ES</td>
+<td>Thiriot, Joseph E. ES</td>
+</tr>
+<tr height="20">
+<td>Green Valley HS</td>
+<td>Thomas, Ruby S. ES</td>
+</tr>
+<tr height="20">
+<td>Greenspun JHS</td>
+<td>Thompson, Sandra L. ES</td>
+</tr>
+<tr height="20">
+<td>Griffith, E. W. ES</td>
+<td>Thompson, Tyrone ES</td>
+</tr>
+<tr height="20">
+<td>Guinn, Kenny C. MS</td>
+<td>Thorpe, Jim ES</td>
+</tr>
+<tr height="20">
+<td>Gunderson MS</td>
+<td>Tobler, R. E. ES</td>
+</tr>
+<tr height="20">
+<td>Guy, Addeliar ES</td>
+<td>Toland ES</td>
+</tr>
+<tr height="20">
+<td>Hancock, Doris ES</td>
+<td>Tomiyasu, Bill Y. ES</td>
+</tr>
+<tr height="20">
+<td>Harmon, Harley ES</td>
+<td>Treem, Harriet A. ES</td>
+</tr>
+<tr height="20">
+<td>Harney, Kathleen and Tim MS</td>
+<td>Triggs, Vincent L. ES</td>
+</tr>
+<tr height="20">
+<td>Harris, George E. ES</td>
+<td>Twin Lakes ES</td>
+</tr>
+<tr height="20">
+<td>Hayden, Don E. ES</td>
+<td>Twitchell, Neil C. ES</td>
+</tr>
+<tr height="20">
+<td>Hayes ES</td>
+<td>Ullom, J. M. ES</td>
+</tr>
+<tr height="20">
+<td>Heard, Lomie G. ES</td>
+<td>Valley HS</td>
+</tr>
+<tr height="20">
+<td>Heckethorn, Howard E. ES</td>
+<td>Vanderburg, John ES</td>
+</tr>
+<tr height="20">
+<td>Herr, Helen ES</td>
+<td>Variety School - Elementary</td>
+</tr>
+<tr height="20">
+<td>Herron, Fay ES</td>
+<td>Variety School - Secondary</td>
+</tr>
+<tr height="20">
+<td>Hewetson, Halle ES</td>
+<td>Vassiliadis ES</td>
+</tr>
+<tr height="20">
+<td>Hickey, Liliam Lujan ES</td>
+<td>Vegas Verdes ES</td>
+</tr>
+<tr height="20">
+<td>Hill, Charlotte ES</td>
+<td>Veterans Tribute CTA</td>
+</tr>
+<tr height="20">
+<td>Hinman, Edna F. ES</td>
+<td>Virgin Valley ES</td>
+</tr>
+<tr height="20">
+<td>Hoggard, Mabel ES</td>
+<td>Virgin Valley HS</td>
+</tr>
+<tr height="20">
+<td>Hollingsworth, Howard ES</td>
+<td>Von Tobel, Ed MS</td>
+</tr>
+<tr height="20">
+<td>Hughes, Charles MS</td>
+<td>Walker, J. Marlan ES</td>
+</tr>
+<tr height="20">
+<td>Hummel, John R. ES</td>
+<td>Wallin, Shirley and Bill ES</td>
+</tr>
+<tr height="20">
+<td>Hyde Park MS</td>
+<td>Ward, Gene ES</td>
+</tr>
+<tr height="20">
+<td>Indian Springs ES</td>
+<td>Ward, Kitty ES</td>
+</tr>
+<tr height="20">
+<td>Indian Springs HS</td>
+<td>Warren, Rose ES</td>
+</tr>
+<tr height="20">
+<td>Indian Springs MS</td>
+<td>Wasden, Howard ES</td>
+</tr>
+<tr height="20">
+<td>Iverson, Mervin R. ES</td>
+<td>Watson, Fredric W. ES</td>
+</tr>
+<tr height="20">
+<td>Jacobson, Walter ES</td>
+<td>Webb, Del E. MS</td>
+</tr>
+<tr height="20">
+<td>Jeffers, Jay W. ES</td>
+<td>Wengert, Cyril ES</td>
+</tr>
+<tr height="20">
+<td>Jenkins, Earl N. ES</td>
+<td>West CTA</td>
+</tr>
+<tr height="20">
+<td>Johnson, Walter JHS</td>
+<td>West Prep ES</td>
+</tr>
+<tr height="20">
+<td>Johnston, Carroll MS</td>
+<td>West Prep MS/HS</td>
+</tr>
+<tr height="20">
+<td>Jones Blackhurst ES</td>
+<td>Western HS</td>
+</tr>
+<tr height="20">
+<td>Jydstrup, Helen ES</td>
+<td>White, Thurman MS</td>
+</tr>
+<tr height="20">
+<td>Kahre, Marc ES</td>
+<td>Whitney ES</td>
+</tr>
+<tr height="20">
+<td>Katz ES</td>
+<td>Wiener, Jr., Louis ES</td>
+</tr>
+<tr height="20">
+<td>Keller ES</td>
+<td>Wilhelm, Elizabeth ES</td>
+</tr>
+<tr height="20">
+<td>Keller, Duane MS</td>
+<td>Williams, Tom ES</td>
+</tr>
+<tr height="20">
+<td>Kelly, Matt ES</td>
+<td>Williams, Wendell P. ES</td>
+</tr>
+<tr height="20">
+<td>Kesterson, Lorna J. ES</td>
+<td>Wolfe, Eva ES</td>
+</tr>
+<tr height="20">
+<td>Kim, Frank ES</td>
+<td>Wolff, Elise L. ES</td>
+</tr>
+<tr height="20">
+<td>King, Jr., Martin Luther ES</td>
+<td>Woodbury, C. W. MS</td>
+</tr>
+<tr height="20">
+<td>King, Martha P. ES</td>
+<td>Woolley, Gwendolyn ES</td>
+</tr>
+<tr height="20">
+<td>Knudson, K.O. MS</td>
+<td>Wright, William V. ES</td>
+</tr>
+<tr height="20">
+<td>Lake, Robert E. ES</td>
+<td>Wynn, Elaine ES</td>
+</tr>
+<tr height="20">
+<td>Lamping, Frank ES</td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+<p>Breakfast and lunch meals follow the United States Department of Agriculture (USDA) guidelines for healthy meals. Students are encouraged to participate in the schools meal program</p>
+<p>For additional information please contact: CCSD Food Service Department, 6350 E. Tropical Pkwy., Las Vegas, NV 89115, 800-819-7556 or MySchoolMeals@nv.ccsd.net.<br/>
+ </p>
+<h2>Charge Procedures</h2>
+<div><br/>
+Students at the schools listed above receive one free breakfast and one free lunch each school day as part of CEP. If a student wishes to receive an additional meal, they will be charged the adult meal price.</div>
+<div> </div>
+<div>À la carte items (such as snacks or beverages) are not included in the free meal program and are available for purchase only.</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="fsElement fsEmbed" data-use-new="true" id="fsEl_183877">
+<div class="fsElementContent">
+<p style="text-align:center;">
+<a href="http://www.facebook.com/CCSDFoodService" target="_blank"><i class="fa-brands fa-facebook-f facebook-icon"></i></a> <a href="https://x.com/#!@CCSDFoodService" target="_blank"><i class="fa-brands fa-x-twitter x-icon"></i></a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</main>

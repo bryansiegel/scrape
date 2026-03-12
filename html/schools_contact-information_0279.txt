@@ -10,7 +10,8 @@
                 CARL, KAY ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Brunetti, Tenisha <br>
+                        
+Principal: Brunetti, Tenisha<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6650<br/>
                                 Fax: 702-799-6659<br/>
 <a href="http://maps.google.com/maps?q=5625 CORBETT STREET,+LAS VEGAS,+NV+89130">Map</a>
-                                 | <a href="http://www.kaycarl.net/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.kaycarl.net/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Stretch for Your Dreams</p> <p><b>Mission:</b> The mission of Kay Carl School is to promote the healthy development of every child so that each has the knowledge, skills and resiliency to be successful in a global society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

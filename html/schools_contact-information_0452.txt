@@ -10,7 +10,8 @@
                 BONANZA HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Wiseman, Brian R<br>
+                        
+Principal: Wiseman, Brian R<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4000<br/>
                                 Fax: 702-799-4078<br/>
 <a href="http://maps.google.com/maps?q=6665 WEST DEL REY,+LAS VEGAS,+NV+89146">Map</a>
-                                 | <a href="https://bonanzabengals.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://bonanzabengals.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Continuing our Excellence; Determining our Future.</p> <p><b>Mission:</b> Bonanza High School's mission is to empower its students to develop academically, physically, and socially as a foundation for lifelong learning and responsible citizenship.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

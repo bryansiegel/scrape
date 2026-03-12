@@ -10,7 +10,8 @@
                 ADULT EDUCATION PROGRAMS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Gant, Eric D<br>
+                        
+Principal: Gant, Eric D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-8650<br/>
                                 Fax: 702-799-8608<br/>
 <a href="http://maps.google.com/maps?q=2701 EAST SAINT LOUIS AVENUE,+LAS VEGAS,+NV+89104">Map</a>
-                                 | <a href="https://clarkcountyadulteducation.net">Website</a> </br></br></br></p>
-<b>Region:</b> SSD                                                    </div>
+                                 | <a href="https://clarkcountyadulteducation.net">Website</a> 
+<b>Region:</b> SSD                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

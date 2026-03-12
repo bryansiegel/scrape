@@ -10,7 +10,8 @@
                 TARTAN, JOHN ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Jefferson, Angela K<br>
+                        
+Principal: Jefferson, Angela K<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-4701<br/>
                                 Fax: 702-799-4707<br/>
 <a href="http://maps.google.com/maps?q=3030 EAST TROPICAL PARKWAY,+NORTH LAS VEGAS,+NV+89081">Map</a>
-                                 | <a href="https://www.tartanes.org/">Website</a> </br></br></br></p>
-<b>Region:</b> TTN                                                    </div>
+                                 | <a href="https://www.tartanes.org/">Website</a> 
+<b>Region:</b> TTN                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

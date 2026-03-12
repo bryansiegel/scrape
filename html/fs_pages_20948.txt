@@ -1,0 +1,22 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">ELMS</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_183882">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_183883">
+<div class="fsElement fsContent sub-hero-border" data-use-new="true" id="fsEl_183884">
+<div class="fsElementContent">
+<h2>Enterprise Learning Management System (ELMS)</h2>
+<p>The Enterprise Learning Management System (ELMS) is CCSD’s system for registration and tracking of employee professional development training. CCSD employees may register for professional learning created by and for CCSD in ELMS. The ELMS system is also utilized for the submission and tracking of licensed employee Professional Growth System contact units documentation.</p>
+<div style="display:inline-block"><a class="button-1" contenteditable="false" href="http://learn.ccsd.net" target="_blank">ELMS Website</a></div>
+<p>Training on how to use ELMS to find professional learning can be found on the <a contenteditable="false" href="https://training.ccsd.net/" target="_blank">Employee Business Training</a> website.</p>
+</div>
+</div>
+<div class="fsElement fsEmbed" data-use-new="true" id="fsEl_183885">
+<div class="fsElementContent">
+<p style="text-align:center;">
+<a href="http://www.facebook.com/CCSDFoodService" target="_blank"><i class="fa-brands fa-facebook-f facebook-icon"></i></a> <a href="https://x.com/#!@CCSDFoodService" target="_blank"><i class="fa-brands fa-x-twitter x-icon"></i></a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</main>

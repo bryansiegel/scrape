@@ -10,7 +10,8 @@
                 GOLDFARB, DANIEL ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Fernandez, Jane B<br>
+                        
+Principal: Fernandez, Jane B<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-1550<br/>
                                 Fax: 702-799-1556<br/>
 <a href="http://maps.google.com/maps?q=1651 ORCHARD VALLEY DRIVE,+LAS VEGAS,+NV+89142">Map</a>
-                                 | <a href="http://www.goldfarbschool.org">Website</a> </br></br></br></p>
+                                 | <a href="http://www.goldfarbschool.org">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Daniel Goldfarb Elementary - A Community of Learners Growing Together.</p> <p><b>Mission:</b> At Daniel Goldfarb Elementary we engage in a partnership with administration, staff, students, families, businesses, and community members. We support and maintain effective communication within our K-12 region and community. Our students engage in a balanced comprehensive core curriculum integrating innovations in technology. Our learning environment promotes high standards, ensures equal access for all students, and holds everyone accountable for student achievement.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

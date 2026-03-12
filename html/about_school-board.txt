@@ -1,0 +1,1959 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Board of School Trustees</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_4717">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_4718">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout nav-sub sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_4803">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_4804">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_4792">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Board of Trustees" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1764877104/ccsdnet/yvclw8k5zkxizovkflzr/1-BoardofTrusteesGroupPhoto_2025_1.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1764877104/ccsdnet/yvclw8k5zkxizovkflzr/1-BoardofTrusteesGroupPhoto_2025_1.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764877104/ccsdnet/yvclw8k5zkxizovkflzr/1-BoardofTrusteesGroupPhoto_2025_1.png%22,%22width%22:800}]" data-resource-description="" data-resource-filename="1-BoardofTrusteesGroupPhoto_2025_1.png" data-resource-uuid="175068b2-b18a-4c71-8928-6067d006f781" loading="lazy" src="" style="border-radius:5px;"/></picture></figure>
+</div>
+<p>The Clark County Board of School Trustees is a dedicated group of community leaders who are elected and/or appointed to overlapping four-year terms and represent a specific geographic region of Clark County. Although each trustee represents a different region, they are dedicated to ensuring the success of every student in the district through clear, concise direction to the <a data-page-name="Superintendent" href="/fs/pages/1077">superintendent</a>. The trustees bring a wealth of experience and concern for children to their position.</p>
+<p><a class="button-7" href="/about/school-board/contact">Contact the Board of Trustees</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_4805">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10786">
+<div class="fsElementContent">
+<nav>
+<ul class="fsNavLevel1">
+<li><a class="scroll_slow" href="#trustees">Board of Trustees</a></li>
+<li><a class="scroll_slow" href="#trusteesmeetings">Trustee Community Engagement Meetings </a></li>
+<li><a class="scroll_slow" href="#meetings">School Board Meetings</a></li>
+<li><a class="scroll_slow" href="#maps">Trustee District Maps</a></li>
+<li><a class="scroll_slow" href="#committies">Board Affiliated Committees</a></li>
+<li><a class="scroll_slow" href="#comment">Public Comment at Board Meetings</a></li>
+<li><a class="scroll_slow" href="#policies">Governance Policies</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10785">
+<div class="fsElementContent">
+<div><a id="trustees"></a></div>
+<h2>Board of School Trustees</h2>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_109402">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_109403">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109426">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Emily Stevens" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764872958/ccsdnet/xp21wk3vouyih4bex2is/E-Stevens-2025-Headshot-Edited-1-r21l901dwlfomq6kuvfldedsvs86anhgp23rf8au9w.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="E-Stevens-2025-Headshot-Edited-1-r21l901dwlfomq6kuvfldedsvs86anhgp23rf8au9w.jpg" data-resource-uuid="8c0d40a7-1282-40c3-8510-5678c11097f8" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Emily Stevens</h4>
+<p>President</p>
+<p>District A</p>
+<a class="button-1" href="/about/school-board/trustees/emily-stevens/">More Info</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_109405">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109404">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Irene Bustamante Adams" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764872124/ccsdnet/hy9xtt5lvn9log2zqfo6/Adams-2024-1.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Adams-2024-1.jpg" data-resource-uuid="eeb49d9e-11cc-4a46-a674-2a9534377d1c" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;font-size:18px !important;">Irene Bustamante Adams</h4>
+<p>Vice President</p>
+<p>District F</p>
+<a class="button-1" href="/about/school-board/trustees/irene-bustamante-adams">More Info</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_109407">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109417">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Lydia Dominguez" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764872665/ccsdnet/glmbs3wkk39xql4srqov/L-Dominguez-2025-Headshot-Edited-r21kzxve1316q1ccrgg1u6our2vt3oils7q9w7qg90.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="L-Dominguez-2025-Headshot-Edited-r21kzxve1316q1ccrgg1u6our2vt3oils7q9w7qg90.jpg" data-resource-uuid="c5893c42-bf71-4e28-b0db-f0fe95e3e333" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Lydia Dominguez</h4>
+<p>Clerk</p>
+<p>District B</p>
+<a class="button-1" href="/about/school-board/trustees/lydia-dominguez/">More Info</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_109409">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109410">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Isaac Barron" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764872402/ccsdnet/jgmgg20tukhnnpemynu0/I-Barron-2025-Headshot-Edited-r21l2u7h3p00ir4su7jn0yd0oulju30t6k565xfr2c.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="I-Barron-2025-Headshot-Edited-r21l2u7h3p00ir4su7jn0yd0oulju30t6k565xfr2c.jpg" data-resource-uuid="aedd66e7-48df-4247-826c-9c530159f3f7" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Isaac Barron</h4>
+<p>Member</p>
+<p>North Las Vegas</p>
+<a class="button-1" href="/about/school-board/trustees/isaac-barron/">More Info</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_109411">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_109412">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109413">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Lorena Biassotti" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764872501/ccsdnet/y2mbm6haww2fdztncbdk/L-Biassotti-Headshot-2025-r21kxje8kbqt1wtysf2dgsig3mq1fizasbplqrao5g.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="L-Biassotti-Headshot-2025-r21kxje8kbqt1wtysf2dgsig3mq1fizasbplqrao5g.jpg" data-resource-uuid="0e4095ec-5c81-42a7-86cf-18b3331387bc" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Lorena Biassotti</h4>
+<p>Member</p>
+<p>District E</p>
+<a class="button-1" href="/about/school-board/trustees/lorena-biassotti/">More Info</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_109414">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109415">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Linda P. Cavazos" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764872599/ccsdnet/ujyk1qyxw0sdlopd5sjh/Cavazos_2025.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Cavazos_2025.jpg" data-resource-uuid="a7d1923d-f056-40dd-b7c3-41495c980cfa" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Linda P. Cavazos</h4>
+<p>Member</p>
+<p>District G</p>
+<a class="button-1" href="/about/school-board/trustees/linda-p-cavazos/">More Info</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_109416">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109419">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Ramona Esparza-Stoffregan" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764872739/ccsdnet/no3buhqq3w6t6qcsveit/Esparza-Stoffregan_2025-r79ede71vk834bj4ij5runox5ko4436a55gyzy40xw.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Esparza-Stoffregan_2025-r79ede71vk834bj4ij5runox5ko4436a55gyzy40xw.jpg" data-resource-uuid="261b4c55-a44b-4827-b8aa-214c7f7a8dfa" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;font-size:16px !important;">Ramona Esparza-Stoffregan</h4>
+<p>Member</p>
+<p>Henderson</p>
+<a class="button-1" href="/about/school-board/trustees/ramona-esparza-stoffregan/">More Info</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_109418">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109408">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Tameka Henry" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764872313/ccsdnet/ndoqrzx7wpnvbbpvj5gc/T-Henry-2025-Headshot-Edited-r21kujasqdmtyr6zbmca01sfsbituc261gorjxqy10.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="T-Henry-2025-Headshot-Edited-r21kujasqdmtyr6zbmca01sfsbituc261gorjxqy10.jpg" data-resource-uuid="5f5e659c-4b90-404c-bfdf-3ba21d2bfeab" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Tameka Henry</h4>
+<p>Member</p>
+<p>District C</p>
+<a class="button-1" href="/about/school-board/trustees/tameka-henry">More Info</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_109420">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_109421">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109422">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Adam Johnson" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764872811/ccsdnet/f59frkqu42r962b1frcy/Johnson-2024-1.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Johnson-2024-1.jpg" data-resource-uuid="df7ff074-3e28-4a4d-80b7-9194134f26dd" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Adam Johnson</h4>
+<p>Member</p>
+<p>Las Vegas</p>
+<a class="button-1" href="/about/school-board/trustees/adam-johnson/">More Info</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_109423">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109424">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Lisa Satory" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764872893/ccsdnet/ufcljd7beiyphcohokpg/L-Satory-2025-Headshot-Edited-r21l784czv06p8rf83synuighkz7r8fps9qqsexm10.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="L-Satory-2025-Headshot-Edited-r21l784czv06p8rf83synuighkz7r8fps9qqsexm10.jpg" data-resource-uuid="5eb6692f-29c8-4f4f-8025-0d9ec4abbdb4" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Lisa Satory</h4>
+<p>Member</p>
+<p>Clark County</p>
+<a class="button-1" href="/about/school-board/trustees/lisa-satory/">More Info</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_109425">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109406">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Brenda Zamora" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764872214/ccsdnet/xeydbtyjoq8aeu9yaknl/Zamora-2025-r79dwsdp4xhq0bnhhcr1sujrciio4l8zuyk5ryqev8.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Zamora-2025-r79dwsdp4xhq0bnhhcr1sujrciio4l8zuyk5ryqev8.jpg" data-resource-uuid="9a86cab9-9c84-48d9-a5fc-f7c18391eac4" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Brenda Zamora</h4>
+<p>Member</p>
+<p>District D</p>
+<a class="button-1" href="/about/school-board/trustees/brenda-zamora/">More Info</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_109427">
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_170397">
+<div class="fsElementContent">
+<div><a id="trusteesmeetings"></a></div>
+<h2>Trustee Community Engagement Meetings</h2>
+</div>
+</div>
+<div class="fsElement fsCalendar fsGrid fsItemCount_5" data-calendar-ids="48" data-new-calendar-style="true" data-use-new="true" id="fsEl_170399">
+<div class="fsElementContent">
+<div class="fsCalendarGridControlBar fsStyleAutoclear">
+<div class="fsElementControls">
+<div class="fsAlertFeeds">
+<a aria-label="Calendar RSS Feeds" class="fsRSSIcon" href="#" title="Calendar RSS">
+<span class="fsStyleSROnly">Calendar RSS Feeds</span>
+</a></div>
+</div>
+<div class="fsCalendarGridBrowser fsCalendarMonthBrowser">
+<button aria-label="Previous Month" class="fsCalendarPrevMonth fsLeftArrow" value="2026-02-09">&lt;</button>
+<span>March 2026</span>
+<button aria-label="Next Month" class="fsCalendarNextMonth fsRightArrow" value="2026-04-09">&gt;</button>
+</div>
+</div>
+<div class="fsCalendarDayView fsStateHidden" data-day="1" data-month="2" data-year="2026" role="tabpanel"></div>
+<div class="fsNewModuleCalendarGrid fsCalendarEventGrid fsStyleAutoclear" role="tabpanel">
+<div class="fsCalendarWeekdays">
+<span>Sunday</span>
+<span>Monday</span>
+<span>Tuesday</span>
+<span>Wednesday</span>
+<span>Thursday</span>
+<span>Friday</span>
+<span>Saturday</span>
+</div>
+<div class="fsCalendarRow">
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="1" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Sunday,</span>
+<span class="fsCalendarMonth">March</span>
+					1
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="2" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Monday,</span>
+<span class="fsCalendarMonth">March</span>
+					2
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="3" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Tuesday,</span>
+<span class="fsCalendarMonth">March</span>
+					3
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="4" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Wednesday,</span>
+<span class="fsCalendarMonth">March</span>
+					4
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="5" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Thursday,</span>
+<span class="fsCalendarMonth">March</span>
+					5
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="6" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Friday,</span>
+<span class="fsCalendarMonth">March</span>
+					6
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="7" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Saturday,</span>
+<span class="fsCalendarMonth">March</span>
+					7
+				</div>
+</div>
+</div><div class="fsCalendarRow">
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="8" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Sunday,</span>
+<span class="fsCalendarMonth">March</span>
+					8
+				</div>
+</div>
+<div class="fsCalendarDaybox fsCalendarToday">
+<div class="fsCalendarDate" data-day="9" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Monday,</span>
+<span class="fsCalendarMonth">March</span>
+					9
+				</div>
+</div>
+<div class="fsCalendarDaybox fsStateHasEvents">
+<div class="fsCalendarDate" data-day="10" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Tuesday,</span>
+<span class="fsCalendarMonth">March</span>
+					10
+				</div>
+<div class="fsCalendarInfo fsCalendarDayViewEvent noBottomMargin fsCalendarEvent">
+<span aria-hidden="true" class="fsElementEventColorIcon" style="background:#002b49" title="Trustee Community Engagement Meetings"></span><span class="fsStyleSROnly">Trustee Community Engagement Meetings</span>
+<a class="fsCalendarTitle fsCalendarEventLink" data-occur-id="67088336_2026-03-11T00:15:00Z_2026-03-11T01:30:00Z" href="#" title="District G">District G</a>
+<div class="fsTimeRange">
+<time class="fsStartTime" datetime="2026-03-10T17:15:00-07:00"><span class="fsHour"> 5</span>:<span class="fsMinute">15</span> <span class="fsMeridian">PM</span></time>
+<span class="fsTimeSeperator"> - </span>
+<time class="fsEndTime" datetime="2026-03-10T18:30:00-07:00"><span class="fsHour"> 6</span>:<span class="fsMinute">30</span> <span class="fsMeridian">PM</span></time>
+</div>
+</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="11" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Wednesday,</span>
+<span class="fsCalendarMonth">March</span>
+					11
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="12" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Thursday,</span>
+<span class="fsCalendarMonth">March</span>
+					12
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="13" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Friday,</span>
+<span class="fsCalendarMonth">March</span>
+					13
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="14" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Saturday,</span>
+<span class="fsCalendarMonth">March</span>
+					14
+				</div>
+</div>
+</div><div class="fsCalendarRow">
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="15" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Sunday,</span>
+<span class="fsCalendarMonth">March</span>
+					15
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="16" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Monday,</span>
+<span class="fsCalendarMonth">March</span>
+					16
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="17" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Tuesday,</span>
+<span class="fsCalendarMonth">March</span>
+					17
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="18" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Wednesday,</span>
+<span class="fsCalendarMonth">March</span>
+					18
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="19" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Thursday,</span>
+<span class="fsCalendarMonth">March</span>
+					19
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="20" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Friday,</span>
+<span class="fsCalendarMonth">March</span>
+					20
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="21" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Saturday,</span>
+<span class="fsCalendarMonth">March</span>
+					21
+				</div>
+</div>
+</div><div class="fsCalendarRow">
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="22" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Sunday,</span>
+<span class="fsCalendarMonth">March</span>
+					22
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="23" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Monday,</span>
+<span class="fsCalendarMonth">March</span>
+					23
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="24" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Tuesday,</span>
+<span class="fsCalendarMonth">March</span>
+					24
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="25" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Wednesday,</span>
+<span class="fsCalendarMonth">March</span>
+					25
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="26" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Thursday,</span>
+<span class="fsCalendarMonth">March</span>
+					26
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="27" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Friday,</span>
+<span class="fsCalendarMonth">March</span>
+					27
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="28" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Saturday,</span>
+<span class="fsCalendarMonth">March</span>
+					28
+				</div>
+</div>
+</div><div class="fsCalendarRow">
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="29" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Sunday,</span>
+<span class="fsCalendarMonth">March</span>
+					29
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="30" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Monday,</span>
+<span class="fsCalendarMonth">March</span>
+					30
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="31" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Tuesday,</span>
+<span class="fsCalendarMonth">March</span>
+					31
+				</div>
+</div>
+<div class="fsCalendarDaybox fsCalendarOutOfRange">
+<div class="fsCalendarDate" data-day="1" data-month="3" data-year="2026">
+<span class="fsCalendarDay">Wednesday,</span>
+<span class="fsCalendarMonth">April</span>
+					1
+				</div>
+</div>
+<div class="fsCalendarDaybox fsCalendarOutOfRange">
+<div class="fsCalendarDate" data-day="2" data-month="3" data-year="2026">
+<span class="fsCalendarDay">Thursday,</span>
+<span class="fsCalendarMonth">April</span>
+					2
+				</div>
+</div>
+<div class="fsCalendarDaybox fsCalendarOutOfRange">
+<div class="fsCalendarDate" data-day="3" data-month="3" data-year="2026">
+<span class="fsCalendarDay">Friday,</span>
+<span class="fsCalendarMonth">April</span>
+					3
+				</div>
+</div>
+<div class="fsCalendarDaybox fsCalendarOutOfRange">
+<div class="fsCalendarDate" data-day="4" data-month="3" data-year="2026">
+<span class="fsCalendarDay">Saturday,</span>
+<span class="fsCalendarMonth">April</span>
+					4
+				</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_176622">
+<div class="fsElementContent">
+<p style="text-align:center;"><a class="button-7" href="https://ccsdnet.finalsite.com/fs/calendar-manager/events.ics?calendar_ids=48" target="_blank">Add To Your Calendar</a></p>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_4812">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_4813">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_4776">
+<div class="fsElementContent">
+<div><a id="meetings"></a></div>
+<h2>School Board Meetings</h2>
+<p>Regular meetings of the Board of School Trustees are held the second and fourth Thursday of each month beginning at 5:00 p.m. and Work Sessions are held on the first Wednesday of the month at 4:00 p.m. <strong>Meetings are subject to change. </strong></p>
+<h3>Livestream Meetings</h3>
+<p>All meetings can be viewed on <a href="https://www.youtube.com/channel/UCb8dUIsat7U7lTjXYPFs_Ww" target="_blank">Youtube </a> or <a href="https://ccsd.eduvision.tv/LiveEvents" target="_blank">Eduvision </a>on the day of the meeting. Special board meetings are held when necessary and are posted in advance in accordance with the Nevada open meeting law.</p>
+<h3>Board Documents</h3>
+<p>Access meeting agendas and reference material in BoardDocs by clicking <a href="https://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" target="_blank">here</a>.</p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_4814">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="4815" data-source-page-id="802" data-use-new="true" id="fsEl_4815">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Board of Trustees" data-aspect-ratio="0.5625" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1769006418/ccsdnet/jy1h6mc5bwlrpo4urph8/1000000850-1920x1080-c.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1769006418/ccsdnet/jy1h6mc5bwlrpo4urph8/1000000850-1920x1080-c.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1769006418/ccsdnet/jy1h6mc5bwlrpo4urph8/1000000850-1920x1080-c.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1769006418/ccsdnet/jy1h6mc5bwlrpo4urph8/1000000850-1920x1080-c.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1769006418/ccsdnet/jy1h6mc5bwlrpo4urph8/1000000850-1920x1080-c.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1769006418/ccsdnet/jy1h6mc5bwlrpo4urph8/1000000850-1920x1080-c.jpg%22,%22width%22:1920}]" data-permitted-user="true" data-resource-title="1000000850-1920x1080-c.jpg" data-resource-uuid="a615e45e-6f69-4d53-b166-d86ef8842c7d"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<section class="fsElement fsCalendar fsGrid fsItemCount_5" data-calendar-ids="47" data-new-calendar-style="true" data-use-new="true" id="fsEl_10801">
+<header>
+<h2 class="fsElementTitle">Board Meetings</h2>
+</header>
+<div class="fsElementContent">
+<div class="fsCalendarGridControlBar fsStyleAutoclear">
+<div class="fsDisplayNavigation">
+<div aria-label="Month, Week, or Day view selectors" class="fsDisplayNavigationList" role="tablist">
+<button aria-selected="true" class="fsDisplayButton" data-view="Month" role="tab">Month</button>
+<button aria-selected="false" class="fsDisplayButton" data-view="Week" role="tab">Week</button>
+<button aria-selected="false" class="fsDisplayButton" data-view="Day" role="tab">Day</button>
+</div>
+</div>
+<div class="fsElementControls">
+<a aria-label="Print Grid Element" class="fsPrintButton" href="/fs/elements/10801/print?" rel="noopener" target="_blank" title="Print Grid Element">
+<span class="fsStyleSROnly">Print Grid Element</span>
+</a>
+<a class="fsCalendarFilter" data-element-id="10801" href="#" title="Filters">
+<span class="fsCalendarFilterIcon">
+<span class="fsStyleSROnly">Calendar Filter</span>
+</span>
+</a>
+</div>
+<div class="fsCalendarGridBrowser fsCalendarMonthBrowser">
+<button aria-label="Previous Month" class="fsCalendarPrevMonth fsLeftArrow" value="2026-02-09">&lt;</button>
+<span>March 2026</span>
+<button aria-label="Next Month" class="fsCalendarNextMonth fsRightArrow" value="2026-04-09">&gt;</button>
+</div>
+</div>
+<div class="fsCalendarDayView fsStateHidden" data-day="1" data-month="2" data-year="2026" role="tabpanel"></div>
+<div class="fsNewModuleCalendarGrid fsCalendarEventGrid fsStyleAutoclear" role="tabpanel">
+<div class="fsCalendarWeekdays">
+<span>Sunday</span>
+<span>Monday</span>
+<span>Tuesday</span>
+<span>Wednesday</span>
+<span>Thursday</span>
+<span>Friday</span>
+<span>Saturday</span>
+</div>
+<div class="fsCalendarRow">
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="1" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Sunday,</span>
+<span class="fsCalendarMonth">March</span>
+					1
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="2" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Monday,</span>
+<span class="fsCalendarMonth">March</span>
+					2
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="3" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Tuesday,</span>
+<span class="fsCalendarMonth">March</span>
+					3
+				</div>
+</div>
+<div class="fsCalendarDaybox fsStateHasEvents">
+<div class="fsCalendarDate" data-day="4" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Wednesday,</span>
+<span class="fsCalendarMonth">March</span>
+					4
+				</div>
+<div class="fsCalendarInfo fsCalendarDayViewEvent noBottomMargin fsCalendarEvent">
+<span aria-hidden="true" class="fsElementEventColorIcon" style="background:#f1af1c" title="Board Meetings"></span><span class="fsStyleSROnly">Board Meetings</span>
+<a class="fsCalendarTitle fsCalendarEventLink" data-occur-id="23889852_2026-03-05T00:00:00Z_2026-03-05T01:00:00Z" href="#" title="Work Session Meeting">Work Session Meeting</a>
+<div class="fsTimeRange">
+<time class="fsStartTime" datetime="2026-03-04T16:00:00-08:00"><span class="fsHour"> 4</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+<span class="fsTimeSeperator"> - </span>
+<time class="fsEndTime" datetime="2026-03-04T17:00:00-08:00"><span class="fsHour"> 5</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+</div>
+</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="5" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Thursday,</span>
+<span class="fsCalendarMonth">March</span>
+					5
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="6" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Friday,</span>
+<span class="fsCalendarMonth">March</span>
+					6
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="7" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Saturday,</span>
+<span class="fsCalendarMonth">March</span>
+					7
+				</div>
+</div>
+</div><div class="fsCalendarRow">
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="8" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Sunday,</span>
+<span class="fsCalendarMonth">March</span>
+					8
+				</div>
+</div>
+<div class="fsCalendarDaybox fsCalendarToday">
+<div class="fsCalendarDate" data-day="9" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Monday,</span>
+<span class="fsCalendarMonth">March</span>
+					9
+				</div>
+</div>
+<div class="fsCalendarDaybox fsStateHasEvents">
+<div class="fsCalendarDate" data-day="10" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Tuesday,</span>
+<span class="fsCalendarMonth">March</span>
+					10
+				</div>
+<div class="fsCalendarInfo fsCalendarDayViewEvent noBottomMargin fsCalendarEvent">
+<span aria-hidden="true" class="fsElementEventColorIcon" style="background:#f1af1c" title="Board Meetings"></span><span class="fsStyleSROnly">Board Meetings</span>
+<a class="fsCalendarTitle fsCalendarEventLink" data-occur-id="43982815_2026-03-10T17:30:00Z_2026-03-10T18:30:00Z" href="#" title="Attendance Zone Advisory Commission Meeting">Attendance Zone Advisory Commission Meeting</a>
+<div class="fsTimeRange">
+<time class="fsStartTime" datetime="2026-03-10T10:30:00-07:00"><span class="fsHour">10</span>:<span class="fsMinute">30</span> <span class="fsMeridian">AM</span></time>
+<span class="fsTimeSeperator"> - </span>
+<time class="fsEndTime" datetime="2026-03-10T11:30:00-07:00"><span class="fsHour">11</span>:<span class="fsMinute">30</span> <span class="fsMeridian">AM</span></time>
+</div>
+</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="11" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Wednesday,</span>
+<span class="fsCalendarMonth">March</span>
+					11
+				</div>
+</div>
+<div class="fsCalendarDaybox fsStateHasEvents">
+<div class="fsCalendarDate" data-day="12" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Thursday,</span>
+<span class="fsCalendarMonth">March</span>
+					12
+				</div>
+<div class="fsCalendarInfo fsCalendarDayViewEvent noBottomMargin fsCalendarEvent">
+<span aria-hidden="true" class="fsElementEventColorIcon" style="background:#f1af1c" title="Board Meetings"></span><span class="fsStyleSROnly">Board Meetings</span>
+<a class="fsCalendarTitle fsCalendarEventLink" data-occur-id="23889853_2026-03-13T00:00:00Z_2026-03-13T01:00:00Z" href="#" title="Regular Board Meeting">Regular Board Meeting</a>
+<div class="fsTimeRange">
+<time class="fsStartTime" datetime="2026-03-12T17:00:00-07:00"><span class="fsHour"> 5</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+<span class="fsTimeSeperator"> - </span>
+<time class="fsEndTime" datetime="2026-03-12T18:00:00-07:00"><span class="fsHour"> 6</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+</div>
+</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="13" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Friday,</span>
+<span class="fsCalendarMonth">March</span>
+					13
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="14" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Saturday,</span>
+<span class="fsCalendarMonth">March</span>
+					14
+				</div>
+</div>
+</div><div class="fsCalendarRow">
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="15" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Sunday,</span>
+<span class="fsCalendarMonth">March</span>
+					15
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="16" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Monday,</span>
+<span class="fsCalendarMonth">March</span>
+					16
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="17" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Tuesday,</span>
+<span class="fsCalendarMonth">March</span>
+					17
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="18" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Wednesday,</span>
+<span class="fsCalendarMonth">March</span>
+					18
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="19" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Thursday,</span>
+<span class="fsCalendarMonth">March</span>
+					19
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="20" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Friday,</span>
+<span class="fsCalendarMonth">March</span>
+					20
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="21" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Saturday,</span>
+<span class="fsCalendarMonth">March</span>
+					21
+				</div>
+</div>
+</div><div class="fsCalendarRow">
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="22" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Sunday,</span>
+<span class="fsCalendarMonth">March</span>
+					22
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="23" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Monday,</span>
+<span class="fsCalendarMonth">March</span>
+					23
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="24" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Tuesday,</span>
+<span class="fsCalendarMonth">March</span>
+					24
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="25" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Wednesday,</span>
+<span class="fsCalendarMonth">March</span>
+					25
+				</div>
+</div>
+<div class="fsCalendarDaybox fsStateHasEvents">
+<div class="fsCalendarDate" data-day="26" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Thursday,</span>
+<span class="fsCalendarMonth">March</span>
+					26
+				</div>
+<div class="fsCalendarInfo fsCalendarDayViewEvent noBottomMargin fsCalendarEvent">
+<span aria-hidden="true" class="fsElementEventColorIcon" style="background:#f1af1c" title="Board Meetings"></span><span class="fsStyleSROnly">Board Meetings</span>
+<a class="fsCalendarTitle fsCalendarEventLink" data-occur-id="23889854_2026-03-27T00:00:00Z_2026-03-27T01:00:00Z" href="#" title="Regular Board Meeting">Regular Board Meeting</a>
+<div class="fsTimeRange">
+<time class="fsStartTime" datetime="2026-03-26T17:00:00-07:00"><span class="fsHour"> 5</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+<span class="fsTimeSeperator"> - </span>
+<time class="fsEndTime" datetime="2026-03-26T18:00:00-07:00"><span class="fsHour"> 6</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+</div>
+</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="27" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Friday,</span>
+<span class="fsCalendarMonth">March</span>
+					27
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="28" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Saturday,</span>
+<span class="fsCalendarMonth">March</span>
+					28
+				</div>
+</div>
+</div><div class="fsCalendarRow">
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="29" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Sunday,</span>
+<span class="fsCalendarMonth">March</span>
+					29
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="30" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Monday,</span>
+<span class="fsCalendarMonth">March</span>
+					30
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="31" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Tuesday,</span>
+<span class="fsCalendarMonth">March</span>
+					31
+				</div>
+</div>
+<div class="fsCalendarDaybox fsStateHasEvents fsCalendarOutOfRange">
+<div class="fsCalendarDate" data-day="1" data-month="3" data-year="2026">
+<span class="fsCalendarDay">Wednesday,</span>
+<span class="fsCalendarMonth">April</span>
+					1
+				</div>
+<div class="fsCalendarInfo fsCalendarDayViewEvent noBottomMargin fsCalendarEvent">
+<span aria-hidden="true" class="fsElementEventColorIcon" style="background:#f1af1c" title="Board Meetings"></span><span class="fsStyleSROnly">Board Meetings</span>
+<a class="fsCalendarTitle fsCalendarEventLink" data-occur-id="23889855_2026-04-01T23:00:00Z_2026-04-02T00:00:00Z" href="#" title="Work Session Meeting">Work Session Meeting</a>
+<div class="fsTimeRange">
+<time class="fsStartTime" datetime="2026-04-01T16:00:00-07:00"><span class="fsHour"> 4</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+<span class="fsTimeSeperator"> - </span>
+<time class="fsEndTime" datetime="2026-04-01T17:00:00-07:00"><span class="fsHour"> 5</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+</div>
+</div>
+</div>
+<div class="fsCalendarDaybox fsCalendarOutOfRange">
+<div class="fsCalendarDate" data-day="2" data-month="3" data-year="2026">
+<span class="fsCalendarDay">Thursday,</span>
+<span class="fsCalendarMonth">April</span>
+					2
+				</div>
+</div>
+<div class="fsCalendarDaybox fsCalendarOutOfRange">
+<div class="fsCalendarDate" data-day="3" data-month="3" data-year="2026">
+<span class="fsCalendarDay">Friday,</span>
+<span class="fsCalendarMonth">April</span>
+					3
+				</div>
+</div>
+<div class="fsCalendarDaybox fsCalendarOutOfRange">
+<div class="fsCalendarDate" data-day="4" data-month="3" data-year="2026">
+<span class="fsCalendarDay">Saturday,</span>
+<span class="fsCalendarMonth">April</span>
+					4
+				</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_143484">
+<div class="fsElementContent">
+<p style="text-align:center;"><a class="button-7" href="/fs/calendar-manager/events.ics?calendar_ids=47" target="_blank">Add To Your Calendar</a></p>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_4769">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-4770" role="presentation">
+<a aria-controls="fsEl_4770" aria-selected="false" href="#fs-panel-4770" role="tab">Public Comment at Board Meetings</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-4793" role="presentation">
+<a aria-controls="fsEl_4793" aria-selected="false" href="#fs-panel-4793" role="tab">Board Affiliated Committees</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-4808" role="presentation">
+<a aria-controls="fsEl_4808" aria-selected="false" href="#fs-panel-4808" role="tab">Board Meeting Agendas and Minutes</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-4810" role="presentation">
+<a aria-controls="fsEl_4810" aria-selected="false" href="#fs-panel-4810" role="tab">Trustee District Maps</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-10787" role="presentation">
+<a aria-controls="fsEl_10787" aria-selected="false" href="#fs-panel-10787" role="tab">Governance Policies</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_4770" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_4770" aria-expanded="false" href="#fs-panel-4770" role="button">Public Comment at Board Meetings</a></h2>
+<div class="fsElementHeaderContent">
+<div><a id="comment"></a></div>
+</div>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-4770"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_4771">
+<div class="fsElementContent">
+<div>The Board of School Trustees recognizes that its deliberative process benefits greatly from public input and perspective. Those wishing to address the Board in person may sign up to speak once the agenda has been posted by calling the Board Office at (702) 799-1072 during regular business hours and at least 8 business hours prior to the scheduled start of the meeting.</div>
+<div> </div>
+<div>Alternatively, speakers may sign up in person immediately prior to the beginning of the meeting. To minimize distractions, no additional speakers may sign up once the Board President has introduced the agenda item. Customarily, speakers will be called in the order in which they signed up.</div>
+<div> </div>
+<div>Members of the public are permitted to provide public comment on any agenda item requiring Board action after staff presentations and discussion by the Board, but before the Board votes on the item. Speakers will be given 3 minutes to address the Board and shall remain on topic. The Consent Agenda is considered a single action item with a 3 minute speaker limit per individual no matter how many sub-items the individual wishes to comment on.</div>
+<div> </div>
+<div>A public comment period will be offered immediately prior to the adjournment of the meeting for members of the public who wish to speak on matters that are within the jurisdiction of the Board but not listed as an action item on the agenda. Each individual wishing to speak during this period will be given 3 minutes to address the Board.</div>
+<div> </div>
+<div>Written public comments may be submitted to <a href="mailto:boardmtgcomments@nv.ccsd.net" target="_blank">boardmtgcomments@nv.ccsd.net</a> after the agenda has been posted and at least 8 business hours prior to the scheduled start of the meeting. Any written comments received after the deadline and prior to the meeting adjourning will be uploaded to BoardDocs within the appropriate item on the next business day.</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_4778">
+<div class="fsElementContent">
+<p><a class="button-1" href="/about/school-board/contact">Contact A Board Member</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_4793" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_4793" aria-expanded="false" href="#fs-panel-4793" role="button">Board Affiliated Committees</a></h2>
+<div class="fsElementHeaderContent">
+<div><a id="committies"></a></div>
+</div>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-4793"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_4794">
+<div class="fsElementContent">
+<h2>School Board Committees</h2>
+<h3> </h3>
+<hr/>
+<p><strong><a href="http://azac.ccsd.net/" target="_blank">Attendance Zone Advisory Commission (AZAC)</a></strong></p>
+<ul>
+<li>The purpose of this commission is to bring school zoning recommendations to the full Board. Each Board member appoints two members from his or her District.</li>
+<li>Committee members include: Nicholas Fedei (Chair), Dave Flatt (Vice Chair), Lance Arnt (Member), Shalayna Brown (Member), Brandon Davis (Member), Meredith Freeman (Member), Diane Kinsel (Member), Lawrence Nowak (Member), Kelly Quinn (Member), Jess Tirado (Member), Tim Vicario (Member), and Rudy Zamora (Member)</li>
+</ul>
+<p><strong>Audit Advisory Committee</strong></p>
+<ul>
+<li>The purpose of this committee is to advise the Board in strengthening accountability for stewardship and efficient use of public funds; provide a communication link between external and internal auditors and the Board of Trustees; enhance transparency of the District's financial operations; and improve public trust in the honesty and integrity of its public officials.</li>
+<li>Committee members include: Joshua Robinson (Chair), Anna Binder (Member), Elizabeth Hammer (Member), Jeffrey Share (Member), and Joseph Throneberry (Member)</li>
+</ul>
+<hr/>
+<hr/>
+<p><strong><a href="http://capitalimprovementplan.ccsd.net/who-we-are/" target="_blank">Bond Oversight Committee (BOC)</a></strong></p>
+<ul>
+<li>The purpose of this committee is to provide input on the distribution of the district's 1998 bond funds. Each Board member appoints one committee member from their District. The district also nominates members of the committee.</li>
+<li>Board liaison is Trustee Emily Stevens.</li>
+<li>Committee members include: Jeana Blackman-Taylor (Chair), Chris Giunchigliani (First Vice Chair), Alfonso Lopez (Second Vice Chair), Sally Achord (Member), Jessica Allen (Member), David Flatt (Member), David Flippo (Member), Margarita Gamboa Harris (Member), Byron Goynes (Member), Robert Gurdison (Member), James Halsey (Member), Nakia Jackson-Hale (Member), Walter Jones (Member), Stephen Silberkraus (Member), Yvette Williams (Member), and Emily Stevens (Board of School Trustees Liaison)</li>
+</ul>
+<p><strong><a data-file-name="oversight-panel-for-school-facilities.pdf" data-resource-uuid="4e92ebc1-fa51-43dc-98cd-1c9ef6fd743c" href="/fs/resource-manager/view/4e92ebc1-fa51-43dc-98cd-1c9ef6fd743c" target="_blank">Oversight Panel for School Facilities</a></strong></p>
+<ul>
+<li>The purpose of this panel is to examine and make recommendations for financing the costs of new construction, design, maintenance and repair of school facilities. Board liaison is Trustee Ramona Esparza-Stoffregan.</li>
+<li>Members include: Eric Giles (Chair), James Halsey (Vice Chair),  Carrie Cox (Member), Ruth Garcia-Anderson (Member), Sherri Jorgensen (Member), Greg Korte (Member), Michael Longi (Member), Victoria Seaman (Member), Tick Segerblom (Member), and Anna Slighting (Member)</li>
+</ul>
+<p><strong><a data-page-name="School Name Committee" href="/fs/pages/21698" target="_blank">School Name Committee</a></strong></p>
+<ul>
+<li>The purpose of this committee is to review naming nominations for unnamed Clark County School District facilities, including schools, central office locations and areas within schools (for example, libraries and sports facilities).</li>
+<li>Two School Board trustees serve as members of the committee: Trustee Tameka Henry (committee chairperson) and Trustee Linda P. Cavazos. The other committee members, who are appointed by the superintendent, include: Bradley Combs, Abigail Johnson, Piper Overstreet-White, and Michael Patterson.</li>
+</ul>
+<hr/>
+<h2>Sex Education Advisory Committee</h2>
+<p><strong><a href="https://cpd.ccsd.net/departments/science/k-12-health-and-physical-education/sex-education/">Sex Education Advisory Committee</a></strong></p>
+<ul>
+<li>The purpose of the committee is to make recommendations to the Board regarding content and materials that are contained in sex education units.<br/>
+	Committee members include: Carissa Quatrino, Keith R. Frank, Arcelia Barajas, Nakia Jackson-Hale, Joanna Soto, Amanda Stephens, Dei Thomas, Shay Bravo-Bezard, and Cara McAnallen.</li>
+</ul>
+<p><strong><a href="https://cpd.ccsd.net/departments/science/k-12-health-and-physical-education/sex-education/">Sex Education Advisory Committee Recommending Committee</a></strong></p>
+<ul>
+<li>The purpose of this committee is to make recommendations to the Board on membership to the Sex Education Advisory Committee.<br/>
+	Committee members include: Courtney Defeo, Lindsey Dalley, Ender Austin, Stavan Corbett, Marie Solomon, Nicole Hollimon, and Donna West. </li>
+</ul>
+<p><a data-file-name="Sex-Education-Advisory-Committee-Selection-Processdocx.pdf" data-resource-uuid="ae69a55e-9afd-486e-b757-76070d557c27" href="/fs/resource-manager/view/ae69a55e-9afd-486e-b757-76070d557c27" target="_blank">Sex Education Advisory Committee Selection Process</a></p>
+<ul>
+<li>Nevada Revised Statutes (NRS) <a href="https://www.leg.state.nv.us/nrs/nrs-389.html#NRS389Sec036" target="_blank">389.036</a> mandates that a Sex Education Advisory Committee (SEAC) to the Board of School Trustees for all school districts be established. Clark County School District <a href="https://ccsd.net/district/policies-regulations/pdf/6123_R.pdf" target="_blank">Regulation 6123</a> and <a href="https://ccsd.net/district/policies-regulations/pdf/6123_P.pdf" target="_blank">Policy 6123</a>, Instruction on the Human Immunodeficiency Virus, Human Reproductive System, Related Communicable Diseases, and Sexual Responsibility, state that the Board of School Trustees shall appoint an advisory committee consisting of the following representation for a two-year term:<br/>
+<br/>
+	1. Five parents/guardians of children who attend schools in the Clark County School District (District).<br/>
+	2. Four representatives, one from each of four of the following professions or occupations:<br/>
+	          a. Medicine or nursing,<br/>
+	          b. Counseling,<br/>
+	          c. Religion,<br/>
+	          d. Pupils who attend school in the District, or<br/>
+	          e. Teaching.<br/>
+	3. Two students will be appointed as non-voting members to serve as a resource to the committee.<br/>
+<br/>
+	SEAC is looking to fill the following vacancies: <strong>medicine or nursing, religion, and one (1) student.</strong> Please note, the student vacancy will open for the 2026–2027 school year.<br/>
+<br/>
+	All applications must be submitted electronically via the <a href="https://forms.gle/6mXWsDkvmpzfQT6b8" target="_blank">SEAC Application</a> Google Form no later than 5:00 p.m. on Monday, March 23, 2026. Exceptions will not be made.<br/>
+<br/>
+<strong>Registration Information</strong><br/>
+	Applications will be accepted beginning Friday, February 20, 2026, and must be submitted electronically via the SEAC Application Google Form no later than 5:00 p.m. on Monday, March 23, 2026. Exceptions will not be made. Applicants who have previously submitted an application and are interested are encouraged to complete a new one.<br/>
+<br/>
+<strong>Contact Information</strong><br/>
+	For more information or questions, please contact Kristoffer Carroll, director, Science, Health, Physical Education, and Driver Education Department, at <a href="tel:7027992348" target="_blank">(702) 799-2348</a> or via email at <a href="mailto:carrokr@nv.ccsd.net" target="_blank">carrokr@nv.ccsd.net</a>.</li>
+</ul>
+<p> </p>
+<hr/>
+<h2>Government committees with School Board representation</h2>
+<p><strong><a href="http://www.snrpc.org" target="_blank">Southern Nevada Regional Planning Commission (SNRPC)</a></strong></p>
+<ul>
+<li>The purpose of this regional commission is to develop a comprehensive regional policy plan for balanced economic, social, physical, environmental and fiscal development, as well as orderly growth management of the region.</li>
+<li>Board liaison is Trustee Emily Stevens (voting member) and Trustee Ramona Esparza-Stoffregan.</li>
+</ul>
+<p><strong><a href="http://www.clarkcountynv.gov" target="_blank">Debt Management Commission</a></strong></p>
+<ul>
+<li>The purpose of this commission is to secure timely and adequate funding to meet cash flow requirements for construction projects throughout Clark County, including other government entities beyond the school district.</li>
+<li>Board liaison is Trustee Emily Stevens (voting member) and Trustee Ramona Esparza-Stoffregan.</li>
+</ul>
+<h2>State or national affiliates</h2>
+<p><strong><a href="http://www.cgcs.org" target="_blank">Council of the Great City Schools</a></strong></p>
+<ul>
+<li>The purpose of this organization is to advocate for the nation's large urban school districts and their children.</li>
+<li>Board liaison is Trustee Irene Bustamante Adams.</li>
+</ul>
+<p><strong><a href="http://www.nvasb.org" target="_blank">Nevada Association of School Boards (NASB)</a></strong></p>
+<ul>
+<li>The purpose of this organization is for members of school boards from throughout the state to work together on education issues that impact all Nevada schools and students.</li>
+<li>This organization is comprised of school districts from throughout the state of Nevada.</li>
+<li>Board liaisons are as follows: Trustee Irene Bustamante Adams and Trustee Brenda Zamora.</li>
+</ul>
+<p><strong><a href="http://www.niaa.com" target="_blank">Nevada Interscholastic Activities Association (NIAA)</a></strong></p>
+<ul>
+<li>The purpose of this association is to promote, control, supervise, and regulate all interscholastic athletic events and other interscholastic events in Nevada's public schools.</li>
+</ul>
+<p><strong>Current NIAA Board of Control Members</strong></p>
+<ul>
+<li>Christina Brockett, Principal, Eldorado High School</li>
+<li>Linda P. Cavazos, Clark County School District Board of Trustees</li>
+<li>Brian Freeman, CCSD Parent Representative</li>
+<li>Pamela Sloan, CCSD Director of Student Athletics and Activities</li>
+<li>Colin McNaught, Principal, Cimarron-Memorial High School</li>
+<li>Keith Wipperman, Principal, Centennial High School</li>
+</ul>
+<p><strong><a href="http://www.pbs.org" target="_blank">Public Broadcasting Service (PBS)</a></strong></p>
+<ul>
+<li>The Trustee liaison sits on the Vegas PBS board and ensures that other trustees, acting in their capacity as FCC licensees, are aware of national programming policies affecting Vegas PBS.</li>
+<li>Board liaison is Trustee Lydia Dominguez.</li>
+</ul>
+<p><strong><a href="http://www.apts.org" target="_blank">America's Public Television Stations (APTS)</a></strong></p>
+<ul>
+<li>The Trustee liaison to this organization ensures that other Trustees, acting in their capacity as FCC licensees, are aware of legislative and regulatory issues affecting Vegas PBS, and assists with joint lobbying activities with Southern Nevada Public Television.</li>
+<li>Board liaison is Trustee Lydia Dominguez.</li>
+</ul>
+<h2>National or local boards/committees on which the Board traditionally participates</h2>
+<p><strong><a href="http://www.ccpef.org" target="_blank">Public Education Foundation</a></strong></p>
+<ul>
+<li>The mission of the Public Education Foundation is to mobilize community and global resources to support and impact public education through initiatives, programs, and promising practices designed to improve student performance and advance quality educational opportunities for all children.</li>
+<li>Board liaison is Trustee Adam Johnson.</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_4808" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_4808" aria-expanded="false" href="#fs-panel-4808" role="button">Board Meeting Agendas and Minutes</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-4808"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_4809">
+<div class="fsElementContent">
+<h3>2026</h3>
+<table class="table-styled">
+<thead>
+<tr>
+<th>Date</th>
+<th>Agenda</th>
+<th>View BoardDocs</th>
+<th>Minutes</th>
+<th>Video</th>
+<th>Video en español</th>
+</tr>
+</thead>
+<tbody><!-- check if the minutes_file is empty -->
+<tr class="even">
+<td width="175">March 17, 2026<br/>
+			Bond Oversight Committee</td>
+<td align="center"><a data-file-name="031726_Bond_Oversight_Committee_Meeting_Agenda.pdf" data-resource-uuid="0db7353d-cdb1-4342-b5b5-5579af750908" href="/fs/resource-manager/view/0db7353d-cdb1-4342-b5b5-5579af750908" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">March 12, 2026<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="03-12-26-RBM-Agenda.pdf" data-resource-uuid="76f12000-0cca-4837-b749-ef92b545064a" href="/fs/resource-manager/view/76f12000-0cca-4837-b749-ef92b545064a" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">March 4, 2026<br/>
+			Joint Meeting of the Clark County School District Board of Trustees, the Attendance Zone Advisory Commission, and the Bond Oversight Committee</td>
+<td align="center"><a data-file-name="030426_Joint_Board_AZAC_BOC_Meeting_Agenda.pdf" data-resource-uuid="52520269-93d0-445a-9925-8fad47172bef" href="/fs/resource-manager/view/52520269-93d0-445a-9925-8fad47172bef" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">Mar. 3, 2026<br/>
+			Attendance Zone Advisory Commission</td>
+<td align="center"><a data-file-name="03-03-26-AZAC-Agenda.pdf" data-resource-uuid="ac2f733b-95cd-4706-b107-af672812586c" href="/fs/resource-manager/view/ac2f733b-95cd-4706-b107-af672812586c" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Feb. 26, 2026<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="02-26-26-Regular-Board-Meeting-Agenda.pdf" data-resource-uuid="c3c6feaa-a8b0-4776-8c0e-3875d03bb25f" href="/fs/resource-manager/view/c3c6feaa-a8b0-4776-8c0e-3875d03bb25f" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<!--<td align="center"><a href="videos/index.php?id=1731" onclick="return popup(this)">Watch</a></td>--><!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.eduvision.tv/l?mmRymygI" target="_blank">Watch</a></td>-->
+<td align="center"><!-- <a  href="https://www.eduvision.tv/l?mmRymygI" style="cursor: pointer;" target="_blank">Watch</a> --></td>
+<td align="center"><!-- <a  href="https://www.eduvision.tv/l?mmRyAyyP" style="cursor: pointer;" target="_blank">Acceder al video</a> --></td>
+</tr>
+<!--
+-->
+<tr class="even">
+<td width="175">Feb. 19, 2026<br/>
+			Sex Education Advisory Committee</td>
+<td align="center"><a data-file-name="02-19-26-SEAC-Agenda.pdf" data-resource-uuid="d7a5def1-e131-4ea3-9319-de3e1a238f9f" href="/fs/resource-manager/view/d7a5def1-e131-4ea3-9319-de3e1a238f9f" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<!--<td align="center"><a href="videos/index.php?id=1731" onclick="return popup(this)">Watch</a></td>--><!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.eduvision.tv/l?mmRymygI" target="_blank">Watch</a></td>-->
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<!--
+-->
+<tr class="odd">
+<td width="175">Feb. 18, 2026<br/>
+			Audit Advisory Committee</td>
+<td align="center"><a data-file-name="02-18-26-AAC-Meeting-Agenda.pdf" data-resource-uuid="66afe5df-8b47-4a88-b9fc-7366da3e305d" href="/fs/resource-manager/view/66afe5df-8b47-4a88-b9fc-7366da3e305d" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<!--<td align="center"><a href="videos/index.php?id=1731" onclick="return popup(this)">Watch</a></td>--><!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.eduvision.tv/l?mmRymygI" target="_blank">Watch</a></td>-->
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<!--
+-->
+<tr class="even">
+<td width="175">Feb. 12, 2026<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="02-12-26-rbm-agenda.pdf" data-resource-uuid="61112fbf-bec6-42c6-813c-9be7b6bfe809" href="/fs/resource-manager/view/61112fbf-bec6-42c6-813c-9be7b6bfe809" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<!--<td align="center"><a href="videos/index.php?id=1731" onclick="return popup(this)">Watch</a></td>--><!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.eduvision.tv/l?mmRymygI" target="_blank">Watch</a></td>-->
+<td align="center"><!-- <a  href="https://www.eduvision.tv/l?mmRymygI" style="cursor: pointer;" target="_blank">Watch</a> --></td>
+<td align="center"><!-- <a  href="https://www.eduvision.tv/l?mmRyAyyP" style="cursor: pointer;" target="_blank">Acceder al video</a> --></td>
+</tr>
+<!--
+-->
+<tr class="odd">
+<td width="175">Feb. 4, 2026<br/>
+			Work Session</td>
+<td align="center"><a data-file-name="020426BWSAgenda1.pdf" data-resource-uuid="4e57cea4-0b46-41e2-a3df-529f944df1fd" href="/fs/resource-manager/view/4e57cea4-0b46-41e2-a3df-529f944df1fd" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<!--<td align="center"><a href="videos/index.php?id=1731" onclick="return popup(this)">Watch</a></td>--><!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.eduvision.tv/l?mmRymygI" target="_blank">Watch</a></td>-->
+<td align="center"><!-- <a  href="https://www.eduvision.tv/l?mmRymygI" style="cursor: pointer;" target="_blank">Watch</a> --></td>
+<td align="center"><!-- <a  href="https://www.eduvision.tv/l?mmRyAyyP" style="cursor: pointer;" target="_blank">Acceder al video</a> --></td>
+</tr>
+<tr class="even">
+<td width="175">Jan. 22, 2026<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="01-22-26-rbm-agenda-pdf.pdf" data-resource-uuid="4cec510f-d387-475a-9676-cb9b63573e4a" href="/fs/resource-manager/view/4cec510f-d387-475a-9676-cb9b63573e4a" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<!--<td align="center"><a href="videos/index.php?id=1731" onclick="return popup(this)">Watch</a></td>--><!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.eduvision.tv/l?mmRymygI" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://www.eduvision.tv/l?mmRymygI" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmRyAyyP" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr class="odd">
+<td width="175">Jan. 20, 2026<br/>
+			Bond Oversight Committee</td>
+<td align="center"><a data-file-name="1-20-26-bond-oversight-committee-agenda-pdf.pdf" data-resource-uuid="97971e65-e4a3-406d-a32b-a01607158d64" href="/fs/resource-manager/view/97971e65-e4a3-406d-a32b-a01607158d64" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<!--<td align="center">&nbsp;</td>--><!--<td align="center">&nbsp;</td>-->
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr class="even">
+<td width="175">Jan. 20, 2026<br/>
+			Attendance Zone Advisory Commission Meeting</td>
+<td align="center"><a data-file-name="01-20-26-azac-agenda-pdf.pdf" data-resource-uuid="49e70a77-a36b-4456-b3ad-5c5f2dab6605" href="/fs/resource-manager/view/49e70a77-a36b-4456-b3ad-5c5f2dab6605" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<!--<td align="center"><a href="videos/index.php?id=1730" onclick="return popup(this)">Watch</a></td>--><!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBNr%252bEz4NtuJQ%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBNr%252bEz4NtuJQ%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr class="odd">
+<td width="175">Jan. 14, 2026<br/>
+			AZAC Public Input Meeting</td>
+<td align="center"><a data-file-name="01-14-26-azac-public-input-meeting-agenda-pdf_1.pdf" data-resource-uuid="c7f51ca5-fd39-481b-9149-9acfab7f6031" href="/fs/resource-manager/view/c7f51ca5-fd39-481b-9149-9acfab7f6031" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"><a href="https://www.youtube.com/watch?v=1xs66Wf7K8o" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr class="even">
+<td width="175">Jan. 13, 2026<br/>
+			AZAC Public Input Meeting</td>
+<td align="center"><a data-file-name="01-13-26-azac-pim-agenda-pdf.pdf" data-resource-uuid="2d31b237-c043-4312-b209-be23d388d86b" href="/fs/resource-manager/view/2d31b237-c043-4312-b209-be23d388d86b" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"><a href="https://www.youtube.com/watch?v=tlwvCI6G6cY" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Jan. 08, 2026<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="01-08-26-rbm-agenda-pdf.pdf" data-resource-uuid="2615aa52-3624-459c-946d-4932fbc8af57" href="/fs/resource-manager/view/2615aa52-3624-459c-946d-4932fbc8af57" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<!--<td align="center"><a href="videos/index.php?id=1725" onclick="return popup(this)">Watch</a></td>--><!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.eduvision.tv/l?mmROyeOh" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://www.eduvision.tv/l?mmROyeOh" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmROyemI" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<!-- check if the minutes_file is empty -->
+<tr class="even">
+<td width="175">Jan. 07, 2026<br/>
+			Board Work Session</td>
+<td align="center"><a data-file-name="01-07-26-bws-agenda-pdf.pdf" data-resource-uuid="7ad55d9e-7448-4d7e-b99f-870b78924d8c" href="/fs/resource-manager/view/7ad55d9e-7448-4d7e-b99f-870b78924d8c" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<!--
+			<td align="center">
+	        N/A			</td>
+-->
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<!--<td align="center"><a href="videos/index.php?id=1726" onclick="return popup(this)">Watch</a></td>--><!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAUFXBi%252bHMt4g%253d%253d" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAUFXBi%252bHMt4g%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+</tbody>
+</table>
+<h3>2025</h3>
+<table class="table-styled">
+<thead>
+<tr>
+<th>Date</th>
+<th>Agenda</th>
+<!-- <th>Agenda en español</th> -->
+<th>View <!-- Agendas and Reference Material in  -->BoardDocs</th>
+<th>Minutes</th>
+<th>Video</th>
+<th>Video en español</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even">
+<td width="175">Dec. 11, 2025<br/>
+			Regular Board Meeting - Addendum</td>
+<td align="center"><a data-file-name="12-11-25-rbm-addendum-agenda-pdf.pdf" data-resource-uuid="5735021c-ea25-447c-8a8c-a800a2494eb4" href="/fs/resource-manager/view/5735021c-ea25-447c-8a8c-a800a2494eb4" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmRmtADP" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmRmtmOP" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="odd">
+<td width="175">Dec. 11, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="12-11-25-regular-board-meeting-agenda-pdf.pdf" data-resource-uuid="0ef28818-e998-433b-a4c3-fea2fb2c2cde" href="/fs/resource-manager/view/0ef28818-e998-433b-a4c3-fea2fb2c2cde" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmRmtADP" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmRmtmOP" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Dec. 03, 2025<br/>
+			Board Work Session</td>
+<td align="center"><a data-file-name="12-03-25-board-work-session-agenda-pdf.pdf" data-resource-uuid="ec17f5cf-8575-44e8-9ce4-05dcaeb549e2" href="/fs/resource-manager/view/ec17f5cf-8575-44e8-9ce4-05dcaeb549e2" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmReLeRS" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Nov. 18, 2025<br/>
+			Bond Oversight Committee</td>
+<td align="center"><a data-file-name="11-18-25-boc-meeting-agenda-pdf.pdf" data-resource-uuid="f82155bf-0999-420f-bd7a-a0c58129e452" href="/fs/resource-manager/view/f82155bf-0999-420f-bd7a-a0c58129e452" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">Nov. 18, 2025<br/>
+			Attendance Zone Advisory Commission Meeting</td>
+<td align="center"><a data-file-name="11-18-25-azac-agenda-pdf.pdf" data-resource-uuid="c21d7404-f03f-4ee7-aa95-4a772532dfd1" href="/fs/resource-manager/view/c21d7404-f03f-4ee7-aa95-4a772532dfd1" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/11-18-25-azac-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDrl4DMcNy6yg%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Nov. 13, 2025<br/>
+			Regular Board Meeting, and Joint Meeting with the Audit Advisory Committee - Addendum</td>
+<td align="center"><a data-file-name="11-13-25-addendum-rbm-and-joint-audit-mtg-pdf.pdf" data-resource-uuid="c6af6eef-457c-451d-b675-a98640bead08" href="/fs/resource-manager/view/c6af6eef-457c-451d-b675-a98640bead08" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmeLmmOP" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmeLADOc" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Nov. 13, 2025<br/>
+			Regular Board Meeting, and Joint Meeting with the Audit Advisory Committee</td>
+<td align="center"><a data-file-name="11-13-25-rbm-and-joint-audit-advisory-meeting-pdf.pdf" data-resource-uuid="0c9cf60b-35de-4dd2-b95f-e01e9c022cb6" href="/fs/resource-manager/view/0c9cf60b-35de-4dd2-b95f-e01e9c022cb6" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmeLmmOP" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmeLADOc" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="odd">
+<td width="175">Nov. 07, 2025<br/>
+			Special Board Meeting - Board Retreat</td>
+<td align="center"><a data-file-name="11-07-25-special-board-meeting-board-retreat-pdf.pdf" data-resource-uuid="24b23fb1-15da-4285-8bac-9a8a48d9675f" href="/fs/resource-manager/view/24b23fb1-15da-4285-8bac-9a8a48d9675f" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">Nov. 05, 2025<br/>
+			Board Work Session</td>
+<td align="center"><a data-file-name="11-05-25-board-work-session-agenda-pdf.pdf" data-resource-uuid="cea1856a-042c-472a-8663-23f2c6e2d6b5" href="/fs/resource-manager/view/cea1856a-042c-472a-8663-23f2c6e2d6b5" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/11-05-25-minutes-web-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmeOgtth" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Oct. 30, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="10-30-25-regular-board-meeting-agenda-pdf.pdf" data-resource-uuid="95f200d5-90c6-4bd8-919b-3c38040762ed" href="/fs/resource-manager/view/95f200d5-90c6-4bd8-919b-3c38040762ed" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/10-30-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmetOmtI" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmeOyeyI" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Oct. 28, 2025<br/>
+			Attendance Zone Advisory Commission Meeting</td>
+<td align="center"><a data-file-name="10-28-25-azac-agenda-pdf.pdf" data-resource-uuid="91740485-0bf9-4049-9e67-a3e492de4060" href="/fs/resource-manager/view/91740485-0bf9-4049-9e67-a3e492de4060" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/10-28-25-azac-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDUQq3BWZlm5Q%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Oct. 21, 2025<br/>
+			Bond Oversight Committee</td>
+<td align="center"><a data-file-name="10-21-25-boc-agenda-pdf.pdf" data-resource-uuid="29fc003c-2398-471a-948d-288b80a0834b" href="/fs/resource-manager/view/29fc003c-2398-471a-948d-288b80a0834b" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBYlbL6lUrWXw%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">Oct. 16, 2025<br/>
+			Sex Education Advisory Committee Recommending Committee Meeting</td>
+<td align="center"><a data-file-name="10-16-25-seacrc-agenda-pdf.pdf" data-resource-uuid="01b0f7d1-eba0-45f5-9135-c8f262402619" href="/fs/resource-manager/view/01b0f7d1-eba0-45f5-9135-c8f262402619" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"><a href="https://www.youtube.com/live/tAinsyGY2Y4" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Oct. 09, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/agendas/10-09-25-rbm-agenda-pdf" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/10-09-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmeeLmtc" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmeeyOOc" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Oct. 07, 2025<br/>
+			Attendance Zone Advisory Commission Meeting</td>
+<td align="center"><a data-file-name="10-07-25-azac-agenda-pdf.pdf" data-resource-uuid="403ec331-8326-4865-8ac8-12569c3a1b99" href="/fs/resource-manager/view/403ec331-8326-4865-8ac8-12569c3a1b99" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/10-07-25-azac-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDDsvMNc9JCbw%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Oct. 01, 2025<br/>
+			Joint Meeting of the CCSD Board of Trustees and the CCSD Bond Oversight Committee</td>
+<td align="center"><a data-file-name="10-01-25-joint-meeting-agenda-pdf.pdf" data-resource-uuid="02812b97-d0dd-498d-be15-f742fc84f577" href="/fs/resource-manager/view/02812b97-d0dd-498d-be15-f742fc84f577" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/10-01-25-bws-minutes-website-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAGtpcGGgmwZQ%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">Sep. 25, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="09-25-25-rbm-agenda-pdf.pdf" data-resource-uuid="3980e487-b5da-4299-853e-1180eb68cae7" href="/fs/resource-manager/view/3980e487-b5da-4299-853e-1180eb68cae7" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/9-25-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmDyRyDI" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmDymLmS" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="odd">
+<td width="175">Sep. 23, 2025<br/>
+			Attendance Zone Advisory Commission Meeting</td>
+<td align="center"><a data-file-name="09-23-25-azac-agenda-pdf.pdf" data-resource-uuid="7225312b-4fa8-4dd6-aba1-d7afc57c637c" href="/fs/resource-manager/view/7225312b-4fa8-4dd6-aba1-d7afc57c637c" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/9-23-25-azac-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAp3CR%252fn%252fpRjA%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">Sep. 16, 2025<br/>
+			Bond Oversight Committee</td>
+<td align="center"><a data-file-name="boc-09-16-25-meeting-agenda-pdf.pdf" data-resource-uuid="a7b98eba-b98e-4334-bfc3-9facd00d379a" href="/fs/resource-manager/view/a7b98eba-b98e-4334-bfc3-9facd00d379a" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Sep. 11, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="09-11-25-rbm-agenda-pdf.pdf" data-resource-uuid="bcd24906-45d9-4a5a-951c-aba84c301065" href="/fs/resource-manager/view/bcd24906-45d9-4a5a-951c-aba84c301065" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/09-11-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmDOLRDS" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmDOLeyh" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Sep. 03, 2025<br/>
+			Board Work Session</td>
+<td align="center"><a data-file-name="09-03-25-bws-agenda-pdf.pdf" data-resource-uuid="20271729-3f09-454c-8afa-8ddcb75a4783" href="/fs/resource-manager/view/20271729-3f09-454c-8afa-8ddcb75a4783" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/09-03-25-bws-web-approved-10-30-25-rbm-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaC4hd%252bYS5xwew%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Aug. 28, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="08-28-25-regular-board-meeting-agenda-pdf.pdf" data-resource-uuid="07457d23-6d4c-4da0-b07a-c69cdd386236" href="/fs/resource-manager/view/07457d23-6d4c-4da0-b07a-c69cdd386236" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/08-28-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmDARARP" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmDAmDgP" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Aug. 19, 2025<br/>
+			CANCELED - Bond Oversight Committee</td>
+<td align="center"><a data-file-name="08-19-25-boc-meeting-agenda-canceled-pdf.pdf" data-resource-uuid="b827b78f-4d49-47fb-a1bc-6474c38d4bda" href="/fs/resource-manager/view/b827b78f-4d49-47fb-a1bc-6474c38d4bda" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Aug. 19, 2025<br/>
+			Special Board Meeting</td>
+<td align="center"><a data-file-name="08-19-25-special-board-meeting-agenda-pdf.pdf" data-resource-uuid="5937e5eb-db28-424a-8de2-a64e1fd35b26" href="/fs/resource-manager/view/5937e5eb-db28-424a-8de2-a64e1fd35b26" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/08-19-25-sbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmDReOOP" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">Aug. 14, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="08-14-25-rbm-agenda-pdf.pdf" data-resource-uuid="24f77de2-33f2-4b9e-96bd-73ae49ab6d8b" href="/fs/resource-manager/view/24f77de2-33f2-4b9e-96bd-73ae49ab6d8b" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/08-14-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmDeettP" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mmDeemAh" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="odd">
+<td width="175">Aug. 08, 2025<br/>
+			Audit Advisory Committee Meeting</td>
+<td align="center"><a data-file-name="08-08-25-audit-advisory-committee-meeting-agenda-pdf.pdf" data-resource-uuid="a0e44e3b-48bf-4b27-aff0-7fd007dc4f78" href="/fs/resource-manager/view/a0e44e3b-48bf-4b27-aff0-7fd007dc4f78" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/08-08-25-audit-advisory-committee-mtg-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRyyOmgh" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">Aug. 06, 2025<br/>
+			Board Work Session (Amended Agenda)</td>
+<td align="center"><a data-file-name="08-06-25-amended-agenda-pdf.pdf" data-resource-uuid="2f186419-076f-450d-ae79-4332dde7b072" href="/fs/resource-manager/view/2f186419-076f-450d-ae79-4332dde7b072" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/08-06-25-bws-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRyymmeh" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Aug. 06, 2025<br/>
+			Board Work Session</td>
+<td align="center"><a data-file-name="08-06-25-bws-agenda-pdf.pdf" data-resource-uuid="00798300-c286-4737-8e7c-0ff9377052a6" href="/fs/resource-manager/view/00798300-c286-4737-8e7c-0ff9377052a6" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/08-06-25-bws-minutes-web-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRyymmeh" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">Jul. 10, 2025<br/>
+			Regular Board Meeting - Addendum</td>
+<td align="center"><a data-file-name="07-10-25-rbm-addendum-agenda-pdf.pdf" data-resource-uuid="28c874dc-0f69-43f5-ab8b-12580715854a" href="/fs/resource-manager/view/28c874dc-0f69-43f5-ab8b-12580715854a" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/07-10-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRyOtAec" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRyOtgmI" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="odd">
+<td width="175">Jul. 10, 2025<br/>
+			Regular Board Meeting Agenda</td>
+<td align="center"><a data-file-name="07-10-25-regular-board-meetiing-agenda-pdf.pdf" data-resource-uuid="9686bfd3-8364-4423-a306-0f09f3eac95d" href="/fs/resource-manager/view/9686bfd3-8364-4423-a306-0f09f3eac95d" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/07-10-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRyOtAec" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRyOtgmI" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Jul. 08, 2025<br/>
+			School Name Committee Meeting</td>
+<td align="center"><a data-file-name="07-08-25-school-name-committee-meeting-agenda-pdf.pdf" data-resource-uuid="93a64ee3-8df4-474e-b9cc-4f1839b8adc1" href="/fs/resource-manager/view/93a64ee3-8df4-474e-b9cc-4f1839b8adc1" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Jul. 02, 2025<br/>
+			Board Work Session</td>
+<td align="center"><a data-file-name="07-02-25-bws-agenda-pdf.pdf" data-resource-uuid="fcc65ded-123f-4c2f-8990-be66caba2e5d" href="/fs/resource-manager/view/fcc65ded-123f-4c2f-8990-be66caba2e5d" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/07-02-25-bws-minutes-web-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCjRf3BeAASVw%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCI1d5B%252fCFPmQ%253d%253d" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Jul. 01, 2025<br/>
+			Special Board Meeting - Board Retreat</td>
+<td align="center"><a data-file-name="07-01-25-special-board-meeting-board-retreat-pdf.pdf" data-resource-uuid="1dc33b00-f084-4396-b5ff-a2e66ed69e3a" href="/fs/resource-manager/view/1dc33b00-f084-4396-b5ff-a2e66ed69e3a" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/07-01-25-sbm-minutes-web-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Jun. 26, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="06-26-25-rbm-agenda-pdf.pdf" data-resource-uuid="55acccf5-4ab5-4b75-b677-54309992c670" href="/fs/resource-manager/view/55acccf5-4ab5-4b75-b677-54309992c670" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/06-26-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRyAgtyc" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRyAgODh" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Jun. 17, 2025<br/>
+			Bond Oversight Committee</td>
+<td align="center"><a data-file-name="06-17-25-boc-agenda-pdf.pdf" data-resource-uuid="5b892355-23e9-4d70-a6c1-0962295a2a1a" href="/fs/resource-manager/view/5b892355-23e9-4d70-a6c1-0962295a2a1a" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRymgLLc" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Jun. 12, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="06-12-25-rbm-agenda.pdf" data-resource-uuid="db8772ac-329e-4347-b009-91e909901211" href="/fs/resource-manager/view/db8772ac-329e-4347-b009-91e909901211" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/06-12-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRymmtOc" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRymmgLI" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Jun. 04, 2025<br/>
+			Board Work Session</td>
+<td align="center"><a data-file-name="06-04-25-board-work-session-agenda-pdf.pdf" data-resource-uuid="69054ab7-f39b-407e-8037-c920a5d60400" href="/fs/resource-manager/view/69054ab7-f39b-407e-8037-c920a5d60400" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/06-04-25-bws-minutes-web-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRyRRmLc" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">May. 20, 2025<br/>
+			Bond Oversight Committee</td>
+<td align="center"><a data-file-name="05-20-25-boc-meeting-pdf.pdf" data-resource-uuid="d0b5ca04-92f7-4b66-9927-bca7beac64cd" href="/fs/resource-manager/view/d0b5ca04-92f7-4b66-9927-bca7beac64cd" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/05-20-25-boc-meeting-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRLyAtDS" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">May. 19, 2025<br/>
+			Special Board Meeting - Adoption of the Final Budget</td>
+<td align="center"><a data-file-name="05-19-25-special-board-meeting-agenda-pdf.pdf" data-resource-uuid="1ae8e626-1977-4f85-ba35-21e1979b1480" href="/fs/resource-manager/view/1ae8e626-1977-4f85-ba35-21e1979b1480" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/05-19-25-sbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRLyeeDc" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">May. 15, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="05-15-25-rbm-agenda-pdf.pdf" data-resource-uuid="31fe40cf-e573-4854-a570-b98462dc10e9" href="/fs/resource-manager/view/31fe40cf-e573-4854-a570-b98462dc10e9" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/05-15-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRLLRRRI" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRLLtAOP" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">May. 08, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="05-08-25-rbm-agenda-pdf.pdf" data-resource-uuid="9dacd1b6-4dbd-478e-9982-39b4398b179e" href="/fs/resource-manager/view/9dacd1b6-4dbd-478e-9982-39b4398b179e" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/05-08-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRLORttS" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRLOmAmh" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="odd">
+<td width="175">May. 07, 2025<br/>
+			Board Work Session</td>
+<td align="center"><a data-file-name="05-07-25-bws-agenda-pdf.pdf" data-resource-uuid="6c477372-2d7e-4d60-90cb-515ba73eae42" href="/fs/resource-manager/view/6c477372-2d7e-4d60-90cb-515ba73eae42" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/05-07-25-bws-minutes-approved-06-26-25-ccsd-web-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDDdldTio7%252bTQ%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">Apr. 28, 2025<br/>
+			Oversight Panel for School Facilities Meeting</td>
+<td align="center"><a data-file-name="04-28-2025-oversight-panel-for-school-facilities-meeting-agenda-pdf.pdf" data-resource-uuid="77ab0bec-2a78-4537-a461-02f4c5ebfa0f" href="/fs/resource-manager/view/77ab0bec-2a78-4537-a461-02f4c5ebfa0f" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center">N/A</td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDEDeTUXnuYSg%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Apr. 24, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="04-24-25-rbm-agenda-pdf.pdf" data-resource-uuid="1f367f0f-d6b5-42a5-9a07-642c1a02440e" href="/fs/resource-manager/view/1f367f0f-d6b5-42a5-9a07-642c1a02440e" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/04-24-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRLmDmRP" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRLmetRP" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Apr. 22, 2025<br/>
+			Bond Oversight Committee</td>
+<td align="center"><a data-file-name="bond-oversight-committee-agenda-pdf.pdf" data-resource-uuid="bd92ca14-3313-4849-9ad5-b5538d3f7ab4" href="/fs/resource-manager/view/bd92ca14-3313-4849-9ad5-b5538d3f7ab4" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/04-22-25-boc-meeting-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Apr. 10, 2025<br/>
+			Regular Board Meeting - Addendum</td>
+<td align="center"><a data-file-name="04-10-25-rbm-addendum-agenda-pdf.pdf" data-resource-uuid="f8fb7014-8995-4076-b7a9-276f59834495" href="/fs/resource-manager/view/f8fb7014-8995-4076-b7a9-276f59834495" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/04-10-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRgyAmLh" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRgytLAc" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Apr. 10, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="04-10-25-regular-board-meeting-agenda-pdf.pdf" data-resource-uuid="6766ebc0-6563-467c-ba1d-c223ae5ea689" href="/fs/resource-manager/view/6766ebc0-6563-467c-ba1d-c223ae5ea689" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/04-10-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRgyAmLh" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRgytLAc" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="odd">
+<td width="175">Apr. 02, 2025<br/>
+			Board Work Session</td>
+<td align="center"><a data-file-name="04-02-25-bws-agenda-pdf.pdf" data-resource-uuid="484a54df-b079-4f30-8f3e-16f1afb7eb9f" href="/fs/resource-manager/view/484a54df-b079-4f30-8f3e-16f1afb7eb9f" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/04-02-25-bws-minutes-approved-06-12-25-ccsd-web-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRggeDRS" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">Mar. 27, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="03-27-25-regular-board-meeting-agenda-pdf.pdf" data-resource-uuid="021e2425-0b4f-4b64-85b3-baea04436ecb" href="/fs/resource-manager/view/021e2425-0b4f-4b64-85b3-baea04436ecb" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/03-27-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRgtLLLc" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRgtyeOS" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="odd">
+<td width="175">Mar. 25, 2025<br/>
+			Attendance Zone Advisory Commission Meeting</td>
+<td align="center"><a data-file-name="03-25-2025-azac-agenda-pdf.pdf" data-resource-uuid="d47e6c28-9e74-4998-9872-0b7738fb580b" href="/fs/resource-manager/view/d47e6c28-9e74-4998-9872-0b7738fb580b" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/03-25-25-azac-meeting-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaAjdNWIQIaP%252bQ%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">Mar. 13, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="03-13-25-rbm-agenda-pdf.pdf" data-resource-uuid="e6e3f39d-6fab-4367-862e-7aaea64430d9" href="/fs/resource-manager/view/e6e3f39d-6fab-4367-862e-7aaea64430d9" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/03-13-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRgRRDOP" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRgRRReP" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="odd">
+<td width="175">Mar. 11, 2025<br/>
+			Special Board Meeting</td>
+<td align="center"><a data-file-name="03-11-25-special-board-meeting-agenda-pdf.pdf" data-resource-uuid="9bc2a502-be22-4e1f-8796-8f8b6793844d" href="/fs/resource-manager/view/9bc2a502-be22-4e1f-8796-8f8b6793844d" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/03-11-25-sbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRgemDDP" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRgegLLS" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Feb. 27, 2025<br/>
+			Audit Advisory Committee Meeting</td>
+<td align="center"><a data-file-name="02-27-25-audit-advisory-committee-agenda-pdf.pdf" data-resource-uuid="be1151c0-16c9-4c73-b856-41d0db527fb5" href="/fs/resource-manager/view/be1151c0-16c9-4c73-b856-41d0db527fb5" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/02-27-25-audit-advisory-committee-mtg-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mROgtRA" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Feb. 27, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="02-27-25-regular-board-meeting-agenda-pdf.pdf" data-resource-uuid="0a256af0-f771-4cf7-9029-827a1a5dee70" href="/fs/resource-manager/view/0a256af0-f771-4cf7-9029-827a1a5dee70" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/02-27-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mROgtRA" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mROgLReh" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Feb. 25, 2025<br/>
+			Special Board Meeting</td>
+<td align="center"><a data-file-name="02-25-25-sbm-agenda-pdf.pdf" data-resource-uuid="3a2bd281-0d97-484f-b1f3-979f84ab1a68" href="/fs/resource-manager/view/3a2bd281-0d97-484f-b1f3-979f84ab1a68" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/02-25-25-sbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaBY40MTaGZXoA%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mROgLygP" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="odd">
+<td width="175">Feb. 24, 2025<br/>
+			Special Board Meeting</td>
+<td align="center"><a data-file-name="02-24-25-sbm-agenda-pdf.pdf" data-resource-uuid="74ea77e6-2027-4c09-be86-78b39f13b81a" href="/fs/resource-manager/view/74ea77e6-2027-4c09-be86-78b39f13b81a" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/02-24-25-sbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mROOmAg" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mROOAtR" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Feb. 18, 2025<br/>
+			Special Board Meeting</td>
+<td align="center"><a data-file-name="02-18-25-sbm-agenda-pdf.pdf" data-resource-uuid="258cc2dd-ef43-47eb-9581-773bce9c6838" href="/fs/resource-manager/view/258cc2dd-ef43-47eb-9581-773bce9c6838" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/04-10-25-rbm-02-18-25-sbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mROAtLR" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mROAtRD" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="odd">
+<td width="175">Feb. 13, 2025<br/>
+			Regular Board Meeting (Amended Agenda)</td>
+<td align="center"><a data-file-name="02-13-25-regular-board-meeting-amended-agenda-pdf.pdf" data-resource-uuid="e1c22054-5d74-4f93-b3af-bad8c060ac41" href="/fs/resource-manager/view/e1c22054-5d74-4f93-b3af-bad8c060ac41" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/04-10-25-rbm-02-13-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mROmeOm" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mROmmym" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Feb. 13, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="02-13-25-regular-board-meeting-agenda-pdf.pdf" data-resource-uuid="0de36b75-190a-4be1-901d-3261d4b157d4" href="/fs/resource-manager/view/0de36b75-190a-4be1-901d-3261d4b157d4" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/04-10-25-rbm-02-13-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mROmeOm" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mROmmym" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="odd">
+<td width="175">Feb. 05, 2025<br/>
+			Board Work Session</td>
+<td align="center"><a data-file-name="02-05-25-bws-agenda-pdf.pdf" data-resource-uuid="d46c1752-657a-4120-95e2-6c15858094aa" href="/fs/resource-manager/view/d46c1752-657a-4120-95e2-6c15858094aa" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/02-05-25-bws-minutes-website-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaDh5aszYwOtXg%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">Jan. 23, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="01-23-25-rbm-agenda-pdf.pdf" data-resource-uuid="b4b0cf9c-9838-4069-84c0-7bd46f1aacf6" href="/fs/resource-manager/view/b4b0cf9c-9838-4069-84c0-7bd46f1aacf6" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/01-23-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRttReO" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRttAAg" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="odd">
+<td width="175">Jan. 21, 2025<br/>
+			Attendance Zone Advisory Commission Meeting</td>
+<td align="center"><a data-file-name="1-21-25-azac-agenda-pdf.pdf" data-resource-uuid="25e8f5e4-db34-4996-b066-67d857001b82" href="/fs/resource-manager/view/25e8f5e4-db34-4996-b066-67d857001b82" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/01-21-25-azac-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRtAeDt" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">Jan. 15, 2025<br/>
+			Attendance Zone Advisory Commission Meeting</td>
+<td align="center"><a data-file-name="1-15-25-azac-agenda-pdf.pdf" data-resource-uuid="4bda86af-8100-4a78-8aed-670f0ccb1de4" href="/fs/resource-manager/view/4bda86af-8100-4a78-8aed-670f0ccb1de4" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/01-15-25-azac-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.youtube.com/watch?v=nkYItyy_Xfg" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Jan. 14, 2025<br/>
+			Attendance Zone Advisory Commission Meeting</td>
+<td align="center"><a data-file-name="1-14-25-azac-agenda-pdf.pdf" data-resource-uuid="6c13d7af-0ab2-4eb4-9093-39a12dea601b" href="/fs/resource-manager/view/6c13d7af-0ab2-4eb4-9093-39a12dea601b" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/01-14-25-azac-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.youtube.com/watch?v=EPtOQd0xjX0" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="even">
+<td width="175">Jan. 13, 2025<br/>
+			Attendance Zone Advisory Commission Meeting</td>
+<td align="center"><a data-file-name="1-13-25-azac-agenda-pdf.pdf" data-resource-uuid="354d09f6-5a31-448e-916d-d47cfb553ad2" href="/fs/resource-manager/view/354d09f6-5a31-448e-916d-d47cfb553ad2" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/01-13-25-azac-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<!--<td align="center"><a href="videos/index.php?id=1660" onclick="return popup(this)">Watch</a></td>--><!--<td align="center"><a href="http://ccsdtv.net/watch?v=https://www.youtube.com/watch?v=QDoxzqqrOlI&t=188s" target="_blank">Watch</a></td>-->
+<td align="center"><a href="https://www.youtube.com/watch?v=QDoxzqqrOlI&amp;t=188s" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Jan. 09, 2025<br/>
+			Regular Board Meeting</td>
+<td align="center"><a data-file-name="01-09-25-rbm-agenda-pdf.pdf" data-resource-uuid="e7a8b88f-59eb-4377-83d0-dcefcf040f1e" href="/fs/resource-manager/view/e7a8b88f-59eb-4377-83d0-dcefcf040f1e" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/01-09-25-rbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRAAtOm" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"><a href="https://www.eduvision.tv/l?mRAAtAy" style="cursor: pointer;" target="_blank">Acceder al video</a></td>
+</tr>
+<tr class="even">
+<td width="175">Jan. 08, 2025<br/>
+			Board Work Session</td>
+<td align="center"><a data-file-name="01-08-25-bws-agenda-pdf.pdf" data-resource-uuid="aec773c0-9c79-4f53-aceb-aa46752d25a8" href="/fs/resource-manager/view/aec773c0-9c79-4f53-aceb-aa46752d25a8" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/01-08-25-ws-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaCFuK6ryhlD%252bA%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+<tr class="odd">
+<td width="175">Jan. 06, 2025<br/>
+			Special Board Meeting - Oath of Office</td>
+<td align="center"><a data-file-name="01-06-25-special-board-meeting-oath-of-office-agenda-pdf.pdf" data-resource-uuid="67b5177f-ca75-472f-8161-a25b08c5999a" href="/fs/resource-manager/view/67b5177f-ca75-472f-8161-a25b08c5999a" style="cursor: pointer;" target="_blank">Agenda</a></td>
+<td align="center"><a href="http://go.boarddocs.com/nv/ccsdlv/Board.nsf/Public" style="cursor: pointer;" target="_blank">↸</a></td>
+<td align="center"><a href="https://ccsd.net/trustees/pdf/minutes/01-06-25-sbm-minutes-pdf" style="cursor: pointer;" target="_blank">Minutes</a></td>
+<td align="center"><a href="https://ccsd.eduvision.tv/default?q=X3Y5NcZVhaD49qDiHLG1wg%253d%253d" style="cursor: pointer;" target="_blank">Watch</a></td>
+<td align="center"> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_4810" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_4810" aria-expanded="false" href="#fs-panel-4810" role="button">Trustee District Maps</a></h2>
+<div class="fsElementHeaderContent">
+<div><a id="maps"></a></div>
+</div>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-4810"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_4811">
+<div class="fsElementContent">
+<div>
+<p> </p>
+<figure class="fsImage"><picture><img alt="Trustee District Map" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1756850317/ccsdnet/s2qiuszmi8uubrfnz8h3/trustee-disctrict-map.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1756850317/ccsdnet/s2qiuszmi8uubrfnz8h3/trustee-disctrict-map.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756850317/ccsdnet/s2qiuszmi8uubrfnz8h3/trustee-disctrict-map.png%22,%22width%22:797}]" data-resource-description="" data-resource-filename="trustee-disctrict-map.png" data-resource-uuid="ec0cbf60-1841-4baf-9cd4-33147c3e8287" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<div>
+<h2>Trustee District Maps</h2>
+<ul>
+<li><a href="https://drive.google.com/file/d/1KujTTr7WyswE6XS4xp5dS7gCVLgr59--/view" target="_blank">District A (PDF)</a></li>
+<li><a href="https://drive.google.com/file/d/1iS7efqb4rMRYpiu7zvwEmeJ0rfV6ftPk/view" target="_blank">District B (PDF)</a></li>
+<li><a href="https://drive.google.com/file/d/1h-5uaJ5xpdOJR1x2IUpCiv9ItDu5foM5/view" target="_blank">District C (PDF)</a></li>
+<li><a href="https://drive.google.com/file/d/1ijbHEzBjtMM_BXe8T9u5IY1aoAznkLPC/view" target="_blank">District D (PDF)</a></li>
+<li><a href="https://drive.google.com/file/d/17qZ1ne9e4jddY7sn7AetV6ILAL6h8k1f/view" target="_blank">District E (PDF)</a></li>
+<li><a href="https://drive.google.com/file/d/1VF_EJBN5PagHLqVNaqPBT9-QROvDXlmP/view" target="_blank">District F (PDF)</a></li>
+<li><a href="https://drive.google.com/file/d/1-n1hL7GEnA7iQvV32klD3K9k71_aF9Gy/view" target="_blank">District G (PDF)</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_10787" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_10787" aria-expanded="false" href="#fs-panel-10787" role="button">Governance Policies</a></h2>
+<div class="fsElementHeaderContent">
+<div><a id="policies"></a></div>
+</div>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-10787"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10788">
+<div class="fsElementContent">
+<p> </p>
+<div><a data-page-name="Governance Policies" href="/fs/pages/1272">Governance Policies</a></div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

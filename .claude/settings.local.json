@@ -5,7 +5,9 @@
       "Bash(python:*)",
       "Bash(pip install:*)",
       "Bash(mkdir:*)",
-      "Bash(taskkill:*)"
+      "Bash(taskkill:*)",
+      "WebFetch(domain:ccsd.net)",
+      "Bash(.venvScriptspython.exe:*)"
     ],
     "deny": []
   }

@@ -10,7 +10,8 @@
                 WRIGHT, WILLIAM V. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Fundaro, Kimberly A<br>
+                        
+Principal: Fundaro, Kimberly A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-5701<br/>
                                 Fax: 702-799-5708<br/>
 <a href="http://maps.google.com/maps?q=8425 BOB FISK AVENUE,+LAS VEGAS,+NV+89178">Map</a>
-                                 | <a href="https://williamvwright.wixsite.com/wright/home">Website</a> </br></br></br></p>
-<b>Region:</b> 2                                                    </div>
+                                 | <a href="https://williamvwright.wixsite.com/wright/home">Website</a> 
+<b>Region:</b> 2                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 FITZGERALD, H.P. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Watson, Frederick E<br>
+                        
+Principal: Watson, Frederick E<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-0600<br/>
                                 Fax: 702-799-7045<br/>
 <a href="http://maps.google.com/maps?q=2651 NORTH REVERE STREET,+NORTH LAS VEGAS,+NV+89030">Map</a>
-                                 | <a href="http://fitzgeraldelementary.org">Website</a> </br></br></br></p>
+                                 | <a href="http://fitzgeraldelementary.org">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Together We Make A Difference!</p> <p><b>Mission:</b> The community of H.P. Fitzgerald Elementary School is committed to providing a safe, nurturing and engaging learning environment dedicated to academic excellence. We work together to develop life-long learners and independent thinkers, who demonstrate respect for self and others and become successful, contributing members of a global society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

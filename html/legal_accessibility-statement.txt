@@ -1,0 +1,15 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Accessibility Statement</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10568">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_10569">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10594">
+<div class="fsElementContent">
+<h2>Web Accessibility</h2>
+<p>The Clark County School District is committed to making its website accessible for individuals with disabilities according to the Americans with Disabilities Act (ADA). Individuals with disabilities requiring assistance in accessing on-line information or with the functionality of CCSD's website should contact (702) 799-1071 Ext. 5988. Disability related concerns with CCSD's website may also be addressed by completing the complaint/grievance process outlined in <a href="/images/v1757429649/ccsdnet/sdba73xofyosigtankmf/12131_R.pdf">CCSD Regulation 1213.1.</a></p>
+<h2>Employee or Public Access/Services Issues</h2>
+<p>Executive Manager, Diversity and Affirmative Action, ADA/Title IX Coordinator, located at 4212 E. Eucalyptus Ave Annex Las Vegas, NV 89121, 702-799-5087, email address <a href="mailto:colecg@nv.ccsd.net">colecg@nv.ccsd.net</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</main>

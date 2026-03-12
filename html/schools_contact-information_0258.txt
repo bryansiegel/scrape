@@ -10,7 +10,8 @@
                 MOORE, WILLIAM ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Robertson, Alexandra V<br>
+                        
+Principal: Robertson, Alexandra V<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-3270<br/>
                                 Fax: 702-799-3269<br/>
 <a href="http://maps.google.com/maps?q=491 NORTH LAMB BOULEVARD,+LAS VEGAS,+NV+89110">Map</a>
-                                 | <a href="https://www.moore-miners.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.moore-miners.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Moore Miners Moving Toward Excellence</p> <p><b>Mission:</b> William K. Moore Elementary School is where expectations are high, diversity valued and parents and community are responsible partners in the education and social growth of its students.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

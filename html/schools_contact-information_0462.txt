@@ -10,7 +10,8 @@
                 WYNN, ELAINE ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Newman, Margaret E<br>
+                        
+Principal: Newman, Margaret E<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8160<br/>
                                 Fax: 702-799-8146<br/>
 <a href="http://maps.google.com/maps?q=5655 EDNA AVENUE,+LAS VEGAS,+NV+89146">Map</a>
-                                 | <a href="http://www.wynnchallengers.com">Website</a> </br></br></br></p>
+                                 | <a href="http://www.wynnchallengers.com">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> Challenging young minds to reach for the stars</p> <p><b>Mission:</b> The mission of Elaine Wynn Elementary School is to have a systematic and continuous partnership between the school, home, and community that will create a positive and challenging learning environment for all students and foster a climate of on-going educational improvement.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

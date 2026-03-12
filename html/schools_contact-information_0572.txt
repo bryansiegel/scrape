@@ -10,7 +10,8 @@
                 FOOTHILL HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Synold, Jonathan <br>
+                        
+Principal: Synold, Jonathan<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-3500<br/>
                                 Fax: 702-799-3524<br/>
 <a href="http://maps.google.com/maps?q=800 COLLEGE DRIVE,+HENDERSON,+NV+89002">Map</a>
-                                 | <a href="http://foothillhenderson.com">Website</a> </br></br></br></p>
+                                 | <a href="http://foothillhenderson.com">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Above and Beyond</p> <p><b>Mission:</b> Foothill High School challenges students to participate as active learners and critical thinkers while preparing them to realize their maximum potential as contributing members of the community.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

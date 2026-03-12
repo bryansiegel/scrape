@@ -10,7 +10,8 @@
                 HUGHES, CHARLES ARTHUR MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Wilson, Jaydel E<br>
+                        
+Principal: Wilson, Jaydel E<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-346-3250<br/>
                                 Fax: 702-346-3095<br/>
 <a href="http://maps.google.com/maps?q=550 HAFEN LANE,+MESQUITE,+NV+89027">Map</a>
-                                 | <a href="https://hugheshawks.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://hugheshawks.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Soaring to Success</p> <p><b>Mission:</b> The Charles A. Hughes Middle School staff and community is dedicated to promote in each student a desire to Honorably Achieve to the best of their ability by a Willingness to work hard to obtain the Knowledge which will prepare them for a Successful high school experience.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

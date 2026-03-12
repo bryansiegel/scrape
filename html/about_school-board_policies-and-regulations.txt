@@ -1,0 +1,2802 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Policies and Regulations</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10332">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_10333">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12476">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_12477">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10334">
+<div class="fsElementContent">
+<p>The Clark County School District (CCSD) establishes policies and regulations to guide daily operations, maintain consistency, and ensure compliance with state and federal laws. Policies set the overall direction and expectations approved by the Board of Trustees, while regulations provide detailed procedures for how those policies are carried out across schools and departments. Together, they create a clear framework that promotes accountability, supports student success, and helps staff, families, and the community understand how decisions are made and implemented within the district.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_12478">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="12479" data-source-page-id="1104" data-use-new="true" id="fsEl_12479">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="CCSD Admin Building" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="ccsd-building.jpg" data-resource-uuid="84623b58-a0aa-41f2-811c-712473c83a69"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent bg-cream" data-use-new="true" id="fsEl_179270">
+<div class="fsElementContent">
+<h3>Windows Users: Ctrl + F to find policies and regulations</h3>
+<h3>Mac Users: CMD + F to find policies and regulations</h3>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_12472">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-12473" role="presentation">
+<a aria-controls="fsEl_12473" aria-selected="false" href="#fs-panel-12473" role="tab">Proposed Changes to CCSD Policies and/or Regulations</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12473" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12473" aria-expanded="false" href="#fs-panel-12473" role="button">Proposed Changes to CCSD Policies and/or Regulations</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12473"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12474">
+<div class="fsElementContent">
+<h2>Notification of proposed changes to CCSD Policies and/or Regulations</h2>
+<p>State statute requires the Board of School Trustees adopt a Notice of Intent when it considers the adoption, amendment, or repeal of a policy or regulation. The Notice of Intent provides the public thirteen (13) days notice prior to final action by the board.</p>
+<p>Comments by the public are welcome.</p>
+<!--  Example for future Notification of Proposed Changes - Public Comment button. --><!--
+<p><strong>Date of Meeting:&nbsp;February 26, 2026</strong></p>
+
+<p><a data-file-name="P-6165_NOI_encrypted.pdf" data-resource-uuid="206c30ee-1771-44dd-90ce-fb72c87e75b7" href="/fs/resource-manager/view/206c30ee-1771-44dd-90ce-fb72c87e75b7" target="_blank">Proposed Changes for Policy 6165</a></p>
+
+<p><a class="button-1" data-page-name="Proposed Changes to CCSD Policies And/Or Regulation to Notice of Intent Form 1" href="/fs/pages/23341">Public Comment</a></p>
+
+<p><strong>Date of Meeting:&nbsp;February 26, 2026</strong></p>
+
+<p><a data-file-name="P-7223_NOI_encrypted.pdf" data-resource-uuid="f62d3d57-4f0b-4345-ba7d-ebf81931180a" href="/fs/resource-manager/view/f62d3d57-4f0b-4345-ba7d-ebf81931180a" target="_blank">Proposed Changes for Policy 7223</a></p>
+
+<p><a class="button-1" data-page-name="Proposed Changes to CCSD Policies And/Or Regulation to Notice of Intent Form 2" href="/fs/pages/23343">Public Comment</a></p>
+
+<p>&nbsp;</p>
+
+-->
+<p><strong>No policies or regulations are scheduled at this time.</strong></p>
+<h2>Notice of Intent - Date of Meeting:</h2>
+<p>Reflects the date of the board meeting discussion/action will be taken on the Notice of Intent.</p>
+<p><strong>No policies or regulations are scheduled at this time.</strong></p>
+<h2>Final Action - Date of Meeting:</h2>
+<p>This date will indicate the date of the board meeting when the final discussion/action will occur. This is the last meeting for public comment on the issue.</p>
+<p><strong>No policies or regulations are scheduled at this time.</strong></p>
+<!--  Example for future Final Action date and Public Comment button.
+
+<p><strong>Date of Meeting:&nbsp;February 12, 2026</strong></p>
+
+<p><a data-file-name="R-1211__Final_Action__encrypted_021226.pdf" data-resource-uuid="8ae321fd-1f30-42e6-9832-2ea68a165d1a" href="/fs/resource-manager/view/8ae321fd-1f30-42e6-9832-2ea68a165d1a" target="_blank">Final Action for Regulation 1211</a></p>
+
+<p><a data-file-name="R-1211_Fees_encrypted_021226.pdf" data-resource-uuid="3c92bba7-75ce-4e76-98f7-a53b5e5d9616" href="/fs/resource-manager/view/3c92bba7-75ce-4e76-98f7-a53b5e5d9616" target="_blank">Fee Schedule for Regulation 1211</a></p>
+
+<p><a class="button-1" data-page-name="Final Action - Public Comment" href="/fs/pages/23079">Public Comment</a></p>
+
+-->
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12475">
+<div class="fsElementContent">
+<h2>Current CCSD Policies and/or Regulations</h2>
+</div>
+</div>
+<div class="fsElement fsPostElement fsGrid policy-title fsItemCount_0" data-board-id="9" data-overwrite-title="" data-use-new="true" id="fsEl_10354">
+<div class="fsElementContent">
+<div class="fsListItems fsStyleFourColumns">
+<article aria-labelledby="fsArticle_10354_263" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="263">
+<div class="fsTitle" id="fsArticle_10354_263">
+		Accelerated Pathways for Educator and School Psychology Candidates to Complete Student Teaching and Internship Requirements for Licensure	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4393</p>
+<p><strong>Type: </strong><a data-file-name="4393_R.pdf" data-resource-uuid="e8599b74-4267-4e4a-a3fb-a94d207eb5bb" href="/fs/resource-manager/view/e8599b74-4267-4e4a-a3fb-a94d207eb5bb" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_129" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="129">
+<div class="fsTitle" id="fsArticle_10354_129">
+		Acceptance of Gifts
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3241</p>
+<p><strong>Type:</strong> <a data-file-name="3241_R.pdf" data-resource-uuid="d6804f64-bd7a-48e0-8354-f99d116d0a67" href="/fs/resource-manager/view/d6804f64-bd7a-48e0-8354-f99d116d0a67" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_151" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="151">
+<div class="fsTitle" id="fsArticle_10354_151">
+		Accident Involving District Transportation Vehicles
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3532</p>
+<p><strong>Type:</strong> <a data-file-name="3532_R.pdf" data-resource-uuid="2be3bc86-a05b-4560-b734-5329e73cc691" href="/fs/resource-manager/view/2be3bc86-a05b-4560-b734-5329e73cc691" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_408" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="408">
+<div class="fsTitle" id="fsArticle_10354_408">
+		Acquisition/Disposition of Real Property	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7131</p>
+<p><strong>Type:</strong> <a data-file-name="7131_R.pdf" data-resource-uuid="50ffcb4f-b8b0-468c-be2d-f564d625b654" href="/fs/resource-manager/view/50ffcb4f-b8b0-468c-be2d-f564d625b654" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_322" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="322">
+<div class="fsTitle" id="fsArticle_10354_322">
+		Activities Appeal Procedure	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5135.7</p>
+<p><strong>Type:</strong> <a data-file-name="51357_R.pdf" data-resource-uuid="5f2248ad-a476-447e-a1d1-3b461fa6010b" href="/fs/resource-manager/view/5f2248ad-a476-447e-a1d1-3b461fa6010b" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_190" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="190">
+<div class="fsTitle" id="fsArticle_10354_190">
+		Additional and Extended-Day Extracurricular Assignments: Licensed Personnel	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4121</p>
+<p><strong>Type:</strong> <a data-file-name="4121_R.pdf" data-resource-uuid="98877ba1-95ad-413f-ba94-5d3ee60d1b5c" href="/fs/resource-manager/view/98877ba1-95ad-413f-ba94-5d3ee60d1b5c" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_325" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="325">
+<div class="fsTitle" id="fsArticle_10354_325">
+		Addressing the Rights and Needs of Students with Diverse Gender Identities or Expressions	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5138</p>
+<p><strong>Type:</strong> <a data-file-name="5138_P.pdf" data-resource-uuid="6597cf1e-8032-40b6-a31d-bcc34217dc77" href="/fs/resource-manager/view/6597cf1e-8032-40b6-a31d-bcc34217dc77" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_123" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="123">
+<div class="fsTitle" id="fsArticle_10354_123">
+		Administration of Federal, State, Local and Private Funds	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3221</p>
+<p><strong>Type:</strong> <a data-file-name="3221_R.pdf" data-resource-uuid="bf60e77e-47c2-4544-a39b-b6608d882f4e" href="/fs/resource-manager/view/bf60e77e-47c2-4544-a39b-b6608d882f4e" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_180" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="180">
+<div class="fsTitle" id="fsArticle_10354_180">
+		Administrative Selection and Appointment	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4111</p>
+<p><strong>Type:</strong> <a data-file-name="4111_R.pdf" data-resource-uuid="2a4c0c57-5bf3-4fc2-9775-9b3a7af96269" href="/fs/resource-manager/view/2a4c0c57-5bf3-4fc2-9775-9b3a7af96269" target="_blank">REG</a> | <a data-file-name="4111_P.pdf" data-resource-uuid="19bf3430-2892-4d83-b5ad-f17fb7277ab6" href="/fs/resource-manager/view/19bf3430-2892-4d83-b5ad-f17fb7277ab6" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_318" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="318">
+<div class="fsTitle" id="fsArticle_10354_318">
+		Admission to Athletic Events	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5135.4</p>
+<p><strong>Type:</strong> <a data-file-name="51354_R.pdf" data-resource-uuid="f9582686-85e7-4583-a162-6c5daebe9af9" href="/fs/resource-manager/view/f9582686-85e7-4583-a162-6c5daebe9af9" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_395" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="395">
+<div class="fsTitle" id="fsArticle_10354_395">
+		Adult Education	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6200</p>
+<p><strong>Type:</strong> <a data-file-name="6200_R.pdf" data-resource-uuid="c6b3402f-0a94-4159-9f12-b68fddf9be98" href="/fs/resource-manager/view/c6b3402f-0a94-4159-9f12-b68fddf9be98" target="_blank">REG</a> | <a data-file-name="6174_R_1.pdf" data-resource-uuid="d4754b8d-cba9-4f69-aaec-af0ef7af6359" href="/fs/resource-manager/view/d4754b8d-cba9-4f69-aaec-af0ef7af6359" target="_blank">POL</a>
+</p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_76" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="76">
+<div class="fsTitle" id="fsArticle_10354_76">
+		Affirmative Action Program For School and Classroom Practices
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 0210</p>
+<p><strong>Type:</strong> <a data-file-name="0210_P.pdf" data-resource-uuid="3d9eba12-34a4-4397-bb24-b33ce12dd734" href="/fs/resource-manager/view/3d9eba12-34a4-4397-bb24-b33ce12dd734" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_266" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="266">
+<div class="fsTitle" id="fsArticle_10354_266">
+		Age of Entrance an Enrollment	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5111</p>
+<p><strong>Type:</strong> <a data-file-name="5111_R.pdf" data-resource-uuid="f3653aa8-0657-461b-8e6b-fa7cfd2fdb00" href="/fs/resource-manager/view/f3653aa8-0657-461b-8e6b-fa7cfd2fdb00" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_265" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="265">
+<div class="fsTitle" id="fsArticle_10354_265">
+		Age of Entrance and Enrollment Status of Exempted Students	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5111</p>
+<p><strong>Type:</strong> <a data-file-name="5111_P.pdf" data-resource-uuid="59092fcf-90de-44f2-8335-bac18984d0fa" href="/fs/resource-manager/view/59092fcf-90de-44f2-8335-bac18984d0fa" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_216" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="216">
+<div class="fsTitle" id="fsArticle_10354_216">
+		Alcohol and Controlled Substances (Drug) Testing	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4231</p>
+<p><strong>Type:</strong> <a data-file-name="4231_R.pdf" data-resource-uuid="0b1a0f9a-82a4-4c84-9092-13a5aa15d408" href="/fs/resource-manager/view/0b1a0f9a-82a4-4c84-9092-13a5aa15d408" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_188" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="188">
+<div class="fsTitle" id="fsArticle_10354_188">
+		Allocation, Assignment and Classification: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4120</p>
+<p><strong>Type:</strong> <a data-file-name="4120_P.pdf" data-resource-uuid="101b3ac1-706d-4349-8d39-b100b374a11c" href="/fs/resource-manager/view/101b3ac1-706d-4349-8d39-b100b374a11c" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_391" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="391">
+<div class="fsTitle" id="fsArticle_10354_391">
+		Alternative Programs	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6173</p>
+<p><strong>Type:</strong> <a data-file-name="6173_P.pdf" data-resource-uuid="d54e296f-793f-4d5a-aa56-986efbe9f7eb" href="/fs/resource-manager/view/d54e296f-793f-4d5a-aa56-986efbe9f7eb" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_326" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="326">
+<div class="fsTitle" id="fsArticle_10354_326">
+		Anti-Racism, Equity, and Inclusion	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5139</p>
+<p><strong>Type:</strong> <a data-file-name="5139_P.pdf" data-resource-uuid="f0a8aa64-ba97-4f4d-8e01-d4ddd289733a" href="/fs/resource-manager/view/f0a8aa64-ba97-4f4d-8e01-d4ddd289733a" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_236" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="236">
+<div class="fsTitle" id="fsArticle_10354_236">
+		Appeal Procedure: All Regular Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4313</p>
+<p><strong>Type:</strong> <a data-file-name="4313_R.pdf" data-resource-uuid="a71584ec-3b05-483a-bb3d-24c6e0430860" href="/fs/resource-manager/view/a71584ec-3b05-483a-bb3d-24c6e0430860" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_411" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="411">
+<div class="fsTitle" id="fsArticle_10354_411">
+		Architectural and Engineering Services	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7211</p>
+<p><strong>Type:</strong> <a data-file-name="7211_R.pdf" data-resource-uuid="7284ed48-d52d-4db0-a780-d37ed3c0314a" href="/fs/resource-manager/view/7284ed48-d52d-4db0-a780-d37ed3c0314a" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_370" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="370">
+<div class="fsTitle" id="fsArticle_10354_370">
+		Assemblies and Public Programs	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6130</p>
+<p><strong>Type:</strong> <a data-file-name="6130_R.pdf" data-resource-uuid="a116a916-fb24-40ff-b6ef-3b9dc95e9559" href="/fs/resource-manager/view/a116a916-fb24-40ff-b6ef-3b9dc95e9559" target="_blank">REG</a> | <a data-file-name="6130_P.pdf" data-resource-uuid="179b9119-bd3b-4ddf-b1f2-52c8e0853f2d" href="/fs/resource-manager/view/179b9119-bd3b-4ddf-b1f2-52c8e0853f2d" target="_blank">POL</a>
+</p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_193" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="193">
+<div class="fsTitle" id="fsArticle_10354_193">
+		Assignment: Cooperating Teachers/Student Teachers	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4123</p>
+<p><strong>Type:</strong> <a data-file-name="4123_R.pdf" data-resource-uuid="ba22d4d4-e555-424f-8c19-7850cc79de87" href="/fs/resource-manager/view/ba22d4d4-e555-424f-8c19-7850cc79de87" target="_blank">REG</a> | <a data-file-name="4123_P.pdf" data-resource-uuid="2dfa4f46-1901-4538-b6ae-58ac8b54a2ad" href="/fs/resource-manager/view/2dfa4f46-1901-4538-b6ae-58ac8b54a2ad" target="_blank">POL</a>
+</p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_189" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="189">
+<div class="fsTitle" id="fsArticle_10354_189">
+		Assignment: Licensed Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4120</p>
+<p><strong>Type:</strong> <a data-file-name="4120_R.pdf" data-resource-uuid="f40455b5-1954-47fc-ad6a-89191c44fc69" href="/fs/resource-manager/view/f40455b5-1954-47fc-ad6a-89191c44fc69" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_101" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="101">
+<div class="fsTitle" id="fsArticle_10354_101">
+		Assurance of Tribal And Parental Involvement In The Education of Children Residing On Indian Lands
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1311</p>
+<p><strong>Type:</strong> <a data-file-name="1311_P.pdf" data-resource-uuid="4406df12-9801-4f3b-b7a7-487406af53ef" href="/fs/resource-manager/view/4406df12-9801-4f3b-b7a7-487406af53ef" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_320" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="320">
+<div class="fsTitle" id="fsArticle_10354_320">
+		Athletic Appeal Procedure	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5135.6</p>
+<p><strong>Type:</strong> <a data-file-name="51356_R.pdf" data-resource-uuid="c12a7b89-767a-489e-acc4-88547cb48e27" href="/fs/resource-manager/view/c12a7b89-767a-489e-acc4-88547cb48e27" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_270" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="270">
+<div class="fsTitle" id="fsArticle_10354_270">
+		Attendance
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5113</p>
+<p><strong>Type:</strong> <a data-file-name="5113_P.pdf" data-resource-uuid="062b4579-cc01-434f-b127-f17545f63b7a" href="/fs/resource-manager/view/062b4579-cc01-434f-b127-f17545f63b7a" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_271" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="271">
+<div class="fsTitle" id="fsArticle_10354_271">
+		Attendance Enforcement	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5113</p>
+<p><strong>Type:</strong> <a data-file-name="5113_R.pdf" data-resource-uuid="9d0f4622-88d5-46bc-8027-8531dd455bff" href="/fs/resource-manager/view/9d0f4622-88d5-46bc-8027-8531dd455bff" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_272" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="272">
+<div class="fsTitle" id="fsArticle_10354_272">
+		Attendance Records and Class Record Books	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5113.1</p>
+<p><strong>Type:</strong> <a data-file-name="51131_R.pdf" data-resource-uuid="30b7889f-7b2a-4d97-b531-63f29cb005dc" href="/fs/resource-manager/view/30b7889f-7b2a-4d97-b531-63f29cb005dc" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_146" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="146">
+<div class="fsTitle" id="fsArticle_10354_146">
+		Authorization of Legal Action
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3433</p>
+<p><strong>Type:</strong> <a data-file-name="3433_R.pdf" data-resource-uuid="653b0080-ba27-426a-8ea4-ba50e1d3d6ca" href="/fs/resource-manager/view/653b0080-ba27-426a-8ea4-ba50e1d3d6ca" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_344" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="344">
+<div class="fsTitle" id="fsArticle_10354_344">
+		Automated External Defibrillator (AED)	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5156</p>
+<p><strong>Type:</strong> <a data-file-name="5156_R.pdf" data-resource-uuid="dd86e0a5-bd3d-455c-b6f2-0c6121c1fa0e" href="/fs/resource-manager/view/dd86e0a5-bd3d-455c-b6f2-0c6121c1fa0e" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_194" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="194">
+<div class="fsTitle" id="fsArticle_10354_194">
+		Auxiliary Personnel: Support Staff and School Police Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4124</p>
+<p><strong>Type:</strong> <a data-file-name="4124_R.pdf" data-resource-uuid="024a3322-cf6c-490a-b87c-596a35422317" href="/fs/resource-manager/view/024a3322-cf6c-490a-b87c-596a35422317" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_234" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="234">
+<div class="fsTitle" id="fsArticle_10354_234">
+		Availability of Personnel Records: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4311</p>
+<p><strong>Type:</strong> <a data-file-name="4311_R.pdf" data-resource-uuid="2f450dbf-46a3-4c4b-b1df-c152a8f46466" href="/fs/resource-manager/view/2f450dbf-46a3-4c4b-b1df-c152a8f46466" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_221" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="221">
+<div class="fsTitle" id="fsArticle_10354_221">
+		Bargaining Units - Employees Not Covered	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4260</p>
+<p><strong>Type:</strong> <a data-file-name="4260_P.pdf" data-resource-uuid="4fce03ea-38dd-4b4a-a638-8aa772138125" href="/fs/resource-manager/view/4fce03ea-38dd-4b4a-a638-8aa772138125" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_333" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="333">
+<div class="fsTitle" id="fsArticle_10354_333">
+		Bomb Threats	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5143</p>
+<p><strong>Type:</strong> <a data-file-name="5143_R.pdf" data-resource-uuid="61b0be1b-7cf3-4b53-a753-6b059e3b72db" href="/fs/resource-manager/view/61b0be1b-7cf3-4b53-a753-6b059e3b72db" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_306" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="306">
+<div class="fsTitle" id="fsArticle_10354_306">
+		Booster Clubs and Support Groups in High Schools	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5132.3</p>
+<p><strong>Type:</strong> <a data-file-name="51323_R.pdf" data-resource-uuid="370d5de1-3f86-4b23-b68a-b8a8b5904cd6" href="/fs/resource-manager/view/370d5de1-3f86-4b23-b68a-b8a8b5904cd6" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_117" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="117">
+<div class="fsTitle" id="fsArticle_10354_117">
+		Budget Administration
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3130</p>
+<p><strong>Type:</strong> <a data-file-name="3130_R.pdf" data-resource-uuid="6ddf510b-2c5b-4aea-9217-27fcaa51154b" href="/fs/resource-manager/view/6ddf510b-2c5b-4aea-9217-27fcaa51154b" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_116" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="116">
+<div class="fsTitle" id="fsArticle_10354_116">
+		Budget Development
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3110</p>
+<p><strong>Type:</strong> <a data-file-name="3110_R.pdf" data-resource-uuid="e14c7885-5e38-4835-ad6e-b9375a091944" href="/fs/resource-manager/view/e14c7885-5e38-4835-ad6e-b9375a091944" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_121" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="121">
+<div class="fsTitle" id="fsArticle_10354_121">
+		Building and Site Funds
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3213</p>
+<p><strong>Type:</strong> <a data-file-name="3213_R.pdf" data-resource-uuid="57428e0b-d5e2-4b88-8548-f28b26ed205c" href="/fs/resource-manager/view/57428e0b-d5e2-4b88-8548-f28b26ed205c" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_321" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="321">
+<div class="fsTitle" id="fsArticle_10354_321">
+		Building Level Hearing Procedures Governing Coaching and Extra Duty Activity Assignments	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5135.61</p>
+<p><strong>Type:</strong> <a data-file-name="513561_R.pdf" data-resource-uuid="8b19482e-40cc-401a-acc2-d96efe3ccfd1" href="/fs/resource-manager/view/8b19482e-40cc-401a-acc2-d96efe3ccfd1" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_310" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="310">
+<div class="fsTitle" id="fsArticle_10354_310">
+		Care of School Property	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5134</p>
+<p><strong>Type:</strong> <a data-file-name="5134_R.pdf" data-resource-uuid="5286ea21-dffd-4a6d-b22e-68e22e41c502" href="/fs/resource-manager/view/5286ea21-dffd-4a6d-b22e-68e22e41c502" target="_blank">REG</a> | <a data-file-name="5134_P.pdf" data-resource-uuid="0f36b61c-9c16-44e5-89da-c08e9c3a07c6" href="/fs/resource-manager/view/0f36b61c-9c16-44e5-89da-c08e9c3a07c6" target="_blank">POL</a>
+</p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_269" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="269">
+<div class="fsTitle" id="fsArticle_10354_269">
+		Change of School Assignment	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5112</p>
+<p><strong>Type:</strong> <a data-file-name="5112_R.pdf" data-resource-uuid="13753240-09a0-4268-bcfd-b49883b5ee5e" href="/fs/resource-manager/view/13753240-09a0-4268-bcfd-b49883b5ee5e" target="_blank">REG</a> | <a data-file-name="5112_P.pdf" data-resource-uuid="929d1f3f-36d5-44d9-b8cd-b47abcfbec62" href="/fs/resource-manager/view/929d1f3f-36d5-44d9-b8cd-b47abcfbec62" target="_blank">POL</a>
+</p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_342" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="342">
+<div class="fsTitle" id="fsArticle_10354_342">
+		Child Abuse or Neglect	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5152</p>
+<p><strong>Type:</strong> <a data-file-name="5152_R.pdf" data-resource-uuid="858cd05f-4343-46e6-8872-9df03f7e742a" href="/fs/resource-manager/view/858cd05f-4343-46e6-8872-9df03f7e742a" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_196" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="196">
+<div class="fsTitle" id="fsArticle_10354_196">
+		Classification or Reclassification: Administrative Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4125.1</p>
+<p><strong>Type:</strong> <a data-file-name="41251_R.pdf" data-resource-uuid="b054159d-0e02-490c-b7ff-1ea7c4248cb6" href="/fs/resource-manager/view/b054159d-0e02-490c-b7ff-1ea7c4248cb6" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_195" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="195">
+<div class="fsTitle" id="fsArticle_10354_195">
+		Classification or Reclassification: School Police and Support Staff Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4125</p>
+<p><strong>Type:</strong> <a data-file-name="4125_R.pdf" data-resource-uuid="4904b018-b2d9-47cf-b453-2f9ad33e1ccb" href="/fs/resource-manager/view/4904b018-b2d9-47cf-b453-2f9ad33e1ccb" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_339" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="339">
+<div class="fsTitle" id="fsArticle_10354_339">
+		Closed Campus	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5146.1</p>
+<p><strong>Type:</strong> <a data-file-name="51461_R.pdf" data-resource-uuid="70a84083-904e-4712-8545-72af0025af2d" href="/fs/resource-manager/view/70a84083-904e-4712-8545-72af0025af2d" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_400" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="400">
+<div class="fsTitle" id="fsArticle_10354_400">
+		Closing Schools	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7113</p>
+<p><strong>Type:</strong> <a data-file-name="7113_R.pdf" data-resource-uuid="5337998d-73cc-4314-aac6-610d51408243" href="/fs/resource-manager/view/5337998d-73cc-4314-aac6-610d51408243" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_115" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="115">
+<div class="fsTitle" id="fsArticle_10354_115">
+		Code of Ethics/Anti-Fraud
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3100</p>
+<p><strong>Type:</strong> <a data-file-name="3100_R.pdf" data-resource-uuid="402830e8-a116-47f0-b634-cc24218d0bf5" href="/fs/resource-manager/view/402830e8-a116-47f0-b634-cc24218d0bf5" target="_blank">REG</a> | <a data-file-name="3100_P.pdf" data-resource-uuid="04da4792-a5b1-4dcf-ad69-07e19bbcf708" href="/fs/resource-manager/view/04da4792-a5b1-4dcf-ad69-07e19bbcf708" target="_blank">POL</a>
+</p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_99" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="99">
+<div class="fsTitle" id="fsArticle_10354_99">
+		Commercial Activities
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1232</p>
+<p><strong>Type:</strong> <a data-file-name="1232_R.pdf" data-resource-uuid="9ad33647-c067-4e62-821e-8d519899cc6a" href="/fs/resource-manager/view/9ad33647-c067-4e62-821e-8d519899cc6a" target="_blank">REG</a> | <a data-file-name="1232_P.pdf" data-resource-uuid="86466838-1ad8-4d8b-b6c6-0471cee5dbf2" href="/fs/resource-manager/view/86466838-1ad8-4d8b-b6c6-0471cee5dbf2" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_83" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="83">
+<div class="fsTitle" id="fsArticle_10354_83">
+		Communications To Parents and Public	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1121</p>
+<p><strong>Type:</strong> <a data-file-name="1121_R.pdf" data-resource-uuid="41c2bc8b-175c-4656-b57a-de036c005f88" href="/fs/resource-manager/view/41c2bc8b-175c-4656-b57a-de036c005f88" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_100" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="100">
+<div class="fsTitle" id="fsArticle_10354_100">
+		Community Agencies
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1310</p>
+<p><strong>Type:</strong> <a data-file-name="1310_P.pdf" data-resource-uuid="1a94ccad-5b38-4c98-9c60-1e60deae245d" href="/fs/resource-manager/view/1a94ccad-5b38-4c98-9c60-1e60deae245d" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_105" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="105">
+<div class="fsTitle" id="fsArticle_10354_105">
+		Community Education Advisory Boards	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1411</p>
+<p><strong>Type:</strong> <a data-file-name="1411_P.pdf" data-resource-uuid="174abd5e-24a3-4208-b8ca-55a7f88eedf7" href="/fs/resource-manager/view/174abd5e-24a3-4208-b8ca-55a7f88eedf7" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_82" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="82">
+<div class="fsTitle" id="fsArticle_10354_82">
+		Community Relations and Public Information
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1120</p>
+<p><strong>Type:</strong> <a data-file-name="1120_P.pdf" data-resource-uuid="975a900e-c009-4a6f-9a53-651d8a52a923" href="/fs/resource-manager/view/975a900e-c009-4a6f-9a53-651d8a52a923" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_220" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="220">
+<div class="fsTitle" id="fsArticle_10354_220">
+		Community Service Boards: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4251</p>
+<p><strong>Type:</strong> <a data-file-name="4251_R.pdf" data-resource-uuid="b33f8b90-0008-4007-b4eb-715f6cf5faa3" href="/fs/resource-manager/view/b33f8b90-0008-4007-b4eb-715f6cf5faa3" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_88" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="88">
+<div class="fsTitle" id="fsArticle_10354_88">
+		Confidential Information: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1212</p>
+<p><strong>Type:</strong> <a data-file-name="1212_R.pdf" data-resource-uuid="01b2fa6a-a4e0-4e91-9844-57c4caefb222" href="/fs/resource-manager/view/01b2fa6a-a4e0-4e91-9844-57c4caefb222" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_222" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="222">
+<div class="fsTitle" id="fsArticle_10354_222">
+		Conflict of Interest: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4270</p>
+<p><strong>Type:</strong> <a data-file-name="4270_P.pdf" data-resource-uuid="be3f7da8-72b7-49fd-bbb8-2dc53a3d7487" href="/fs/resource-manager/view/be3f7da8-72b7-49fd-bbb8-2dc53a3d7487" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_410" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="410">
+<div class="fsTitle" id="fsArticle_10354_410">
+		Construction Bids	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7210</p>
+<p><strong>Type:</strong> <a data-file-name="7210_R.pdf" data-resource-uuid="15a0c951-4db2-46b8-8a0f-cd059c08e2d9" href="/fs/resource-manager/view/15a0c951-4db2-46b8-8a0f-cd059c08e2d9" target="_blank">REG</a> | <a data-file-name="7210_P.pdf" data-resource-uuid="83180da5-1e5a-4ada-a087-6290b691b734" href="/fs/resource-manager/view/83180da5-1e5a-4ada-a087-6290b691b734" target="_blank">POL</a>
+</p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_95" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="95">
+<div class="fsTitle" id="fsArticle_10354_95">
+		Contests For Students
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1222</p>
+<p><strong>Type:</strong> <a data-file-name="1222_R.pdf" data-resource-uuid="5a171f99-ce03-49dc-a300-69ff939f6f12" href="/fs/resource-manager/view/5a171f99-ce03-49dc-a300-69ff939f6f12" target="_blank">REG</a> | <a data-file-name="1222_P.pdf" data-resource-uuid="804be928-b12c-4c9d-93ef-764b677ef40b" href="/fs/resource-manager/view/804be928-b12c-4c9d-93ef-764b677ef40b" target="_blank">POL</a>
+</p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_366" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="366">
+<div class="fsTitle" id="fsArticle_10354_366">
+		Controversial Issues	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6124.2</p>
+<p><strong>Type:</strong> <a data-file-name="61242_R.pdf" data-resource-uuid="56a07bbb-1f73-47be-969d-12aaa7ead566" href="/fs/resource-manager/view/56a07bbb-1f73-47be-969d-12aaa7ead566" target="_blank">REG</a> | <a data-file-name="61242_P.pdf" data-resource-uuid="62fae6db-8273-4bde-84ae-8fe539adfe19" href="/fs/resource-manager/view/62fae6db-8273-4bde-84ae-8fe539adfe19" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_406" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="406">
+<div class="fsTitle" id="fsArticle_10354_406">
+		Converting Elementary Schools To and From Multitrack Year-Round Calendars and Flexible Double Sessions	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7124</p>
+<p><strong>Type:</strong> <a data-file-name="7124_R.pdf" data-resource-uuid="49cbf5c8-9859-447f-842d-57aeaceadfc6" href="/fs/resource-manager/view/49cbf5c8-9859-447f-842d-57aeaceadfc6" target="_blank">REG</a> | <a data-file-name="7124_P.pdf" data-resource-uuid="b79cda71-83f1-416b-bbf7-a8a2cf14c6f3" href="/fs/resource-manager/view/b79cda71-83f1-416b-bbf7-a8a2cf14c6f3" target="_blank">POL</a>
+</p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_407" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="407">
+<div class="fsTitle" id="fsArticle_10354_407">
+		Converting Middle Schools To and From Year-Round Schedules	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7124.1</p>
+<p><strong>Type:</strong> <a data-file-name="71241_R.pdf" data-resource-uuid="f7c866fe-a02c-4d53-8538-212143f3c0ae" href="/fs/resource-manager/view/f7c866fe-a02c-4d53-8538-212143f3c0ae" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_335" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="335">
+<div class="fsTitle" id="fsArticle_10354_335">
+		Cooperation With Law Enforcement Agencies	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5145</p>
+<p><strong>Type:</strong> <a data-file-name="5145_R.pdf" data-resource-uuid="b15ea96d-4349-4bce-89b2-b3693b5da23e" href="/fs/resource-manager/view/b15ea96d-4349-4bce-89b2-b3693b5da23e" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_172" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="172">
+<div class="fsTitle" id="fsArticle_10354_172">
+		Copyrighted Computer Software Control	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3912</p>
+<p><strong>Type:</strong> <a data-file-name="3912_R.pdf" data-resource-uuid="f22b00e9-a60f-4d22-907c-e59e71994e1f" href="/fs/resource-manager/view/f22b00e9-a60f-4d22-907c-e59e71994e1f" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_355" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="355">
+<div class="fsTitle" id="fsArticle_10354_355">
+		Cultural and Ethnic Recognition	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6113.4</p>
+<p><strong>Type:</strong> <a data-file-name="61134_P.pdf" data-resource-uuid="b401abf5-f258-4462-a61b-e99e8cb58458" href="/fs/resource-manager/view/b401abf5-f258-4462-a61b-e99e8cb58458" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_364" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="364">
+<div class="fsTitle" id="fsArticle_10354_364">
+		Curriculum Guides	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6124.1</p>
+<p><strong>Type:</strong> <a data-file-name="61241_R.pdf" data-resource-uuid="1e1b8cf6-29d0-4548-b1c3-609535a68c6a" href="/fs/resource-manager/view/1e1b8cf6-29d0-4548-b1c3-609535a68c6a" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_245" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="245">
+<div class="fsTitle" id="fsArticle_10354_245">
+		Disciplinary Action: Support Staff and School Police Employees - Causes	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4343</p>
+<p><strong>Type:</strong> <a data-file-name="4343_R.pdf" data-resource-uuid="ec8044ed-cfaf-4009-b373-a01f2b1a9d36" href="/fs/resource-manager/view/ec8044ed-cfaf-4009-b373-a01f2b1a9d36" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_329" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="329">
+<div class="fsTitle" id="fsArticle_10354_329">
+		Discipline Control of Dangerous and Antisocial Behavior	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5141.1</p>
+<p><strong>Type:</strong> <a data-file-name="51411_R.pdf" data-resource-uuid="d1adbba8-4c8a-4938-b202-185032f16754" href="/fs/resource-manager/view/d1adbba8-4c8a-4938-b202-185032f16754" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_277" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="277">
+<div class="fsTitle" id="fsArticle_10354_277">
+		Discipline Expulsion Procedures	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5114.2</p>
+<p><strong>Type:</strong> <a data-file-name="51142_R.pdf" data-resource-uuid="32ec8f93-8a82-4289-b093-4c45628d208a" href="/fs/resource-manager/view/32ec8f93-8a82-4289-b093-4c45628d208a" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_242" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="242">
+<div class="fsTitle" id="fsArticle_10354_242">
+		Discipline: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4340</p>
+<p><strong>Type:</strong> <a data-file-name="4340_P.pdf" data-resource-uuid="2acc650a-1aaf-4f4f-a76e-8e4499999a9a" href="/fs/resource-manager/view/2acc650a-1aaf-4f4f-a76e-8e4499999a9a" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_330" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="330">
+<div class="fsTitle" id="fsArticle_10354_330">
+		Discipline: Harassment	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5141.2</p>
+<p><strong>Type:</strong> <a data-file-name="51412_R.pdf" data-resource-uuid="73ded972-1331-439c-bab7-a1aa41997f53" href="/fs/resource-manager/view/73ded972-1331-439c-bab7-a1aa41997f53" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_276" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="276">
+<div class="fsTitle" id="fsArticle_10354_276">
+		Discipline: Suspension	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5114.1</p>
+<p><strong>Type:</strong> <a data-file-name="51141_R.pdf" data-resource-uuid="4910b2e3-e43a-4c87-bbd2-21cebd659d3c" href="/fs/resource-manager/view/4910b2e3-e43a-4c87-bbd2-21cebd659d3c" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_331" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="331">
+<div class="fsTitle" id="fsArticle_10354_331">
+		Discipline: Use of Aversive Interventions	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5141.3</p>
+<p><strong>Type:</strong> <a data-file-name="51413_R.pdf" data-resource-uuid="a7d88d61-c3ec-4571-84af-ad7ae1e94bb8" href="/fs/resource-manager/view/a7d88d61-c3ec-4571-84af-ad7ae1e94bb8" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_261" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="261">
+<div class="fsTitle" id="fsArticle_10354_261">
+		Disclosure of Improper District Action	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4390</p>
+<p><strong>Type:</strong> <a data-file-name="4390_P.pdf" data-resource-uuid="fa865b8f-6862-4a3e-9e97-f9f69157c3f9" href="/fs/resource-manager/view/fa865b8f-6862-4a3e-9e97-f9f69157c3f9" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_81" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="81">
+<div class="fsTitle" id="fsArticle_10354_81">
+		Distribution of Materials By and Through Students
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1110</p>
+<p><strong>Type:</strong> <a data-file-name="1110_R.pdf" data-resource-uuid="bd006053-4a30-45a1-9304-883f6a678308" href="/fs/resource-manager/view/bd006053-4a30-45a1-9304-883f6a678308" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_80" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="80">
+<div class="fsTitle" id="fsArticle_10354_80">
+		Distribution of Materials Through Students
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1110</p>
+<p><strong>Type:</strong> <a data-file-name="1110_P.pdf" data-resource-uuid="24bd63f5-8235-4582-baba-8ed5a26a8158" href="/fs/resource-manager/view/24bd63f5-8235-4582-baba-8ed5a26a8158" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_398" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="398">
+<div class="fsTitle" id="fsArticle_10354_398">
+		District Attendance Zoning	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7111</p>
+<p><strong>Type:</strong> <a data-file-name="7111_R.pdf" data-resource-uuid="b62f0e52-6911-4727-84d0-472d4f635fdd" href="/fs/resource-manager/view/b62f0e52-6911-4727-84d0-472d4f635fdd" target="_blank">REG</a> | <a aria-describedby="audioeye_pdf_message audioeye_new_window_message" contenteditable="false" data-file-name="7111_P.pdf" href="https://www.ccsd.net/fs/resource-manager/view/d5ff6b8a-5117-4986-ae85-913cbcea4fa1" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_118" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="118">
+<div class="fsTitle" id="fsArticle_10354_118">
+		District Funds and Fund Control
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3210</p>
+<p><strong>Type:</strong> <a data-file-name="3210_R.pdf" data-resource-uuid="fa7ea282-8003-41a0-b28e-4248eab36d77" href="/fs/resource-manager/view/fa7ea282-8003-41a0-b28e-4248eab36d77" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_144" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="144">
+<div class="fsTitle" id="fsArticle_10354_144">
+		District Liability Claim Resolution
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3432</p>
+<p><strong>Type:</strong> <a data-file-name="3432_R.pdf" data-resource-uuid="307dc64c-8d01-4f87-a6be-a208fe7a1b67" href="/fs/resource-manager/view/307dc64c-8d01-4f87-a6be-a208fe7a1b67" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_107" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="107">
+<div class="fsTitle" id="fsArticle_10354_107">
+		District Organization
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 2130</p>
+<p><strong>Type:</strong> <a data-file-name="2130_R.pdf" data-resource-uuid="10f5c44b-0e8c-4ba3-8890-f1ad61ae12d4" href="/fs/resource-manager/view/10f5c44b-0e8c-4ba3-8890-f1ad61ae12d4" target="_blank">REG</a> | <a data-file-name="2130_P.pdf" data-resource-uuid="5d65ef82-d4db-42dd-8baa-761efa69bf51" href="/fs/resource-manager/view/5d65ef82-d4db-42dd-8baa-761efa69bf51" target="_blank">POL</a>
+</p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_415" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="415">
+<div class="fsTitle" id="fsArticle_10354_415">
+		District Responsibility - Band Uniforms and Choral Robes	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7341</p>
+<p><strong>Type:</strong> <a data-file-name="7341_R.pdf" data-resource-uuid="cd247fd5-226a-4363-afb0-4bf9832877d4" href="/fs/resource-manager/view/cd247fd5-226a-4363-afb0-4bf9832877d4" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_145" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="145">
+<div class="fsTitle" id="fsArticle_10354_145">
+		District Workers' Compensation Claim Resolution
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3432.1</p>
+<p><strong>Type:</strong> <a data-file-name="34321_R.pdf" data-resource-uuid="b63bdf50-053d-4b75-b7e1-c58177332960" href="/fs/resource-manager/view/b63bdf50-053d-4b75-b7e1-c58177332960" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_282" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="282">
+<div class="fsTitle" id="fsArticle_10354_282">
+		District- and Organization-Sponsored Foreign Exchange Students	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5118</p>
+<p><strong>Type:</strong> <a data-file-name="5118_R.pdf" data-resource-uuid="81f19fab-9bd8-4047-b687-618f2d857b94" href="/fs/resource-manager/view/81f19fab-9bd8-4047-b687-618f2d857b94" target="_blank">REG</a> | <a data-file-name="5118_P.pdf" data-resource-uuid="20e73929-d230-4eb1-a05d-446fd82f8f19" href="/fs/resource-manager/view/20e73929-d230-4eb1-a05d-446fd82f8f19" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_156" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="156">
+<div class="fsTitle" id="fsArticle_10354_156">
+		District-Owned Vehicles
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3537</p>
+<p><strong>Type:</strong> <a data-file-name="3537_R.pdf" data-resource-uuid="09d05317-1552-4a94-91c0-aaa921f8dfd6" href="/fs/resource-manager/view/09d05317-1552-4a94-91c0-aaa921f8dfd6" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_302" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="302">
+<div class="fsTitle" id="fsArticle_10354_302">
+		Dress and Appearance	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5131</p>
+<p><strong>Type:</strong> <a data-file-name="5131_R.pdf" data-resource-uuid="aa65e6df-3eaf-4475-a516-3e4f6320c797" href="/fs/resource-manager/view/aa65e6df-3eaf-4475-a516-3e4f6320c797" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_224" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="224">
+<div class="fsTitle" id="fsArticle_10354_224">
+		Dress and Grooming: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4280</p>
+<p><strong>Type:</strong> <a data-file-name="4280_R.pdf" data-resource-uuid="60064262-e3ff-4bbf-ac5a-54ed25af77b1" href="/fs/resource-manager/view/60064262-e3ff-4bbf-ac5a-54ed25af77b1" target="_blank">REG</a> | <a data-file-name="4280_P.pdf" data-resource-uuid="6fbc82c4-2ffa-4675-a558-540c1263a745" href="/fs/resource-manager/view/6fbc82c4-2ffa-4675-a558-540c1263a745" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_390" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="390">
+<div class="fsTitle" id="fsArticle_10354_390">
+		Driver Education	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6172</p>
+<p><strong>Type:</strong> <a data-file-name="6172_R.pdf" data-resource-uuid="6cab7a6d-07e9-48ef-83ec-73a484e5b69d" href="/fs/resource-manager/view/6cab7a6d-07e9-48ef-83ec-73a484e5b69d" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_393" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="393">
+<div class="fsTitle" id="fsArticle_10354_393">
+		Dual Enrollment Programs	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6174</p>
+<p><strong>Type:</strong> <a data-file-name="6174_R.pdf" data-resource-uuid="6e4be1f5-4064-468e-90ae-5c81a0337698" href="/fs/resource-manager/view/6e4be1f5-4064-468e-90ae-5c81a0337698" target="_blank">REG</a> | <a data-file-name="6174_P.pdf" data-resource-uuid="6e4a707c-3c62-4252-b606-984b8ba479df" href="/fs/resource-manager/view/6e4a707c-3c62-4252-b606-984b8ba479df" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_349" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="349">
+<div class="fsTitle" id="fsArticle_10354_349">
+		Emergency Procedures and Instruction	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6112</p>
+<p><strong>Type:</strong> <a data-file-name="6112_R.pdf" data-resource-uuid="b9693121-b804-4378-b1d7-73c221311065" href="/fs/resource-manager/view/b9693121-b804-4378-b1d7-73c221311065" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_112" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="112">
+<div class="fsTitle" id="fsArticle_10354_112">
+		Emotional Support Animals
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 2500.1</p>
+<p><strong>Type:</strong> <a data-file-name="25001_R.pdf" data-resource-uuid="ff8625ff-ffe1-4e48-b95d-20e085012059" href="/fs/resource-manager/view/ff8625ff-ffe1-4e48-b95d-20e085012059" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_207" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="207">
+<div class="fsTitle" id="fsArticle_10354_207">
+		Employee Disclosure of Criminal Arrests, Charges, and Convictions (Post Hire)	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4207</p>
+<p><strong>Type:</strong> <a data-file-name="4207_R.pdf" data-resource-uuid="80b4d32c-687f-468a-9cd8-5ab77a494e77" href="/fs/resource-manager/view/80b4d32c-687f-468a-9cd8-5ab77a494e77" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_232" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="232">
+<div class="fsTitle" id="fsArticle_10354_232">
+		Employee In-State Work Requirement
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4300</p>
+<p><strong>Type:</strong> <a data-file-name="4300_P.pdf" data-resource-uuid="fc468b88-b163-4cf1-94ec-ff84ed64295b" href="/fs/resource-manager/view/fc468b88-b163-4cf1-94ec-ff84ed64295b" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_251" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="251">
+<div class="fsTitle" id="fsArticle_10354_251">
+		Employee Necessity Leave: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4355</p>
+<p><strong>Type:</strong> <a data-file-name="4355_R.pdf" data-resource-uuid="783f7cc9-749a-4d0d-988e-c290fa583d73" href="/fs/resource-manager/view/783f7cc9-749a-4d0d-988e-c290fa583d73" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_155" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="155">
+<div class="fsTitle" id="fsArticle_10354_155">
+		Employee Transportation
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3536</p>
+<p><strong>Type:</strong> <a data-file-name="3536_R.pdf" data-resource-uuid="0721d009-0d05-43d9-8b70-1f532692eed7" href="/fs/resource-manager/view/0721d009-0d05-43d9-8b70-1f532692eed7" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_259" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="259">
+<div class="fsTitle" id="fsArticle_10354_259">
+		Employees "Cooling-Off" Period	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4371</p>
+<p><strong>Type:</strong> <a data-file-name="4371_R.pdf" data-resource-uuid="0d1acf2a-56f3-4c50-b6fa-341a577f5a71" href="/fs/resource-manager/view/0d1acf2a-56f3-4c50-b6fa-341a577f5a71" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_197" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="197">
+<div class="fsTitle" id="fsArticle_10354_197">
+		Employees With Occupational Injury or Disease	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4126</p>
+<p><strong>Type:</strong> <a data-file-name="4126_R.pdf" data-resource-uuid="1c62f061-872c-4c1c-afdf-12ced3441a6b" href="/fs/resource-manager/view/1c62f061-872c-4c1c-afdf-12ced3441a6b" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_178" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="178">
+<div class="fsTitle" id="fsArticle_10354_178">
+		Employment Discrimination, Harassment, and Sexual Harassment: All Employees
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4110</p>
+<p><strong>Type:</strong> <a data-file-name="4110_R.pdf" data-resource-uuid="ea3e2c2a-7307-4b0b-bac6-cfd7df230a37" href="/fs/resource-manager/view/ea3e2c2a-7307-4b0b-bac6-cfd7df230a37" target="_blank">REG</a> | <a data-file-name="4110_P.pdf" data-resource-uuid="99413133-ecfa-47d3-bb83-76a3827514d0" href="/fs/resource-manager/view/99413133-ecfa-47d3-bb83-76a3827514d0" target="_blank">POL</a>
+</p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_191" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="191">
+<div class="fsTitle" id="fsArticle_10354_191">
+		Employment of Substitute Teachers and Substitute Support Staff
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4122</p>
+<p><strong>Type:</strong> <a data-file-name="4122_R.pdf" data-resource-uuid="1ac1d4f0-c872-4879-b844-3b4406a741af" href="/fs/resource-manager/view/1ac1d4f0-c872-4879-b844-3b4406a741af" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_233" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="233">
+<div class="fsTitle" id="fsArticle_10354_233">
+		Employment Practices	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4310</p>
+<p><strong>Type:</strong> <a data-file-name="4310_P.pdf" data-resource-uuid="ff142a04-7f78-4900-8d91-a03e25a4185e" href="/fs/resource-manager/view/ff142a04-7f78-4900-8d91-a03e25a4185e" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_267" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="267">
+<div class="fsTitle" id="fsArticle_10354_267">
+		Enrollment Identity Documentation Requirements	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5111.1</p>
+<p><strong>Type:</strong> <a data-file-name="51111_R.pdf" data-resource-uuid="1777d4b6-2b63-46e3-bfad-1bc45bc7da86" href="/fs/resource-manager/view/1777d4b6-2b63-46e3-bfad-1bc45bc7da86" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_124" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="124">
+<div class="fsTitle" id="fsArticle_10354_124">
+		Enterprise Fund
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3222</p>
+<p><strong>Type:</strong> <a data-file-name="3222_R.pdf" data-resource-uuid="32ecda3e-a73b-4dfc-85ab-4eaf2418cbca" href="/fs/resource-manager/view/32ecda3e-a73b-4dfc-85ab-4eaf2418cbca" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_139" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="139">
+<div class="fsTitle" id="fsArticle_10354_139">
+		Equipping Educational Facilities
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3320</p>
+<p><strong>Type:</strong> <a data-file-name="3320_R.pdf" data-resource-uuid="704da35d-1bce-463e-8e9f-712069e6d2ed" href="/fs/resource-manager/view/704da35d-1bce-463e-8e9f-712069e6d2ed" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_238" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="238">
+<div class="fsTitle" id="fsArticle_10354_238">
+		Evaluation: Administrative Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4321</p>
+<p><strong>Type:</strong> <a data-file-name="4321_R.pdf" data-resource-uuid="7d335b1d-c154-44e9-b842-b3c90d3d728a" href="/fs/resource-manager/view/7d335b1d-c154-44e9-b842-b3c90d3d728a" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_237" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="237">
+<div class="fsTitle" id="fsArticle_10354_237">
+		Evaluation: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4320</p>
+<p><strong>Type:</strong> <a data-file-name="4320_P.pdf" data-resource-uuid="1db33a11-b7c4-4aa8-b011-9f7841d2b4d6" href="/fs/resource-manager/view/1db33a11-b7c4-4aa8-b011-9f7841d2b4d6" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_239" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="239">
+<div class="fsTitle" id="fsArticle_10354_239">
+		Evaluation: Employees on the Teacher Salary Schedule	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4322</p>
+<p><strong>Type:</strong> <a data-file-name="4322_R.pdf" data-resource-uuid="a6306837-cc05-4ee3-aa98-98626a87a8e1" href="/fs/resource-manager/view/a6306837-cc05-4ee3-aa98-98626a87a8e1" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_240" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="240">
+<div class="fsTitle" id="fsArticle_10354_240">
+		Evaluation: Support Staff and School Police Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4323</p>
+<p><strong>Type:</strong> <a href="https://ccsdnet.finalsite.com/fs/resource-manager/view/f886c157-3481-4398-9ab3-c6fbf101c24a" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_291" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="291">
+<div class="fsTitle" id="fsArticle_10354_291">
+		Examinations and Equivalent Credit	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5124</p>
+<p><strong>Type:</strong> <a data-file-name="5124_R.pdf" data-resource-uuid="1368d8d2-9a2d-470d-97b6-9b87001e6cfa" href="/fs/resource-manager/view/1368d8d2-9a2d-470d-97b6-9b87001e6cfa" target="_blank">REG</a> | <a data-file-name="5124_P_2.pdf" data-resource-uuid="e358d8ed-bced-46dc-b3b9-3c804c52c1da" href="/fs/resource-manager/view/e358d8ed-bced-46dc-b3b9-3c804c52c1da" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_375" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="375">
+<div class="fsTitle" id="fsArticle_10354_375">
+		Exemptions From Course Requirements	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6144</p>
+<p><strong>Type:</strong> <a data-file-name="6144_R.pdf" data-resource-uuid="643f66bf-bc68-4a17-93c0-e2f697b1aad8" href="/fs/resource-manager/view/643f66bf-bc68-4a17-93c0-e2f697b1aad8" target="_blank">REG</a> | <a data-file-name="6144_P.pdf" data-resource-uuid="c27e86c8-0239-4469-ba50-c9028ed0fe00" href="/fs/resource-manager/view/c27e86c8-0239-4469-ba50-c9028ed0fe00" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_228" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="228">
+<div class="fsTitle" id="fsArticle_10354_228">
+		Extended-Day Extracurricular	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4292.1</p>
+<p><strong>Type:</strong> <a data-file-name="42921_R.pdf" data-resource-uuid="5cbfefea-4f1d-4301-bc66-1f2a6f88f56a" href="/fs/resource-manager/view/5cbfefea-4f1d-4301-bc66-1f2a6f88f56a" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_311" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="311">
+<div class="fsTitle" id="fsArticle_10354_311">
+		Extracurricular Activities	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5135</p>
+<p><strong>Type:</strong> <a data-file-name="5135_P.pdf" data-resource-uuid="a908b4bd-c7f8-46d1-94e2-05d355576e4d" href="/fs/resource-manager/view/a908b4bd-c7f8-46d1-94e2-05d355576e4d" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_356" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="356">
+<div class="fsTitle" id="fsArticle_10354_356">
+		Extreme Weather/Environmental Conditions	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6114</p>
+<p><strong>Type:</strong> <a data-file-name="6114_P.pdf" data-resource-uuid="b4ed6a5c-2a74-4a91-96c4-713a66f28a81" href="/fs/resource-manager/view/b4ed6a5c-2a74-4a91-96c4-713a66f28a81" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_396" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="396">
+<div class="fsTitle" id="fsArticle_10354_396">
+		Facility Planning	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7110</p>
+<p><strong>Type:</strong> <a data-file-name="7110_R.pdf" data-resource-uuid="1fba37fd-4424-4721-9163-c2afe21d89c5" href="/fs/resource-manager/view/1fba37fd-4424-4721-9163-c2afe21d89c5" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_255" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="255">
+<div class="fsTitle" id="fsArticle_10354_255">
+		Family and Medical Leave Act: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4359</p>
+<p><strong>Type:</strong> <a data-file-name="4359_R.pdf" data-resource-uuid="d99f6440-c87e-429a-86bd-864aa2b5c806" href="/fs/resource-manager/view/d99f6440-c87e-429a-86bd-864aa2b5c806" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_85" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="85">
+<div class="fsTitle" id="fsArticle_10354_85">
+		Family Engagement
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1140</p>
+<p><strong>Type:</strong> <a data-file-name="1140_P.pdf" data-resource-uuid="a8ec2ed9-8483-41c7-b718-1ed2e3927bf5" href="/fs/resource-manager/view/a8ec2ed9-8483-41c7-b718-1ed2e3927bf5" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_165" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="165">
+<div class="fsTitle" id="fsArticle_10354_165">
+		Fee Schedule for Regulation 3613
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3613 Fees</p>
+<p><strong>Type:</strong> <a data-file-name="3613Fees_R.pdf" data-resource-uuid="a2c9361a-08dd-4780-916f-556542555b95" href="/fs/resource-manager/view/a2c9361a-08dd-4780-916f-556542555b95" target="_blank">3613 FEES</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_372" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="372">
+<div class="fsTitle" id="fsArticle_10354_372">
+		Field Trips	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6142</p>
+<p><strong>Type:</strong> <a data-file-name="6142_R.pdf" data-resource-uuid="6f504b61-f761-45f2-aa92-5359dd514d02" href="/fs/resource-manager/view/6f504b61-f761-45f2-aa92-5359dd514d02" target="_blank">REG</a> | <a data-file-name="6142_P.pdf" data-resource-uuid="8b24ebae-36e6-4376-a8b9-ba69f0ebba0b" href="/fs/resource-manager/view/8b24ebae-36e6-4376-a8b9-ba69f0ebba0b" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_167" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="167">
+<div class="fsTitle" id="fsArticle_10354_167">
+		Filming or Recording on School District Property
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3613.2</p>
+<p><strong>Type:</strong> <a data-file-name="36132_R.pdf" data-resource-uuid="ba5a6b4c-2a0a-4fa5-981a-17b1e56bc3f5" href="/fs/resource-manager/view/ba5a6b4c-2a0a-4fa5-981a-17b1e56bc3f5" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_215" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="215">
+<div class="fsTitle" id="fsArticle_10354_215">
+		Fitness For Duty: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4230</p>
+<p><strong>Type:</strong> <a data-file-name="4230_R.pdf" data-resource-uuid="c222c57b-a886-459b-b5d2-6c2e2b4446f0" href="/fs/resource-manager/view/c222c57b-a886-459b-b5d2-6c2e2b4446f0" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_137" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="137">
+<div class="fsTitle" id="fsArticle_10354_137">
+		Food and Beverage and Offsite Facility Rentals
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3317</p>
+<p><strong>Type:</strong> <a data-file-name="3317_R.pdf" data-resource-uuid="d79dbffd-8c16-4fbf-adaa-a2c19462bbf3" href="/fs/resource-manager/view/d79dbffd-8c16-4fbf-adaa-a2c19462bbf3" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_148" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="148">
+<div class="fsTitle" id="fsArticle_10354_148">
+		Food Service Programs
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3520</p>
+<p><strong>Type:</strong> <a data-file-name="3520_R.pdf" data-resource-uuid="24502c98-4ed1-4cca-a6a6-1bc29013ae27" href="/fs/resource-manager/view/24502c98-4ed1-4cca-a6a6-1bc29013ae27" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_97" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="97">
+<div class="fsTitle" id="fsArticle_10354_97">
+		Fund Raising
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1223</p>
+<p><strong>Type:</strong> <a data-file-name="1223_R.pdf" data-resource-uuid="89f41bb6-b7d4-4694-a767-38d6d6605c37" href="/fs/resource-manager/view/89f41bb6-b7d4-4694-a767-38d6d6605c37" target="_blank">REG</a> | <a data-file-name="1223_P.pdf" data-resource-uuid="b381ffb8-c162-4ef2-a899-d6e9288428c6" href="/fs/resource-manager/view/b381ffb8-c162-4ef2-a899-d6e9288428c6" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_298" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="298">
+<div class="fsTitle" id="fsArticle_10354_298">
+		General Educational Development (GED) Examination	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5128</p>
+<p><strong>Type:</strong> <a data-file-name="5128_R.pdf" data-resource-uuid="7f4ae242-ef20-4835-902a-de7ec0ea42d9" href="/fs/resource-manager/view/7f4ae242-ef20-4835-902a-de7ec0ea42d9" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_104" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="104">
+<div class="fsTitle" id="fsArticle_10354_104">
+		Gold Card Program
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1410</p>
+<p><strong>Type:</strong> <a data-file-name="1410_R.pdf" data-resource-uuid="a9634a02-5c21-48d0-a32f-fc07efa95bd1" href="/fs/resource-manager/view/a9634a02-5c21-48d0-a32f-fc07efa95bd1" target="_blank">REG</a> | <a data-file-name="1410_P.pdf" data-resource-uuid="62d1fe15-22f0-4ab3-8d60-73846eae23ff" href="/fs/resource-manager/view/62d1fe15-22f0-4ab3-8d60-73846eae23ff" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_340" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="340">
+<div class="fsTitle" id="fsArticle_10354_340">
+		Health and Welfare: Students	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5150</p>
+<p><strong>Type:</strong> <a data-file-name="5150_R.pdf" data-resource-uuid="6ff780a5-2cee-4c53-a9b9-1610ff15935d" href="/fs/resource-manager/view/6ff780a5-2cee-4c53-a9b9-1610ff15935d" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_300" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="300">
+<div class="fsTitle" id="fsArticle_10354_300">
+		High School Graduation Ceremonies	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5129</p>
+<p><strong>Type:</strong> <a data-file-name="5129_R.pdf" data-resource-uuid="034abe1f-eb55-4533-895f-d4bc49032ac2" href="/fs/resource-manager/view/034abe1f-eb55-4533-895f-d4bc49032ac2" target="_blank">REG</a> | <a data-file-name="5129_P.pdf" data-resource-uuid="37621519-e514-4b7c-99c6-9e9c45447592" href="/fs/resource-manager/view/37621519-e514-4b7c-99c6-9e9c45447592" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_297" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="297">
+<div class="fsTitle" id="fsArticle_10354_297">
+		High School Graduation Requirements	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5127</p>
+<p><strong>Type:</strong> <a data-file-name="5127_R.pdf" data-resource-uuid="60baf5b6-a2ec-4f1d-8a7c-59841e4a6812" href="/fs/resource-manager/view/60baf5b6-a2ec-4f1d-8a7c-59841e4a6812" target="_blank">REG</a> | <a data-file-name="5127_P.pdf" data-resource-uuid="8b2abbfb-260d-4807-834d-94daa08e2cbd" href="/fs/resource-manager/view/8b2abbfb-260d-4807-834d-94daa08e2cbd" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_374" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="374">
+<div class="fsTitle" id="fsArticle_10354_374">
+		Homework	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6143</p>
+<p><strong>Type:</strong> <a data-file-name="6143_R.pdf" data-resource-uuid="18fd8b7d-91d3-40d5-bdc6-283c1b42f978" href="/fs/resource-manager/view/18fd8b7d-91d3-40d5-bdc6-283c1b42f978" target="_blank">REG</a> | <a data-file-name="6143_P.pdf" data-resource-uuid="e6a3559a-d41e-48df-a985-b4790790e93b" href="/fs/resource-manager/view/e6a3559a-d41e-48df-a985-b4790790e93b" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_235" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="235">
+<div class="fsTitle" id="fsArticle_10354_235">
+		Identification Badges, Fingerprints, and Employment Eligibility Verification: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4312</p>
+<p><strong>Type:</strong> <a data-file-name="4312_R.pdf" data-resource-uuid="cc919f26-b351-43ee-b4eb-46d7e2dd9b3e" href="/fs/resource-manager/view/cc919f26-b351-43ee-b4eb-46d7e2dd9b3e" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_170" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="170">
+<div class="fsTitle" id="fsArticle_10354_170">
+		Information Systems Services	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3910</p>
+<p><strong>Type:</strong> <a data-file-name="3910_R.pdf" data-resource-uuid="dbbb2d92-4ca3-4464-8ccb-4686b50fcd5b" href="/fs/resource-manager/view/dbbb2d92-4ca3-4464-8ccb-4686b50fcd5b" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_363" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="363">
+<div class="fsTitle" id="fsArticle_10354_363">
+		Instruction on the Human Immunodeficiency Virus, Human Reproductive System, Related Communicable Diseases, and Sexual Responsibility	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6123</p>
+<p><strong>Type:</strong> <a data-file-name="6123_R.pdf" data-resource-uuid="b29e0557-e807-4f59-9b50-b4a17a8b6f01" href="/fs/resource-manager/view/b29e0557-e807-4f59-9b50-b4a17a8b6f01" target="_blank">REG</a> | <a data-file-name="6123_P.pdf" data-resource-uuid="3c58e4eb-2cb0-4fd9-84e7-32d33d5198fb" href="/fs/resource-manager/view/3c58e4eb-2cb0-4fd9-84e7-32d33d5198fb" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_205" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="205">
+<div class="fsTitle" id="fsArticle_10354_205">
+		Instructional Duties and Responsibilities: Administrators	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4150.1</p>
+<p><strong>Type:</strong> <a data-file-name="41501_R.pdf" data-resource-uuid="aeaae721-4175-4ea3-aa3c-c37debf2c141" href="/fs/resource-manager/view/aeaae721-4175-4ea3-aa3c-c37debf2c141" target="_blank">REG</a> | <a data-file-name="41501_P.pdf" data-resource-uuid="fe94678e-5a80-49ce-acf6-79949922c59f" href="/fs/resource-manager/view/fe94678e-5a80-49ce-acf6-79949922c59f" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_203" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="203">
+<div class="fsTitle" id="fsArticle_10354_203">
+		Instructional Duties and Responsibilities: All Employees
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4150</p>
+<p><strong>Type:</strong> <a data-file-name="4150_P.pdf" data-resource-uuid="b63b8bdf-0d9a-4ac3-8afc-21ee9b639f49" href="/fs/resource-manager/view/b63b8bdf-0d9a-4ac3-8afc-21ee9b639f49" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_206" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="206">
+<div class="fsTitle" id="fsArticle_10354_206">
+		Instructional Duties and Responsibilities: Licensed and Unified Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4200</p>
+<p><strong>Type:</strong> <a data-file-name="4200_R.pdf" data-resource-uuid="adc36ad0-2218-4369-84cc-5b35ed9bcad8" href="/fs/resource-manager/view/adc36ad0-2218-4369-84cc-5b35ed9bcad8" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_377" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="377">
+<div class="fsTitle" id="fsArticle_10354_377">
+		Instructional Materials and Services	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6150</p>
+<p><strong>Type:</strong> <a data-file-name="6150_R.pdf" data-resource-uuid="06f59f6f-8e1c-4518-89bb-db06a31eb83a" href="/fs/resource-manager/view/06f59f6f-8e1c-4518-89bb-db06a31eb83a" target="_blank">REG</a> | <a data-file-name="6150_P.pdf" data-resource-uuid="6fb6c76e-aa1b-40ec-8828-ae9d70d9f314" href="/fs/resource-manager/view/6fb6c76e-aa1b-40ec-8828-ae9d70d9f314" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_360" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="360">
+<div class="fsTitle" id="fsArticle_10354_360">
+		Instructional Plans	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6122</p>
+<p><strong>Type:</strong> <a data-file-name="6122_R.pdf" data-resource-uuid="986bb9d8-7b9d-4d02-bead-1776bc92698c" href="/fs/resource-manager/view/986bb9d8-7b9d-4d02-bead-1776bc92698c" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_361" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="361">
+<div class="fsTitle" id="fsArticle_10354_361">
+		Instructional Plans - Specially Designed Instruction	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6122.1</p>
+<p><strong>Type:</strong> <a data-file-name="61221_R.pdf" data-resource-uuid="b071fc08-7d85-49f5-b68f-8a68cd5a54fd" href="/fs/resource-manager/view/b071fc08-7d85-49f5-b68f-8a68cd5a54fd" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_358" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="358">
+<div class="fsTitle" id="fsArticle_10354_358">
+		Instructional Program Design Development	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6121</p>
+<p><strong>Type:</strong> <a data-file-name="6121_R.pdf" data-resource-uuid="61e61d50-043c-4c7c-b403-93d6a05df30e" href="/fs/resource-manager/view/61e61d50-043c-4c7c-b403-93d6a05df30e" target="_blank">REG</a> | <a data-file-name="6121_P.pdf" data-resource-uuid="54ad4621-62bd-4b32-927d-0521bebd8fc8" href="/fs/resource-manager/view/54ad4621-62bd-4b32-927d-0521bebd8fc8" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_143" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="143">
+<div class="fsTitle" id="fsArticle_10354_143">
+		Insurance Coverage
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3431</p>
+<p><strong>Type:</strong> <a data-file-name="3431_R.pdf" data-resource-uuid="a83eb96e-ec8d-4914-b938-34909074a7fe" href="/fs/resource-manager/view/a83eb96e-ec8d-4914-b938-34909074a7fe" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_417" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="417">
+<div class="fsTitle" id="fsArticle_10354_417">
+		Integrated Pest Management	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7611</p>
+<p><strong>Type:</strong> <a data-file-name="7611_P.pdf" data-resource-uuid="d0041ad7-8a55-48c5-b38d-9eb55b116b1c" href="/fs/resource-manager/view/d0041ad7-8a55-48c5-b38d-9eb55b116b1c" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_119" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="119">
+<div class="fsTitle" id="fsArticle_10354_119">
+		Internal Service Fund
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3211</p>
+<p><strong>Type:</strong> <a data-file-name="3211_R.pdf" data-resource-uuid="45d7d83e-3fbb-44de-bcea-955e57c621f4" href="/fs/resource-manager/view/45d7d83e-3fbb-44de-bcea-955e57c621f4" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_314" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="314">
+<div class="fsTitle" id="fsArticle_10354_314">
+		Interscholastic Student Activities	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5135.12</p>
+<p><strong>Type:</strong> <a data-file-name="513512_R.pdf" data-resource-uuid="64d56f4a-7a95-4ece-86d7-e375cc3d1b0d" href="/fs/resource-manager/view/64d56f4a-7a95-4ece-86d7-e375cc3d1b0d" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_32" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="32">
+<div class="fsTitle" id="fsArticle_10354_32">
+		Introduction to Policies and Regulations
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 0101</p>
+<p><strong>Type:</strong> <a data-file-name="0101_P.pdf" data-resource-uuid="eea17578-d8b4-484f-97b8-87c9fd76f83f" href="/fs/resource-manager/view/eea17578-d8b4-484f-97b8-87c9fd76f83f" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_122" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="122">
+<div class="fsTitle" id="fsArticle_10354_122">
+		Investment Program
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3214</p>
+<p><strong>Type:</strong> <a data-file-name="3214_R.pdf" data-resource-uuid="f46f9ab7-8be0-4211-8127-e9f17b6552bb" href="/fs/resource-manager/view/f46f9ab7-8be0-4211-8127-e9f17b6552bb" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_102" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="102">
+<div class="fsTitle" id="fsArticle_10354_102">
+		Joint Use of Facilities With County And Cities
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1320</p>
+<p><strong>Type:</strong> <a data-file-name="1320_P.pdf" data-resource-uuid="a6ecffae-3f1e-4faf-903e-d5ad4f0c32c7" href="/fs/resource-manager/view/a6ecffae-3f1e-4faf-903e-d5ad4f0c32c7" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_212" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="212">
+<div class="fsTitle" id="fsArticle_10354_212">
+		Jury Duty: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4220</p>
+<p><strong>Type:</strong> <a data-file-name="4220_R.pdf" data-resource-uuid="9ba2d585-173d-4bfa-a29a-562374b24cea" href="/fs/resource-manager/view/9ba2d585-173d-4bfa-a29a-562374b24cea" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_134" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="134">
+<div class="fsTitle" id="fsArticle_10354_134">
+		Lease/Purchase of Equipment	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3314</p>
+<p><strong>Type:</strong> <a data-file-name="3314_R.pdf" data-resource-uuid="292226fa-5502-471f-a426-d559f402a646" href="/fs/resource-manager/view/292226fa-5502-471f-a426-d559f402a646" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_252" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="252">
+<div class="fsTitle" id="fsArticle_10354_252">
+		Leave for Instructional or Consultant Services: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4356</p>
+<p><strong>Type:</strong> <a data-file-name="4356_R.pdf" data-resource-uuid="a94d37bc-afc4-4998-997f-0bde0a11eebd" href="/fs/resource-manager/view/a94d37bc-afc4-4998-997f-0bde0a11eebd" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_246" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="246">
+<div class="fsTitle" id="fsArticle_10354_246">
+		Leaves of Absence: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4350</p>
+<p><strong>Type:</strong> <a data-file-name="4350_P.pdf" data-resource-uuid="2056ffd8-af2f-406a-a9d2-16b4433c8c48" href="/fs/resource-manager/view/2056ffd8-af2f-406a-a9d2-16b4433c8c48" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_126" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="126">
+<div class="fsTitle" id="fsArticle_10354_126">
+		Management of Student Activity and Staff Funds
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3231</p>
+<p><strong>Type:</strong> <a data-file-name="3231_R.pdf" data-resource-uuid="e820ce23-1dfa-4d6b-a708-9ae68955a99a" href="/fs/resource-manager/view/e820ce23-1dfa-4d6b-a708-9ae68955a99a" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_217" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="217">
+<div class="fsTitle" id="fsArticle_10354_217">
+		Medical Conditions: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4235</p>
+<p><strong>Type:</strong> <a data-file-name="4235_P.pdf" data-resource-uuid="808de9c8-b041-4ea4-9c49-4a2f0ee485da" href="/fs/resource-manager/view/808de9c8-b041-4ea4-9c49-4a2f0ee485da" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_247" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="247">
+<div class="fsTitle" id="fsArticle_10354_247">
+		Medical Leave of Absence: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4351</p>
+<p><strong>Type:</strong> <a data-file-name="4351_R.pdf" data-resource-uuid="1773f5cf-aac9-47ff-8442-ce98221813d2" href="/fs/resource-manager/view/1773f5cf-aac9-47ff-8442-ce98221813d2" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_316" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="316">
+<div class="fsTitle" id="fsArticle_10354_316">
+		Meetings
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5135.2</p>
+<p><strong>Type:</strong> <a data-file-name="51352_R.pdf" data-resource-uuid="e27406e8-1137-48c6-b308-e6a40bd8f675" href="/fs/resource-manager/view/e27406e8-1137-48c6-b308-e6a40bd8f675" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_313" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="313">
+<div class="fsTitle" id="fsArticle_10354_313">
+		Middle/Junior High School Student Activities Program	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5135.11</p>
+<p><strong>Type:</strong> <a data-file-name="513511_R.pdf" data-resource-uuid="42658ffd-59c6-4fc1-af78-04e213f2e4ba" href="/fs/resource-manager/view/42658ffd-59c6-4fc1-af78-04e213f2e4ba" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_248" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="248">
+<div class="fsTitle" id="fsArticle_10354_248">
+		Military Leave: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4352</p>
+<p><strong>Type:</strong> <a data-file-name="4352_R.pdf" data-resource-uuid="414b34fb-6117-408f-9ff2-604bc7d34d8a" href="/fs/resource-manager/view/414b34fb-6117-408f-9ff2-604bc7d34d8a" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_273" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="273">
+<div class="fsTitle" id="fsArticle_10354_273">
+		Missing and Abducted Children	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5113.5</p>
+<p><strong>Type:</strong> <a data-file-name="51135_R.pdf" data-resource-uuid="099542f0-5fb5-40e1-90de-97abba798487" href="/fs/resource-manager/view/099542f0-5fb5-40e1-90de-97abba798487" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_127" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="127">
+<div class="fsTitle" id="fsArticle_10354_127">
+		Monies Collected For Fees and Supplies
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3232</p>
+<p><strong>Type:</strong> <a data-file-name="3232_R.pdf" data-resource-uuid="9eeefed8-8395-45c6-9b9f-f417b82f2013" href="/fs/resource-manager/view/9eeefed8-8395-45c6-9b9f-f417b82f2013" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_120" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="120">
+<div class="fsTitle" id="fsArticle_10354_120">
+		Monies Collected From Outside Sources
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3212</p>
+<p><strong>Type:</strong> <a data-file-name="3212_R.pdf" data-resource-uuid="8ef6b2b4-153f-461e-89af-040107d2075a" href="/fs/resource-manager/view/8ef6b2b4-153f-461e-89af-040107d2075a" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_128" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="128">
+<div class="fsTitle" id="fsArticle_10354_128">
+		Monies Collected From Sale of Books, Equipment and Supplies
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3233</p>
+<p><strong>Type:</strong> <a data-file-name="3233_R.pdf" data-resource-uuid="0ee654a9-74ee-4e77-8a9f-8a364ba39bab" href="/fs/resource-manager/view/0ee654a9-74ee-4e77-8a9f-8a364ba39bab" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_357" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="357">
+<div class="fsTitle" id="fsArticle_10354_357">
+		Multi-Tiered System of Supports	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6120</p>
+<p><strong>Type:</strong> <a data-file-name="6120_P.pdf" data-resource-uuid="58dfa4d4-029b-4c2d-8cfa-9791fd819ae5" href="/fs/resource-manager/view/58dfa4d4-029b-4c2d-8cfa-9791fd819ae5" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_412" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="412">
+<div class="fsTitle" id="fsArticle_10354_412">
+		Naming of Schools and Education-Related Facilities	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7223</p>
+<p><strong>Type:</strong> <a data-file-name="7223_P.pdf" data-resource-uuid="c1fbe64d-f2cb-4884-ac4b-f3e217a451da" href="/fs/resource-manager/view/c1fbe64d-f2cb-4884-ac4b-f3e217a451da" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_187" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="187">
+<div class="fsTitle" id="fsArticle_10354_187">
+		Nepotism
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4116</p>
+<p><strong>Type:</strong> <a data-file-name="4116_R.pdf" data-resource-uuid="ee0ff0c5-5ebc-4534-894f-b41cd56d5044" href="/fs/resource-manager/view/ee0ff0c5-5ebc-4534-894f-b41cd56d5044" target="_blank">REG</a> | <a data-file-name="4116_P.pdf" data-resource-uuid="bb0bf167-ff17-4e6c-b32f-20296f91a120" href="/fs/resource-manager/view/bb0bf167-ff17-4e6c-b32f-20296f91a120" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_416" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="416">
+<div class="fsTitle" id="fsArticle_10354_416">
+		Notification of School Construction, Maintenance and Renovation Activities	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7510</p>
+<p><strong>Type:</strong> <a data-file-name="7510_R.pdf" data-resource-uuid="7f6040ea-c9c1-4af0-8ecf-23e0399da198" href="/fs/resource-manager/view/7f6040ea-c9c1-4af0-8ecf-23e0399da198" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_198" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="198">
+<div class="fsTitle" id="fsArticle_10354_198">
+		Occupational Injury or Disease Benefits and Workers' Compensation Leave of Absence: All Employees
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4127</p>
+<p><strong>Type:</strong> <a data-file-name="4127_R.pdf" data-resource-uuid="6bb873a3-0d81-4aa1-887a-42f4e55274da" href="/fs/resource-manager/view/6bb873a3-0d81-4aa1-887a-42f4e55274da" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_78" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="78">
+<div class="fsTitle" id="fsArticle_10354_78">
+		Official District Logo and Seal	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1100</p>
+<p><strong>Type:</strong> <a data-file-name="1100_P.pdf" data-resource-uuid="cd98a16e-9e49-4a37-b524-21925b75a60a" href="/fs/resource-manager/view/cd98a16e-9e49-4a37-b524-21925b75a60a" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_262" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="262">
+<div class="fsTitle" id="fsArticle_10354_262">
+		Open Communication and Free Exchange of Ideas	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4391</p>
+<p><strong>Type:</strong> <a data-file-name="4391_P.pdf" data-resource-uuid="b062ee31-5b31-4ce7-95fe-6935c5657b7d" href="/fs/resource-manager/view/b062ee31-5b31-4ce7-95fe-6935c5657b7d" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_108" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="108">
+<div class="fsTitle" id="fsArticle_10354_108">
+		Out-of-District Consultants
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 2310</p>
+<p><strong>Type:</strong> <a data-file-name="2310_P.pdf" data-resource-uuid="4abcbc6d-1a43-41a0-a94d-215aec5d2b34" href="/fs/resource-manager/view/4abcbc6d-1a43-41a0-a94d-215aec5d2b34" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_109" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="109">
+<div class="fsTitle" id="fsArticle_10354_109">
+		Out-of-District Consultants For Instructional-Related Services
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 2310</p>
+<p><strong>Type:</strong> <a data-file-name="2310_R.pdf" data-resource-uuid="bb17e9ce-b66a-4c9f-9c92-72a2dc92a066" href="/fs/resource-manager/view/bb17e9ce-b66a-4c9f-9c92-72a2dc92a066" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_219" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="219">
+<div class="fsTitle" id="fsArticle_10354_219">
+		Outside Activities: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4250</p>
+<p><strong>Type:</strong> <a data-file-name="4250_R.pdf" data-resource-uuid="72f3b9b2-960d-45ce-9033-8122a767b049" href="/fs/resource-manager/view/72f3b9b2-960d-45ce-9033-8122a767b049" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_86" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="86">
+<div class="fsTitle" id="fsArticle_10354_86">
+		Parent and Family Engagement and School Culture Investigations
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1140.1</p>
+<p><strong>Type:</strong> <a data-file-name="11401_R.pdf" data-resource-uuid="213f85ef-51d7-4e16-a12d-072628ce5cb4" href="/fs/resource-manager/view/213f85ef-51d7-4e16-a12d-072628ce5cb4" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_84" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="84">
+<div class="fsTitle" id="fsArticle_10354_84">
+		Parent Participation: Project Development and Implementation	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1130</p>
+<p><strong>Type:</strong> <a data-file-name="1130_P.pdf" data-resource-uuid="0f1ba005-d253-476a-b38b-23849c9d0e39" href="/fs/resource-manager/view/0f1ba005-d253-476a-b38b-23849c9d0e39" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_92" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="92">
+<div class="fsTitle" id="fsArticle_10354_92">
+		Participation By School Groups in Public Events	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1221</p>
+<p><strong>Type:</strong> <a data-file-name="1221_P.pdf" data-resource-uuid="929edff6-1b40-4022-b64f-a48ac4cea955" href="/fs/resource-manager/view/929edff6-1b40-4022-b64f-a48ac4cea955" target="_blank">REG</a> | <a data-file-name="1221_P.pdf" data-resource-uuid="929edff6-1b40-4022-b64f-a48ac4cea955" href="/fs/resource-manager/view/929edff6-1b40-4022-b64f-a48ac4cea955" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_283" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="283">
+<div class="fsTitle" id="fsArticle_10354_283">
+		Participation of Homeschooled, Charterschooled, and Privateschooled Students in Clark County School District Programs	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5119</p>
+<p><strong>Type:</strong> <a data-file-name="5119_P.pdf" data-resource-uuid="31ac79b6-14ab-4a59-9afd-8ef624610d64" href="/fs/resource-manager/view/31ac79b6-14ab-4a59-9afd-8ef624610d64" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_140" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="140">
+<div class="fsTitle" id="fsArticle_10354_140">
+		Payment Authority
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3330</p>
+<p><strong>Type:</strong> <a data-file-name="3330_R.pdf" data-resource-uuid="a1fd41fc-0b73-4281-8e45-5c55e4b84d97" href="/fs/resource-manager/view/a1fd41fc-0b73-4281-8e45-5c55e4b84d97" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_241" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="241">
+<div class="fsTitle" id="fsArticle_10354_241">
+		Payroll Deductions: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4330</p>
+<p><strong>Type:</strong> <a data-file-name="4330_R.pdf" data-resource-uuid="0cf21162-4de2-44ee-b337-b6deba3d530f" href="/fs/resource-manager/view/0cf21162-4de2-44ee-b337-b6deba3d530f" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_230" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="230">
+<div class="fsTitle" id="fsArticle_10354_230">
+		Payroll Warrants: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4294</p>
+<p><strong>Type:</strong> <a data-file-name="4294_R.pdf" data-resource-uuid="e091b026-d68f-4a6a-b207-d6bfda0bbfd8" href="/fs/resource-manager/view/e091b026-d68f-4a6a-b207-d6bfda0bbfd8" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_250" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="250">
+<div class="fsTitle" id="fsArticle_10354_250">
+		PeaceCorps, VISTA, Teacher Corps Leave: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4354</p>
+<p><strong>Type:</strong> <a data-file-name="4354_R.pdf" data-resource-uuid="468addd5-654d-425e-8b93-92fd02d72255" href="/fs/resource-manager/view/468addd5-654d-425e-8b93-92fd02d72255" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_138" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="138">
+<div class="fsTitle" id="fsArticle_10354_138">
+		Performance Contracts
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3319</p>
+<p><strong>Type:</strong> <a data-file-name="3319_P.pdf" data-resource-uuid="f323e50c-bfb0-464b-a3ff-9700d3b54ba2" href="/fs/resource-manager/view/f323e50c-bfb0-464b-a3ff-9700d3b54ba2" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_385" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="385">
+<div class="fsTitle" id="fsArticle_10354_385">
+		Performances and Exhibits by Students	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6163</p>
+<p><strong>Type:</strong> <a data-file-name="6163_P.pdf" data-resource-uuid="6dc8e745-eaea-4d22-a210-272ac7d93c43" href="/fs/resource-manager/view/6dc8e745-eaea-4d22-a210-272ac7d93c43" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_142" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="142">
+<div class="fsTitle" id="fsArticle_10354_142">
+		Periodic Audits
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3420</p>
+<p><strong>Type:</strong> <a data-file-name="3420_R.pdf" data-resource-uuid="b46ad704-8dbb-4782-91d6-d0028c2ec989" href="/fs/resource-manager/view/b46ad704-8dbb-4782-91d6-d0028c2ec989" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_254" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="254">
+<div class="fsTitle" id="fsArticle_10354_254">
+		Personal Leave: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4358</p>
+<p><strong>Type:</strong> <a data-file-name="4358_R.pdf" data-resource-uuid="15d0997d-1678-42bc-94b4-4d052b07a5ee" href="/fs/resource-manager/view/15d0997d-1678-42bc-94b4-4d052b07a5ee" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_323" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="323">
+<div class="fsTitle" id="fsArticle_10354_323">
+		Personal Technology and Communication Devices	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5136</p>
+<p><strong>Type:</strong> <a data-file-name="5136_P.pdf" data-resource-uuid="5e0f731e-b00a-4375-8e21-1cb93d5aecfd" href="/fs/resource-manager/view/5e0f731e-b00a-4375-8e21-1cb93d5aecfd" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_341" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="341">
+<div class="fsTitle" id="fsArticle_10354_341">
+		Physical Examination, Immunization, And Diagnostic Programs	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5151</p>
+<p><strong>Type:</strong> <a data-file-name="5151_R.pdf" data-resource-uuid="a762574c-7c2e-4cc3-8a0a-d6bc7ad0ff10" href="/fs/resource-manager/view/a762574c-7c2e-4cc3-8a0a-d6bc7ad0ff10" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_225" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="225">
+<div class="fsTitle" id="fsArticle_10354_225">
+		Placement and Advancement of the Administrative Salary Schedule	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4291</p>
+<p><strong>Type:</strong> <a data-file-name="4291_R.pdf" data-resource-uuid="9b5795f6-f5a9-41f5-bd17-61859488cf8b" href="/fs/resource-manager/view/9b5795f6-f5a9-41f5-bd17-61859488cf8b" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_229" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="229">
+<div class="fsTitle" id="fsArticle_10354_229">
+		Placement and Advancement On The Support Staff and School Police Salary Schedule	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4293</p>
+<p><strong>Type:</strong> <a data-file-name="4293_R.pdf" data-resource-uuid="e7ccacbc-aeab-4f52-91ad-4043e0afdf3b" href="/fs/resource-manager/view/e7ccacbc-aeab-4f52-91ad-4043e0afdf3b" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_227" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="227">
+<div class="fsTitle" id="fsArticle_10354_227">
+		Placement and Advancement On the Teacher Salary Schedule	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4292</p>
+<p><strong>Type:</strong> <a data-file-name="4292_R.pdf" data-resource-uuid="7c5545c9-1ec9-4dbb-85eb-9a5d1f70dd22" href="/fs/resource-manager/view/7c5545c9-1ec9-4dbb-85eb-9a5d1f70dd22" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_413" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="413">
+<div class="fsTitle" id="fsArticle_10354_413">
+		Plaque for Educational Facilities	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7224</p>
+<p><strong>Type:</strong> <a data-file-name="7224_R.pdf" data-resource-uuid="394fbd4d-f518-4972-8761-a188a9415efb" href="/fs/resource-manager/view/394fbd4d-f518-4972-8761-a188a9415efb" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_253" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="253">
+<div class="fsTitle" id="fsArticle_10354_253">
+		Political Leave: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4357</p>
+<p><strong>Type:</strong> <a data-file-name="4357_R.pdf" data-resource-uuid="df09106d-1c75-492d-8fe8-9e428f002187" href="/fs/resource-manager/view/df09106d-1c75-492d-8fe8-9e428f002187" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_153" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="153">
+<div class="fsTitle" id="fsArticle_10354_153">
+		Practice Evacuation of School Buses
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3534</p>
+<p><strong>Type:</strong> <a data-file-name="3534_R.pdf" data-resource-uuid="44c2a9ad-8f67-420b-9ba2-3e88713299de" href="/fs/resource-manager/view/44c2a9ad-8f67-420b-9ba2-3e88713299de" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_319" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="319">
+<div class="fsTitle" id="fsArticle_10354_319">
+		Procedures for Athletic Contests During Student Unrest	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5135.5</p>
+<p><strong>Type:</strong> <a data-file-name="51355_R.pdf" data-resource-uuid="8d893482-6aba-48e2-9054-da5ac12cad1d" href="/fs/resource-manager/view/8d893482-6aba-48e2-9054-da5ac12cad1d" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_77" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="77">
+<div class="fsTitle" id="fsArticle_10354_77">
+		Product Recycling
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 0500</p>
+<p><strong>Type:</strong> <a data-file-name="0500_P.pdf" data-resource-uuid="40cd8d5e-2a3a-43ba-99b1-647ec36ddebe" href="/fs/resource-manager/view/40cd8d5e-2a3a-43ba-99b1-647ec36ddebe" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_218" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="218">
+<div class="fsTitle" id="fsArticle_10354_218">
+		Professional Learning: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4240</p>
+<p><strong>Type:</strong> <a data-file-name="4240_R.pdf" data-resource-uuid="07d61903-6490-46c6-aa59-2436daaf60f3" href="/fs/resource-manager/view/07d61903-6490-46c6-aa59-2436daaf60f3" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_249" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="249">
+<div class="fsTitle" id="fsArticle_10354_249">
+		Professional Leave: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4353</p>
+<p><strong>Type:</strong> <a data-file-name="4353_R.pdf" data-resource-uuid="b0f05360-5007-490f-a1f7-5faca44d987e" href="/fs/resource-manager/view/b0f05360-5007-490f-a1f7-5faca44d987e" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_387" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="387">
+<div class="fsTitle" id="fsArticle_10354_387">
+		Programs and Services for English Language Learner Students	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6165</p>
+<p><strong>Type:</strong> <a data-file-name="6165_P.pdf" data-resource-uuid="ea717743-973c-464f-bdd9-e36158882c9b" href="/fs/resource-manager/view/ea717743-973c-464f-bdd9-e36158882c9b" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_317" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="317">
+<div class="fsTitle" id="fsArticle_10354_317">
+		Programs During School Time	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5135.3</p>
+<p><strong>Type:</strong> <a data-file-name="51353_R.pdf" data-resource-uuid="10e9421d-3ff3-49ae-ac29-dcb4146d6f27" href="/fs/resource-manager/view/10e9421d-3ff3-49ae-ac29-dcb4146d6f27" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_288" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="288">
+<div class="fsTitle" id="fsArticle_10354_288">
+		Promotion and Retention	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5123</p>
+<p><strong>Type:</strong> <a data-file-name="5123_P.pdf" data-resource-uuid="7ad0b367-aad5-4459-926a-7066905b13a8" href="/fs/resource-manager/view/7ad0b367-aad5-4459-926a-7066905b13a8" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_289" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="289">
+<div class="fsTitle" id="fsArticle_10354_289">
+		Promotion, Retention, and Demotion of Students	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5123</p>
+<p><strong>Type:</strong> <a data-file-name="5123_R.pdf" data-resource-uuid="86c98707-fa77-4349-8386-35dc8b640ff2" href="/fs/resource-manager/view/86c98707-fa77-4349-8386-35dc8b640ff2" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_185" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="185">
+<div class="fsTitle" id="fsArticle_10354_185">
+		Promotion: Support Staff and School Police Employees
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4115</p>
+<p><strong>Type:</strong> <a data-file-name="4115_R.pdf" data-resource-uuid="3afe40a7-e00c-4732-8e6d-6ac189480906" href="/fs/resource-manager/view/3afe40a7-e00c-4732-8e6d-6ac189480906" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_160" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="160">
+<div class="fsTitle" id="fsArticle_10354_160">
+		Property Inventory
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3610</p>
+<p><strong>Type:</strong> <a data-file-name="3610_R.pdf" data-resource-uuid="def3d183-c649-4166-8fec-2cb450e06842" href="/fs/resource-manager/view/def3d183-c649-4166-8fec-2cb450e06842" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_214" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="214">
+<div class="fsTitle" id="fsArticle_10354_214">
+		Public Board Service: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4222</p>
+<p><strong>Type:</strong> <a data-file-name="4222_R.pdf" data-resource-uuid="f1c8b1d1-2165-4010-8a43-47a59b08eb77" href="/fs/resource-manager/view/f1c8b1d1-2165-4010-8a43-47a59b08eb77" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_89" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="89">
+<div class="fsTitle" id="fsArticle_10354_89">
+		Public Concerns
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1213</p>
+<p><strong>Type:</strong> <a data-file-name="12131_R.pdf" data-resource-uuid="cc82c0fe-425a-4175-97ae-4c2be18050d7" href="/fs/resource-manager/view/cc82c0fe-425a-4175-97ae-4c2be18050d7" target="_blank">REG</a> | <a data-file-name="1213_P.pdf" data-resource-uuid="55d7c587-3ca6-4674-97d1-fc58bb50afba" href="/fs/resource-manager/view/55d7c587-3ca6-4674-97d1-fc58bb50afba" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_87" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="87">
+<div class="fsTitle" id="fsArticle_10354_87">
+		Public Records
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1211</p>
+<p><strong>Type:</strong> <a data-file-name="1211_R.pdf" data-resource-uuid="f82f2633-4b4e-4140-957e-e87ab92229aa" href="/fs/resource-manager/view/f82f2633-4b4e-4140-957e-e87ab92229aa" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_1824" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="1824">
+<div class="fsTitle" id="fsArticle_10354_1824">
+		Public Records Request Fees
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1211 Fees</p>
+<p><strong>Type:</strong> <a data-file-name="1211Fees_R.pdf" data-resource-uuid="92b71154-6bd7-4df5-81f3-8103bd3c996c" href="/fs/resource-manager/view/92b71154-6bd7-4df5-81f3-8103bd3c996c" target="_blank">1211 FEES</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_381" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="381">
+<div class="fsTitle" id="fsArticle_10354_381">
+		Public Television Projects	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6153</p>
+<p><strong>Type:</strong> <a data-file-name="6153_R.pdf" data-resource-uuid="8a5c5c13-b802-4cf4-bee7-56f43ea2bba0" href="/fs/resource-manager/view/8a5c5c13-b802-4cf4-bee7-56f43ea2bba0" target="_blank">REG</a> | <a data-file-name="6153_P.pdf" data-resource-uuid="fe9ee025-5688-4f22-9a06-2976229cb204" href="/fs/resource-manager/view/fe9ee025-5688-4f22-9a06-2976229cb204" target="_blank">POL</a></p>
+<p> </p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_131" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="131">
+<div class="fsTitle" id="fsArticle_10354_131">
+		Purchasing Authority
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3311</p>
+<p><strong>Type:</strong> <a data-file-name="3311_R.pdf" data-resource-uuid="e0983444-10d3-4743-be58-28631d753098" href="/fs/resource-manager/view/e0983444-10d3-4743-be58-28631d753098" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_132" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="132">
+<div class="fsTitle" id="fsArticle_10354_132">
+		Purchasing Authorization And Nepotism-All Funds
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3312</p>
+<p><strong>Type:</strong> <a data-file-name="3312_R.pdf" data-resource-uuid="a1e79edf-52a4-4b8b-8038-4575f9ad1003" href="/fs/resource-manager/view/a1e79edf-52a4-4b8b-8038-4575f9ad1003" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_130" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="130">
+<div class="fsTitle" id="fsArticle_10354_130">
+		Purchasing Guides
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3310</p>
+<p><strong>Type:</strong> <a data-file-name="3310_R.pdf" data-resource-uuid="adf4bb14-4f1d-4ef2-abae-7f13d0589e63" href="/fs/resource-manager/view/adf4bb14-4f1d-4ef2-abae-7f13d0589e63" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_201" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="201">
+<div class="fsTitle" id="fsArticle_10354_201">
+		Reassignment and Transfer of Licensed Teacher Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4141</p>
+<p><strong>Type:</strong> <a data-file-name="4141_R.pdf" data-resource-uuid="09515774-d91b-4f38-9bea-fdb3dfe00c93" href="/fs/resource-manager/view/09515774-d91b-4f38-9bea-fdb3dfe00c93" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_169" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="169">
+<div class="fsTitle" id="fsArticle_10354_169">
+		Records Retention Schedule	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3621</p>
+<p><strong>Type:</strong> <a data-file-name="3621_R.pdf" data-resource-uuid="aef56d06-b22a-4624-9d9b-de9fd54e0c8b" href="/fs/resource-manager/view/aef56d06-b22a-4624-9d9b-de9fd54e0c8b" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_136" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="136">
+<div class="fsTitle" id="fsArticle_10354_136">
+		Relations With Contractors/Suppliers and Potential Contractors/Suppliers	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3316</p>
+<p><strong>Type:</strong> <a data-file-name="3316_R.pdf" data-resource-uuid="d7c1a956-2f00-42f8-b47e-71a157285c00" href="/fs/resource-manager/view/d7c1a956-2f00-42f8-b47e-71a157285c00" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_175" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="175">
+<div class="fsTitle" id="fsArticle_10354_175">
+		Relationships, Interactions, and Communications Between District Employees or Representatives/ Volunteers and Students	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4100</p>
+<p><strong>Type:</strong> <a data-file-name="4100_R.pdf" data-resource-uuid="cc81de63-d5e0-47b6-805b-d5585b0dde33" href="/fs/resource-manager/view/cc81de63-d5e0-47b6-805b-d5585b0dde33" target="_blank">REG</a> | <a data-file-name="4100_P.pdf" data-resource-uuid="db9cb2e8-c808-4855-8ab3-2e2d8528cf08" href="/fs/resource-manager/view/db9cb2e8-c808-4855-8ab3-2e2d8528cf08" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_293" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="293">
+<div class="fsTitle" id="fsArticle_10354_293">
+		Release of Information	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5125.1</p>
+<p><strong>Type:</strong> <a data-file-name="51251_R.pdf" data-resource-uuid="623359b6-57c8-4784-b1c0-9628352cdaad" href="/fs/resource-manager/view/623359b6-57c8-4784-b1c0-9628352cdaad" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_336" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="336">
+<div class="fsTitle" id="fsArticle_10354_336">
+		Release of Students During School Hours	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5145.1</p>
+<p><strong>Type:</strong> <a data-file-name="51451_R.pdf" data-resource-uuid="f324dd43-eeef-43a5-acea-2764536a05a1" href="/fs/resource-manager/view/f324dd43-eeef-43a5-acea-2764536a05a1" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_348" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="348">
+<div class="fsTitle" id="fsArticle_10354_348">
+		Released Time For Special Instruction or Activities	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6111</p>
+<p><strong>Type:</strong> <a data-file-name="6111_R.pdf" data-resource-uuid="4bd13049-29bc-40ba-a5b2-bd38f70668e0" href="/fs/resource-manager/view/4bd13049-29bc-40ba-a5b2-bd38f70668e0" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_287" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="287">
+<div class="fsTitle" id="fsArticle_10354_287">
+		Reporting To Parents	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5122</p>
+<p><strong>Type:</strong> <a data-file-name="5122_R.pdf" data-resource-uuid="f698e6c9-6b3d-47e6-8c69-83cb38d585c6" href="/fs/resource-manager/view/f698e6c9-6b3d-47e6-8c69-83cb38d585c6" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_264" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="264">
+<div class="fsTitle" id="fsArticle_10354_264">
+		Required Parent Conference Procedures	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5110</p>
+<p><strong>Type:</strong> <a data-file-name="5110_R.pdf" data-resource-uuid="f9560d12-39c8-43b3-ad98-605610cbfdc2" href="/fs/resource-manager/view/f9560d12-39c8-43b3-ad98-605610cbfdc2" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_401" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="401">
+<div class="fsTitle" id="fsArticle_10354_401">
+		Residential Property	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7114</p>
+<p><strong>Type:</strong> <a data-file-name="7114_P.pdf" data-resource-uuid="c3e424e3-5e51-49bc-9eff-4a16e0756572" href="/fs/resource-manager/view/c3e424e3-5e51-49bc-9eff-4a16e0756572" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_256" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="256">
+<div class="fsTitle" id="fsArticle_10354_256">
+		Resignations: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4360</p>
+<p><strong>Type:</strong> <a data-file-name="4360_R.pdf" data-resource-uuid="cfcd0bfe-4228-42cd-b7f3-beb522e9b1ba" href="/fs/resource-manager/view/cfcd0bfe-4228-42cd-b7f3-beb522e9b1ba" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_162" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="162">
+<div class="fsTitle" id="fsArticle_10354_162">
+		Responsibility for District Property	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3612</p>
+<p><strong>Type:</strong> <a data-file-name="3612_R.pdf" data-resource-uuid="364cfd0d-0070-4414-9e8a-39ed87923b9b" href="/fs/resource-manager/view/364cfd0d-0070-4414-9e8a-39ed87923b9b" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_226" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="226">
+<div class="fsTitle" id="fsArticle_10354_226">
+		Responsibility Pay: Unified Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4291.1</p>
+<p><strong>Type:</strong> <a data-file-name="42911_R.pdf" data-resource-uuid="b20c186c-aa17-47e9-a2e1-f7eebeef57c8" href="/fs/resource-manager/view/b20c186c-aa17-47e9-a2e1-f7eebeef57c8" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_168" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="168">
+<div class="fsTitle" id="fsArticle_10354_168">
+		Retention of Records
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3620</p>
+<p><strong>Type:</strong> <a data-file-name="3620_R.pdf" data-resource-uuid="c0713f46-0b21-4a99-a59c-e2b1025d7828" href="/fs/resource-manager/view/c0713f46-0b21-4a99-a59c-e2b1025d7828" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_324" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="324">
+<div class="fsTitle" id="fsArticle_10354_324">
+		Safe and Respectful Learning Environment: Discrimination Based on Race, Bullying, or Cyberbullying	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5137</p>
+<p><strong>Type:</strong> <a data-file-name="5137_P.pdf" data-resource-uuid="41492051-b385-4601-8771-18ebdbda410a" href="/fs/resource-manager/view/41492051-b385-4601-8771-18ebdbda410a" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_110" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="110">
+<div class="fsTitle" id="fsArticle_10354_110">
+		Safety
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 2410</p>
+<p><strong>Type:</strong> <a data-file-name="2410_P.pdf" data-resource-uuid="6e85f9f4-17f3-4b57-80e9-b4a2d2907c0e" href="/fs/resource-manager/view/6e85f9f4-17f3-4b57-80e9-b4a2d2907c0e" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_414" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="414">
+<div class="fsTitle" id="fsArticle_10354_414">
+		Safety and Loss Control	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7310</p>
+<p><strong>Type:</strong> <a data-file-name="7310_R.pdf" data-resource-uuid="13fc3116-3e8f-4934-9d19-8456ece6c202" href="/fs/resource-manager/view/13fc3116-3e8f-4934-9d19-8456ece6c202" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_152" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="152">
+<div class="fsTitle" id="fsArticle_10354_152">
+		Safety of Students Transportation Vehicles
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3533</p>
+<p><strong>Type:</strong> <a data-file-name="3533_R.pdf" data-resource-uuid="bc6e9b5c-8bfe-47a5-9e26-e525a02e8402" href="/fs/resource-manager/view/bc6e9b5c-8bfe-47a5-9e26-e525a02e8402" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_161" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="161">
+<div class="fsTitle" id="fsArticle_10354_161">
+		Sale of District Personal Property
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3611</p>
+<p><strong>Type:</strong> <a data-file-name="3611_R.pdf" data-resource-uuid="61c3bb38-1ad8-4588-b61f-3ba8d7f8be56" href="/fs/resource-manager/view/61c3bb38-1ad8-4588-b61f-3ba8d7f8be56" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_301" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="301">
+<div class="fsTitle" id="fsArticle_10354_301">
+		School Board Student Advisory Committee	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5130</p>
+<p><strong>Type:</strong> <a data-file-name="5130_R.pdf" data-resource-uuid="34536c9b-6345-4297-a638-0525ef3b2ac3" href="/fs/resource-manager/view/34536c9b-6345-4297-a638-0525ef3b2ac3" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_157" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="157">
+<div class="fsTitle" id="fsArticle_10354_157">
+		School Bus Replacement
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3538</p>
+<p><strong>Type:</strong> <a data-file-name="3538_R.pdf" data-resource-uuid="14681bb8-6e3e-4d57-984c-2f36126f0c2d" href="/fs/resource-manager/view/14681bb8-6e3e-4d57-984c-2f36126f0c2d" target="_blank">REG</a> | <a data-file-name="3538_P.pdf" data-resource-uuid="a54e64c2-3069-4c2b-a405-621abbab1300" href="/fs/resource-manager/view/a54e64c2-3069-4c2b-a405-621abbab1300" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_346" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="346">
+<div class="fsTitle" id="fsArticle_10354_346">
+		School Day	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6110</p>
+<p><strong>Type:</strong> <a data-file-name="6110_R.pdf" data-resource-uuid="eb3ea11a-4dc0-4326-a5a5-16d833c5c90f" href="/fs/resource-manager/view/eb3ea11a-4dc0-4326-a5a5-16d833c5c90f" target="_blank">REG</a> | <a data-file-name="6110_P.pdf" data-resource-uuid="6d40ba41-b932-4821-b2c2-3274422ffcfc" href="/fs/resource-manager/view/6d40ba41-b932-4821-b2c2-3274422ffcfc" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_404" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="404">
+<div class="fsTitle" id="fsArticle_10354_404">
+		School Facility Design	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7122</p>
+<p><strong>Type:</strong> <a data-file-name="7122_P.pdf" data-resource-uuid="83595710-5d9d-43a1-a8b5-9fcc1292df54" href="/fs/resource-manager/view/83595710-5d9d-43a1-a8b5-9fcc1292df54" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_399" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="399">
+<div class="fsTitle" id="fsArticle_10354_399">
+		School Facility Replacement	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7112</p>
+<p><strong>Type:</strong> <a data-file-name="7112_R.pdf" data-resource-uuid="9580ea44-3401-4887-ab50-df548195bdcf" href="/fs/resource-manager/view/9580ea44-3401-4887-ab50-df548195bdcf" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_383" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="383">
+<div class="fsTitle" id="fsArticle_10354_383">
+		School Libraries	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6161</p>
+<p><strong>Type:</strong> <a data-file-name="6161_P.pdf" data-resource-uuid="27aaff44-36aa-4729-9b7b-050e27fd74fb" href="/fs/resource-manager/view/27aaff44-36aa-4729-9b7b-050e27fd74fb" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_79" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="79">
+<div class="fsTitle" id="fsArticle_10354_79">
+		School Mascots and Other School Identifiers	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1101</p>
+<p><strong>Type:</strong> <a data-file-name="1101_P.pdf" data-resource-uuid="feb23664-93dc-406f-a4ec-59a08f4b2d62" href="/fs/resource-manager/view/feb23664-93dc-406f-a4ec-59a08f4b2d62" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_403" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="403">
+<div class="fsTitle" id="fsArticle_10354_403">
+		School Site Development	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7121</p>
+<p><strong>Type:</strong> <a data-file-name="7121_R.pdf" data-resource-uuid="3cf2b02e-cb9e-473d-afb4-cb61598a03c0" href="/fs/resource-manager/view/3cf2b02e-cb9e-473d-afb4-cb61598a03c0" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_91" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="91">
+<div class="fsTitle" id="fsArticle_10354_91">
+		School Visitors
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1214</p>
+<p><strong>Type:</strong> <a data-file-name="1214_P.pdf" data-resource-uuid="63f47ee3-bbd9-4a36-a5a6-05e381a9b3e7" href="/fs/resource-manager/view/63f47ee3-bbd9-4a36-a5a6-05e381a9b3e7" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_113" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="113">
+<div class="fsTitle" id="fsArticle_10354_113">
+		Schoolwide Therapy Dogs	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 2500.2</p>
+<p><strong>Type:</strong> <a data-file-name="25002_R.pdf" data-resource-uuid="a11d54e2-16ed-416e-b7a5-2a4db66f1b3b" href="/fs/resource-manager/view/a11d54e2-16ed-416e-b7a5-2a4db66f1b3b" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_334" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="334">
+<div class="fsTitle" id="fsArticle_10354_334">
+		Searching Students or Student Lockers	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5144</p>
+<p><strong>Type:</strong> <a data-file-name="5144_R.pdf" data-resource-uuid="3da67c7d-38dc-4e63-a10f-6571f769e704" href="/fs/resource-manager/view/3da67c7d-38dc-4e63-a10f-6571f769e704" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_351" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="351">
+<div class="fsTitle" id="fsArticle_10354_351">
+		Sectarianism, Religious Free Speech and Religious Holidays
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6113.2</p>
+<p><strong>Type:</strong> <a data-file-name="61132_R.pdf" data-resource-uuid="bccfdef4-e228-45e9-befc-8eb98292a177" href="/fs/resource-manager/view/bccfdef4-e228-45e9-befc-8eb98292a177" target="_blank">REG</a> | <a data-file-name="61132_P.pdf" data-resource-uuid="44d26407-ecae-4d3f-bfe9-ced2a2fa7318" href="/fs/resource-manager/view/44d26407-ecae-4d3f-bfe9-ced2a2fa7318" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_183" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="183">
+<div class="fsTitle" id="fsArticle_10354_183">
+		Selection From General Position Announcements: Extended-Day Instructional Services	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4113.1</p>
+<p><strong>Type:</strong> <a data-file-name="41131_R.pdf" data-resource-uuid="9b68ed1c-5290-4864-a499-4523a5477abf" href="/fs/resource-manager/view/9b68ed1c-5290-4864-a499-4523a5477abf" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_181" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="181">
+<div class="fsTitle" id="fsArticle_10354_181">
+		Selection: Licensed Employees - Duties of Counselors
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4113</p>
+<p><strong>Type:</strong> <a data-file-name="4113_R.pdf" data-resource-uuid="0c2af9f6-0123-4825-b94f-ec7c0db398ef" href="/fs/resource-manager/view/0c2af9f6-0123-4825-b94f-ec7c0db398ef" target="_blank">REG</a> | <a data-file-name="4113_P.pdf" data-resource-uuid="618b6bcb-ec09-4a8e-9cae-7a4fb0227e48" href="/fs/resource-manager/view/618b6bcb-ec09-4a8e-9cae-7a4fb0227e48" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_184" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="184">
+<div class="fsTitle" id="fsArticle_10354_184">
+		Selection: Support Staff and School Police Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4114</p>
+<p><strong>Type:</strong> <a data-file-name="4114_R.pdf" data-resource-uuid="3f222f5f-4eda-4286-ab7d-3ad44771e9b3" href="/fs/resource-manager/view/3f222f5f-4eda-4286-ab7d-3ad44771e9b3" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_111" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="111">
+<div class="fsTitle" id="fsArticle_10354_111">
+		Service Animals
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 2500</p>
+<p><strong>Type:</strong> <a data-file-name="2500_R.pdf" data-resource-uuid="91ea2908-357c-4b21-b83e-352e45e7fb8e" href="/fs/resource-manager/view/91ea2908-357c-4b21-b83e-352e45e7fb8e" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_244" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="244">
+<div class="fsTitle" id="fsArticle_10354_244">
+		Short-Term Suspension: All Licensed Employees and Nonlicensed Administrative Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4342</p>
+<p><strong>Type:</strong> <a data-file-name="4342_R.pdf" data-resource-uuid="6544ac07-44d3-4e7d-98ae-f538a4f02df2" href="/fs/resource-manager/view/6544ac07-44d3-4e7d-98ae-f538a4f02df2" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_350" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="350">
+<div class="fsTitle" id="fsArticle_10354_350">
+		Silent Contemplation	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6113.1</p>
+<p><strong>Type:</strong> <a data-file-name="61131_P.pdf" data-resource-uuid="f6337daa-82b7-417f-9dfb-f04c775e774c" href="/fs/resource-manager/view/f6337daa-82b7-417f-9dfb-f04c775e774c" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_133" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="133">
+<div class="fsTitle" id="fsArticle_10354_133">
+		Small Purchases Made with Procurement Cards
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3313</p>
+<p><strong>Type:</strong> <a data-file-name="3313_R.pdf" data-resource-uuid="58544056-62b7-4fb7-b7e3-c121f6bb98cc" href="/fs/resource-manager/view/58544056-62b7-4fb7-b7e3-c121f6bb98cc" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_260" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="260">
+<div class="fsTitle" id="fsArticle_10354_260">
+		Smoking Policy	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4380</p>
+<p><strong>Type:</strong> <a data-file-name="4380_P.pdf" data-resource-uuid="f337e852-3693-47a1-9d39-9d4d6055c54f" href="/fs/resource-manager/view/f337e852-3693-47a1-9d39-9d4d6055c54f" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_307" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="307">
+<div class="fsTitle" id="fsArticle_10354_307">
+		Social Events (Elementary and Secondary)	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5133</p>
+<p><strong>Type:</strong> <a data-file-name="5133_R.pdf" data-resource-uuid="04d92fcd-dcff-45c1-a0ee-28d9cc18e3e0" href="/fs/resource-manager/view/04d92fcd-dcff-45c1-a0ee-28d9cc18e3e0" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_308" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="308">
+<div class="fsTitle" id="fsArticle_10354_308">
+		Social Events and Class Trips	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5133.1</p>
+<p><strong>Type:</strong> <a data-file-name="51331_P1.pdf" data-resource-uuid="c8be28e6-e41e-4975-93d7-3ca1334f4c2a" href="/fs/resource-manager/view/c8be28e6-e41e-4975-93d7-3ca1334f4c2a" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_135" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="135">
+<div class="fsTitle" id="fsArticle_10354_135">
+		Sole Source and Proprietary Purchases
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3315</p>
+<p><strong>Type:</strong> <a data-file-name="3315_R.pdf" data-resource-uuid="a50ed82d-8d22-42f0-8207-d46262f85811" href="/fs/resource-manager/view/a50ed82d-8d22-42f0-8207-d46262f85811" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_305" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="305">
+<div class="fsTitle" id="fsArticle_10354_305">
+		Solicitation of Funds (Public)	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5132.2</p>
+<p><strong>Type:</strong> <a data-file-name="51322_R.pdf" data-resource-uuid="f82a0b16-123c-476e-8891-a8d37545285d" href="/fs/resource-manager/view/f82a0b16-123c-476e-8891-a8d37545285d" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_386" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="386">
+<div class="fsTitle" id="fsArticle_10354_386">
+		Special Services and Programs	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6164</p>
+<p><strong>Type:</strong> <a data-file-name="6164_P.pdf" data-resource-uuid="e0adedfe-12cf-4bd3-a051-2eb222bb28f9" href="/fs/resource-manager/view/e0adedfe-12cf-4bd3-a051-2eb222bb28f9" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_402" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="402">
+<div class="fsTitle" id="fsArticle_10354_402">
+		Specifications for Educational Facilities	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 7120</p>
+<p><strong>Type:</strong> <a data-file-name="7120_R.pdf" data-resource-uuid="9178f623-ce78-41d9-85cd-ebbbed743951" href="/fs/resource-manager/view/9178f623-ce78-41d9-85cd-ebbbed743951" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_199" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="199">
+<div class="fsTitle" id="fsArticle_10354_199">
+		Staffing Allowances for Schools	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4130</p>
+<p><strong>Type:</strong> <a data-file-name="4130_R.pdf" data-resource-uuid="e8394da0-183f-45e4-b04a-d95d380cdb08" href="/fs/resource-manager/view/e8394da0-183f-45e4-b04a-d95d380cdb08" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_312" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="312">
+<div class="fsTitle" id="fsArticle_10354_312">
+		Student Activities and Athletics Participation for Secondary Schools
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5135.1</p>
+<p><strong>Type:</strong> <a data-file-name="51351_R.pdf" data-resource-uuid="f2911c57-9094-46ef-b690-5d93e5d4be2f" href="/fs/resource-manager/view/f2911c57-9094-46ef-b690-5d93e5d4be2f" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_384" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="384">
+<div class="fsTitle" id="fsArticle_10354_384">
+		Student and Program Evaluation	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6162</p>
+<p><strong>Type:</strong> <a data-file-name="6162_P.pdf" data-resource-uuid="0ea52bee-6957-46f4-a9b9-707e0cbe942f" href="/fs/resource-manager/view/0ea52bee-6957-46f4-a9b9-707e0cbe942f" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_367" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="367">
+<div class="fsTitle" id="fsArticle_10354_367">
+		Student and School Political Involvement	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6124.3</p>
+<p><strong>Type:</strong> <a data-file-name="61243_P.pdf" data-resource-uuid="99ecedff-53fc-4cf9-9fad-df5d4d36ddd4" href="/fs/resource-manager/view/99ecedff-53fc-4cf9-9fad-df5d4d36ddd4" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_279" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="279">
+<div class="fsTitle" id="fsArticle_10354_279">
+		Student Assignment Within Schools	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5116</p>
+<p><strong>Type:</strong> <a data-file-name="5116_R.pdf" data-resource-uuid="d88c9904-ed42-4b2d-b90b-47c42e4d9df2" href="/fs/resource-manager/view/d88c9904-ed42-4b2d-b90b-47c42e4d9df2" target="_blank">REG</a> | <a data-file-name="5116_P.pdf" data-resource-uuid="e23351e5-4834-4e1d-8fee-9c13a4a807c2" href="/fs/resource-manager/view/e23351e5-4834-4e1d-8fee-9c13a4a807c2" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_159" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="159">
+<div class="fsTitle" id="fsArticle_10354_159">
+		Student Attendance Accounting
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3540</p>
+<p><strong>Type:</strong> <a data-file-name="3540_R.pdf" data-resource-uuid="ea028f40-d362-4535-8312-fa7c05b3544e" href="/fs/resource-manager/view/ea028f40-d362-4535-8312-fa7c05b3544e" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_304" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="304">
+<div class="fsTitle" id="fsArticle_10354_304">
+		Student Body Funds: Management	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5132.1</p>
+<p><strong>Type:</strong> <a data-file-name="51321_P.pdf" data-resource-uuid="016437f8-b619-4236-8390-3a3e2bdee340" href="/fs/resource-manager/view/016437f8-b619-4236-8390-3a3e2bdee340" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_337" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="337">
+<div class="fsTitle" id="fsArticle_10354_337">
+		Student Conduct	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5146</p>
+<p><strong>Type:</strong> <a data-file-name="5146_R.pdf" data-resource-uuid="fcde208d-351f-4f7b-b89c-5b61d50693c1" href="/fs/resource-manager/view/fcde208d-351f-4f7b-b89c-5b61d50693c1" target="_blank">REG</a> | <a data-file-name="5146_P.pdf" data-resource-uuid="ae18a1b2-9f38-4e76-af69-eea2706d7fe6" href="/fs/resource-manager/view/ae18a1b2-9f38-4e76-af69-eea2706d7fe6" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_328" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="328">
+<div class="fsTitle" id="fsArticle_10354_328">
+		Student Discipline	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5141</p>
+<p><strong>Type:</strong> <a data-file-name="5141_R.pdf" data-resource-uuid="69c557e0-871b-41e1-97d1-9ddada9099d1" href="/fs/resource-manager/view/69c557e0-871b-41e1-97d1-9ddada9099d1" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_327" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="327">
+<div class="fsTitle" id="fsArticle_10354_327">
+		Student Discipline and Cooperation With Law Enforcement Agencies	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5140</p>
+<p><strong>Type:</strong> <a data-file-name="5140_P.pdf" data-resource-uuid="7bee0b45-cf2a-4934-93a3-c36ace707a86" href="/fs/resource-manager/view/7bee0b45-cf2a-4934-93a3-c36ace707a86" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_275" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="275">
+<div class="fsTitle" id="fsArticle_10354_275">
+		Student Dismissal (Voluntary and Involuntary)	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5114</p>
+<p><strong>Type:</strong> <a data-file-name="5114_R.pdf" data-resource-uuid="e51e27d0-bae0-4ca1-9ca8-c98f69e8af3a" href="/fs/resource-manager/view/e51e27d0-bae0-4ca1-9ca8-c98f69e8af3a" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_332" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="332">
+<div class="fsTitle" id="fsArticle_10354_332">
+		Student Disruptions	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5142</p>
+<p><strong>Type:</strong> <a data-file-name="5142_R.pdf" data-resource-uuid="ca82664c-9686-45cd-a753-56c60eca75ee" href="/fs/resource-manager/view/ca82664c-9686-45cd-a753-56c60eca75ee" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_274" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="274">
+<div class="fsTitle" id="fsArticle_10354_274">
+		Student Exemption and Exclusion (Voluntary and Involuntary)	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5114</p>
+<p><strong>Type:</strong> <a data-file-name="5114_P.pdf" data-resource-uuid="474f25a1-f728-4cab-a3c4-083e9f6c53ca" href="/fs/resource-manager/view/474f25a1-f728-4cab-a3c4-083e9f6c53ca" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_125" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="125">
+<div class="fsTitle" id="fsArticle_10354_125">
+		Student Fees and Deposits
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3230</p>
+<p><strong>Type:</strong> <a data-file-name="3230_R.pdf" data-resource-uuid="3958fb64-76a8-4a57-93a3-fe9c088f90d1" href="/fs/resource-manager/view/3958fb64-76a8-4a57-93a3-fe9c088f90d1" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_303" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="303">
+<div class="fsTitle" id="fsArticle_10354_303">
+		Student Groups/ Clubs/Organizations	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5132</p>
+<p><strong>Type:</strong> <a data-file-name="5132_R.pdf" data-resource-uuid="a56115ae-171c-4bca-88dc-34dca2872a19" href="/fs/resource-manager/view/a56115ae-171c-4bca-88dc-34dca2872a19" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_343" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="343">
+<div class="fsTitle" id="fsArticle_10354_343">
+		Student Insurance	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5154</p>
+<p><strong>Type:</strong> <a data-file-name="5154_R.pdf" data-resource-uuid="5f122e0f-0381-4963-8d59-5535433ae02c" href="/fs/resource-manager/view/5f122e0f-0381-4963-8d59-5535433ae02c" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_284" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="284">
+<div class="fsTitle" id="fsArticle_10354_284">
+		Student Progress	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5120</p>
+<p><strong>Type:</strong> <a data-file-name="5120_P.pdf" data-resource-uuid="eac5ee2f-de2d-4302-9486-304d3a39120a" href="/fs/resource-manager/view/eac5ee2f-de2d-4302-9486-304d3a39120a" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_286" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="286">
+<div class="fsTitle" id="fsArticle_10354_286">
+		Student Progress: Grading (Grades 6-12 In Secondary Schools) Special Education	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5121.1</p>
+<p><strong>Type:</strong> <a data-file-name="51211_R.pdf" data-resource-uuid="4fb97f67-7d8f-49d6-bace-6b3cc6f22117" href="/fs/resource-manager/view/4fb97f67-7d8f-49d6-bace-6b3cc6f22117" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_285" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="285">
+<div class="fsTitle" id="fsArticle_10354_285">
+		Student Progress: Grading (Grades Kindergarten Through Twelve)	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5121</p>
+<p><strong>Type:</strong> <a data-file-name="5121_R.pdf" data-resource-uuid="db494b9c-fd24-4a59-9763-6070cf81f4b4" href="/fs/resource-manager/view/db494b9c-fd24-4a59-9763-6070cf81f4b4" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_294" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="294">
+<div class="fsTitle" id="fsArticle_10354_294">
+		Student Recognition (Honor Roll)	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5126</p>
+<p><strong>Type:</strong> <a data-file-name="5126_R.pdf" data-resource-uuid="d7e7186b-8605-4ee7-ac81-774585bc37b9" href="/fs/resource-manager/view/d7e7186b-8605-4ee7-ac81-774585bc37b9" target="_blank">REG</a> | <a data-file-name="5126_P.pdf" data-resource-uuid="09095854-23b8-4eb0-971e-b3edcc60ca96" href="/fs/resource-manager/view/09095854-23b8-4eb0-971e-b3edcc60ca96" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_292" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="292">
+<div class="fsTitle" id="fsArticle_10354_292">
+		Student Records	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5125</p>
+<p><strong>Type:</strong> <a data-file-name="5125_P.pdf" data-resource-uuid="788869b9-34c6-4736-ae7a-b09a8de9e5aa" href="/fs/resource-manager/view/788869b9-34c6-4736-ae7a-b09a8de9e5aa" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_149" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="149">
+<div class="fsTitle" id="fsArticle_10354_149">
+		Student Transportation
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3530</p>
+<p><strong>Type:</strong> <a data-file-name="3530_R.pdf" data-resource-uuid="d8613428-1c54-4a35-af2d-3efd31e5a44a" href="/fs/resource-manager/view/d8613428-1c54-4a35-af2d-3efd31e5a44a" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_150" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="150">
+<div class="fsTitle" id="fsArticle_10354_150">
+		Student Transportation Guidelines
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3531</p>
+<p><strong>Type:</strong> <a data-file-name="3531_R.pdf" data-resource-uuid="ab0c88dc-62c2-40b2-9cdc-a8eb7151155d" href="/fs/resource-manager/view/ab0c88dc-62c2-40b2-9cdc-a8eb7151155d" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_154" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="154">
+<div class="fsTitle" id="fsArticle_10354_154">
+		Student Transportation Payments in Lieu
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3535</p>
+<p><strong>Type:</strong> <a data-file-name="3535_R.pdf" data-resource-uuid="bc4962a0-cb27-45ca-a3bb-6aeab7b1ccc0" href="/fs/resource-manager/view/bc4962a0-cb27-45ca-a3bb-6aeab7b1ccc0" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_345" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="345">
+<div class="fsTitle" id="fsArticle_10354_345">
+		Student Wellness	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5157</p>
+<p><strong>Type:</strong> <a data-file-name="5157_R.pdf" data-resource-uuid="18bf1b37-7fc3-429f-9813-eff233c7404d" href="/fs/resource-manager/view/18bf1b37-7fc3-429f-9813-eff233c7404d" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_213" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="213">
+<div class="fsTitle" id="fsArticle_10354_213">
+		Subpoena: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4221</p>
+<p><strong>Type:</strong> <a data-file-name="4221_R.pdf" data-resource-uuid="a305e70d-cbee-42bf-8099-ea62b25304b9" href="/fs/resource-manager/view/a305e70d-cbee-42bf-8099-ea62b25304b9" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_388" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="388">
+<div class="fsTitle" id="fsArticle_10354_388">
+		Summer School	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6171</p>
+<p><strong>Type:</strong> <a data-file-name="6171_R.pdf" data-resource-uuid="11b6d174-a9e9-4a37-bccc-848e98e67f88" href="/fs/resource-manager/view/11b6d174-a9e9-4a37-bccc-848e98e67f88" target="_blank">REG</a> | <a data-file-name="6171_P.pdf" data-resource-uuid="da324ee5-f99b-497c-b38e-8f8f9c60a984" href="/fs/resource-manager/view/da324ee5-f99b-497c-b38e-8f8f9c60a984" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_210" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="210">
+<div class="fsTitle" id="fsArticle_10354_210">
+		Supervision of Commissioned School District Police Personnel	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4213</p>
+<p><strong>Type:</strong> <a data-file-name="4213_R.pdf" data-resource-uuid="04232cd4-ff8b-4683-9636-e6f561413e7d" href="/fs/resource-manager/view/04232cd4-ff8b-4683-9636-e6f561413e7d" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_208" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="208">
+<div class="fsTitle" id="fsArticle_10354_208">
+		Supervision of Custodial Service Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4211</p>
+<p><strong>Type:</strong> <a data-file-name="4211_R.pdf" data-resource-uuid="6769da29-096c-4863-b197-75a8b2b44b32" href="/fs/resource-manager/view/6769da29-096c-4863-b197-75a8b2b44b32" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_209" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="209">
+<div class="fsTitle" id="fsArticle_10354_209">
+		Supervision of Food Service Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4212</p>
+<p><strong>Type:</strong> <a data-file-name="4212_R.pdf" data-resource-uuid="b04d198a-9140-4b36-8259-08a3b6e5b1fb" href="/fs/resource-manager/view/b04d198a-9140-4b36-8259-08a3b6e5b1fb" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_211" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="211">
+<div class="fsTitle" id="fsArticle_10354_211">
+		Supervision of Transportation Services	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4214</p>
+<p><strong>Type:</strong> <a data-file-name="4214_R.pdf" data-resource-uuid="19302ca9-6409-47e7-b3cb-7d0376166246" href="/fs/resource-manager/view/19302ca9-6409-47e7-b3cb-7d0376166246" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_243" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="243">
+<div class="fsTitle" id="fsArticle_10354_243">
+		Suspension, Nonrenewal, Dismissal, Demotion: Licensed and Nonlicensed Administrative Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4341</p>
+<p><strong>Type:</strong> <a data-file-name="4341_R.pdf" data-resource-uuid="1da678f7-1970-4269-837b-ec241c518c0c" href="/fs/resource-manager/view/1da678f7-1970-4269-837b-ec241c518c0c" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_141" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="141">
+<div class="fsTitle" id="fsArticle_10354_141">
+		System of Accounts
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3410</p>
+<p><strong>Type:</strong> <a data-file-name="3410_R.pdf" data-resource-uuid="7ba23cbf-8eeb-40ec-8a72-0667a3af590c" href="/fs/resource-manager/view/7ba23cbf-8eeb-40ec-8a72-0667a3af590c" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_173" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="173">
+<div class="fsTitle" id="fsArticle_10354_173">
+		Technology Network Resources	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3990</p>
+<p><strong>Type:</strong> <a data-file-name="3990_R.pdf" data-resource-uuid="7ee0fb8d-19fc-45b0-b8dd-1b1576105e6c" href="/fs/resource-manager/view/7ee0fb8d-19fc-45b0-b8dd-1b1576105e6c" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_231" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="231">
+<div class="fsTitle" id="fsArticle_10354_231">
+		Termination Pay: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4295</p>
+<p><strong>Type:</strong> <a data-file-name="4295_R.pdf" data-resource-uuid="aee22025-05bc-4a58-885d-c88635d3c62a" href="/fs/resource-manager/view/aee22025-05bc-4a58-885d-c88635d3c62a" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_353" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="353">
+<div class="fsTitle" id="fsArticle_10354_353">
+		The American Flag	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6113.3</p>
+<p><strong>Type:</strong> <a data-file-name="61133_R.pdf" data-resource-uuid="c6d16446-8f7f-4743-9075-53da075db853" href="/fs/resource-manager/view/c6d16446-8f7f-4743-9075-53da075db853" target="_blank">REG</a> | <a data-file-name="61133_P.pdf" data-resource-uuid="0fd1c93a-a68d-4b3f-89f1-3dcf8a2bef01" href="/fs/resource-manager/view/0fd1c93a-a68d-4b3f-89f1-3dcf8a2bef01" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_202" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="202">
+<div class="fsTitle" id="fsArticle_10354_202">
+		Transfer: Principals, Assistant Principals and Deans	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4142</p>
+<p><strong>Type:</strong> <a data-file-name="4142_R.pdf" data-resource-uuid="33279080-642d-4853-976a-17276a67271a" href="/fs/resource-manager/view/33279080-642d-4853-976a-17276a67271a" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_200" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="200">
+<div class="fsTitle" id="fsArticle_10354_200">
+		Transfers: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4140</p>
+<p><strong>Type:</strong> <a data-file-name="4140_P.pdf" data-resource-uuid="5570771f-81a8-47a0-80d6-9d35a0df2ff6" href="/fs/resource-manager/view/5570771f-81a8-47a0-80d6-9d35a0df2ff6" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_147" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="147">
+<div class="fsTitle" id="fsArticle_10354_147">
+		Travel By District Employees
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3511</p>
+<p><strong>Type:</strong> <a data-file-name="3511_R.pdf" data-resource-uuid="89d7ad0b-9a0f-4e1f-8365-194edccaef2e" href="/fs/resource-manager/view/89d7ad0b-9a0f-4e1f-8365-194edccaef2e" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_315" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="315">
+<div class="fsTitle" id="fsArticle_10354_315">
+		Travel for Extracurricular Activities	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5135.13</p>
+<p><strong>Type:</strong> <a data-file-name="513513_R.pdf" data-resource-uuid="e0798571-d0cf-4dfb-a8a5-b5449e2cf411" href="/fs/resource-manager/view/e0798571-d0cf-4dfb-a8a5-b5449e2cf411" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_368" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="368">
+<div class="fsTitle" id="fsArticle_10354_368">
+		Use of American History and Heritage Within the District	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6124.4</p>
+<p><strong>Type:</strong> <a data-file-name="61244_P.pdf" data-resource-uuid="f8e8daab-7426-4d2a-a13f-e4aea79bf79c" href="/fs/resource-manager/view/f8e8daab-7426-4d2a-a13f-e4aea79bf79c" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_164" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="164">
+<div class="fsTitle" id="fsArticle_10354_164">
+		Use of Buildings, Grounds and Equipment by Non-school Groups
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3613</p>
+<p><strong>Type:</strong> <a data-file-name="3613_R.pdf" data-resource-uuid="d907129d-2197-41ec-8e65-14ef56ae6a17" href="/fs/resource-manager/view/d907129d-2197-41ec-8e65-14ef56ae6a17" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_171" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="171">
+<div class="fsTitle" id="fsArticle_10354_171">
+		Use of Computer Equipment and Computer Data Systems
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3911</p>
+<p><strong>Type:</strong> <a data-file-name="3911_R.pdf" data-resource-uuid="cc36b6be-6b0c-43de-bc2e-fc562f11e58d" href="/fs/resource-manager/view/cc36b6be-6b0c-43de-bc2e-fc562f11e58d" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_163" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="163">
+<div class="fsTitle" id="fsArticle_10354_163">
+		Use of District Buildings, Grounds, and Equipment by Non-School Groups
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3613</p>
+<p><strong>Type:</strong> <a data-file-name="3613_P.pdf" data-resource-uuid="14cd811d-1981-43be-827f-0677b33623c8" href="/fs/resource-manager/view/14cd811d-1981-43be-827f-0677b33623c8" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_174" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="174">
+<div class="fsTitle" id="fsArticle_10354_174">
+		Use of Instructional Technology Networks	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3991</p>
+<p><strong>Type:</strong> <a data-file-name="3991_R.pdf" data-resource-uuid="2229b664-a88f-4e1a-bafe-b002973e4d41" href="/fs/resource-manager/view/2229b664-a88f-4e1a-bafe-b002973e4d41" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_379" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="379">
+<div class="fsTitle" id="fsArticle_10354_379">
+		Use of Instructional Video Services by Other Public School Districts, Charter Schools, Private Schools and Home Schooling Parents	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6150.1</p>
+<p><strong>Type:</strong> <a data-file-name="61501_R.pdf" data-resource-uuid="56caeef7-53bc-4810-9041-b5a9ab95202a" href="/fs/resource-manager/view/56caeef7-53bc-4810-9041-b5a9ab95202a" target="_blank">REG</a> | <a data-file-name="61501_P.pdf" data-resource-uuid="3dcca7f8-228c-4e4a-a11c-a493c22bae47" href="/fs/resource-manager/view/3dcca7f8-228c-4e4a-a11c-a493c22bae47" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_166" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="166">
+<div class="fsTitle" id="fsArticle_10354_166">
+		Vegas PBS Television Studio Fund-Raising Events
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 3613.1</p>
+<p><strong>Type:</strong> <a data-file-name="36131_R.pdf" data-resource-uuid="1b310ce5-83ef-45fd-b851-9aed8ba739c0" href="/fs/resource-manager/view/1b310ce5-83ef-45fd-b851-9aed8ba739c0" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_257" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="257">
+<div class="fsTitle" id="fsArticle_10354_257">
+		Voluntary Early Retirement Incentive Program: All Employees	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4370</p>
+<p><strong>Type:</strong> <a data-file-name="4370_P.pdf" data-resource-uuid="a3b5460f-4c8e-4e54-90d8-64380caf4418" href="/fs/resource-manager/view/a3b5460f-4c8e-4e54-90d8-64380caf4418" target="_blank">POL</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_258" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="258">
+<div class="fsTitle" id="fsArticle_10354_258">
+		Voluntary Early Retirement Incentive Program: All Employees - Suspended	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 4370</p>
+<p><strong>Type:</strong> <a data-file-name="4370_R.pdf" data-resource-uuid="09bf920a-7051-4323-8eba-882535ddebbf" href="/fs/resource-manager/view/09bf920a-7051-4323-8eba-882535ddebbf" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_278" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="278">
+<div class="fsTitle" id="fsArticle_10354_278">
+		Withdrawals During Last Three Weeks of School	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5115</p>
+<p><strong>Type:</strong> <a data-file-name="5115_R.pdf" data-resource-uuid="0d61bf35-6aa5-4ea9-8e8d-e270f34854ec" href="/fs/resource-manager/view/0d61bf35-6aa5-4ea9-8e8d-e270f34854ec" target="_blank">REG</a></p>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

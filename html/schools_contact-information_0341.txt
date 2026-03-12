@@ -10,7 +10,8 @@
                 PETERSEN, DEAN ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Odom, Rosalynda S<br>
+                        
+Principal: Odom, Rosalynda S<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-1120<br/>
                                 Fax: 702-864-2566<br/>
 <a href="http://maps.google.com/maps?q=3650 CAMBRIDGE STREET,+LAS VEGAS,+NV+89109">Map</a>
-                                 | <a href="https://dpriseacademy.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://dpriseacademy.org/">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> Blazing Our Own Trail To Success</p> <p><b>Mission:</b> Our mission at Petersen Professional Development School is to work together as a community of learners to increase academic growth and enhance positive social development.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

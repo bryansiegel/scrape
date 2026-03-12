@@ -1,6 +1,8 @@
 <div class="content-wrap" id="content_wrap">
-<div class="alert-container">
-</div>
+<!--
+    <div class="alert-container">
+            </div>
+-->
 <div class="respcontainer">
 <section class="content-holder">
 <iframe allow="encrypted-media" allowfullscreen="" aria-label="District Data Aggregated Dashboards" class="respiframe" src="https://aarsiapps.ccsd.net/datatransparency/" title="District Data Dashboards"></iframe>

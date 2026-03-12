@@ -1,0 +1,11 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Middle School 6</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_3364">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_3365">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_3366">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</div>
+</main>

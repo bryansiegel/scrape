@@ -1,0 +1,77 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">J-1 Visa Program</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_167983">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_167984">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_167985">
+<div class="fsElementContent">
+<section class="content-holder">
+<h1>Foreign Exchange Program</h1>
+<h2>ORGANIZATIONALLY-SPONSORED STUDENTS (J-1 VISA PROGRAM)</h2>
+<h3>Foreign Exchange Program Information</h3>
+<ul>
+<li><a contenteditable="false" href="https://docs.google.com/document/d/1wLWmys8RotSdlMYWb21Z7m7XR7sS53gm/edit?usp=sharing&amp;ouid=117820621005407760475&amp;rtpof=true&amp;sd=true" style="cursor: pointer;" target="_blank">Foreign Exchange Program Handbook (J-1 Visa Program)</a></li>
+<li><a contenteditable="false" href="/fs/resource-manager/view/81f19fab-9bd8-4047-b687-618f2d857b94" style="cursor: pointer;" target="_blank">Clark County School District Regulation 5118</a></li>
+<li><a contenteditable="false" href="https://ccsdnet.finalsite.com/fs/resource-manager/view/20e73929-d230-4eb1-a05d-446fd82f8f19" style="cursor: pointer;" target="_blank">Clark County School District Policy 5118</a></li>
+<li><a contenteditable="false" data-file-name="ImmunizationGradeRequirements.pdf" data-resource-uuid="c0fe7fa6-ef01-4de9-8025-e8588792dc86" href="/fs/resource-manager/view/c0fe7fa6-ef01-4de9-8025-e8588792dc86" style="cursor: pointer;" target="_blank">Immunization, Grade Level, Grade and Citizenship Expectations</a></li>
+</ul>
+<h3>Foreign Exchange Student Forms</h3>
+<ul>
+<li><a contenteditable="false" href="https://form.jotform.com/250567287095164
+" style="cursor: pointer;" target="_blank">J-1 Student Application</a></li>
+<li><a contenteditable="false" href="https://www.jotform.com/form/242174514060144" style="cursor: pointer;" target="_blank">Student Placement Change Form</a></li>
+</ul>
+<h3>Enrollment Timelines</h3>
+<p>Applications for enrollment in the District are accepted according to the timeline listed below. The deadlines are established to ensure that students have the necessary time to secure a visa, travel arrangements, etc. in order to begin school on time.</p>
+<table cellspacing="0" class="simple-table" id="timeline" name="timeline" width="100%">
+<tbody>
+<tr>
+<th colspan="2">J-1 Visa Program</th>
+</tr>
+<tr>
+<td>Fall Semester</td>
+<td>First Monday in March through the first Friday in July.</td>
+</tr>
+<tr>
+<td colspan="2">These are firm deadlines. Late applications or incomplete are not accepted.</td>
+</tr>
+</tbody>
+</table>
+<h3>Host Parent Information</h3>
+<ul>
+<li><a contenteditable="false" href="/resources/guidance-counseling/ForeignExchangeHostParentEnrollmentInstructions09162024.pdf" style="cursor: pointer;">Host Parent Enrollment Instructions</a></li>
+<li><a contenteditable="false" data-page-name="Infinite Campus" href="/fs/pages/1051" style="cursor: pointer;" target="_blank">Infinite Campus Online Registration</a></li>
+</ul>
+<p>The Clark County School District is unable to assist in the placement of foreign exchange students with host families. This is the responsibility of the sponsoring organization. The District is not able to recommend sponsoring organizations to potential host families.</p>
+<p>Families interested in hosting foreign exchange students should consult the Web site of the Council on Standards for International Educational Travel for their listing of recommended host organizations at: <a contenteditable="false" href="http://getstarted.csiet.org/?fuseaction=app.host" style="cursor: pointer;" target="_blank">csiet.org</a>. Potential families can also consult the Web site of the U.S. Department of State at: <a contenteditable="false" href="http://j1visa.state.gov/hosts-and-employers/host-families/" style="cursor: pointer;" target="_blank">J-1 Visitor Exchange Program</a>.</p>
+<h3>Other District Forms and Links</h3>
+<ul>
+<li><a contenteditable="false" data-page-name="Zoning" href="/fs/pages/1092" style="cursor: pointer;" target="_blank">Zoning Information</a></li>
+<li><a contenteditable="false" href="http://trans-webinfo.ccsd.net/InfoLocator/InfoLocator/Locator.aspx?OrgGuid=ORG-CCSD&amp;ProfileGuid=CCSD-PROFILE-3" style="cursor: pointer;" target="_blank">Bus Transportation Eligibility</a></li>
+<li><a contenteditable="false" href="http://j1visa.state.gov/hosts-and-employers/host-families/" style="cursor: pointer;" target="_blank">U.S. Department of State J-1 Visa Program Information</a></li>
+</ul>
+<h3>Host Organization Information</h3>
+<ul>
+<li><a contenteditable="false" href="https://form.jotform.com/50497943582164" style="cursor: pointer;" target="_blank">Organization Application</a> (For new and/or inactive organizations only)</li>
+<li><a contenteditable="false" href="https://form.jotform.com/240606346518153" style="cursor: pointer;" target="_blank">Organization Annual Update Form</a> (For active organizations)</li>
+<li><a contenteditable="false" href="https://form.jotform.com/240606225465150" style="cursor: pointer;" target="_blank">Local Representative Annual Form</a> (For new, inactive, or returning representatives)</li>
+</ul>
+<h3>Outbound Foreign Exchange Students</h3>
+<div>The Clark County School District is unable to assist with the organization, promotion, or sponsorship of students interested in studying abroad as outbound foreign exchange students. These duties are the sole responsibility of the students, their parents, and their selected foreign exchange organization.</div>
+<div> </div>
+<div>The Council on Standards for International Educational Travel (CSIET) maintains a list of approved foreign exchange organizations that parents and students may want to consult before selecting an exchange organization. The listing may be found at <a contenteditable="false" href="http://getstarted.csiet.org/?fuseaction=app.study" style="cursor: pointer;">Study Abroad</a>.</div>
+<h3>For more information contact:</h3>
+<p>Foreign Exchange Programs<br/>
+Guidance and Counseling Department<br/>
+5100 West Sahara Ave.<br/>
+Las Vegas, NV 89146<br/>
+<br/>
+Office: (702) 799-8441</p>
+<div style="display: none;">e-mail: <a contenteditable="false" href="mailto:obannrb@nv.ccsd.net?subject=Foreign%20Exchange%20Question" style="cursor: pointer;">obannrb@nv.ccsd.net</a></div>
+<p>e-mail: <a contenteditable="false" href="mailto:lockej@nv.ccsd.net?subject=Foreign%20Exchange%20Question" style="cursor: pointer;">lockej@nv.ccsd.net</a></p>
+<p> </p>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

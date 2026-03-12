@@ -10,7 +10,8 @@
                 CAMBEIRO, ARTURO ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Pineda, Brandi L<br>
+                        
+Principal: Pineda, Brandi L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-1700<br/>
                                 Fax: 702-799-1706<br/>
 <a href="http://maps.google.com/maps?q=2851 HARRIS AVE,+LAS VEGAS,+NV+89101">Map</a>
-                                 | <a href="http://cambeiro.ccsd.net/">Website</a> </br></br></br></p>
+                                 | <a href="http://cambeiro.ccsd.net/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Changing Young Lives</p> <p><b>Mission:</b> The mission of Arturo Cambeiro Elementary School is to create a school environment that promotes educational success and encourages school and community pride through positive interaction and cooperation among community, parents, and school. We believe our mission is to help all students become lifelong learners, achieve academic success, develop physical well-being, display sensitivity to others, recognize and acknowledge their personal worth, and play a productive role in society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

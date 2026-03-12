@@ -10,7 +10,8 @@
                 SOUTH ACADEMIC CENTER<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Monroe, David C<br>
+                        
+Principal: Monroe, David C<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-2070<br/>
                                 Fax: 702-799-2089<br/>
 <a href="http://maps.google.com/maps?q=4560 W. HARMON AVE.,+LAS VEGAS,+NV+89103">Map</a>
-                                 | <a href="https://www.southacademic.org/">Website</a> </br></br></br></p>
-<b>Region:</b> ESD                                                             <p><b>Motto:</b> Excellence in Action</p> <p><b>Mission:</b> Ensure that all individuals interested in continuing toward, and achieving high school graduation, or its equivalent, have the opportunity to prepare for the challenges of today's complex, technology oriented world, utilizing programs and services structured differently from those through a traditional educational environment.</p>
-</div>
+                                 | <a href="https://www.southacademic.org/">Website</a> 
+<b>Region:</b> AS                                                             <p><b>Motto:</b> Excellence in Action</p> <p><b>Mission:</b> Ensure that all individuals interested in continuing toward, and achieving high school graduation, or its equivalent, have the opportunity to prepare for the challenges of today's complex, technology oriented world, utilizing programs and services structured differently from those through a traditional educational environment.</p>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

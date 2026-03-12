@@ -10,7 +10,8 @@
                 BEATTY, JOHN R. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Krizmanic, Jennifer <br>
+                        
+Principal: Krizmanic, Jennifer<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5700<br/>
                                 Fax: 702-799-5711<br/>
 <a href="http://maps.google.com/maps?q=8685 HIDDEN PALMS PARKWAY,+LAS VEGAS,+NV+89123">Map</a>
-                                 | <a href="https://www.beattyes.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.beattyes.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Blazing a Trail of Excellence</p> <p><b>Mission:</b> The mission of John R. Beatty Elementary School is to ensure that all students acquire basic academic skills, a lifelong appreciation of learning, and social skills and understanding that will help prepare them for success.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

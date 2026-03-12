@@ -26,6 +26,11 @@
 <!-- 	                        <li><a href="pdf/2023-2024-school-calendar-students.pdf" target="_blank">2023-2024 School Calendar for Students (PDF)</a></li> -->
 <li><a href="pdf/2024-2025-school-calendar-students.pdf" target="_blank">2024-2025 School Calendar for Students (PDF)</a></li>
 <li><a href="pdf/2025-2026-school-calendar-students-updated-final.pdf" target="_blank">2025-2026 School Calendar for Students (PDF)</a></li>
+<li><a href="pdf/2025-2026-school-calendar-students-updated-final-Spanish.pdf" target="_blank">Calendario escolar 2025-2026 para estudiantes (PDF)</a></li>
+<li><a href="pdf/2026-2027-school-calendar-students-updated-final.pdf" target="_blank">2026-2027 School Calendar for Students (PDF)</a></li>
+<li><a href="pdf/2026-2027-school-calendar-students-updated-final-Spanish.pdf" target="_blank">Calendario escolar 2026-2027 para estudiantes (PDF)</a></li>
+<li><a href="pdf/2027-2028-school-calendar-students-updated-final.pdf" target="_blank">2027-2028 School Calendar for Students (PDF)</a></li>
+<li><a href="pdf/2027-2028-school-calendar-students-updated-final-Spanish.pdf" target="_blank">Calendario escolar 2027-2028 para estudiantes (PDF)</a></li>
 </ul>
 <hr/>
 <h2>Staff Calendars</h2>
@@ -36,6 +41,11 @@
 <!-- 							<li><a href="pdf/2023-2024-school-calendar-staff.pdf" target="_blank">2023-2024 School Calendar for Staff (PDF)</a></li> -->
 <li><a href="pdf/2024-2025-school-calendar-staff-updated-12-20-23.pdf" target="_blank">2024-2025 School Calendar for Staff (PDF)</a></li>
 <li><a href="pdf/2025-2026-school-calendar-staff-updated-final.pdf" target="_blank">2025-2026 School Calendar for Staff (PDF)</a></li>
+<li><a href="pdf/2025-2026-school-calendar-staff-updated-final-Spanish.pdf" target="_blank">Calendario escolar 2025-2026 para el personal (PDF)</a></li>
+<li><a href="pdf/2026-2027-school-calendar-staff-updated-final.pdf" target="_blank">2026-2027 School Calendar for Staff (PDF)</a></li>
+<li><a href="pdf/2026-2027-school-calendar-staff-updated-final-Spanish.pdf" target="_blank">Calendario escolar 2026-2027 para el personal (PDF)</a></li>
+<li><a href="pdf/2027-2028-school-calendar-staff-updated-final.pdf" target="_blank">2027-2028 School Calendar for Staff (PDF)</a></li>
+<li><a href="pdf/2027-2028-school-calendar-staff-updated-final-Spanish.pdf" target="_blank">Calendario escolar 2027-2028 para el personal (PDF)</a></li>
 </ul>
 <hr/>
 <h2>Additional Calendars</h2>

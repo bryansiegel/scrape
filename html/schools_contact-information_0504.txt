@@ -10,7 +10,8 @@
                 JUVENILE DETENTION 3-5<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Piccolo, Gina <br>
+                        
+Principal: Piccolo, Gina<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-1623<br/>
                                 Fax: 702-799-1633<br/>
 <a href="http://maps.google.com/maps?q=601 N. PECOS ROAD SUITE 70,+LAS VEGAS,+NV+89101">Map</a>
-                                 | <a href="">Website</a> </br></br></br></p>
-<b>Region:</b> CC &amp; C                                                    </div>
+                                 | <a href="">Website</a> 
+<b>Region:</b> AS                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 HECKETHORN, HOWARD E. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Houle, Mike N<br>
+                        
+Principal: Houle, Mike N<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6690<br/>
                                 Fax: 702-799-6674<br/>
 <a href="http://maps.google.com/maps?q=5150 WHISPERING SANDS DRIVE,+LAS VEGAS,+NV+89131">Map</a>
-                                 | <a href="https://www.heckethornes.net/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.heckethornes.net/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Blazing A Trail Towards Excellence</p> <p><b>Mission:</b> Our community believes in loving the greatness in ourselves and others, leading by example, and learning for a lifetime.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

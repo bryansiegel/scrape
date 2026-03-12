@@ -10,7 +10,8 @@
                 FAISS, WILBUR &amp; THERESA MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  West, Roger D<br>
+                        
+Principal: West, Roger D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-6850<br/>
                                 Fax: 702-799-6852<br/>
 <a href="http://maps.google.com/maps?q=9525 W. MAULE AVENUE,+LAS VEGAS,+NV+89148">Map</a>
-                                 | <a href="http://www.faissmiddleschool.net/">Website</a> </br></br></br></p>
-<b>Region:</b> 2                                                    </div>
+                                 | <a href="http://www.faissmiddleschool.net/">Website</a> 
+<b>Region:</b> 2                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

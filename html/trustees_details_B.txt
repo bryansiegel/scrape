@@ -93,8 +93,21 @@ Trustee Dominguez is a proud mom of two children, one of whom is in high school 
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0337" target="_blank">
-                                    Cadwallader, Ralph L. MS                                </a>
+<a class="pdflink" href="/schools/contact-information/0785" target="_blank">
+                                    Divich, Kenneth ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0376" target="_blank">
+                                    Escobedo, Edmundo ├óŌé¼┼ōEddie├óŌé¼┬Ø Sr. MS                                </a>
 </td>
 <td>
                             4                       </td>
@@ -102,84 +115,6 @@ Trustee Dominguez is a proud mom of two children, one of whom is in high school 
                                 B                            </td>
 <td>
                                 LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0369" target="_blank">
-                                    Antonello, Lee ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0203" target="_blank">
-                                    Tarr, Sheila Academy of International Studies ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0227" target="_blank">
-                                    Lundy, Earl B. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0235" target="_blank">
-                                    Allen, Dean LaMar ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0241" target="_blank">
-                                    Rhodes, Betsy A. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0252" target="_blank">
-                                    Bowler, Sr., Joseph L. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                CC                            </td>
 </tr>
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
@@ -197,11 +132,11 @@ Trustee Dominguez is a proud mom of two children, one of whom is in high school 
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0275" target="_blank">
-                                    Cram, Brian and Teri MS                                </a>
+<a class="pdflink" href="/schools/contact-information/0343" target="_blank">
+                                    Simmons, Eva G. ES                                </a>
 </td>
 <td>
-                            4                       </td>
+                            1                       </td>
 <td>
                                 B                            </td>
 <td>
@@ -210,8 +145,8 @@ Trustee Dominguez is a proud mom of two children, one of whom is in high school 
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0279" target="_blank">
-                                    Carl, Kay ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0282" target="_blank">
+                                    Heckethorn, Howard E. ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -223,8 +158,151 @@ Trustee Dominguez is a proud mom of two children, one of whom is in high school 
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0280" target="_blank">
-                                    Darnell, Marshall C. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0345" target="_blank">
+                                    Tartan, John ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0481" target="_blank">
+                                    Triggs, Vincent L. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0923" target="_blank">
+                                    Virgin Valley ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                MSQ                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0944" target="_blank">
+                                    Virgin Valley HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                B                            </td>
+<td>
+                                MSQ                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0244" target="_blank">
+                                    Lied STEM Academy MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0804" target="_blank">
+                                    Northeast Career and Technical Academy                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                B                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0541" target="_blank">
+                                    Neal, Joseph M. ES                                 </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0439" target="_blank">
+                                    Peterson Academic Center                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0548" target="_blank">
+                                    Northwest Career and Technical Academy                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0441" target="_blank">
+                                    O'Roarke, Thomas J. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0241" target="_blank">
+                                    Rhodes, Betsy A. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0235" target="_blank">
+                                    Allen, Dean LaMar ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -236,8 +314,34 @@ Trustee Dominguez is a proud mom of two children, one of whom is in high school 
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0282" target="_blank">
-                                    Heckethorn, Howard E. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0402" target="_blank">
+                                    Saville, Anthony MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                B                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0579" target="_blank">
+                                    Arbor View HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0347" target="_blank">
+                                    Scherkenbach, William and Mary ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -262,6 +366,149 @@ Trustee Dominguez is a proud mom of two children, one of whom is in high school 
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
+<a class="pdflink" href="/schools/contact-information/0576" target="_blank">
+                                    Shadow Ridge HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0479" target="_blank">
+                                    Bozarth, Henry and Evelyn ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0203" target="_blank">
+                                    Tarr, Sheila Academy of International Studies ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0337" target="_blank">
+                                    Cadwallader, Ralph L. MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0349" target="_blank">
+                                    Thompson, Sandra Lee ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0279" target="_blank">
+                                    Carl, Kay ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0355" target="_blank">
+                                    Ward, Kitty McDonough ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0563" target="_blank">
+                                    Centennial HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                B                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0280" target="_blank">
+                                    Darnell, Marshall C. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0430" target="_blank">
+                                    Lowman, Mary and Zel ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0314" target="_blank">
+                                    Manch, J. E. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
 <a class="pdflink" href="/schools/contact-information/0939" target="_blank">
                                     Lyon, W. Mack MS                                </a>
 </td>
@@ -275,11 +522,24 @@ Trustee Dominguez is a proud mom of two children, one of whom is in high school 
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0942" target="_blank">
-                                    Moapa Valley HS                                </a>
+<a class="pdflink" href="/schools/contact-information/0369" target="_blank">
+                                    Antonello, Lee ES                                </a>
 </td>
 <td>
-                            6                       </td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0920" target="_blank">
+                                    Bowler, Grant ES                                </a>
+</td>
+<td>
+                            1                       </td>
 <td>
                                 B                            </td>
 <td>
@@ -288,34 +548,47 @@ Trustee Dominguez is a proud mom of two children, one of whom is in high school 
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0944" target="_blank">
-                                    Virgin Valley HS                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                B                            </td>
-<td>
-                                MSQ                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0347" target="_blank">
-                                    Scherkenbach, William and Mary ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0252" target="_blank">
+                                    Bowler, Sr., Joseph L. ES                                </a>
 </td>
 <td>
                             1                       </td>
 <td>
                                 B                            </td>
 <td>
-                                LV                            </td>
+                                CC                            </td>
 </tr>
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0343" target="_blank">
-                                    Simmons, Eva G. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0275" target="_blank">
+                                    Cram, Brian and Teri MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                B                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0375" target="_blank">
+                                    Dickens, D. L. ├óŌé¼┼ōDusty├óŌé¼┬Ø ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0484" target="_blank">
+                                    Duncan, Ruby ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -353,110 +626,6 @@ Trustee Dominguez is a proud mom of two children, one of whom is in high school 
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0402" target="_blank">
-                                    Saville, Anthony MS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                B                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0548" target="_blank">
-                                    Northwest Career and Technical Academy                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0579" target="_blank">
-                                    Arbor View HS                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0430" target="_blank">
-                                    Lowman, Mary and Zel ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0439" target="_blank">
-                                    Peterson Academic Center                                </a>
-</td>
-<td>
-                            8                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0541" target="_blank">
-                                    Neal, Joseph M. ES                                 </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0563" target="_blank">
-                                    Centennial HS                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                B                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0576" target="_blank">
-                                    Shadow Ridge HS                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
 <a class="pdflink" href="/schools/contact-information/0611" target="_blank">
                                     Hughes, Charles Arthur MS                                </a>
 </td>
@@ -466,6 +635,110 @@ Trustee Dominguez is a proud mom of two children, one of whom is in high school 
                                 B                            </td>
 <td>
                                 MSQ                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0932" target="_blank">
+                                    Indian Springs ES/MS/HS                                </a>
+</td>
+<td>
+                            3                       </td>
+<td>
+                                B                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0556" target="_blank">
+                                    Legacy HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                B                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0932" target="_blank">
+                                    Lundy, Earl B. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0227" target="_blank">
+                                    Lundy, Earl B. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0942" target="_blank">
+                                    Moapa Valley HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                B                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0916" target="_blank">
+                                    Perkins, Ute V. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0832" target="_blank">
+                                    Florence McClure Women├óŌé¼Ōäós Correctional Center Adult HS                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                B                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0615" target="_blank">
+                                    High Desert State Prison Adult HS                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                B                            </td>
+<td>
+                                CC                            </td>
 </tr>
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
@@ -496,47 +769,8 @@ Trustee Dominguez is a proud mom of two children, one of whom is in high school 
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0923" target="_blank">
-                                    Virgin Valley ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                MSQ                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0920" target="_blank">
-                                    Bowler, Grant ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0349" target="_blank">
-                                    Thompson, Sandra Lee ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0615" target="_blank">
-                                    High Desert State Prison Adult HS                                </a>
+<a class="pdflink" href="/schools/contact-information/0744" target="_blank">
+                                    Summit View Youth Center                                </a>
 </td>
 <td>
                             8                       </td>
@@ -553,214 +787,6 @@ Trustee Dominguez is a proud mom of two children, one of whom is in high school 
 </td>
 <td>
                             8                       </td>
-<td>
-                                B                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0479" target="_blank">
-                                    Bozarth, Henry and Evelyn ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0376" target="_blank">
-                                    Escobedo, Edmundo ├óŌé¼┼ōEddie├óŌé¼┬Ø Sr. MS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0441" target="_blank">
-                                    O├óŌé¼ŌäóRoarke, Thomas J. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0556" target="_blank">
-                                    Legacy HS                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                B                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0484" target="_blank">
-                                    Duncan, Ruby ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0355" target="_blank">
-                                    Ward, Kitty McDonough ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0481" target="_blank">
-                                    Triggs, Vincent L. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0832" target="_blank">
-                                    Florence McClure Women├óŌé¼Ōäós Correctional Center Adult HS                                </a>
-</td>
-<td>
-                            8                       </td>
-<td>
-                                B                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0375" target="_blank">
-                                    Dickens, D. L. ├óŌé¼┼ōDusty├óŌé¼┬Ø ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0345" target="_blank">
-                                    Tartan, John ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0744" target="_blank">
-                                    Summit View Youth Center                                </a>
-</td>
-<td>
-                            8                       </td>
-<td>
-                                B                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0244" target="_blank">
-                                    Lied STEM Academy MS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0314" target="_blank">
-                                    Manch, J. E. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0785" target="_blank">
-                                    Divich, Kenneth ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0804" target="_blank">
-                                    Northeast Career and Technical Academy                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                B                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0916" target="_blank">
-                                    Perkins, Ute V. ES                                </a>
-</td>
-<td>
-                            1                       </td>
 <td>
                                 B                            </td>
 <td>

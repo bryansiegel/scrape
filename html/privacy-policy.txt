@@ -1,0 +1,55 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Privacy Policy</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_28">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_29">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_30">
+<div class="fsElementContent">
+<h2>Information We Collect</h2>
+<p>When you visit <strong>ccsd.net</strong>, we may collect the following types of information:</p>
+<ul>
+<li><strong>Personal Information You Provide:</strong> When you fill out forms, subscribe to newsletters, submit inquiries, or participate in surveys. Examples include your name, email address, phone number, or other contact details.</li>
+<li><strong>Non-Personal Information Automatically Collected:</strong> Your IP address, browser type, device type, operating system, and pages you visit on our site. Information collected through cookies, analytics tools, and similar technologies to improve website performance.</li>
+<li><strong>Student and Employee Information:</strong> Personally identifiable information (PII) related to students or employees is collected and maintained in compliance with the Family Educational Rights and Privacy Act (FERPA) and other applicable laws.</li>
+</ul>
+<h2>How We Use Information</h2>
+<p>The information collected may be used to:</p>
+<ul>
+<li>Provide and improve district services and communications.</li>
+<li>Respond to inquiries, requests, and feedback.</li>
+<li>Analyze website traffic and usage trends.</li>
+<li>Ensure security and protect against unauthorized access.</li>
+<li>Comply with legal obligations.</li>
+</ul>
+<h2>Sharing of Information</h2>
+<p>CCSD does <strong>not sell or rent personal information</strong> to third parties. We may share information only in the following circumstances:</p>
+<ul>
+<li>With service providers and vendors who support district operations.</li>
+<li>When required by law, regulation, subpoena, or court order.</li>
+<li>To protect the rights, property, or safety of CCSD, our students, employees, or the public.</li>
+</ul>
+<h2>Cookies and Tracking Technologies</h2>
+<p>CCSD.net may use cookies and analytics tools (such as Google Analytics) to enhance user experience and monitor website performance. You can control cookie settings through your browser. Disabling cookies may affect website functionality.</p>
+<h2>Student Privacy</h2>
+<p>CCSD complies with <strong>FERPA</strong> and state laws to protect student educational records and personal information. Student information is only shared with authorized personnel, parents/guardians (as permitted), or in accordance with the law.</p>
+<h2>Security</h2>
+<p>We use reasonable administrative, technical, and physical safeguards to protect information from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet is completely secure, and CCSD cannot guarantee absolute security.</p>
+<h2>External Links</h2>
+<p>Our website may include links to third-party websites. CCSD is not responsible for the privacy practices or content of external sites. We encourage you to review their privacy policies.</p>
+<h2>Children’s Privacy</h2>
+<p>CCSD does not knowingly collect personal information from children under 13 without appropriate parental consent, in compliance with the Children’s Online Privacy Protection Act (COPPA).</p>
+<h2>Changes to This Policy</h2>
+<p>CCSD may update this Privacy Policy from time to time. Changes will be posted on this page with an updated effective date.</p>
+<h2>Contact Us</h2>
+<p>If you have questions about this Privacy Policy, please contact:</p>
+<p>
+<strong>Clark County School District</strong><br/>
+    5100 W. Sahara Ave.<br/>
+    Las Vegas, NV 89146<br/>
+    Phone: (702) 799-CCSD<br/>
+    Website: <a href="https://ccsd.net">https://ccsd.net</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</main>

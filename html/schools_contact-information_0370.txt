@@ -10,7 +10,8 @@
                 FONG, WING AND LILLY ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Pash, Shannon Nicole <br>
+                        
+Principal: Pash, Shannon Nicole<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4890<br/>
                                 Fax: 702-799-0694<br/>
 <a href="http://maps.google.com/maps?q=2200 JAMES BILBRAY DRIVE,+LAS VEGAS,+NV+89108">Map</a>
-                                 | <a href="https://www.fonges.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.fonges.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Where every child has the power to succeed.</p> <p><b>Mission:</b> The primary goal of Fong Elementary School is to educate and nurture all students to become successful and productive members of society, while we encourage and maintain the support of family and community in all our endeavors.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

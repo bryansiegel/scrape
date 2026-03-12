@@ -1,0 +1,35 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">FMLA/LOA Questions</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_147650">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_147651">
+<div class="fsElement fsContent sub-hero-border" data-use-new="true" id="fsEl_147654">
+<div class="fsElementContent">
+<p>The Family and Medical Leave Act (FMLA) allows eligible employees to take up to 12 weeks of job-protected leave for qualifying family and medical reasons. In certain cases, employees may take up to 26 weeks of leave to care for a covered servicemember who has a serious injury or illness sustained while on active duty. To utilize paid leave, the leave reason must meet the criteria outlined in your specific negotiated agreement.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_183015">
+<div class="fsElementContent">
+<h2>Leave of Absence (LOA)</h2>
+<p>All Clark County School District (CCSD) employees must meet specific requirements to be granted a leave of absence. The typical duration for a leave of absence is one year, unless otherwise specified in the relevant regulations.</p>
+<h3>Leave Types</h3>
+<ul>
+<li><strong>PRO</strong> - Professional</li>
+<li><strong>MIL</strong> - Military Service</li>
+<li><strong>MED</strong> - Medical</li>
+<li><strong>NEC</strong> - Employee Necessity</li>
+<li><strong>INT</strong> - Instructional/Consultant</li>
+<li><strong>POL</strong> - Political</li>
+<li><strong>WCM</strong> - Workers' Compensation Medical</li>
+<li><strong>WRK</strong> - Work Leave</li>
+<li><strong>ASC</strong> - Association</li>
+<li><strong>CRT</strong> - Charter School</li>
+<li><strong>PCE</strong> - Peace Corps</li>
+</ul>
+<p> </p>
+<p>For more information, please contact the FMLA/LOA office at <a href="mailto:fmla.loa@nv.ccsd.net" target="_blank">fmla.loa@nv.ccsd.net</a> or call <a href="tel:7027995325" target="_blank">702-799-5325</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -10,7 +10,8 @@
                 STATON, ETHEL W. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Clemens, Jaymi T<br>
+                        
+Principal: Clemens, Jaymi T<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6720<br/>
                                 Fax: 702-799-6070<br/>
 <a href="http://maps.google.com/maps?q=1700 SAGEBERRY DRIVE,+LAS VEGAS,+NV+89144">Map</a>
-                                 | <a href="https://www.statonelementary.net/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.statonelementary.net/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Pioneers of the Future on the Trail to Knowledge</p> <p><b>Mission:</b> The mission of Ethel Winternheimer-Staton Elementary School is to provide instruction, which maximizes the academic achievement of all students, to instill in students a lifelong commitment to learning, to empower students with knowledge, tolerance, understanding, and a sense of self-worth, compassion, and a desire to cooperate and serve others. Further, our mission is to provide students with a safe and orderly learning environment, a place where their needs are first, and a place where students, parents, and staff join together in mutual respect for each other to optimize the educational process.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

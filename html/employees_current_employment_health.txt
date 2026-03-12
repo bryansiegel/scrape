@@ -334,9 +334,9 @@
 <strong style="font-size: 18px;">Licensed &amp; Certified Staff</strong><br>
                             Please call the Teachers Health Trust<br>
                             702-794-0272<!-- <span style="color: rgb(68, 68, 68); font-family: arial, sans-serif;">Option 8</span> --><br>
-                            800-432-5859<br>
+<!--                             800-432-5859<br /> -->
 <strong>To learn more about your benefits click here</strong> <a href="https://www.ththealth.org/" rel="nofollow" target="_blank">ththealth.org</a>
-</br></br></br></br></p>
+</br></br></br></p>
 <hr/>
 <h2>Questions About Medicare?</h2>
 <!--                             <h2>Important Contact Information</h2> -->
@@ -445,9 +445,9 @@
 <a href="https://www.nvpers.org/front" rel="nofollow" target="_blank">Public
                                 Employees™ Retirement
                                 System of Nevada (PERS)</a><br>
-                            702-486-3900<br/>
+                            702-486-3900<br>
                             866-473-7768
-                        </br></p>
+                        </br></br></p>
 <p>
 <!-- <h2>
                             Foundation 99: Certified Financial Coaching Sessions</h2>
@@ -705,9 +705,9 @@
 <strong>Licensed &amp; Certified Staff</strong><br>
                             Please call the <strong>Teachers Health Trust</strong><br>
                             702-794-0272<br>
-                            800-432-5859<br>
+<!--                             800-432-5859<br /> -->
 <strong>To learn more about your benefits:</strong> <a href="https://www.ththealth.org/" rel="nofollow" target="_blank">ththealth.org</a>
-</br></br></br></br></p>
+</br></br></br></p>
 <p>
 <strong>Administrative Staff</strong><br>
                             Please call <strong>CCASAPE</strong><br>

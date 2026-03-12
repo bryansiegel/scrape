@@ -10,7 +10,8 @@
                 MACKEY, JO ES ACADEMY OF LEADERSHIP<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Matthews, Michelle <br>
+                        
+Principal: Matthews, Michelle<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7139<br/>
                                 Fax: 702-799-7132<br/>
 <a href="http://maps.google.com/maps?q=2726 ENGLESTAD STREET,+NORTH LAS VEGAS,+NV+89030">Map</a>
-                                 | <a href="http://www.jomackeymagnet.org">Website</a> </br></br></br></p>
+                                 | <a href="http://www.jomackeymagnet.org">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Preparing Responsible Leaders to Succeed in a Global Society</p> <p><b>Mission:</b> Working together, the Jo Mackey community will create a powerful learning environment to promote the acquisition of knowledge and development of positive character traits to prepare students for success in a diverse global society, while encouraging leadership and respect for cultural values.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

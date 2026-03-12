@@ -1,0 +1,25 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Technology Help Desk</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_17402">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_17403">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_17409">
+<div class="fsElementContent">
+<p>The Technology Help Desk is responsible for assisting users with access login problems, password resets and providing application assistance for the following programs:  Mainframe (Passport), Infinite Campus (IC), Gmail and SAP.  Additionally, we provide Tier II and Tier III technical support for desktops and peripherals.</p>
+<p>You can reach the Technology Help Desk by calling the district WAN# 0099-3300 or 799-3300. Technology Help Desk assistance is available Monday through Friday from 6:00 am through 5:00 pm, excluding holidays.</p>
+<hr/>
+<h2>Contact Technology Help Desk</h2>
+<p><strong>District WAN</strong> - 0099-3300<br/>
+<strong>Direct</strong> - 702-799-3300</p>
+<p>For assistance, choose the following options: </p>
+<ul>
+<li>Infinite Campus™: Option 1</li>
+<li>AD Log-on or password resets: Option 2</li>
+<li>For assistance with Gmail™: Option 3</li>
+<li>For Technical Support: Option 4</li>
+</ul>
+<p><a class="button-1" href="https://quickit.ccsd.net/" target="_blank">Submit A Ticket</a></p>
+</div>
+</div>
+</div>
+</div>
+</main>

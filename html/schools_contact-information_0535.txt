@@ -10,7 +10,8 @@
                 WOODBURY, C. W. MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Banks-Grove, Buffy T<br>
+                        
+Principal: Banks-grove, Buffy T<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7660<br/>
                                 Fax: 702-799-0805<br/>
 <a href="http://maps.google.com/maps?q=3875 EAST HARMON AVENUE,+LAS VEGAS,+NV+89121">Map</a>
-                                 | <a href="https://www.woodburylonghorns.net">Website</a> </br></br></br></p>
+                                 | <a href="https://www.woodburylonghorns.net">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Learning Today, Leading Tomorrow</p> <p><b>Mission:</b> The mission of Woodbury Middle School is to provide all students with the instruction and tools to master the skills necessary to succeed as productive adults.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

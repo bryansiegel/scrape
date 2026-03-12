@@ -1,0 +1,98 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">CCSD Destination District Community Dream Sessions</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173243">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_173244">
+<div class="fsElement fsContent sub-hero-border" data-use-new="true" id="fsEl_173303">
+<div class="fsElementContent">
+<h2>We’re listening!</h2>
+<p>Over the last five months, our community has been speaking up. The What We Heard Report captures their voices and ideas for how we can make CCSD the Destination District—where every student, employee, and family chooses to belong because they believe in what’s possible.</p>
+<p><a class="button-1" data-file-name="WhatWeHeard_Singles_Final_129.pdf" data-resource-uuid="30b068cb-868e-4be7-b2e8-1e30f832f43a" href="/fs/resource-manager/view/30b068cb-868e-4be7-b2e8-1e30f832f43a" target="_blank">Full Report</a> <a class="button-1" data-file-name="WhatWeHeard_Report_Spanish_Singles.pdf" data-resource-uuid="39101f3d-3519-4177-a8fc-4f36938863d5" href="/fs/resource-manager/view/39101f3d-3519-4177-a8fc-4f36938863d5" target="_blank">Full Report - Español</a></p>
+<p>CCSD needs your help as we build a strategic plan that will serve as our blueprint to becoming a Destination District!</p>
+<p>We are hosting a series of in-person and virtual Community Dream Sessions where students, families, and employees can help design what the Destination District looks and feels like.</p>
+<p>How to Participate</p>
+<p>Bring your perspective to an upcoming Community Dream Session:</p>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideRightLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_173285">
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173286">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173287">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block; border-radius:6px !important"><picture><img alt="Jhone Ebert" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1769092697/ccsdnet/brwdsz95j0zlmridaxg5/jhone-ebert.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="jhone-ebert.jpg" data-resource-uuid="e971ab4a-ffca-41b6-8d0d-41d9df022668" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<p> </p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173288">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173289">
+<div class="fsElementContent">
+<p style=""><span style="font-size:25px;font-weight:bold;">“</span>The goal for CCSD’s next phase is simple but powerful: to make CCSD the Destination District — where every student, employee, and family chooses to belong because they believe in what’s possible.<span style="font-size:25px;font-weight:bold;">”</span></p>
+<p style="font-weight:bold; width: 70%;">— Superintendent Jhone Ebert</p>
+<p><a class="button-7" href="https://docs.google.com/forms/d/e/1FAIpQLSfy4nYb3bZFAYduUcDNExsqLxxwXinpb8V_cHqhhBfQIECuxg/viewform" target="_blank">Register for a Community Dream Session</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsEmbed" data-use-new="true" id="fsEl_173290">
+<div class="fsElementContent">
+<div style="background-color: #004e92; color:white !important; padding:20px">
+<center>
+<span style="font-size:85px;text-align:center;"><i class="fa-solid fa-circle-question"></i>
+</span>
+</center>
+<h3 style="text-align: center;color:white !important;padding-top:40px;">Bring your perspective to any of our sessions:</h3>
+<div style="width:90%;padding-left:80px;font-size:20px;">
+<p><i class="fa-solid fa-circle-check"></i>
+                            Rancho High School, Wednesday, January 28, 5:30-7:30 p.m.</p>
+<p><i class="fa-solid fa-circle-check"></i>
+                            Virtual and In-Person Meeting with locations at Laughlin, Virgin Valley, Moapa Valley, Indian Springs, and Sandy Valley,
+                            Thursday, February 5, 6-7 p.m.</p>
+<p><i class="fa-solid fa-circle-check"></i>
+                            Arbor View High School, Tuesday, February 10, 5:30-7:30 p.m.</p>
+<p><i class="fa-solid fa-circle-check"></i>
+                                Durango High School, Wednesday, February 11, from 5:30 to 7:30 p.m.</p>
+<p><i class="fa-solid fa-circle-check"></i>
+                                    Charles West Preparatory Academy, Tuesday, February 17, 5:30 to 7:30 p.m.</p>
+<p><i class="fa-solid fa-circle-check"></i>
+                                        Virtual Meeting, Saturday, February 21, 11:00 a.m. to 12:00 p.m.</p>
+<p><i class="fa-solid fa-circle-check"></i>
+                                            Foothill High School, Tuesday, February 24, from 5:30 to 7:30 p.m.</p>
+<center>
+<p><a class="button-7" contenteditable="false" href="https://docs.google.com/forms/d/e/1FAIpQLSfy4nYb3bZFAYduUcDNExsqLxxwXinpb8V_cHqhhBfQIECuxg/viewform" style="text-decoration: none !important; color: black !important; font-weight: bold !important; font-size: 18px !important; cursor: pointer;" target="_blank">Register for a Community Dream Session</a></p>
+<h4 style="text-align:center;color:white !important;">We hope to see you there!
+</h4>
+</center>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173291">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173292">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="173294" data-source-page-id="19721" data-use-new="true" id="fsEl_173294">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Dream Session Flyer" data-aspect-ratio="1.2941176470588236" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1769455514/ccsdnet/feniawjtobubl04j4bbo/GeneralFlyer-English.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1769455514/ccsdnet/feniawjtobubl04j4bbo/GeneralFlyer-English.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1769455514/ccsdnet/feniawjtobubl04j4bbo/GeneralFlyer-English.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1769455514/ccsdnet/feniawjtobubl04j4bbo/GeneralFlyer-English.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1769455514/ccsdnet/feniawjtobubl04j4bbo/GeneralFlyer-English.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1769455514/ccsdnet/feniawjtobubl04j4bbo/GeneralFlyer-English.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="GeneralFlyer-English.jpg" data-resource-uuid="5a511ffe-a1d6-4348-a766-1e0f840585d9"/></picture></figure></article>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173300">
+<div class="fsElementContent">
+<p style="text-align:center"><a class="button-7" data-file-name="GeneralFlyer-English.jpg" data-resource-uuid="5a511ffe-a1d6-4348-a766-1e0f840585d9" href="/fs/resource-manager/view/5a511ffe-a1d6-4348-a766-1e0f840585d9" target="_blank">View</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173293">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="173295" data-source-page-id="19721" data-use-new="true" id="fsEl_173295">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Dream Session Flyer - Spanish" data-aspect-ratio="1.2941176470588236" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1769455544/ccsdnet/dik9ndux6azmapkf0k8s/GeneralFlyer-Spanish.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1769455544/ccsdnet/dik9ndux6azmapkf0k8s/GeneralFlyer-Spanish.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1769455544/ccsdnet/dik9ndux6azmapkf0k8s/GeneralFlyer-Spanish.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1769455544/ccsdnet/dik9ndux6azmapkf0k8s/GeneralFlyer-Spanish.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1769455544/ccsdnet/dik9ndux6azmapkf0k8s/GeneralFlyer-Spanish.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1769455544/ccsdnet/dik9ndux6azmapkf0k8s/GeneralFlyer-Spanish.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="GeneralFlyer-Spanish.jpg" data-resource-uuid="61ec872b-51d1-4b6e-a2cb-d215aee0f7fd"/></picture></figure></article>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173301">
+<div class="fsElementContent">
+<p style="text-align:center"><a class="button-7" data-file-name="GeneralFlyer-Spanish.jpg" data-resource-uuid="61ec872b-51d1-4b6e-a2cb-d215aee0f7fd" href="/fs/resource-manager/view/61ec872b-51d1-4b6e-a2cb-d215aee0f7fd" target="_blank">View</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

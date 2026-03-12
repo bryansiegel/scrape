@@ -10,7 +10,8 @@
                 BOULDER CITY HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Wagner, Amy C<br>
+                        
+Principal: Wagner, Amy C<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8200<br/>
                                 Fax: 702-799-8230<br/>
 <a href="http://maps.google.com/maps?q=1101 5TH STREET,+BOULDER CITY,+NV+89005">Map</a>
-                                 | <a href="http://www.bouldercityhs.com ">Website</a> </br></br></br></p>
+                                 | <a href="http://www.bouldercityhs.com ">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Bringing Forth The Best From Within</p> <p><b>Mission:</b> The mission of Boulder City High School is to create a learning environment that equips students with skills for seeking and applying knowledge in order to become productive, lifelong, self-motivated learners.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

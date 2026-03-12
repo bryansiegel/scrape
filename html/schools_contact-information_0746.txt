@@ -10,7 +10,8 @@
                 VASSILIADIS, BILLY AND ROSEMARY ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Catania, Paul J<br>
+                        
+Principal: Catania, Paul J<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-1420<br/>
                                 Fax: 702-799-1421<br/>
 <a href="http://maps.google.com/maps?q=215 ANTELOPE RIDGE DR,+LAS VEGAS,+NV+89138">Map</a>
-                                 | <a href="https://www.vassiliadiselementary.com/">Website</a> </br></br></br></p>
-<b>Region:</b> 2                                                    </div>
+                                 | <a href="https://www.vassiliadiselementary.com/">Website</a> 
+<b>Region:</b> 2                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

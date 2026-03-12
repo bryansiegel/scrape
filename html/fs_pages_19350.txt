@@ -1,0 +1,23 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Contact CCSDPD</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_170550">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_170551">
+<div class="fsElement fsContent sub-hero-border" data-use-new="true" id="fsEl_170553">
+<div class="fsElementContent">
+<p><strong>Clark County School District Police Department</strong><br/>
+120 Corporate Park Drive<br/>
+Henderson, NV 89074-8725<br/>
+<a href="tel:702-799-7830">(702) 799-7830</a></p>
+<p>CCSDPD 24/7 Dispatch: <a href="tel:702-799-5411">(702) 799-5411</a></p>
+<p>CCSDPD Operation Crime Free Schools Hotline (Anonymous): <a href="tel:702-799-0228">(702) 799-0228</a></p>
+<p>Submit a Traffic Complaint: <a href="mailto:traffic@nv.ccsd.net">traffic@nv.ccsd.net</a></p>
+<p><strong>Social Media:</strong><br/>
+Facebook: <a href="https://www.facebook.com/CCSDPD/" target="_blank">facebook.com/ccsdpd</a><br/>
+Instagram: <a href="https://www.instagram.com/ccsdpd/" target="_blank">www.instagram.com/ccsdpd/</a><br/>
+X: <a href="https://x.com/ccsdpd?lang=en" target="_blank">@ccsdpd</a></p>
+<p><a class="button-7" data-page-name="CCSDPD Complaint System" href="/fs/pages/19358">CCSDPD Complaint Form</a></p>
+</div>
+</div>
+</div>
+</div>
+</main>

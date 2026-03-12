@@ -10,7 +10,8 @@
                 CANARELLI, LAWRENCE &amp; HEIDI MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Ayala, Jaclyn M<br>
+                        
+Principal: Ayala, Jaclyn M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-1340<br/>
                                 Fax: 702-799-5715<br/>
 <a href="http://maps.google.com/maps?q=7808 SOUTH TORREY PINES DRIVE,+LAS VEGAS,+NV+89139">Map</a>
-                                 | <a href="https://www.canarelli.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.canarelli.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Enrich, Believe, Excel, Become....</p> <p><b>Mission:</b> Experience the vision of the Canarelli Community where all individuals work together in unity to challenge learners to both dream and achieve.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

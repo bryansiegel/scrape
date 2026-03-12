@@ -11,7 +11,7 @@
 </h2>
 <!-- 		Principal:  -->
                         
-                                    Principal: McLaughlin, Traci L<br>
+Principal: McLaughlin, Traci L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->

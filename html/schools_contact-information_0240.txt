@@ -10,7 +10,8 @@
                 BRYAN, ROGER M. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Derasmo, Laurence J<br>
+                        
+Principal: Derasmo, Laurence J<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-1270<br/>
                                 Fax: 702-799-1276<br/>
 <a href="http://maps.google.com/maps?q=8255 WEST KATIE AVENUE,+LAS VEGAS,+NV+89147">Map</a>
-                                 | <a href="https://rogerbryanes.wixsite.com/rogerbryan">Website</a> </br></br></br></p>
+                                 | <a href="https://rogerbryanes.wixsite.com/rogerbryan">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> If It's To Be, It's Up To Me!</p> <p><b>Mission:</b> The mission of Roger M. Bryan Elementary School is to find the key which unlocks each child's full intellectual potential; to encourage each child to act compassionately, responsibly, and respectfully; and to give each child the skills to be prepared for the complex world of tomorrow.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

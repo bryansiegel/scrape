@@ -10,7 +10,8 @@
                 FINE, MARK L. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Toyama, Eugene I<br>
+                        
+Principal: Toyama, Eugene I<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-6882<br/>
                                 Fax: 702-799-6889<br/>
 <a href="http://maps.google.com/maps?q=6635 W. COUGAR AVENUE,+LAS VEGAS,+NV+89139">Map</a>
-                                 | <a href="https://www.markfinees.com/">Website</a> </br></br></br></p>
-<b>Region:</b> 2                                                    </div>
+                                 | <a href="https://www.markfinees.com/">Website</a> 
+<b>Region:</b> 2                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

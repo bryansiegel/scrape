@@ -10,19 +10,20 @@
                 DURANGO HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Nelson, Stacie A<br>
+                        
+Principal: Park, Mi-jung<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
-<!-- 								Nelson, Stacie A --><!-- <br> -->
+<!-- 								Park, Mi-Jung  --><!-- <br> -->
                                 7100 WEST DEWEY DRIVE<br>
                                 LAS VEGAS, NV 89113<br>
                                 Phone: 702-799-5850<br/>
                                 Fax: 702-799-5855<br/>
 <a href="http://maps.google.com/maps?q=7100 WEST DEWEY DRIVE,+LAS VEGAS,+NV+89113">Map</a>
-                                 | <a href="http://www.durangohighschool.net/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.durangohighschool.net/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> <strong>D</strong>edication, <strong>H</strong>ard Work and <strong>S</strong>uccess</p> <p><b>Mission:</b> We, the Durango Community, will challenge ourselves in every aspect of school life through Dedication and Hard Work to ensure future Success.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

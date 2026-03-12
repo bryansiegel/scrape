@@ -10,7 +10,8 @@
                 HAYES, KEITH C. AND KAREN W. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Packer, Lindsay K<br>
+                        
+Principal: Packer, Lindsay K<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6030<br/>
                                 Fax: 702-799-4466<br/>
 <a href="http://maps.google.com/maps?q=9620 WEST TWAIN AVENUE,+LAS VEGAS,+NV+89147">Map</a>
-                                 | <a href=" http://hayeselementary.com">Website</a> </br></br></br></p>
+                                 | <a href=" http://hayeselementary.com">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Discover the Hero Within</p> <p><b>Mission:</b> The Hayes school community, a partnership of parents, teachers, and school staff, will help every student discover the heroes within themselves by creating a learning place that provides challenging, yet successful, academic experiences for all in a safe, nurturing environment.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,18 +10,19 @@
                 ESCOBEDO, EDMUNDO "EDDIE" SR. MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Machin, Stefanie <br>
+                        
+Principal: Brill, Brian J<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
-<!-- 								Machin, Stefanie  --><!-- <br> -->
+<!-- 								Brill, Brian J --><!-- <br> -->
                                 9501 ECHELON POINT DRIVE<br>
                                 LAS VEGAS, NV 89149<br>
                                 Phone: 702-799-4560<br/>
                                 Fax: 702-799-4568<br/>
 <a href="http://maps.google.com/maps?q=9501 ECHELON POINT DRIVE,+LAS VEGAS,+NV+89149">Map</a>
-                                 | <a href="http://www.escobedoms.com/">Website</a> </br></br></br></p>
-<b>Region:</b> 1                                                    </div>
+                                 | <a href="http://www.escobedoms.com/">Website</a> 
+<b>Region:</b> 1                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

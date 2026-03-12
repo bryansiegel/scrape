@@ -1,0 +1,114 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Related Services and Other Non-Instructional Personnel</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_17372">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_17373">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_17391">
+<div class="fsElementContent">
+<p>Related Services positions provide support in general and special education classroom environments.  The Clark County School District actively recruits nationwide for the following positions:</p>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_17380">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-17381" role="presentation">
+<a aria-controls="fsEl_17381" aria-selected="false" href="#fs-panel-17381" role="tab">Occupational Therapists and Physical Therapists</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-17383" role="presentation">
+<a aria-controls="fsEl_17383" aria-selected="false" href="#fs-panel-17383" role="tab">School Nurses</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-17385" role="presentation">
+<a aria-controls="fsEl_17385" aria-selected="false" href="#fs-panel-17385" role="tab">School Psychologists</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-17387" role="presentation">
+<a aria-controls="fsEl_17387" aria-selected="false" href="#fs-panel-17387" role="tab">School Social Workers</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-17389" role="presentation">
+<a aria-controls="fsEl_17389" aria-selected="false" href="#fs-panel-17389" role="tab">Speech/Language Pathologists</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_17381" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_17381" aria-expanded="false" href="#fs-panel-17381" role="button">Occupational Therapists and Physical Therapists</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-17381"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_17382">
+<div class="fsElementContent">
+			Serve as an educational support for students with disabilities by promoting participation and access to the school curriculum and the school environment.
+
+	</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_17383" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_17383" aria-expanded="false" href="#fs-panel-17383" role="button">School Nurses</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-17383"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_17384">
+<div class="fsElementContent">
+			Promote the health and well-being of students by participating in special education plans and providing general oversight of the health services programs at each school.
+
+	</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_17385" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_17385" aria-expanded="false" href="#fs-panel-17385" role="button">School Psychologists</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-17385"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_17386">
+<div class="fsElementContent">
+			Deliver school-based services designed to improve student performance, enhance educational success, and promote mental health interests of students.
+
+	</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_17387" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_17387" aria-expanded="false" href="#fs-panel-17387" role="button">School Social Workers</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-17387"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_17388">
+<div class="fsElementContent">
+			Partner with parents, school personnel, and community agencies to address issues in a student's living situation that impacts school performance.
+
+	</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_17389" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_17389" aria-expanded="false" href="#fs-panel-17389" role="button">Speech/Language Pathologists</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-17389"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_17390">
+<div class="fsElementContent">
+			Provide early intervention, diagnostic, remedial, and consultative services for students who have communication disorders that have an adverse effect on their educational functioning.
+
+	</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_17379">
+<div class="fsElementContent">
+<p>Non-instructional new licensed employees have access to an onboarding program designed and facilitated by the particular department. For questions, please call the appropriate department.</p>
+<p>Counselors: (702) 799-8441</p>
+<p>Occupational/Physical Therapists: (702) 799-1500</p>
+<p>School Nurses: (702) 799-7443</p>
+<p>School Psychologists: (702) 799-7465</p>
+<p>School Social Workers: (702) 799-0761</p>
+<p>Speech/Language Pathologists: (702) 799-7437</p>
+</div>
+</div>
+</div>
+</div>
+</main>

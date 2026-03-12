@@ -10,7 +10,8 @@
                 HERRON, FAY ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Wheatfill, Michelle A<br>
+                        
+Principal: Wheatfill, Michelle A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7123<br/>
                                 Fax: 702-799-8337<br/>
 <a href="http://maps.google.com/maps?q=2421 NORTH KENNETH ROAD,+NORTH LAS VEGAS,+NV+89030">Map</a>
-                                 | <a href="https://fayherron.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://fayherron.org/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Do and be your very best! </p> <p><b>Mission:</b> Our mission is to educate every child while honoring their diversity and uniqueness.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 CUNNINGHAM, CYNTHIA ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Minor-Mitchell, Brione A<br>
+                        
+Principal: Minor-mitchell, Brione A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8780<br/>
                                 Fax: 702-799-0881<br/>
 <a href="http://maps.google.com/maps?q=4145 JIMMY DURANTE BLVD,+LAS VEGAS,+NV+89122">Map</a>
-                                 | <a href="https://www.cunninghamelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.cunninghamelementary.org/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Eager to Learn</p> <p><b>Mission:</b> The staff, students, parents, and community of Cynthia Cunningham Elementary School will provide a safe and secure environment where learning is the priority. All students are given opportunities to develop and display individual talents, enabling them to become responsible citizens in a changing society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

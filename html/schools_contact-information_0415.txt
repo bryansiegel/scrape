@@ -10,7 +10,8 @@
                 SMITH, HELEN M. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Wright, Jennifer L<br>
+                        
+Principal: Wright, Jennifer L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4300<br/>
                                 Fax: 702-799-4436<br/>
 <a href="http://maps.google.com/maps?q=4101 W. BONANZA ROAD,+LAS VEGAS,+NV+89107">Map</a>
-                                 | <a href="http://www.helenmariesmith.org">Website</a> </br></br></br></p>
+                                 | <a href="http://www.helenmariesmith.org">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Help Make Success...Respect and Responsibility</p> <p><b>Mission:</b> Our mission at Helen Marie Smith Elementary School is to provide a safe and positive learning environment for all students.  Through collaboration between students, parents and staff, we strive to promote life-long learners who are able to meet the challenges of a diverse society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

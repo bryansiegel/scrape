@@ -10,7 +10,8 @@
                 MANCH, J.E. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Danowski, Brandon J<br>
+                        
+Principal: Danowski, Brandon J<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4900<br/>
                                 Fax: 702-799-4904<br/>
 <a href="http://maps.google.com/maps?q=4351 LAMONT STREET,+LAS VEGAS,+NV+89115">Map</a>
-                                 | <a href="http://www.manchthunderbirds.org/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.manchthunderbirds.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Soaring Above the Crowd</p> <p><b>Mission:</b> The entire school community at Jacob E. Manch Elementary is committed to providing a high quality, challenging, and culturally diverse curriculum for all students in a safe and respectful school environment that promotes student achievement.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

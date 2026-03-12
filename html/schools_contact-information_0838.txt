@@ -10,7 +10,8 @@
                 SOUTHERN DESERT CORRECTIONAL CENTER<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Froby, Margaret <br>
+                        
+Principal: Froby, Margaret<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-879-1381<br/>
                                 Fax: 702-879-1385<br/>
 <a href="http://maps.google.com/maps?q=20825 COLD CREEK ROAD,+INDIAN SPRINGS,+NV+89070">Map</a>
-                                 | <a href="">Website</a> </br></br></br></p>
-<b>Region:</b> </div>
+                                 | <a href="">Website</a> 
+<b>Region:</b> AS                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 LONG, WALTER V. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Painter, Rigel A<br>
+                        
+Principal: Painter, Rigel A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7456<br/>
                                 Fax: 702-799-7460<br/>
 <a href="http://maps.google.com/maps?q=2000 SOUTH WALNUT ROAD,+LAS VEGAS,+NV+89104">Map</a>
-                                 | <a href="https://www.long-ccsd.net">Website</a> </br></br></br></p>
+                                 | <a href="https://www.long-ccsd.net">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> Where Children and Learning Come First</p> <p><b>Mission:</b> The mission of the Walter V. Long Elementary School is to provide a safe and positive educational environment that promotes learning, literacy, and socially responsible behavior.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -1,0 +1,39 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Infinite Campus</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_7661">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_7662">
+<div class="fsElement fsContent sub-hero-border" data-use-new="true" id="fsEl_8643">
+<div class="fsElementContent">
+<div>
+<p>Infinite Campus is the Clark County School District’s student information system, designed to help students, parents, and staff stay connected and informed. It serves as a central hub for academic records, attendance tracking, grades, schedules, and other important student information. Students can view their assignments, grades, and class schedules, while parents can monitor their child’s progress through an observer account. Teachers and staff use the system to manage classroom data, communicate with families, and streamline administrative tasks, making it an essential tool for supporting student success.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_8638">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_8639">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_8641">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;">
+<figure class="fsImage"><picture><img alt="Infinite Campus" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755795341/ccsdnet/w6pfqtwgqdyxez4kklyj/infinite.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="infinite.png" data-resource-uuid="763f8b05-ac24-4b61-ad10-222e5e82473b" loading="lazy" src="" style=""/></picture></figure>
+<h3>Campus Parent/Student</h3>
+<p>If you are a Parent/Guardian or a Student signing into Infinite Campus to view grades, attendance, etc.</p>
+<a class="button-1" data-page-name="Parents &amp; Students" href="/fs/pages/1083" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_8640">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_8642">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;">
+<figure class="fsImage"><picture><img alt="Infinite Campus" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755795341/ccsdnet/w6pfqtwgqdyxez4kklyj/infinite.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="infinite.png" data-resource-uuid="763f8b05-ac24-4b61-ad10-222e5e82473b" loading="lazy" src="" style=""/></picture></figure>
+<h3>CCSD Staff</h3>
+<p>If you are a CCSD employee signing into Infinite Campus to complete work related tasks.</p>
+<a class="button-1" href="https://campus.ccsd.net/campus/clark.jsp" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

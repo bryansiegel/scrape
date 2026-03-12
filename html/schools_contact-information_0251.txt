@@ -10,7 +10,8 @@
                 LAS VEGAS HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Ortiz, Raymond <br>
+                        
+Principal: Ortiz, Raymond<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-0180<br/>
                                 Fax: 702-799-0192<br/>
 <a href="http://maps.google.com/maps?q=6500 EAST SAHARA AVENUE,+LAS VEGAS,+NV+89142">Map</a>
-                                 | <a href="https://www.lvwildcats.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.lvwildcats.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Where education and friendships last a lifetime</p> <p><b>Mission:</b> Las Vegas High School will empower students in acquiring essential knowledge and citizenship skills to develop intellectually and meet the academic standards necessary to succeed.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

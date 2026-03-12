@@ -10,7 +10,8 @@
                 BENDORF, PATRICIA A. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Creamer, Kari <br>
+                        
+Principal: Creamer, Kari<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4440<br/>
                                 Fax: 702-799-4319<br/>
 <a href="http://maps.google.com/maps?q=3550 S  KEVIN WAY,+LAS VEGAS,+NV+89147">Map</a>
-                                 | <a href="https://bendorfelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://bendorfelementary.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> We care, we cooperate, we continue to achieve.</p> <p><b>Mission:</b> Our children will grow and learn in a positive and safe atmosphere that addresses the needs of the whole child through mutual respect within the Bendorf community and in collaboration with the neighboring community, and where staff, parents, and students together are enthusiastic about the teaching/learning process. We believe that the most promising strategy for achieving the mission of Bendorf Learning Community is to develop our capacity to function as a professional learning community.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 GUINN, KENNY C. MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Rolfe, Erin M<br>
+                        
+Principal: Rolfe, Erin M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5900<br/>
                                 Fax: 702-799-5905<br/>
 <a href="http://maps.google.com/maps?q=4150 SOUTH TORREY PINES DR,+LAS VEGAS,+NV+89103">Map</a>
-                                 | <a href="http://guinntitans.org">Website</a> </br></br></br></p>
+                                 | <a href="http://guinntitans.org">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Rising to the Challenge</p> <p><b>Mission:</b> The mission of Kenny C. Guinn Middle School is to create a student-centered environment in which all students value and strive for high academic achievement, take risks for the sake of learning, and work cooperatively as responsible members of a diverse and changing society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -1,0 +1,73 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Mental Health Resources</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12658">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_12659">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_12660">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_12661">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12662">
+<div class="fsElementContent">
+<h2>Mental Health Wellness</h2>
+<p>You are Loved - Public Service Announcement for Suicide Prevention and Awareness<br/>
+Multiple resources are available for students and staff</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_12663">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12756">
+<div class="fsElementContent">
+<div class="ivideoframe-container"><script src="https://d1ifvk1tub2sdr.cloudfront.net/Content/js/responsiveembedplayer.js " type="text/javascript"></script><iframe allowfullscreen="true" aria-label="Mental Wellness" class="ivideoframe" frameborder="0" height="315" scrolling="no" src="https://ccsdcommunications.eduvision.tv/EmbedPlayer.aspx?qev=3SfVi13wT7SoOF56Uky89TQQOCUTjbhawAKZHwCFOrFrTFG5jjXKIa7r426DaU9LebKN%252fU3rtibCBKCuXnZdEDrxwaI4TYp6nSEAMhvT74XnSgHRliP8ySm18%252bb3UMDUrdNFL0BOOpD3WOC50cfs%252fA%253d%253d" style="width: 560px !important; height: 315px !important;" title="Mental Wellness" toolbar="no" width="560"></iframe></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12665">
+<div class="fsElementContent">
+<h2>CCSD-sponsored mental health services</h2>
+<h3>CCSD-sponsored mental health services available to all CCSD students.</h3>
+<p><strong><a href="https://my.hazel.co/ccsd/info" rel="nofollow" target="_blank">Hazel Health</a>:</strong> CCSD-sponsored agency that provides virtual therapy sessions at school or home. <strong>(702) 718-0123</strong><br/>
+<strong><a href="https://www.caresolace.com/site/ccsd" rel="nofollow" target="_blank">Care Solace</a>:</strong> CCSD-sponsored agency to find counseling services. <strong>(888) 515-0595</strong><br/>
+<strong><a href="https://www.invocompanies.com/impact" rel="nofollow" target="_blank">IMPACT</a></strong>: CCSD-sponsored agency that provides mental health for students at school while addressing key behavioral challenges. <strong>1-866-468-6471</strong><br/>
+<strong>Mobile Crisis Response Team:</strong> Assist students with thoughts of suicide. <strong>(702) 486-7865</strong><br/>
+<strong>SafeVoice:</strong> <strong>1-833-216-SAFE (7233)</strong> for anonymous reporting<br/>
+<strong><a href="https://www.miraclemindstherapy.org/" target="_blank">United Citizens Foundation</a></strong>: CCSD-sponsored agency that provides mental health sessions at school for students. <strong>(702) 888-6300</strong></p>
+<h2>Contacts for Southern Nevada</h2>
+<ul>
+<li>Suicide Prevention Lifeline: 1-800-273-TALK (8255)</li>
+<li>De Prevencion del Suicido: 1-888-628-9454</li>
+<li>Hotline: 1-800-992-5757</li>
+<li>National Hopeline Network: 1-800-SUICIDE (784-2433)</li>
+<li>Crisis Call Center – Text Line: text “LISTEN” to 839863</li>
+<li>Help: 211</li>
+<!--                         <li>SafeVoice: 1-833-216-SAFE (7233) for anonymous reporting</li> -->
+<li>CCSD Police: 702-799-5411</li>
+<!--                         <li>Mobile Crisis Response Team: (702) 702-486-7865</li> -->
+<li>National Suicide Lifeline: 1-800-273-TALK</li>
+<li>Nevada Crisis Line: 775-784-8090</li>
+<li><a href="https://www.thetrevorproject.org/" rel="nofollow" target="_blank">The Trevor Project Teen Suicide Hotline</a>: (866) 4-U-Trevor OR (866) 488-7386</li>
+</ul>
+<h2>Southern Nevada Hospitals/Treatment Centers</h2>
+<ul>
+<li>Desert Willow Treatment Center: (702) 486-8900</li>
+<li>Desert Parkway: (702) 776-3500</li>
+<li>Desert Winds Hospital: (702) 522-7922</li>
+<li>Pavilion at Southern Hills Hospital: (702) 916-5100</li>
+<li>Seven Hills Hospital: (702) 646-5000</li>
+<li>Spring Mountain Treatment Center: (702) 873-2400</li>
+<li>Westcare: (702) 385-3330</li>
+<li>Westcare Triage Center: (702) 383-4044</li>
+</ul>
+<h2>Nevada Office of Suicide Prevention</h2>
+<ul>
+<li style="list-style-type:none;"><a href="http://suicideprevention.nv.gov/" rel="nofollow" target="_blank">Nevada Office of Suicide Prevention</a></li>
+</ul>
+<h2>Attachments</h2>
+<ul>
+<li style="list-style-type:none;"><a data-file-name="community-resources-2023-2023.pdf" data-resource-uuid="47f367df-cbd7-417b-abec-cbeaba5be678" href="/fs/resource-manager/view/47f367df-cbd7-417b-abec-cbeaba5be678" target="_blank">Clark County School District Community Resources 2023-2024 (PDF)</a></li>
+</ul>
+<p><strong>The CCSD does not endorse the service providers identified here and provides their information only as a public service.</strong></p>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -7,22 +7,23 @@
 <div>
 <div class="addr-txt">
 <h2 style="color: #444;font-size: 21px;line-height: 27px;margin: 20px 0 10px">
-                BRACKEN, WALTER ES MAGNET SCHOOL<br/>
+                BRACKEN, WALTER ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Sretenovic, Stanica <br>
+                        
+Principal: Sretenovic, Stanica<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
 <!-- 								Sretenovic, Stanica  --><!-- <br> -->
-                                1200 NORTH 27TH STREET<br>
+                                2712 SEARLES AVENUE<br>
                                 LAS VEGAS, NV 89101<br>
                                 Phone: 702-799-7095<br/>
                                 Fax: 702-799-7102<br/>
-<a href="http://maps.google.com/maps?q=1200 NORTH 27TH STREET,+LAS VEGAS,+NV+89101">Map</a>
-                                 | <a href="https://brackensteamacademy.com/">Website</a> </br></br></br></p>
+<a href="http://maps.google.com/maps?q=2712 SEARLES AVENUE,+LAS VEGAS,+NV+89101">Map</a>
+                                 | <a href="https://brackensteamacademy.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Investigating Our Changing World</p> <p><b>Mission:</b> The staff of Bracken Magnet School is committed to preparing our students for the future by improving academic achievement through investigative experiences.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

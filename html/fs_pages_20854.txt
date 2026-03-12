@@ -1,0 +1,29 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Public Records Requests</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_182997">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_182998">
+<div class="fsElement fsContent sub-hero-border" data-use-new="true" id="fsEl_182999">
+<div class="fsElementContent">
+<h2>CCSD Public Records Department</h2>
+<p>Public records requests may be submitted verbally or in writing <!-- (includes electronic mail)  -->and directed to:</p>
+<h3>Mail</h3>
+<p><!-- <strong>Community Services Department</strong><br> -->CCSD Administrative Center<br/>
+Public Records Request<br/>
+5100 West Sahara Avenue<br/>
+Las Vegas, NV 89146<br/>
+702-799-5865</p>
+<h3>Electronic</h3>
+<!-- 					<p>Submit request by electronic mail to: <a href="mailto:publicrecordrequest@nv.ccsd.net">publicrecordrequest@nv.ccsd.net</a></p> -->
+<p><a href="https://clarkcountysdnv.justfoia.com/publicportal/home/track" target="_blank">CCSD JustFOIA website</a></p>
+<h3>Student Record and Transcript Requests</h3>
+<p><strong>Student Record Services</strong><br/>
+702-799-2938</p>
+<p>Requests for student records of currently enrolled students should be submitted to the school of attendance. Requests for student records of former students must be submitted to the Student Record Services department. Student record requests are submitted online at <a href="http://transcripts.ccsd.net">transcripts.ccsd.net</a> or <a href="https://clarknv.scriborder.com">https://clarknv.scriborder.com</a>. The phone number for Student Record Services is 702-799-2938 if you have any questions.</p>
+<div class="horiz-rule"> </div>
+<h2>Public Records Request Fees</h2>
+<p><a data-file-name="Public-Records-Fee-Schedule.pdf" data-resource-uuid="0f4ad261-6d10-4ea4-b13a-5c163f92a543" href="/fs/resource-manager/view/0f4ad261-6d10-4ea4-b13a-5c163f92a543">View the Public Records Request Fee Schedule (PDF)</a></p>
+</div>
+</div>
+</div>
+</div>
+</main>

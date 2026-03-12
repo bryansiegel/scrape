@@ -10,7 +10,8 @@
                 MARTIN, ROY W. MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Thaggard, Deborah <br>
+                        
+Principal: Thaggard, Deborah<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7922<br/>
                                 Fax: 702-799-7959<br/>
 <a href="http://maps.google.com/maps?q=200 N. 28TH STREET,+LAS VEGAS,+NV+89101">Map</a>
-                                 | <a href="http://roymartinms.org">Website</a> </br></br></br></p>
+                                 | <a href="http://roymartinms.org">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> A Great Place To Learn</p> <p><b>Mission:</b> Roy W. Martin Middle School, in partnership with the community, supports the mission to develop self-confident, internationally-minded, independent learners with strong character. We will provide our diverse population a student-centered, safe, caring, learning environment with respect for the uniqueness of the individual. As a professional learning community, we encourage high academic standards, integrating a technology-rich interdisciplinary curriculum.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

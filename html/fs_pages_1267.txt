@@ -1,0 +1,24 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Office of General Council</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_11900">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_11901">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout fsStyleAutoclear" data-use-new="true" id="fsEl_11902">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_11903">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_11904">
+<div class="fsElementContent">
+<div>The Office of the General Counsel for the Clark County School District provides legal guidance and support to ensure the District operates in compliance with federal, state, and local laws. This office advises the Board of School Trustees, the Superintendent, and District departments on a wide range of legal matters, including contracts, employment, student rights, policy development, and litigation. By offering proactive counsel and representation, the Office of the General Counsel helps safeguard the District’s integrity, protects its resources, and supports its mission of providing a safe, equitable, and effective learning environment for all students.</div>
+<p><a class="button-7" href="https://www.ccsd.net/uploaded/themes/default_25/directory/org-chart/ccsd-org-chart.pdf">Organizational Chart</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_11905">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="11906" data-source-page-id="1267" data-use-new="true" id="fsEl_11906">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="CCSD Admin Building" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="ccsd-building.jpg" data-resource-uuid="84623b58-a0aa-41f2-811c-712473c83a69"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

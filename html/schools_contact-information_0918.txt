@@ -10,7 +10,8 @@
                 TAYLOR, ROBERT L. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Basham, Kimberly S<br>
+                        
+Principal: Basham, Kimberly S<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8950<br/>
                                 Fax: 702-799-8984<br/>
 <a href="http://maps.google.com/maps?q=144 WESTMINSTER WAY,+HENDERSON,+NV+89015">Map</a>
-                                 | <a href="http://www.roberttaylortigers.org/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.roberttaylortigers.org/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Reaching For The Top</p> <p><b>Mission:</b> The Robert Taylor community proudly provides a safe environment where all learners are empowered through education to meet the challenges of the future.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

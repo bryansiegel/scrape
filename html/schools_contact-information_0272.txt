@@ -10,7 +10,8 @@
                 ADAMS, KIRK L. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Bredsguard, Lenora N<br>
+                        
+Principal: Bredsguard, Lenora N<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -21,9 +22,9 @@
                                 Fax: 702-799-2115<br/>
 <a href="http://maps.google.com/maps?q=580 FOGG STREET,+LAS VEGAS,+NV+89110">Map</a>
                                  | <a href="https://www.kirkladamses.org/
-">Website</a> </br></br></br></p>
+">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> I will do my best to learn reading, writing, and math while respecting others and being a good friend.</p> <p><b>Mission:</b> All students will learn to read with comprehension and fluency, write to communicate effectively using the Analytical Writing Traits, and problem solve using addition, subtraction, multiplication, and division while getting along well with others.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

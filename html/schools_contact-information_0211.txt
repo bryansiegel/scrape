@@ -10,7 +10,8 @@
                 CRESTWOOD ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Kip, Karin L<br>
+                        
+Principal: Kip, Karin L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7890<br/>
                                 Fax: 702-799-7884<br/>
 <a href="http://maps.google.com/maps?q=1300 PAULINE WAY,+LAS VEGAS,+NV+89104">Map</a>
-                                 | <a href="http://www.crestwoodes.com/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.crestwoodes.com/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b>  Achieving Success and Growth Through Hard Work, Grit and Perseverance</p> <p><b>Mission:</b> The Crestwood Learning Community works collaboratively to provide a quality education in an engaging environment which facilitates student successes for college and career readiness.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

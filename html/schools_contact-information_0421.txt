@@ -10,19 +10,20 @@
                 TWIN LAKES ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Malloy, Hilary <br>
+                        
+Principal: Rankin, Katie<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
-<!-- 								Malloy, Hilary  --><!-- <br> -->
+<!-- 								Rankin, Katie  --><!-- <br> -->
                                 1205 SILVER LAKE DRIVE<br>
                                 LAS VEGAS, NV 89108<br>
                                 Phone: 702-799-4790<br/>
                                 Fax: 702-799-4899<br/>
 <a href="http://maps.google.com/maps?q=1205 SILVER LAKE DRIVE,+LAS VEGAS,+NV+89108">Map</a>
-                                 | <a href="https://twinlakestigers.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://twinlakestigers.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Dream, Believe, Achieve!</p> <p><b>Mission:</b> The mission of Twin Lakes School is to provide an atmosphere that will promote student learning and academic achievement in a positive environment.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

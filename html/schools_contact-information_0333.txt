@@ -10,7 +10,8 @@
                 VON TOBEL, ED MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Amador, Leonardo <br>
+                        
+Principal: Amador, Leonardo<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7280<br/>
                                 Fax: 702-799-7286<br/>
 <a href="http://maps.google.com/maps?q=2436 N. PECOS RD.,+LAS VEGAS,+NV+89115">Map</a>
-                                 | <a href="https://vontobelms.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://vontobelms.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> It is all about learning.</p> <p><b>Mission:</b> We, the students, staff, parents and community of Ed Von Tobel Middle school are committed to student learning and achievement in a safe environment, which embraces diversity to build leaders of tomorrow.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

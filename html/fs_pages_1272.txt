@@ -1,0 +1,505 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Governance Policies</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12228">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_12229">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12467">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_12468">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12230">
+<div class="fsElementContent">
+<p>The Clark County School District (CCSD) Board of Trustees’ Governance Policies provide a framework for how the Board oversees district operations and works with the superintendent to ensure accountability, transparency, and effective leadership. These policies outline expectations for financial management, student and staff treatment, diversity commitments, superintendent evaluation, and succession planning, as well as procedures for reviewing and responding to board reports. Together, they serve as guiding principles that support responsible decision-making, safeguard resources, and promote a stable and equitable learning environment for all students and staff.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_12469">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="12471" data-source-page-id="1272" data-use-new="true" id="fsEl_12471">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="CCSD Admin Building" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="ccsd-building.jpg" data-resource-uuid="84623b58-a0aa-41f2-811c-712473c83a69"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_12459">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-12460" role="presentation">
+<a aria-controls="fsEl_12460" aria-selected="false" href="#fs-panel-12460" role="tab">Proposed Governance Policy Changes</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12462" role="presentation">
+<a aria-controls="fsEl_12462" aria-selected="false" href="#fs-panel-12462" role="tab">Governance Policy Appendix</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12460" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12460" aria-expanded="false" href="#fs-panel-12460" role="button">Proposed Governance Policy Changes</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12460"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12461">
+<div class="fsElementContent">
+<p>Comments by the public are welcome.</p>
+<h2>Governance Policies Under Consideration</h2>
+<p>The public is welcome to comment when Governance Policies are under consideration by the superintendent for adoption, amendment, or repeal. The Governance Policies listed in this category will be posted for a period of five (5) business days prior to submission to the Board of School Trustees.</p>
+<p><strong>There are no policies under consideration at this time</strong></p>
+<h2>Notice of Intent</h2>
+<p>State statute requires the Board of School Trustees adopt a Notice of Intent when it considers the adoption, amendment, or repeal of a governance policy. The Notice of Intent provides the public thirteen (13) days notice prior to final action by the Board.</p>
+<p>Reflects the date of the Board meeting discussion/action will be taken on the Notice of Intent.</p>
+<p><strong>There are no policies under consideration at this time</strong></p>
+<h2>Final Action</h2>
+<p>This date will indicate the date of the Board meeting when the final discussion/action will occur. This is the last meeting for public comment on the issue.</p>
+<p><strong>There are no policies under consideration at this time</strong></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12462" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12462" aria-expanded="false" href="#fs-panel-12462" role="button">Governance Policy Appendix</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12462"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12463">
+<div class="fsElementContent">
+<table class="table-styled" width="100%">
+<thead>
+<tr>
+<th width="303">Title</th>
+<th width="145">Date</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even">
+<td><a href="/trustees/pdf/governance/appendix/Glossary.pdf">Glossary</a></td>
+<td> </td>
+</tr>
+<tr class="odd">
+<td><a href="/trustees/pdf/governance/appendix/guide-to-rules-of-order.pdf">Appendix - A Guide to Rules of Order for Small Boards</a></td>
+<td>November 14, 2013</td>
+</tr>
+<tr class="even">
+<td><a href="/trustees/pdf/governance/appendix/GP-15-Board-Committees.pdf">Appendix - GP-15 Board Committees</a></td>
+<td>May 25, 2017</td>
+</tr>
+<tr class="odd">
+<td><a href="/trustees/pdf/governance/appendix/Trustee-Salary.pdf">Appendix - Trustee Salary</a></td>
+<td>November 15, 2007</td>
+</tr>
+<!--
+                          <tr>
+                              <td><a href="/trustees/pdf/governance/appendix/Superintendent-Evaluation-Manual.pdf">Appendix - Superintendent Evaluation Manual</a></td>
+                              <td>May 25, 2017</td>
+                          </tr>
+-->
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="fsElement fsPostElement fsGrid policy-title fsItemCount_0" data-board-id="82" data-overwrite-title="" data-use-new="true" id="fsEl_137001">
+<div class="fsElementContent">
+<div class="fsListItems fsStyleFourColumns">
+<article aria-labelledby="fsArticle_137001_1105" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1105">
+<div class="fsTitle" id="fsArticle_137001_1105">
+		Accountability of the Superintendent
+</div>
+<div class="fsBody">
+<p><strong>Number: B/SL-03</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/BSL-03_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1117" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1117">
+<div class="fsTitle" id="fsArticle_137001_1117">
+		Annual Report to the Public: State of the Schools
+</div>
+<div class="fsBody">
+<p><strong>Number: SE-12</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/SE-12_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1115" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1115">
+<div class="fsTitle" id="fsArticle_137001_1115">
+		Asset Protection
+</div>
+<div class="fsBody">
+<p><strong>Number: SE-08</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/SE-08_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1096" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1096">
+<div class="fsTitle" id="fsArticle_137001_1096">
+		Board and Superintendent Evaluation Methodology
+</div>
+<div class="fsBody">
+<p><strong>Number: B/SE-1</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/BSE-1_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1089" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1089">
+<div class="fsTitle" id="fsArticle_137001_1089">
+		Board Committee Principles
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-14</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-14_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1090" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1090">
+<div class="fsTitle" id="fsArticle_137001_1090">
+		Board Committees
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-15</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-15_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1097" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1097">
+<div class="fsTitle" id="fsArticle_137001_1097">
+		Board Evaluation Methodology
+</div>
+<div class="fsBody">
+<p><strong>Number: B/SE-2</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/BSE-2_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1078" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1078">
+<div class="fsTitle" id="fsArticle_137001_1078">
+		Board Members' Conduct and Ethics
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-04.1</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-04.1_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1079" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1079">
+<div class="fsTitle" id="fsArticle_137001_1079">
+		Board Members' Principles of Operation
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-04.2</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-04.2_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1080" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1080">
+<div class="fsTitle" id="fsArticle_137001_1080">
+		Board Officers
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-05</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-05_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1095" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1095">
+<div class="fsTitle" id="fsArticle_137001_1095">
+		Board Public Communications
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-20</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-20_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1098" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1098">
+<div class="fsTitle" id="fsArticle_137001_1098">
+		Board Report and Progress Monitoring
+</div>
+<div class="fsBody">
+<p><strong>Number: B/SE-3</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/BSE-3_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1099" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1099">
+<div class="fsTitle" id="fsArticle_137001_1099">
+		Board Report Content
+</div>
+<div class="fsBody">
+<p><strong>Number: B/SE-4</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/BSE-4_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1101" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1101">
+<div class="fsTitle" id="fsArticle_137001_1101">
+		Board Report Schedule
+</div>
+<div class="fsBody">
+<p><strong>Number: B/SE-6</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/BSE-6_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1100" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1100">
+<div class="fsTitle" id="fsArticle_137001_1100">
+		Board Report Vetting
+</div>
+<div class="fsBody">
+<p><strong>Number: B/SE-5</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/BSE-5_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1102" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1102">
+<div class="fsTitle" id="fsArticle_137001_1102">
+		Board Response to Board Reports
+</div>
+<div class="fsBody">
+<p><strong>Number: B/SE-7</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/BSE-7_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1077" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1077">
+<div class="fsTitle" id="fsArticle_137001_1077">
+		Board Responsibilities
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-03</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-03_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1083" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1083">
+<div class="fsTitle" id="fsArticle_137001_1083">
+		Clerk's Role
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-08</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-08_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1088" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1088">
+<div class="fsTitle" id="fsArticle_137001_1088">
+		Closed Sessions of the Board
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-13</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-13_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1109" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1109">
+<div class="fsTitle" id="fsArticle_137001_1109">
+		Commitment to Diversity
+</div>
+<div class="fsBody">
+<p><strong>Number: SE-02.1</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/SE-02.1_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1116" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1116">
+<div class="fsTitle" id="fsArticle_137001_1116">
+		Communication and Support to the Board
+</div>
+<div class="fsBody">
+<p><strong>Number: SE-10</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/SE-10_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1085" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1085">
+<div class="fsTitle" id="fsArticle_137001_1085">
+		Construction of the Agenda
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-10</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-10_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1092" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1092">
+<div class="fsTitle" id="fsArticle_137001_1092">
+		Cost of Governance
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-17</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-17_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1106" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1106">
+<div class="fsTitle" id="fsArticle_137001_1106">
+		Delegation to the Superintendent
+</div>
+<div class="fsBody">
+<p><strong>Number: B/SL-04</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/BSL-04_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1114" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1114">
+<div class="fsTitle" id="fsArticle_137001_1114">
+		Emergency Superintendent Succession
+</div>
+<div class="fsBody">
+<p><strong>Number: SE-07</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/SE-07_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1113" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1113">
+<div class="fsTitle" id="fsArticle_137001_1113">
+		Financial Condition and Activities
+</div>
+<div class="fsBody">
+<p><strong>Number: SE-06</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/SE-06_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1112" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1112">
+<div class="fsTitle" id="fsArticle_137001_1112">
+		Financial Planning/Budgeting
+</div>
+<div class="fsBody">
+<p><strong>Number: SE-05</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/SE-05_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1107" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1107">
+<div class="fsTitle" id="fsArticle_137001_1107">
+		Global Executive Assurances
+</div>
+<div class="fsBody">
+<p><strong>Number: SE-01</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/SE-01_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1103" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1103">
+<div class="fsTitle" id="fsArticle_137001_1103">
+		Global Governance - Management Connection
+</div>
+<div class="fsBody">
+<p><strong>Number: B/SL-01</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/BSL-01_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1075" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1075">
+<div class="fsTitle" id="fsArticle_137001_1075">
+		Global Governance Commitment
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-01</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-01_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1076" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1076">
+<div class="fsTitle" id="fsArticle_137001_1076">
+		Governing Style
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-02</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-02_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1084" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1084">
+<div class="fsTitle" id="fsArticle_137001_1084">
+		Meeting Planning
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-09</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-09_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1091" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1091">
+<div class="fsTitle" id="fsArticle_137001_1091">
+		Policy Development and Review
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-16</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-16_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1081" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1081">
+<div class="fsTitle" id="fsArticle_137001_1081">
+		President's Role
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-06</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-06_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1086" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1086">
+<div class="fsTitle" id="fsArticle_137001_1086">
+		Public Comment
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-11</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-11_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1108" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1108">
+<div class="fsTitle" id="fsArticle_137001_1108">
+		Superintendent Evaluation Criteria
+</div>
+<div class="fsBody">
+<p><strong>Number: SE-01.1</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/SE-01.1_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1093" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1093">
+<div class="fsTitle" id="fsArticle_137001_1093">
+		Travel and other Board Expenses
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-18</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-18_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1111" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1111">
+<div class="fsTitle" id="fsArticle_137001_1111">
+		Treatment of Staff
+</div>
+<div class="fsBody">
+<p><strong>Number: SE-04</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/SE-04_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1110" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1110">
+<div class="fsTitle" id="fsArticle_137001_1110">
+		Treatment of Students and their Families
+</div>
+<div class="fsBody">
+<p><strong>Number: SE-03</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/SE-03_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1087" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1087">
+<div class="fsTitle" id="fsArticle_137001_1087">
+		Types Of Meetings
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-12</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-12_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1104" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1104">
+<div class="fsTitle" id="fsArticle_137001_1104">
+		Unity of Control
+</div>
+<div class="fsBody">
+<p><strong>Number: B/SL-02</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/BSL-02_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1094" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1094">
+<div class="fsTitle" id="fsArticle_137001_1094">
+		Vacancies on the Board
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-19</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-19_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1082" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1082">
+<div class="fsTitle" id="fsArticle_137001_1082">
+		Vice President's Role
+</div>
+<div class="fsBody">
+<p><strong>Number: GP-07</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/GP-07%20%20_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_137001_1118" class="fsStyleAutoclear fsBoard-82 fsTag-38" data-authenticated-comments="true" data-post-id="1118">
+<div class="fsTitle" id="fsArticle_137001_1118">
+		Vision Statement
+</div>
+<div class="fsBody">
+<p><strong>Number: E-01</strong></p>
+<p><a href="/uploaded/themes/default_25/trustees/pdf/governance/E-01_P.pdf" target="_blank"><strong>Policy</strong></a></p>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

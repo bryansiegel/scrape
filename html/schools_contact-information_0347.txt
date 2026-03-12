@@ -10,7 +10,8 @@
                 SCHERKENBACH, WILLIAM &amp; MARY ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Muffoletto, Kristy M<br>
+                        
+Principal: Muffoletto, Kristy M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-3401<br/>
                                 Fax: 702-799-3433<br/>
 <a href="http://maps.google.com/maps?q=9371 IRON MOUNTAIN ROAD,+LAS VEGAS,+NV+89143">Map</a>
-                                 | <a href="https://0347-scherkenbach.wixsite.com/mysite">Website</a> </br></br></br></p>
-<b>Region:</b> 1                                                    </div>
+                                 | <a href="https://0347-scherkenbach.wixsite.com/mysite">Website</a> 
+<b>Region:</b> 1                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

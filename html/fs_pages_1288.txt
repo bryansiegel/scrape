@@ -1,0 +1,52 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Employee Negotiated Agreements and Compensation</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12874">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_12875">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12876">
+<div class="fsElementContent">
+<div>
+<figure class="fsImage"><picture><img alt="CCSD Employee Benefits" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1767974355/ccsdnet/ofz9prsjggnediol6aof/CCSD_EmpCompBenegraphic.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1767974355/ccsdnet/ofz9prsjggnediol6aof/CCSD_EmpCompBenegraphic.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1767974355/ccsdnet/ofz9prsjggnediol6aof/CCSD_EmpCompBenegraphic.png%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1767974355/ccsdnet/ofz9prsjggnediol6aof/CCSD_EmpCompBenegraphic.png%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1767974355/ccsdnet/ofz9prsjggnediol6aof/CCSD_EmpCompBenegraphic.png%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1767974355/ccsdnet/ofz9prsjggnediol6aof/CCSD_EmpCompBenegraphic.png%22,%22width%22:2200}]" data-resource-description="" data-resource-filename="CCSD_EmpCompBenegraphic.png" data-resource-uuid="257eb97d-2602-4e13-80ff-bc0a2e14055f" src=""/></picture></figure>
+</div>
+<h2><a href="https://www.ccasa.net/" rel="nofollow" target="_blank">CCASAPE</a></h2>
+<p>HEALTH &amp; WELFARE TRUST<br/>
+4055 SOUTH SPENCER STREET, SUITE 230<br/>
+LAS VEGAS, NV 89119<br/>
+(702) 796 - 9602<br/>
+MEMBERSHIP<br/>
+ENROLLMENT: OPEN<br/>
+WITHDRAWAL: BY SEPT 15</p>
+<h2><a href="https://new.ccea-nv.org/" rel="nofollow" target="_blank">CCEA</a></h2>
+<p>TEACHERS HEALTH TRUST<br/>
+4230 MCLEOD DRIVE<br/>
+LAS VEGAS, NV 89121<br/>
+(702) 733 - 3063<br/>
+MEMBERSHIP<br/>
+ENROLLMENT: OPEN<br/>
+WITHDRAWAL: JULY 1 - 15</p>
+<h2><a href="http://www.esea-nv.org/" rel="nofollow" target="_blank">ESEA</a></h2>
+<p>CCSD HEALTH &amp; WELFARE<br/>
+3511 EAST HARMON AVENUE<br/>
+LAS VEGAS, NV 89121<br/>
+(702) 794 - 2537<br/>
+MEMBERSHIP<br/>
+ENROLLMENT: OPEN<br/>
+WITHDRAWAL: JULY 1 - 15</p>
+<h2>PAA</h2>
+<p>CCSD HEALTH &amp; WELFARE<br/>
+PO BOX 530336<br/>
+HENDERSON, NV, 89053<br/>
+MEMBERSHIP<br/>
+ENROLLMENT: OPEN<br/>
+WITHDRAWAL: BY SEPT 15</p>
+<h2><a href="https://www.poaccsd.com/" rel="nofollow" target="_blank">POA</a></h2>
+<p>CCSD HEALTH &amp; WELFARE<br/>
+145 PANAMA STREET<br/>
+HENDERSON, NV 89015<br/>
+POACCSD.COM (702) 897 - 9366 MEMBERSHIP<br/>
+ENROLLMENT: OPEN<br/>
+WITHDRAWAL: BY SEPT 15</p>
+</div>
+</div>
+</div>
+</div>
+</main>

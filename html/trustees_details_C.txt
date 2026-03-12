@@ -87,50 +87,11 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0336" target="_blank">
-                                    Swainston, Theron L. MS                                </a>
+<a class="pdflink" href="/schools/contact-information/0432" target="_blank">
+                                    Gibson, Robert O. Leadership Academy                                </a>
 </td>
 <td>
                             4                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0339" target="_blank">
-                                    Priest, Richard C. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0360" target="_blank">
-                                    Reed, Doris M. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0366" target="_blank">
-                                    May, Ernest J. ES                                </a>
-</td>
-<td>
-                            1                       </td>
 <td>
                                 C                            </td>
 <td>
@@ -152,60 +113,21 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0233" target="_blank">
-                                    Wilhelm, Elizabeth ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0236" target="_blank">
-                                    Wolfe, Eva M. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0245" target="_blank">
-                                    Mojave HS                                </a>
+<a class="pdflink" href="/schools/contact-information/0449" target="_blank">
+                                    Veterans Tribute Career and Technical Academy                                </a>
 </td>
 <td>
                             6                       </td>
 <td>
                                 C                            </td>
 <td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0250" target="_blank">
-                                    Bunker, Berkeley L. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
                                 LV                            </td>
 </tr>
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0253" target="_blank">
-                                    Elizondo, Raul P. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0444" target="_blank">
+                                    Scott, Jesse D. ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -217,11 +139,11 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0255" target="_blank">
-                                    Detwiler, Ollie ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0451" target="_blank">
+                                    Western HS                                </a>
 </td>
 <td>
-                            1                       </td>
+                            6                       </td>
 <td>
                                 C                            </td>
 <td>
@@ -230,63 +152,37 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0274" target="_blank">
-                                    Leavitt, Justice Myron E. MS                                </a>
+<a class="pdflink" href="/schools/contact-information/0247" target="_blank">
+                                    Guy, Addeliar D. III ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0336" target="_blank">
+                                    Swainston, Theron L. MS                                </a>
 </td>
 <td>
                             4                       </td>
 <td>
                                 C                            </td>
 <td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0305" target="_blank">
-                                    Cozine, Steve and Linda ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
                                 NLV                            </td>
 </tr>
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0310" target="_blank">
-                                    Cox, Clyde C. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0827" target="_blank">
+                                    Atkinson-Gates, Yvonne Child Development Center                                </a>
 </td>
 <td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0315" target="_blank">
-                                    Toland, Helen Anderson International Academy ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0370" target="_blank">
-                                    Fong, Wing and Lilly ES                                </a>
-</td>
-<td>
-                            1                       </td>
+                            7                       </td>
 <td>
                                 C                            </td>
 <td>
@@ -297,32 +193,6 @@
 <td>
 <a class="pdflink" href="/schools/contact-information/0371" target="_blank">
                                     Kahre, Marc A. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0410" target="_blank">
-                                    Fitzgerald, H. P. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0412" target="_blank">
-                                    Griffith, E. W. ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -347,8 +217,8 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0414" target="_blank">
-                                    McWilliams, J. T. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0315" target="_blank">
+                                    Toland, Helen Anderson International Academy ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -360,11 +230,11 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0416" target="_blank">
-                                    Culley, Paul E. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0274" target="_blank">
+                                    Leavitt, Justice Myron E. MS                                </a>
 </td>
 <td>
-                            1                       </td>
+                            4                       </td>
 <td>
                                 C                            </td>
 <td>
@@ -373,54 +243,15 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0421" target="_blank">
-                                    Twin Lakes ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0410" target="_blank">
+                                    Fitzgerald, H. P. ES                                </a>
 </td>
 <td>
                             1                       </td>
 <td>
                                 C                            </td>
 <td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0423" target="_blank">
-                                    Wasden, Howard ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0424" target="_blank">
-                                    Pittman, Vail ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0426" target="_blank">
-                                    Ronzone, Bertha ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
+                                NLV                            </td>
 </tr>
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
@@ -438,11 +269,50 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0578" target="_blank">
-                                    Canyon Springs HS and the Leadership and Law Preparatory Academy                                </a>
+<a class="pdflink" href="/schools/contact-information/0366" target="_blank">
+                                    May, Ernest J. ES                                </a>
 </td>
 <td>
-                            6                       </td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0411" target="_blank">
+                                    Hoggard, Mabel W. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0530" target="_blank">
+                                    Molasky, Irwin and Susan JHS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0324" target="_blank">
+                                    Mackey, Jo iLead Academy for the Digital Sciences                                </a>
+</td>
+<td>
+                            2                       </td>
 <td>
                                 C                            </td>
 <td>
@@ -451,15 +321,106 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0432" target="_blank">
-                                    Gibson, Robert O. Leadership Academy                                </a>
+<a class="pdflink" href="/schools/contact-information/0863" target="_blank">
+                                    Desert Rose Adult Education Programs                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/" target="_blank">
+                                    Desert Rose Tech Center                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0362" target="_blank">
+                                    Parson, Claude H. and Stella M. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0381" target="_blank">
+                                    Perkins, Dr. Claude G. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0242" target="_blank">
+                                    Preparatory Institute, School for Academic Excellence at Charles I. West Hall                                </a>
+</td>
+<td>
+                            3                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0545" target="_blank">
+                                    Sedway, Marvin M. MS                                </a>
 </td>
 <td>
                             4                       </td>
 <td>
                                 C                            </td>
 <td>
-                                LV                            </td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0236" target="_blank">
+                                    Wolfe, Eva M. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0233" target="_blank">
+                                    Wilhelm, Elizabeth ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
 </tr>
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
@@ -490,8 +451,385 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
+<a class="pdflink" href="/schools/contact-information/0310" target="_blank">
+                                    Cox, Clyde C. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0317" target="_blank">
+                                    Craig, Lois ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0518" target="_blank">
+                                    Vegas Verdes ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0255" target="_blank">
+                                    Detwiler, Ollie ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0469" target="_blank">
+                                    Johnston, Carroll M. STEM Academy of Environmental Studies                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0361" target="_blank">
+                                    Deskin, Ruthe ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
 <a class="pdflink" href="/schools/contact-information/0521" target="_blank">
                                     Kelly, Matt ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0414" target="_blank">
+                                    McWilliams, J. T. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0426" target="_blank">
+                                    Ronzone, Bertha ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0339" target="_blank">
+                                    Priest, Richard C. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0360" target="_blank">
+                                    Reed, Doris M. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0421" target="_blank">
+                                    Twin Lakes ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0364" target="_blank">
+                                    Woolley, Gwendolyn ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0433" target="_blank">
+                                    Brinley, J. Harold MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0250" target="_blank">
+                                    Bunker, Berkeley L. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0578" target="_blank">
+                                    Canyon Springs HS and the Leadership and Law Preparatory Academy                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0539" target="_blank">
+                                    Bruner, Lucile S. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0305" target="_blank">
+                                    Cozine, Steve and Linda ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0550" target="_blank">
+                                    Desert Rose HS                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0253" target="_blank">
+                                    Elizondo, Raul P. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0400" target="_blank">
+                                    Findlay, Clifford O. (Pete) MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0245" target="_blank">
+                                    Mojave HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0569" target="_blank">
+                                    College of So. NV HS East Campus                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0329" target="_blank">
+                                    Tobler, R. E. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0283" target="_blank">
+                                    Watson, Fredric W. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                NLV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0436" target="_blank">
+                                    Advanced Technologies Academy                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0424" target="_blank">
+                                    Pittman, Vail ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0416" target="_blank">
+                                    Culley, Paul E. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0370" target="_blank">
+                                    Fong, Wing and Lilly ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0412" target="_blank">
+                                    Griffith, E. W. ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -516,310 +854,11 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0539" target="_blank">
-                                    Bruner, Lucile S. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0423" target="_blank">
+                                    Wasden, Howard ES                                </a>
 </td>
 <td>
                             1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0545" target="_blank">
-                                    Sedway, Marvin M. MS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0569" target="_blank">
-                                    College of So. NV HS East Campus                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0361" target="_blank">
-                                    Deskin, Ruthe ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0317" target="_blank">
-                                    Craig, Lois ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0444" target="_blank">
-                                    Scott, Jesse D. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0449" target="_blank">
-                                    Veterans Tribute Career and Technical Academy                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0518" target="_blank">
-                                    Vegas Verdes ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0550" target="_blank">
-                                    Desert Rose HS                                </a>
-</td>
-<td>
-                            8                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0530" target="_blank">
-                                    Molasky, Irwin and Susan JHS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0329" target="_blank">
-                                    Tobler, R. E. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0451" target="_blank">
-                                    Western HS                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0469" target="_blank">
-                                    Johnston, Carroll M. STEM Academy of Environmental Studies                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0411" target="_blank">
-                                    Hoggard, Mabel W. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0247" target="_blank">
-                                    Guy, Addeliar D. III ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0433" target="_blank">
-                                    Brinley, J. Harold MS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0362" target="_blank">
-                                    Parson, Claude H. and Stella M. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0436" target="_blank">
-                                    Advanced Technologies Academy                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0283" target="_blank">
-                                    Watson, Fredric W. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0863" target="_blank">
-                                    Desert Rose Adult Education Programs                                </a>
-</td>
-<td>
-                            8                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0400" target="_blank">
-                                    Findlay, Clifford O. (Pete) MS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0364" target="_blank">
-                                    Woolley, Gwendolyn ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0381" target="_blank">
-                                    Perkins, Dr. Claude G. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                NLV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0827" target="_blank">
-                                    Atkinson-Gates, Yvonne Child Development Center                                </a>
-</td>
-<td>
-                            7                       </td>
 <td>
                                 C                            </td>
 <td>

@@ -10,7 +10,8 @@
                 REID, HARRY ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Echeverria, Tracy D<br>
+                        
+Principal: Echeverria, Tracy D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-297-1224<br/>
                                 Fax: 702-297-1767<br/>
 <a href="http://maps.google.com/maps?q=300 MICHAEL WENDELL WAY,+SEARCHLIGHT,+NV+89046">Map</a>
-                                 | <a href="https://harryreides.ccsd.net/">Website</a> </br></br></br></p>
+                                 | <a href="https://0919-inbox.wixsite.com/reid-es">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Searching for Knowledge</p> <p><b>Mission:</b> To ensure students achieve academically and demonstrate citizenship, responsibility, and respect for people and property.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

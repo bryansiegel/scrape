@@ -1,0 +1,186 @@
+<div class="content-wrap" id="content_wrap">
+<div class="main-content-full-wrap" id="main_content_wrap" role="main">
+<!-- HERO SECTION -->
+<section class="w-100">
+<div class="container-fluid p-0">
+<div class="d-flex flex-column flex-md-row align-items-center justify-content-center" style="margin-left:35px !important;">
+<!-- Full-Width Banner Image -->
+<img alt="Traffic Bureau" class="img-fluid" src="https://ccsd.net/resources/police-services/kids-crosswalk.png" style="
+           		width:100%;
+               max-height:300px;
+               object-fit:cover;
+               border:10px solid #ddd;
+           "/>
+</div>
+<!-- Hero Text Block -->
+<div class="py-4 px-3" style="background-color:white;">
+<h1 class="page-title mb-2">School Zone Safety</h1>
+<p class="mx-auto" style="max-width:800px;">
+<p>It's up to all of us to ensure our kids feel safe getting to and from school.</p>
+<p>Throughout the school year, please remember these important laws in school zones:
+	            <ul>
+<li><strong>U-turns are illegal</strong> in school zones</li>
+<li><strong>Double parking and blocking crosswalks are prohibited</strong></li>
+<li><strong>Always obey the posted speed limit</strong> and pay close attention to flashing school zone lights</li>
+<li><strong>Stop whenever you see a school bus with flashing red lights or its stop-arm extended</strong></li>
+</ul>
+</p>
+<p>The following resources are offered for members of our community concerned about School Zone Safety:</p>
+</p></div>
+</div>
+</section>
+<!--        Sub Navigation-->
+<section style="background-color:#eeeeee;width:100%;margin-left:20px;">
+<div style="display: flex; padding: 10px;">
+<a data-asw-orgfontsize="16" href="#Enforcement" style="flex: 1 1 0%; height: 50px; background-color: rgb(204, 204, 204); color: rgb(0, 0, 0); text-align: center; line-height: 24px; text-decoration: none; font-weight: bold; border-radius: 4px; margin-right: 5px; font-size: 15px;text-transform: uppercase;">School zone enforcement<br/>CCSDPD</a>
+<!--
+                    <a style="flex: 1 1 0%; height: 50px; background-color: rgb(204, 204, 204); color: rgb(0, 0, 0); text-align: center; line-height: 50px; text-decoration: none; font-weight: bold; border-radius: 4px; margin-right: 5px; font-size: 16px;"
+                            href="#Concerns" data-asw-orgfontsize="16">Report Traffic Concerns</a>
+-->
+<a data-asw-orgfontsize="16" href="#Crossing" style="flex: 1 1 0%; height: 50px; background-color: rgb(204, 204, 204); color: rgb(0, 0, 0); text-align: center; line-height: 24px; text-decoration: none; font-weight: bold; border-radius: 4px; margin-right: 5px; font-size: 15px;text-transform: uppercase;">Crossing Guards<br/>Municipalities</a>
+<a class="tab-link" data-asw-orgfontsize="16" href="#Municipality" style="flex: 1 1 0%; height: 50px; background-color: rgb(204, 204, 204); color: rgb(0, 0, 0); text-align: center; line-height: 24px; text-decoration: none; font-weight: bold; border-radius: 4px; margin-right: 5px; font-size: 15px;text-transform: uppercase;">Concerns about roadways<br/>Municipalities</a>
+<!--
+                    <a style="flex: 1 1 0%; height: 50px; background-color: rgb(204, 204, 204); color: rgb(0, 0, 0); text-align: center; line-height: 50px; text-decoration: none; font-weight: bold; border-radius: 4px; font-size: 16px;"
+                       href="#Contact" data-asw-orgfontsize="16">Department Contact</a>
+-->
+</div>
+</section>
+<br/>
+<hr class="hr--logo"/>
+<!-- AUTHORITY & LIMITATIONS -->
+<section class="Enforcement-section">
+<a id="Enforcement"></a>
+<h2 class="h2-style page-title mb-2">School Zone Enforcement (CCSDPD)</h2>
+<div class="tabs">
+<div class="faq-item">
+<div class="tab-content active">
+<p>The CCSDPD Traffic Bureau is focused on ensuring the safety of students, staff, and the community through proactive traffic enforcement, school zone safety operations, and education initiatives. The bureau helps to enforce the following laws in school zones:
+		                  <ul>
+<li>Reduced speed limits when zone signs are flashing </li>
+<ul>
+<li>School zones are active 30 minutes before school starts and 30 minutes after school ends </li>
+<li>Many schools do not have flashing lights, and are considered ACTIVE when 2 or more students are present within that timeframe.</li>
+</ul>
+<li>No U-turns in active school zones </li>
+<li>No stopping in bus loading zones </li>
+<li>No parking in designated school zone areas during enforcement hours</li>
+<li>Traffic violations on school district property</li>
+<li>Moving and parking violations in active school zones </li>
+<li>Traffic violations at active bus stops (when buses are loading/unloading) </li>
+<li>School-related traffic incidents involving students or staff</li>
+</ul>
+<p></p>
+<br/>
+<p align="center">To report traffic concerns in school zones:<br/>
+<strong>CCSDPD Dispatch</strong>: <a href="tel:(702)-799-5411" style="font-weight:bold;">702-799-5411</a><br/>Available 24/7 for urgent traffic safety issues<br/>
+<a class="button-blue-standard" href="mailto:traffic@nv.ccsd.net" style="text-transform: uppercase;" target="_blank">report a school zone traffic concern</a></p>
+</p></div>
+</div>
+</div>
+<!--
+       <div class="tabs">
+	   			<div class="faq-item">
+	                  <div class="tab-content active" >
+					   
+		                  <p><strong>CCSDPD’s Authority & Focus:</strong> CCSDPD officers are sworn Nevada law enforcement officers who focus on school zone safety and school-related traffic incidents.</p>
+
+					  </div>  
+      			</div>
+      			   
+       </div>
+-->
+</section>
+<!--
+    <hr class="hr--logo">
+
+    <section class="concerns">
+            <a id="Concerns"></a>
+            <div style="color:white; background-color:#0D3A5D;padding:10px;text-align:center;">
+                <i class="fas fa-exclamation-triangle" style="font-size:32px"></i>
+                <h3 style="color:white !important;">Report Traffic Concerns</h3>
+                <p><strong>Emergency or Immediate Concerns</strong></p>
+                <p><strong>CCSDPD Dispatch</strong>: <a href="tel:(702)-799-5411" style="color:#9ACFF9;font-weight:bold;">702-799-5411</a><br>Available 24/7 for urgent traffic safety issues</p>
+				 <p><strong>Non-Emergency Traffic Concerns</strong></p>
+                <a href="mailto:traffic@nv.ccsd.net" class="button-blue-standard" style="background-color:lightgrey;color:black !important;">Report a Concern</a>
+            </div>         
+    </section>
+-->
+<hr class="hr--logo"/>
+<!--     <hr class="hr--logo"> -->
+<section class="tabbed-section">
+<div class="container-fluid p-0">
+<div class="d-flex flex-column flex-md-row align-items-center justify-content-center" style="margin-left:35px !important;">
+<!-- Full-Width Banner Image -->
+<img alt="Traffic Bureau" class="img-fluid" src="https://ccsd.net/resources/police-services/Banner2.png" style="
+           		width:50%;
+               max-height:300px;
+               object-fit:cover;
+               border:10px solid #ddd;
+           "/>
+</div>
+<div class="tabbed-layout">
+<div class="tabs">
+<button class="tab-button active" data-tab="tab1"><!-- <i class="fa-solid fa-handshake-angle"></i> --><!-- 🚸 --> Crossing Guards (Municipalities)</button>
+<button class="tab-button" data-tab="tab2"><!-- <i class="fa-solid fa-shield"></i> --><!-- 📍 --> Concerns About Roadways (Municipalities)</button>
+</div>
+<div class="tab-content active" id="tab1">
+<a id="Crossing"></a>
+<p>School crossing guards are managed and funded by city and county governments, not CCSD. Guards are employed by third-party companies contracted by municipalities.</p>
+<p>Unsure of your municipality?
+		            <p><a class="button-blue-standard" href="https://ccgismo.maps.arcgis.com/apps/webappviewer/index.html?id=54500abacf4e4b2e8d6c890e88d6bc3e" style="text-transform: uppercase;" target="_blank">Click Here</a>
+</p>
+<p><strong>CCSD's Role:</strong> Our Risk Management department works with cities and counties to request traffic studies when crossing guard needs are identified.</p>
+<p><strong>For Crossing Guard Issues:</strong></p>
+<ul>
+<li>Crossing guards are employed by third-party companies contracted by municipalities.</li>
+<li>CCSD does not manage or fund crossing guards or traffic control devices.</li>
+</ul>
+</p></div>
+<div class="tab-content" id="tab2">
+<a id="Municipality"></a>
+<p>The Clark County School District does not have authority over road infrastructure. Please contact your municipality regarding any of the following concerns:</p>
+<div style="margin-left: 10px;">
+<ul>
+<li>Placement of crosswalks</li>
+<li>Traffic signage</li>
+<li>School zone speed limits</li>
+<li>Flashing lights in school zones</li>
+<li>Lighting in school zones</li>
+<li>General neighborhood traffic complaints</li>
+<li>Other road infrastructure</li>
+</ul>
+</div>
+<div style="margin-left: 10px;">
+<p>Unsure of your municipality?</p>
+<a class="button-blue-standard" href="https://ccgismo.maps.arcgis.com/apps/webappviewer/index.html?id=54500abacf4e4b2e8d6c890e88d6bc3e" style="text-transform: uppercase;" target="_blank">Click Here</a>
+<ul style="list-style-type: disc; margin-top: 10px;">
+<li><strong><a href="https://seeclickfix.com/web_portal/xnzpFvEJpprZBdgfxT1aZuHG/report/location" target="_blank">Contact Las Vegas</a></strong></li>
+<li><strong><a href="https://www.cityofhenderson.com/government/departments/police/traffic-bureau" target="_blank">Contact Henderson</a></strong></li>
+<li><strong><a href="https://www.cityofnorthlasvegas.com/our-city/contact-us" target="_blank">Contact North Las Vegas</a></strong></li>
+<li><strong><a href="https://www.bcnv.org/634/Complaints" target="_blank">Contact Boulder City</a></strong></li>
+<li><strong><a href="https://www.clarkcountynv.gov/residents/fixit-clark-county" target="_blank">Contact Unincorporated Areas of Clark County</a></strong></li>
+<li><strong><a href="https://www.mesquitenv.gov/contact" target="_blank">Contact Mesquite</a></strong></li>
+</ul>
+</div>
+</div>
+</div></div></section>
+<!--     <hr class="hr--logo"> -->
+<!-- CONTACT SECTION -->
+<!--
+    <section class="department-section">
+      <a id="Contact"></a>
+      <h2 class="h2-style page-title mb-2">CCSD Police Department</h2>
+      <div class="tabs">
+        <div class="faq-item">
+          <div class="tab-content active">
+            <p>120 Corporate Park Drive, Henderson, NV 89074<br>
+              <strong>Main:</strong> <a href="tel:(702)-799-7830" class="tel">702-799-7830</a> | <strong>24/7 Dispatch:</strong> <a href="tel:(702)-799-5411" class="tel">702-799-5411</a>
+            </p>
+          </div>
+        </div>
+      </div>
+      <p style="font-size: smaller;text-align: center;"><em>CCSDPD officers are POST-certified Nevada law enforcement officers with full police authority to ensure safe learning environments for all students and staff.</em></p>
+    </section>
+-->
+</div>
+</div>

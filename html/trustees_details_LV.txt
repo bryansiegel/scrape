@@ -100,11 +100,11 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0337" target="_blank">
-                                    Cadwallader, Ralph L. MS                                </a>
+<a class="pdflink" href="/schools/contact-information/0785" target="_blank">
+                                    Divich, Kenneth ES                                </a>
 </td>
 <td>
-                            4                       </td>
+                            1                       </td>
 <td>
                                 B                            </td>
 <td>
@@ -113,78 +113,13 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0353" target="_blank">
-                                    Las Vegas Academy of the Arts                                </a>
+<a class="pdflink" href="/schools/contact-information/0432" target="_blank">
+                                    Gibson, Robert O. Leadership Academy                                </a>
 </td>
 <td>
-                            6                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0360" target="_blank">
-                                    Reed, Doris M. ES                                </a>
-</td>
-<td>
-                            1                       </td>
+                            4                       </td>
 <td>
                                 C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0363" target="_blank">
-                                    McMillan, James B. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0365" target="_blank">
-                                    Lunt, Robert ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0366" target="_blank">
-                                    May, Ernest J. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0367" target="_blank">
-                                    Lummis, William ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                E                            </td>
 <td>
                                 LV                            </td>
 </tr>
@@ -204,142 +139,12 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0203" target="_blank">
-                                    Tarr, Sheila Academy of International Studies ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0213" target="_blank">
-                                    Hewetson, Halle ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0214" target="_blank">
-                                    Park, John S. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0219" target="_blank">
-                                    Sunrise Acres ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0224" target="_blank">
-                                    Gragson, Oran K. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0231" target="_blank">
-                                    Fremont, John C. Professional Development MS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0232" target="_blank">
-                                    Martin, Roy W. MS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0239" target="_blank">
-                                    Cambeiro, Arturo ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0241" target="_blank">
-                                    Rhodes, Betsy A. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0246" target="_blank">
-                                    Palo Verde HS                                </a>
+<a class="pdflink" href="/schools/contact-information/0449" target="_blank">
+                                    Veterans Tribute Career and Technical Academy                                </a>
 </td>
 <td>
                             6                       </td>
 <td>
-                                E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0250" target="_blank">
-                                    Bunker, Berkeley L. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
                                 C                            </td>
 <td>
                                 LV                            </td>
@@ -347,13 +152,13 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0255" target="_blank">
-                                    Detwiler, Ollie ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0376" target="_blank">
+                                    Escobedo, Edmundo â€œEddieâ€ Sr. MS                                </a>
 </td>
 <td>
-                            1                       </td>
+                            4                       </td>
 <td>
-                                C                            </td>
+                                B                            </td>
 <td>
                                 LV                            </td>
 </tr>
@@ -373,52 +178,13 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0258" target="_blank">
-                                    Moore, William K. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0451" target="_blank">
+                                    Western HS                                </a>
 </td>
 <td>
-                            1                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0273" target="_blank">
-                                    Rogich, Sig MS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0274" target="_blank">
-                                    Leavitt, Justice Myron E. MS                                </a>
-</td>
-<td>
-                            4                       </td>
+                            6                       </td>
 <td>
                                 C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0279" target="_blank">
-                                    Carl, Kay ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
 <td>
                                 LV                            </td>
 </tr>
@@ -438,34 +204,8 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0284" target="_blank">
-                                    Bilbray, James H. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0315" target="_blank">
-                                    Toland, Helen Anderson International Academy ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0320" target="_blank">
-                                    Edwards, Elbert B. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0338" target="_blank">
+                                    Hollingsworth, Howard ES STEAM Academy                                </a>
 </td>
 <td>
                             1                       </td>
@@ -477,11 +217,11 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0326" target="_blank">
-                                    Ronnow, C. C. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0701" target="_blank">
+                                    Central Technical Training Academy                                </a>
 </td>
 <td>
-                            1                       </td>
+                            6                       </td>
 <td>
                                 D                            </td>
 <td>
@@ -490,11 +230,24 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0370" target="_blank">
-                                    Fong, Wing and Lilly ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0620" target="_blank">
+                                    Martinez, Reynaldo Child Development Center                                </a>
 </td>
 <td>
-                            1                       </td>
+                            7                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0827" target="_blank">
+                                    Atkinson-Gates, Yvonne Child Development Center                                </a>
+</td>
+<td>
+                            7                       </td>
 <td>
                                 C                            </td>
 <td>
@@ -505,45 +258,6 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <td>
 <a class="pdflink" href="/schools/contact-information/0371" target="_blank">
                                     Kahre, Marc A. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0372" target="_blank">
-                                    Katz, Edythe and Lloyd ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0374" target="_blank">
-                                    Becker, Sr., Ernest A. MS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0412" target="_blank">
-                                    Griffith, E. W. ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -568,6 +282,656 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
+<a class="pdflink" href="/schools/contact-information/0315" target="_blank">
+                                    Toland, Helen Anderson International Academy ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0274" target="_blank">
+                                    Leavitt, Justice Myron E. MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0244" target="_blank">
+                                    Lied STEM Academy MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0232" target="_blank">
+                                    Martin, Roy W. MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0366" target="_blank">
+                                    May, Ernest J. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0273" target="_blank">
+                                    Rogich, Sig MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0466" target="_blank">
+                                    Piggott, Clarence Academy of International Studies ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0411" target="_blank">
+                                    Hoggard, Mabel W. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0530" target="_blank">
+                                    Molasky, Irwin and Susan JHS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0219" target="_blank">
+                                    Sunrise Acres ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0815" target="_blank">
+                                    Morris Sunset East HS                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0541" target="_blank">
+                                    Neal, Joseph M. ES                                 </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0439" target="_blank">
+                                    Peterson Academic Center                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0548" target="_blank">
+                                    Northwest Career and Technical Academy                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0807" target="_blank">
+                                    South Career and Technical Academy                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                A                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0847" target="_blank">
+                                    Miley Achievement Center                                </a>
+</td>
+<td>
+                            9                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0441" target="_blank">
+                                    O'Roarke, Thomas J. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0322" target="_blank">
+                                    Bracken, Walter ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0241" target="_blank">
+                                    Rhodes, Betsy A. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0204" target="_blank">
+                                    Staton, Ethel W. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0209" target="_blank">
+                                    Bonner, John W. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0362" target="_blank">
+                                    Parson, Claude H. and Stella M. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0579" target="_blank">
+                                    Arbor View HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0347" target="_blank">
+                                    Scherkenbach, William and Mary ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0878" target="_blank">
+                                    Global Community HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0746" target="_blank">
+                                    Vassiliadis, Billy and Rosemary ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0284" target="_blank">
+                                    Bilbray, James H. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0576" target="_blank">
+                                    Shadow Ridge HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0479" target="_blank">
+                                    Bozarth, Henry and Evelyn ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0203" target="_blank">
+                                    Tarr, Sheila Academy of International Studies ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0242" target="_blank">
+                                    Preparatory Institute, School for Academic Excellence at Charles I. West Hall                                </a>
+</td>
+<td>
+                            3                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0213" target="_blank">
+                                    Hewetson, Halle ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0337" target="_blank">
+                                    Cadwallader, Ralph L. MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0812" target="_blank">
+                                    Variety School                                </a>
+</td>
+<td>
+                            9                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0349" target="_blank">
+                                    Thompson, Sandra Lee ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0279" target="_blank">
+                                    Carl, Kay ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0355" target="_blank">
+                                    Ward, Kitty McDonough ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                B                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/" target="_blank">
+                                    Desert Willow Treatment Facility/ES                                </a>
+</td>
+<td>
+                            9                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0513" target="_blank">
+                                    Williams, Wendell P. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0346" target="_blank">
+                                    Conners, Eileen ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0461" target="_blank">
+                                    Christensen, M. J. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/" target="_blank">
+                                    Homebound Services                                </a>
+</td>
+<td>
+                            9                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0518" target="_blank">
+                                    Vegas Verdes ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0875" target="_blank">
+                                    Mission HS                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0255" target="_blank">
+                                    Detwiler, Ollie ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0361" target="_blank">
+                                    Deskin, Ruthe ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0521" target="_blank">
+                                    Kelly, Matt ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0326" target="_blank">
+                                    Ronnow, C. C. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0348" target="_blank">
+                                    Givens, Linda Rankin ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0239" target="_blank">
+                                    Cambeiro, Arturo ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
 <a class="pdflink" href="/schools/contact-information/0414" target="_blank">
                                     McWilliams, J. T. ES                                </a>
 </td>
@@ -581,8 +945,47 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0416" target="_blank">
-                                    Culley, Paul E. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0562" target="_blank">
+                                    Desert Pines HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0426" target="_blank">
+                                    Ronzone, Bertha ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0435" target="_blank">
+                                    Johnson, Walter JHS Academy of International Studies                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0360" target="_blank">
+                                    Reed, Doris M. ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -607,37 +1010,11 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0423" target="_blank">
-                                    Wasden, Howard ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0246" target="_blank">
+                                    Palo Verde HS                                </a>
 </td>
 <td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0424" target="_blank">
-                                    Pittman, Vail ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0425" target="_blank">
-                                    Adcock, O. K. ES                                </a>
-</td>
-<td>
-                            1                       </td>
+                            6                       </td>
 <td>
                                 E                            </td>
 <td>
@@ -646,73 +1023,21 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0426" target="_blank">
-                                    Ronzone, Bertha ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0347" target="_blank">
-                                    Scherkenbach, William and Mary ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0548" target="_blank">
-                                    Northwest Career and Technical Academy                                </a>
+<a class="pdflink" href="/schools/contact-information/0551" target="_blank">
+                                    Clark, Ed W. HS                                </a>
 </td>
 <td>
                             6                       </td>
 <td>
-                                B                            </td>
+                                F                            </td>
 <td>
                                 LV                            </td>
 </tr>
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0579" target="_blank">
-                                    Arbor View HS                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0431" target="_blank">
-                                    Garside, Frank F. JHS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0432" target="_blank">
-                                    Gibson, Robert O. Leadership Academy                                </a>
+<a class="pdflink" href="/schools/contact-information/0433" target="_blank">
+                                    Brinley, J. Harold MS                                </a>
 </td>
 <td>
                             4                       </td>
@@ -724,13 +1049,78 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0452" target="_blank">
-                                    Bonanza HS                                </a>
+<a class="pdflink" href="/schools/contact-information/0211" target="_blank">
+                                    Crestwood ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0374" target="_blank">
+                                    Becker, Sr., Ernest A. MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0230" target="_blank">
+                                    Bryan, Richard H. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0231" target="_blank">
+                                    Fremont, John C. Professional Development MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0250" target="_blank">
+                                    Bunker, Berkeley L. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0353" target="_blank">
+                                    Las Vegas Academy of the Arts                                </a>
 </td>
 <td>
                             6                       </td>
 <td>
-                                E                            </td>
+                                D                            </td>
 <td>
                                 LV                            </td>
 </tr>
@@ -750,21 +1140,268 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0439" target="_blank">
-                                    Peterson Academic Center                                </a>
+<a class="pdflink" href="/schools/contact-information/0214" target="_blank">
+                                    Park, John S. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0532" target="_blank">
+                                    Knudson, K. O. Academy of the Arts                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0372" target="_blank">
+                                    Katz, Edythe and Lloyd ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0367" target="_blank">
+                                    Lummis, William ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0363" target="_blank">
+                                    McMillan, James B. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0329" target="_blank">
+                                    Tobler, R. E. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0570" target="_blank">
+                                    College of So. NV HS West Campus                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0436" target="_blank">
+                                    Advanced Technologies Academy                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0222" target="_blank">
+                                    Earl, Ira J. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0424" target="_blank">
+                                    Pittman, Vail ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0416" target="_blank">
+                                    Culley, Paul E. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0370" target="_blank">
+                                    Fong, Wing and Lilly ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                C                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0320" target="_blank">
+                                    Edwards, Elbert B. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0224" target="_blank">
+                                    Gragson, Oran K. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0418" target="_blank">
+                                    Warren, Rose ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0365" target="_blank">
+                                    Lunt, Robert ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0258" target="_blank">
+                                    Moore, William K. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0836" target="_blank">
+                                    Child Haven                                </a>
 </td>
 <td>
                             8                       </td>
 <td>
-                                B                            </td>
+                                D                            </td>
 <td>
                                 LV                            </td>
 </tr>
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0461" target="_blank">
-                                    Christensen, M. J. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0837" target="_blank">
+                                    Clark County Detention Ctr                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0334" target="_blank">
+                                    Robison, Dell H. MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0425" target="_blank">
+                                    Adcock, O. K. ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -776,13 +1413,52 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0464" target="_blank">
-                                    Jacobson, Walter E. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0515" target="_blank">
+                                    Bell, Rex ES                                </a>
 </td>
 <td>
                             1                       </td>
 <td>
+                                F                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0504" target="_blank">
+                                    Juvenile Detention 3â€“5                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                D                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0452" target="_blank">
+                                    Bonanza HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
                                 E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0844" target="_blank">
+                                    Juvenile Detention 6â€“12                                </a>
+</td>
+<td>
+                            8                       </td>
+<td>
+                                D                            </td>
 <td>
                                 LV                            </td>
 </tr>
@@ -802,8 +1478,21 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0513" target="_blank">
-                                    Williams, Wendell P. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0431" target="_blank">
+                                    Garside, Frank F. JHS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                E                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0412" target="_blank">
+                                    Griffith, E. W. ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -815,13 +1504,13 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0521" target="_blank">
-                                    Kelly, Matt ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0617" target="_blank">
+                                    Adult Education Programs                                </a>
 </td>
 <td>
-                            1                       </td>
+                            8                       </td>
 <td>
-                                C                            </td>
+                                D                            </td>
 <td>
                                 LV                            </td>
 </tr>
@@ -854,507 +1543,13 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0532" target="_blank">
-                                    Knudson, K. O. Academy of the Arts                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0541" target="_blank">
-                                    Neal, Joseph M. ES                                 </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0551" target="_blank">
-                                    Clark, Ed W. HS                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                F                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0562" target="_blank">
-                                    Desert Pines HS                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0576" target="_blank">
-                                    Shadow Ridge HS                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0812" target="_blank">
-                                    Variety School                                </a>
-</td>
-<td>
-                            9                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0836" target="_blank">
-                                    Child Haven                                </a>
-</td>
-<td>
-                            8                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0837" target="_blank">
-                                    Clark County Detention Center                                </a>
-</td>
-<td>
-                            8                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0844" target="_blank">
-                                    Juvenile Detention 6â€“12                                </a>
-</td>
-<td>
-                            8                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0847" target="_blank">
-                                    Miley Achievement Center                                </a>
-</td>
-<td>
-                            9                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0222" target="_blank">
-                                    Earl, Ira J. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0361" target="_blank">
-                                    Deskin, Ruthe ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0418" target="_blank">
-                                    Warren, Rose ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0464" target="_blank">
+                                    Jacobson, Walter E. ES                                </a>
 </td>
 <td>
                             1                       </td>
 <td>
                                 E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0349" target="_blank">
-                                    Thompson, Sandra Lee ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0504" target="_blank">
-                                    Juvenile Detention 3â€“5                                </a>
-</td>
-<td>
-                            8                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0479" target="_blank">
-                                    Bozarth, Henry and Evelyn ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0376" target="_blank">
-                                    Escobedo, Edmundo â€œEddieâ€ Sr. MS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0441" target="_blank">
-                                    Oâ€™Roarke, Thomas J. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0449" target="_blank">
-                                    Veterans Tribute Career and Technical Academy                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0466" target="_blank">
-                                    Piggott, Clarence Academy of International Studies ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0518" target="_blank">
-                                    Vegas Verdes ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0346" target="_blank">
-                                    Conners, Eileen ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0355" target="_blank">
-                                    Ward, Kitty McDonough ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0515" target="_blank">
-                                    Bell, Rex ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                F                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0322" target="_blank">
-                                    Bracken, Walter ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0211" target="_blank">
-                                    Crestwood ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0530" target="_blank">
-                                    Molasky, Irwin and Susan JHS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0329" target="_blank">
-                                    Tobler, R. E. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0451" target="_blank">
-                                    Western HS                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0617" target="_blank">
-                                    Adult Education Programs                                </a>
-</td>
-<td>
-                            8                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0411" target="_blank">
-                                    Hoggard, Mabel W. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0433" target="_blank">
-                                    Brinley, J. Harold MS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0878" target="_blank">
-                                    Global Community HS                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0570" target="_blank">
-                                    College of So. NV HS West Campus                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0746" target="_blank">
-                                    Vassiliadis, Billy and Rosemary ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0209" target="_blank">
-                                    Bonner, John W. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0435" target="_blank">
-                                    Johnson, Walter JHS Academy of International Studies                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0338" target="_blank">
-                                    Hollingsworth, Howard ES STEAM Academy                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0362" target="_blank">
-                                    Parson, Claude H. and Stella M. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                C                            </td>
 <td>
                                 LV                            </td>
 </tr>
@@ -1363,84 +1558,6 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <td>
 <a class="pdflink" href="/schools/contact-information/0417" target="_blank">
                                     Red Rock ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0436" target="_blank">
-                                    Advanced Technologies Academy                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0244" target="_blank">
-                                    Lied STEM Academy MS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0204" target="_blank">
-                                    Staton, Ethel W. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0815" target="_blank">
-                                    Morris Sunset East HS                                </a>
-</td>
-<td>
-                            8                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0230" target="_blank">
-                                    Bryan, Richard H. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                E                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0348" target="_blank">
-                                    Givens, Linda Rankin ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -1465,65 +1582,13 @@ Adam earned his MBA from George Washington University in Washington, D.C. and hi
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0875" target="_blank">
-                                    Mission HS                                </a>
-</td>
-<td>
-                            8                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0785" target="_blank">
-                                    Divich, Kenneth ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0423" target="_blank">
+                                    Wasden, Howard ES                                </a>
 </td>
 <td>
                             1                       </td>
 <td>
-                                B                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0701" target="_blank">
-                                    Central Technical Training Academy                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                D                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0827" target="_blank">
-                                    Atkinson-Gates, Yvonne Child Development Center                                </a>
-</td>
-<td>
-                            7                       </td>
-<td>
                                 C                            </td>
-<td>
-                                LV                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0620" target="_blank">
-                                    Martinez, Reynaldo Child Development Center                                </a>
-</td>
-<td>
-                            7                       </td>
-<td>
-                                D                            </td>
 <td>
                                 LV                            </td>
 </tr>

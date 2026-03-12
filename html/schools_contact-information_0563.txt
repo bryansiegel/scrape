@@ -10,7 +10,8 @@
                 CENTENNIAL HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Wipperman, Keith M<br>
+                        
+Principal: Wipperman, Keith M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-3440<br/>
                                 Fax: 702-799-3443<br/>
 <a href="http://maps.google.com/maps?q=10200 CENTENNIAL PARKWAY,+LAS VEGAS,+NV+89149">Map</a>
-                                 | <a href="https://www.centennialhighschool.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.centennialhighschool.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Building Traditions for a new millennium.</p> <p><b>Mission:</b> The purpose of the Centennial High School community is to prepare students for success beyond graduation.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

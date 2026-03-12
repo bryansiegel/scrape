@@ -10,7 +10,8 @@
                 GREEN VALLEY HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Roberts, Kent A<br>
+                        
+Principal: Roberts, Kent A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-0950<br/>
                                 Fax: 702-799-0717<br/>
 <a href="http://maps.google.com/maps?q=460 ARROYO GRANDE BLVD,+HENDERSON,+NV+89014">Map</a>
-                                 | <a href="http://www.greenvalleyhs.org">Website</a> </br></br></br></p>
+                                 | <a href="http://www.greenvalleyhs.org">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Commitment to Excellence</p> <p><b>Mission:</b> Green Valley High School will ensure the opportunity for excellence of the whole individual through an educational environment which encourages achievement, creativity, intellectual curiosity, and social and global responsibility.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

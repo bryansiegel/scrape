@@ -10,7 +10,8 @@
                 HOGGARD, MABEL ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Giannantonio, Melissa S<br>
+                        
+Principal: Giannantonio, Melissa S<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4740<br/>
                                 Fax: 702-799-4884<br/>
 <a href="http://maps.google.com/maps?q=950 N TONOPAH DR,+LAS VEGAS,+NV+89106">Map</a>
-                                 | <a href="http://www.wix.com/peffer/hoggard1">Website</a> </br></br></br></p>
+                                 | <a href="https://www.mabelhoggard.net/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Our Children are the Future, and... The Future is Now!</p> <p><b>Mission:</b> Mabel Hoggard Magnet School's mission is to challenge and empower all students by providing an enriched education with an emphasis on science, mathematics and technology.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

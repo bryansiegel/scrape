@@ -10,7 +10,8 @@
                 BRYAN, RICHARD H. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Mora, Brandi E<br>
+                        
+Principal: Mora, Brandi E<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-1460<br/>
                                 Fax: 702-799-1469<br/>
 <a href="http://maps.google.com/maps?q=8050 CIELO VISTA AVENUE,+LAS VEGAS,+NV+89128">Map</a>
-                                 | <a href="http://bryan.ccsd.net">Website</a> </br></br></br></p>
+                                 | <a href="http://bryan.ccsd.net">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Team Work Makes the Dream Work</p> <p><b>Mission:</b> RHB Students Will Be Engaged, Supported, and Challenged.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

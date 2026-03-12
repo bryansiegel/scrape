@@ -10,7 +10,8 @@
                 MITCHELL, ANDREW ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Echeverria, Tracy D<br>
+                        
+Principal: Echeverria, Tracy D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8280<br/>
                                 Fax: 702-799-8272<br/>
 <a href="http://maps.google.com/maps?q=900 AVENUE B,+BOULDER CITY,+NV+89005">Map</a>
-                                 | <a href="https://0913-inbox.wixsite.com/mitchelles">Website</a> </br></br></br></p>
+                                 | <a href="https://0913-inbox.wixsite.com/mitchelles">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Learning today, leading tomorrow</p> <p><b>Mission:</b> Andrew J. Mitchell Elementary School will provide a safe and caring environment to prepare children for success in their future. We will develop independent, secure individuals, capable of adapting productively to an ever-changing world. We will teach essential skills and promote a personal lifelong love of learning.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

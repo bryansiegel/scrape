@@ -10,7 +10,8 @@
                 RUNDLE, RICHARD J. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Reece, Lenette <br>
+                        
+Principal: Reece, Lenette<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7380<br/>
                                 Fax: 702-799-7327<br/>
 <a href="http://maps.google.com/maps?q=425 NORTH CHRISTY LANE,+LAS VEGAS,+NV+89110">Map</a>
-                                 | <a href="http://www.richardrundleelementary.com">Website</a> </br></br></br></p>
+                                 | <a href="http://www.richardrundleelementary.com">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Soaring High in Education</p> <p><b>Mission:</b> The Richard Rundle Staff is committed to creating a learning environment where each child can succeed through our mutual caring, cooperation, and competence.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

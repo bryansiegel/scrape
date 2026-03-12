@@ -1,0 +1,286 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Business Operations Unit</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_11812">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_11813">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208005">
+<div class="fsElementContent">
+<p><a class="button-7" href="https://www.ccsd.net/uploaded/themes/default_25/directory/org-chart/ccsd-org-chart.pdf">Organizational Chart</a></p>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_208051">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-208062" role="presentation">
+<a aria-controls="fsEl_208062" aria-selected="false" href="#fs-panel-208062" role="tab">Crisis Response Team</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208060" role="presentation">
+<a aria-controls="fsEl_208060" aria-selected="false" href="#fs-panel-208060" role="tab">Department of School Safety and Emergency Management</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208074" role="presentation">
+<a aria-controls="fsEl_208074" aria-selected="false" href="#fs-panel-208074" role="tab">District Forms</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208052" role="presentation">
+<a aria-controls="fsEl_208052" aria-selected="false" href="#fs-panel-208052" role="tab">Facilities Services Unit</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208066" role="presentation">
+<a aria-controls="fsEl_208066" aria-selected="false" href="#fs-panel-208066" role="tab">Food Service Department</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208072" role="presentation">
+<a aria-controls="fsEl_208072" aria-selected="false" href="#fs-panel-208072" role="tab">Graphic Arts Center</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208082" role="presentation">
+<a aria-controls="fsEl_208082" aria-selected="false" href="#fs-panel-208082" role="tab">Informational Technology</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208054" role="presentation">
+<a aria-controls="fsEl_208054" aria-selected="false" href="#fs-panel-208054" role="tab">Operational Services Unit</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208084" role="presentation">
+<a aria-controls="fsEl_208084" aria-selected="false" href="#fs-panel-208084" role="tab">Payroll/Budget</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208068" role="presentation">
+<a aria-controls="fsEl_208068" aria-selected="false" href="#fs-panel-208068" role="tab">Purchasing, Warehousing, Mail Service and Graphic Arts (Pwmg)</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208064" role="presentation">
+<a aria-controls="fsEl_208064" aria-selected="false" href="#fs-panel-208064" role="tab">Safe Routes to School</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208056" role="presentation">
+<a aria-controls="fsEl_208056" aria-selected="false" href="#fs-panel-208056" role="tab">Strategy Unit</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208058" role="presentation">
+<a aria-controls="fsEl_208058" aria-selected="false" href="#fs-panel-208058" role="tab">Technology &amp; Information Systems Services Division</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208080" role="presentation">
+<a aria-controls="fsEl_208080" aria-selected="false" href="#fs-panel-208080" role="tab">Transportation Investigator Office</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208076" role="presentation">
+<a aria-controls="fsEl_208076" aria-selected="false" href="#fs-panel-208076" role="tab">Transportation</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208070" role="presentation">
+<a aria-controls="fsEl_208070" aria-selected="false" href="#fs-panel-208070" role="tab">Warehouses and Mail Services</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208078" role="presentation">
+<a aria-controls="fsEl_208078" aria-selected="false" href="#fs-panel-208078" role="tab">Vehicle Maintenance</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208062" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208062" aria-expanded="false" href="#fs-panel-208062" role="button">Crisis Response Team</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208062"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208063">
+<div class="fsElementContent">
+<div><a class="button-1" href="https://schoolsafety.ccsd.net/crisis-response-team/" target="_blank">More Information</a></div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208060" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208060" aria-expanded="false" href="#fs-panel-208060" role="button">Department of School Safety and Emergency Management</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208060"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208061">
+<div class="fsElementContent">
+<a class="button-1" href="https://schoolsafety.ccsd.net/" target="_blank">More Information</a>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208074" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208074" aria-expanded="false" href="#fs-panel-208074" role="button">District Forms</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208074"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208075">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208052" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208052" aria-expanded="false" href="#fs-panel-208052" role="button">Facilities Services Unit</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208052"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208053">
+<div class="fsElementContent">
+<a class="button-1" href="https://facilities.ccsd.net/
+" target="_blank">More Information</a>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208066" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208066" aria-expanded="false" href="#fs-panel-208066" role="button">Food Service Department</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208066"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208067">
+<div class="fsElementContent">
+<div><a class="button-1" data-page-name="Food Service" href="/fs/pages/20946">More Information</a></div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208072" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208072" aria-expanded="false" href="#fs-panel-208072" role="button">Graphic Arts Center</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208072"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208086">
+<div class="fsElementContent">
+<div><a class="button-1" href="https://graphics.ccsd.net" target="_blank">More Information</a></div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208082" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208082" aria-expanded="false" href="#fs-panel-208082" role="button">Informational Technology</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208082"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208083">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208054" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208054" aria-expanded="false" href="#fs-panel-208054" role="button">Operational Services Unit</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208054"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208055">
+<div class="fsElementContent">
+<a class="button-1" href="/departments/business-operations-unit/
+operational-services-unit/">More Information</a>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208084" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208084" aria-expanded="false" href="#fs-panel-208084" role="button">Payroll/Budget</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208084"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208085">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208068" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208068" aria-expanded="false" href="#fs-panel-208068" role="button">Purchasing, Warehousing, Mail Service and Graphic Arts (Pwmg)</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208068"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208069">
+<div class="fsElementContent">
+<h3>Purchasing and Warhousing</h3>
+<a class="button-1" href="" target="_blank">More Information</a>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208064" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208064" aria-expanded="false" href="#fs-panel-208064" role="button">Safe Routes to School</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208064"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208065">
+<div class="fsElementContent">
+<a class="button-1" href="https://schoolsafety.ccsd.net/safe-routes-to-school/" target="_blank">More Information</a>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208056" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208056" aria-expanded="false" href="#fs-panel-208056" role="button">Strategy Unit</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208056"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208057">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208058" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208058" aria-expanded="false" href="#fs-panel-208058" role="button">Technology &amp; Information Systems Services Division</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208058"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208059">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208080" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208080" aria-expanded="false" href="#fs-panel-208080" role="button">Transportation Investigator Office</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208080"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208081">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208076" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208076" aria-expanded="false" href="#fs-panel-208076" role="button">Transportation</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208076"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208077">
+<div class="fsElementContent">
+<div><a class="button-1" href="https://transportation.ccsd.net">More Information</a></div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208070" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208070" aria-expanded="false" href="#fs-panel-208070" role="button">Warehouses and Mail Services</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208070"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208071">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208078" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208078" aria-expanded="false" href="#fs-panel-208078" role="button">Vehicle Maintenance</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208078"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208079">
+<div class="fsElementContent">
+<div><a class="button-1" href="https://transportation.ccsd.net/motor-pool-fleet-services-faq/" target="_blank">More Information</a></div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -1,0 +1,380 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Employee Health and Wellness Benefits</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12858">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_12859">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_15772">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_15773">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12860">
+<div class="fsElementContent">
+<div>
+<p>The Clark County School District aims to provide quality, affordable health care coverage to our 40,000 employees and their dependents. </p>
+<p>We negotiate with each employee association to provide either health insurance plans or contribute toward health care plans for our employees.  No changes will be made to employee health care plans unless they are negotiated with each employee group. Benefits for Clark County School District employees are outlined in the Negotiated Agreements.</p>
+<p>To give your input on health care coverage, please contact your employee association or</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_15774">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="15775" data-source-page-id="1287" data-use-new="true" id="fsEl_15775">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Employee Health" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1758120098/ccsdnet/saaipktt6xfceqm7r3ns/employee-health.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1758120098/ccsdnet/saaipktt6xfceqm7r3ns/employee-health.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758120098/ccsdnet/saaipktt6xfceqm7r3ns/employee-health.png%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="employee-health.png" data-resource-uuid="6cc09b32-c06d-4d40-a1b4-820618781fa4"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_15776">
+<div class="fsElementContent">
+<h2>For more information about the benefits offered through each association, please see below:</h2>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_154122">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-154123" role="presentation">
+<a aria-controls="fsEl_154123" aria-selected="false" href="#fs-panel-154123" role="tab">Group Health Insurance</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-154125" role="presentation">
+<a aria-controls="fsEl_154125" aria-selected="false" href="#fs-panel-154125" role="tab">Programs and Plans</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-154127" role="presentation">
+<a aria-controls="fsEl_154127" aria-selected="false" href="#fs-panel-154127" role="tab">Payroll Deductions</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-154129" role="presentation">
+<a aria-controls="fsEl_154129" aria-selected="false" href="#fs-panel-154129" role="tab">Memberships</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-154131" role="presentation">
+<a aria-controls="fsEl_154131" aria-selected="false" href="#fs-panel-154131" role="tab">Donations</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-154133" role="presentation">
+<a aria-controls="fsEl_154133" aria-selected="false" href="#fs-panel-154133" role="tab">Contact Information</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_154123" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_154123" aria-expanded="false" href="#fs-panel-154123" role="button">Group Health Insurance</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-154123"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_154135">
+<div class="fsElementContent">
+<h2>Group Health Insurance</h2>
+<p><strong style="font-size: 18px;">Support Professionals / Police / Police Administrators</strong><br/>
+Please call CCSD Benefits<br/>
+702-799-5418</p>
+<p><a data-file-name="2025-2026_CCSD_Health_Plan_Notices.pdf" data-resource-uuid="482a921d-8776-421d-929f-3cf9231f5a7a" href="/fs/resource-manager/view/482a921d-8776-421d-929f-3cf9231f5a7a" target="_blank">2025-2026 Health Plan Notices (PDF)</a><br/>
+<a data-file-name="2025_Meaningful_Notice_403_b_and_457_b.pdf" data-resource-uuid="59de96b0-dfb7-47f9-9d0e-d71b2f759f83" href="/fs/resource-manager/view/59de96b0-dfb7-47f9-9d0e-d71b2f759f83" target="_blank">Meaningful Notice/Plan Summary Information 403(b) and 457(b) (PDF)</a></p>
+<p><strong>2025 - 2026 Benefit Overview</strong> <span style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: small;">(effective September 1, 2025)</span></p>
+<ul>
+<li><a data-file-name="2025-2026-CCSD-Benefits-Overview-Support-Professionals.pdf" data-resource-uuid="ca29f3d7-3ba4-445b-b13f-468c6e1f8aa7" href="/fs/resource-manager/view/ca29f3d7-3ba4-445b-b13f-468c6e1f8aa7" target="_blank">Support Professionals (PDF)</a></li>
+<li><a data-file-name="2025-2026-CCSD-Benefits-Overview-Police.pdf" data-resource-uuid="b1d8743a-41d9-4c01-9bc6-ad1a12ea1309" href="/fs/resource-manager/view/b1d8743a-41d9-4c01-9bc6-ad1a12ea1309" target="_blank">School Police Employees (PDF)</a></li>
+<li><a data-file-name="2025-2026--CCSD-Benefits-Overview-Police-Administrators.pdf" data-resource-uuid="0f4d7cc8-e872-4b9a-a5e6-e13bdc8c78db" href="/fs/resource-manager/view/0f4d7cc8-e872-4b9a-a5e6-e13bdc8c78db" target="_blank">Police Administrators (PDF)</a></li>
+<li><a data-file-name="ESS-Guide-Open-Enrollment.pdf" data-resource-uuid="e79ddecd-bee3-489b-8d53-f97f842b6917" href="/fs/resource-manager/view/e79ddecd-bee3-489b-8d53-f97f842b6917" target="_blank">HCM Guide - Open Enrollment (PDF)</a></li>
+</ul>
+<p><strong><a href="https://www.brainshark.com/1/player/locktonmw?pi=zHhz15VbTuzX0Adz0&amp;r3f1=&amp;fb=0" rel="nofollow" target="_blank">New Hire Benefits Presentation</a></strong></p>
+<p><strong><a data-file-name="CCSDNewHireChecklist7152024.pdf" data-resource-uuid="cbdd1b49-935c-434f-996c-dd80ec10a472" href="/fs/resource-manager/view/cbdd1b49-935c-434f-996c-dd80ec10a472" target="_blank">CCSD New Hire Checklist (PDF)</a></strong></p>
+<p><strong>Medical/HealthPlan of NV</strong></p>
+<ul>
+<li><a data-file-name="2024-Summary-Benefits-Coverage-HMO.pdf" data-resource-uuid="60e42d17-a191-4c3a-a541-7af4e7e47b31" href="/fs/resource-manager/view/60e42d17-a191-4c3a-a541-7af4e7e47b31" target="_blank">HMO Summary of Benefits Coverage (PDF)</a></li>
+<li><a data-file-name="2023-Benefits-Guide-HMO.pdf" data-resource-uuid="0f4f7b25-699c-45ce-8336-3b38cfb00d01" href="/fs/resource-manager/view/0f4f7b25-699c-45ce-8336-3b38cfb00d01" target="_blank">HMO Guide (PDF)</a></li>
+<li><a data-file-name="2024-Summary-Benefits-Coverage-POS.pdf" data-resource-uuid="bdc72dd8-51aa-43c3-b56a-0bcaf1787f17" href="/fs/resource-manager/view/bdc72dd8-51aa-43c3-b56a-0bcaf1787f17" target="_blank">POS Summary of Benefits Coverage (PDF)</a></li>
+<li><a data-file-name="2023-Benefits-Guide-POS.pdf" data-resource-uuid="eb9b2436-9729-4726-930c-37c3f7a6393b" href="/fs/resource-manager/view/eb9b2436-9729-4726-930c-37c3f7a6393b" target="_blank">POS Guide (PDF)</a></li>
+<li><a data-file-name="2024-Summary-Benefits-Coverage-PPO.pdf" data-resource-uuid="99d6236c-d2c9-4b78-8528-9694741a70da" href="/fs/resource-manager/view/99d6236c-d2c9-4b78-8528-9694741a70da" target="_blank">PPO Summary of Benefits Coverage (PDF)</a></li>
+<li><a data-file-name="2023-Benefits-Guide-PPO.pdf" data-resource-uuid="bc0e03ba-e561-46cf-a330-0adc56d756fa" href="/fs/resource-manager/view/bc0e03ba-e561-46cf-a330-0adc56d756fa" target="_blank">PPO Guide (PDF)</a></li>
+</ul>
+<p><strong>Additional Information about your Medical Benefits:</strong></p>
+<ul>
+<li><a data-file-name="2023-HPN-Points-Care-Flyer.pdf" data-resource-uuid="2028a60b-80b9-4e9c-917f-f1032872c104" href="/fs/resource-manager/view/2028a60b-80b9-4e9c-917f-f1032872c104" target="_blank">HPN Points of Care (PDF)</a></li>
+<li><a data-file-name="2022-2023-Urgent-Care-House-Call-Flyer.pdf" data-resource-uuid="fc44f603-3555-4777-a16a-92a7ade5b4bd" href="/fs/resource-manager/view/fc44f603-3555-4777-a16a-92a7ade5b4bd" target="_blank">Urgent Care House Call Flyer (PDF)</a></li>
+<li><a data-file-name="24-7NowClinicVirtualVisitsFlyer.pdf" data-resource-uuid="2e7b79ad-8cd6-41a9-96eb-c447d40de97b" href="/fs/resource-manager/view/2e7b79ad-8cd6-41a9-96eb-c447d40de97b" target="_blank">24.7 NowClinic Virtual Visits Flyer (PDF)</a></li>
+<li><a data-file-name="2023-Vital-Medications-Program-Rx.pdf" data-resource-uuid="6f7b7242-c41b-4798-8ed9-175105ad539a" href="/fs/resource-manager/view/6f7b7242-c41b-4798-8ed9-175105ad539a" target="_blank">2023 Vital Medication Program (PDF)</a></li>
+<li><a data-file-name="VeraWholeHealthPoster.pdf" data-resource-uuid="88057754-0cc1-4f86-a415-82889691956b" href="/fs/resource-manager/view/88057754-0cc1-4f86-a415-82889691956b" target="_blank">Vera Whole Health Poster (PDF)</a></li>
+<li><a data-file-name="VeraWelcomeBooklet.pdf" data-resource-uuid="20dd6d1c-9de9-4cca-9f15-e6f70e40c08b" href="/fs/resource-manager/view/20dd6d1c-9de9-4cca-9f15-e6f70e40c08b" target="_blank">Vera Welcome Booklet (PDF)</a></li>
+</ul>
+<!-- new -->
+<p><b>Vera Whole Health</b></p>
+<p>All Support and Police Professionals enrolled in the CCSD health insurance have the added benefit of receiving medical care from <a href="https://patients.verawholehealth.com/" rel="nofollow" target="_blank">Vera Whole Health</a>. You have more important things to do than sit in a waiting room only to be rushed through an appointment. That’s why we do healthcare differently, including flexible appointment options, family care, free health coaching, and longer visits.</p>
+<p>Plus, it’s all part of your CCSD benefits<b><a data-file-name="Its-Free-Really.pdf" data-resource-uuid="fd5b4817-6705-4476-823e-0a89bbc8b234" href="/fs/resource-manager/view/fd5b4817-6705-4476-823e-0a89bbc8b234">—at no cost to you.</a></b></p>
+<p><b>Services offered at Vera</b></p>
+<ul>
+<li><a data-file-name="CCSD-Vera-Annual-Health-Check.pdf" data-resource-uuid="3cb47175-6e98-46ac-87a0-50c3b990299f" href="/fs/resource-manager/view/3cb47175-6e98-46ac-87a0-50c3b990299f">Preventive care</a>
+<ul>
+<li>Check-ups, screenings, immunizations, well-woman exams, family planning</li>
+</ul>
+</li>
+<li>Chronic disease support
+	<ul>
+<li>For conditions like diabetes, hypertension, and depression</li>
+</ul>
+</li>
+<li>Acute care
+	<ul>
+<li>Coughs and colds, wound care, sprains and strains, rashes, UTIs, back pain</li>
+</ul>
+</li>
+<li><a data-file-name="CCSD-Vera-Health-Coach.pdf" data-resource-uuid="55fd8e55-e99f-4712-969e-795e18e1a844" href="/fs/resource-manager/view/55fd8e55-e99f-4712-969e-795e18e1a844">Health coaching</a>
+<ul>
+<li>Empathetic coaches who provide accountability to help you reach your goals</li>
+</ul>
+</li>
+<li>Additional services
+	<ul>
+<li>On-site labs, vaccinations, travel medicine, behavioral health, specialty care coordination and advocacy</li>
+</ul>
+</li>
+</ul>
+<div style="margin-left: 50px;margin-bottom:50px;padding-bottom: 50px;width: 80%">
+<div style="float:left;">
+<p><b>Summerlin Wellness Care Center</b><br/>
+331 North Buffalo Dr.<br/>
+Suite 120<br/>
+Las Vegas, NV 89145<br/>
+(702) 846-1003</p>
+</div>
+<div style="float:right;">
+<p><b>Green Valley Wellness Care Center</b><br/>
+100 North Green Valley Pkwy<br/>
+Suite 235<br/>
+Henderson, NV 89074<br/>
+(725) 333-8036</p>
+</div>
+</div>
+<p> </p>
+<center><img alt="Schedule your appointment by calling 888-801-8372" src="https://ccsd.net/resources/employee-benefits/vera-appointment-qr-code.png"/></center>
+<p><b><a data-file-name="CCSD-Vera-Presentation.pdf" data-resource-uuid="6eb8318a-67e4-4eb3-839b-2aeedcb13283" href="/fs/resource-manager/view/6eb8318a-67e4-4eb3-839b-2aeedcb13283">Vera Presentation</a></b></p>
+<!-- end new -->
+<p><b>Dental/United Healthcare</b></p>
+<ul>
+<li><a data-file-name="2021-UHC-Dental-Benefit-Summary.pdf" data-resource-uuid="23ba1788-f8bf-484b-b552-cbbdf041fd74" href="/fs/resource-manager/view/23ba1788-f8bf-484b-b552-cbbdf041fd74" target="_blank">UHC Dental Benefit Summary (PDF)</a></li>
+</ul>
+<p><b>Vision/EyeMed</b><span style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: small;"> (New Carrier effective September 1, 2023)</span></p>
+<ul>
+<li><a data-file-name="EyeMedBenefitSummary-2023-2024.pdf" data-resource-uuid="286340e0-a6fd-4770-8c42-9bbf158f9c81" href="/fs/resource-manager/view/286340e0-a6fd-4770-8c42-9bbf158f9c81" target="_blank">EyeMed Benefit Summary (PDF)</a></li>
+<li><a data-file-name="EyeMedDiabeticCareBenefitSummary-2023-2024.pdf" data-resource-uuid="4b9fac11-aec5-403a-b236-0b07ab1ce9de" href="/fs/resource-manager/view/4b9fac11-aec5-403a-b236-0b07ab1ce9de" target="_blank">EyeMed Diabetic Care Benefit Summary (PDF)</a></li>
+<li><a data-file-name="EyeMed-Member-FAQs.pdf" data-resource-uuid="334f45e2-16dd-419c-ab3c-4b3433d2c0ad" href="/fs/resource-manager/view/334f45e2-16dd-419c-ab3c-4b3433d2c0ad" target="_blank">EyeMed Member FAQs (PDF)</a></li>
+<li><a data-file-name="EyeMedProviderLocatorSearch-2023-2024.pdf" data-resource-uuid="635cbdf0-2d4d-49eb-a307-9bf04073555e" href="/fs/resource-manager/view/635cbdf0-2d4d-49eb-a307-9bf04073555e" target="_blank">EyeMed: Provider Locator - Search. Select. Save. (PDF)</a></li>
+<li><a data-file-name="EyeMed-Eye360-Savings.pdf" data-resource-uuid="84ad936f-4e61-45bb-94a2-010d6e6dd047" href="/fs/resource-manager/view/84ad936f-4e61-45bb-94a2-010d6e6dd047" target="_blank">EyeMed360 Savings (PDF)</a></li>
+<li><a data-file-name="CCSDEyeMedVirtualBenefitFair.pdf" data-resource-uuid="5eab68eb-2d38-4b0a-b26c-81c0b4788d82" href="/fs/resource-manager/view/5eab68eb-2d38-4b0a-b26c-81c0b4788d82" target="_blank">EyeMed Virtual Benefit Fair (PDF)</a></li>
+</ul>
+<p><b>Travel Assistance, ID Theft, Beneficiary Assistance &amp; Estate Guidance / Symetra</b></p>
+<p>Whether you’re managing a loved one’s final affairs, are in need of assistance while traveling, or looking for guidance on how to resolve identity theft, Symetra Support services offered through your group coverage provides direct assistance when you need it most.</p>
+<ul>
+<li><a data-file-name="SymetraLifeBenefitSummary.pdf" data-resource-uuid="f6f33c3c-0dec-43f6-8341-ba00f5f5150e" href="/fs/resource-manager/view/f6f33c3c-0dec-43f6-8341-ba00f5f5150e">Symetra Support For Life's Challenges (PDF)</a></li>
+</ul>
+<p><b>Life and Long Term Disability/Symetra</b></p>
+<ul>
+<li><a data-file-name="SymetraLifeBenefitSummary1.pdf" data-resource-uuid="1eff64d3-91f8-4ad2-86d5-8e9c163bd29b" href="/fs/resource-manager/view/1eff64d3-91f8-4ad2-86d5-8e9c163bd29b" target="_blank">Symetra Life Benefit Summary (PDF)</a></li>
+<li><a data-file-name="SymetraPortabilityConversion.pdf" data-resource-uuid="c4531967-5ad3-4187-a8d4-9a29a72099ff" href="/fs/resource-manager/view/c4531967-5ad3-4187-a8d4-9a29a72099ff" target="_blank">Symetra Life - Portability vs. Conversion (PDF)</a></li>
+<li><a data-file-name="SymetraLifePortabilityKit.pdf" data-resource-uuid="100299d7-fac0-49a3-ac86-a0b1e5c2e3af" href="/fs/resource-manager/view/100299d7-fac0-49a3-ac86-a0b1e5c2e3af" target="_blank">Symetra Life - Group Life Insurance Portability Kit (PDF)</a></li>
+<li><a data-file-name="SymetraLifeConversionKit.pdf" data-resource-uuid="883f6fcf-ebaa-4f07-a0bc-d175281f04a2" href="/fs/resource-manager/view/883f6fcf-ebaa-4f07-a0bc-d175281f04a2" target="_blank">Symetra Life - Group Life Insurance Conversion Kit (PDF)</a></li>
+<li><a data-file-name="SymetraLongTermDisabilityBenefitSummary.pdf" data-resource-uuid="351249af-63d0-48fd-b693-c52bacde77af" href="/fs/resource-manager/view/351249af-63d0-48fd-b693-c52bacde77af" target="_blank">Symetra Long Term Disability Benefit Summary (PDF)</a></li>
+</ul>
+<p><strong>Administrative Staff</strong><br/>
+Please call CCASAPE<br/>
+702-796-9602 <br/>
+<strong>To learn more about your benefits click here</strong> <a href="https://www.ccasa.net/" rel="nofollow" target="_blank">ccasa.net</a></p>
+<p><strong>Licensed &amp; Certified Staff</strong><br/>
+Please call the Teachers Health Trust<br/>
+702-794-0272<br/>
+<strong>To learn more about your benefits click here</strong> <a href="https://www.ththealth.org/" rel="nofollow" target="_blank">ththealth.org</a></p>
+<hr/>
+<h3>Questions About Medicare?</h3>
+<p>Are you nearing age 65 and have questions about your Medicare options? You can talk or live chat with a real person, 24 hours a day, 7 days a week (except some federal holidays).</p>
+<p><strong>1-800-MEDICARE (1-800-633-4227)</strong><br/>
+<a href="https://www.medicare.gov/talk-to-someone" rel="nofollow" target="_blank">Contact Medicare</a></p>
+<p>If you or a dependent are enrolling in Medicare Part B, the Benefits Department completes the CMS-L564 (CMS-R-297) on your behalf. Section B is the employer portion of this form that confirms the dates of enrollment in the CCSD medical plan. Please call our team to request this form for you or your dependent. We are available Monday - Friday, 7:30am to 5:00pm.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_154125" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_154125" aria-expanded="false" href="#fs-panel-154125" role="button">Programs and Plans</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-154125"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_154126">
+<div class="fsElementContent">
+<h3>Life Connection Employee Assistance and Worklife Program</h3>
+<p>For CCSD employees in need of assistance, the Life Connection Employee Assistance and Worklife Program is available to CCSD employees. This resource provides counseling services, as well as support for legal, financial, child, eldercare, and daily living needs. CCSD employees can call 1-800-280-3782 or visit the <a href="http://bhoptions.com/" rel="nofollow" target="_blank">www.bhoptions.com</a>.</p>
+<hr/>
+<p><a data-file-name="2023-CCSD-EAP-Benefits-Highlights-Flyer.pdf" data-resource-uuid="bba6fd1f-d448-4bc6-83c3-65aa79bd16aa" href="/fs/resource-manager/view/bba6fd1f-d448-4bc6-83c3-65aa79bd16aa" target="_blank">CCSD Employee Assistance Program Flyer (PDF)</a><br/>
+<a href="https://www.brainshark.com/1/player/uhc?&amp;fb=0&amp;r3f1=&amp;custom=ccsdtlceap" rel="nofollow" target="_blank">CCSD "TLC" Employee Assistance Program Orientation</a><br/>
+<br/>
+<a data-page-name="Community" href="/fs/pages/1090">Additional CCSD-sponsored Mental Health Services</a></p>
+<hr/>
+<h3>403(b) and 457(b) Savings Plans</h3>
+<p>CCSD continually strives to offer and educate staff about our unique and advantageous benefits. One such benefit is our elective <strong>Tax Savings Retirement Savings Plan(s) </strong>that employees can utilize to help provide financial security at retirement. For guides and annual benefit limits, please visit the link below. TSA Consulting Group, Inc. (TSACG) is the compliance administrator for our plan(s).</p>
+<p><a href="http://www.tsacg.com/individual/plan-sponsor/nevada/clark-county-school-district/" rel="nofollow" target="_blank">Tax Savings Retirement Plans</a><br/>
+<a data-file-name="Approved-403b-457b-Vendors-02012024.pdf" data-resource-uuid="09dbd90c-bd81-4d61-a1fc-135aa99cbe35" href="/fs/resource-manager/view/09dbd90c-bd81-4d61-a1fc-135aa99cbe35" target="_blank">Approved 403(b) and 457(b) Vendors (PDF)</a> (updated 2/01/2024)</p>
+<p>To further encourage participation in our voluntary retirement plans, CCSD now offers an easy and quick 403(b) enrollment option called <strong>QuickENROLL.</strong> This new option helps employees rapidly enroll in a 403(b) retirement savings account without having to conduct initial research or meet with an Investment Provider representative.</p>
+<p><a href="https://www.myquickenroll.com/" rel="nofollow" target="_blank">www.myquickenroll.com</a></p>
+<p>In addition, the <a href="https://usrbpfinancialwellness.com/" rel="nofollow" target="_blank">Financial Wellness</a> page covers areas such as managing personal finances, college funding options, and how to navigate Social Security when the time comes. You will find calculators, videos, and informative content on various topics to help guide you in your planning process.</p>
+<ul><br/>
+<li><a data-file-name="2026_Meaningful_Notice.pdf" data-resource-uuid="edf5fed2-80f9-4e6c-bcd2-7bcb9f34fc9a" href="/fs/resource-manager/view/edf5fed2-80f9-4e6c-bcd2-7bcb9f34fc9a" target="_blank">Meaningful Notice &amp; Plan Summary Guide 2026</a></li>
+<li><a data-file-name="2026_Annual_Retirement_Benefits_Guide.pdf" data-resource-uuid="77aeca88-f97d-45f2-b649-e35e5e55b80a" href="/fs/resource-manager/view/77aeca88-f97d-45f2-b649-e35e5e55b80a" target="_blank">Annual Retirement Benefits Guide 2026</a></li>
+<li><a data-file-name="2026_Contribution_Guidelines_for_457___403_Account.pdf" data-resource-uuid="936aae35-088d-4006-a016-b8d9481c3d96" href="/fs/resource-manager/view/936aae35-088d-4006-a016-b8d9481c3d96" target="_blank">Maximum Allowable Contribution Guidelines 2026</a></li>
+<li><a data-file-name="2026_403_b__and_457_b__Plan_Comparison.pdf" data-resource-uuid="ec25c682-1b19-45f1-a616-e1f78f39b10c" href="/fs/resource-manager/view/ec25c682-1b19-45f1-a616-e1f78f39b10c" target="_blank">403(b) and 457(b) Plan Comparison 2026</a></li>
+</ul>
+<hr/>
+<h3>Flexible Spending Accounts</h3>
+<p><a href="https://americanfidelity.com/pages/clark-county-schools/?wvideo=ivm9w7kztt" rel="nofollow" target="_blank">Flexible Spending Accounts Video</a></p>
+<h3>Retirement Plan</h3>
+<p><a href="https://www.nvpers.org/front" rel="nofollow" target="_blank">Public Employees™ Retirement System of Nevada (PERS)</a><br/>
+702-486-3900<br/>
+866-473-7768</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_154127" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_154127" aria-expanded="false" href="#fs-panel-154127" role="button">Payroll Deductions</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-154127"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_154128">
+<div class="fsElementContent">
+<h3>Voluntary Supplemental Benefits Available Via Payroll Deduction</h3>
+<p>Below is a list of companies offering voluntary benefits. CCSD does not endorse any of these products and the list is for informational purposes only.</p>
+<h4>Auto/Property Insurance</h4>
+<p><a href="http://www.horacemann.com/" rel="nofollow" target="_blank">Horace Mann</a><br/>
+702-895-9230</p>
+<h4>Supplemental Insurance</h4>
+<p><a href="http://www.aflac.com/" rel="nofollow" target="_blank">AFLAC</a><br/>
+702-312-3522</p>
+<p><a href="http://www.afadvantage.com/products/" rel="nofollow" target="_blank">American Fidelity</a><br/>
+702-433-5333</p>
+<p><a href="http://www.coloniallife.com/" rel="nofollow" target="_blank">Colonial Life</a><br/>
+(800) 325-4368</p>
+<p><a href="http://www.horacemann.com/" rel="nofollow" target="_blank">Horace Mann</a><br/>
+702-895-9230</p>
+<p><a href="http://www.wisnv.com/" rel="nofollow" target="_blank">Western Insurance Specialties</a><br/>
+800-342-0707</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_154129" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_154129" aria-expanded="false" href="#fs-panel-154129" role="button">Memberships</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-154129"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_154130">
+<div class="fsElementContent">
+<figure class="fsImage"><picture><img alt="ccsd employee compensation benefits graphic" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1768001261/ccsdnet/dk1bkxx8znqgbfkztppd/CCSD_EmpCompBenegraphic.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1768001261/ccsdnet/dk1bkxx8znqgbfkztppd/CCSD_EmpCompBenegraphic.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1768001261/ccsdnet/dk1bkxx8znqgbfkztppd/CCSD_EmpCompBenegraphic.png%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1768001261/ccsdnet/dk1bkxx8znqgbfkztppd/CCSD_EmpCompBenegraphic.png%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1768001261/ccsdnet/dk1bkxx8znqgbfkztppd/CCSD_EmpCompBenegraphic.png%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1768001261/ccsdnet/dk1bkxx8znqgbfkztppd/CCSD_EmpCompBenegraphic.png%22,%22width%22:2200}]" data-resource-description="" data-resource-filename="CCSD_EmpCompBenegraphic.png" data-resource-uuid="6f94d070-80be-4537-8c05-49d9cbbb6c54" src=""/></picture></figure>
+<p><a href="https://www.ccasa.net/" id="we-are" rel="nofollow">CCASAPE</a></p>
+<p>HEALTH &amp; WELFARE TRUST<br/>
+4055 SOUTH SPENCER STREET, SUITE 230<br/>
+LAS VEGAS, NV 89119<br/>
+(702) 796 - 9602<br/>
+MEMBERSHIP<br/>
+ENROLLMENT: OPEN<br/>
+WITHDRAWAL: BY SEPT 15</p>
+<p><a href="https://new.ccea-nv.org/" id="we-are" rel="nofollow">CCEA</a></p>
+<p>TEACHERS HEALTH TRUST<br/>
+4230 MCLEOD DRIVE<br/>
+LAS VEGAS, NV 89121<br/>
+(702) 733 - 3063<br/>
+MEMBERSHIP<br/>
+ENROLLMENT: OPEN<br/>
+WITHDRAWAL: JULY 1 - 15</p>
+<p><a href="http://www.esea-nv.org/" id="we-are" rel="nofollow">ESEA</a></p>
+<p>CCSD HEALTH &amp; WELFARE<br/>
+3511 EAST HARMON AVENUE<br/>
+LAS VEGAS, NV 89121<br/>
+(702) 794 - 2537<br/>
+MEMBERSHIP<br/>
+ENROLLMENT: OPEN<br/>
+WITHDRAWAL: JULY 1 - 15</p>
+<p>PAA</p>
+<p>CCSD HEALTH &amp; WELFARE<br/>
+PO BOX 530336<br/>
+HENDERSON, NV, 89053<br/>
+MEMBERSHIP<br/>
+ENROLLMENT: OPEN<br/>
+WITHDRAWAL: BY SEPT 15</p>
+<p><a href="https://www.poaccsd.com/" id="we-are" rel="nofollow">POA</a></p>
+<p>CCSD HEALTH &amp; WELFARE<br/>
+145 PANAMA STREET<br/>
+HENDERSON, NV 89015<br/>
+POACCSD.COM (702) 897 - 9366 MEMBERSHIP<br/>
+ENROLLMENT: OPEN<br/>
+WITHDRAWAL: BY SEPT 15</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_154131" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_154131" aria-expanded="false" href="#fs-panel-154131" role="button">Donations</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-154131"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_154132">
+<div class="fsElementContent">
+<h3>Donations</h3>
+<p><a href="http://vegaspbs.org/" target="_blank" title="Vegas PBS">Vegas PBS</a></p>
+<p>It is our hope that you will consider supporting public television in our community by becoming a member of our broadcast family.</p>
+<p>Like you, <a href="https://www.vegaspbs.org/" target="_blank" title="Vegas PBS">Vegas PBS</a> is part of the Clark County School District. We are a self-funded, donor supported television station serving Las Vegas. Your <a href="https://www.vegaspbs.org/support/membership/" target="_blank" title="Vegas PBS Membership">Vegas PBS membership</a> helps provide thousands of educational workshops to CCSD students each year, as well as professional training to CCSD teachers.</p>
+<p>Vegas PBS is dedicated to enriching lives in Southern Nevada using television and other technologies to educate and individuals. Beyond providing access to thoughtful and thought-provoking media, Vegas PBS supports our community with free access to hundreds of thousands of classroom-ready digital learning resources for educators, supporting children, parents and caregivers through our <a href="https://www.vegaspbs.org/rtl/" target="_blank" title="Ready To Learn">Ready To Learn</a> initiative and providing free media resources to serve community members with special needs through our <a href="https://www.vegaspbs.org/special-needs/" target="_blank" title="Special Needs Resource Library">Special Needs Resource Library</a>.</p>
+<p>All Vegas PBS members receive 12 monthly issues of the <a href="https://www.vegaspbs.org/source/" target="_blank" title="Vegas PBS Source Magazine">Vegas PBS Source magazine</a>, keeping you up to date on your favorite public television programs. and upcoming programs, concerts, trips and events through our bi-weekly Engage e-newsletter. You will also be eligible for <a href="https://www.vegaspbs.org/passport/" target="_blank" title="Vegas PBS Passport">Vegas PBS Passport</a>, our streaming, on-demand library featuring the best of PBS. Watch individual episodes or entire seasons on any device, whenever you wish.</p>
+<p><a href="http://vegaspbs.org/" title="Vegas PBS">Vegas PBS</a><br/>
+702-799-1010</p>
+<figure class="fsImage"><picture><img alt="vegas pbs logo" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1768001072/ccsdnet/vvwd2twsxv7frizg4tx7/vegas-pbs-logo.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="vegas-pbs-logo.png" data-resource-uuid="eb5cf15f-e4a1-48b3-8800-ca60c9b9bf04" height="auto" src=""/></picture></figure>
+<p><br/>
+<a data-file-name="CCSD-PayrollDeduction-Flyer-Nov2024.pdf" data-resource-uuid="fa9c62c9-d41e-490e-8502-f967d0d6104e" href="/fs/resource-manager/view/fa9c62c9-d41e-490e-8502-f967d0d6104e" target="_blank" title="Vegas PBS Payroll Deduction Form">Vegas PBS Payroll Deduction Form</a></p>
+<hr/>
+<p><a href="https://uwsn.org/ccsd-workplace-giving-campaign/" rel="nofollow" target="_blank">United Way of Southern Nevada (UWSN)</a></p>
+<p>United Way of Southern Nevada (UWSN) believes that everyone deserves a roof over their heads, a good job, and access to a quality education. For over 65 years, UWSN has united our community to improve people’s lives. UWSN is proud of the strong partnership we have with the leadership and staff at Clark County School District (CCSD) in support of our local community.</p>
+<p>Together, UNITED, we have the ability to serve the most vulnerable CCSD students in our community and give them hope for the future, because of generous donors like you. Remember what is raised here, stays here!</p>
+<p>Thank you for making a difference.</p>
+<p><a href="http://www.uwsn.org/" rel="nofollow" target="_blank">United Way</a><br/>
+702-892-2367</p>
+<figure class="fsImage"><picture><img alt="united way of southern nevada logo" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1768001073/ccsdnet/qdlir5d0qymbsysleoe9/united-way.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1768001073/ccsdnet/qdlir5d0qymbsysleoe9/united-way.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1768001073/ccsdnet/qdlir5d0qymbsysleoe9/united-way.png%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1768001073/ccsdnet/qdlir5d0qymbsysleoe9/united-way.png%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1768001073/ccsdnet/qdlir5d0qymbsysleoe9/united-way.png%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1768001073/ccsdnet/qdlir5d0qymbsysleoe9/united-way.png%22,%22width%22:2200}]" data-resource-description="" data-resource-filename="united-way.png" data-resource-uuid="3baeaa1e-82b7-4c44-99a0-87ee82dbb972" height="auto" src="" width="212"/></picture></figure>
+<hr/>
+<p><a href="https://thepef.org/" rel="nofollow" target="_blank">Public Education Foundation</a><br/>
+702-799-1042</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_154133" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_154133" aria-expanded="false" href="#fs-panel-154133" role="button">Contact Information</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-154133"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_154134">
+<div class="fsElementContent">
+<p>Si necesita ayuda en español, por favor llame al Departamento de Beneficios del CCSD.</p>
+<h3>Contact Information</h3>
+<p><strong>For questions about your Medical, Dental, Vision and Life Benefits:</strong></p>
+<p><strong>Licensed &amp; Certified Staff</strong><br/>
+Please call the <strong>Teachers Health Trust</strong><br/>
+702-794-0272<br/>
+<strong>To learn more about your benefits:</strong> <a href="https://www.ththealth.org/" rel="nofollow" target="_blank">ththealth.org</a></p>
+<p><strong>Administrative Staff</strong><br/>
+Please call <strong>CCASAPE</strong><br/>
+702-796-9602<br/>
+<strong>To learn more about your benefits:</strong> <a href="https://www.ccasa.net/" rel="nofollow" target="_blank">ccasa.net</a></p>
+<p><strong>Support Professionals &amp; Police Personnel</strong><br/>
+Please call <strong>CCSD Benefits</strong><br/>
+702-799-5418<br/>
+<strong>To learn more about your benefits, click the <a data-page-name="Employee Health and Wellness Benefits" href="/fs/pages/1287">Group Health Insurance</a> tab above.</strong></p>
+<p>For more information about the <strong>403(b)/457(b)</strong> options, <strong>Employee Assistance Program, Flexible Spending Account</strong> and <strong>Supplemental Voluntary Benefits,</strong> click on the <a data-page-name="Employee Health and Wellness Benefits" href="/fs/pages/1287">Programs/Plans</a> or <a data-page-name="Employee Health and Wellness Benefits" href="/fs/pages/1287">Payroll Deductions</a> tabs above.</p>
+<p><strong>For additional assistance, please contact:</strong></p>
+<p><strong>CCSD Benefits</strong><br/>
+2832 E. Flamingo<br/>
+Las Vegas, NV 89121<br/>
+Phone: 702-799-5418<br/>
+Fax: 702-799-2918</p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

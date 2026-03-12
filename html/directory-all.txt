@@ -1,0 +1,49 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Directory</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10272">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_10273">
+<div class="fsElement fsLayout fsTwoColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10277">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_10278">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_10279">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="School" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756497081/ccsdnet/ufhrqr9ubkzdajqueu3e/school.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="school.png" data-resource-uuid="102c0c8d-fcba-4aa1-89c6-032723a05f8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>School Directory</h4>
+<a class="button-1" data-file-name="3-2-2026-CCSD-School-Directory.pdf" data-resource-uuid="e863dfd9-8185-4074-9b8f-a3bc4b87656b" href="/fs/resource-manager/view/e863dfd9-8185-4074-9b8f-a3bc4b87656b" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_10280">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_10281">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Clark County School District Support Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612405/ccsdnet/alsm6euugks1eyfw19uf/icons8-people-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-people-50.png" data-resource-uuid="03e35093-6965-4d74-8616-29491521d33e" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Staff Directory</h4>
+<a class="button-1" data-file-name="ccsd-administrative-telephone-directory.pdf" data-resource-uuid="51257289-0f20-4148-96f0-d88fd216e850" href="/fs/resource-manager/view/51257289-0f20-4148-96f0-d88fd216e850" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_194344">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_194345">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_194347">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="School" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756497081/ccsdnet/ufhrqr9ubkzdajqueu3e/school.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="school.png" data-resource-uuid="102c0c8d-fcba-4aa1-89c6-032723a05f8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>CCSD Region Superintendents and School Directories</h4>
+<a class="button-1" data-page-name="School Directories" href="/fs/pages/22196" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_194346">
+</div>
+</div>
+</div>
+</div>
+</main>

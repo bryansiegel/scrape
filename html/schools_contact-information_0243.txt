@@ -10,7 +10,8 @@
                 KELLER, DUANE D. MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Nuanez, Brittney Elaine <br>
+                        
+Principal: Nuanez, Brittney Elaine<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-3220<br/>
                                 Fax: 702-799-3226<br/>
 <a href="http://maps.google.com/maps?q=301 FOGG STREET,+LAS VEGAS,+NV+89110">Map</a>
-                                 | <a href="http://kellermslv.com">Website</a> </br></br></br></p>
+                                 | <a href="http://kellermslv.com">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Building <strong>Dreams</strong> through <strong>D</strong>etermination and <strong>K</strong>nowledge.</p> <p><b>Mission:</b> We will build a student-centered science studies institute driven by high expectations for academic success. We will provide rigorous instruction where students actively participate in their learning and achievement. We will provide opportunities for teachers, students, and Keller community to foster meaningful relationships. Through relevant interactions and experiences, DDK graduates will become equipped with appropriate skills and proper work ethic to face the challenges of the 21st Century and beyond.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

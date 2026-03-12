@@ -10,7 +10,8 @@
                 LAUGHLIN JHS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Estes, Dawn L<br>
+                        
+Principal: Estes, Dawn L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-298-1996<br/>
                                 Fax: 702-298-5493<br/>
 <a href="http://maps.google.com/maps?q=1900 COUGAR DRIVE,+LAUGHLIN,+NV+89029">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/laughlinjrsrhs/home">Website</a> </br></br></br></p>
-<b>Region:</b> 3                                                    </div>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/laughlinjrsrhs/home">Website</a> 
+<b>Region:</b> 3                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

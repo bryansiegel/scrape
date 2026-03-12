@@ -10,7 +10,8 @@
                 BARBER, SHIRLEY A. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Granger, Jeffrey A<br>
+                        
+Principal: Granger, Jeffrey A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-5915<br/>
                                 Fax: 702-799-5929<br/>
 <a href="http://maps.google.com/maps?q=2002 DAVE STREET,+LAS VEGAS,+NV+89183">Map</a>
-                                 | <a href="https://www.shirleybarberelementary.com/">Website</a> </br></br></br></p>
-<b>Region:</b> 3                                                    </div>
+                                 | <a href="https://www.shirleybarberelementary.com/">Website</a> 
+<b>Region:</b> 3                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

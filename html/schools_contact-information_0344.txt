@@ -10,7 +10,8 @@
                 TANAKA, WAYNE N. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Catano, Pamela A<br>
+                        
+Principal: Catano, Pamela A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-2504<br/>
                                 Fax: 702-799-1289<br/>
 <a href="http://maps.google.com/maps?q=9135 WEST MAULE AVENUE,+LAS VEGAS,+NV+89148">Map</a>
-                                 | <a href="https://www.tanakaelementary.net">Website</a> </br></br></br></p>
-<b>Region:</b> 2                                                    </div>
+                                 | <a href="https://www.tanakaelementary.net">Website</a> 
+<b>Region:</b> 2                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

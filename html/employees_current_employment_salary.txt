@@ -40,31 +40,28 @@
 <h2>Licensed Personnel Salary Schedule</h2>
 <ul>
 <li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-2025-2026-07-01-2025.pdf" target="_blank">Licensed Professional Salary Table FY 2025-2026 Implementation Date of July 1, 2025 (PDF)</a> (new)</li>
-<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-2024-2025-Reporting.pdf" target="_blank">Licensed Professional Salary Table FY 2024-2025 Implementation Date of September 1, 2024 (PDF)</a> (new)</li>
-<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-2024-2025-PERS-Restoration.pdf" target="_blank">Licensed Professional Salary Table FY 2024-2025 Implementation Date of September 1, 2024  (For Illustrative Purposes)  (PDF)</a> (new)</li>
+<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-2025-2026-with-Benefits.pdf" target="_blank">Licensed Professional Salary Table FY 2026 with Benefits Implementation Date of July 1, 2025 (PDF)</a> (new)</li>
+<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-2024-2025-Reporting.pdf" target="_blank">Licensed Professional Salary Table FY 2024-2025 Implementation Date of September 1, 2024 (PDF)</a> (old)</li>
+<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-2024-2025-PERS-Restoration.pdf" target="_blank">Licensed Professional Salary Table FY 2024-2025 Implementation Date of September 1, 2024  (For Illustrative Purposes)  (PDF)</a> (old)</li>
 <li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-2023-2024-231-Reporting.pdf" target="_blank">Licensed Professional Salary Table FY 2023-2024 Implementation Date of February 1, 2024 (PDF)</a> (old)</li>
 <li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-2023-2024-PERS-Restoration.pdf" target="_blank">Licensed Professional Salary Table FY 2023-2024 Implementation Date of February 1, 2024 (For Illustrative Purposes)  (PDF)</a> (old)</li>
-<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-FY2023-070123.pdf" target="_blank">Professional Salary Table - Fiscal Year 2024 (PDF)</a> (old)</li>
-<!-- 			<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-FY2023.pdf" target="_blank">Professional Salary Table - Fiscal Year 2023 (PDF)</a> (old)</li> -->
-<!--
+<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryScheduleWithBenfitsFY2025.pdf" target="_blank">Licensed Professional Salary Table FY2025 with benefits effective September 1, 2024 (PDF)</a> (old)</li>
+<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-FY2024-Benefits.pdf" target="_blank">Licensed Professional Salary Table FY 2024 with Benefits Implementation Date of July 1, 2024 (PDF)</a> (old)</li>
+<li><a href="/employees/resources/pdf/salary-info/2025-2026-Admin-License-Payroll-Calendar.pdf" target="_blank">2025-2026 Payroll Calendar (PDF)</a></li>
+<li><a href="/employees/resources/pdf/salary-info/2024-2025-Admin-License-Payroll-Calendar.pdf" target="_blank">2024-2025 Payroll Calendar (PDF)</a></li>
+<!-- 			<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-FY2023-070123.pdf" target="_blank">Professional Salary Table - Fiscal Year 2024 (PDF)</a> (old)</li> 
+				<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-FY2023.pdf" target="_blank">Professional Salary Table - Fiscal Year 2023 (PDF)</a> (old)</li> 
 				<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-FY2022-CCEA.pdf" target="_blank">Professional Salary Table - Fiscal Year 2022 (PDF)</a> (old)</li>
 				<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTableFY2022.pdf" target="_blank">Professional Salary Table - Fiscal Year 2022 (PDF)</a> </li>				
 				<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTableFY2021.pdf" target="_blank">Professional Salary Table - Fiscal Year 2021 (PDF)</a> </li>
--->
-<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryScheduleWithBenfitsFY2025.pdf" target="_blank">Licensed Professional Salary Table FY2025 with benefits effective September 1, 2024 (PDF)</a> (new)</li>
-<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable-FY2024-Benefits.pdf" target="_blank">Licensed Professional Salary Table FY 2024 with Benefits Implementation Date of July 1, 2024 (PDF)</a> (old)</li>
-<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable_BenefitsFY2023.pdf" target="_blank">Professional Salary Table with Benefits - Fiscal Year 2023 (PDF)</a> (old)</li>
-<!--
+				<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable_BenefitsFY2023.pdf" target="_blank">Professional Salary Table with Benefits - Fiscal Year 2023 (PDF)</a> (old)</li>
 				<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable_BenefitsFY2022-3percent.pdf" target="_blank">Professional Salary Table with Benefits - Fiscal Year 2022 (PDF)</a></li>
 				<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable_BenefitsFY2022.pdf" target="_blank">Professional Salary Table with Benefits - Fiscal Year 2022 (PDF)</a></li>
 				<li><a href="/employees/resources/pdf/salary-info/LicensedSalaryTable_BenefitsFY2021.pdf" target="_blank">Professional Salary Table with Benefits - Fiscal Year 2021 (PDF)</a></li>
--->
-<!-- 			<li><a href="/employees/resources/pdf/salary-info/licensed-professional-salary-table-09302019.pdf" target="_blank">Professional Salary Table - Effective July 1, 2019 (PDF)</a></li> -->
-<li><a href="/employees/resources/pdf/salary-info/2015-2016-Transitional-Salary-Schedule.pdf" target="_blank">Professional Salary Table - 2015-2016 - Transitional Salary Schedule (PDF)</a></li>
-<li><a href="/employees/resources/pdf/salary-info/2025-2026-Admin-License-Payroll-Calendar.pdf" target="_blank">2025-2026 Payroll Calendar (PDF)</a></li>
-<li><a href="/employees/resources/pdf/salary-info/2024-2025-Admin-License-Payroll-Calendar.pdf" target="_blank">2024-2025 Payroll Calendar (PDF)</a></li>
-<!-- 			<li><a href="/employees/resources/pdf/salary-info/2022-2023-HCM-Admin-Payroll-Calendar.pdf" target="_blank">2022-2023 Payroll Calendar (PDF)</a> (revised June 28, 2022)</li> -->
-<!-- 				<li><a href="/employees/resources/pdf/salary-info/2023-2024-HCM-Admin-Payroll-Calendar.pdf" target="_blank">2023-2024 Payroll Calendar (PDF)</a></li> -->
+				<li><a href="/employees/resources/pdf/salary-info/licensed-professional-salary-table-09302019.pdf" target="_blank">Professional Salary Table - Effective July 1, 2019 (PDF)</a></li> 
+				<li><a href="/employees/resources/pdf/salary-info/2015-2016-Transitional-Salary-Schedule.pdf" target="_blank">Professional Salary Table - 2015-2016 - Transitional Salary Schedule (PDF)</a></li> 
+			 	<li><a href="/employees/resources/pdf/salary-info/2022-2023-HCM-Admin-Payroll-Calendar.pdf" target="_blank">2022-2023 Payroll Calendar (PDF)</a> (revised June 28, 2022)</li> 
+ 				<li><a href="/employees/resources/pdf/salary-info/2023-2024-HCM-Admin-Payroll-Calendar.pdf" target="_blank">2023-2024 Payroll Calendar (PDF)</a></li> -->
 </ul>
 <h2>Licensed Salary Information</h2>
 <ul>
@@ -81,10 +78,12 @@
 <li><a href="/employees/resources/pdf/salary-info/2022-23PoliceAdminSalaryScheduleFY23.pdf" target="_blank">2022-2023 Police Administrator Salary Schedule - FY2023 (PDF)</a></li>
 <!-- 				<li><a href="/employees/resources/pdf/salary-info/2021-22PoliceAdminSalaryScheduleFY22-SalaryIncrease.pdf" target="_blank">2021-2022 Police Administrative Salary Schedule (PDF)</a></li> -->
 <!-- 				<li><a href="/employees/resources/pdf/salary-info/2021-22PoliceAdminSalaryScheduleFY22-PERSIncrease.pdf" target="_blank">Police Administrator Salary Schedule - FY 2022 (PDF)</a> effective July 1, 2021</li> -->
-<!-- 				<li><a href="/employees/resources/pdf/salary-info/2020-21PoliceAdminSalaryScheduleFY21.pdf" target="_blank">2020-2021 Police Administrator Salary Schedule (PDF)</a></li> -->
+<!-- 				<li><a href="/employees/resources/pdf/salary-info/2020-21PoliceAdminSalaryScheduleFY21.pdf" target="_blank">2020-2021 Police Administrator Salary Schedule (PDF)</a></li> --><li><a href="/employees/resources/pdf/salary-info/Salary_Table_FY2024-2025_POLICE_OFFICERS.pdf" target="_blank">Police Officers Salary Schedule FY2025 (PDF)</a> (new)</li>
 <!-- 				<li><a href="/employees/resources/pdf/Salary_Table_FY2024_POLICE_OFFICERS.pdf" target="_blank">Police Officers Salary Schedule FY2024 (PDF)</a> (new)</li> -->
-<li><a href="/employees/resources/pdf/Salary_Table_FY2022_POLICE_OFFICERS.pdf" target="_blank">Police Officers Salary Schedule FY2022 (PDF)</a> (new)</li>
-<li><a href="/employees/resources/pdf/Salary_Table_FY2021_POLICE_OFFICERS.pdf" target="_blank">Police Officers Salary Schedule FY2021 (PDF)</a> (old)</li>
+<!--
+				<li><a href="/employees/resources/pdf/Salary_Table_FY2022_POLICE_OFFICERS.pdf" target="_blank">Police Officers Salary Schedule FY2022 (PDF)</a> (new)</li>
+				<li><a href="/employees/resources/pdf/Salary_Table_FY2021_POLICE_OFFICERS.pdf" target="_blank">Police Officers Salary Schedule FY2021 (PDF)</a> (old)</li>
+-->
 <!--				<li><a href="/employees/resources/pdf/salary-info/2025-2026-HCM-Support-Subs-Police-PayrollCalendar.pdf" target="_blank">2025-2026 Payroll Calendar (PDF)</a></li>-->
 <li><a href="/employees/resources/pdf/salary-info/Calendar for Support-Professional-Police25-26.pdf" target="_blank">2025-2026 Payroll Calendar (PDF)</a></li>
 <li><a href="/employees/resources/pdf/salary-info/2024-2025-HCM-Support-Subs-Police-PayrollCalendar.pdf" target="_blank">2024-2025 Payroll Calendar (PDF)</a></li>
@@ -94,9 +93,9 @@
 </ul>
 <h2>Substitute Salary Schedule</h2>
 <ul>
-<li><a href="/employees/resources/pdf/salary-info/Salary-Substitutes-Updated-07-31-2025.pdf" target="_blank">General Salary Schedule (PDF)</a></li>
-<li><a href="/employees/resources/pdf/salary-info/2024-2025Title1-List-071924.pdf" target="_blank">2024-2025 Title 1 School List (PDF)</a></li>
-<li><a href="/employees/resources/pdf/salary-info/2024-2025-list-of-early-hiring-schools.pdf" target="_blank">2024-2025 Early Hiring Schools (PDF)</a></li>
+<li><a href="/employees/resources/pdf/salary-info/Salary-Substitutes-Updated-August_2025.pdf" target="_blank">General Salary Schedule (PDF)</a></li>
+<li><a href="/employees/resources/pdf/salary-info/2025-2026Title1-List.pdf" target="_blank">2025-2026 Title 1 School List (PDF)</a></li>
+<li><a href="/employees/resources/pdf/salary-info/2025-2026-list-of-early-hiring-schools.pdf" target="_blank">2025-2026 Early Hiring Schools (PDF)</a></li>
 <!-- 			<li><a href="/employees/resources/pdf/support-staff-subs-payroll-cal-19-20.pdf" target="_blank">Payroll Calendar (PDF)</a></li> -->
 <!-- 				<li><a href="/employees/resources/pdf/2021-2022-support-staff-subs-payroll-new.pdf" target="_blank">2021-2022 Payroll Calendar (PDF)</a></li> -->
 <li><a href="/employees/resources/pdf/salary-info/Calendar for Support-Professional-Police25-26.pdf" target="_blank">2025-2026 Payroll Calendar (PDF)</a></li>

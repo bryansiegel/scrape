@@ -10,7 +10,8 @@
                 MORRIS SUNSET EAST HIGH SCHOOL<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  White, Stacey L<br>
+                        
+Principal: White, Stacey L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8880<br/>
                                 Fax: 702-799-0789<br/>
 <a href="http://maps.google.com/maps?q=3801 EAST WASHINGTON AVENUE,+LAS VEGAS,+NV+89110">Map</a>
-                                 | <a href="https://morriseast.ccsd.net/">Website</a> </br></br></br></p>
-<b>Region:</b> <p><b>Motto:</b> GRADUATION IS OUR GOAL</p> <p><b>Mission:</b> It is the mission of Sunset Morris Academy to assist the students of the Clark County School District by providing an alternative support system that meets the needs of students that require special assistance and/or unique programs to accomplish their goal of earning a high school diploma.</p>
-</div>
+                                 | <a href="https://morriseast.ccsd.net/">Website</a> 
+<b>Region:</b> AS                                                             <p><b>Motto:</b> GRADUATION IS OUR GOAL</p> <p><b>Mission:</b> It is the mission of Sunset Morris Academy to assist the students of the Clark County School District by providing an alternative support system that meets the needs of students that require special assistance and/or unique programs to accomplish their goal of earning a high school diploma.</p>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

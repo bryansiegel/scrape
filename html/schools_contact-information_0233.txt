@@ -10,7 +10,8 @@
                 WILHELM, ELIZABETH ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Jones, Debra <br>
+                        
+Principal: Jones, Debra<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-1750<br/>
                                 Fax: 702-799-1756<br/>
 <a href="http://maps.google.com/maps?q=609 WEST ALEXANDER ROAD,+NORTH LAS VEGAS,+NV+89032">Map</a>
-                                 | <a href="https://elizabethwilhelmes.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://elizabethwilhelmes.org/">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> Leading the Pack in Education</p> <p><b>Mission:</b> Working together, the staff, students, parents and community of Elizabeth Wilhelm Elementary School are dedicated to building a supportive, risk-free learning environment that empowers students with knowledge, skills, confidence, and a respect for individual differences so that all students become positive contributors to society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

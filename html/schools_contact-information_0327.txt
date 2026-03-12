@@ -10,19 +10,20 @@
                 DECKER, C. H. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Roybal-Benson, Alice M<br>
+                        
+Principal: McCudden, Jordana J<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
-<!-- 								Roybal-Benson, Alice M --><!-- <br> -->
+<!-- 								Mccudden, Jordana J --><!-- <br> -->
                                 3850 SOUTH REDWOOD STREET<br>
                                 LAS VEGAS, NV 89103<br>
                                 Phone: 702-799-5920<br/>
                                 Fax: 702-799-5924<br/>
 <a href="http://maps.google.com/maps?q=3850 SOUTH REDWOOD STREET,+LAS VEGAS,+NV+89103">Map</a>
-                                 | <a href="http://www.jomackeymagnet.org">Website</a> </br></br></br></p>
+                                 | <a href="https://www.deckeres.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Taking Giant Steps Towards Success</p> <p><b>Mission:</b> The mission of C.H. Decker is to provide a safe, positive, friendly, instructional environment that promotes proficient instruction, student learning, and community involvement.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

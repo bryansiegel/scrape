@@ -10,7 +10,8 @@
                 MILLER, BOB MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Wikler, Joshua A<br>
+                        
+Principal: Wikler, Joshua A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-2260<br/>
                                 Fax: 702-799-1309<br/>
 <a href="http://maps.google.com/maps?q=2400 COZY HILL CIRCLE,+HENDERSON,+NV+89052">Map</a>
-                                 | <a href="http://www.bobmillerms.com">Website</a> </br></br></br></p>
+                                 | <a href="http://www.bobmillerms.com">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> We can!  We will!</p> <p><b>Mission:</b> The mission of Bob Miller Middle School is to create a pioneering learning environment that will nurture, stimulate, and challenge adolescent minds in preparation for the future through the development of essential life and academic skills.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

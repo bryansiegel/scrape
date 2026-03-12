@@ -10,7 +10,8 @@
                 COWAN SUNSET SOUTHEAST HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Bryner, Kamille A<br>
+                        
+Principal: Bryner, Kamille A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6370<br/>
                                 Fax: 702-799-6377<br/>
 <a href="http://maps.google.com/maps?q=5300 EAST RUSSELL ROAD,+LAS VEGAS,+NV+89122">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/cowan-sunset-hs/home?authuser=0">Website</a> </br></br></br></p>
-<b>Region:</b> ESD                                                             <p><b>Motto:</b> You are never beaten until you give up!</p> <p><b>Mission:</b> It is the mission of Sunset High School, Cowan Campus, to help students accomplish their goal of earning a high school diploma.</p>
-</div>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/cowan-sunset-hs/home?authuser=0">Website</a> 
+<b>Region:</b> AS                                                             <p><b>Motto:</b> You are never beaten until you give up!</p> <p><b>Mission:</b> It is the mission of Sunset High School, Cowan Campus, to help students accomplish their goal of earning a high school diploma.</p>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

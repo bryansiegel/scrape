@@ -10,7 +10,8 @@
                 BRINLEY, J. HAROLD MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Switzer, Maria A<br>
+                        
+Principal: Switzer, Maria A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4550<br/>
                                 Fax: 702-799-4549<br/>
 <a href="http://maps.google.com/maps?q=2422 MAVERICK STREET,+LAS VEGAS,+NV+89108">Map</a>
-                                 | <a href="https://brinleyms.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://brinleyms.com/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Promoting Achievement, Creating Success</p> <p><b>Mission:</b> We are dedicated to the development of life skills by promoting literacy, fostering achievement, establishing good habits, and making appropriate choices to provide students with the maximum opportunity for success.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -1,0 +1,176 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">About</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_2446">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_2447">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout fsStyleAutoclear" data-use-new="true" id="fsEl_136788">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_136789">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_136810">
+<div class="fsElementContent">
+<div>
+<p>Established in 1956, the<strong> Clark County School District (CCSD)</strong> is the number one choice for families and students. As the nation’s <strong>fifth-largest school district</strong>, we educate <strong>280,000 students</strong> – offering a variety of nationally recognized programs, including Magnet Schools, Career and Technical Academies, and Advanced Placement programs. CCSD educates 64 percent of the students in Nevada and works closely with community partners and business leaders to educate students to compete in a global economy.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_136790">
+<div class="fsElement fsResourceElement fsSingleItem img-border-radius" data-source-element-id="136811" data-source-page-id="439" data-use-new="true" id="fsEl_136811">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="About Clark County School District" data-aspect-ratio="0.5805148914689551" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1751474802/ccsdnet/vegpngbyrmiagtfzpjf3/AboutClarkCountySchoolDistrict.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1751474802/ccsdnet/vegpngbyrmiagtfzpjf3/AboutClarkCountySchoolDistrict.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1751474802/ccsdnet/vegpngbyrmiagtfzpjf3/AboutClarkCountySchoolDistrict.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1751474802/ccsdnet/vegpngbyrmiagtfzpjf3/AboutClarkCountySchoolDistrict.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1751474802/ccsdnet/vegpngbyrmiagtfzpjf3/AboutClarkCountySchoolDistrict.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1751474802/ccsdnet/vegpngbyrmiagtfzpjf3/AboutClarkCountySchoolDistrict.jpg%22,%22width%22:1981}]" data-permitted-user="true" data-resource-title="AboutClarkCountySchoolDistrict.jpg" data-resource-uuid="e59b021c-8b59-4c10-b179-768d0e9353b0"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_136893">
+<div class="fsElementContent">
+<div style="background-color: #0d3a5d; color: white !important; padding: 20px; text-align:center;border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+<h2 style="color:white !important;">Our Mission</h2>
+<p>All students progress in school and graduate prepared to succeed and contribute in a diverse global society.</p>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_173216">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173217">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173218">
+<div class="fsElementContent">
+<h3>Operation: Destination District</h3>
+<p>CCSD is at a pivotal moment for students, families, staff members, and our entire community as we work to transform our schools to meet the needs of today’s students and workforce.</p>
+<p>Superintendent Ebert’s 100-Day plan made strides in improving CCSD’s climate and culture. We’re building on increased student achievement with our focus on the “Core Four” academic priorities.</p>
+<h5>Up next</h5>
+<p>We are co-designing a strategic plan to set goals and allocate resources, a Facilities Master Plan to ensure every student has access to an up-to-date school with the technology and programming they need to succeed, and an efficiency study to ensure every taxpayer dollar is maximized.</p>
+<p><a class="button-1" data-page-name="Operation Destination District" href="/fs/pages/19300" target="_blank">Learn More</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173219">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="173220" data-source-page-id="439" data-use-new="true" id="fsEl_173220">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Students in classroom Operation Destination District" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="0R3A4710.jpg" data-resource-uuid="b03edff7-8051-4b12-9e36-f138f35da592"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideRightLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_10089">
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_10090">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="10092" data-source-page-id="439" data-use-new="true" id="fsEl_10092">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Board of Trustees" data-aspect-ratio="0.30875" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1764877023/ccsdnet/a4voopgsg7oftxaznemn/1-BoardofTrusteesGroupPhoto_2025.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1764877023/ccsdnet/a4voopgsg7oftxaznemn/1-BoardofTrusteesGroupPhoto_2025.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764877023/ccsdnet/a4voopgsg7oftxaznemn/1-BoardofTrusteesGroupPhoto_2025.png%22,%22width%22:800}]" data-permitted-user="true" data-resource-title="1-BoardofTrusteesGroupPhoto_2025.png" data-resource-uuid="c4e38ea1-d8ff-470e-b800-11214b784ba9"/></picture></figure></article>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_10091">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_4537">
+<div class="fsElementContent">
+<h3>CCSD Board of Trustees</h3>
+<p>The Clark County Board of School Trustees is a dedicated group of community leaders who are elected and/or appointed to overlapping four-year terms and represent a specific geographic region of Clark County. Although each trustee represents a different region, they are dedicated to ensuring the success of every student in the district through clear, concise direction to the superintendent. The trustees bring a wealth of experience and concern for children to their position.</p>
+<p><a class="button-1" data-page-name="Board of School Trustees" href="/fs/pages/802">More Info</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10096">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_10097">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10099">
+<div class="fsElementContent">
+<h2>Superintendent</h2>
+<h3>Jhone Ebert</h3>
+<p>Jhone Ebert brings over three decades of experience, passion, and proven leadership to her Superintendent of the Clark County School District (CCSD) role. A longtime Southern Nevada resident and former CCSD educator, Superintendent Ebert has dedicated her career to ensuring that every student—no matter their background or zip code—has the opportunity to succeed in school and life.</p>
+<p><a class="button-1" data-page-name="Superintendent" href="/fs/pages/1077">Learn More About Jhone Ebert</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_10098">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="10100" data-source-page-id="439" data-use-new="true" id="fsEl_10100">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Jhone Ebert" data-aspect-ratio="0.8316666666666667" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755191751/ccsdnet/auttiaogbne46v6dlnt5/jhone-happy.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755191751/ccsdnet/auttiaogbne46v6dlnt5/jhone-happy.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755191751/ccsdnet/auttiaogbne46v6dlnt5/jhone-happy.jpg%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="jhone-happy.jpg" data-resource-uuid="03057df0-4520-4983-9751-111297575819"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_136816">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-136817" role="presentation">
+<a aria-controls="fsEl_136817" aria-selected="false" href="#fs-panel-136817" role="tab">A Diverse and Inclusive Community</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-136819" role="presentation">
+<a aria-controls="fsEl_136819" aria-selected="false" href="#fs-panel-136819" role="tab">Academic Excellence and Innovation</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-136821" role="presentation">
+<a aria-controls="fsEl_136821" aria-selected="false" href="#fs-panel-136821" role="tab">Serving the Community</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_136817" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_136817" aria-expanded="false" href="#fs-panel-136817" role="button">A Diverse and Inclusive Community</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-136817"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_136818">
+<div class="fsElementContent">
+<p>Our student body reflects the rich cultural diversity of Southern Nevada, representing <strong>133 countries</strong> and speaking <strong>114 languages</strong>. The district’s demographics include:</p>
+<ul>
+<li>48.3% Hispanic/Latino</li>
+<li>20.0% White/Caucasian</li>
+<li>15.9% Black/African American</li>
+<li>6.1% Multi-racial</li>
+<li>1.6% Asian</li>
+<li>0.3% Hawaiian/Pacific Islander</li>
+<li>0.3% American Indian/Alaska Native</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_136819" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_136819" aria-expanded="false" href="#fs-panel-136819" role="button">Academic Excellence and Innovation</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-136819"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_136820">
+<div class="fsElementContent">
+<div>CCSD offers a wide range of academic opportunities to meet the needs of all students:
+<ul>
+<li><strong>34 Magnet Schools</strong></li>
+<li><strong>8 Career &amp; Technical Academies</strong></li>
+<li><strong>1 Central Technical Training Academy</strong></li>
+<li><strong>Online learning</strong> through Nevada Learning Academy</li>
+<li><strong>International Baccalaureate (IB)</strong> programs</li>
+<li><strong>STEM, STEAM, and leadership-focused programs</strong></li>
+</ul>
+<p>More than <strong>56,000 students</strong> are enrolled in Career and Technical Education (CTE) courses, and <strong>13.9%</strong> of students receive special education services.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_136821" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_136821" aria-expanded="false" href="#fs-panel-136821" role="button">Serving the Community</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-136821"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_136822">
+<div class="fsElementContent">
+<div>As a vital part of Southern Nevada, CCSD provides essential services that support student well-being and academic success:
+<ul>
+<li><strong>42.7 million meals</strong> served annually</li>
+<li><strong>Transportation for over 122,000 students</strong></li>
+<li><strong>Support for over 4% of students experiencing homelessness</strong></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_143543">
+<div class="fsElementContent">
+<p style="text-align:center;"><a class="button-7" data-page-name="Org Chart" href="/uploaded/themes/default_25/directory/org-chart/ccsd-org-chart.pdf" target="_blank">Organizational Chart</a></p>
+</div>
+</div>
+</div>
+</div>
+</main>

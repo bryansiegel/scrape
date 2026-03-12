@@ -1,0 +1,60 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Fingerprinting</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_154149">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_154150">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_154151">
+<div class="fsElementContent">
+<h1>CCSD Fingerprinting Services</h1>
+<p>All fingerprinting services are by <strong>appointment only</strong>. CCSD Fingerprinting Services does not schedule appointments.</p>
+<h3>1. Complete Waiver Form</h3>
+<ul>
+<li>A waiver form must be completed in the application system before your Human Resources representative can schedule your appointment.</li>
+<li>This waiver will be sent to you by your Human Resources representative.</li>
+</ul>
+<h3>2. Submit Payment</h3>
+<!-- 					<h4>Initial educator license</h4> -->
+<p><span>Refunds will not be issued under any circumstances</span>. Do not pay until you are advised to by an Human Resources representative. Ensure that you are paying under the correct payment link and that your waiver has been completed in the application system. A link to the payment screen will be provided with your waiver form.</p>
+<ul>
+<li>Upon submission of the appropriate documentation and the licensing fee, NDE will provide instructions on fingerprinting and approved vendors.</li>
+<li>New Hires $60</li>
+<li>NV DOE License Renewals: $15 <a contenteditable="false" href="https://buy.stripe.com/5kQdR9egkaWkfzT3qV5kk00" style="cursor: pointer;" target="_blank">License Renewals Payments</a></li>
+<li>Contractors: $60</li>
+<li>Regular Status Employees Required to Fingerprint Every 5 Years: $60*</li>
+<li>Volunteers: $55</li>
+<li>Volunteers Required to Fingerprint Every 5 Years: $55</li>
+<li>PreService Students: $55</li>
+</ul>
+<p>Current support professionals on the 5 year fingerprint rotation are not required to pay as per the ESEA Negotiated Agreement.</p>
+<h3>3. Scheduling an Appointment with your Human Resources Representative</h3>
+<p>Licensed employees needing to renew their license with the Nevada Department of Education (NVDOE): <a contenteditable="false" href="tel:702-799-2992,1" style="cursor: pointer;">702-799-2992 (option 1)</a>.</p>
+<ul>
+<li>All licensure fees must be paid to the NVDOE via OPAL prior to scheduling a fingerprint appointment with CCSD.</li>
+<li>CCSD fingerprinting fee is separate from the NVDOE fees charged in OPAL.</li>
+<li>CCSD is an approved fingerprinting vendor for the Nevada Department of Education (NVDOE). For a list of other approved NVDOE fingerprinting locations visit the <a contenteditable="false" href="https://doe.nv.gov/educator-licensure/fingerprinting-and-background-information" style="cursor: pointer;">Nevada Department of Education website</a>.</li>
+</ul>
+<h4>Employees Required to Fingerprint Every 5 Years</h4>
+<ul>
+<li>Support Professionals,Professional-Technical Administrators, Physical and Occupational Therapists: <a contenteditable="false" href="tel:702-799-1094,1" style="cursor: pointer;">702-799-1094, (option 1)</a>.</li>
+<li>Substitutes &amp; Coaches: <a contenteditable="false" href="tel:702-799-5490" style="cursor: pointer;">702-799-5490</a>.</li>
+<li>Contractors &amp; Volunteers: <a contenteditable="false" href="tel:702-799-6423" style="cursor: pointer;">702-799-6423</a>.</li>
+</ul>
+<h3>4. Arriving for your Appointment</h3>
+<ul>
+<li>Must bring an original valid government issued photo ID (Driver’s License, Passport, Instruction Permit, State ID, Military ID, etc.)
+	<ul>
+<li>Expired or Voided IDs will not be accepted unless you can provide both the expired or voided ID and the additional documentation provided to you by DMV.</li>
+<li>Photo/screenshot of photo IDs will not be accepted.</li>
+</ul>
+</li>
+<li>Ensure your hands are clean, free of bandages, cuts/scrapes, and that you have no broken bones, casts, splints, etc.</li>
+<li>Photo/screenshot of your online payment confirmation. Cash payments are not accepted.
+	<ul>
+<li>Proof of payment page contains a long, unique confirmation number. A white page or a page that redirects to your personal information is not a payment confirmation</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</main>

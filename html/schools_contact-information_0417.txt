@@ -10,7 +10,8 @@
                 RED ROCK ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Readye, Chantae <br>
+                        
+Principal: Readye, Chantae<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4223<br/>
                                 Fax: 702-799-4164<br/>
 <a href="http://maps.google.com/maps?q=408 UPLAND BOULEVARD,+LAS VEGAS,+NV+89107">Map</a>
-                                 | <a href="https://www.redrockes.org">Website</a> </br></br></br></p>
+                                 | <a href="https://www.redrockes.org">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Racing to Reach Our Goals</p> <p><b>Mission:</b> Red Rock Elementary School strives to build a strong educational foundation to provide a safe environment, promote learning, and demonstrate respect for self, school, and community.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

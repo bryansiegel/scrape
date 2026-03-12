@@ -10,7 +10,8 @@
                 HEWETSON, HALLE ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Bojorquez, Cecilia <br>
+                        
+Principal: Bojorquez, Cecilia<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7896<br/>
                                 Fax: 702-799-8526<br/>
 <a href="http://maps.google.com/maps?q=701 NORTH 20TH STREET,+LAS VEGAS,+NV+89101">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/hewetson-elementary-school/home">Website</a> </br></br></br></p>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/hewetson-elementary-school/home">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> All children can learn and are capable of academic excellence.</p> <p><b>Mission:</b> The mission of the Halle Hewetson Educational Community is to ensure all our children achieve academic success and develop the skills to become responsible citizens.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

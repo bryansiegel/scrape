@@ -10,7 +10,8 @@
                 DESKIN, RUTHE ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Robbins, Jessica A<br>
+                        
+Principal: Robbins, Jessica A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4600<br/>
                                 Fax: 702-799-4609<br/>
 <a href="http://maps.google.com/maps?q=4550 NORTH PIONEER WAY,+LAS VEGAS,+NV+89129">Map</a>
-                                 | <a href="https://www.ruthedeskineagles.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.ruthedeskineagles.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> The Best of the Best</p> <p><b>Mission:</b> The Ruthe Deskin community is dedicated to facilitating a safe, respectful, positive environment that promotes academic excellence, social success, and encourages students to become responsible citizens and life-long learners.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

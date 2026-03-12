@@ -10,7 +10,8 @@
                 MCMILLAN, JAMES B. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Longmore, Nikki J<br>
+                        
+Principal: Longmore, Nikki J<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4350<br/>
                                 Fax: 702-799-4307<br/>
 <a href="http://maps.google.com/maps?q=7000 WALT LOTT DRIVE,+LAS VEGAS,+NV+89128">Map</a>
-                                 | <a href="https://jamesbmcmillanelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://jamesbmcmillanelementary.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Today We Make A Difference For TomorrowBuilding Academic and Social Success Now And For Our Future</p> <p><b>Mission:</b> We will work together to increase student achievement by providing an instructional program in which identified student needs will determine curriculum implementation, staff development, and instructional planning.  We will maintain a concerned and caring environment, fostering self-responsibility and respect, and creating pride throughout our learning community.  We will establish a positive working relationship, generating activities, communication, and on-going support among staff, students, parents, and the community.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

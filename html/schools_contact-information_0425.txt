@@ -10,7 +10,8 @@
                 ADCOCK, O. K. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  De Mille, Wendy B<br>
+                        
+Principal: De Mille, Wendy B<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4185<br/>
                                 Fax: 702-799-4172<br/>
 <a href="http://maps.google.com/maps?q=6350 HYDE AVENUE,+LAS VEGAS,+NV+89107">Map</a>
-                                 | <a href="https://okadcock.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://okadcock.com/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Striving to Succeed - Soaring to Success</p> <p><b>Mission:</b> All students attending O.K. Adcock Elementary School are entitled to a positive, safe and productive educational environment. An environment rich in learning opportunities and free of any disruptive behavior, which interferes with the teaching and learning process.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

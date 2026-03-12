@@ -10,7 +10,8 @@
                 GARSIDE, FRANK F. JHS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Spurk, Matthew A<br>
+                        
+Principal: Spurk, Matthew A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4245<br/>
                                 Fax: 702-799-4296<br/>
 <a href="http://maps.google.com/maps?q=6371 HYDE AVENUE,+LAS VEGAS,+NV+89107">Map</a>
-                                 | <a href="http://www.garside-ccsd.net">Website</a> </br></br></br></p>
+                                 | <a href="http://www.garside-ccsd.net">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> In All Ways, Our Best</p> <p><b>Mission:</b> The Mission of Frank F. Garside Junior High School is to establish a community of lifelong learners who strive to reach their maximum potential in a safe, civil and productive environment.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

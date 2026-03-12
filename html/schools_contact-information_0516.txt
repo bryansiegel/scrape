@@ -10,7 +10,8 @@
                 LAKE, ROBERT E. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Zepher, Paola Elena <br>
+                        
+Principal: Zepher, Paola Elena<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5530<br/>
                                 Fax: 702-799-0260<br/>
 <a href="http://maps.google.com/maps?q=2904 METEORO STREET,+LAS VEGAS,+NV+89169">Map</a>
-                                 | <a href="https://www.robertlakeelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.robertlakeelementary.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Working Towards Excellence</p> <p><b>Mission:</b> The mission of Robert E. Lake is to provide a safe and orderly environment, to challenge students to achieve success, appreciate diversity, and become life-long learners.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

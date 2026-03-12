@@ -10,7 +10,8 @@
                 LIED STEM ACADEMY<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Thorson, Kelly Thomas<br>
+                        
+Principal: Thorson, Kelly Thomas<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4620<br/>
                                 Fax: 702-799-4626<br/>
 <a href="http://maps.google.com/maps?q=5350 WEST TROPICAL PARKWAY,+NORTH LAS VEGAS,+NV+89130">Map</a>
-                                 | <a href="http://www.liedstemacademy.tech/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.liedstemacademy.tech/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> We take the - Lied - in education.</p> <p><b>Mission:</b> The Mission of Lied Middle School is to provide a safe community where all students may grow academically and socially in order to prepare them for all future endeavors.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

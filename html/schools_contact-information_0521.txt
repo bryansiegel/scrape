@@ -10,7 +10,8 @@
                 KELLY, MATT ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Hall, Jerrell Deborah <br>
+                        
+Principal: Hall, Jerrell Deborah<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4750<br/>
                                 Fax: 702-799-0699<br/>
 <a href="http://maps.google.com/maps?q=1900 NORTH J STREET,+LAS VEGAS,+NV+89106">Map</a>
-                                 | <a href="https://0521-inbox.wixsite.com/kelly">Website</a> </br></br></br></p>
+                                 | <a href="https://0521-inbox.wixsite.com/kelly">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> Dream It, Believe It, Achieve It</p> <p><b>Mission:</b> The vision of Matt Kelly Empowerment Elementary School is to develop a relationship of mutual respect between teachers and students where instruction is delivered to achieve academic rigor.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

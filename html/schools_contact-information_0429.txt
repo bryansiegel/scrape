@@ -10,7 +10,8 @@
                 GRAY, R. GUILD ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Gannon, Ashley R<br>
+                        
+Principal: Gannon, Ashley R<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5950<br/>
                                 Fax: 702-799-5978<br/>
 <a href="http://maps.google.com/maps?q=2825 SOUTH TORREY PINES DRIVE,+LAS VEGAS,+NV+89146">Map</a>
-                                 | <a href="https://www.grayelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.grayelementary.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Excellence in Education is a Gray Matter.</p> <p><b>Mission:</b> Provide students with a strong educational program to promote academic excellence, a positive self-concept, and the social and moral competence to become responsible members of society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

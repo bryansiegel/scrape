@@ -10,7 +10,8 @@
                 SUMMIT VIEW YOUTH CENTER<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Shive, Leilani Irene <br>
+                        
+Principal: Shive, Leilani Irene<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-1623<br/>
                                 Fax: 702-799-1633<br/>
 <a href="http://maps.google.com/maps?q=5730 RANGE ROAD,+LAS VEGAS,+NV+89115">Map</a>
-                                 | <a href="http://www.ccsd.net/schools/contact-information/0744">Website</a> </br></br></br></p>
-<b>Region:</b> CC &amp; E                                                    </div>
+                                 | <a href="http://www.ccsd.net/schools/contact-information/0744">Website</a> 
+<b>Region:</b> AS                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

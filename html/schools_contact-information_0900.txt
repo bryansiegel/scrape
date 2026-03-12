@@ -10,19 +10,20 @@
                 BENNETT, WILLIAM G. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Estes, Dawn <br>
+                        
+Principal: Moss, Jonathan M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
-<!-- 								Estes, Dawn  --><!-- <br> -->
+<!-- 								Moss, Jonathan M --><!-- <br> -->
                                 1450 SPIRIT LANE<br>
                                 LAUGHLIN, NV 89029<br>
                                 Phone: 702-298-3378<br/>
                                 Fax: 702-299-0405<br/>
 <a href="http://maps.google.com/maps?q=1450 SPIRIT LANE,+LAUGHLIN,+NV+89029">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/bennettelem/home">Website</a> </br></br></br></p>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/bennettelem/home">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> A Community of Learners</p> <p><b>Mission:</b> The William G. Bennett Elementary School provides an optimal learning environment where students and adults foster individual potential, interests, and beliefs in becoming caring, creative, responsible citizens and life-long learners.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

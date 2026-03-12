@@ -1,0 +1,299 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Lorena Biassotti</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_109458">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_109459">
+<div class="fsElement fsLayout fsTwoColumnWideRightLayout sub-hero-divider fsStyleAutoclear" data-use-new="true" id="fsEl_109460">
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_109461">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109462">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage" data-widget="image"><picture><img alt="Lorena Biassotti" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764872501/ccsdnet/y2mbm6haww2fdztncbdk/L-Biassotti-Headshot-2025-r21kxje8kbqt1wtysf2dgsig3mq1fizasbplqrao5g.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="L-Biassotti-Headshot-2025-r21kxje8kbqt1wtysf2dgsig3mq1fizasbplqrao5g.jpg" data-resource-uuid="0e4095ec-5c81-42a7-86cf-18b3331387bc" loading="lazy" src="" style="border-radius: 5px;"/></picture></figure>
+<h3>Lorena Biassotti</h3>
+<h5>Member</h5>
+<p>District E</p>
+<p><a href="tel:702-799-CCSD">702-799-CCSD </a></p>
+<p><a class="button-7" href="/about/school-board/contact">Contact</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_109463">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109464">
+<div class="fsElementContent">
+<div style="margin-left: 10px;">
+<p>Lorena (Cardenas) Biassotti is a devoted wife and mother of four. Born in Los Angeles, California, to Mexican immigrant parents who were high school sweethearts from Gardena High, Lorena was raised in Monterey Park in a large, close-knit, church-going family.</p>
+<p>She pursued her studies in Mass Communications in college and contributed to the college newspaper. Before becoming a mother, she worked as a realtor and social worker for the Department of Social Services. However, for the past 17 years, Lorena has dedicated herself to being a stay-at-home mom. Lorena felt compelled to form a local parent group when she saw the need to advocate for her children.</p>
+<p>She believes that all children in America, regardless of their family's income, deserve access to quality education. Lorena has raised her children with strong Christian values, which she believes are essential for building a moral society where all children can thrive, prosper, and live in unity and safety.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_198707">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-198708" role="presentation">
+<a aria-controls="fsEl_198708" aria-selected="false" href="#fs-panel-198708" role="tab">Schools</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_198708" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_198708" aria-expanded="false" href="#fs-panel-198708" role="button">Schools</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-198708"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_198709">
+<div class="fsElementContent">
+<table class="table-styled">
+<thead>
+<tr>
+<th>School</th>
+<th>Level</th>
+<th>District</th>
+<th>Municipality</th>
+<!--
+                            <th>Title</th>
+                            <th>Date</th>
+-->
+</tr>
+</thead>
+<tbody>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Goolsby, Judy and John L. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">McMillan, James B. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Lummis, William ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Ober, D'Vorre and Hal ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Palo Verde HS </a></td>
+<td>6</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Rogich, Sig MS </a></td>
+<td>4</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Fertitta, Victoria MS </a></td>
+<td>4</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Katz, Edythe and Lloyd ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Becker, Sr., Ernest A. MS </a></td>
+<td>4</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Adcock, O. K. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Garside, Frank F. JHS </a></td>
+<td>4</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Bonanza HS </a></td>
+<td>6</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Cimarron-Memorial HS </a></td>
+<td>6</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Bendorf, Patricia A. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Christensen, M. J. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Jacobson, Walter E. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Derfelt, Herbert A. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Hancock, Doris ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Lawrence, Clifford J. JHS </a></td>
+<td>4</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Warren, Rose ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Faiss, Wilbur and Theresa MS </a></td>
+<td>4</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Piggott, Clarence Academy of International Studies ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Conners, Eileen ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">West Career and Technical Academy </a></td>
+<td>6</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Bryan, Roger M. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Batterman, Kathy L. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">College of So. NV HS West Campus </a></td>
+<td>6</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Vassiliadis, Billy and Rosemary ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Berkley, Shelley ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Bonner, John W. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Johnson, Walter JHS Academy of International Studies </a></td>
+<td>4</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Red Rock ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Hayes, Keith C. and Karen W. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Staton, Ethel W. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Bryan, Richard H. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Givens, Linda Rankin ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Smith, Helen M. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>LV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Abston, Sandra B. ES </a></td>
+<td>1</td>
+<td>E</td>
+<td>CC</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

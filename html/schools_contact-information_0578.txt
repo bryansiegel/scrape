@@ -10,7 +10,8 @@
                 CANYON SPRINGS HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Canfield, Adam M<br>
+                        
+Principal: Canfield, Adam M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-1870<br/>
                                 Fax: 702-799-1876<br/>
 <a href="http://maps.google.com/maps?q=350 EAST ALEXANDER ROAD,+NORTH LAS VEGAS,+NV+89032">Map</a>
-                                 | <a href="http://www.canyonspringshighschool.org">Website</a> </br></br></br></p>
-<b>Region:</b> 1                                                    </div>
+                                 | <a href="http://www.canyonspringshighschool.org">Website</a> 
+<b>Region:</b> 1                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 LYNCH, ANN ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Miller, Amy E<br>
+                        
+Principal: Miller, Amy E<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8820<br/>
                                 Fax: 702-799-8895<br/>
 <a href="http://maps.google.com/maps?q=4850 KELL LANE,+LAS VEGAS,+NV+89115">Map</a>
-                                 | <a href="https://lynchlv.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://lynchlv.com/">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> Providing A World Class Education for Every Child</p> <p><b>Mission:</b> The staff at Ann T. Lynch-Edison Elementary School believes that all students can develop to their fullest potential: intellectually, emotionally, socially, and physically. We believe that our school's purpose is for all students to master skills in all academic areas; to be able to think critically; to value the contributions of diverse cultures represented; and to appreciate and value people within the school environment. We accept this responsibility to teach all students the essential curriculum.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

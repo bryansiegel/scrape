@@ -32,7 +32,8 @@ def search_txt_files(search_term, category=None):
         'divisions': 'scraper_divisions.txt',
         'general': 'scraped_links.txt',
         'drive': 'scraper_drive_links.txt',
-        'googleSites': 'scraped_google_sites.txt'
+        'googleSites': 'scraped_google_sites.txt',
+        'pdf': 'scraped_pdf.txt'
     }
     
     # Determine which files to search
@@ -73,8 +74,8 @@ def get_data():
     
     all_results = []
     
-    # Search database
-    connection = get_db_connection()
+    # Search database (pdf has no DB column — handled via txt file only)
+    connection = get_db_connection() if category != 'pdf' else None
     if connection:
         cursor = connection.cursor()
         try:
@@ -134,7 +135,7 @@ def get_data():
 
 @app.route('/api/stats')
 def get_stats():
-    stats = {'departments': 0, 'drive': 0, 'divisions': 0, 'general': 0, 'googleSites': 0, 'total': 0}
+    stats = {'departments': 0, 'drive': 0, 'divisions': 0, 'general': 0, 'googleSites': 0, 'pdf': 0, 'total': 0}
     
     # Count from database
     connection = get_db_connection()
@@ -142,6 +143,7 @@ def get_stats():
         cursor = connection.cursor()
         try:
             categories = ['departments', 'drive', 'divisions', 'general', 'googleSites']
+            # Note: 'pdf' has no DB column — counted from txt file only
             
             for category in categories:
                 cursor.execute(f"SELECT COUNT(*) FROM pages WHERE {category} IS NOT NULL AND {category} != ''")
@@ -159,9 +161,10 @@ def get_stats():
         'divisions': 'scraper_divisions.txt',
         'general': 'scraped_links.txt',
         'drive': 'scraper_drive_links.txt',
-        'googleSites': 'scraped_google_sites.txt'
+        'googleSites': 'scraped_google_sites.txt',
+        'pdf': 'scraped_pdf.txt'
     }
-    
+
     for category, filename in file_mappings.items():
         filepath = os.path.join(os.path.dirname(os.path.abspath(__file__)), filename)
         if os.path.exists(filepath):
@@ -200,7 +203,7 @@ def get_stats():
             cursor.close()
             connection.close()
     
-    # Add txt file URLs
+    # Add txt file URLs (file_mappings already includes pdf)
     for filename in file_mappings.values():
         filepath = os.path.join(os.path.dirname(os.path.abspath(__file__)), filename)
         if os.path.exists(filepath):
@@ -224,10 +227,11 @@ def get_autocomplete():
     # Get suggestions from txt files
     file_mappings = {
         'departments': 'scraper_departments.txt',
-        'divisions': 'scraper_divisions.txt', 
+        'divisions': 'scraper_divisions.txt',
         'general': 'scraped_links.txt',
         'drive': 'scraper_drive_links.txt',
-        'googleSites': 'scraped_google_sites.txt'
+        'googleSites': 'scraped_google_sites.txt',
+        'pdf': 'scraped_pdf.txt'
     }
     
     for filename in file_mappings.values():

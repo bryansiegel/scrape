@@ -1,0 +1,181 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Careers</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_3388">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_3389">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_6712">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_6713">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_3390">
+<div class="fsElementContent">
+<h2>Embark on a rewarding career with the Clark County School District (CCSD)</h2>
+<p>As a CCSD employee, you’ll play a vital role in shaping the future of students while working in a dynamic, supportive environment. Whether you’re an educator, administrator, substitute guest teacher or support staff member, CCSD offers opportunities for professional growth, competitive benefits, and the chance to make a lasting impact in the lives of children and families. Located in vibrant Las Vegas, the district provides not only a fulfilling career path but also an exciting lifestyle outside the classroom.</p>
+<p><a class="button-7" href="https://flows.beamery.com/ccsd/Contact" target="_blank">Contact Recruitment</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_6714">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="6715" data-source-page-id="633" data-use-new="true" id="fsEl_6715">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Embark on a Career at CCSD" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755615141/ccsdnet/f79ovr4azsle9qdgk0vj/careers-hero.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755615141/ccsdnet/f79ovr4azsle9qdgk0vj/careers-hero.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755615141/ccsdnet/f79ovr4azsle9qdgk0vj/careers-hero.jpg%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="careers-hero.jpg" data-resource-uuid="a28b9131-ed4c-406c-9d8c-467f91503c49"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6687">
+<div class="fsElementContent">
+<h3>Job Opportunities</h3>
+<p>The Clark County School District is always looking for passionate, dedicated individuals to join our team. Whether you’re an experienced educator, a skilled support professional, or just beginning your career in education, CCSD offers a wide range of opportunities to make a meaningful impact in the lives of students.</p>
+<p>Explore detailed <strong>job descriptions for all CCSD positions</strong> and view our current job openings by visiting <a href="https://jobs.ccsd.net" target="_blank">jobs.ccsd.net</a>.</p>
+<p>Find the role that best matches your skills and interests, apply directly to any available position, or connect with our recruitment team at if you have questions or <a href="mailto:recruitment@nv.ccsd.net">recruitment@nv.ccsd.net</a> need guidance throughout the process.</p>
+<p><a class="button-7" href="https://ccsd.taleo.net/careersection/iam/accessmanagement/login.jsf?lang=en&amp;redirectionURI=https%3A%2F%2Fccsd.taleo.net%2Fcareersection%2Fp%2Fprofile.ftl%3Flang%3Den&amp;TARGET=https%3A%2F%2Fccsd.taleo.net%2Fcareersection%2Fp%2Fprofile.ftl%3Flang%3Den" target="_blank">Start/Modify Application</a></p>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_6688">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_6689">
+<div class="fsElement fsContent job-card lg-card" data-use-new="true" id="fsEl_6692">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Clark County School District Licensed Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612135/ccsdnet/d4iiupowswfuq9ruusux/icons8-teacher-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-teacher-50.png" data-resource-uuid="34c47078-17a5-4a96-aa6f-d35f4341c5f6" loading="lazy" src="" style=""/></picture></figure>
+<h4>Licensed Professionals</h4>
+<p>Teacher, School Nurse, School Counselor, etc.</p>
+<a class="button-1" href="https://ccsd.taleo.net/careersection/2/jobsearch.ftl?lang=en" target="_blank">Apply</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_6690">
+<div class="fsElement fsContent job-card lg-card" data-use-new="true" id="fsEl_6693">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Clark County School District Clark County School District " data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612291/ccsdnet/dkryclwcu8rwshpyjn3g/icons8-man-in-a-tuxedo-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-man-in-a-tuxedo-50.png" data-resource-uuid="22c15b3b-59e4-4a0b-95c4-6e0b4c6b73a5" loading="lazy" src="" style=""/></picture></figure>
+<h4>Administrative Professionals</h4>
+<p>Director, Coordinator, Principal, etc.</p>
+<br/>
+<a class="button-1" href="https://ccsd.taleo.net/careersection/4/jobsearch.ftl?lang=en" target="_blank">Apply</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_6691">
+<div class="fsElement fsContent job-card lg-card" data-use-new="true" id="fsEl_6694">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Clark County School District Support Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612405/ccsdnet/alsm6euugks1eyfw19uf/icons8-people-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-people-50.png" data-resource-uuid="03e35093-6965-4d74-8616-29491521d33e" loading="lazy" src="" style=""/></picture></figure>
+<h4>Support Professionals</h4>
+<p>Para-Professional, Accountant, Custodian, etc.</p>
+<a class="button-1" href="https://ccsd.taleo.net/careersection/3/jobsearch.ftl?lang=en" target="_blank">Apply</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_106025">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_106026">
+<div class="fsElement fsContent job-card lg-card" data-use-new="true" id="fsEl_106024">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Clark County School District Substitute" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612988/ccsdnet/qbc67lhdsmfbglkhbmfl/icons8-teacher2-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-teacher2-50.png" data-resource-uuid="495b4913-b68b-4d53-b947-c9878c3a2d0e" loading="lazy" src="" style=""/></picture></figure>
+<h4>Substitute Services</h4>
+<p>Substitute Guest Teachers, Substitute Support Staff &amp; Coaches</p>
+<a class="button-1" href="https://ccsd.taleo.net/careersection/5/jobsearch.ftl?lang=en" target="_blank">Apply</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_106027">
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_106028">
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6695">
+<div class="fsElementContent">
+<div style="background-color: #0d3a5d; color: white !important; padding: 20px; text-align:center;border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+<h3 style="color:white;">Ready to connect with a Recruiter today?</h3>
+<p>Send us an email at Recruitment@nv.ccsd.net or call us at 702-799-5427, and we'll set up a time to meet with you—whether in person, over the phone, or virtually. We're here to help you find the perfect fit within CCSD. We look forward to hearing from you!</p>
+<a class="button-on-dark-2" href="https://flows.beamery.com/ccsd/Contact" target="_blank">Contact Recruitment</a></div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6696">
+<div class="fsElementContent">
+<h3>Additional Job Opportunities</h3>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_6697">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_6698">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_6702">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Clark County School District" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755613095/ccsdnet/owjprircmhmogqqm5yzx/icons8-student2-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-student2-50.png" data-resource-uuid="84afeddd-eb40-4e9a-ac53-e659dc046ee5" loading="lazy" src="" style=""/></picture></figure>
+<h4>Student Worker</h4>
+<a class="button-1" href="https://ccsd.taleo.net/careersection/6/jobsearch.ftl?lang=en" target="_blank">Apply</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_6699">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_6703">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Clark County School District Volunteer" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755613176/ccsdnet/fhoa6je5u94mgfg9j63o/icons8-volunteer-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-volunteer-50.png" data-resource-uuid="c2ef4aa5-affc-4adf-9227-739060d01451" loading="lazy" src="" style=""/></picture></figure>
+<h4>Volunteer</h4>
+<a class="button-1" href="https://ccsd.taleo.net/careersection/7/jobsearch.ftl?lang=en" target="_blank">Apply</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_6700">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_6706">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Clark County School District Alternate Route to Licensure" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755613262/ccsdnet/ixrhcu3vmykbs6oizzw4/icons8-learning-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-learning-50.png" data-resource-uuid="b2fc5a82-e76e-40b1-82e2-915a56db81db" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Alternate Route to Licensure</h4>
+<a class="button-1" href="https://recruitment.ccsd.net/arl/" target="_blank">Learn More</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_6704">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_6705">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_6708">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Clark County School District Contractors" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755613332/ccsdnet/htopshrdyhqddfzgotzk/icons8-contractor-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-contractor-50.png" data-resource-uuid="0159939e-eaff-4349-8bf6-66bcf1f55d8d" loading="lazy" src="" style=""/></picture></figure>
+<h4>Contractors</h4>
+<br/>
+<a class="button-1" href="https://ccsd.taleo.net/careersection/9/jobsearch.ftl?lang=en" target="_blank">Apply</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_6707">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_6710">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Clark County School District J-1 Program Description" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755613379/ccsdnet/gplwy0s45fq3pptyrnf7/icons8-international-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-international-50.png" data-resource-uuid="87e4eca8-25c5-40f6-96e9-277d5f3a6f87" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4 style="font-size:20px;">Exchange Visitor Teacher Program Description</h4>
+<a class="button-1" data-page-name="J-1 Program Description" href="/fs/pages/1274">Learn More</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_6709">
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout bg-cream fsStyleAutoclear" data-use-new="true" id="fsEl_6717">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_6718">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6711">
+<div class="fsElementContent">
+<h3>Current Employees</h3>
+<p>If you are a current CCSD employee please use the <a href="https://hcm.ccsd.net">Internal Positions</a> or navigate to Taleo on the <a href="https://hcm.ccsd.net">Employee Self Service (ESS)</a> page and click on the Taleo Internal Job Posting tile</p>
+<p style="font-weight:bold;">DO NOT create a new profile. If you have issues signing in please go to Quickit.ccsd.net to submit a ticket or call the helpdesk at 702-799-3300.</p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_6719">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="6720" data-source-page-id="633" data-use-new="true" id="fsEl_6720">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Careers Teacher" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755615952/ccsdnet/c1vlouqjmvajv9kcp66s/careers-teachers.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755615952/ccsdnet/c1vlouqjmvajv9kcp66s/careers-teachers.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755615952/ccsdnet/c1vlouqjmvajv9kcp66s/careers-teachers.jpg%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="careers-teachers.jpg" data-resource-uuid="7b84ea8c-c90b-4f4c-9738-c80daaec95b3"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -10,7 +10,8 @@
                 MCCALL, QUANNAH ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Lush, Amanda K<br>
+                        
+Principal: Lush, Amanda K<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7149<br/>
                                 Fax: 702-799-7043<br/>
 <a href="http://maps.google.com/maps?q=800 CAREY AVENUE,+NORTH LAS VEGAS,+NV+89030">Map</a>
-                                 | <a href="https://www.quannahmccallelementary.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.quannahmccallelementary.com/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Dream, Dare, Do</p> <p><b>Mission:</b> Quannah McCall, an Empowerment Elementary School, is a welcoming, safe environment collaborating with community partners to increase student achievement, build character, and foster accountability so they become contributing members of society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,19 +10,20 @@
                 HANCOCK, DORIS ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Lucero, Frances <br>
+                        
+Principal: Lucero, Frances V<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
-<!-- 								Lucero, Frances  --><!-- <br> -->
-                                4101 W. BONANZA ROAD<br>
-                                LAS VEGAS, NV 89107<br>
+<!-- 								Lucero, Frances V --><!-- <br> -->
+                                1750 LINDELL ROAD<br>
+                                LAS VEGAS, NV 89146<br>
                                 Phone: 702-799-4205<br/>
                                 Fax: 702-799-4183<br/>
-<a href="http://maps.google.com/maps?q=4101 W. BONANZA ROAD,+LAS VEGAS,+NV+89107">Map</a>
-                                 | <a href="http://www.hancockes.com">Website</a> </br></br></br></p>
+<a href="http://maps.google.com/maps?q=1750 LINDELL ROAD,+LAS VEGAS,+NV+89146">Map</a>
+                                 | <a href="http://www.hancockes.com">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> All students can learn.</p> <p><b>Mission:</b> Our Doris Hancock Elementary School children can make a difference for tomorrow by building on academic and social success now and for the future.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

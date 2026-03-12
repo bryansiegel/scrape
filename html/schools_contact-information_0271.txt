@@ -10,7 +10,8 @@
                 DAILEY, JACK ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Trupp, Cheryle L<br>
+                        
+Principal: Trupp, Cheryle L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5690<br/>
                                 Fax: 702-799-5698<br/>
 <a href="http://maps.google.com/maps?q=2001 EAST RENO AVENUE,+LAS VEGAS,+NV+89119">Map</a>
-                                 | <a href="https://jackdaileyelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://jackdaileyelementary.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Knights of Discovery</p> <p><b>Mission:</b> We are here to get along with others and learn reading, writing, and math. We will do it!</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

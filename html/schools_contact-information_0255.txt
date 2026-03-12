@@ -10,7 +10,8 @@
                 DETWILER, OLLIE ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Lewis, Meagan M<br>
+                        
+Principal: Lewis, Meagan M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-1830<br/>
                                 Fax: 702-799-3106<br/>
 <a href="http://maps.google.com/maps?q=1960 FERRELL STREET,+LAS VEGAS,+NV+89106">Map</a>
-                                 | <a href="https://www.detwileres.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.detwileres.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> The Wave of the Future</p> <p><b>Mission:</b> The Community of Ollie Detwiler Elementary School works in unity to promote academic excellence, mutual respect, and an appreciation of cultural diversity.  </p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

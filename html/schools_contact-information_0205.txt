@@ -10,7 +10,8 @@
                 SNYDER, WILLIAM E. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Haynal, Jennifer Taylor<br>
+                        
+Principal: Haynal, Jennifer Taylor<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-3750<br/>
                                 Fax: 702-799-3723<br/>
 <a href="http://maps.google.com/maps?q=4317 EAST COLORADO AVENUE,+LAS VEGAS,+NV+89104">Map</a>
-                                 | <a href="https://wsnyderes.enschool.org">Website</a> </br></br></br></p>
+                                 | <a href="https://wsnyderes.enschool.org">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Building a Galaxy of Learners</p> <p><b>Mission:</b> The William E. Snyder School Community strives to build a strong educational foundation to provide a safe environment that promotes learning and respect for self, community and country.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

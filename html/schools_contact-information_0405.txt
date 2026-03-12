@@ -10,7 +10,8 @@
                 RIES, ALDEANE COMITO ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Quinonez, Adrian M<br>
+                        
+Principal: Quinonez, Adrian M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-1240<br/>
                                 Fax: 702-799-1275<br/>
 <a href="http://maps.google.com/maps?q=9805 SOUTH LINDELL ROAD,+LAS VEGAS,+NV+89141">Map</a>
-                                 | <a href="https://www.riesrockets.org/">Website</a> </br></br></br></p>
-<b>Region:</b> 2                                                    </div>
+                                 | <a href="https://www.riesrockets.org/">Website</a> 
+<b>Region:</b> 2                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

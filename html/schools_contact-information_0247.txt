@@ -10,7 +10,8 @@
                 GUY, ADDELIAR D. III ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Meo, Lisa M<br>
+                        
+Principal: Meo, Lisa M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-3150<br/>
                                 Fax: 702-799-3156<br/>
 <a href="http://maps.google.com/maps?q=4028 LA MADRE WAY,+NORTH LAS VEGAS,+NV+89031">Map</a>
-                                 | <a href="https://addeliarguy.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://addeliarguy.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> I Can and I Will!</p> <p><b>Mission:</b> The mission of Guy-Wolfe Elementary School Community is to work collectively to ensure a safe, nurturing, and cooperative environment, where all children have the opportunity to achieve academically, develop socially, and grow emotionally.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 REED, DORIS M. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Aznarez, Jennifer Lynn L<br>
+                        
+Principal: Aznarez, Jennifer Lynn L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4777<br/>
                                 Fax: 702-799-0680<br/>
 <a href="http://maps.google.com/maps?q=2501 WINWOOD STREET,+LAS VEGAS,+NV+89108">Map</a>
-                                 | <a href="https://www.dorisreedelementary.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.dorisreedelementary.com/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Doris Reed--Where Students Lead and Succeed</p> <p><b>Mission:</b> The staff, parents, and community of Doris Reed Elementary School will cooperatively provide a safe, flexible, positive learning environment where students can develop the social and academic skills needed to become productive, confident, lifelong learners.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

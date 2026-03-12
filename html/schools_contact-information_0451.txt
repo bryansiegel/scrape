@@ -10,7 +10,8 @@
                 WESTERN HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Rael, Antonio <br>
+                        
+Principal: Rael, Antonio<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4080<br/>
                                 Fax: 702-799-4104<br/>
 <a href="http://maps.google.com/maps?q=4601 WEST BONANZA ROAD,+LAS VEGAS,+NV+89107">Map</a>
-                                 | <a href="http://www.westernhswarriors.org/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.westernhswarriors.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Honor the Past - Challenge the Future</p> <p><b>Mission:</b> The mission of Western High School is to cultivate dynamic thinkers who exhibit high academic achievement and are responsible citizens and productive members of a society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

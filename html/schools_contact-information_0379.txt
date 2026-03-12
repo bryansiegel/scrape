@@ -10,7 +10,8 @@
                 SMALLEY, JAMES E. &amp; A. RAE ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Skramstad, Heather G<br>
+                        
+Principal: Skramstad, Heather G<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-8090<br/>
                                 Fax: 702-799-8094<br/>
 <a href="http://maps.google.com/maps?q=304 EAST PARADISE HILLS DRIVE,+HENDERSON,+NV+89002">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/smalley/home">Website</a> </br></br></br></p>
-<b>Region:</b> 3                                                    </div>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/smalley/home">Website</a> 
+<b>Region:</b> 3                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

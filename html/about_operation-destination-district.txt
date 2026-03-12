@@ -1,0 +1,131 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Operation Destination District</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_169866">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_169867">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_169868">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_169869">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_169870">
+<div class="fsElementContent">
+<div>
+<h2>Our Blueprint for Brighter Futures</h2>
+<p>Our vision is to become a Destination District that attracts students, families, and educators because they see what’s possible.</p>
+<p>The future of CCSD looks very bright, and we want your help co-designing our next steps!</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_169871">
+<div class="fsElement fsResourceElement fsSingleItem img-border-radius" data-source-element-id="169872" data-source-page-id="19300" data-use-new="true" id="fsEl_169872">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="About Clark County School District" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1769461633/ccsdnet/o69fhfcrpxxl1twyvwzt/0R3A4710.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="0R3A4710.jpg" data-resource-uuid="b03edff7-8051-4b12-9e36-f138f35da592"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsEmbed" data-use-new="true" id="fsEl_169918">
+<div class="fsElementContent">
+<h2 style="font-size:32px !important"><span class="left-yellow"></span>Here’s our roadmap to becoming the Destination District</h2>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_169901">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_169902">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_169897">
+<div class="fsElementContent">
+<div>
+<h3 class="number-title">Mile Marker <span class="badge-red">1</span></h3>
+<h4>Spring and Summer, 2025</h4>
+<p>100-Day Plan focused on climate and culture completed and presented to community</p>
+<p>During Superintendent Ebert’s first 100 days in the role, she and the CCSD leadership team implemented a 100-Day Plan to rebuild climate and culture. This was the first step to paving the way for the long-term efforts ahead.</p>
+<p><strong>CCSD also celebrated key “wins” that are building momentum, including:</strong></p>
+<ul>
+<li>Record staffing levels - 98% of classrooms staffed with a licensed teacher</li>
+<li>Improved graduation rate (86.6% for the 2024-2025 school year)</li>
+<li>Added 500 Pre-K seats during the 2025-2026 school year</li>
+<li>136 CCSD schools improved their star ratings</li>
+<li>Improved literacy rates in third grade</li>
+<li>Improved middle school math proficiency</li>
+<li>Significant growth in dual enrollment, the number of students with AP scores 3 or higher, and the percentage of students passing workplace readiness skills assessments</li>
+</ul>
+<p><a class="button-7" data-file-name="9-03-25-Ref-2-01-A.pdf" data-resource-uuid="f7ceadb1-8e0b-493c-a98d-7310fd0a7cf4" href="/fs/resource-manager/view/f7ceadb1-8e0b-493c-a98d-7310fd0a7cf4" target="_blank">First 100 Days</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_169903">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="169913" data-source-page-id="19300" data-use-new="true" id="fsEl_169913">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Student smiling in front of school" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1768922818/ccsdnet/o1ftblinmlgrpflymdod/IMG_9678.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1768922818/ccsdnet/o1ftblinmlgrpflymdod/IMG_9678.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1768922818/ccsdnet/o1ftblinmlgrpflymdod/IMG_9678.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1768922818/ccsdnet/o1ftblinmlgrpflymdod/IMG_9678.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1768922818/ccsdnet/o1ftblinmlgrpflymdod/IMG_9678.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1768922818/ccsdnet/o1ftblinmlgrpflymdod/IMG_9678.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="IMG_9678.jpg" data-resource-uuid="5c2ede93-0710-4dd8-bb9e-b722cbbc34ed"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_169904">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_169905">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_169898">
+<div class="fsElementContent">
+<h3 class="number-title">Mile Marker <span class="badge-orange">2</span></h3>
+<h4>Fall, 2025 and Winter, 2026</h4>
+<ul>
+<li>Academic focus on the “Core Four”: Pre-Kindergarten, Early Literacy, Middle School Math, and Workforce and College Readiness</li>
+<li>Robust community input to co-design strategic plan and Facility Master Plan</li>
+</ul>
+<p>CCSD is preparing a new strategic plan to shape our future. This plan will be built on the foundation of unprecedented community feedback, including nearly 50,000 survey responses from our community this fall. We’re also conducting stakeholder interviews with leaders throughout our community and “Community Dream Sessions” throughout Southern Nevada.</p>
+<p><a class="button-7" href="/about/ccsd-destination-district-community-dream-sessions/" target="_blank">What We Heard</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_169906">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="169914" data-source-page-id="19300" data-use-new="true" id="fsEl_169914">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Student in front of American flag" data-aspect-ratio="0.6666024282135287" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1768922918/ccsdnet/kpfhwa4ytqbxv6tpxwye/IMG_9800.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1768922918/ccsdnet/kpfhwa4ytqbxv6tpxwye/IMG_9800.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1768922918/ccsdnet/kpfhwa4ytqbxv6tpxwye/IMG_9800.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1768922918/ccsdnet/kpfhwa4ytqbxv6tpxwye/IMG_9800.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1768922918/ccsdnet/kpfhwa4ytqbxv6tpxwye/IMG_9800.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1768922918/ccsdnet/kpfhwa4ytqbxv6tpxwye/IMG_9800.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="IMG_9800.jpg" data-resource-uuid="aa105e92-0e40-418d-b452-5dfa3e02baec"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_169907">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_169908">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_169899">
+<div class="fsElementContent">
+<h3 class="number-title">Mile Marker <span class="badge-blue">3</span></h3>
+<h4>Spring and Summer, 2026</h4>
+<ul>
+<li>Launch of new strategic plan - more information coming soon</li>
+<li>Launch of efficiency study and Facility Master Plan - more information coming soon</li>
+</ul>
+<p><a class="button-7" href="https://fmp.ccsd.net/" target="_blank">Facility Master Plan</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_169909">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="169915" data-source-page-id="19300" data-use-new="true" id="fsEl_169915">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Student Reading Yearbook" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1768923023/ccsdnet/hwg6ukxr93qiekj4idmd/0R3A5369.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1768923023/ccsdnet/hwg6ukxr93qiekj4idmd/0R3A5369.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1768923023/ccsdnet/hwg6ukxr93qiekj4idmd/0R3A5369.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1768923023/ccsdnet/hwg6ukxr93qiekj4idmd/0R3A5369.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1768923023/ccsdnet/hwg6ukxr93qiekj4idmd/0R3A5369.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1768923023/ccsdnet/hwg6ukxr93qiekj4idmd/0R3A5369.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="0R3A5369.jpg" data-resource-uuid="c73bfb36-c62c-421b-9977-7612aa813fe3"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout fsStyleAutoclear" data-use-new="true" id="fsEl_169910">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_169911">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_169900">
+<div class="fsElementContent">
+<h3 class="number-title">Mile Marker <span class="badge-green">4</span></h3>
+<h4>Fall, 2026 and beyond</h4>
+<ul>
+<li>Implementing and tracking progress on the Strategic Plan, efficiency study, and Brighter Futures Blueprint - more information coming soon</li>
+<li>Consistent updates provided to the community on CCSD's progress in becoming a Destination District - more information coming soon</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_169912">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="169916" data-source-page-id="19300" data-use-new="true" id="fsEl_169916">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Student holding up art project" data-aspect-ratio="0.6667309918950213" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1768923089/ccsdnet/zjzjmezeps7mtseg1gzy/0R3A5460.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1768923089/ccsdnet/zjzjmezeps7mtseg1gzy/0R3A5460.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1768923089/ccsdnet/zjzjmezeps7mtseg1gzy/0R3A5460.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1768923089/ccsdnet/zjzjmezeps7mtseg1gzy/0R3A5460.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1768923089/ccsdnet/zjzjmezeps7mtseg1gzy/0R3A5460.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1768923089/ccsdnet/zjzjmezeps7mtseg1gzy/0R3A5460.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="0R3A5460.jpg" data-resource-uuid="f6f9cca6-e21c-44dd-92df-1b707ac51e26"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

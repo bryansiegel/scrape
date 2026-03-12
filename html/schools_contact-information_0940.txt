@@ -10,7 +10,8 @@
                 SILVERADO HIGH SCHOOL<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Ditto, Jaime M<br>
+                        
+Principal: Ditto, Jaime M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5790<br/>
                                 Fax: 702-799-5744<br/>
 <a href="http://maps.google.com/maps?q=1650 SILVER HAWK AVENUE,+LAS VEGAS,+NV+89123">Map</a>
-                                 | <a href="https://silveradohslv.net/">Website</a> </br></br></br></p>
+                                 | <a href="https://silveradohslv.net/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Excellence in Action</p> <p><b>Mission:</b> Our mission at Silverado High School is to provide all students equal opportunities to become responsible individuals able to adapt effectively and to contribute productively in an ever-changing world, and to ensure all students, parents, faculty, and staff are provided the resources necessary to achieve this goal.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -1,0 +1,451 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Community Engagement Unit</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_11834">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_11835">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout fsStyleAutoclear" data-use-new="true" id="fsEl_11836">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_11837">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_11838">
+<div class="fsElementContent">
+<p>We will communicate transparently and honestly in a proactive manner to provide information to stakeholders as rapidly as possible.</p>
+<p><a class="button-7" href="https://www.ccsd.net/uploaded/themes/default_25/directory/org-chart/ccsd-org-chart.pdf">Organizational Chart</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_11839">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="11840" data-source-page-id="1264" data-use-new="true" id="fsEl_11840">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="CCSD Admin Building" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="ccsd-building.jpg" data-resource-uuid="84623b58-a0aa-41f2-811c-712473c83a69"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_12090">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-208130" role="presentation">
+<a aria-controls="fsEl_208130" aria-selected="false" href="#fs-panel-208130" role="tab">Academic Support and Community Service Center</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208124" role="presentation">
+<a aria-controls="fsEl_208124" aria-selected="false" href="#fs-panel-208124" role="tab">CCSD Family Support Center</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208138" role="presentation">
+<a aria-controls="fsEl_208138" aria-selected="false" href="#fs-panel-208138" role="tab">Communications Department</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208136" role="presentation">
+<a aria-controls="fsEl_208136" aria-selected="false" href="#fs-panel-208136" role="tab">Community Engagement</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12091" role="presentation">
+<a aria-controls="fsEl_12091" aria-selected="false" href="#fs-panel-12091" role="tab">Engagement Unit</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208126" role="presentation">
+<a aria-controls="fsEl_208126" aria-selected="false" href="#fs-panel-208126" role="tab">Engagement and Events</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208132" role="presentation">
+<a aria-controls="fsEl_208132" aria-selected="false" href="#fs-panel-208132" role="tab">Family Engagement</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208122" role="presentation">
+<a aria-controls="fsEl_208122" aria-selected="false" href="#fs-panel-208122" role="tab">Government and Community Engagement</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12093" role="presentation">
+<a aria-controls="fsEl_12093" aria-selected="false" href="#fs-panel-12093" role="tab">Government Relations Department</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12095" role="presentation">
+<a aria-controls="fsEl_12095" aria-selected="false" href="#fs-panel-12095" role="tab">Marketing Department</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12097" role="presentation">
+<a aria-controls="fsEl_12097" aria-selected="false" href="#fs-panel-12097" role="tab">Media Relations Department</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12099" role="presentation">
+<a aria-controls="fsEl_12099" aria-selected="false" href="#fs-panel-12099" role="tab">Public Records Department</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208128" role="presentation">
+<a aria-controls="fsEl_208128" aria-selected="false" href="#fs-panel-208128" role="tab">Team Engagement</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208134" role="presentation">
+<a aria-controls="fsEl_208134" aria-selected="false" href="#fs-panel-208134" role="tab">Title I Family Engagement Centers</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12101" role="presentation">
+<a aria-controls="fsEl_12101" aria-selected="false" href="#fs-panel-12101" role="tab">Vegas PBS</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208130" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208130" aria-expanded="false" href="#fs-panel-208130" role="button">Academic Support and Community Service Center</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208130"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208131">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208124" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208124" aria-expanded="false" href="#fs-panel-208124" role="button">CCSD Family Support Center</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208124"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208125">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208138" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208138" aria-expanded="false" href="#fs-panel-208138" role="button">Communications Department</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208138"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208139">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208136" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208136" aria-expanded="false" href="#fs-panel-208136" role="button">Community Engagement</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208136"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208137">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12091" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12091" aria-expanded="false" href="#fs-panel-12091" role="button">Engagement Unit</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12091"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12092">
+<div class="fsElementContent">
+<div>The goal of the <span style="color: #333333;"><strong>Engagement Unit</strong></span> is to engage the entire community to support sustainable improvement in our schools by:</div>
+<ul>
+<li style="text-align: left;">Increasing <strong><span style="color: #333333;">meaningful partnerships</span></strong> with businesses and the<br/>
+	community</li>
+</ul>
+<p> </p>
+<ul>
+<li style="text-align: left;">Building a <strong><span style="color: #333333;">positive culture</span></strong> throughout CCSD that translates<br/>
+	into how we work with our community</li>
+</ul>
+<p> </p>
+<ul>
+<li style="text-align: left;"><strong><span style="color: #333333;">Empowering families</span></strong> so they can best support their children’s<br/>
+	academic and social-emotional progress.</li>
+</ul>
+<p> </p>
+<ul>
+<li class="gmail_default" style="text-align: left;"><strong>Join Us in Making a Difference!</strong> If your business or organization is ready to provide support to CCSD students and staff, complete our Prospective Partner Interest Form today to get started! <a data-saferedirecturl="https://www.google.com/url?q=https://forms.gle/KX6HPdTiDeePmEvQ7&amp;source=gmail&amp;ust=1733353018897000&amp;usg=AOvVaw0R558wag7CcVRbUDoqyZA3" href="https://docs.google.com/forms/d/e/1FAIpQLSfvB-G9BgnTSebX9rng4M5sRTNCd9jh9TmtdFv4ZSZDvHPW9A/viewform" rel="noopener" target="_blank">Become A Partner Today</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208126" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208126" aria-expanded="false" href="#fs-panel-208126" role="button">Engagement and Events</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208126"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208127">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208132" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208132" aria-expanded="false" href="#fs-panel-208132" role="button">Family Engagement</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208132"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208133">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208122" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208122" aria-expanded="false" href="#fs-panel-208122" role="button">Government and Community Engagement</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208122"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208123">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12093" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12093" aria-expanded="false" href="#fs-panel-12093" role="button">Government Relations Department</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12093"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12094">
+<div class="fsElementContent">
+<p>The Government Relations Department builds and sustains close relationships with local, state, and federal officials to increase support for student-centric public policy that supports the unique needs of the District. The Government Relations team represents the District in matters concerning Congress, the Nevada Legislature, the Nevada State Board of Education, the Nevada Department of Education, and local governments. The Department helps:</p>
+<ul dir="ltr">
+<li>develop legislative priorities; </li>
+<li>represent the District at legislative hearings </li>
+<li>lobby during the legislative session</li>
+<li>meet with legislators during the interim to assist with the education-related concerns of their constituents, and </li>
+<li>serve as a District contact on various public policy issues. </li>
+</ul>
+<p>The office also monitors the District's compliance with legislation during the interim.</p>
+<p> </p>
+<hr/>
+<h2>Contact CCSD Government Relations</h2>
+<p>Subscribe to Government Relations email updates <a href="https://clark-county-school-district.read.axioshq.com/signup/government-relations-quarterly">here</a>.<br/>
+<br/>
+Subscribe to the CCSD Legislative Brief email newsletter here. <a href="https://clark-county-school-district.read.axioshq.com/signup/ccsd-legislative-brief">here</a>.<br/>
+<br/>
+Interested in advocacy opportunities? We invite you to join us in strengthening the public education system in Southern Nevada. Parents, students, and vested stakeholders alike are invited to participate in discussions and activities related to education &amp; policy in Nevada. Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScRpQ5Oa0uHyxrI_YxM9y0sim-es4P3rHDw3_4tQfrG0qrsDQ/viewform">here</a></p>
+<hr/>
+<h2>2025 Legislative Session</h2>
+<ul>
+<li><a data-file-name="nevadalegislative_2025.pdf" data-resource-uuid="b0a5f2ef-46a0-4c08-85de-d605b6fdaea6" href="/fs/resource-manager/view/b0a5f2ef-46a0-4c08-85de-d605b6fdaea6" target="_blank">CCSD 2025 Legislative Platform</a></li>
+</ul>
+<h2>2023 Legislative Session</h2>
+<ul>
+<li><a contenteditable="false" href="https://go.boarddocs.com/nv/ccsdlv/Board.nsf/files/CURUWY7E1CB2/$file/08.24.23%20Ref.%204.03.pdf" target="_blank">End of Session Presentation</a></li>
+<li>2023 Board of School Trustees <a contenteditable="false" href="/fs/resource-manager/view/9df2a6af-f67f-49e3-859e-880647bf1295" target="_blank">Legislative Platform</a></li>
+<li><a contenteditable="false" data-file-name="At-a-Glance_2022-23_ENG.pdf" data-resource-uuid="ecdd314e-b4bb-4e38-b03d-c46ebdb6504c" href="/fs/resource-manager/view/ecdd314e-b4bb-4e38-b03d-c46ebdb6504c" target="_blank">2022-2023 CCSD At A Glance - English PDF</a></li>
+<li><a contenteditable="false" data-file-name="At-a-Glance_2022-23_SPAN.pdf" data-resource-uuid="c3dc98f1-5d05-4c08-b770-b34880c8fc98" href="/fs/resource-manager/view/c3dc98f1-5d05-4c08-b770-b34880c8fc98" target="_blank">2022-2023CCSD At A Glance - Spanish PDF</a></li>
+<li><a contenteditable="false" data-file-name="FLYER_iNVestinEd2023-Final.pdf" data-resource-uuid="063219dd-85c5-47e6-96fe-56345ec6edb4" href="/fs/resource-manager/view/063219dd-85c5-47e6-96fe-56345ec6edb4" target="_blank">2023 iNVest in Education - Nevada Association of School Superintendents Platform</a></li>
+</ul>
+<ul>
+</ul>
+<hr/>
+<div style="display:none; visibility: hidden;">
+<h2>2023 Legislative Session</h2>
+<p>05/27/2023 - <a href="http://eepurl.com/ir-KBg" target="_blank">[CCSD Brief #6] Nevada’s 82nd Legislative Session</a><br/>
+05/12/2023 - <a href="http://eepurl.com/ircfw-/" target="_blank">[CCSD Brief #5] Nevada’s 82nd Legislative Session</a><br/>
+05/08/2023 - <a href="http://eepurl.com/iqP6is" target="_blank">AB 175 Call to Action</a><br/>
+04/26/2023 - <a href="http://eepurl.com/ipZPeE" target="_blank">[CCSD Brief #4] Nevada’s 82nd Legislative Session</a><br/>
+04/14/2023 - <a href="http://eepurl.com/imZm8Y" target="_blank">[CCSD Brief #3] Nevada’s 82nd Legislative Session</a><br/>
+03/03/2023 - <a href="http://eepurl.com/il7wFA" target="_blank">[CCSD Brief #2] Nevada’s 82nd Legislative Session</a><br/>
+02/18/2023 - <a href="http://eepurl.com/ik6JAT" target="_blank">[CCSD Legislative Brief] Nevada's 82nd Legislative Session</a></p>
+</div>
+<h2> </h2>
+<p> </p>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_207578">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-207579" role="presentation">
+<a aria-controls="fsEl_207579" aria-selected="false" href="#fs-panel-207579" role="tab">Student Enrollment</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207579" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207579" aria-expanded="false" href="#fs-panel-207579" role="button">Student Enrollment</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207579"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207580">
+<div class="fsElementContent">
+<h3>Student Enrollment and School Capacity</h3>
+<p>Per NRS 388.890, all school districts are required to post the ratio of pupils per licensed teacher.</p>
+<p><a data-file-name="clark-county-school-district-average-class-sizes-2025.pdf" data-resource-uuid="88f5dae7-afe2-4e98-82d3-b03faa8b06a8" href="/fs/resource-manager/view/88f5dae7-afe2-4e98-82d3-b03faa8b06a8" target="_blank">2024-2025 Average Class Size Report</a><br/>
+<a data-file-name="clark-county-school-district-average-class-sizes-2024.pdf" data-resource-uuid="faf5630a-87e4-4656-94ec-8e98db4110da" href="/fs/resource-manager/view/faf5630a-87e4-4656-94ec-8e98db4110da" target="_blank">2023-2024 Average Class Size Report</a><br/>
+<a data-file-name="clark-county-school-district-average-class-sizes-2023.pdf" data-resource-uuid="511ea602-1b2a-40e7-8242-64ea90a9ecd1" href="/fs/resource-manager/view/511ea602-1b2a-40e7-8242-64ea90a9ecd1" target="_blank">2022-2023 Average Class Size Report</a></p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12095" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12095" aria-expanded="false" href="#fs-panel-12095" role="button">Marketing Department</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12095"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12096">
+<div class="fsElementContent">
+<p style="font-weight:bold; font-size: 16px;">The Marketing Department champions the District’s brand by creating content that celebrates the success of CCSD students, teachers, and schools and promotes opportunities for students and employees.</p>
+<h3>District Branding</h3>
+<ul style="margin:0px !important;">
+<li><strong>Brand</strong>
+<p style="margin-top:0px !important; padding-top: 0px !important;">Brand consistency is vital to building a solid brand and increasing brand value and trust. Brand guidelines ensure consistency in CCSD's visual and messaging identity, including logos and colors. Adhering to these guidelines builds trust through consistent branding and messaging, enhancing the District's reputation.</p>
+<ul>
+<li>Writing - <a href="https://graphics.ccsd.net/NewFiles/GAC.2006.Site/PDFs/District_Logo_Standards_Bklt/CCSD
+_WritingStandards_2025.pdf" target="_blank">Standards and Style Guide</a></li>
+<li><a href="https://graphics.ccsd.net/templates-logos.php" target="_blank">CCSD Logos, Letterhead, Templates</a></li>
+</ul>
+</li>
+</ul>
+<h3>Content</h3>
+<ul style="margin:0px !important;">
+<li><strong>We are CCSD</strong>
+<p style="margin-top:0px !important; padding-top: 0px !important;">In January 2023, Superintendent Dr. Jesus F. Jara launched "We are CCSD" during the 2023 State of the Schools Address. This campaign aims to highlight the collaborative efforts of the Southern Nevada community in educating the children of Clark County. At newsroom.ccsd.net, the official blog of Clark County School District, the achievements of CCSD students, teachers, and schools take center stage, celebrating their remarkable successes and contributions to the District's educational journey.</p>
+</li>
+</ul>
+<ul style="margin:0px !important;">
+<li><strong>YouTube</strong>
+<p style="margin-top:0px !important; padding-top: 0px !important;">YouTube will serve as the primary video library for CCSD and the CCSD brand. This centralized approach to video storage and organization will help maintain a cohesive and comprehensive video library that showcases the diverse offerings and achievements of CCSD.</p>
+<ul>
+<li><a href="https://www.youtube.com/@ClarkCountySchoolDistrict" target="_blank">https://www.youtube.com/@ClarkCountySchoolDistrict</a></li>
+<li><a href="https://www.youtube.com/watch?v=v3twXhUf_Dw" target="_blank">We are Vegas. We Are CCSD</a></li>
+</ul>
+</li>
+</ul>
+<h3>External Communications</h3>
+<p>Using the web, social media, and email, the Marketing Department will work to provide consistent communication celebrating the successes of CCSD students, teachers, and schools, promoting opportunities for students and employees.</p>
+<ul style="margin:0px !important;">
+<li><strong>CCSD Website</strong>
+<ul style="margin:0px !important;">
+<li>Collaborate with Media Relations and Web Design Departments to maintain consistent messaging, District branding, and voice on the main CCSD website (ccsd.net) to ensure a unified online presence and enhance external communication efforts.</li>
+</ul>
+</li>
+<li><strong>Social Media</strong>
+<p style="margin-top:0px !important; padding-top: 0px !important;">Establish and implement best practices on the District’s primary social media channels throughout all departments, which includes crafting a comprehensive social media strategy and ensuring its effective implementation across various teams</p>
+<ul>
+<li><a href="https://www.linkedin.com/company/clark-county-school-district" target="_blank">LinkedIn</a></li>
+<li><a href="https://www.facebook.com/ClarkCountySchoolDistrict/" target="_blank">Facebook</a></li>
+<li><a href="https://www.instagram.com/clarkcountysch/" target="_blank">Instagram</a></li>
+<li><a href="https://x.com/ClarkCountySch" target="_blank">X</a></li>
+</ul>
+</li>
+<li><strong>Community Newsletter</strong>
+<ul style="margin:0px !important;">
+<li style="margin-top:0px !important; padding-top: 0px !important;">Connects with the Southern Nevada community through an email newsletter that celebrates the success of CCSD students, teachers, and schools by highlighting achievements; and sharing inspiring stories that fosters pride and unity within the community, strengthen external communications, and promote a positive brand perception</li>
+<li><a href="https://clark-county-school-district.read.axioshq.com/signup/community-newsletter" target="_blank">Subscribe to the Community Connection</a></li>
+</ul>
+</li>
+</ul>
+<h3>Internal Communications</h3>
+<p>The Marketing Department will ensure clear and consistent communication, which helps employees stay well-informed about developments in the District and know they are valued. The Marketing Department will build trust through improved internal communication, bringing value to the District’s brand.</p>
+<ul style="margin:0px !important;">
+<li><strong>Employee Email Newsletters</strong>
+<p style="margin-top:0px !important; padding-top: 0px !important;">Employee email newsletters are crucial for improving internal communication. Newsletters provide valuable information, such as updates, policies, development opportunities, and success stories. These bi-monthly newsletters keep employees well-informed and supported, fostering engagement and offering professional growth opportunities.</p>
+</li>
+</ul>
+<h3>Marketing Support and Resources</h3>
+<p>The Marketing Department will establish a centralized marketing support system that provides resources, guidance, and best practices for schools and departments to develop effective marketing strategies. This support system may include workshops, training sessions, or access to marketing professionals who can assist with the creation of promotional materials and campaigns. By equipping other entities within CCSD with the necessary tools and knowledge, the District can collectively elevate its brand through collaborative marketing efforts.</p>
+<h1 style="padding-top:25px;">Web Design Department</h1>
+<p><strong>Web Design creates engaging, pleasing, accessible, and user-friendly experiences to deliver accurate, transparent, and helpful information to the public.</strong></p>
+<h3>Website User Interface</h3>
+<p>Create a consistent design, including the look and feel across all main website and school site pages.</p>
+<ul>
+<li>Maintain branding and cohesive visual design, UX principles, and visual guidelines across multiple digital touchpoints</li>
+<li>Create, maintain, and manage UI style guides and ensure a consistent, integrated brand perception</li>
+<li>Monitor trends and needs of stakeholders to provide responsive designs, products, and services</li>
+<li>Identify design opportunities and actionable concepts that align with the end user and the District’s needs, through design principles, and technical capabilities</li>
+<li>Use current technologies and up-to-date industry trends and best practices to ensure the District brand remains relevant and innovative</li>
+</ul>
+<h3>Web Maintenance</h3>
+<p>Inspect and update routine processes of websites to maintain industry standards.</p>
+<ul>
+<li>Maintain website(s) WCAG web compliance</li>
+<li>Keep content current and up-to-date in a timely manner</li>
+<li>Maintain Google Analytics to track and report website traffic</li>
+<li>Website Search engine features</li>
+<li>Work with Networking and Cybersecurity to ensure that all sites and User accounts are secure</li>
+<li>Incorporation of events/press releases and student/family stories from Newsroom</li>
+<li>Integration of online survey/feedback tools</li>
+</ul>
+<p><a href="https://forms.zohopublic.com/wordpresssupportusern1/form/WebDesignServicesTicketingSystem/formperma/M9Jcju1zpP4HIB-pDvn2WKuqyMZMykvq0MIcOyVRQtk" target="_blank">Submit A Ticket To Web Design Services Here</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12097" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12097" aria-expanded="false" href="#fs-panel-12097" role="button">Media Relations Department</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12097"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12098">
+<div class="fsElementContent">
+			Media Relations provides timely communication support to schools and departments, and maintains daily contact with local media. Our goal is to consistently deliver accurate, timely information to the media (local, national and international) and the public while setting the record straight to maintain clear, consistent, and concise messaging.
+
+	</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12099" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12099" aria-expanded="false" href="#fs-panel-12099" role="button">Public Records Department</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12099"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12100">
+<div class="fsElementContent">
+<h2>Public Records Request</h2>
+<h3>CCSD Public Records Office</h3>
+<p>Public records requests may be submitted verbally or in writing <!-- (includes electronic mail)  -->and directed to:</p>
+<h3>Mail</h3>
+<p><!-- <strong>Community Services Department</strong><br> -->CCSD Administrative Center<br/>
+Public Records Request<br/>
+5100 West Sahara Avenue<br/>
+Las Vegas, NV 89146<br/>
+702-799-5865</p>
+<h3>Electronic</h3>
+<!-- 					<p>Submit request by electronic mail to: <a href="mailto:publicrecordrequest@nv.ccsd.net">publicrecordrequest@nv.ccsd.net</a></p> -->
+<p><a href="https://clarkcountysdnv.justfoia.com/publicportal/home/track" target="_blank">CCSD JustFOIA website</a></p>
+<h3>Student Record and Transcript Requests</h3>
+<p><strong>Student Record Services</strong><br/>
+702-799-2938</p>
+<p>Requests for student records of currently enrolled students should be submitted to the school of attendance. Requests for student records of former students must be submitted to the Student Record Services department. Student record requests are submitted online at <a href="http://transcripts.ccsd.net">transcripts.ccsd.net</a> or <a href="https://clarknv.scriborder.com">https://clarknv.scriborder.com</a>. The phone number for Student Record Services is 702-799-2938 if you have any questions.</p>
+<div class="horiz-rule"> </div>
+<h2>Public Records Request Fees</h2>
+<p><a href="https://resources.finalsite.net/images/v1769542289/ccsdnet/xl4uopug0vop6luepyrp/Public-Records-Fee-Schedule.pdf" target="_blank">View the Public Records Request Fee Schedule (PDF)</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208128" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208128" aria-expanded="false" href="#fs-panel-208128" role="button">Team Engagement</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208128"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208129">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208134" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208134" aria-expanded="false" href="#fs-panel-208134" role="button">Title I Family Engagement Centers</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208134"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208135">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12101" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12101" aria-expanded="false" href="#fs-panel-12101" role="button">Vegas PBS</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12101"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12102">
+<div class="fsElementContent">
+<p>Vegas PBS is a member-supported public television service providing educational content for over 50 years. We build community through television, education services, and unique experiences that create a sense of place, civic and social capital.</p>
+<p><a class="button-1" href="https://www.vegaspbs.org/" target="_blank">Vegas PBS</a></p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

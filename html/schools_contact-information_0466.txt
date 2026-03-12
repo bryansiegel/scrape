@@ -10,7 +10,8 @@
                 PIGGOTT, CLARENCE ACDMY OF INTNL STUDIES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Hudzick, David C<br>
+                        
+Principal: Hudzick, David C<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4450<br/>
                                 Fax: 702-799-1410<br/>
 <a href="http://maps.google.com/maps?q=9601 RED HILLS RD,+LAS VEGAS,+NV+89117">Map</a>
-                                 | <a href="http://www.clarencepiggott.org/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.clarencepiggott.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Dream It...Achieve It!</p> <p><b>Mission:</b> The Clarence A. Piggott Elementary School community will maintain a learning environment that encourages individuality, fosters creativity, and strives for excellence.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

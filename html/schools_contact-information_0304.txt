@@ -10,7 +10,8 @@
                 MILLER, SANDY SEARLES ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Muth, Lene N<br>
+                        
+Principal: Muth, Lene N<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8830<br/>
                                 Fax: 702-799-3259<br/>
 <a href="http://maps.google.com/maps?q=4851 LAKE MEAD BOULEVARD,+LAS VEGAS,+NV+89115">Map</a>
-                                 | <a href="https://www.sandymilleracademy.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.sandymilleracademy.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Inquire-Discover-Connect to the world</p> <p><b>Mission:</b> In tandem with parents and guardians, we develop inquiring, knowledgeable, and caring young people who help create a better and more peaceful world through intercultural understanding and respect.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

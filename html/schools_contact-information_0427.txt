@@ -10,7 +10,8 @@
                 GILBERT, C.V.T. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Faltinosky, Deborah Annette <br>
+                        
+Principal: Faltinosky, Deborah Annette<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4730<br/>
                                 Fax: 702-799-4728<br/>
 <a href="http://maps.google.com/maps?q=2101 WEST CARTIER AVENUE,+NORTH LAS VEGAS,+NV+89032">Map</a>
-                                 | <a href="http://www.gilbertmagnetschool.org/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.gilbertmagnetschool.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Gilbert Giraffes are Head and Shoulders Above the Rest</p> <p><b>Mission:</b> The staff and administration of Gilbert Magnet School for Communication and Creative Arts are committed to improving student achievement while empowering students to explore, discover, and express their unique creative abilities.  We hold ourselves responsible for utilizing instructional techniques and resources that provide students with the tools to grow, contribute, and communicate in an ever-changing technological society.  This development will take place in a nurturing and supportive environment where the diversities of life and people are respected, and the physical, social and emotional needs of all students are met.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

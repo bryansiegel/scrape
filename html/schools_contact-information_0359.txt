@@ -10,7 +10,8 @@
                 BAILEY, SISTER ROBERT JOSEPH ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Grant, Jo Anna Marie <br>
+                        
+Principal: Grant, Jo Anna Marie<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-7510<br/>
                                 Fax: 702-799-7515<br/>
 <a href="http://maps.google.com/maps?q=4525 JIMMY DURANTE BLVD,+LAS VEGAS,+NV+89122">Map</a>
-                                 | <a href="https://www.sisterbailey.com/">Website</a> </br></br></br></p>
-<b>Region:</b> 3                                                    </div>
+                                 | <a href="https://www.sisterbailey.com/">Website</a> 
+<b>Region:</b> 3                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

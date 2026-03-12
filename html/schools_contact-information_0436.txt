@@ -10,7 +10,8 @@
                 ADVANCED TECHNOLOGIES ACADEMY<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Marentic, Anthony D<br>
+                        
+Principal: Marentic, Anthony D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7870<br/>
                                 Fax: 702-799-0656<br/>
 <a href="http://maps.google.com/maps?q=1411 ROBIN STREET,+LAS VEGAS,+NV+89106">Map</a>
-                                 | <a href="http://www.atech.org/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.atech.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Enhancing Education Through Technology</p> <p><b>Mission:</b> The mission of Advanced Technologies Academy (A-TECH) is to empower a diverse student body by teaching academic concepts and technological skills and by instilling in students the importance of effective, responsible application of their knowledge to succeed in a highly competitive, technologically changing world.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

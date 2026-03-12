@@ -10,7 +10,8 @@
                 GARRETT, ELTON M. JHS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Teemant, Melanie J<br>
+                        
+Principal: Teemant, Melanie J<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8290<br/>
                                 Fax: 702-799-8252<br/>
 <a href="http://maps.google.com/maps?q=1200 AVENUE G,+BOULDER CITY,+NV+89005">Map</a>
-                                 | <a href="http://www.garrettjhs.com">Website</a> </br></br></br></p>
+                                 | <a href="http://www.garrettjhs.com">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Independence Through Excellence</p> <p><b>Mission:</b> Garrett Junior High School, in partnership with home and community, will be dedicated to providing an optimal learning environment in which students achieve academic excellence and become responsible, productive citizens and successful lifelong learners.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

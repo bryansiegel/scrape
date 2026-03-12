@@ -1,116 +1,783 @@
-<div class="content-wrap" id="content_wrap">
-<div class="main-content-wrap" id="main_content_wrap" role="main">
-<section class="content-holder">
-<h1>Employee Information</h1>
-<!-- Prospective employees -->
-<h2>Recruitment Information</h2>
-<ul>
-<li><a href="https://hcm.ccsd.net">Internal Positions</a></li>
-<li><a href="/employees/prospective/descriptions">Job Descriptions</a></li>
-<li><a href="https://recruitment.ccsd.net/">Job Application Process</a></li>
-<li><a href="https://recruitment.ccsd.net/">Connect with a Recruiter</a></li>
-<li><a href="https://ccsd.taleo.net/careersection/p/profile.ftl?lang=en">Start/Modify Application</a></li>
-</ul>
-<h2>Family and Community Engagement Services</h2>
-<ul>
-<li><a href="https://engage.ccsd.net/family/">FACES website</a></li>
-<!-- 									<li><a href="http://faces.ccsd.net/staff-toolbox/">Staff Toolbox</a></li> -->
-</ul>
-<h2>Employee Information</h2>
-<ul>
-<li><a href="/district/policies-regulations">CCSD Policies &amp; Regulations</a></li>
-<li><a href="/employees/current/benefits">Employee Benefits</a></li>
-<li><a href="/employees/current/employment/information">Employment Information</a></li>
-<li><a href="/employees/current/employment/health">Health Information</a></li>
-<li><a href="/employees/prospective">Job Opportunities</a></li>
-<li><a href="/employees/current/employment/salary">Salary Information</a></li>
-<li><a href="/employees/current/employment">More Information</a></li>
-<li><a href="/resources/legal/unemployment-faq.pdf">Unemployment Services - FAQ</a></li>
-<li><a href="/district/info/non-discrimination/">Notice of Nondiscrimination</a></li>
-</ul>
-<h2>Employee Services</h2>
-<ul>
-<li><a href="/divisions/human-resources-division/" target="_blank">Human Resources Division</a></li>
-<li><a href="https://hcm.ccsd.net" target="_blank">Employee Self Service (HCM)</a></li>
-<li><a href="/employees/current/services/change-of-address">Change of Address</a></li>
-<li><a href="/employees/current/services/id-badge">I.D. Badge</a></li>
-<li><a href="/employees/current/services/substitute-request">Request a Substitute (SmartFind Express)</a></li>
-<li><a href="/employees/resources/pdf/employee-quick-reference-card.pdf">Employee Quick Reference Card</a></li>
-<li><a href="/employees/resources/pdf/substitute-quick-reference-card.pdf">Substitute Quick Reference Card</a></li>
-<li><a href="/employees/current/services">More Services</a></li>
-</ul>
-<h2>Employee Resources</h2>
-<ul>
-<li><a href="/employees/current/resources">All Employees</a></li>
-<li><a href="/employees/current/resources/#admin">Administrators</a></li>
-<li><a href="/employees/current/resources/#sub">Substitutes</a></li>
-<li><a href="/employees/current/resources/#support">Support Staff</a></li>
-<li><a href="/employees/current/resources/#teacher">Licensed Personnel</a></li>
-<li><a href="https://erp-portal.ccsd.net/irj/portal/ccsd" target="_blank">ERP</a></li>
-<li><a href="https://ccsd.sumtotal.host/Broker/InvalidRP.aspx" target="_blank">ELMS</a></li>
-<li><a href="/employees/canvas/">Canvas LMS</a></li>
-<li><a href="https://campus.ccsd.net/">Infinite Campus</a></li>
-</ul>
-</section>
-</div>
-<!-- /main_content_wrap -->
-<div class="sidebar-wrap" id="sidebar_wrap">
-<section>
-<!-- 	<h3 class="section-title-lined">Social</h3> -->
-<!-- LINKEDIN -->
-<div style="margin: 1em 0;">
-<div class="sidebar-banner">
-<div><img alt="" class="sidebar-icon" src="/_static/images/icons/circle-question.png"/></div>
-<div class="sidebar-question">Have A Question?</div>
-<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
-<div class="sidebar-contact">Contact us at</div>
-<div class="sidebar-phone">702-799-CCSD</div>
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Employees</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_7007">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_7008">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout fsStyleAutoclear" data-use-new="true" id="fsEl_7009">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_7010">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_7011">
+<div class="fsElementContent">
+<h2>Tools and Resources for CCSD Employees</h2>
+<p>CCSD values the hard work and dedication of our employees, and we are committed to providing the resources and support you need to thrive. From benefits and professional development opportunities to wellness programs and workplace tools, this page is your hub for everything designed to help you succeed. Explore these resources to stay connected, supported, and empowered in your role at CCSD.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
 </div>
 </div>
-<!-- TWITTER -->
-<!--
-	<div style="margin: 1em 0;">
-		<a class="twitter-timeline" href="https://twitter.com/" width="260" height="350" data-widget-id="">Tweets by </a>
-	</div>
--->
-<!-- FACEBOOK RECOMMENDATIONS -->
-<!--
-	<div style="margin: 1em 0;">
-		<div class="fb-recommendations" data-site="" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
-	</div>
--->
-</section>
-<!-- trending-wrap -->
-<!--
-<section class="trending-wrap">
-	<h3 class="section-title-lined">Quick Links</h3>
--->
-<!--<div style="position: relative; top: -11px; height: 1px; width: 260px; background-color: #ffa333;" id="trend_timer"></div>-->
-<!-- 	<ul id="trending_list" class="trending-list"> -->
-<!--<p style="color: #999; text-align: center; margin: 1em auto;">Trending will be back soon!</p>-->
-<!--
-	</ul>
-</section>
--->
-<!-- /trending-wrap -->
-<!--
-        <div class="sidebar-banner">
-            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
-            <div class="sidebar-question">Have A Question?</div>
-            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
-            <div class="sidebar-contact">Contact us at</div>
-            <div class="sidebar-phone">702-799-CCSD</div>
-        </div>
--->
-<!--
-<section>
-	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
-	
--->
-<!-- FACEBOOK RECOMMENDATIONS -->
-<!--
-	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
-</section>
--->
-</div> <!-- /sidebar_wrap -->
 </div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_7012">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="7013" data-source-page-id="1046" data-use-new="true" id="fsEl_7013">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="CCSD Employees" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1767203231/ccsdnet/mgbwvtn90o8rhluth53e/0R3A3502.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1767203231/ccsdnet/mgbwvtn90o8rhluth53e/0R3A3502.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1767203231/ccsdnet/mgbwvtn90o8rhluth53e/0R3A3502.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1767203231/ccsdnet/mgbwvtn90o8rhluth53e/0R3A3502.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1767203231/ccsdnet/mgbwvtn90o8rhluth53e/0R3A3502.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1767203231/ccsdnet/mgbwvtn90o8rhluth53e/0R3A3502.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="0R3A3502.jpg" data-resource-uuid="1e5a9f99-3653-4399-9907-780ea44640c0"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_143934">
+<div class="fsElementContent">
+<div class="nav" style="margin-top:10px;"><a class="scroll_slow" href="#tools">Tools</a><a class="scroll_slow" href="#support">Support</a><a class="scroll_slow" href="#programs">Programs</a><a class="scroll_slow" href="#resources">Resources</a></div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_8716">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_8717">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_8718">
+<div class="fsElementContent">
+<div><a id="tools"></a></div>
+<h3>Employee Tools</h3>
+<p>The Employee Tools for Clark County School District give staff easy access to key platforms and services needed to manage their work and employment information. Through this portal, employees can log in to Canvas for course management and professional learning, access Infinite Campus for student information and classroom needs, submit a Change of Address to keep personal records up to date, and complete required Fingerprinting for compliance and security. By bringing these resources together in one location, CCSD helps employees save time and stay connected with the systems that support both teaching and operational excellence.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_8719">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="8720" data-source-page-id="1046" data-use-new="true" id="fsEl_8720">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Employee Resources" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755812722/ccsdnet/bfcz2szj71dfgfgg27hw/employee-resources.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755812722/ccsdnet/bfcz2szj71dfgfgg27hw/employee-resources.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755812722/ccsdnet/bfcz2szj71dfgfgg27hw/employee-resources.png%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="employee-resources.png" data-resource-uuid="c8b3e314-a306-4aa1-9ae0-f10284db3d36"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_7015">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_7016">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_7017">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Canvas" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755795584/ccsdnet/nzoaystxbfzh9ew15xoe/canvas.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="canvas.png" data-resource-uuid="35e285d7-edcc-4987-ad8b-e456541108f0" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Canvas</h4>
+<p>Canvas is CCSD’s online classroom where teachers post lessons and assignments.</p>
+<a class="button-1" href="https://ccsd.instructure.com/login/ldap" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_7018">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_7032">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Change of Address" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798825/ccsdnet/fdi15ndcauifuknus4uv/change-of-address.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="change-of-address.png" data-resource-uuid="b4701bbd-ef60-409d-8b0c-940caba7ca5a" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Change Of Address</h4>
+<p>Update your employee records with a change of address.</p>
+<a class="button-1" data-page-name="Change of Address" href="/fs/pages/1285">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_7020">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_183889">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Employee Services" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755799043/ccsdnet/bo4rvwqlkzo9umr2aetf/employee-services.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="employee-services.png" data-resource-uuid="dc0222be-7b9a-4f93-80b6-a126f84bde20" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>ELMS</h4>
+<p>CCSD Enterprise Learning Management System (ELMS)</p>
+<p><a class="button-1" data-page-name="ELMS" href="/fs/pages/20948">View</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsNavigation fsList nav-sub" data-use-new="true" id="fsEl_7022">
+<div class="fsElementContent">
+<nav aria-label="secondary"></nav>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_7030">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_7031">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_12167">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Employee Directory</h4>
+<p>Access the Employee Directory to quickly find staff information within CCSD today.</p>
+<a class="button-1" data-page-name="Directory" href="/fs/pages/1102">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_7033">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_12164">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Employee Services" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755799043/ccsdnet/bo4rvwqlkzo9umr2aetf/employee-services.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="employee-services.png" data-resource-uuid="dc0222be-7b9a-4f93-80b6-a126f84bde20" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>ERP</h4>
+<p>Explore CCSD’s ERP system to streamline operations and manage district resources. <strong>Only available internal to the CCSD Network</strong>.</p>
+<p><a class="button-1" href="https://erp-portal.ccsd.net/irj/portal/ccsd" target="_blank">View</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_7035">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_7049">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Fingerprinting" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798964/ccsdnet/ctnrebsa0ulp56zeowkn/fingerprinting.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="fingerprinting.png" data-resource-uuid="6e1f2ae9-e6dc-4ebf-862e-43534ece2e08" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Fingerprinting</h4>
+<p>Get information on fingerprinting requirements and procedures for CCSD employees.</p>
+<a class="button-1" data-page-name="Fingerprinting" href="/fs/pages/17241">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12165">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_12166">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_17441">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="computer" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758207906/ccsdnet/hjubxbhfcofdq0xtsqev/computer.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="computer.png" data-resource-uuid="b27a4f3f-9222-47dc-8569-c06ea40b61b9" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Graphic Arts Center</h4>
+<p>Request Graphics, Forms &amp; Documents (CCSD Staff Access Required)</p>
+<a class="button-1" href="https://graphics.ccsd.net/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_12168">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_10120">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Employee Services" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755799043/ccsdnet/bo4rvwqlkzo9umr2aetf/employee-services.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="employee-services.png" data-resource-uuid="dc0222be-7b9a-4f93-80b6-a126f84bde20" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>HCM</h4>
+<p>HCM provides employees and administrators with tools to manage payroll, benefits, scheduling, and other essential human resources services.</p>
+<a class="button-1" href="https://hcm.ccsd.net" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_12170">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_17410">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="computer" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758207906/ccsdnet/hjubxbhfcofdq0xtsqev/computer.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="computer.png" data-resource-uuid="b27a4f3f-9222-47dc-8569-c06ea40b61b9" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Technology Help Desk</h4>
+<p>Technology Help Desk offers login, app, and tech assistance.</p>
+<a class="button-1" data-page-name="Help Desk" href="/fs/pages/1926">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_143954">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_143955">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_7019">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Infinite Campus" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755795341/ccsdnet/w6pfqtwgqdyxez4kklyj/infinite.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="infinite.png" data-resource-uuid="763f8b05-ac24-4b61-ad10-222e5e82473b" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Infinite Campus</h4>
+<p>Track grades, attendance, and student information with Infinite Campus.</p>
+<a class="button-1" data-page-name="Infinite Campus" href="/fs/pages/1051">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_143957">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_143956">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Student Attire" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755796549/ccsdnet/cqrskd3ahkvod4fzmsun/attire.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="attire.png" data-resource-uuid="c0a671cf-2f09-4b04-9682-c60f7b1afc05" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Request a Substitute (SmartFind Express)</h4>
+<p>Request a substitute teacher quickly using CCSD’s SmartFind Express system today.</p>
+<a class="button-1" data-page-name="Request A Substitute (SmartFind Express)" href="/fs/pages/1286">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_143959">
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_7037">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_7038">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_7039">
+<div class="fsElementContent">
+<div><a id="support"></a></div>
+<h3>Employee Support</h3>
+<p>The Employee Support resources for Clark County School District provide staff with the information and services needed to manage their employment and stay connected with district operations. Employees can access the calendar to track important dates and events, review their salary information, and stay informed on policies and procedures that guide their work. The portal also connects staff to ELMS for professional development, Employee Services for HR-related needs, and tools for managing their I.D. Badge. By centralizing these resources, CCSD ensures employees have the support and guidance they need to succeed in their roles.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_7040">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="7041" data-source-page-id="1046" data-use-new="true" id="fsEl_7041">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="CCSD Employee" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1756843414/ccsdnet/yem6yr2n2ljg8lzvvtuh/employee2.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1756843414/ccsdnet/yem6yr2n2ljg8lzvvtuh/employee2.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756843414/ccsdnet/yem6yr2n2ljg8lzvvtuh/employee2.png%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="employee2.png" data-resource-uuid="73ec21da-abf8-40c8-868c-e7b9bf036588"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_8712">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_8713">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_147621">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div contenteditable="false" tabindex="-1">
+<figure class="fsImage" data-widget="image"><picture><img alt="Clark County School District Support Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612405/ccsdnet/alsm6euugks1eyfw19uf/icons8-people-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-people-50.png" data-resource-uuid="03e35093-6965-4d74-8616-29491521d33e" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>An Employee's Right to Know</h4>
+<p>CCSD’s 2025-26 “Employees’ Right to Know” handbook outlines required policies, safety training, workplace rules, benefits, and legal rights employees must understand and follow.</p>
+<a class="button-1" data-file-name="2025-2026-employees-right-to-know.pdf" data-resource-uuid="56953389-afff-4552-aaee-35a52b6da3fa" href="/fs/resource-manager/view/56953389-afff-4552-aaee-35a52b6da3fa">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_8714">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_7025">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Employee Benefits" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798610/ccsdnet/sqonoclsozcy6aw4uy6q/benefits.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="benefits.png" data-resource-uuid="caa31d52-ab92-41ac-a93d-7154745d82e2" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Employee Negotiated Agreements and Compensation
+</h4>
+<p>Employee Negotiated Agreements and Compensation
+</p>
+<a class="button-1" data-page-name="Employee Benefits" href="/fs/pages/1288">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_8715">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_147628">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div contenteditable="false" tabindex="-1">
+<figure class="fsImage" data-widget="image"><picture><img alt="Clark County School District Support Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612405/ccsdnet/alsm6euugks1eyfw19uf/icons8-people-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-people-50.png" data-resource-uuid="03e35093-6965-4d74-8616-29491521d33e" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4 style="font-size:24px">Clark County Association of School Administrators and Professional-Technical Employees</h4>
+<p>CCASA: Clark County Association of School Administrators &amp; Professional-Technical Employees</p>
+<a class="button-1" href="http://www.ccasa.net/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_17368">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_17369">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_147624">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div contenteditable="false" tabindex="-1">
+<figure class="fsImage" data-widget="image"><picture><img alt="Clark County School District Support Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612405/ccsdnet/alsm6euugks1eyfw19uf/icons8-people-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-people-50.png" data-resource-uuid="03e35093-6965-4d74-8616-29491521d33e" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Clark County Education Association</h4>
+<p>The Clark County Education Association is the union representing over 18,000 licensed educators in the Clark County School District, advocating for wages, benefits, working conditions, and education policy.</p>
+<br/>
+<a class="button-1" href="http://www.ccea-nv.org/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_17370">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_147626">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div contenteditable="false" tabindex="-1">
+<figure class="fsImage" data-widget="image"><picture><img alt="Clark County School District Support Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612405/ccsdnet/alsm6euugks1eyfw19uf/icons8-people-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-people-50.png" data-resource-uuid="03e35093-6965-4d74-8616-29491521d33e" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Education Support Employees Association</h4>
+<p>The Education Support Employees Association (ESEA) is the union for education support professionals in Clark County, Nevada, advocating for rights, wages, working conditions, and public education while offering member support and growth.</p>
+<a class="button-1" href="http://www.esea-nv.org/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_17371">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_7027">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Mental Health" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755796346/ccsdnet/g7ethzlkwo5lyaohoykk/mental-health.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="mental-health.png" data-resource-uuid="a7bd6629-fa09-49b8-b50c-acc415efb3db" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Employee Health &amp; Wellness</h4>
+<p style="padding-bottom:84px;">Discover health and wellness programs and research employee retirement options.</p>
+<br/>
+<br/>
+<br/>
+<a class="button-1" data-page-name="Employee Health and Wellness Benefits" href="/fs/pages/1287">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_147622">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_147623">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_147631">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div contenteditable="false" tabindex="-1">
+<figure class="fsImage" data-widget="image"><picture><img alt="Clark County School District Support Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612405/ccsdnet/alsm6euugks1eyfw19uf/icons8-people-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-people-50.png" data-resource-uuid="03e35093-6965-4d74-8616-29491521d33e" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>FMLA/LOA Questions</h4>
+<p>CCSD’s FMLA/LOA Questions page provides employees with answers and guidance about Family and Medical Leave Act (FMLA) policies, eligibility, and related procedures.</p>
+<a class="button-1" data-page-name="FMLA Questions" href="/fs/pages/16539">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_147625">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_173232">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Hand with Heart" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766531418/ccsdnet/bn3yearjnh4ny4gphwks/hand-with-heart.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="hand-with-heart.webp" data-resource-uuid="3177201e-f7b0-4a0d-afa9-01fed846b5c7" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Get Involved at Your School</h4>
+<p>Participate in your School Organizational Team</p>
+<a class="button-1" data-page-name="Title IX" href="https://reorg.ccsd.net/
+">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_147627">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_17392">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div contenteditable="false" tabindex="-1">
+<figure class="fsImage" data-widget="image"><picture><img alt="Clark County School District Support Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612405/ccsdnet/alsm6euugks1eyfw19uf/icons8-people-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-people-50.png" data-resource-uuid="03e35093-6965-4d74-8616-29491521d33e" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Leadership and Professional Learning </h4>
+<p>The Leadership and Professional Learning Division engages Clark County School District employees in high-quality professional learning</p>
+<a class="button-1" data-page-name="Leadership and Professional Learning" href="https://sites.google.com/nv.ccsd.net/lpld/home">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_147629">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_147630">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_7045">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div contenteditable="false" tabindex="-1">
+<figure class="fsImage" data-widget="image"><picture><img alt="Clark County School District Support Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612405/ccsdnet/alsm6euugks1eyfw19uf/icons8-people-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-people-50.png" data-resource-uuid="03e35093-6965-4d74-8616-29491521d33e" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Related Services and Other Non-Instructional Personnel</h4>
+<p>Related Services positions provide support in general and special education classroom environments.</p>
+<a class="button-1" data-page-name="Related Services and Other Non-Instructional Personnel" href="/fs/pages/1924">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_147632">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_7029">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Unemployment</h4>
+<p>Access information and resources for unemployment assistance.</p>
+<a class="button-1" data-file-name="unemployment-faq.pdf" data-resource-uuid="f1f028c9-6792-4de0-a679-802aec7f0972" href="https://docs.google.com/document/d/1cZ_hDX-dbkVKl_1Zqu5yyBsGlcFFKD3dsL7P0dQBVeg/edit?tab=t.0" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_147634">
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_143935">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_143936">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_143937">
+<div class="fsElementContent">
+<div><a id="programs"></a></div>
+<h3>Employee Programs</h3>
+<p>The Employee Programs at Clark County School District provide staff with resources and information to support their work and engagement within the district. Employees can access tools, services, and programs designed to assist with professional growth, workplace resources, and participation in district activities. By centralizing these offerings, CCSD ensures employees have easy access to the support and guidance they need to succeed in their roles.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_143938">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="143939" data-source-page-id="1046" data-use-new="true" id="fsEl_143939">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Employee Programs" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1767203659/ccsdnet/jyvtyi22crjb8f3quol8/0R3A3616.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1767203659/ccsdnet/jyvtyi22crjb8f3quol8/0R3A3616.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1767203659/ccsdnet/jyvtyi22crjb8f3quol8/0R3A3616.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1767203659/ccsdnet/jyvtyi22crjb8f3quol8/0R3A3616.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1767203659/ccsdnet/jyvtyi22crjb8f3quol8/0R3A3616.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1767203659/ccsdnet/jyvtyi22crjb8f3quol8/0R3A3616.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="0R3A3616.jpg" data-resource-uuid="66e5fd50-0168-4086-908e-3cae3feec755"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_143940">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_143941">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_143949">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Clark County School District Support Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612405/ccsdnet/alsm6euugks1eyfw19uf/icons8-people-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-people-50.png" data-resource-uuid="03e35093-6965-4d74-8616-29491521d33e" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Employee Discounts and Offers</h4>
+<p>CCSD employees can access exclusive discounts and special offers on products, services, and events, helping staff save while enjoying perks available through the district’s employee programs.</p>
+<br/>
+<br/>
+<a class="button-1" href="https://engage.ccsd.net/offers/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_143943">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_143946">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Clark County School District Support Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612405/ccsdnet/alsm6euugks1eyfw19uf/icons8-people-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-people-50.png" data-resource-uuid="03e35093-6965-4d74-8616-29491521d33e" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Evening of Excellence Starlight Awards Program</h4>
+<p>The Evening of Excellence Starlight Awards Program honors CCSD employees for their exceptional contributions, dedication, and achievements in supporting students and advancing the District’s mission.</p>
+<a class="button-1" href="https://engage.ccsd.net/starlight/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_143945">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_143942">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Clark County School District Support Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612405/ccsdnet/alsm6euugks1eyfw19uf/icons8-people-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-people-50.png" data-resource-uuid="03e35093-6965-4d74-8616-29491521d33e" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Rave Review</h4>
+<p>The RAVE Program recognizes CCSD employees who go above and beyond in character, performance, and service, highlighting achievements that exceed job expectations for students, staff, and the community.</p>
+<br/>
+<br/>
+<a class="button-1" href="https://engage.ccsd.net/ravereview/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_143947">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_143948">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_143944">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Clark County School District Support Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612405/ccsdnet/alsm6euugks1eyfw19uf/icons8-people-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-people-50.png" data-resource-uuid="03e35093-6965-4d74-8616-29491521d33e" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Service Year Recognitions</h4>
+<p>The Service Year Recognition program honors CCSD employees reaching career milestones with updated pins and certificates, starting at 10 years and continuing through 40 years and beyond.</p>
+<br/>
+<br/>
+<a class="button-1" data-page-name="Employee Salary Information" href="https://engage.ccsd.net/serviceyears/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_143950">
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_143952">
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_8707">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_8708">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_8709">
+<div class="fsElementContent">
+<div><a id="resources"></a></div>
+<h3>Employee Resources</h3>
+<p>At CCSD, we know our employees are the foundation of student success. That’s why we provide a variety of resources to support your professional and personal well-being. From salary and benefits information to health, wellness, and workplace tools, this page is designed to give you quick access to what you need. Whether you’re updating personal information, exploring benefits, or seeking support, CCSD is here to help you every step of the way.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_8710">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="8711" data-source-page-id="1046" data-use-new="true" id="fsEl_8711">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="CCSD Employee" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1756843444/ccsdnet/uogmmjtviewdfj9bnlm6/employee1.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1756843444/ccsdnet/uogmmjtviewdfj9bnlm6/employee1.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756843444/ccsdnet/uogmmjtviewdfj9bnlm6/employee1.png%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="employee1.png" data-resource-uuid="9b0214b6-5091-4fdb-9420-efd563323e26"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_7043">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_7044">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_147638">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Policies &amp; Procedures" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755796267/ccsdnet/kgsbsb0zzohvfyyxis2u/policies.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="policies.png" data-resource-uuid="07c48765-0a69-462a-b3a0-cf083fa786e1" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Administrators Negotiated Agreement</h4>
+<p>Administrators Negotiated Agreement</p>
+<a class="button-1" data-file-name="NegotiatedAgreementCCASAPE20252027-FINAL.pdf" data-resource-uuid="b1a3dd10-e0fe-4ad6-adc2-7b346e7e38b4" href="/fs/resource-manager/view/b1a3dd10-e0fe-4ad6-adc2-7b346e7e38b4" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_7046">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_12181">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+<h4>Agiloft Contracts</h4>
+<p>Manage and review CCSD contracts efficiently using the Agiloft system today.</p>
+<a class="button-1" data-page-name="Agiloft Contracts" href="https://clarkcountyschooldistrict.agiloft.com/gui2/samlssologin.jsp?project=Clark+County+School+District&amp;profileId=d2602d51-0bf8-4c4a-ac76-0e9809accada" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_7048">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_170580">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Policies &amp; Procedures" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755796267/ccsdnet/kgsbsb0zzohvfyyxis2u/policies.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="policies.png" data-resource-uuid="07c48765-0a69-462a-b3a0-cf083fa786e1" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Budget Request Forms</h4>
+<p>Download School and Unit Budget Request Forms.</p>
+<a class="button-1" data-page-name="Budget Request Forms" href="/fs/pages/19354">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_7050">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_7051">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_7056">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Calendar" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755792419/ccsdnet/nqkejhghct3dvzzlsimh/calendar.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="calendar.png" data-resource-uuid="9ae2a19d-392f-490e-83e1-ff6c481cf4d2" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Calendar</h4>
+<p>View important dates and events on the CCSD employee calendar.</p>
+<a class="button-1" data-page-name="Calendars" href="/fs/pages/1055">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_7053">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_170631">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Police" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1769009623/ccsdnet/danxylp2arzvzzwhprga/police.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="police.png" data-resource-uuid="c78a14ac-e696-476a-8fcd-a4a586abbc82" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>CCSDPD Complaint System</h4>
+<p>Submit complaints about CCSD Police officers using this form. Provide as much detail and contact info as possible. All complaints are confidential, taken seriously, and investigated fairly.</p>
+<br/>
+<a class="button-1" data-page-name="CCSDPD Complaint System" href="/fs/pages/19358">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_7055">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_15811">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+<h4>CCSD Professional Growth System (PGS)</h4>
+<p>CCSD Professional Growth System (PGS)</p>
+<a class="button-1" data-page-name="CCSD Professional Growth System (PGS)" href="/fs/pages/1741" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12172">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_12173">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_7052">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Clark County School District Licensed Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612135/ccsdnet/d4iiupowswfuq9ruusux/icons8-teacher-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-teacher-50.png" data-resource-uuid="34c47078-17a5-4a96-aa6f-d35f4341c5f6" loading="lazy" src="" style=""/></picture></figure>
+<h4>ELMS</h4>
+<p>Access training and professional development through CCSD’s ELMS platform.</p>
+<a class="button-1" href="http://learn.ccsd.net/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_12175">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_17366">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Employee Benefits" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798610/ccsdnet/sqonoclsozcy6aw4uy6q/benefits.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="benefits.png" data-resource-uuid="caa31d52-ab92-41ac-a93d-7154745d82e2" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Employee Onboarding and Development</h4>
+<p>Employee Onboarding &amp; Development helps new staff start strong and grow.</p>
+<a class="button-1" href="https://sites.google.com/nv.ccsd.net/ccsdeod/home" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_12177">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_7021">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Employee Salary" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798536/ccsdnet/gp3jvggidool9ccdgfkm/salary.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="salary.png" data-resource-uuid="35577e2a-72fa-42f7-9c96-ffe0ccebde2f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Employee Salary</h4>
+<p>Find information about CCSD employee salaries.</p>
+<a class="button-1" data-page-name="Employee Salary Information" href="/fs/pages/1289">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_17362">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_17363">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_7054">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Employee Services" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755799043/ccsdnet/bo4rvwqlkzo9umr2aetf/employee-services.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="employee-services.png" data-resource-uuid="dc0222be-7b9a-4f93-80b6-a126f84bde20" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Employee Services</h4>
+<p>Explore a variety of services and support available to CCSD employees</p>
+<a class="button-1" data-page-name="Employee Services" href="/fs/pages/20956" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_17364">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_201563">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Employee Services" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755799043/ccsdnet/bo4rvwqlkzo9umr2aetf/employee-services.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="employee-services.png" data-resource-uuid="dc0222be-7b9a-4f93-80b6-a126f84bde20" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Environmental Services</h4>
+<p>CCSD Environmental Services ensuring health, safety, and compliance.</p>
+<a class="button-1" href="https://environmental.ccsd.net/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_17365">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_12176">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Employee Services" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755799043/ccsdnet/bo4rvwqlkzo9umr2aetf/employee-services.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="employee-services.png" data-resource-uuid="dc0222be-7b9a-4f93-80b6-a126f84bde20" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Ethics</h4>
+<p>Learn about CCSD’s ethics guidelines to ensure integrity and accountability daily.</p>
+<a class="button-1" href="https://secure.ethicspoint.com/domain/media/en/gui/71999/index.html" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_147636">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_147637">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_201578">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="ID Badge" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798902/ccsdnet/st7gglcllq86rv35jz0l/id-badge.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="id-badge.png" data-resource-uuid="4080bf78-963c-4705-905f-c1d8d47cb31a" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Grants Development and Administration</h4>
+<p>Supporting student success through the administration and evaluation of district-wide grants.</p>
+<a class="button-1" href="https://gda.ccsd.net/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_147639">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_7047">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="ID Badge" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798902/ccsdnet/st7gglcllq86rv35jz0l/id-badge.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="id-badge.png" data-resource-uuid="4080bf78-963c-4705-905f-c1d8d47cb31a" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>I.D. Badge</h4>
+<p>Learn how to obtain or replace your CCSD employee I.D. badge.</p>
+<a class="button-1" data-page-name="Identification Badge" href="/fs/pages/1290">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_147641">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_12480">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Clark County School District Support Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612405/ccsdnet/alsm6euugks1eyfw19uf/icons8-people-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-people-50.png" data-resource-uuid="03e35093-6965-4d74-8616-29491521d33e" loading="lazy" src="" style=""/></picture></figure>
+<h4>Internal Positions</h4>
+<p>Explore current internal job openings at CCSD and advance your career today.</p>
+<a class="button-1" href="https://hcm.ccsd.net/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_147643">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_147644">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_17367">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Policies &amp; Procedures" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755796267/ccsdnet/kgsbsb0zzohvfyyxis2u/policies.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="policies.png" data-resource-uuid="07c48765-0a69-462a-b3a0-cf083fa786e1" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Policies &amp; Regulations</h4>
+<p>Review district policies and regulations to understand rules and guidelines for students and families.</p>
+<a class="button-1" data-page-name="Policies and Regulations" href="/fs/pages/1104">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_147646">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_147640">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+<h4>Police Administrators' Negotiated Agreement</h4>
+<p>Police Administrators' Negotiated Agreement</p>
+<a class="button-1" data-file-name="paa_agreement-2023-2024.pdf" data-resource-uuid="64566245-45c4-4759-8325-d84f838769f5" href="/fs/resource-manager/view/64566245-45c4-4759-8325-d84f838769f5" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_147648">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_201128">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div contenteditable="false" tabindex="-1">
+<figure class="fsImage" data-widget="image"><picture><img alt="Clark County School District Support Professionals" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755612405/ccsdnet/alsm6euugks1eyfw19uf/icons8-people-50.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="icons8-people-50.png" data-resource-uuid="03e35093-6965-4d74-8616-29491521d33e" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Purchasing and Warehouse</h4>
+<p>CCSD Purchasing &amp; Warehousing: district procurement and surplus info.</p>
+<a class="button-1" data-page-name="Purchasing and Warehousing" href="/fs/pages/21876" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_170627">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_170628">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_147647">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+<h4>School Police Negotiated Agreement</h4>
+<p>School Police Negotiated Agreement</p>
+<a class="button-1" data-file-name="poa_agreement-2023-2025.pdf" data-resource-uuid="9c4525ad-9acb-4334-a333-5a52104e032c" href="/fs/resource-manager/view/9c4525ad-9acb-4334-a333-5a52104e032c" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_170629">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_157341">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+<h4>Step Advancement for Administrative and Professional-Technical Employees</h4>
+<p>Step Advancement for Administrative and Professional-Technical Employees</p>
+<a class="button-1" data-page-name="Step Advancement for Administrative and Professional-Technical Employees" href="/fs/pages/17604" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_170630">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_147645">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Policies &amp; Procedures" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755796267/ccsdnet/kgsbsb0zzohvfyyxis2u/policies.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="policies.png" data-resource-uuid="07c48765-0a69-462a-b3a0-cf083fa786e1" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Support Staff Negotiated Agreement</h4>
+<p>Support Staff Negotiated Agreement</p>
+<a class="button-1" data-file-name="esea_agreement_2025-2027.pdf" href="/fs/resource-manager/view/3f1630e8-a6ce-4750-bffd-475829c3e8ed" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_201579">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_201580">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_147642">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+<h4>Teachers' and other licensed positions Negotiated Agreement</h4>
+<p>Teachers' and other licensed positions Negotiated Agreement</p>
+<a class="button-1" data-file-name="ccea_agreement.pdf" data-resource-uuid="b8bdeeaf-8c8b-496a-8c07-75edc7e146fc" href="/fs/resource-manager/view/b8bdeeaf-8c8b-496a-8c07-75edc7e146fc" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_201581">
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_201582">
+</div>
+</div>
+</div>
+</div>
+</main>

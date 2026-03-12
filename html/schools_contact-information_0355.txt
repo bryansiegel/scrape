@@ -10,7 +10,8 @@
                 WARD, KITTY MCDONOUGH ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Fonte, Heather Rose<br>
+                        
+Principal: Fonte, Heather Rose<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-4501<br/>
                                 Fax: 702-799-4503<br/>
 <a href="http://maps.google.com/maps?q=5555 HORSE DRIVE,+LAS VEGAS,+NV+89131">Map</a>
-                                 | <a href="https://kittywardes.ccsd.net/">Website</a> </br></br></br></p>
-<b>Region:</b> 1                                                    </div>
+                                 | <a href="https://kittywardes.ccsd.net/">Website</a> 
+<b>Region:</b> 1                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

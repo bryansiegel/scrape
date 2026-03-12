@@ -10,7 +10,8 @@
                 ROWE, LEWIS E. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Schaber, Jeffrey S<br>
+                        
+Principal: Schaber, Jeffrey S<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5540<br/>
                                 Fax: 702-799-0299<br/>
 <a href="http://maps.google.com/maps?q=4338 SOUTH BRUCE STREET,+LAS VEGAS,+NV+89119">Map</a>
-                                 | <a href="https://lewiseroweelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://lewiseroweelementary.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Rowerunners Represent Responsibility and Respect</p> <p><b>Mission:</b> Lewis E. Rowe School Community welcomes all, embraces each, and supports everyone.  We are here to participate, cooperate, and achieve our best both socially and academically.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -5,7 +5,7 @@
 <section class="content-holder">
 <h1>School Contact Information</h1>
 <h2>School Search</h2>
-<form action="/schools/contact-information/.search-test.php" class="simple-form ajax-search" id="search" method="get" name="search">
+<form action="/schools/contact-information/.search-test-zone.php" class="simple-form ajax-search" id="search" method="get" name="search">
 <label for="schoolname">School Name</label><br/>
 <input id="schoolname" name="schoolname" type="text"/> <a href="javascript:" onclick="$('#advanced_search').toggle();">Advanced search</a>
 <div id="advanced_search" style="display: none">

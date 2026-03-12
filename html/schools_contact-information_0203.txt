@@ -10,7 +10,8 @@
                 TARR, SHEILA ACDMY OF INTNL STUDIES ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Jones, Alyson A<br>
+                        
+Principal: Jones, Alyson A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6710<br/>
                                 Fax: 702-799-4317<br/>
 <a href="http://maps.google.com/maps?q=9400 GILMORE AVENUE,+LAS VEGAS,+NV+89129">Map</a>
-                                 | <a href="https://www.sheilatarr.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.sheilatarr.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Believe It...Achieve It</p> <p><b>Mission:</b> The mission of the Sheila Tarr community is to encourage each child to grow academically, socially, and emotionally, by acting responsibly, respectfully, and independently.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

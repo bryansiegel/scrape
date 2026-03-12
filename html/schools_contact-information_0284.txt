@@ -10,7 +10,8 @@
                 BILBRAY, JAMES ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Altfas, Vanessa M<br>
+                        
+Principal: Altfas, Vanessa M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4646<br/>
                                 Fax: 702-799-4538<br/>
 <a href="http://maps.google.com/maps?q=9370 BRENT LANE,+LAS VEGAS,+NV+89143">Map</a>
-                                 | <a href="https://www.bilbrayelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.bilbrayelementary.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> NO MOTTO AT THIS TIME - NEW SCHOOL</p> <p><b>Mission:</b> We, the staff, students, parents, and community of James H. Bilbray Elementary School, respect the uniqueness of all children and are committed to and accountable for academic excellence; ensuring the development of responsible citizens.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

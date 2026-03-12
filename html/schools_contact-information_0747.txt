@@ -10,7 +10,8 @@
                 MATHIS, BEVERLY S. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Ferguson, Lisa R<br>
+                        
+Principal: Ferguson, Lisa R<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-8170<br/>
                                 Fax: 702-799-8171<br/>
 <a href="http://maps.google.com/maps?q=7950 ARVILLE ST,+LAS VEGAS,+NV+89139">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/mathiselementary">Website</a> </br></br></br></p>
-<b>Region:</b> 2                                                    </div>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/mathiselementary">Website</a> 
+<b>Region:</b> 2                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 HILL, CHARLOTTE ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Reynolds, Jennifer L<br>
+                        
+Principal: Reynolds, Jennifer L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5720<br/>
                                 Fax: 702-799-5719<br/>
 <a href="http://maps.google.com/maps?q=560 EAST ELDORADO LANE,+LAS VEGAS,+NV+89123">Map</a>
-                                 | <a href="https://charlottehilles.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://charlottehilles.org/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Charlotte Hill Hawks Soar for Success</p> <p><b>Mission:</b> The mission of Charlotte Hill Elementary School is to provide a school program that fosters respect and appreciation for all people in a safe learning environment that encourages excellence in our children and which develops a love and joy for lifetime learning.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

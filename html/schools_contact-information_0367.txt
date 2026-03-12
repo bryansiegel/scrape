@@ -10,7 +10,8 @@
                 LUMMIS, WILLIAM ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Campbell, Gina L<br>
+                        
+Principal: Campbell, Gina L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4380<br/>
                                 Fax: 702-799-4310<br/>
 <a href="http://maps.google.com/maps?q=9000 HILLPOINTE ROAD,+LAS VEGAS,+NV+89134">Map</a>
-                                 | <a href="http://lummiselementary.weebly.com">Website</a> </br></br></br></p>
+                                 | <a href="http://lummiselementary.weebly.com">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Lighting the Way to the Future</p> <p><b>Mission:</b> The mission of the William R. Lummis Elementary School community is to work collaboratively to establish a safe learning environment that stimulates excitement for learning, is sensitive to the needs of all learners and promotes high levels of achievement and respect.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

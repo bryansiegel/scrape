@@ -10,7 +10,8 @@
                 CAHLAN, MARION ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Rava, Robert M<br>
+                        
+Principal: Rava, Robert M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7103<br/>
                                 Fax: 702-799-0406<br/>
 <a href="http://maps.google.com/maps?q=2801 FT SUMTER DRIVE,+NORTH LAS VEGAS,+NV+89030">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/cahlanelementary/home">Website</a> </br></br></br></p>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/cahlanelementary/home">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Providing a world-class education for all students</p> <p><b>Mission:</b> Producing students that are academically competitive and socially responsible.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 CANNON, HELEN C. JHS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Galvin, Leslye D<br>
+                        
+Principal: Galvin, Leslye D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5600<br/>
                                 Fax: 702-799-5644<br/>
 <a href="http://maps.google.com/maps?q=5850 EUCLID AVENUE,+LAS VEGAS,+NV+89120">Map</a>
-                                 | <a href="https://www.cannonjuniorhighschool.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.cannonjuniorhighschool.com/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Taking Flight Through The 21st Century</p> <p><b>Mission:</b> Helen C. Cannon Junior High School is committed to preparing students to become responsible citizens of the community who are critical thinkers, independent learners and effective communicators.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -1,0 +1,51 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Alternative Service Schools/Programs</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_13676">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_13677">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_13680">
+<div class="fsElementContent">
+<p>The Clark County School District provides educational programs for students who are no longer eligible, either temporarily or permanently, due to being incarcerated, for enrollment in comprehensive schools as well as the adjudicated youth of Clark County, Nevada. Upon release from incarceration, the student may become eligible for enrollment in a comprehensive school or in an educational program offered by the Education Services Division.</p>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_13691">
+<div class="fsElementContent">
+<h3>Adjudicated students may be afforded educational instruction from Clark County School District programs at:</h3>
+<table class="table-styled" width="100%">
+<tbody>
+<tr>
+<td>Florence McClure Women's Correctional Center Adult High School</td>
+</tr>
+<tr>
+<td>High Desert State Prison Adult High School</td>
+</tr>
+<tr>
+<td>High Desert Correctional Center - Youthful Offender Program</td>
+</tr>
+<tr>
+<td>Jean Conservation Camp Adult High School</td>
+</tr>
+<tr>
+<td>Child Haven</td>
+</tr>
+<tr>
+<td>Clark County Detention Center</td>
+</tr>
+<tr>
+<td>Juvenile Detention</td>
+</tr>
+<tr>
+<td>Southern Desert Correctional Center Adult High School</td>
+</tr>
+<tr>
+<td>Spring Mountain Junior/Senior High School</td>
+</tr>
+<tr>
+<td>Summit View Youth Center</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</main>

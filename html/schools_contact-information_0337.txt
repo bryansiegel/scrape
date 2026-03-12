@@ -10,7 +10,8 @@
                 CADWALLADER, RALPH MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Ford, Christie A<br>
+                        
+Principal: Ford, Christie A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6692<br/>
                                 Fax: 702-799-4536<br/>
 <a href="http://maps.google.com/maps?q=7775 ELKHORN ROAD,+LAS VEGAS,+NV+89131">Map</a>
-                                 | <a href="https://www.cadwalladerms.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.cadwalladerms.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Hungry For Knowledge, Howling For Success</p> <p><b>Mission:</b> Our mission is to develop a partnership with home and community to fully prepare our students with the academic skills, integrity and moral responsibility necessary for success in the new millennium.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

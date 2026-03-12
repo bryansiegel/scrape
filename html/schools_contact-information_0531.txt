@@ -10,7 +10,8 @@
                 HYDE PARK MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Reagh, Georgena Kubiak <br>
+                        
+Principal: Reagh, Georgena Kubiak<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,11 +21,11 @@
                                 Phone: 702-799-4260<br/>
                                 Fax: 702-799-0348<br/>
 <a href="http://maps.google.com/maps?q=900 HINSON STREET,+LAS VEGAS,+NV+89107">Map</a>
-                                 | <a href="http://www.hydeparkms.org">Website</a> </br></br></br></p>
+                                 | <a href="http://www.hydeparkms.org">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Learning for Mastery</p> <p><b>Mission:</b> The Hyde Park Middle School community supports and empowers learners.
 
 THE ACADEMY OF SCIENCE AND MATHEMATICS The Academy of Science and Mathematics at Hyde Park Middle School nurtures and enhances students' scientific and mathematical inquiry, as they develop a depth of knowledge, love of learning, and level of self-confidence beyond their years.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

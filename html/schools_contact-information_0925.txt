@@ -10,7 +10,8 @@
                 GALLOWAY, FAY ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Griffin, Barbara A<br>
+                        
+Principal: Griffin, Barbara A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8920<br/>
                                 Fax: 702-799-8927<br/>
 <a href="http://maps.google.com/maps?q=701 SKYLINE ROAD,+HENDERSON,+NV+89002">Map</a>
-                                 | <a href="https://www.gallowayes.org">Website</a> </br></br></br></p>
+                                 | <a href="https://www.gallowayes.org">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Take the Gall-O- Way...It leads to success!</p> <p><b>Mission:</b> Our mission at Fay Galloway Elementary School is to integrate technology into all aspects of the curriculum and instruction, while maintaining a safe and nurturing atmosphere that supports each child's uniqueness.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

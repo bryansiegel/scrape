@@ -1,0 +1,166 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Exchange Visitor Teacher Program Description</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12610">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_12611">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_12612">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_12613">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12614">
+<div class="fsElementContent">
+<p>Since 2017, Clark County School District (CCSD) has hired teachers different countries through the Exchange Visitor Teacher Program. The District focuses its hiring of Cultural Exchange Teachers specifically in the high needs areas of Special Education, Elementary Education, Mathematics, and Science. Due to program limitations and rules, Cultural Exchange Teachers are short-term workers, and as such, CCSD must limit the total number of hires to no more than 175 teachers per school year.</p>
+<p><a class="button-7" href="/ask-ccsd/">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_12615">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="12616" data-source-page-id="1274" data-use-new="true" id="fsEl_12616">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Resources" data-aspect-ratio="0.5633333333333334" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1756145224/ccsdnet/q5wkp3wukntx2ikgopjn/resources.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1756145224/ccsdnet/q5wkp3wukntx2ikgopjn/resources.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756145224/ccsdnet/q5wkp3wukntx2ikgopjn/resources.png%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="resources.png" data-resource-uuid="453f49ef-d2c7-429f-bf31-d73ef53cd71d"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_12646">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-12647" role="presentation">
+<a aria-controls="fsEl_12647" aria-selected="false" href="#fs-panel-12647" role="tab">Selection Process for Interested Applicants</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12649" role="presentation">
+<a aria-controls="fsEl_12649" aria-selected="false" href="#fs-panel-12649" role="tab">Sponsor Partnerships</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12651" role="presentation">
+<a aria-controls="fsEl_12651" aria-selected="false" href="#fs-panel-12651" role="tab">Recruiting Agencies</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12653" role="presentation">
+<a aria-controls="fsEl_12653" aria-selected="false" href="#fs-panel-12653" role="tab">Annual Renewals</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12655" role="presentation">
+<a aria-controls="fsEl_12655" aria-selected="false" href="#fs-panel-12655" role="tab">Extensions</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12647" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12647" aria-expanded="false" href="#fs-panel-12647" role="button">Selection Process for Interested Applicants</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12647"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12648">
+<div class="fsElementContent">
+<h2>J-1 Visa Candidates Applying from Outside of the United States</h2>
+<p>Candidates coming from outside of the United States interested in applying to the Clark County School District may email <a href="mailto:recruitment@nv.ccsd.net">recruitment@nv.ccsd.net</a> for additional information and to be connected with a recruiter.</p>
+<p>If you are a recruiting agency seeking to partner with CCSD, please visit the Recruiting Agencies link for more information on how to become a partner.</p>
+<p>Interested candidates must also be sponsored by one of the District’s three preferred sponsoring agencies: Teachers Council, HRC International, or Global Ambassadors.  Please review the process description below.</p>
+<h2>Hiring Process for J-1 Visa Candidates from Outside of the United States</h2>
+<p>CCSD hires candidates through sponsors and recruitment agencies that provide eligible candidates.  Central office and school-based administrators conduct initial interviews, and candidates are selected based on their classroom experience (a minimum of three years), their proficiency with written and spoken English, and their knowledge and training as determined in an interview to receive conditional offers of employment.  The conditions of the offer are that the candidate must be able to license in the State of Nevada in Special Education, Mathematics, Science, or Elementary Education, must clear a background check including the submission of fingerprints, and must be granted a visa by the U.S. Embassy and/or Consulate in the home country. </p>
+<p>The candidates that have received conditional offers must then apply to specific schools.  School principals interview the applicants and make recommendations for hire.  <!--The Human Resources Talent Acquisition Teams conduct hiring fairs to assist J-1 Visa applicants that have received early offers in connecting with schools and principals to facilitate interviews.-->  Specific school offers must be received prior to the teacher’s arrival to the U.S. to begin his/her program.
+</p>
+<p>Candidates seeking J-1 Visas and a position in CCSD must participate in this selection process.  International teachers attempting to bypass this process by applying directly to schools will be disqualified unless or until they follow the process and receive a conditional offer.</p>
+<p>The initial candidate review and selection process, which includes the early offer of employment, occurs each year between January 1 and January 31.  Once the initial candidate selection process is complete, no additional candidates will be reviewed or selected.</p>
+<h2>J-1 Visa candidates who are currently employed in a school district in the United States</h2>
+<p>J-1 Visa applicants who have a current teaching license in the state where they work, and who are seeking to transfer to CCSD may do so without going through a preferred hiring partner per the process described above; however, they must meet District vetting requirements and have a valid Nevada License.  J-1 Visa holders seeking to transfer from another school district in the United States must have at least three years left in their program (including visa extension).  CCSD does not accept J-1 Visa holders transferring from another school district in the fourth or fifth year of their program. </p>
+<p>Additionally, these candidates should be sponsored by one of our three preferred sponsors: Teacher Council, HRC International, or Global Ambassadors; however, candidates with other sponsors will be evaluated on a case-by-case basis.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12649" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12649" aria-expanded="false" href="#fs-panel-12649" role="button">Sponsor Partnerships</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12649"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12650">
+<div class="fsElementContent">
+<p>CCSD partners with three approved sponsors for the J-1 Exchange Visitor Teacher Program: <a href="https://teacherscouncil.com/teacher-exchange-for-teachers/" rel="nofollow" target="_blank">Teachers Council</a>, <a href="https://hrc-international.com/j-1-visa-program/" rel="nofollow" target="_blank">HRC International</a>, and the <a href="https://gaprograms.com/about/" rel="nofollow" target="_blank">Global Ambassadors Program</a>. All international candidates must be sponsored by one of these organizations. Current J-1 Visa holders transferring to CCSD from another U.S. district are strongly encouraged to use one of these preferred sponsors.</p>
+<p><strong>Important Notes:</strong></p>
+<ul>
+<li>CCSD does not cover J-1 Visa fees. Applicants are responsible for submitting all paperwork and program fees to their sponsor.</li>
+<li>Sponsors, designated by the U.S. Department of State, ensure compliance with BridgeUSA regulations.</li>
+</ul>
+<p><strong>Sponsor Responsibilities:</strong></p>
+<ul>
+<li>Verify candidate eligibility, including experience, education, and references.</li>
+<li>Assess host school placements for program suitability.</li>
+<li>Provide pre-departure orientation on program rules and U.S. living expectations.</li>
+<li>Train hiring agencies and host schools on J-1 regulations.</li>
+<li>Issue DS-2019 paperwork for J-1 visa appointments.</li>
+<li>Offer 24/7 support, including Social Security guidance, SEVIS check-ins, housing assistance, annual renewals, and cultural activity access.</li>
+<li>Ensure teachers have required insurance, including medical evacuation and repatriation coverage.</li>
+</ul>
+<p>At this time, CCSD is not seeking additional J-1 Visa sponsors.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12651" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12651" aria-expanded="false" href="#fs-panel-12651" role="button">Recruiting Agencies</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12651"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12652">
+<div class="fsElementContent">
+<p>CCSD is currently partnered with Foreign Cultural Exchange Consultants (FCEC) to provide slates of candidates for interview from the Philippines; however, the CCSD is seeking to partner with one or two additional partners who may provide slates of candidates from the Philippines as well as from Spanish speaking countries. Organizations wishing to partner with CCSD should email the Human Resources Division at <a href="mailto:recruitment@nv.ccsd.net">recruitment.ccsd.net</a> for more information and to schedule meetings to discuss potential partnerships.  CCSD will conduct a review of potential agencies and selected agencies will be required to contact one of the district’s preferred sponsors.  Sponsors are responsible for the final vetting of the recruiting agency.</p>
+<p>Organizations seeking to partner with CCSD are advised that CCSD does not pay fees or costs to services providing slates of candidates for potential hire. Recruiting agencies are required to supply in advance a full breakdown of fees that may be applicable to participate in the program along with the below vetting documents.</p>
+<p>Hiring agencies working with CCSD must be able to provide the following information to the CCSD for consideration in the selection process.  This information will also be requested by the selected sponsor:</p>
+<ul>
+<li>Evidence that candidates will be able to license in the State of Nevada.</li>
+<ul><li>Information regarding licensure as well as transcript requirements can be found on the <a href="https://doe.nv.gov/Educator_Licensure/" target="_blank">Nevada Department of Education website</a>.</li>
+<li>Evidence may include sample correlations between candidate transcripts and state requirements, examples of teaching licenses issued by the country of origin (or state or province where applicable) with area(s) of specialty listed that will earn license reciprocity in Nevada, or examples of J-1 candidates previously hired in the State of Nevada.</li>
+</ul>
+<li>A detailed description of all costs and fees paid by the candidate to the hiring agency and the sponsor.</li>
+<li>A detailed description of how the agency assists candidates to:</li>
+<ul><li>arrive in the United States,</li>
+<li>make living arrangements,</li>
+<li>budget for expenses,</li>
+<li>transition to living in the United States.</li>
+</ul>
+<li>A detailed description of how the agency assists candidates to obtain the appropriate visa and appointments to be cleared to travel to the United States.</li>
+<li>A detailed explanation of how the agency supports candidates after their arrival.</li>
+<li>Any additional information that may make the service provided by the hiring agency unique or different from other companies.</li>
+<li>A copy of the company’s business license.</li>
+<li>Three business references including one from U.S. sponsor if possible.</li>
+<li>Copies of company’s marketing materials to show program is being marketed correctly.</li>
+</ul>
+<p>In addition to the above, the selected sponsor may also request the following:</p>
+<ul>
+<li>Criminal background check on owner(s) of company with translation.</li>
+<li>Written confirmation that the company has no pending legal actions or bankruptcy filings.</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12653" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12653" aria-expanded="false" href="#fs-panel-12653" role="button">Annual Renewals</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12653"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12654">
+<div class="fsElementContent">
+			Visas are typically issued by the Embassy in the applicants’ home country for a period of three years. SEVIS records for each teacher are updated annually to ensure teachers are in good standing and have updated information on their record. Monthly wellness check-ins and annual reports, detailing how they have participated in cross-cultural activities, are a factor in the renewal process. Any participant who has pursued a change of status to another visa type is no longer eligible to participate in the BridgeUSA Exchange Visitor program.
+
+	</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12655" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12655" aria-expanded="false" href="#fs-panel-12655" role="button">Extensions</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12655"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12656">
+<div class="fsElementContent">
+<p>During the 3rd year of participation in the program, teachers are eligible to apply for an extension of one to two years. Teachers in good standing with the district and the sponsor are submitted to the State Department for consideration of the program extension. Any participant who has pursued a change of status to another visa type is no longer eligible to participate in the Bridge USA Exchange Visitor program and extensions are generally denied. The purpose of the extension is to allow teachers and Districts, who wish to experience two additional years to continue teaching at their current school. Transfers to new schools or districts during this period are not permitted.</p>
+<p>If the current Host School is unable to offer a position –according to the Teacher Exchange Program’s regulations- the Exchange Visitor will conclude their participation in that year and is expected to depart the United States no more than 30 days after the Program end date as confirmed on his/her DS-2019.</p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

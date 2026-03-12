@@ -10,7 +10,8 @@
                 BURKHOLDER, LYAL ACDMY OF ENVIR SCIENCE<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Hermes, Christopher <br>
+                        
+Principal: Hermes, Christopher<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8080<br/>
                                 Fax: 702-799-8088<br/>
 <a href="http://maps.google.com/maps?q=355 W. VAN WAGENEN,+HENDERSON,+NV+89015">Map</a>
-                                 | <a href="http://www.burkholderms.org">Website</a> </br></br></br></p>
+                                 | <a href="http://www.burkholderms.org">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Jaguars Achieving Global Success</p> <p><b>Mission:</b> As members of our diverse community, Burkholder Middle School embraces a generosity of spirit and passion for excellence by bridging tradition with innovation to inspire 21st century scholars.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

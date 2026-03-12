@@ -10,7 +10,8 @@
                 BROOKMAN, EILEEN B. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Hall, Darren S<br>
+                        
+Principal: Hall, Darren S<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7250<br/>
                                 Fax: 702-799-7241<br/>
 <a href="http://maps.google.com/maps?q=6225 EAST WASHINGTON AVENUE,+LAS VEGAS,+NV+89110">Map</a>
-                                 | <a href="http://www.brookmanelementary.com/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.brookmanelementary.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Constructing the Path to Success</p> <p><b>Mission:</b> We expect students to master grade level standards using problem solving strategies as independent responsible citizens.  Through various formative and summative assessments, students will demonstrate mastery of concepts and skills and be able to apply them to new academic experiences.  By differentiating instruction, using actively engaging lessons and interventions, family involvement, collaborative efforts, appropriate resources, materials and opportunities for self reflection (teacher/student), students will be supported in their learning experiences.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

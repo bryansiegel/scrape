@@ -10,7 +10,8 @@
                 SPRING VALLEY HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Powell, Tara B<br>
+                        
+Principal: Powell, Tara B<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-2580<br/>
                                 Fax: 702-799-1288<br/>
 <a href="http://maps.google.com/maps?q=3750 SOUTH BUFFALO DRIVE,+LAS VEGAS,+NV+89147">Map</a>
-                                 | <a href="http://www.springvalleyhs.com">Website</a> </br></br></br></p>
-<b>Region:</b> 2                                                    </div>
+                                 | <a href="http://www.springvalleyhs.com">Website</a> 
+<b>Region:</b> 2                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 TOBLER, R. E. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Godinez, Amy A<br>
+                        
+Principal: Godinez, Amy A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4500<br/>
                                 Fax: 702-799-4520<br/>
 <a href="http://maps.google.com/maps?q=6510 BUCKSKIN AVE,+LAS VEGAS,+NV+89108">Map</a>
-                                 | <a href="https://www.toblerelementary.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.toblerelementary.com/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> The love of learning is the greatest gift any generation can give a child.</p> <p><b>Mission:</b> We, the community of R. E. Tobler, are committed to the overall growth and development of our children. We are responsible for providing a non-threatening, nurturing and challenging environment that enables students to develop their individual talents and become positive, productive citizens.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

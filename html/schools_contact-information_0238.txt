@@ -10,7 +10,8 @@
                 VANDERBURG, JOHN ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Reedom, Ronda C<br>
+                        
+Principal: Reedom, Ronda C<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-0540<br/>
                                 Fax: 702-799-0546<br/>
 <a href="http://maps.google.com/maps?q=2040 DESERT SHADOW TRAIL,+HENDERSON,+NV+89012">Map</a>
-                                 | <a href="http://www.vanderburges.com">Website</a> </br></br></br></p>
+                                 | <a href="http://www.vanderburges.com">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> We will succeed!</p> <p><b>Mission:</b> All students will experience success on a daily basis to develop self-confidence and an enjoyment for learning.  Living our belief that all children can succeed is the key to realizing our mission.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

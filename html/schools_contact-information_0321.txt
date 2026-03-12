@@ -10,7 +10,8 @@
                 WILLIAMS, TOM ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Reasbeck, Carrie A<br>
+                        
+Principal: Reasbeck, Carrie A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7179<br/>
                                 Fax: 702-799-8341<br/>
 <a href="http://maps.google.com/maps?q=3000 EAST TONOPAH,+NORTH LAS VEGAS,+NV+89030">Map</a>
-                                 | <a href="https://www.tomwilliamselementary.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.tomwilliamselementary.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Soaring ever higher</p> <p><b>Mission:</b> The mission of Tom Williams Elementary School is to effectively achieve high social and academic standards through a partnership of students, parents, staff, and community.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

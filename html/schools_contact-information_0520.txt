@@ -10,7 +10,8 @@
                 DONDERO, HARVEY N. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Castillo, Terri L<br>
+                        
+Principal: Castillo, Terri L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5940<br/>
                                 Fax: 702-799-1210<br/>
 <a href="http://maps.google.com/maps?q=4450 SOUTH RIDGEVILLE STREET,+LAS VEGAS,+NV+89103">Map</a>
-                                 | <a href="https://www.donderodolphins.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.donderodolphins.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Learning To Be Successful</p> <p><b>Mission:</b> The mission of Harvey N. Dondero Elementary School is to ensure academic achievement for all students, in partnership with parents, in a safe learning environment that promotes social and intellectual growth.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

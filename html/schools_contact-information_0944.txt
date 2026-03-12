@@ -10,7 +10,8 @@
                 VIRGIN VALLEY HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Waite, Stephen D<br>
+                        
+Principal: Waite, Stephen D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-346-2780<br/>
                                 Fax: 702-346-7265<br/>
 <a href="http://maps.google.com/maps?q=820 VALLEY VIEW DRIVE,+MESQUITE,+NV+89027">Map</a>
-                                 | <a href="https://vvhsdawgs.org">Website</a> </br></br></br></p>
+                                 | <a href="https://vvhsdawgs.org">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Go The Distance</p> <p><b>Mission:</b> The mission of Virgin Valley High School is to enable students to achieve academic excellence through challenging instruction in a nurturing school community, to develop a lifelong love of learning, to attain enriching personal goals, and to become productive members of an ever-changing society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,19 +10,20 @@
                 WILLIAMS, WENDELL P. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Ireland, Cynthia A<br>
+                        
+Principal: Childress, Krystal L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
-<!-- 								Ireland, Cynthia A --><!-- <br> -->
+<!-- 								Childress, Krystal L --><!-- <br> -->
                                 1030 J STREET<br>
                                 LAS VEGAS, NV 89106<br>
                                 Phone: 702-799-4760<br/>
                                 Fax: 702-799-4765<br/>
 <a href="http://maps.google.com/maps?q=1030 J STREET,+LAS VEGAS,+NV+89106">Map</a>
-                                 | <a href="https://www.wendellpwilliamses.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.wendellpwilliamses.org/">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> Making a Difference</p> <p><b>Mission:</b> The staff at Wendell P. Williams Elementary School, in cooperation with students, parents, and the community, is dedicated to the development of individual strengths and talents, and to the assurance of academic excellence for all students in a positive, caring, and supportive environment.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

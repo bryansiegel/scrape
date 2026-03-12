@@ -10,7 +10,8 @@
                 CASHMAN, JAMES MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Samuel, Rachel <br>
+                        
+Principal: Samuel, Rachel<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5880<br/>
                                 Fax: 702-799-5947<br/>
 <a href="http://maps.google.com/maps?q=4622 WEST DESERT INN RD,+LAS VEGAS,+NV+89102">Map</a>
-                                 | <a href="https://cashmanms.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://cashmanms.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Citius, Altius, Fortius</p> <p><b>Mission:</b> The mission of James Cashman Middle School is to provide educational experiences that promote academic achievement and develop life-long learners.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

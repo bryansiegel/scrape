@@ -17,30 +17,7 @@
 <h2>Notice of Intent - Date of Meeting:</h2>
 <p>Reflects the date of the board meeting discussion/action will be taken on the
                         Notice of Intent.</p>
-<table cellspacing="0" class="simple-table-rows" id="notice_intent" name="notice_intent" width="100%">
-<thead>
-<tr>
-<th>Title</th>
-<th>Board Meeting Date</th>
-<th>Contact</th>
-<th>Comment</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td valign="top"><a href="/district/policies-regulations/notices/p-5136-personal-technolog.pdf" target="_blank">P-5136, Personal Technology and Communication Devices</a></td>
-<td align="center" valign="top">08/14/25</td>
-<td align="center" valign="top">Jennifer Vaccaro<br/>(702) 799-0063</td>
-<td align="center" valign="top"><a href="/district/policies-regulations/comments/intent/927">Submit a comment</a></td>
-</tr>
-<tr>
-<td valign="top"><a href="/district/policies-regulations/notices/p-4300-employee-in-state-.pdf" target="_blank">P-4300 Employee In-State Work Requirement</a></td>
-<td align="center" valign="top">08/14/25</td>
-<td align="center" valign="top">RoAnn Triana<br/>(702) 799-1030</td>
-<td align="center" valign="top"><a href="/district/policies-regulations/comments/intent/928">Submit a comment</a></td>
-</tr>
-</tbody>
-</table>
+<p><strong>No policies or regulations are scheduled at this time.</strong></p>
 <h2>Final Action - Date of Meeting:</h2>
 <p>This date will indicate the date of the board meeting when the final discussion/action
                         will occur. This is the last meeting for public comment on the issue.</p>
@@ -55,10 +32,10 @@
 </thead>
 <tbody>
 <tr>
-<td valign="top"><a href="/district/policies-regulations/notices/r-3312-purchasing-authori.pdf" target="_blank">R-3312, Purchasing Authorization and Neptism--All Funds</a></td>
-<td align="center" valign="top">08/14/25</td>
-<td align="center" valign="top">Jazmin Hernandez<br/>(702) 799-5008</td>
-<td align="center" valign="top"><a href="/district/policies-regulations/comments/final/924">Submit a comment</a></td>
+<td valign="top"><a href="/district/policies-regulations/notices/p-5136-personal-technolog.pdf" target="_blank">P-5136, Personal Technology and Communication Devices</a></td>
+<td align="center" valign="top">09/11/25</td>
+<td align="center" valign="top">Jennifer Vaccaro<br/>(702) 799-0063</td>
+<td align="center" valign="top"><a href="/district/policies-regulations/comments/final/932">Submit a comment</a></td>
 </tr>
 </tbody>
 </table>

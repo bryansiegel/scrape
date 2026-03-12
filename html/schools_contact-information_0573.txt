@@ -10,7 +10,8 @@
                 CORONADO HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Piccininni, Michael N<br>
+                        
+Principal: Piccininni, Michael N<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6800<br/>
                                 Fax: 702-799-6839<br/>
 <a href="http://maps.google.com/maps?q=1001 CORONADO CENTER DRIVE,+HENDERSON,+NV+89052">Map</a>
-                                 | <a href="https://www.1001coronado.net/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.1001coronado.net/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Excellence by Design</p> <p><b>Mission:</b> Working together we will go one step further as Cougars by fostering citizenship, opportunity, unity, generosity, academics, and responsibility in society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

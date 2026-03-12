@@ -10,7 +10,8 @@
                 SEWELL, C. T. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Synold, Heather Marie <br>
+                        
+Principal: Synold, Heather Marie<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8940<br/>
                                 Fax: 702-799-8965<br/>
 <a href="http://maps.google.com/maps?q=700 EAST LAKE MEAD PARKWAY,+HENDERSON,+NV+89015">Map</a>
-                                 | <a href="http://sewellelementary.org">Website</a> </br></br></br></p>
+                                 | <a href="http://sewellelementary.org">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> We care, we share, we learn together.</p> <p><b>Mission:</b> Through the cooperative efforts of staff, students, parents, and community, C.T. Sewell Elementary School continually strives to meet the needs of individual students in order for all students to realize their maximum academic and social potential in the world of today and tomorrow.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

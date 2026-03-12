@@ -1,0 +1,315 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Enroll</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_3385">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_3386">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_168101">
+<div class="fsElementContent">
+<h2 style="font-size:30px !important;"><span class="left-yellow"></span>Enroll Your Student in Clark County School District (CCSD)</h2>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_6675">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_6676">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6671">
+<div class="fsElementContent">
+<h3>Student Registration Information</h3>
+<p>Children shall be placed in the age-appropriate grade based upon their age as of August 1, unless retained or demoted in accordance with CCSD policies and regulations. Age-appropriate grade is determined by the ages provided in <a href="https://www.leg.state.nv.us/nrs/nrs-392.html#NRS392Sec040" target="_blank">NRS 392.040</a> (as amended).</p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_6677">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="6670" data-source-page-id="632" data-use-new="true" id="fsEl_6670">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755294887/ccsdnet/ecf21a7sms2e1inw6pfb/2.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755294887/ccsdnet/ecf21a7sms2e1inw6pfb/2.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755294887/ccsdnet/ecf21a7sms2e1inw6pfb/2.jpg%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="2.jpg" data-resource-uuid="d00c4992-85db-4786-bcf4-05689ac0971f"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_3387">
+<div class="fsElementContent">
+<h3>Minimum Age and Entrance Requirements</h3>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_6644">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-6645" role="presentation">
+<a aria-controls="fsEl_6645" aria-selected="false" href="#fs-panel-6645" role="tab">Kindergarten Registration</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-6647" role="presentation">
+<a aria-controls="fsEl_6647" aria-selected="false" href="#fs-panel-6647" role="tab">First Grade Registration</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_6645" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_6645" aria-expanded="false" href="#fs-panel-6645" role="button">Kindergarten Registration</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-6645"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6646">
+<div class="fsElementContent">
+<p>A student must be 5 years of age on or before August 1 to be enrolled in kindergarten.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_6647" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_6647" aria-expanded="false" href="#fs-panel-6647" role="button">First Grade Registration</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-6647"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6648">
+<div class="fsElementContent">
+<h3>First Grade Registration</h3>
+<p>A student must be 6 years of age on or before August 1 and completed kindergarten to be enrolled in first grade.</p>
+<p>OR</p>
+<p>Demonstrate proof of completing kindergarten and promotion to first grade while being a resident of another state in compliance with the age and entrance requirements of that same state.</p>
+<p><strong>Important:</strong> When demonstrating proof of completion of kindergarten, it cannot be met via an online or homeschool program.</p>
+<h3>Second Grade Registration</h3>
+<p>A student must be 7 years of age on or before August 1 and completed kindergarten and first grade.</p>
+<p>OR</p>
+<p>Demonstrate proof of completing kindergarten, first grade, and promotion to second grade while being a resident of another state in compliance with the age and entrance requirements of that same state.</p>
+<p><strong>Important:</strong> When demonstrating proof of completion of kindergarten and first grade, it must be from a public, charter, or private school.</p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_6678">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_6679">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6681">
+<div class="fsElementContent">
+<h3>Registration Information</h3>
+<p>The following information will help you prepare to register your child in the Clark County School District.</p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_6680">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="6682" data-source-page-id="632" data-use-new="true" id="fsEl_6682">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Student in class" data-aspect-ratio="0.5625" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1769177641/ccsdnet/f94ivpsr4tcorslls5qz/0R3A9758-1920x1080-c.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1769177641/ccsdnet/f94ivpsr4tcorslls5qz/0R3A9758-1920x1080-c.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1769177641/ccsdnet/f94ivpsr4tcorslls5qz/0R3A9758-1920x1080-c.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1769177641/ccsdnet/f94ivpsr4tcorslls5qz/0R3A9758-1920x1080-c.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1769177641/ccsdnet/f94ivpsr4tcorslls5qz/0R3A9758-1920x1080-c.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1769177641/ccsdnet/f94ivpsr4tcorslls5qz/0R3A9758-1920x1080-c.jpg%22,%22width%22:1920}]" data-permitted-user="true" data-resource-title="0R3A9758-1920x1080-c.jpg" data-resource-uuid="04f8f322-778e-4df5-a76f-8d8d4f082f97"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6651">
+<div class="fsElementContent">
+<figure class="fsImage fsStateFloatLeft" style="float:left"><picture><img alt="1" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755792713/ccsdnet/liznstffezsul3juslxx/1.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="1.png" data-resource-uuid="d465d113-b3a5-4e2e-b6e2-a420cd860e2d" loading="lazy" src="" style=""/></picture></figure>
+<h3>School Search</h3>
+<p><a class="button-1" data-page-name="Zoning Search" href="/fs/pages/801" target="_blank">Click here to Search for your Child's Zoned School</a></p>
+<div style="height: 1px; border: 1px dotted lightgrey;margin-top:10px;margin-bottom: 20px;"> </div>
+<figure class="fsImage fsStateFloatLeft" style="float:left"><picture><img alt="2" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755792734/ccsdnet/ofqi7osx64ogh6hifv2x/2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="2.png" data-resource-uuid="4bd8ffed-3242-4275-a9ca-ece740021797" loading="lazy" src="" style=""/></picture></figure>
+<h3>Online Registration</h3>
+<p>The Online Registration System is available in English &amp; Spanish.<br/>
+Parents can complete registration at home or contact their child’s zoned school for school registration dates and hours.</p>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_6652">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_6653">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6655">
+<div class="fsElementContent">
+<div style="font-weight:bold; background-color:#f0f5f9; border-radius:5px; padding-top: 30px;padding-bottom:30px;padding-left:30px;padding-right:30px;box-shadow: 0 2px 2px rgba(211, 211, 211, 0.5);min-height:350px;
+ ">
+<h4>Existing Student</h4>
+<p>Parents who have children currently registered in a CCSD school use their Campus Parent account to re-register their children or add a child.</p>
+<p>Click on the button below to log in to Campus Parent:</p>
+<p><a class="button-1" href="https://campus.ccsd.net/campus/portal/clark.jsp">Online Registration - Existing Student</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_6654">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6656">
+<div class="fsElementContent">
+<div style="font-weight:bold; background-color:#f0f5f9; border-radius:5px; padding-top: 30px;padding-bottom:30px;padding-left:30px;padding-right:30px;box-shadow: 0 2px 2px rgba(211, 211, 211, 0.5);min-height:350px;
+ ">
+<h4>New To District</h4>
+<p>Parents who have children new to CCSD or are returning after having left CCSD can use the link below to register. After completing the online registration application, bring all required documents to your child’s zoned school.</p>
+<!--    <p>Parents who have children new to CCSD or are returning after having left CCSD can use the link below to enroll. After completing the online enrollment application, bring all required documents to your child’s zoned school.</p> --><!--       <p>Parents who have children new to CCSD or are returning after having left CCSD can use the link below to enroll. After completing the online registration application, bring all required documents to your child’s zoned school.</p> -->
+<p>Click on the button below to complete a new registration:</p>
+<p><a class="button-1" href="https://campus.ccsd.net/campus/OLRLoginKiosk/clark?configGroupID=23">Online Registration - New To District</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6657">
+<div class="fsElementContent">
+<figure class="fsImage fsStateFloatLeft" style="float:left"><picture><img alt="3" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755792768/ccsdnet/qtij8orsrlbizxiz22wl/3.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="3.png" data-resource-uuid="5865cf4f-30d4-47b6-8bd3-1bef13328f22" loading="lazy" src="" style=""/></picture></figure>
+<h3>Documents Required For Registration</h3>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_6658">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-6659" role="presentation">
+<a aria-controls="fsEl_6659" aria-selected="false" href="#fs-panel-6659" role="tab">Parent/Guardian ID</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-6661" role="presentation">
+<a aria-controls="fsEl_6661" aria-selected="false" href="#fs-panel-6661" role="tab">Child's ID</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-6663" role="presentation">
+<a aria-controls="fsEl_6663" aria-selected="false" href="#fs-panel-6663" role="tab">Immunization Record</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-6665" role="presentation">
+<a aria-controls="fsEl_6665" aria-selected="false" href="#fs-panel-6665" role="tab">Proof of address</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_6659" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_6659" aria-expanded="false" href="#fs-panel-6659" role="button">Parent/Guardian ID</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-6659"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6660">
+<div class="fsElementContent">
+<div>Personal identification of parent/guardian (valid driver's license, picture identification, etc.) bearing your name.</div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_6661" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_6661" aria-expanded="false" href="#fs-panel-6661" role="button">Child's ID</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-6661"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6662">
+<div class="fsElementContent">
+<p>Please bring ONE of the following (photocopies <strong>will not</strong> be accepted):</p>
+<ul>
+<li>Original birth certificate</li>
+<li>Passport</li>
+<li>Certified birth card issued by the Clark County Health District or another health district.</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_6663" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_6663" aria-expanded="false" href="#fs-panel-6663" role="button">Immunization Record</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-6663"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6664">
+<div class="fsElementContent">
+<p><strong>NRS 392.435 Immunization of pupils: Certificate prerequisite to registration; conditional registration; effect of failure to immunize; report to Health Division; inclusion of certificate in pupil’s record.</strong><br/>
+Unless excused because of religious belief or medical condition, <strong>a child may not be registered in a public school within this State</strong> unless his parents or guardian submit to the board of trustees of the school district in which the child resides a certificate stating that the child has been immunized and has received proper boosters for that immunization or is complying with the schedules established pursuant to NRS 439.550.</p>
+<p><a name="ImmRes"></a></p>
+<h3>Immunization Resources</h3>
+<ul>
+<li><a data-file-name="2025-2026-PreK-Immunization-Ref-Guide-07012025_NA_1.pdf" data-resource-uuid="66a11982-9c63-4ec8-ab2f-94182bfe3db7" href="/fs/resource-manager/view/66a11982-9c63-4ec8-ab2f-94182bfe3db7" target="_blank">Early Childhood Special Education (ECSE) / Pre-Kindergarten (Pre-K) Immunization Requirements 2025-2026 School Year (PDF)</a></li>
+<li><a data-file-name="2025-2026-K-12-Quick-Immunization-Reference-Guide_1.pdf" data-resource-uuid="de01a593-ebd6-4cca-9977-bd18feca428b" href="/fs/resource-manager/view/de01a593-ebd6-4cca-9977-bd18feca428b" target="_blank">K-12 Quick Immunization Reference Guide 2025-2026 School Year (PDF)</a></li>
+</ul>
+<h3>2025-2026 School Year Immunization Guidelines</h3>
+<p><strong>NRS 392.435 Immunization of pupils: Certificate prerequisite to enrollment; conditional enrollment; effect of failure to immunize; report to Health Division; inclusion of certificate in pupil’s record.</strong></p>
+<p> </p>
+<p><strong>Unless excused because of religious belief or medical condition, a child may not be enrolled in a public school within this State unless his parents or guardian submit to the board of trustees of the school district in which the child resides a certificate stating that the child has been immunized and has received proper boosters for that immunization or is complying with the schedules established pursuant to NRS 439.550 for the following diseases:</strong></p>
+<p><strong><strong>5 DTaP/DPT</strong> (Minimum age: 6 weeks) if series was started before age 7 (lab titer NOT acceptable)</strong></p>
+<p><strong><strong>Catch up schedule</strong> – Students age 7 or older, who are not immunized with the childhood DTaP/DPT vaccine series, should receive Tdap vaccine as the initial dose in the catch-up series. If additional doses are needed, use the Td/Tdap vaccine.</strong></p>
+<ul>
+<li><strong>1st, 2nd dose and 2nd and 3rd dose must be separated by 4 weeks</strong></li>
+<li><strong>4th dose must be separated from the 3rd dose by at least 4 months</strong></li>
+<li><strong>5th dose must be separated from the 4th dose by at least 6 months and given on or after 4th birthday</strong></li>
+<li><strong>5th dose not needed if 4th dose given on or after 4th birthday and at least 6 months after previous dose</strong>
+<ul>
+<li><strong>A total of 4 doses DTaP/DTP/Td/Tdap combination is needed if the first dose is given less than 12 months of age. Dose 3 and 4 must be 6 months apart. 4th dose does not need to be repeated if it was administered at least 4 months after the 3rd dose</strong></li>
+<li><strong>A total of 3 doses Td/Tdap combination is needed if first dose given at 12 months and older. Dose 2 and 3 must be 6 months apart</strong></li>
+</ul>
+</li>
+<li><strong>Tdap if given at age 7,8 or 9, must be repeated at age 11-12 years old. Dose is valid if administered at age 10.</strong></li>
+</ul>
+<p><strong><strong>2 Hepatitis A</strong> (Minimum age: 12 months) (lab titer acceptable)</strong></p>
+<ul>
+<li><strong>2nd dose must be at least 6 months after the 1st dose.</strong></li>
+</ul>
+<p><strong><strong>3 Hepatitis B</strong> (Minimum age: birth) (lab titer acceptable)</strong></p>
+<ul>
+<li><strong>1st and 2nd dose must be separated by 4 weeks</strong></li>
+<li><strong>2nd and 3rd dose must be separated by at least 8 weeks</strong></li>
+<li><strong>3rd dose at least 16 weeks after the 1st dose. (Minimum age for final- 3rd or 4th dose: 24 weeks of age)</strong></li>
+</ul>
+<p><strong><strong>2 MMR**</strong> (Minimum age: 12 months) (lab titer acceptable)</strong></p>
+<ul>
+<li><strong>1st and 2nd dose must be separated by at least 4 weeks</strong></li>
+<li><strong>2nd not required until on or after the 4th birthday</strong></li>
+</ul>
+<p><strong><strong>1-2 MCV4 (MenACWY-Quadrivalent MENINGOCOCCAL)</strong> (lab titer NOT acceptable)</strong></p>
+<ul>
+<li><strong>Required for 7th grade registration after June 30, 2017 (and all students new to District between 8th and 12th grade).</strong></li>
+<li><strong>Must receive at least 1 dose of MenACWY on or after age 10 years. (Does not apply to students registered before July 1, 2009).</strong></li>
+<li><strong>A MCV4 (MenACWY) dose is required on or after the age of 16 for students entering 12th grade. </strong></li>
+<li><strong>Required for 12th grade registration after June 30, 2022. (Does not apply to students registered before July 1, 2009).</strong></li>
+</ul>
+<p><strong><strong>3-4 Polio/IPV/OPV</strong> (Minimum age: 6 weeks) (lab titer NOT acceptable)</strong></p>
+<ul>
+<li><strong>1st, 2nd and 3rd doses must be separated by 4 weeks</strong></li>
+<li><strong>Final dose at least 6 months after the previous dose and on or after 4th birthday</strong></li>
+<li><strong>4th dose not needed if 3rd dose is at least 6 months from the previous dose and on or after 4th birthday</strong></li>
+</ul>
+<p><strong><strong>1 Tdap</strong> (lab titer NOT acceptable)</strong></p>
+<ul>
+<li><strong>Required for 7th grade registration and all students grade 8th - 12th<br/>
+	*See DTaP/DTP for catch up schedule. Dose is valid if administered at age 10. </strong></li>
+</ul>
+<p><strong><strong>2 Varicella/Chicken Pox**</strong> (Minimum age: 12 months) required for students new to Nevada, or new to District after July 1, 2011</strong></p>
+<ul>
+<li><strong>12 months through 12 years, 1st and 2nd dose should be separated by 3 months; however dose is valid if separated by 4 weeks if inadvertently administered (lab titer acceptable).</strong></li>
+<li><strong>13 years and older, 1st and 2nd dose must be separated by 4 weeks</strong></li>
+<li><strong>Physician verification of past disease required for exemption</strong></li>
+</ul>
+<p><strong><em>**Live vaccines (MMR, Varicella and live, attenuated Influenza) must be separated by 28 days if not given on the same day. Four-day rule applies if the same live vaccine is administered.</em></strong></p>
+<p><strong><strong>New Waiver Changes</strong></strong></p>
+<p><strong>The <strong>religious exemption</strong> form will be completed annually in accordance with state guidelines.</strong></p>
+<p><strong>The <strong>permanent medical exemption</strong> will not have to be completed annually since it is a permanent medical condition.</strong></p>
+<p><strong>The <strong>temporary medical exemption</strong> will be completed annually in accordance with state guidelines.</strong></p>
+<p><strong><!-- 			<p><em>**Please provide any proof of student COVID vaccines/boosters to the school health office</em></p> --> <a contenteditable="false" name="proofAddr" style="cursor: pointer;"></a></strong></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_6665" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_6665" aria-expanded="false" href="#fs-panel-6665" role="button">Proof of address</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-6665"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6666">
+<div class="fsElementContent">
+<p>You must bring one of the following:</p>
+<ul>
+<li>Recent utility bill</li>
+<li>Rent receipt</li>
+<li>Residence Lease or Sales Contract</li>
+</ul>
+<p>Note: If you only have a residence lease or sales contract as proof of address, the school will register your child on the condition that one additional proof of address from the above list is submitted within 30 days. Driver's license, telephone bill or cable bill are NOT acceptable.</p>
+<p>If you do not have documentation because you are living in a temporary or homeless situation, call Title I Homeless Outreach Program for Education at 702-855-6682.</p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout bg-cream fsStyleAutoclear" data-use-new="true" id="fsEl_117740">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_117741">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_117742">
+<div class="fsElementContent">
+<h3>Adult Education</h3>
+<p>The Clark County School District Department of Adult Education is an educational program designed to serve adults and out of school youth 18 years of age or older who desire to earn a high school diploma or obtain a Nevada State Certificate of High School Equivalency. The program also serves students enrolled in comprehensive high schools who are credit deficient.</p>
+<p><a class="button-1" href="https://www.clarkcountyadulteducation.net/" target="_blank">Learn More</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_117743">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="117744" data-source-page-id="632" data-use-new="true" id="fsEl_117744">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Main Content" data-aspect-ratio="0.6216216216216216" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1747825836/ccsdnet/gfqlekob9alygt5qvkgg/MainContent.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1747825836/ccsdnet/gfqlekob9alygt5qvkgg/MainContent.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1747825836/ccsdnet/gfqlekob9alygt5qvkgg/MainContent.png%22,%22width%22:740}]" data-permitted-user="true" data-resource-title="MainContent.png" data-resource-uuid="26ff27d7-8aaa-4c5d-85a8-6fb5b68048c8"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -1,0 +1,135 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Acceptable Use Policy</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10636">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_10637">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10638">
+<div class="fsElementContent">
+<p>Computer network resources, provided by the Clark County School District (District) enable communication with electronic communities around the world. These computer network resources include the Internet, email, cloud-based systems, and all other Internet service providers when used in an educational setting.
+</p>
+<p>The use of these electronic resources shall be consistent with the purpose, mission, and goals of the District and used for professional or educational purposes. The purpose of providing these services is to facilitate access to information and resources, promote educational excellence, and enhance communication.
+</p>
+<p>The Internet is a network connecting thousands of computers throughout the world. The Internet can bring a wealth of educational material to the classroom but may also contain material that is objectionable. The District filters websites and content that is believed to be inappropriate for students in compliance with cybersecurity best practices and the Children’s Internet Protection Act (CIPA). However, no filtering system is perfect. The District cannot and does not represent that inappropriate or objectionable material can be completely filtered. Parent(s) and guardian(s) must consider this when deciding whether to permit their children access to the District’s computer network resources.
+</p><p>
+</p><p>This Acceptable Use Policy (AUP) is provided so that staff, students, and members of the community using the District’s computer network resources are aware of their responsibilities. The use of these network resources is a privilege, not a right.
+</p>
+<h2>TERMS AND CONDITIONS</h2>
+<h4>A. Access to District Network Resources</h4>
+<ol>
+<li>Staff, students, and members of the community may be given access to the District’s computer network resources. This access, including account and password, must not be shared, assigned, or transferred to another individual.
+</li>
+<li>The District’s computer network resources are intended solely for official District educational purposes. Personal use of these computer network resources is strictly prohibited (other than incidental personal use as set forth in Section J of this AUP). Misuse, including unauthorized use of the computer network resources and the data maintained therein for personal activities, may result in disciplinary action, up to and including suspension or termination of access.
+</li>
+<li>The District will periodically require new registration and account information from school, staff, and community members. Adult users must notify the system administrators of any changes in account information (address, phone, name, etc.) within fifteen (15) business days.</li>
+<li>Employees who violate this AUP are subject to progressive discipline up to and including dismissal. Student violations of this AUP will follow the <em>Clark County School District Pre-Kindergarten–Grade 12 Student Code of Conduct</em> discipline process.
+</li>
+<li>Upon enrollment, each student will receive access to the District’s network resources unless a parent/guardian explicitly indicates the student should not have access during the online registration process. The parent(s) or legal guardian(s) can opt out of network access at any time upon written request.
+</li>
+<li>District-provided accounts (@nv.ccsd.net) are provided to fulfill job and educational responsibilities within the organization. Accounts are to be used solely for work-related and/or educational purposes and should not be used for personal purposes. District-provided accounts cannot be used to register with personal services such as Facebook, TikTok, Instagram, etc.
+</li>
+<li>The use of streaming services (e.g., entertainment, music, gaming) using personal (non-District) accounts is prohibited on the District network. Having a personal account with these services does not allow you to use the service for anything other than personal use. Use of these services for or at work may constitute a copyright violation. Therefore, access to these services will be restricted to prevent any violation of copyright law and to maintain appropriate network usage.
+</li>
+<li>Access to online gaming services is generally restricted on the District network, with exceptions made for specific educational programs and school-sponsored clubs that have prior approval. Gaming sites or applications that are not expressly authorized may not be accessed on the network. Exceptions are managed on a case-by-case basis to support educational purposes while minimizing non-educational network traffic.
+</li>
+<li>Users must use multi-factor authentication (MFA) when accessing sensitive systems and resources, where technically possible, in compliance with District security policies.</li>
+<li>Users must lock devices when unattended and log off from network resources after each session. Passwords should be strong, unique, and changed regularly according to the District’s security policies.</li>
+<li>Users must use passwords that comply with the District's strength requirements and update them as required.</li>
+<li>The District provides a guest network for temporary use by visitors. Access is limited to basic browsing and is subject to District monitoring. Guest users must not access internal District systems, transmit sensitive data, or engage in restricted activities. Guest users' use of the network resources is a privilege, not a right.</li>
+</ol>
+<h4>B. System Security</h4>
+<ol>
+<li>Computer users may not run applications or files that create a security risk to the District’s computer network resources. If users identify a security problem, they must notify appropriate administrators immediately.
+</li>
+<li>Any user reasonably deemed to be a security risk or discovered to have a proven history of problems with other computer networks may be denied access to the District’s computer network resources.</li>
+<li>Users must report suspected unauthorized access to their accounts immediately.</li>
+<li>Providing account access or sharing your account credentials with another individual, either deliberately or through neglect, is prohibited.</li>
+<li>All users must report any security incidents or suspected incidents (such as malware infections, data breaches, or unauthorized access) immediately to the Help Desk. Reports should include all relevant details and will be reviewed according to the District’s incident response protocol.
+</li>
+</ol>
+<h4>C. Respecting Resource Limits</h4>
+<ol>
+<li>Staff, students, and community members will not post chain letters or engage in spamming. Spamming is sending messages to a large number of people or sending a large number of messages to a single person with the intent of annoying users or interrupting the system.</li>
+<li>The system administrators reserve the right to set a limit on disk storage for network users.</li>
+<li>Unless previously approved, users are responsible for any phone charges including, but not limited to, long-distance charges, per minute (unit) surcharges, and/or equipment or line costs incurred by users while accessing computer network resources.</li>
+</ol>
+<h4>D. Illegal Activities</h4>
+<ol>
+<li>The District will cooperate fully with local, state, or federal officials in any investigation related to illegal activities, which may include information contained in the District’s network resources.</li>
+<li>It is prohibited to sell or purchase goods and services on the District’s network resources without prior approval of the appropriate administrator.</li>
+<li>Attempting to gain unauthorized access to the District’s network resources or go beyond authorized access is prohibited. This includes attempting to log in through another person’s account or accessing another person’s files.</li>
+<li>Vandalism will result in the cancellation of privileges to the District’s computer network resources. Vandalism is defined as any malicious attempt to harm or destroy data or equipment on any computer network.
+</li>
+<li>It is prohibited to use the District’s computer network resources with the intent of denying others access to the system.</li>
+<li>Advertising will be permitted on the District’s computer network resources with the prior approval of the appropriate administrator.</li>
+<li>The download, use, hosting, or distribution of copyrighted material and software is illegal and prohibited on the District’s computer network resources unless it falls within an exception to the use of copyrighted materials.</li>
+</ol>
+<h4>E. Intellectual Property (Copyright)</h4>
+<ol>
+<li>No copyrighted material is to be placed on the District’s computer network resources without written permission from the copyright owner unless it falls within an exception to the use of copyrighted materials.</li>
+<li>No copyrighted material (including music, games, videos, and software) may be hosted or distributed within or from the District's computer network resources without written permission from the copyright owner and must be approved by the Technology and Information Systems Services Division unless it falls within an exception to the use of copyrighted materials.
+</li>
+<li>All users of the District’s network resources must agree not to submit, publish, or display any type of material that violates this AUP.</li>
+</ol>
+<h4>F. Software</h4>
+<ol>
+<li>Only public domain files and files that the author has given written consent for online distribution, may be uploaded to the District’s software libraries.</li>
+<li>Software having the purpose of damaging the District’s network resources or other systems is prohibited.</li>
+<li>Users may be required to use a District-approved Internet browser or other software to access the computer network resources.</li>
+<li>Use of unapproved file-sharing software or resources, including cloud storage websites, torrent sites, and other peer-to-peer options is prohibited.</li>
+</ol>
+<h4>G. Language</h4>
+<ol>
+<li>Polite and appropriate language is expected at all times.</li>
+<li>Abusive messages are prohibited.</li>
+<li>Harassment is prohibited. Harassment is conduct that is sufficiently severe, persistent, or pervasive that it adversely affects or has the purpose or logical consequence of interfering with a user’s educational program or creates an intimidating, hostile, or offensive environment. Behavior that continues after an individual is informed of its offensiveness may constitute evidence of an intent to harass. If told by a person to stop sending messages, the sender must stop.</li>
+</ol>
+<h4>H. Liability</h4>
+<ol>
+<li>The District does not warrant the functions or services performed by the District’s computer network resources. Resources are provided on an “as is, as available” basis.</li>
+<li>Opinions, advice, services, and all other information supplied by third parties is for informational purposes only. It is not guaranteed to be correct. Users are urged to seek professional advice for specific individual situations.
+</li>
+<li>Any software available from the District’s network resources is not guaranteed as to suitability, legality, or performance by the District.</li>
+<li>Staff, students, and community members agree to indemnify and hold harmless the District for any liability arising out of any violation of this AUP.</li>
+</ol>
+<h4>I. Electronic Mail and Real-Time Conferencing</h4>
+<ol>
+<li>It is not the intention of the system administrators to inspect or disclose the contents of electronic mail (email) or computer files sent by one user to another without consent from either party unless required to do so by the District, local, state, or federal officials. Email is not private. As with written communication, users should recognize there is no expectation of privacy for email.</li>
+<li>Users must not use taglines, quotes, quips, pictures, links, or other items that are not pertinent to essential contact information related to school district employment at the end of the email message or in the email signature block.</li>
+<li>All users must promptly report inappropriate messages received to a teacher, supervisor, or the system administrators.</li>
+<li>Students should not reveal personal information such as addresses, phone numbers, passwords, or financial information to others. If student work is identified, only the first name, grade, and school should be listed. Private information may not be posted about another person.</li>
+<li>The District does not allow the recording or transcription of District-hosted virtual meetings due to concerns including but not limited to: the Family Educational Rights and Privacy Act (FERPA), privacy, lack of informed consent, data security, intellectual property rights, and compliance with public records and retention laws. Individuals who record or transcribe District-hosted virtual meetings without authorization may be removed from the meeting. This policy will be applied in accordance with state and federal disability laws. If the virtual meeting is hosted by a non-District organization or entity, you may attend and participate even if it is being transcribed or recorded.</li>
+<li>A canceled account will not retain email.</li>
+<li>The system administrators reserve the right to terminate access to the District’s computer network resources if this AUP is violated while using real-time chat features, including video conferencing.</li>
+</ol>
+<h4>J. Incidental Personal Use of Technology Resources</h4>
+<ol>
+<li>Technology resources may be used by District personnel for personal purposes provided that the use does not interfere with the District’s ability to carry out District business, does not interfere with the employee’s duties, does not subject the District to increased costs or risks, and does not violate the terms of this Acceptable Use Policy.</li>
+</ol>
+<h4>K. Security and Privacy</h4>
+<ol>
+<li>Users must protect all sensitive and personally identifiable information (PII) encountered while using District network resources. Data handling, storage, and transmission of such information must comply with District policies and data protection standards. Unauthorized disclosure, access, or transfer of PII is strictly prohibited.</li>
+<li>Remote access to District resources is permitted only via secure, District-approved methods, such as District-approved Virtual Private Networks (VPN) and Secure Access Service Edge (SASE) technologies.</li>
+<li>Users may not install or use unauthorized or unapproved applications that could introduce security vulnerabilities.</li>
+<li>Users must ensure all District-approved applications are updated to the latest versions to mitigate security risks.</li>
+<li>The District reserves the right to monitor network activity, including internet usage and file access, to ensure compliance with this AUP and protect District resources. Users should understand that there is no expectation of privacy when using District network resources.</li>
+<li>Data sharing with third parties requires prior authorization and must comply with District data protection regulations, including FERPA. Any vendor or third-party access to District resources must adhere to District security policies, standards, and established data-sharing agreements.</li>
+<li>All data exchanges with third-party vendors must be documented, approved, and subject to review for security compliance.</li>
+<li>All users are required to complete cybersecurity awareness training, covering topics such as phishing, safe internet use, password security, and recognizing social engineering attacks.</li>
+<li>Sensitive information should be encrypted both in transit and at rest. Users are required to use District-approved encryption methods when handling, storing, or transmitting sensitive data.</li>
+</ol>
+<h4>L. Fair and Ethical Use of Artificial Intelligence (AI)</h4>
+<ol>
+<li>AI tools and resources provided by the District are intended for educational purposes and should be used in a manner that is fair, ethical, and unbiased.</li>
+<li>Users of AI tools are expected to critically evaluate the sources and outputs of AI-generated content and to avoid perpetuating harmful biases or stereotypes.</li>
+<li>The use of generative AI tools provided by the District must align with District policies, and users must refrain from inputting sensitive information into external AI tools.</li>
+<li>Users are prohibited from using AI-generated content that includes PII without adhering to District data privacy policies and relevant regulatory guidelines.</li>
+<li>The use of AI tools to disseminate false or misleading information is strictly prohibited.</li>
+<li>Users are prohibited from using AI tools to create deceptive, misleading, or falsified content, including deepfakes, plagiarism, unauthorized automation of District operations, or any content that violates ethical or legal standards.</li>
+</ol>
+<p>The use of computer network technology resources shall be consistent with all District policies and regulations, including, but not limited to, Regulation 3990 and Regulation 3991.</p>
+<p>Students will receive access to the District’s network resources unless a parent/guardian explicitly indicates the student should not have access to the District network resources. All staff will receive access to the District’s network resources upon employment.</p>
+<p>This policy aligns with District policies and regulations, as well as applicable federal and state laws, including but not limited to FERPA, CIPA, the Children’s Online Privacy Protection Act (COPPA), and Nevada Revised Statutes (NRS) data protection requirements.</p>
+</div>
+</div>
+</div>
+</div>
+</main>

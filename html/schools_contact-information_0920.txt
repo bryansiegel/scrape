@@ -10,19 +10,20 @@
                 BOWLER, GRANT ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Robison, Kelby R<br>
+                        
+Principal: Robison, Kelby R<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
 <!-- 								Robison, Kelby R --><!-- <br> -->
-                                1425 WHIPPLE ROAD<br>
+                                1415 WHIPPLE ROAD<br>
                                 LOGANDALE, NV 89021<br>
                                 Phone: 702-398-3233<br/>
                                 Fax: 702-398-3278<br/>
-<a href="http://maps.google.com/maps?q=1425 WHIPPLE ROAD,+LOGANDALE,+NV+89021">Map</a>
-                                 | <a href="http://gmbowleres.com">Website</a> </br></br></br></p>
+<a href="http://maps.google.com/maps?q=1415 WHIPPLE ROAD,+LOGANDALE,+NV+89021">Map</a>
+                                 | <a href="http://gmbowleres.com">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Take a hand, Guide A Life</p> <p><b>Mission:</b> The Grant M. Bowler Elementary School staff will work in partnership with parents and the community to provide positive learning experiences which promote respect, responsibility, a positive self-image, and the skills needed for our students to reach their highest potential as citizens of our society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

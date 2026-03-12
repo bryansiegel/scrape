@@ -10,7 +10,8 @@
                 PRIEST, RICHARD C. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Hays, Pamela Sowards<br>
+                        
+Principal: Hays, Pamela Sowards<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6200<br/>
                                 Fax: 702-799-4787<br/>
 <a href="http://maps.google.com/maps?q=4150 FUSELIER DRIVE,+NORTH LAS VEGAS,+NV+89032">Map</a>
-                                 | <a href="http://richardcpriest.weebly.com/">Website</a> </br></br></br></p>
+                                 | <a href="http://richardcpriest.weebly.com/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Climbing Towards Excellence</p> <p><b>Mission:</b> We, the community of Richard C. Priest Elementary School, ensure a safe, respectful learning environment that nurtures and inspires innovation, accountability, and individual student achievement, creating life-long learners.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

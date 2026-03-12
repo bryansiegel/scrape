@@ -10,7 +10,8 @@
                 MOJAVE HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Cole, Gregory L<br>
+                        
+Principal: Cole, Gregory L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-0432<br/>
                                 Fax: 702-799-0437<br/>
 <a href="http://maps.google.com/maps?q=5302 GOLDFIELD STREET,+NORTH LAS VEGAS,+NV+89031">Map</a>
-                                 | <a href="http://www.iamrattlernation.com">Website</a> </br></br></br></p>
+                                 | <a href="http://www.iamrattlernation.com">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Promoting Achievement, Creating Success</p> <p><b>Mission:</b> The Mission of the Mojave High School Community is to provide a safe learning environment that will empower students to develop excellence, pride, respect, and skills necessary for future success. School Motto:""Promoting Achievement, Creating Success""</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

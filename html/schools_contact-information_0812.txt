@@ -10,19 +10,20 @@
                 VARIETY K-5 ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Fico, Jason L<br>
+                        
+Principal: Fico, Jason<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
-<!-- 								Fico, Jason L --><!-- <br> -->
+<!-- 								Fico, Jason  --><!-- <br> -->
                                 2800 EAST STEWART AVENUE<br>
                                 LAS VEGAS, NV 89101<br>
                                 Phone: 702-799-7938<br/>
                                 Fax: 702-799-8506<br/>
 <a href="http://maps.google.com/maps?q=2800 EAST STEWART AVENUE,+LAS VEGAS,+NV+89101">Map</a>
-                                 | <a href="https://www.varietynv.org">Website</a> </br></br></br></p>
-<b>Region:</b> SSD                                                             <p><b>Motto:</b> Reaching For The Stars</p> <p><b>Mission:</b> It is the mission of Variety School to provide a positive and safe educational environment that promotes learning and literacy.  All school experiences increase acquisition of skills, student knowledge, and character with commitment to assure the least restrictive environment.</p>
-</div>
+                                 | <a href="https://www.varietynv.org">Website</a> 
+<b>Region:</b> 3                                                             <p><b>Motto:</b> Reaching For The Stars</p> <p><b>Mission:</b> It is the mission of Variety School to provide a positive and safe educational environment that promotes learning and literacy.  All school experiences increase acquisition of skills, student knowledge, and character with commitment to assure the least restrictive environment.</p>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

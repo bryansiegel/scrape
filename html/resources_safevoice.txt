@@ -1,0 +1,101 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">SafeVoice</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12767">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_12768">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-divider fsStyleAutoclear" data-use-new="true" id="fsEl_12769">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_12770">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12771">
+<div class="fsElementContent">
+<p>SafeVoice is an anonymous tip reporting system with live response 24 hours/7 days a week/365 days a year. Safevoice (SV) includes and goes beyond bullying to create an anonymous way to also report threats of school violence and friends at risk of suicide, self-harm, drugs and more.</p>
+<p><a class="button-7" href="https://www.p3campus.com/tipform.aspx?ID=5004" rel="nofollow" target="_blank">Make A Report</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_12772">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="12773" data-source-page-id="1277" data-use-new="true" id="fsEl_12773">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="SafeVoice" data-aspect-ratio="0.6041131105398457" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1758120307/ccsdnet/lovbxmm0luvuxq3xemv6/sv-venn-diagram.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758120307/ccsdnet/lovbxmm0luvuxq3xemv6/sv-venn-diagram.jpg%22,%22width%22:389}]" data-permitted-user="true" data-resource-title="sv-venn-diagram.jpg" data-resource-uuid="8b8a42dc-dd8d-45a6-a2e0-8ce8fca31cc5"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_12775">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-12776" role="presentation">
+<a aria-controls="fsEl_12776" aria-selected="false" href="#fs-panel-12776" role="tab">Students</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12778" role="presentation">
+<a aria-controls="fsEl_12778" aria-selected="false" href="#fs-panel-12778" role="tab">Parents</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12780" role="presentation">
+<a aria-controls="fsEl_12780" aria-selected="false" href="#fs-panel-12780" role="tab">Community</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12776" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12776" aria-expanded="false" href="#fs-panel-12776" role="button">Students</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12776"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12777">
+<div class="fsElementContent">
+<div>Today and everyday we challenge you to be an upstander. Use your voice to speak out for yourself and those around you. SafeVoice was created for you to anonymously submit a tip of concern about your safety or well-being or that of a friend or classmate. Speaking up ensures that your school campus remains a safe and welcoming place. Through SafeVoice, trained professionals are available to respond 24/7/365 to any tips received. Submit a tip here or download the app on your cellular telephone from the Apple App Store or on Google Play today.
+<h3>Student Resources</h3>
+<ul>
+<li><a data-file-name="SafeVoice-How-to-Report.pdf" data-resource-uuid="e97cb757-d9cc-4a42-956b-5c1015132614" href="/fs/resource-manager/view/e97cb757-d9cc-4a42-956b-5c1015132614">SafeVoice How To Report (PDF)</a></li>
+<li><a data-file-name="SafeVoice-3-5-presentation.pdf" data-resource-uuid="3b56a93b-ae9f-4057-8ef5-e55efbb10512" href="/fs/resource-manager/view/3b56a93b-ae9f-4057-8ef5-e55efbb10512">SafeVoice 3-5 Presentation (PDF)</a></li>
+<li><a data-file-name="SafeVoice-6-12-presentation.pdf" data-resource-uuid="8ba27e78-33b2-4865-bc24-69b18fa0cefa" href="/fs/resource-manager/view/8ba27e78-33b2-4865-bc24-69b18fa0cefa">SafeVoice 6-12 Presentation (PDF)</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12778" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12778" aria-expanded="false" href="#fs-panel-12778" role="button">Parents</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12778"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12779">
+<div class="fsElementContent">
+<div>Parents and guardians are influential figures in creating safe schools and communities for their children. SafeVoice offers students a comprehensive, reliable, and private way to report tips anonymously 24/7/365. No report goes unanswered as trained professionals in the Department of Public Safety and a select team of school staff are prepared to respond appropriately and in a timely manner. When appropriate CCSD Police and/or local law enforcement agencies will respond as well. As a parent/guardian, we encourage you to discuss SafeVoice with your child and make sure that the app is downloaded on their mobile device.
+<h3>Parent Resources</h3>
+<ul>
+<li><a data-file-name="SafeVoice-Introduction.pdf" data-resource-uuid="cfb1e5c5-3470-4255-8005-64fd6958b03b" href="/fs/resource-manager/view/cfb1e5c5-3470-4255-8005-64fd6958b03b">SafeVoice Introduction (PDF)</a></li>
+<li><a data-file-name="parent-letter.pdf" data-resource-uuid="097aaaff-8a7f-478f-9d5a-5839acb14536" href="/fs/resource-manager/view/097aaaff-8a7f-478f-9d5a-5839acb14536">Parent Letter - English (PDF)</a></li>
+<li><a data-file-name="parent-letter-spanish.pdf" data-resource-uuid="7da856be-7293-45a9-a4cd-412769d476c2" href="/fs/resource-manager/view/7da856be-7293-45a9-a4cd-412769d476c2">Parent Letter - Spanish (PDF)</a></li>
+<li><a data-file-name="parent-faq.pdf" data-resource-uuid="0a281cf2-0f7e-4b8b-b944-3a158223685c" href="/fs/resource-manager/view/0a281cf2-0f7e-4b8b-b944-3a158223685c">Parent FAQ - English (PDF)</a></li>
+<li><a data-file-name="parent-faq-spanish.pdf" data-resource-uuid="723144f0-a967-48f6-9963-d2f3d142dd45" href="/fs/resource-manager/view/723144f0-a967-48f6-9963-d2f3d142dd45">Parent FAQ - Spanish (PDF)</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12780" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12780" aria-expanded="false" href="#fs-panel-12780" role="button">Community</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12780"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12781">
+<div class="fsElementContent">
+<div>Schools and communities throughout Nevada are fortunate to have a wide range of partners in mental and behavioral health agencies, child welfare agencies, local law enforcement agencies, community protection organizations, and community interest groups that can provide prevention, intervention, support services to children and families. Clark County students and families also have access to the Harbor, a juvenile assessment center and CCSD Police. Whether it is better family communication or responding to significant concerns about a youth's mental health, there are professionals eager to assist.
+<h3>Community Resources</h3>
+<ul>
+<li><a data-file-name="SafeVoice-Introduction.pdf" data-resource-uuid="cfb1e5c5-3470-4255-8005-64fd6958b03b" href="/fs/resource-manager/view/cfb1e5c5-3470-4255-8005-64fd6958b03b">SafeVoice Introduction (PDF)</a></li>
+<!-- 					<li><a href="pdf/SafeVoice-Information.pdf">SafeVoice Information (PDF)</a></li> -->
+<li><a data-file-name="SafeVoice-How-to-Report.pdf" data-resource-uuid="e97cb757-d9cc-4a42-956b-5c1015132614" href="/fs/resource-manager/view/e97cb757-d9cc-4a42-956b-5c1015132614">SafeVoice How To Report (PDF)</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

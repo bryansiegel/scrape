@@ -10,7 +10,8 @@
                 LAWRENCE, CLIFFORD J. JHS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Yee, Allen G<br>
+                        
+Principal: Yee, Allen G<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-2540<br/>
                                 Fax: 702-799-2563<br/>
 <a href="http://maps.google.com/maps?q=4410 SOUTH JULIANO STREET,+LAS VEGAS,+NV+89147">Map</a>
-                                 | <a href="http://www.ljhs.org/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.ljhs.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Our PRIDE Leads to Success</p> <p><b>Mission:</b> The community of Clifford J. Lawrence Junior High School will challenge and empower students to become responsible, independent, productive, life-long learners in an ever-changing society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

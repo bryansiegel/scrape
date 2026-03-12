@@ -1,0 +1,16 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Login</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_31">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_32">
+<div class="fsElement fsAccount" data-use-new="true" id="fsEl_1144">
+<div class="fsElementContent">
+<p aria-atomic="true" class="fsError" role="alert">This page requires a passkey. Please provide the passkey to view this page.</p>
+<form accept-charset="UTF-8" action="" method="post"><input autocomplete="off" name="utf8" type="hidden" value="✓"/>
+<label class="fsPasskey" for="fsPagePasskeyField1144">Page Passkey </label><input autocomplete="off" id="fsPagePasskeyField1144" name="passkey" placeholder="Passkey" type="password"/>
+<input class="fsStyleUpdateButton fsLoginSubmit" data-disable-with="Submit" name="commit" type="submit" value="Submit"/>
+</form>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -10,7 +10,8 @@
                 SUNRISE ACRES ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Baumgartner, Nicole I<br>
+                        
+Principal: Baumgartner, Nicole I<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7912<br/>
                                 Fax: 702-799-8556<br/>
 <a href="http://maps.google.com/maps?q=211 28TH STREET,+LAS VEGAS,+NV+89101">Map</a>
-                                 | <a href="https://www.sunriseacreselementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.sunriseacreselementary.org/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> </p> <p><b>Mission:</b> The mission of the Sunrise Acres community is to increase academic achievement through accountability, determination, and pride to ensure student success in college, career, and beyond.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

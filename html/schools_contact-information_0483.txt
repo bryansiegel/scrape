@@ -10,7 +10,8 @@
                 WALLIN, SHIRLEY AND BILL ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Lombardo, Katie Jo <br>
+                        
+Principal: Lombardo, Katie Jo<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-5776<br/>
                                 Fax: 702-799-5752<br/>
 <a href="http://maps.google.com/maps?q=2333 CANYON RETREAT DR,+HENDERSON,+NV+89044">Map</a>
-                                 | <a href="http://www.wallinelementary.com">Website</a> </br></br></br></p>
-<b>Region:</b> 3                                                    </div>
+                                 | <a href="http://www.wallinelementary.com">Website</a> 
+<b>Region:</b> 3                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

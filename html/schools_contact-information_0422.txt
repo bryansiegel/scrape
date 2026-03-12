@@ -10,7 +10,8 @@
                 GIBSON, JAMES ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Keith, Jill <br>
+                        
+Principal: Keith, Jill<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8730<br/>
                                 Fax: 702-799-0791<br/>
 <a href="http://maps.google.com/maps?q=271 LEISURE CIRCLE,+HENDERSON,+NV+89074">Map</a>
-                                 | <a href="https://www.jamesgibsones.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.jamesgibsones.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Education is a good prospect!</p> <p><b>Mission:</b> Our mission is to create a nurturing environment where all students are encouraged to do their best, to appreciate the uniqueness of others, and to have a positive vision of the future. With the help of the community, dedicated educators, and a relevant curriculum that fosters active participation and inquiry, all students will socially, emotionally, and academically prosper as life-long learners in our changing global society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

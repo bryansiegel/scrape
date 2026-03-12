@@ -10,7 +10,8 @@
                 SQUIRES, C.P. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Burlacu, Tiffany Renee <br>
+                        
+Principal: Burlacu, Tiffany Renee<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7169<br/>
                                 Fax: 702-799-7109<br/>
 <a href="http://maps.google.com/maps?q=1312 EAST TONOPAH AVE,+NORTH LAS VEGAS,+NV+89030">Map</a>
-                                 | <a href="https://www.squireselementary.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.squireselementary.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Total Involvement...Total Achievement</p> <p><b>Mission:</b> The community of C.P. Squires works together in unity to promote academic excellence, mutual respect, and an appreciation of cultural diversity.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

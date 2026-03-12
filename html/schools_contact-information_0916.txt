@@ -10,7 +10,8 @@
                 PERKINS, UTE ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Robison, Kelby R<br>
+                        
+Principal: Robison, Kelby R<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-864-2444<br/>
                                 Fax: 702-864-2566<br/>
 <a href="http://maps.google.com/maps?q=1255 PATRIOTS  WAY,+MOAPA,+NV+89025">Map</a>
-                                 | <a href="https://sites.google.com/view/uteperkinselementaryschool/">Website</a> </br></br></br></p>
+                                 | <a href="https://sites.google.com/view/uteperkinselementaryschool/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Hand in Hand We Make a Difference</p> <p><b>Mission:</b> Mission Statement:  We believe in assisting each child to maximize his/her full potential in becoming a productive citizen who values learning and respect self and others.  Patriot Salute:  Perkins Patriots are cooperative, responsible, caring, courteous, and respectful. Yes Sir!  Patriot Motto:  ""Hand in Hand"" We Make a Difference Belief Statement:  I Count!</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

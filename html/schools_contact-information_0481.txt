@@ -10,7 +10,8 @@
                 TRIGGS, VINCENT L. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Stover, Annemarie D<br>
+                        
+Principal: Stover, Annemarie D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-1890<br/>
                                 Fax: 702-799-1865<br/>
 <a href="http://maps.google.com/maps?q=4470 W. ROME BLVD.,+NORTH LAS VEGAS,+NV+89084">Map</a>
-                                 | <a href="https://triggses.com/">Website</a> </br></br></br></p>
-<b>Region:</b> 1                                                    </div>
+                                 | <a href="https://triggses.com/">Website</a> 
+<b>Region:</b> 1                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

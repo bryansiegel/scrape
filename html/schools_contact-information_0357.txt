@@ -10,7 +10,8 @@
                 STEELE, JUDITH D. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Gerber, Jennifer A<br>
+                        
+Principal: Gerber, Jennifer A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-2201<br/>
                                 Fax: 702-799-2204<br/>
 <a href="http://maps.google.com/maps?q=6995 WEST ELDORADO LANE,+LAS VEGAS,+NV+89113">Map</a>
-                                 | <a href="http://ccsdsteele.wixsite.com/steele">Website</a> </br></br></br></p>
-<b>Region:</b> 2                                                    </div>
+                                 | <a href="http://ccsdsteele.wixsite.com/steele">Website</a> 
+<b>Region:</b> 2                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

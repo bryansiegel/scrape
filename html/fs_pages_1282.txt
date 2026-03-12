@@ -1,0 +1,70 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Scholarship Information</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12838">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_12839">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12845">
+<div class="fsElementContent">
+<h2>Millennium Scholarship</h2>
+<ul>
+<li>Up to $10,000 to attend college in Nevada for eligible students. Click the link below to review the Fact Sheet.</li>
+<li>CCSD will submit eligible students automatically, and an award package will be sent via US mail to your house in the summer when you graduate.</li>
+<li>Students and parents can track eligibility in the Infinite Campus Parent/Student Portal.</li>
+<li><a href="https://www.nevadatreasurer.gov/uploadedFiles/treasurernvgov/content/GGMS/Features/GGMS_High_School_Flyer-12_2020.pdf" rel="nofollow" target="_blank">Millennium Scholarship (PDF)</a></li>
+</ul>
+<h2>Nevada Promise Scholarship</h2>
+<ul>
+<li><a href="https://www.csn.edu/csns-nevada-promise-scholarship" rel="nofollow" target="_blank">Nevada Promise Scholarship</a></li>
+<li>702-651-7500</li>
+<li>The Nevada Promise Scholarship is a unique scholarship established by the Nevada Legislature for Nevada high school graduates to attend community college.</li>
+<li>As a last-dollar scholarship, the Nevada Promise Scholarship can cover up to three years of tuition and other mandatory fees not covered by other gift aid.</li>
+<li>Students must apply during the application period (August through October), and keep current on the ongoing application steps.</li>
+</ul>
+<h2>Nevada Promise Scholarship</h2>
+<ul>
+<li><a href="https://thepef.org/scholarships-plus/" rel="nofollow" target="_blank">PEF Scholarships Plus</a></li>
+<li><a href="mailto:info@thepef.org" target="_blank">info@thepef.org</a></li>
+</ul>
+<h2>Nevada State Treasurer's Office Scholarships</h2>
+<ul>
+<li><a href="http://scholarship.nevadatreasurer.gov/" rel="nofollow" target="_blank">Nevada State Treasurer's Office Scholarships</a></li>
+<li><a href="mailto:ask@nevadatreasurer.gov" target="_blank">ask@nevadatreasurer.gov</a> | 702-486-2908</li>
+</ul>
+<h2>Project 150</h2>
+<ul>
+<li><a href="https://www.project150.org/" rel="nofollow" target="_blank">Project 150</a></li>
+<li>Project 150 is a non-profit 501 (c) 3 community-based organization with a primary objective to increase the viability and recognition of youth in Southern Nevada. Project 150's Scholarship Program is one of the many vehicles used by our organization to ensure that students are provided assistance to achieve higher education goals. </li>
+</ul>
+<h2>Scholarships 101 - College Covered</h2>
+<ul>
+<li><a href="https://www.collegecovered.com/wp-content/uploads/2019/09/Scholarships_101.pdf" rel="nofollow" target="_blank">Scholarships 101</a></li>
+</ul>
+<h2>Additional Scholarship Search Tools</h2>
+<p>These links are being provided as a convenience and for informational purposes only; they do not constitute an endorsement or an approval by the Clark County School District (CCSD) of any of the products, services or opinions of the corporation or organization or individual. CCSD bears no responsibility for the accuracy, legality or content of the external site or for that of subsequent links. Contact the external site for answers to questions regarding its content.</p>
+<ul>
+<li><a href="https://www.scholarships.com/" rel="nofollow" target="_blank">Scholarships.com</a></li>
+<li><a href="https://www.fastweb.com/" rel="nofollow" target="_blank">Fastweb</a></li>
+<li><a href="https://studentaid.gov/understand-aid/types/scholarships" rel="nofollow" target="_blank">US Federal Student Aid</a></li>
+<li><a href="https://www.collegeboard.org/" rel="nofollow" target="_blank">Collegeboard.org</a></li>
+<li><a href="https://www.unigo.com/" rel="nofollow" target="_blank">Unigo.com</a></li>
+<li><a href="https://www.chegg.com" rel="nofollow" target="_blank">Chegg.com</a></li>
+<li><a href="https://www.cappex.com/" rel="nofollow" target="_blank">Cappex.com</a></li>
+</ul>
+<hr/>
+<h2>Other College Financial Aid Resources to Consider</h2>
+<p><strong>Western Undergraduate Exchange (WUE)</strong></p>
+<ul>
+<li><a href="https://www.wiche.edu/tuition-savings/wue/" rel="nofollow" target="_blank">Western Undergraduate Exchange (WUE) Tuition Saving Program</a></li>
+<li>The Western Undergraduate Exchange (WUE) is an agreement among 16 member states and territories, through which 160+ participating public colleges and universities provide steep nonresident tuition savings for Nevada students.</li>
+<li>Through WUE, eligible students can choose from hundreds of undergraduate programs outside their home state, and pay no more than 150 percent of that institution’s resident tuition rate. </li>
+</ul>
+<p><strong>QuestBridge National College Match</strong></p>
+<ul>
+<li><a href="https://www.questbridge.org/high-school-students/national-college-match" rel="nofollow" target="_blank">QuestBridge National College Match</a></li>
+<li><a href="https://www.youtube.com/user/QuestBridge " rel="nofollow" target="_blank">A Top College is Possible with QuestBridge</a></li>
+<li>The QuestBridge National College Match makes a top college possible for high-achieving students from low-income backgrounds. Match Scholarship Recipients are granted early admission to one of QuestBridge's 45 college partners with a full four-year scholarship, worth over $200,000. </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</main>

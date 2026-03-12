@@ -3,12 +3,18 @@
 <section class="content-holder">
 <section class="content-holder">
 <h1>Committees</h1>
+<!--
 <h3><a href="https://docs.google.com/document/d/1PIwUlrlx3-AabHq6UkwNM3Ua6AUkgNz6Wa8WvW-GV74/view?tab=t.0" target="_blank">NIAA Parent/Guardian Representative Application</a></h3>
+
 <p>CCSD is accepting applications for a Parent/Guardian Representative to serve on the Nevada Interscholastic Activities Association (NIAA) Board of Control. The applicant must have a student currently participating in a sanctioned high school sport and meet eligibility requirements outlined in <a href="https://www.leg.state.nv.us/nac/NAC-385B.html#NAC385BSec110" target="_blank">NAC 385B</a>.</p>
+
 <p>The term begins September 23, 2025, and ends June 2028. Some travel to Reno may be required, with costs covered by NIAA. The application will be open for 14 days starting August 1, 2025.</p>
+
 <p>The selected parent/guardian must understand if they are selected to serve in this role representing their region within the NIAA, there is a potential loss of personal/professional (work) time as the NIAA Board of Control conducts four regularly scheduled seasonal meetings; may conduct, at any given time, an emergency meeting; and the NIAA office staff will conduct prescheduled committee meetings in addition to the NIAA Board of Control meetings. While there may be virtual options for some meetings, the member’s attendance may be required when virtual options are not available. Travel to Reno, Nevada, may be required to participate in meetings. The NIAA will provide coverage for all travel and lodging accommodations in Reno, Nevada. The selected member’s name, image, and likeness may be included in reports generated through the media, public commentary, and NIAA staff materials.</p>
+
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1rFRUfxcsd_HzI5sYrBsqu5NuaUaWcGflYQ8c4Z1xRtK5JQ/viewform" target="_blank">Online Application</a></p>
-<hr/>
+<hr />
+-->
 <h2>School Board Committees</h2>
 <hr/>
 <p><strong><a href="http://azac.ccsd.net" target="_blank">Attendance Zone Advisory Commission (AZAC)</a></strong>

@@ -10,7 +10,8 @@
                 LOWMAN, MARY AND ZEL ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Tatman, Stephanie A<br>
+                        
+Principal: Tatman, Stephanie A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4930<br/>
                                 Fax: 702-799-4927<br/>
 <a href="http://maps.google.com/maps?q=4225 NORTH LAMONT STREET,+LAS VEGAS,+NV+89115">Map</a>
-                                 | <a href=" http://lowmanlobos.org">Website</a> </br></br></br></p>
+                                 | <a href=" http://lowmanlobos.org">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Soaring into the future on the wings of learning.</p> <p><b>Mission:</b> We will regard each student as a worthwhile individual with the ability to succeed, and provide a positive learning environment in which he or she can grow.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 ALAMO, TONY ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Lindberg, Todd A<br>
+                        
+Principal: Lindberg, Todd A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-2590<br/>
                                 Fax: 702-799-2622<br/>
 <a href="http://maps.google.com/maps?q=7455 EL CAMINO ROAD,+LAS VEGAS,+NV+89139">Map</a>
-                                 | <a href="https://alamoelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://alamoelementary.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Dream, Believe, Achieve</p> <p><b>Mission:</b> The mission of Tony Alamo Elementary School is to provide a safe and positive educational program that promotes learning and achievement. Students, staff, families and the community will work together in a caring and respectful manner in order to achieve academic and behavioral expectations. Tony Alamo Elementary School is committed to academic excellence. Be Kind Be Safe Be Your Best</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 SILVESTRI, CHARLES JHS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  <br>
+                        
+Principal: <br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-2240<br/>
                                 Fax: 702-799-2247<br/>
 <a href="http://maps.google.com/maps?q=1055 SILVERADO RANCH BLVD,+LAS VEGAS,+NV+89183">Map</a>
-                                 | <a href="http://www.silvestrijhs.com">Website</a> </br></br></br></p>
+                                 | <a href="http://www.silvestrijhs.com">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Where Success is Taught</p> <p><b>Mission:</b> Charles Silvestri Junior High School provides meaningful experiences which ensure that our students will be creative, success oriented, critical thinkers, effective communicators, independent learners, responsible citizens, and prepared to meet the challenges they face in the future.  Our students will evaluate and appreciate the past, reflect on the present, and aspire to risk and create for the future.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -1,0 +1,497 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Business and Finance Unit</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_11790">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_11791">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_11792">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_11793">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_11794">
+<div class="fsElementContent">
+<div>The Clark County School District’s Business and Finance Unit provides essential financial and operational services that keep schools running smoothly and effectively. From overseeing budgeting, benefits, and enterprise resource planning to managing transportation, food services, facilities, technology, purchasing, and risk management, the unit ensures that students and staff have the resources and support they need every day. By coordinating critical services such as school zoning, energy conservation, and even community outreach through Vegas PBS, the Operations Support Unit plays a vital role in supporting the District’s mission of educating over 290,000 students across Southern Nevada.</div>
+<p><a class="button-7" href="https://www.ccsd.net/uploaded/themes/default_25/directory/org-chart/ccsd-org-chart.pdf">Organizational Chart</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_11795">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="11796" data-source-page-id="1262" data-use-new="true" id="fsEl_11796">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="CCSD Admin Building" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="ccsd-building.jpg" data-resource-uuid="84623b58-a0aa-41f2-811c-712473c83a69"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12061">
+<div class="fsElementContent">
+<h1>Finance and Operations</h1>
+<p>The following are key items of interest in the areas of finance, budget, and capital programs for the Clark County School District. As we proceed into the next Legislative session, information will be provided in an effort to keep parents, employees, taxpayers, and students apprised of financial information affecting the District.</p>
+<h2>Budget Update</h2>
+<p>The Board adopted it's Tentative Budget for the 2012-2013 fiscal year on April 11, 2012. The links below are to the presentation made to the Board and the budget required to be submitted to the state Department of Taxation. The Board will adopt it's Final Budget for the 2012-2013 fiscal year at a special meeting on May 16, 2012, at 5:00pm. At that time, the superintendent and staff will present updated recommendations for next year's budget, including any changes due to the recently arbitrated contract with the Clark County Education Association (CCEA).</p>
+<p><a data-file-name="Ref-4_01-Tentative_Budget_Presentation.pdf" data-resource-uuid="b0514868-ba51-47d1-94ec-eaa6f20b78c3" href="/fs/resource-manager/view/b0514868-ba51-47d1-94ec-eaa6f20b78c3">Tentative Budget Presentation</a><br/>
+<a data-file-name="Tentative_Budget_FY_13-State_Forms.pdf" data-resource-uuid="7df1dcba-52f2-4255-9236-1debe6acdaa1" href="/fs/resource-manager/view/7df1dcba-52f2-4255-9236-1debe6acdaa1">Tentative Budget Fiscal Year 2013 - State Forms</a></p>
+<h2>Capital Plan</h2>
+<p>At it's April 2, 2012 work session, the Board authorized staff to proceed with planning for a 6-year 21.2 cent capital levy. Ultimately, if certain additional approvals are achieved, this initiative will be placed on the ballot in November for voter approval. This capital program would be for a debt-free pay-as-you-go program that would provide an estimated $669 million for school capital improvements over the next 6 years. The linked documents are presentations made to the Board, beginning in February and culminating in the last presentation made at the May 2nd meeting. The option adopted by the Board, and referenced in the presentations, is Option 2.</p>
+<p><a data-file-name="Bond_Planning.pdf" data-resource-uuid="33bb5021-cce6-40ea-84ab-77d3e69ea059" href="/fs/resource-manager/view/33bb5021-cce6-40ea-84ab-77d3e69ea059">Bond Planning</a><br/>
+<a data-file-name="Bond_QA.pdf" data-resource-uuid="d54f9f3e-0269-433a-b283-3a4271fa105d" href="/fs/resource-manager/view/d54f9f3e-0269-433a-b283-3a4271fa105d">Bond Question and Answer</a><br/>
+<a data-file-name="Bond_Presentation_to_Board.pdf" data-resource-uuid="53d669ae-87f9-449a-869a-45993a4db800" href="/fs/resource-manager/view/53d669ae-87f9-449a-869a-45993a4db800">Bond Presentation to Board</a><br/>
+<a data-file-name="Capital_Funding_Options.pdf" data-resource-uuid="b45d497c-ce61-4bfb-9547-cad12eb3aa15" href="/fs/resource-manager/view/b45d497c-ce61-4bfb-9547-cad12eb3aa15">Capital Funding Options</a></p>
+<div id="news_page_wrap"><!--<p>No items at this time.</p>--></div>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_12062">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-12063" role="presentation">
+<a aria-controls="fsEl_12063" aria-selected="false" href="#fs-panel-12063" role="tab">General Accounting</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12065" role="presentation">
+<a aria-controls="fsEl_12065" aria-selected="false" href="#fs-panel-12065" role="tab">Budget Department</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208045" role="presentation">
+<a aria-controls="fsEl_208045" aria-selected="false" href="#fs-panel-208045" role="tab">Employee Benefits</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12067" role="presentation">
+<a aria-controls="fsEl_12067" aria-selected="false" href="#fs-panel-12067" role="tab">Facilities and Bond Fund Financial Management</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12069" role="presentation">
+<a aria-controls="fsEl_12069" aria-selected="false" href="#fs-panel-12069" role="tab">Finance Department</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12071" role="presentation">
+<a aria-controls="fsEl_12071" aria-selected="false" href="#fs-panel-12071" role="tab">Grants Fiscal Services (Formerly Fada)</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12073" role="presentation">
+<a aria-controls="fsEl_12073" aria-selected="false" href="#fs-panel-12073" role="tab">Payroll Employee Services</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12075" role="presentation">
+<a aria-controls="fsEl_12075" aria-selected="false" href="#fs-panel-12075" role="tab">Resource Management</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12077" role="presentation">
+<a aria-controls="fsEl_12077" aria-selected="false" href="#fs-panel-12077" role="tab">Risk Management Department</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208047" role="presentation">
+<a aria-controls="fsEl_208047" aria-selected="false" href="#fs-panel-208047" role="tab">Resource Management</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208049" role="presentation">
+<a aria-controls="fsEl_208049" aria-selected="false" href="#fs-panel-208049" role="tab">Workers’ Compensation</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12063" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12063" aria-expanded="false" href="#fs-panel-12063" role="button">General Accounting</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12063"></a>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_207387">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-207390" role="presentation">
+<a aria-controls="fsEl_207390" aria-selected="false" href="#fs-panel-207390" role="tab">Annual Comprehensive Financial Report</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207401" role="presentation">
+<a aria-controls="fsEl_207401" aria-selected="false" href="#fs-panel-207401" role="tab">Popular Annual Financial Report</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207388" role="presentation">
+<a aria-controls="fsEl_207388" aria-selected="false" href="#fs-panel-207388" role="tab">Quarterly Publication of Expenditures</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207390" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207390" aria-expanded="false" href="#fs-panel-207390" role="button">Annual Comprehensive Financial Report</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207390"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207391">
+<div class="fsElementContent">
+<h4>Yearly Reports</h4>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_207392">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-210239" role="presentation">
+<a aria-controls="fsEl_210239" aria-selected="false" href="#fs-panel-210239" role="tab">2025</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207393" role="presentation">
+<a aria-controls="fsEl_207393" aria-selected="false" href="#fs-panel-207393" role="tab">2024</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207395" role="presentation">
+<a aria-controls="fsEl_207395" aria-selected="false" href="#fs-panel-207395" role="tab">2023</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207397" role="presentation">
+<a aria-controls="fsEl_207397" aria-selected="false" href="#fs-panel-207397" role="tab">2022</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207399" role="presentation">
+<a aria-controls="fsEl_207399" aria-selected="false" href="#fs-panel-207399" role="tab">2021</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_210239" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_210239" aria-expanded="false" href="#fs-panel-210239" role="button">2025</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-210239"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_210240">
+<div class="fsElementContent">
+<div><a class="button-1" data-file-name="2025-ACFR-2-26-2026.pdf" data-resource-uuid="145c2ae2-e617-4abc-9236-4b8bbf9d9c22" href="/fs/resource-manager/view/145c2ae2-e617-4abc-9236-4b8bbf9d9c22" target="_blank">Download</a></div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207393" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207393" aria-expanded="false" href="#fs-panel-207393" role="button">2024</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207393"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207394">
+<div class="fsElementContent">
+<div><a class="button-1" data-file-name="complete-report.pdf" data-resource-uuid="bed5dde3-35b8-4fc9-b2f4-31456567ba0b" href="/fs/resource-manager/view/bed5dde3-35b8-4fc9-b2f4-31456567ba0b">Download</a></div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207395" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207395" aria-expanded="false" href="#fs-panel-207395" role="button">2023</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207395"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207396">
+<div class="fsElementContent">
+<div><a class="button-1" data-file-name="complete-report1.pdf" data-resource-uuid="bbfd9d03-d96c-40f0-ae0b-c7335e586dac" href="/fs/resource-manager/view/bbfd9d03-d96c-40f0-ae0b-c7335e586dac">Download</a></div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207397" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207397" aria-expanded="false" href="#fs-panel-207397" role="button">2022</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207397"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207398">
+<div class="fsElementContent">
+<div><a class="button-1" data-file-name="complete-report2.pdf" data-resource-uuid="e46382ac-cd0e-4f63-9fa5-e4c3db7a9218" href="/fs/resource-manager/view/e46382ac-cd0e-4f63-9fa5-e4c3db7a9218">Download</a></div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207399" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207399" aria-expanded="false" href="#fs-panel-207399" role="button">2021</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207399"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207400">
+<div class="fsElementContent">
+<div><a class="button-1" data-file-name="complete-report3.pdf" data-resource-uuid="a1ad41c1-77bc-4220-b5f3-a5abcd5a20a0" href="/fs/resource-manager/view/a1ad41c1-77bc-4220-b5f3-a5abcd5a20a0">Download</a></div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207401" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207401" aria-expanded="false" href="#fs-panel-207401" role="button">Popular Annual Financial Report</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207401"></a>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_207403">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-207404" role="presentation">
+<a aria-controls="fsEl_207404" aria-selected="false" href="#fs-panel-207404" role="tab">2025</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207406" role="presentation">
+<a aria-controls="fsEl_207406" aria-selected="false" href="#fs-panel-207406" role="tab">2024</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207408" role="presentation">
+<a aria-controls="fsEl_207408" aria-selected="false" href="#fs-panel-207408" role="tab">2023</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207410" role="presentation">
+<a aria-controls="fsEl_207410" aria-selected="false" href="#fs-panel-207410" role="tab">2022</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207412" role="presentation">
+<a aria-controls="fsEl_207412" aria-selected="false" href="#fs-panel-207412" role="tab">2021</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207414" role="presentation">
+<a aria-controls="fsEl_207414" aria-selected="false" href="#fs-panel-207414" role="tab">2020</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207416" role="presentation">
+<a aria-controls="fsEl_207416" aria-selected="false" href="#fs-panel-207416" role="tab">2019</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207418" role="presentation">
+<a aria-controls="fsEl_207418" aria-selected="false" href="#fs-panel-207418" role="tab">2018</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207404" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207404" aria-expanded="false" href="#fs-panel-207404" role="button">2025</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207404"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207405">
+<div class="fsElementContent">
+<p><a contenteditable="false" data-file-name="2025-pafr.pdf" data-resource-uuid="097bf07f-51dc-4d89-8588-d5e8725c646f" href="/fs/resource-manager/view/097bf07f-51dc-4d89-8588-d5e8725c646f" style="cursor: pointer;">Fiscal Year Ended June 30, 2025</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207406" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207406" aria-expanded="false" href="#fs-panel-207406" role="button">2024</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207406"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207407">
+<div class="fsElementContent">
+<p><a contenteditable="false" data-file-name="2024-pafr.pdf" data-resource-uuid="91091968-7040-4fad-9319-6b49b73ac379" href="/fs/resource-manager/view/91091968-7040-4fad-9319-6b49b73ac379" style="cursor: pointer;">Fiscal Year Ended June 30, 2024</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207408" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207408" aria-expanded="false" href="#fs-panel-207408" role="button">2023</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207408"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207409">
+<div class="fsElementContent">
+<p><a contenteditable="false" data-file-name="2023-pafr.pdf" data-resource-uuid="a8038572-c4f0-4bef-9bc0-931bc4bccde2" href="/fs/resource-manager/view/a8038572-c4f0-4bef-9bc0-931bc4bccde2" style="cursor: pointer;">Fiscal Year Ended June 30, 2023</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207410" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207410" aria-expanded="false" href="#fs-panel-207410" role="button">2022</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207410"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207411">
+<div class="fsElementContent">
+<p><a contenteditable="false" data-file-name="2022-pafr.pdf" data-resource-uuid="052f6130-2f4b-46c1-ab51-142d65a0f9f0" href="/fs/resource-manager/view/052f6130-2f4b-46c1-ab51-142d65a0f9f0" style="cursor: pointer;">Fiscal Year Ended June 30, 2022</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207412" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207412" aria-expanded="false" href="#fs-panel-207412" role="button">2021</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207412"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207413">
+<div class="fsElementContent">
+<p><a contenteditable="false" data-file-name="2021-pafr.pdf" data-resource-uuid="c41bdd8f-9a8b-4dab-a7c2-662d52413838" href="/fs/resource-manager/view/c41bdd8f-9a8b-4dab-a7c2-662d52413838" style="cursor: pointer;">Fiscal Year Ended June 30, 2021</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207414" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207414" aria-expanded="false" href="#fs-panel-207414" role="button">2020</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207414"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207415">
+<div class="fsElementContent">
+<p>
+<a contenteditable="false" href="/resources/accounting-department/2020-pafr.pdf" style="cursor: pointer;">Fiscal Year Ended June 30, 2020</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207416" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207416" aria-expanded="false" href="#fs-panel-207416" role="button">2019</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207416"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207417">
+<div class="fsElementContent">
+<p><a contenteditable="false" data-file-name="2019-pafr.pdf" data-resource-uuid="f56cca40-ac23-4595-86b0-e3a2d0e2c3d7" href="/fs/resource-manager/view/f56cca40-ac23-4595-86b0-e3a2d0e2c3d7" style="cursor: pointer;">Fiscal Year Ended June 30, 2019</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207418" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207418" aria-expanded="false" href="#fs-panel-207418" role="button">2018</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207418"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207419">
+<div class="fsElementContent">
+<p><a contenteditable="false" data-file-name="2018-pafr.pdf" data-resource-uuid="606fe62f-3cf6-4c7c-abb3-a7224e830b18" href="/fs/resource-manager/view/606fe62f-3cf6-4c7c-abb3-a7224e830b18" style="cursor: pointer;">Fiscal Year Ended June 30, 2018</a></p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207388" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207388" aria-expanded="false" href="#fs-panel-207388" role="button">Quarterly Publication of Expenditures</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207388"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_207389">
+<div class="fsElementContent">
+<p><a contenteditable="false" data-file-name="Clark_County_School_District_Quarterly_Publication2.pdf" data-resource-uuid="59b1c958-83e7-4b26-a2f2-877722ffb06e" href="/fs/resource-manager/view/59b1c958-83e7-4b26-a2f2-877722ffb06e" style="cursor: pointer;">Quarterly Publication of Expenditures - December 31, 2025</a></p>
+<p><a contenteditable="false" data-file-name="quarterly-publication-of-expenditures-sept-2025.pdf" data-resource-uuid="dcf3952f-b661-4b8d-a197-7ff607466ce7" href="/fs/resource-manager/view/dcf3952f-b661-4b8d-a197-7ff607466ce7" style="cursor: pointer;">Quarterly Publication of Expenditures - September 30, 2025</a></p>
+<p><a contenteditable="false" data-file-name="CCSD-4thQtr-PublicationExpenditures-FY2025.pdf" data-resource-uuid="da94ced8-e8fb-447b-b1d1-69efe09e956e" href="/fs/resource-manager/view/da94ced8-e8fb-447b-b1d1-69efe09e956e" style="cursor: pointer;">Quarterly Publication of Expenditures - June 30, 2025</a></p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12065" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12065" aria-expanded="false" href="#fs-panel-12065" role="button">Budget Department</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12065"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12066">
+<div class="fsElementContent">
+<p>The Budget and Analysis Department exists to assist the Clark County School District (CCSD) and comply with the financial laws governing public education in Clark County as directed in the Nevada Revised Statutes (NRS) and Nevada Administrative Code (NAC).</p>
+<h2>Budget - Standard Operating Basis</h2>
+<p><a data-file-name="policies.pdf" data-resource-uuid="12d9c86d-b390-49cf-99b3-ad70648555bc" href="/fs/resource-manager/view/12d9c86d-b390-49cf-99b3-ad70648555bc" target="_blank">Summary of Significant Accounting and Budgetary Policies</a><br/>
+<a data-file-name="district-budgeting-cycle.pdf" data-resource-uuid="90355942-6b17-4d5a-bbaa-b42514b80555" href="/fs/resource-manager/view/90355942-6b17-4d5a-bbaa-b42514b80555" target="_blank">The District's Budgeting Cycle</a></p>
+<h2>Nevada Revised Statutes - <em>Budget Related</em></h2>
+<p><a class="xlink" href="http://www.leg.state.nv.us/NRS/NRS-387.html#NRS387" target="_blank">Chapter 387 - Financial Support of School System</a><br/>
+<a class="xlink" href="http://www.leg.state.nv.us/NRS/NRS-354.html#NRS354" target="_blank">Chapter 354 - Local Financial Administration</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208045" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208045" aria-expanded="false" href="#fs-panel-208045" role="button">Employee Benefits</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208045"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208046">
+<div class="fsElementContent">
+<div><a class="button-1" data-page-name="Employee Health and Wellness Benefits" href="/fs/pages/1287">More Information</a></div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12067" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12067" aria-expanded="false" href="#fs-panel-12067" role="button">Facilities and Bond Fund Financial Management</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12067"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12068">
+<div class="fsElementContent">
+<p>Building, modernizing, repairing and maintaining schools and administrative facilities that support student achievement and employee productivity</p>
+<p><a class="button-1" href="https://facilities.ccsd.net/" target="_blank">More Information</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12069" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12069" aria-expanded="false" href="#fs-panel-12069" role="button">Finance Department</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12069"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12070">
+<div class="fsElementContent">
+<p>Bond Information</p>
+<p><a href="http://erp.ccsd.net">ERP</a></p>
+<p><a data-page-name="Employee Health and Wellness Benefits" href="/fs/pages/1287">Benefits</a></p>
+<p>Bond Oversight</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12071" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12071" aria-expanded="false" href="#fs-panel-12071" role="button">Grants Fiscal Services (Formerly Fada)</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12071"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12072">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12073" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12073" aria-expanded="false" href="#fs-panel-12073" role="button">Payroll Employee Services</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12073"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12074">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12075" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12075" aria-expanded="false" href="#fs-panel-12075" role="button">Resource Management</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12075"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12076">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12077" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12077" aria-expanded="false" href="#fs-panel-12077" role="button">Risk Management Department</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12077"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12078">
+<div class="fsElementContent">
+<div>The Mission of Risk Management is to service as a valued strategic resource providing innovative solutions, high quality service, and cost effective methods to effectively balance risk and opportunity for the Clark County School District allowing for the continued success of the district's strategic plan. <a href=""> </a>
+<p><a class="button-1" href="https://sites.google.com/nv.ccsd.net/ccsd-risk-management/home" target="_blank">More Information</a></p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208047" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208047" aria-expanded="false" href="#fs-panel-208047" role="button">Resource Management</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208047"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208048">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208049" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208049" aria-expanded="false" href="#fs-panel-208049" role="button">Workers’ Compensation</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208049"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208050">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

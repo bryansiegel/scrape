@@ -10,7 +10,8 @@
                 RHODES, BETSY ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Rosenblatt, Robert B<br>
+                        
+Principal: Rosenblatt, Robert B<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-3450<br/>
                                 Fax: 702-799-3456<br/>
 <a href="http://maps.google.com/maps?q=7350 TEALWOOD STREET,+LAS VEGAS,+NV+89131">Map</a>
-                                 | <a href="https://www.rhodeselementary.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.rhodeselementary.com/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Soaring to Success</p> <p><b>Mission:</b> It is the mission of the Betsy Rhodes Community to provide a safe, nurturing atmosphere of mutual respect. We will inspire students to achieve their academic potential as life-long learners in a positive social learning environment.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

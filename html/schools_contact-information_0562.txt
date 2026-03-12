@@ -10,7 +10,8 @@
                 DESERT PINES HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Stein, Isaac <br>
+                        
+Principal: Stein, Isaac<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-2196<br/>
                                 Fax: 702-799-2198<br/>
 <a href="http://maps.google.com/maps?q=3800 HARRIS AVENUE,+LAS VEGAS,+NV+89110">Map</a>
-                                 | <a href="http://www.desertpineshs.org">Website</a> </br></br></br></p>
+                                 | <a href="http://www.desertpineshs.org">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Making An Impact</p> <p><b>Mission:</b> The mission of the Desert Pines High School Multicultural Community is to facilitate learning so that all students can develop academic, physical, communication and life skills necessary to meet the challenges of the technological society of today.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

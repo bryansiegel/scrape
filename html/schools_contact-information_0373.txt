@@ -10,7 +10,8 @@
                 WIENER, JR., LOUIS ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Pritchett, Dena <br>
+                        
+Principal: Pritchett, Dena<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5760<br/>
                                 Fax: 702-799-5770<br/>
 <a href="http://maps.google.com/maps?q=450 EAST ELDORADO LANE,+LAS VEGAS,+NV+89123">Map</a>
-                                 | <a href="http://lwjes.vegas/">Website</a> </br></br></br></p>
+                                 | <a href="http://lwjes.vegas/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Louis Wiener, Jr. Elementary School, where who I am and what I do, make a difference.</p> <p><b>Mission:</b> The mission of Louis Wiener, Jr. Elementary School, in cooperation with students, parents, and the community, is dedicated to the development of individual strengths, talents, and the assurance of academic excellence for all students in a positive, caring, and supportive environment.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

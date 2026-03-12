@@ -1,0 +1,119 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Departments</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_7359">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_7360">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_8630">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_8631">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_8627">
+<div class="fsElementContent">
+<h2>Clark County School District Units and Departments</h2>
+<p>The Clark County School District (CCSD) is organized into specialized units that oversee key areas of district operations, with each unit made up of dedicated departments that carry out essential services. Units provide leadership and direction in areas such as academics, finance, human resources, communications, operations, and student support, while departments within each unit focus on specific responsibilities like budgeting, facilities management, recruitment, media relations, technology, and more. Together, this structure ensures that CCSD runs efficiently and effectively, supporting students, families, employees, and the community.</p>
+<p><a class="button-7" href="https://www.ccsd.net/uploaded/themes/default_25/directory/org-chart/ccsd-org-chart.pdf">Organizational Chart</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_8632">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="8633" data-source-page-id="1049" data-use-new="true" id="fsEl_8633">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="CCSD Admin Building" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="ccsd-building.jpg" data-resource-uuid="84623b58-a0aa-41f2-811c-712473c83a69"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12044">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_12045">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_207430">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Department" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1757344761/ccsdnet/kiwhg7cq7wkgzyyq1hst/department.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="department.png" data-resource-uuid="d4355b75-dbf9-4a80-9988-89f14ac675b3" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Teaching and Learning Unit</h4>
+<a class="button-1" data-page-name="Teaching and Learning Unit" href="/fs/pages/1269">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_12046">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_12032">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Department" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1757344761/ccsdnet/kiwhg7cq7wkgzyyq1hst/department.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="department.png" data-resource-uuid="d4355b75-dbf9-4a80-9988-89f14ac675b3" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Business Operations Unit</h4>
+<a class="button-1" data-page-name="Business Operations Unit" href="/fs/pages/1263">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_12047">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_12030">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Department" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1757344761/ccsdnet/kiwhg7cq7wkgzyyq1hst/department.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="department.png" data-resource-uuid="d4355b75-dbf9-4a80-9988-89f14ac675b3" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Business and Finance Unit</h4>
+<a class="button-1" data-page-name="Business and Finance Unit" href="/fs/pages/1262">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12053">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_12054">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_205797">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Department" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1757344761/ccsdnet/kiwhg7cq7wkgzyyq1hst/department.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="department.png" data-resource-uuid="d4355b75-dbf9-4a80-9988-89f14ac675b3" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Human Resources Unit</h4>
+<a class="button-1" data-page-name="Human Resources" href="/fs/pages/1266">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_12055">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_207537">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Department" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1757344761/ccsdnet/kiwhg7cq7wkgzyyq1hst/department.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="department.png" data-resource-uuid="d4355b75-dbf9-4a80-9988-89f14ac675b3" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Community Engagement Unit</h4>
+<a class="button-1" data-page-name="Communications Unit" href="/fs/pages/1264">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_12056">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_205796">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Department" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1757344761/ccsdnet/kiwhg7cq7wkgzyyq1hst/department.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="department.png" data-resource-uuid="d4355b75-dbf9-4a80-9988-89f14ac675b3" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Police Services</h4>
+<a class="button-1" data-page-name="Police Services" href="/fs/pages/1268">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_207538">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_207539">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_207542">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Department" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1757344761/ccsdnet/kiwhg7cq7wkgzyyq1hst/department.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="department.png" data-resource-uuid="d4355b75-dbf9-4a80-9988-89f14ac675b3" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Office Of General Counsel</h4>
+<a class="button-1" data-page-name="Office of General Council" href="/fs/pages/1267">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_207540">
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_207541">
+</div>
+</div>
+</div>
+</div>
+</main>

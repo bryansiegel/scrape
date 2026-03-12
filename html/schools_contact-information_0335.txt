@@ -10,7 +10,8 @@
                 O'CALLAGHAN, MIKE MS I3 LEARN ACADEMY<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Fligor, Scott A<br>
+                        
+Principal: Fligor, Scott A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7340<br/>
                                 Fax: 702-799-8870<br/>
 <a href="http://maps.google.com/maps?q=1450 RADWICK DRIVE,+LAS VEGAS,+NV+89110">Map</a>
-                                 | <a href="http://www.occomets.org">Website</a> </br></br></br></p>
+                                 | <a href="http://www.occomets.org">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Our Future Unfolding</p> <p><b>Mission:</b> Mike O'Callaghan Middle School is committed to teaching a common core of knowledge in a challenging, creative environment that will develop lifelong learners who are able to successfully meet the demands of an ever-changing society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 TOLAND, HELEN ANDERSON INTL. ACADEMY<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Snipes, Ayoka M<br>
+                        
+Principal: Snipes, Ayoka M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7113<br/>
                                 Fax: 702-799-0401<br/>
 <a href="http://maps.google.com/maps?q=1735 D STREET,+LAS VEGAS,+NV+89106">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/helen-anderson-toland-es#h.5xpkk1ut4v28">Website</a> </br></br></br></p>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/helen-anderson-toland-es#h.5xpkk1ut4v28">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Achieving Starts With Believing</p> <p><b>Mission:</b> Working together, the staff, students, parents, and community of Helen Anderson Toland International Academy Elementary School are dedicated to providing a positive risk free environment which respects individual differences, promotes cultural diversity, and prepares students with the skills and confidence to become life long learners.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

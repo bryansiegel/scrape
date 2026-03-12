@@ -1,88 +1,899 @@
-<div class="content-wrap" id="content_wrap">
-<main class="main-content-wrap" id="main_content_wrap">
-<section class="content-holder">
-<h1>Student General Information</h1>
-<a name="student"></a>
-<h2>Student Information</h2>
-<ul>
-<!-- <li><a href="/students/graduation-schedule.php">2022 Graduation Schedule</a></li> -->
-<li><a href="https://sites.google.com/nv.ccsd.net/ccsdstudentactivities/home">Student Activities</a></li>
-<!-- 							<li><a href="/students/exam-information/">Exam Information</a></li> -->
-<!-- 							<li><a href="/students/school-reunion-information/">School Reunion Info</a></li> -->
-<li><a href="http://transcripts.ccsd.net">Transcript Request</a></li>
-<li><a href="/community/protect-our-kids">Protect Our Kids</a></li>
-</ul>
-<a name="school"></a>
-<h2>School Information</h2>
-<ul>
-<li><a href="/schools/contact-information/">Search for a school</a></li>
-<li><a href="/schools/websites/">List of school websites</a></li>
-<li><a href="/schools/zoning/">Zoning search and maps</a></li>
-</ul>
-<a name="curriculum"></a>
-<h2>Curriculum Overviews</h2>
-<ul>
-<li><a href="/students/resources/pdf/curriculum/CCSDCurriculumOverview_2025–2026_Pre-Kindergarten–Grade5_English.pdf" target="_blank">Curriculum Overview, Grades Pre-Kindergarten-5, ENGLISH</a></li>
-<li><a href="/students/resources/pdf/curriculum/CCSDCurriculumOverview_2025–2026_Pre-Kindergarten–Grade5_Spanish.pdf" target="_blank">Curriculum Overview, Grades Pre-Kindergarten-5, SPANISH</a></li>
-<li><a href="/students/resources/pdf/curriculum/CCSDCurriculumOverview_2025–2026_Grades6–8_English.pdf" target="_blank">Curriculum Overview, Grades 6-8 ENGLISH</a></li>
-<li><a href="/students/resources/pdf/curriculum/CCSDCurriculumOverview_2025–2026_Grades6–8_Spanish.pdf" target="_blank">Curriculum Overview, Grades 6-8 SPANISH</a></li>
-<li><a href="/students/resources/pdf/curriculum/CCSDCurriculumOverview_2025–2026_Grades9–12_English.pdf" target="_blank">Curriculum Overview, Grades 9-12 ENGLISH</a></li>
-<li><a href="/students/resources/pdf/curriculum/CCSDCurriculumOverview_2025–2026_Grades9–12_Spanish.pdf" target="_blank">Curriculum Overview, Grades 9-12 SPANISH</a></li>
-</ul>
-<!-- 					<h2>Student Opportunities</h2>
-					
-						<ul>
-							<li><a href="/community/partnership/programs/paybac/paybac-index/">PAYBAC Program</a></li>
-							<li><a href="http://www.thepef.org/programs_scholarships.html" target="_blank">Scholarships</a></li>
-							<li><a href="http://www.thepef.org/programs_main.html" target="_blank">Programs and Initiatives</a></li>
-							<li><a href="http://www.thepef.org/programs_grants.html" target="_blank">Grant Programs</a></li>
-							<li><a href="http://www.nevadayouth.org" target="_blank">Youth Employment Services</a></li>
-						</ul> -->
-<a name="bully"></a>
-<h2>Report a Bully</h2>
-<ul>
-<li><a href="/students/bully/">Say No To Bullying</a></li>
-</ul>
-<a name="info"></a>
-<h2>Additional Information</h2>
-<ul>
-<!-- 						<li><a href="http://tv.ccsd.net/" target="_blank">CCSDTV</a></li> -->
-<!-- 						<li><a href="http://my.ccsd.net/" target="_blank">my.ccsd.net</a></li> -->
-<li><a href="/district/info/non-discrimination/">Notice of Nondiscrimination</a></li>
-<!-- 						<li><a href="http://vegaspbs.org/index.aspx?NID=257">Homework Hotline</a></li> -->
-<!-- 						<li><a href="/students/sex-ed-info.php">Sex Education Curriculum Info</a></li> -->
-<li><a href="/employees/canvas/">Canvas LMS</a></li>
-</ul>
-</section>
-</main> <!-- /main_content_wrap -->
-<div class="sidebar-wrap" id="sidebar_wrap">
-<!--
-				<div class="sidebar-banner">
-					<div><img src="/_static/images/icons/circle-question.png" alt="Question Mark" class="sidebar-icon"></div>
-					<div class="sidebar-question">Have A Question?</div>
-					<div class="sidebar-help">Need help? Can't find what you're looking for?</div>
-					<div class="sidebar-contact">Contact us at</div>
-					<div class="sidebar-phone">702-799-CCSD</div>
-				</div>
--->
-<!--
-        <div class="sidebar-banner">
-            <div><img src="/_static/images/icons/circle-question.png" alt="" class="sidebar-icon"></div>
-            <div class="sidebar-question">Have A Question?</div>
-            <div class="sidebar-help">Need help? Can't find what you're looking for?</div>
-            <div class="sidebar-contact">Contact us at</div>
-            <div class="sidebar-phone">702-799-CCSD</div>
-        </div>
--->
-<!--
-<section>
-	<a class="twitter-timeline" href="https://twitter.com/ClarkCountySch" width="260" height="350" data-widget-id="304470084347371521">Tweets by @ClarkCountySch</a>
-	
--->
-<!-- FACEBOOK RECOMMENDATIONS -->
-<!--
-	<div class="fb-recommendations" data-site="www.ccsd.net" data-width="260" data-height="300" data-header="false" data-border-color="#ffffff"></div>
-</section>
--->
-</div> <!-- /sidebar-wrap -->
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Students</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_6957">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_6958">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout fsStyleAutoclear" data-use-new="true" id="fsEl_6959">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_6960">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6961">
+<div class="fsElementContent">
+<h2>CCSD Students: Support and Tools for Your Journey</h2>
+<p>At CCSD, we love our students and are here to support you every step of the way. This page is your go-to spot for resources, tools, and information to help you succeed in school and beyond. Whether you’re looking for learning materials, tips for staying organized, or ways to get involved, we’ve got you covered. Explore, discover, and take advantage of everything here to make the most of your journey as a CCSD student.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
 </div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_6962">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="6963" data-source-page-id="1045" data-use-new="true" id="fsEl_6963">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="CCSD Students" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755618655/ccsdnet/mdkqglnrg1s2klvgt2sk/kids-laughing.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755618655/ccsdnet/mdkqglnrg1s2klvgt2sk/kids-laughing.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755618655/ccsdnet/mdkqglnrg1s2klvgt2sk/kids-laughing.jpg%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="kids-laughing.jpg" data-resource-uuid="5c7bf8de-0dce-4529-8928-0eb1c3a2b50b"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_8690">
+<div class="fsElementContent">
+<div class="nav" style="margin-top:10px;"><a class="scroll_slow" href="#tools">Tools</a><a class="scroll_slow" href="#support">Support</a><a class="scroll_slow" href="#programs">Programs</a><a class="scroll_slow" href="#resources">Resources</a></div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_6987">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_6988">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_6989">
+<div class="fsElementContent">
+<div><a id="tools"></a></div>
+<h3>Student Tools</h3>
+<p>Student Tools provide quick access to helpful resources that support learning, organization, and growth. These tools are designed to make it easier for students to stay connected, find information, and succeed both in and out of the classroom.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_6990">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="6991" data-source-page-id="1045" data-use-new="true" id="fsEl_6991">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Student Opportunities" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755810974/ccsdnet/nbzjlhozjknifateosjl/student-opportunities.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755810974/ccsdnet/nbzjlhozjknifateosjl/student-opportunities.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755810974/ccsdnet/nbzjlhozjknifateosjl/student-opportunities.png%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="student-opportunities.png" data-resource-uuid="03f5ef33-e533-4ade-9f35-081ff95a574e"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_6965">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_6966">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_7006">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Back To School" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755796744/ccsdnet/un70as2gzefrc5ev8s6n/Back-to-School.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="Back-to-School.png" data-resource-uuid="268cfe7b-bcfc-49da-8930-a43f2bbd23a4" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Back To School</h4>
+<p>Get ready for the new school year with CCSD back-to-school resources today.</p>
+<a class="button-1" data-page-name="Back To School" href="/fs/pages/1279">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_6968">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_6967">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Canvas" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755795584/ccsdnet/nzoaystxbfzh9ew15xoe/canvas.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="canvas.png" data-resource-uuid="35e285d7-edcc-4987-ad8b-e456541108f0" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Canvas</h4>
+<p>Canvas is CCSD’s online classroom where teachers post lessons and assignments.</p>
+<a class="button-1" href="https://ccsd.instructure.com/login/ldap" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_6970">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_13480">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1757968904/ccsdnet/ehovqgaewffsq2khj9wz/clever.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="clever.png" data-resource-uuid="d6b753a0-0482-442f-ace5-27672047b7a3" loading="lazy" role="presentation" src="" style=""/></picture></figure>
+</div>
+<h4>Clever</h4>
+<p>The Clever platform for the Clark County School District (CCSD), providing students with a single, secure login</p>
+<a class="button-1" href="https://clever.com/oauth/authorize?channel=clever&amp;client_id=4c63c1cf623dce82caac&amp;confirmed=true&amp;district_id=51e5622080da6210550053a4&amp;redirect_uri=https%3A%2F%2Fclever.com%2Fin%2Fauth_callback&amp;response_type=code&amp;state=0d2bf0150dd4acc1acb29788b9508c10e83e10240cd99698bf60ddca20e71fe1" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsNavigation fsList nav-sub" data-use-new="true" id="fsEl_6972">
+<div class="fsElementContent">
+<nav aria-label="secondary"></nav>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_6973">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_6974">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_6969">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Infinite Campus" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755795341/ccsdnet/w6pfqtwgqdyxez4kklyj/infinite.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="infinite.png" data-resource-uuid="763f8b05-ac24-4b61-ad10-222e5e82473b" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Infinite Campus</h4>
+<p>Track grades, attendance, and student information with Infinite Campus.</p>
+<a class="button-1" data-page-name="Infinite Campus" href="/fs/pages/1051">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_6976">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_6979">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Lunch Menu" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755795971/ccsdnet/cq66h85qeg2fbm1il2ma/lunch-menu.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="lunch-menu.png" data-resource-uuid="4fe93d43-ec18-408e-9fb5-fd6464f09ed1" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Lunch Menus</h4>
+<p>Check CCSD lunch menus to plan meals and stay informed about daily options</p>
+<a class="button-1" href="https://schools.mealviewer.com/district/ClarkCountySchoolDistrict" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_6978">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_170548">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Police" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1769009623/ccsdnet/danxylp2arzvzzwhprga/police.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="police.png" data-resource-uuid="c78a14ac-e696-476a-8fcd-a4a586abbc82" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Online Police Reporting</h4>
+<p>CCSDPD online reporting system allows community members to submit non-emergency reports.</p>
+<a class="button-1" data-page-name="Online Police Reporting" href="/fs/pages/19349">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_170544">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_170545">
+<div class="fsElement fsContent job-card lgr-card" data-use-new="true" id="fsEl_190865">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Public Concern</h4>
+<p>How families can collaborate with schools and resolve concerns</p>
+<br/>
+<br/>
+<a class="button-1" data-page-name="Public Concern" href="/fs/pages/21893">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_170546">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_6975">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="School Bell" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755796898/ccsdnet/bbenzkj9wwxqhsiy6fdp/school-bell.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="school-bell.png" data-resource-uuid="473b5179-bb88-4602-97af-f26ed354d3af" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>School Bell Information</h4>
+<p>Find start and end times for all CCSD schools.</p>
+<a class="button-1" data-file-name="BellSchedule-2025-20261.pdf" data-resource-uuid="e10e644a-8d6a-4368-a13d-e5f6caa41773" href="/fs/resource-manager/view/e10e644a-8d6a-4368-a13d-e5f6caa41773" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_170547">
+</div>
+</div>
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_12154">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="School" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756497081/ccsdnet/ufhrqr9ubkzdajqueu3e/school.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="school.png" data-resource-uuid="102c0c8d-fcba-4aa1-89c6-032723a05f8f" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Curriculum</h4>
+<ul style="text-align:left !important;">
+<li><a data-file-name="CCSDCurriculumOverview_20252026_Pre-KindergartenGrade5_English.pdf" data-resource-uuid="490c8d83-d287-470c-9284-517239c49c72" href="/fs/resource-manager/view/490c8d83-d287-470c-9284-517239c49c72" target="_blank">Curriculum Overview, Grades Pre-Kindergarten-5, ENGLISH</a></li>
+<li><a data-file-name="CCSDCurriculumOverview_20252026_Pre-KindergartenGrade5_Spanish.pdf" data-resource-uuid="4d5c4058-5094-4696-90af-6b7b3ae222db" href="/fs/resource-manager/view/4d5c4058-5094-4696-90af-6b7b3ae222db" target="_blank">Curriculum Overview, Grades Pre-Kindergarten-5, SPANISH</a></li>
+<li><a data-file-name="CCSDCurriculumOverview_20252026_Grades68_English.pdf" data-resource-uuid="17ac1122-b26e-4fbd-aee3-33e6d6a9808d" href="/fs/resource-manager/view/17ac1122-b26e-4fbd-aee3-33e6d6a9808d" target="_blank">Curriculum Overview, Grades 6-8 ENGLISH</a></li>
+<li><a data-file-name="CCSDCurriculumOverview_20252026_Grades68_Spanish.pdf" data-resource-uuid="3c8f7767-0193-49a1-8ee7-a51cde8a14e7" href="/fs/resource-manager/view/3c8f7767-0193-49a1-8ee7-a51cde8a14e7" target="_blank">Curriculum Overview, Grades 6-8 SPANISH</a></li>
+<li><a data-file-name="CCSDCurriculumOverview_20252026_Grades912_English.pdf" data-resource-uuid="6d328171-d881-418f-89ae-6cadf54816e1" href="/fs/resource-manager/view/6d328171-d881-418f-89ae-6cadf54816e1" target="_blank">Curriculum Overview, Grades 9-12 ENGLISH</a></li>
+<li><a data-file-name="CCSDCurriculumOverview_20252026_Grades912_Spanish.pdf" data-resource-uuid="7f09e48b-250f-4010-9539-8ad0eff2b0c9" href="/fs/resource-manager/view/7f09e48b-250f-4010-9539-8ad0eff2b0c9" target="_blank">Curriculum Overview, Grades 9-12 SPANISH</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12155">
+<div class="fsElementContent">
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_8568">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_8569">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_8570">
+<div class="fsElementContent">
+<div><a id="support"></a></div>
+<h3>Student Support</h3>
+<p>At CCSD, student well-being and safety are top priorities. Explore resources for mental health support, access Medicaid services, and learn how to report bullying through SafeVoice. These tools help students stay healthy, safe, and supported throughout their school journey.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_8571">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="8586" data-source-page-id="1045" data-use-new="true" id="fsEl_8586">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Student Resources" data-aspect-ratio="0.75" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755811131/ccsdnet/rpdfyzhjzzlkhdnifk3g/student-resources.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755811131/ccsdnet/rpdfyzhjzzlkhdnifk3g/student-resources.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755811131/ccsdnet/rpdfyzhjzzlkhdnifk3g/student-resources.png%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="student-resources.png" data-resource-uuid="aa9e3f67-d5c9-47cc-9321-d797ce6d178e"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_8574">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_8575">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_12163">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Mental Health" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755796346/ccsdnet/g7ethzlkwo5lyaohoykk/mental-health.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="mental-health.png" data-resource-uuid="a7bd6629-fa09-49b8-b50c-acc415efb3db" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Concussion Protocol</h4>
+<p>Review CCSD’s concussion protocol to protect student health and safety.</p>
+<a class="button-1" data-page-name="Concussion Protocol" href="/fs/pages/1278">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_8577">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_170549">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Police" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1769009623/ccsdnet/danxylp2arzvzzwhprga/police.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="police.png" data-resource-uuid="c78a14ac-e696-476a-8fcd-a4a586abbc82" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Contact CCSDPD</h4>
+<p>Resources on how to contact the Clark County School District Police Department.</p>
+<br/>
+<a class="button-1" data-page-name="Contact CCSDPD" href="/fs/pages/19350">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_8579">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_201960">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Educational Involvement Accord</h4>
+<p>Educational Involvement Accord Information</p>
+<a class="button-1" data-file-name="edu-involvement-2015.pdf" data-resource-uuid="8342b60d-ecca-4dba-aab1-603d59c59584" href="/fs/resource-manager/view/8342b60d-ecca-4dba-aab1-603d59c59584">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_12156">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_12157">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_201171">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Hand with Heart" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766531418/ccsdnet/bn3yearjnh4ny4gphwks/hand-with-heart.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="hand-with-heart.webp" data-resource-uuid="3177201e-f7b0-4a0d-afa9-01fed846b5c7" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Family Educational Rights and Privacy Act (FERPA)</h4>
+<p>The Family Educational Rights and Privacy Act (FERPA) affords parents and students over 18 years of age ("eligible students") certain rights with respect to the student's education records.</p>
+<a class="button-1" data-page-name="Family Educational Rights and Privacy Act (FERPA)" href="/fs/pages/23028">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_12159">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_8580">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Medicaid" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798076/ccsdnet/n3brtmpa1idgmbuyd6uc/medicaid.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="medicaid.png" data-resource-uuid="4b89da36-0b4d-4e54-a1f3-11522dd32f5e" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Medicaid School Health Services</h4>
+<p>Access free health and therapy services for students through CCSD Medicaid School Health</p>
+<a class="button-1" href="https://ssd.ccsd.net/shsmedicaid/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_12161">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_8576">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Mental Health" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755796346/ccsdnet/g7ethzlkwo5lyaohoykk/mental-health.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="mental-health.png" data-resource-uuid="a7bd6629-fa09-49b8-b50c-acc415efb3db" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Mental Health Resources</h4>
+<p>Access resources and support to promote student mental health and well-being</p>
+<a class="button-1" data-page-name="Mental Health Resources" href="/fs/pages/1275">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_201961">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_201962">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_8578">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="safevoice" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755797960/ccsdnet/k7n3qfgerinhqnqptzou/safevoice2.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="safevoice2.png" data-resource-uuid="4eb769a6-3130-4b0d-b367-92e8397e5159" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>SafeVoice</h4>
+<p>Report bullying and safety concerns through SafeVoice.</p>
+<a class="button-1" data-page-name="SafeVoice" href="/fs/pages/1277">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_201963">
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_201964">
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_13482">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_13483">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_13484">
+<div class="fsElementContent">
+<div><a id="programs"></a></div>
+<h3>Student Programs</h3>
+<p>We know that students thrive when they have access to engaging programs and opportunities, and CCSD is here to support their growth and success. From academic enrichment and extracurricular activities to mentorship and skill-building resources, we provide the tools students need to excel. Whether exploring clubs, participating in competitions, or accessing support services, our goal is to help every student reach their full potential and enjoy a well-rounded school experience.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_13485">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="109389" data-source-page-id="1045" data-use-new="true" id="fsEl_109389">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Student Programs" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1764864152/ccsdnet/w60tsooxxhkdrelobxmn/StudentPrograms.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1764864152/ccsdnet/w60tsooxxhkdrelobxmn/StudentPrograms.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1764864152/ccsdnet/w60tsooxxhkdrelobxmn/StudentPrograms.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1764864152/ccsdnet/w60tsooxxhkdrelobxmn/StudentPrograms.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1764864152/ccsdnet/w60tsooxxhkdrelobxmn/StudentPrograms.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1764864152/ccsdnet/w60tsooxxhkdrelobxmn/StudentPrograms.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="StudentPrograms.jpg" data-resource-uuid="749a8335-d351-433e-9dd4-9817ee1e4378"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_13487">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_13488">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_167987">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="family" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1757616001/ccsdnet/wu70ox7bk1kdasy6g1zp/family.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="family.png" data-resource-uuid="976be053-dfec-41af-aaae-424631f848be" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Academic Divisions and Departments</h4>
+<p>Academic Divisions and Departments</p>
+<a class="button-1" href="https://academic-unit.ccsd.net/divisions-and-departments/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_13490">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_13507">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="document" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758041274/ccsdnet/lx1p9aqw4l2lt9v8bvvb/document.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="document.png" data-resource-uuid="e2688dad-4399-470d-af35-9d1d5fd8b876" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Adult Education and Alternative Schools</h4>
+<p>Adult Education and Alternative Schools provide flexible learning for all students.</p>
+<a class="button-1" href="https://www.clarkcountyadulteducation.net/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_13492">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_13493">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="document" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758041274/ccsdnet/lx1p9aqw4l2lt9v8bvvb/document.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="document.png" data-resource-uuid="e2688dad-4399-470d-af35-9d1d5fd8b876" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Alternative Service Schools/Programs</h4>
+<p>Alternative Service Schools and Programs offer tailored education for every student.</p>
+<a class="button-1" data-page-name="Alternative Service Schools/Programs" href="/fs/pages/1302">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_13494">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_13495">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_13505">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="document" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758041274/ccsdnet/lx1p9aqw4l2lt9v8bvvb/document.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="document.png" data-resource-uuid="e2688dad-4399-470d-af35-9d1d5fd8b876" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Child Care &amp; Development Program</h4>
+<p>The Child Care &amp; Development Program supports children’s learning and growth daily.</p>
+<a class="button-1" href="https://www.nevadachildcare.org/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_13497">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_13498">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="document" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758041274/ccsdnet/lx1p9aqw4l2lt9v8bvvb/document.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="document.png" data-resource-uuid="e2688dad-4399-470d-af35-9d1d5fd8b876" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4 style="font-size:20px;">Early Childhood Department / Pre-K Programs</h4>
+<p>The CCSD Early Childhood Department offers Pre-K programs that support young learners through play-based instruction, social development, and early academic readiness.</p>
+<a class="button-1" href="https://ssd.ccsd.net/early-childhood-department/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_13499">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_13512">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="document" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758041274/ccsdnet/lx1p9aqw4l2lt9v8bvvb/document.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="document.png" data-resource-uuid="e2688dad-4399-470d-af35-9d1d5fd8b876" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Gifted Education Program</h4>
+<p>The Gifted Education Program challenges and nurtures students with advanced skills.</p>
+<a class="button-1" href="https://ssd.ccsd.net/gifted-education-services/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_13501">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_13502">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_13503">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="document" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758041274/ccsdnet/lx1p9aqw4l2lt9v8bvvb/document.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="document.png" data-resource-uuid="e2688dad-4399-470d-af35-9d1d5fd8b876" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Infant Care</h4>
+<p>CCSD Infant Care offers a safe, nurturing environment for babies, supporting early development, social skills, and learning through age-appropriate activities and attentive care.</p>
+<br/>
+<a class="button-1" href="https://familysc.ccsd.net/infant-care/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_13504">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_13517">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="document" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758041274/ccsdnet/lx1p9aqw4l2lt9v8bvvb/document.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="document.png" data-resource-uuid="e2688dad-4399-470d-af35-9d1d5fd8b876" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Magnet School Programs</h4>
+<p>Magnet Schools offer specialized programs that focus on students’ unique talents.</p>
+<a class="button-1" data-page-name="Summer School Information" href="https://magent.ccsd.net" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_13506">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_13500">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="document" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758041274/ccsdnet/lx1p9aqw4l2lt9v8bvvb/document.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="document.png" data-resource-uuid="e2688dad-4399-470d-af35-9d1d5fd8b876" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Summer Reading Challenge Program</h4>
+<p>The CCSD Summer Reading Challenge encourages students to read daily, build literacy skills, and enjoy learning all summer long with fun goals, activities, and rewards for participation.</p>
+<a class="button-1" data-page-name="CCSD Reads" href="/fs/pages/1303">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_13508">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_13509">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_8567">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="document" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758041274/ccsdnet/lx1p9aqw4l2lt9v8bvvb/document.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="document.png" data-resource-uuid="e2688dad-4399-470d-af35-9d1d5fd8b876" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Summer School Information</h4>
+<p>CCSD Summer School offers students a chance to recover credits, advance learning, and stay engaged academically during the summer. Programs vary by grade level and school.</p>
+<a class="button-1" data-page-name="Summer School Information" href="/fs/pages/1284">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_13511">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_13496">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="document" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758041274/ccsdnet/lx1p9aqw4l2lt9v8bvvb/document.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="document.png" data-resource-uuid="e2688dad-4399-470d-af35-9d1d5fd8b876" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Teacher Academy College Pathway Program (TACPP)</h4>
+<p>TACPP guides students on a pathway to college and careers in teaching.</p>
+<a class="button-1" href="https://tacpp.ccsd.net/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_13513">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_13489">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="document" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758041274/ccsdnet/lx1p9aqw4l2lt9v8bvvb/document.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="document.png" data-resource-uuid="e2688dad-4399-470d-af35-9d1d5fd8b876" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Title I Programs</h4>
+<p>Title I Programs provide extra support and resources to help students succeed.</p>
+<a class="button-1" data-page-name="Title I Program" href="/fs/pages/1301">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_8582">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_8583">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_8584">
+<div class="fsElementContent">
+<div><a id="resources"></a></div>
+<h3>Student Resources</h3>
+<p>CCSD offers a variety of resources to support students’ academic, social, and emotional growth. From mental health services and wellness programs to reporting tools like SafeVoice and access to Medicaid School Health services, students have the support they need to thrive. Explore these resources to stay informed, safe, and empowered throughout your school journey.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_8585">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="8572" data-source-page-id="1045" data-use-new="true" id="fsEl_8572">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="CCSD Student Resources" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1764864329/ccsdnet/gdl96omxfoo8vbve2gr8/CCSDStudentResources.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1764864329/ccsdnet/gdl96omxfoo8vbve2gr8/CCSDStudentResources.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1764864329/ccsdnet/gdl96omxfoo8vbve2gr8/CCSDStudentResources.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1764864329/ccsdnet/gdl96omxfoo8vbve2gr8/CCSDStudentResources.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1764864329/ccsdnet/gdl96omxfoo8vbve2gr8/CCSDStudentResources.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1764864329/ccsdnet/gdl96omxfoo8vbve2gr8/CCSDStudentResources.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="CCSDStudentResources.jpg" data-resource-uuid="0de5bf63-be33-4719-bbaf-d62de7d9c373"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_8588">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_8589">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_143915">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" data-widget="image" style="display:inline-block"><picture><img alt="People" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766531556/ccsdnet/eoevu66siv5i72nc41xj/people.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="people.webp" data-resource-uuid="4b50cbc0-d0b0-4b83-bfac-b466b04dd201" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>ACT Resources</h4>
+<p>ACT resources provide students and families with information on test dates, registration, preparation tools, accommodations, and score reporting to support college and career readiness.</p>
+<br/>
+<br/>
+<a class="button-1" href="https://aarsi.ccsd.net/assessment-2/act-resources/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_8591">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_143917">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" data-widget="image" style="display:inline-block"><picture><img alt="People" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766531556/ccsdnet/eoevu66siv5i72nc41xj/people.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="people.webp" data-resource-uuid="4b50cbc0-d0b0-4b83-bfac-b466b04dd201" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Assessment Resources</h4>
+<p>Assessment resources offer guidance on required tests, preparation materials, accommodations, scoring, and timelines to help students, families, and schools understand and prepare for academic assessments.</p>
+<a class="button-1" href="https://aarsi.ccsd.net/assessment-2/assessment-literacy/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_8593">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_193534">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Back To School" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755796744/ccsdnet/un70as2gzefrc5ev8s6n/Back-to-School.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="Back-to-School.png" data-resource-uuid="268cfe7b-bcfc-49da-8930-a43f2bbd23a4" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Bell Schedule</h4>
+<p>CCSD Bell Schedule.</p>
+<a class="button-1" href="https://resources.finalsite.net/images/v1770245586/ccsdnet/vzjjz0zz5nq4a1fr1erm/BellSchedule-2025-2026.pdf" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_167976">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_167977">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_170626">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Police" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1769009623/ccsdnet/danxylp2arzvzzwhprga/police.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="police.png" data-resource-uuid="c78a14ac-e696-476a-8fcd-a4a586abbc82" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>CCSDPD Complaint System</h4>
+<p>Submit complaints about CCSD Police officers using this form. Provide as much detail and contact info as possible. All complaints are confidential, taken seriously, and investigated fairly.</p>
+<br/>
+<a class="button-1" data-page-name="CCSDPD Complaint System" href="/fs/pages/19358">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_167979">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_201965">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Unemployment" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798733/ccsdnet/rlmg27zjwxcvextqq9lc/unemployment.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="unemployment.png" data-resource-uuid="5b6ee727-b8e0-4630-8dde-918d3a4966a4" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Code of Honor</h4>
+<p>Code of Honor information.</p>
+<a class="button-1" href="https://d39smchmfovhlz.cloudfront.net/QeHgQXI2RL21z9TqbnHFM0pVwIVIgnB4sIrLEk3y6ZjcmZPY.pdf" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_167981">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_170560">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Police" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1769009623/ccsdnet/danxylp2arzvzzwhprga/police.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="police.png" data-resource-uuid="c78a14ac-e696-476a-8fcd-a4a586abbc82" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Community Resources</h4>
+<p>CCSD’s Community Resources page lists local safety, law enforcement, and support contacts and services to help families, neighbors, and partners connect with community and school resources.</p>
+<br/>
+<a class="button-1" data-page-name="Community Resources" href="/fs/pages/19352">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_8696">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_8697">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_143919">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" data-widget="image" style="display:inline-block"><picture><img alt="People" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766531556/ccsdnet/eoevu66siv5i72nc41xj/people.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="people.webp" data-resource-uuid="4b50cbc0-d0b0-4b83-bfac-b466b04dd201" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>CRT Summative Resources</h4>
+<p>CRT Summative resources provide information on Nevada’s end-of-year assessments, including test formats, preparation materials, accommodations, scoring, and reporting to help schools, students, and families prepare.</p>
+<a class="button-1" href="https://aarsi.ccsd.net/assessment-2/crt-resources/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_8698">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_170559">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div contenteditable="false" tabindex="-1">
+<figure class="fsImage" data-widget="image"><picture><img alt="Police" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1769009623/ccsdnet/danxylp2arzvzzwhprga/police.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="police.png" data-resource-uuid="c78a14ac-e696-476a-8fcd-a4a586abbc82" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Crime Prevention Tips</h4>
+<p>Practical safety advice from CCSDPD to keep students, staff, and visitors safe — including awareness, securing belongings, safe drop-off/pick-up, reporting concerns, and knowing emergency procedures</p>
+<br/>
+<a class="button-1" data-page-name="Crime Prevention Tips" href="/fs/pages/19351">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_8699">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_189862">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="computer" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758207906/ccsdnet/hjubxbhfcofdq0xtsqev/computer.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="computer.png" data-resource-uuid="b27a4f3f-9222-47dc-8569-c06ea40b61b9" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Cybersecurity Education</h4>
+<p>Clark County School District is committed to protecting every student’s digital journey through strong policies, proactive education, and family partnership.</p>
+<a class="button-1" data-page-name="Cybersecurity" href="/fs/pages/20965">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_8700">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_8701">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_167978">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" data-widget="image" style="display:inline-block"><picture><img alt="People" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766531556/ccsdnet/eoevu66siv5i72nc41xj/people.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="people.webp" data-resource-uuid="4b50cbc0-d0b0-4b83-bfac-b466b04dd201" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Foreign Exchange Information</h4>
+<p>Find essential Clark County School District foreign exchange information, guidelines, program details, eligibility requirements, and support resources for international students and host families.</p>
+<a class="button-1" data-page-name="Foreign Exchange Information" href="/fs/pages/17607" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_8702">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_143922">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" data-widget="image" style="display:inline-block"><picture><img alt="People" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766531556/ccsdnet/eoevu66siv5i72nc41xj/people.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="people.webp" data-resource-uuid="4b50cbc0-d0b0-4b83-bfac-b466b04dd201" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Grading Practice Resources
+</h4>
+<p>Grading practice resources explain district guidelines and expectations for evaluating student work, including grading scales, feedback methods, and reporting practices to ensure consistency and clarity.</p>
+<a class="button-1" href="https://aarsi.ccsd.net/assessment-2/grading-practices/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_8703">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_188034">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" data-widget="image" style="display:inline-block"><picture><img alt="People" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766531556/ccsdnet/eoevu66siv5i72nc41xj/people.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="people.webp" data-resource-uuid="4b50cbc0-d0b0-4b83-bfac-b466b04dd201" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Graduation Requirements</h4>
+<p>CCSD student graduation requirements.</p>
+<a class="button-1" data-page-name="Graduation Requirements" href="/fs/pages/21461" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_8692">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_8693">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_8594">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Graduation" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798384/ccsdnet/xaa7jrt0xknjadyrm8jv/graduation.png%22,%22width%22:80}]" data-resource-description="" data-resource-filename="graduation.png" data-resource-uuid="4d41db81-d71b-46c7-94d6-fdbee042e2fd" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Graduation Schedule</h4>
+<p>Check the dates and details for upcoming CCSD graduations.</p>
+<a class="button-1" data-page-name="Graduation Schedule" href="/fs/pages/1283">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_8694">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_143931">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" data-widget="image" style="display:inline-block"><picture><img alt="People" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766531556/ccsdnet/eoevu66siv5i72nc41xj/people.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="people.webp" data-resource-uuid="4b50cbc0-d0b0-4b83-bfac-b466b04dd201" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>MAP Resources</h4>
+<p>MAP resources provide information on Measures of Academic Progress assessments, including testing windows, preparation tips, score reports, and how results support instruction and student growth.</p>
+<a class="button-1" href="https://aarsi.ccsd.net/assessment-2/map-resources/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_8695">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_13481">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="PayBAC" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798156/ccsdnet/vky0zihkwlfwtmquq9ho/paybac.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="paybac.png" data-resource-uuid="80135fbf-c821-4357-82e2-57f23dbef0d7" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>PayBAC</h4>
+<p>PAYBAC connects students with local professionals to inspire learning and future success.</p>
+<a class="button-1" href="https://engage.ccsd.net/volunteer/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_17436">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_17437">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_143926">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" data-widget="image" style="display:inline-block"><picture><img alt="People" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766531556/ccsdnet/eoevu66siv5i72nc41xj/people.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="people.webp" data-resource-uuid="4b50cbc0-d0b0-4b83-bfac-b466b04dd201" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>SBAC Interim Resources</h4>
+<p>SBAC Interim resources provide guidance on interim assessments aligned to state standards, including test availability, administration, scoring, and how results inform instruction and student progress.</p>
+<a class="button-1" href="https://aarsi.ccsd.net/assessment-2/sbac-interim-resources/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_17438">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_6982">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Student Activities" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755797050/ccsdnet/qyrosvomwkrabz8or9ew/student-activities.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="student-activities.png" data-resource-uuid="d027aac1-88e8-48fe-a55f-d6dc216a1284" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Secondary Student Activities</h4>
+<p>Explore clubs, sports, and events at CCSD secondary schools.</p>
+<a class="button-1" href="https://sites.google.com/nv.ccsd.net/ccsdstudentactivities/home" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_17439">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_6984">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Student Athletics" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755797124/ccsdnet/pc7vvculipzjwzato8bc/student-athletics.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="student-athletics.png" data-resource-uuid="308cfae9-d81a-4a23-97b5-f1d07bd0cb18" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Secondary School Athletics</h4>
+<p>Stay updated on sports teams and athletic events at CCSD secondary schools.</p>
+<a class="button-1" href="https://sites.google.com/nv.ccsd.net/ccsd-athletics/home" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_143913">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_143914">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_6997">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Scholarships" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798225/ccsdnet/yr0bnaqsh2ezdmealkkx/scholarships.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="scholarships.png" data-resource-uuid="f3d4c9fc-abfa-4c86-8465-0298edef46a0" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Scholarships</h4>
+<p>Discover scholarships to support your education and reach your goals.</p>
+<br/>
+<a class="button-1" data-page-name="Scholarship Information" href="/fs/pages/1282">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_143916">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_17435">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div contenteditable="false" tabindex="-1">
+<figure class="fsImage" data-widget="image"><picture><img alt="Lunch Menu" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755795971/ccsdnet/cq66h85qeg2fbm1il2ma/lunch-menu.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="lunch-menu.png" data-resource-uuid="4fe93d43-ec18-408e-9fb5-fd6464f09ed1" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Special Diets</h4>
+<p>Special Diets provides meal accommodations for students with dietary needs.</p>
+<br/>
+<br/>
+<br/>
+<a class="button-1" data-page-name="Special Diets" href="/fs/pages/1929">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_143918">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_7002">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Student Attire" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755796549/ccsdnet/cqrskd3ahkvod4fzmsun/attire.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="attire.png" data-resource-uuid="c0a671cf-2f09-4b04-9682-c60f7b1afc05" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Student Attire</h4>
+<p>Review student dress code and attire guidelines.</p>
+<a class="button-1" data-page-name="Student Attire" href="/fs/pages/1280">View</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_143920">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_143921">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_8592">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Calendar" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755792419/ccsdnet/nqkejhghct3dvzzlsimh/calendar.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="calendar.png" data-resource-uuid="9ae2a19d-392f-490e-83e1-ff6c481cf4d2" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Student Calendars</h4>
+<p>View important dates and events on the CCSD student calendar.</p>
+<a class="button-1" data-page-name="Calendars" href="/fs/pages/1055">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_143923">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_7004">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Student Code of Conduct" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755796661/ccsdnet/yntgvu1ltxxsjorrgia8/code-of-conduct.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="code-of-conduct.png" data-resource-uuid="07030b25-b7d4-4fd7-8b3c-45945337a4a6" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Student Code of Conduct</h4>
+<p>View CCSD’s student conduct policies.</p>
+<a class="button-1" data-file-name="ENGLISH-Code_of_Conduct_71625.pdf" data-resource-uuid="e013f477-f3af-41c3-bd23-2d27b9a1825b" href="/fs/resource-manager/view/e013f477-f3af-41c3-bd23-2d27b9a1825b" target="_blank">English</a>     <a class="button-1" data-file-name="SPANISH-Code_of_Conduct_072024.pdf" data-resource-uuid="557a5059-3d1d-4a3c-9cbc-27910f05149b" href="/fs/resource-manager/view/557a5059-3d1d-4a3c-9cbc-27910f05149b" target="_blank">Spanish</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_143925">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_143912">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" data-widget="image" style="display:inline-block"><picture><img alt="People" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766531556/ccsdnet/eoevu66siv5i72nc41xj/people.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="people.webp" data-resource-uuid="4b50cbc0-d0b0-4b83-bfac-b466b04dd201" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>State-Mandated Testing Calendars</h4>
+<p>State testing calendars show required assessment windows, helping schools, students, and families plan testing dates, prep, and reporting.</p>
+<br>
+<a class="button-1" href="https://drive.google.com/drive/folders/1bix3vXUsEYFrC8Ov1Rxs7T_B1gXGyUMd" target="_blank">View</a></br></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_189863">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_189864">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_8590">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Transcript Request" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755798306/ccsdnet/fx8q6vlx5t4ougjla13j/transcript.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="transcript.png" data-resource-uuid="035d6554-ef2f-4739-ae02-aab63e5bafbd" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Transcript Request</h4>
+<p>Request your official CCSD transcripts quickly and easily online.</p>
+<a class="button-1" href="https://clarknv.scriborder.com/" target="_blank">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_189865">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_17440">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div contenteditable="false" tabindex="-1">
+<figure class="fsImage" data-widget="image"><picture><img alt="tv" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758209344/ccsdnet/urgykujy7kcyopquqlck/tv.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="tv.png" data-resource-uuid="f75d18ee-6c9b-43de-b6e8-3f0a2bb18d60" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Vegas PBS</h4>
+<p>Vegas PBS brings educational, inspiring, and entertaining programs to our community.</p>
+<br>
+<br>
+<br/>
+<a class="button-1" href="https://www.vegaspbs.org/" target="_blank">View</a></br></br></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_189866">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_143933">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" data-widget="image" style="display:inline-block"><picture><img alt="People" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766531556/ccsdnet/eoevu66siv5i72nc41xj/people.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="people.webp" data-resource-uuid="4b50cbc0-d0b0-4b83-bfac-b466b04dd201" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>WIDA Resources</h4>
+<p>Find tools and supports for WIDA assessments, including English language proficiency testing, instructional resources, and score interpretation.</p>
+<br>
+<br/>
+<a class="button-1" href="https://aarsi.ccsd.net/assessment-2/wida-resources/" target="_blank">View</a></br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

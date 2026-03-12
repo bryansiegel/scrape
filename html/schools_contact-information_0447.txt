@@ -10,7 +10,8 @@
                 WEST CAREER AND TECHNICAL ACADEMY<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Dockter-Rozar, Amy C<br>
+                        
+Principal: Dockter-rozar, Amy C<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-4340<br/>
                                 Fax: 702-799-4355<br/>
 <a href="http://maps.google.com/maps?q=11945 W. CHARLESTON BLVD.,+LAS VEGAS,+NV+89135">Map</a>
-                                 | <a href="http://www.wctawranglers.com">Website</a> </br></br></br></p>
-<b>Region:</b> 2                                                    </div>
+                                 | <a href="http://www.wctawranglers.com">Website</a> 
+<b>Region:</b> 2                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

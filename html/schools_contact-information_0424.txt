@@ -10,7 +10,8 @@
                 PITTMAN, VAIL ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Juniel-Swanson, La Tonya R<br>
+                        
+Principal: Juniel-swanson, La Tonya R<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4213<br/>
                                 Fax: 702-799-0315<br/>
 <a href="http://maps.google.com/maps?q=6333 FARGO AVENUE,+LAS VEGAS,+NV+89107">Map</a>
-                                 | <a href="http://pittmaneswebsite.wixsite.com/home">Website</a> </br></br></br></p>
+                                 | <a href="http://pittmaneswebsite.wixsite.com/home">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Kids Make It Happen</p> <p><b>Mission:</b> The Vail Pittman community believes that all students can learn and achieve mastery of essential skills and concepts.  We accept the responsibility to educate all students toward individual excellence, to foster positive social growth, and to provide a safe environment.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

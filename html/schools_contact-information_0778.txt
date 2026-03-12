@@ -10,7 +10,8 @@
                 ORTWEIN, DENNIS ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Holloway, Traci Leigh<br>
+                        
+Principal: Holloway, Traci Leigh<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-2680<br/>
                                 Fax: 702-799-2681<br/>
 <a href="http://maps.google.com/maps?q=10926 DEAN MARTIN DRIVE,+LAS VEGAS,+NV+89141">Map</a>
-                                 | <a href="https://www.ortweinelementary.com">Website</a> </br></br></br></p>
-<b>Region:</b> 2                                                    </div>
+                                 | <a href="https://www.ortweinelementary.com">Website</a> 
+<b>Region:</b> 2                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

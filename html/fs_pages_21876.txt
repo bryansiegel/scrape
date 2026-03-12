@@ -1,0 +1,989 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Purchasing and Warehousing</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_190734">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_190735">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_190736">
+<div class="fsElementContent">
+<div class="bg-cream">
+<h2>Information</h2>
+<p>Questions regarding this website to: <a contenteditable="false" href="mailto:solacme@nv.ccsd.net" style="cursor: pointer;">solacme@nv.ccsd.net</a></p>
+</div>
+<div style="padding-top: 10px;">
+<p><a contenteditable="false" data-file-name="ccsd-shred-schedules-2026.pdf" data-resource-uuid="f714c06f-46e7-466e-ac62-b958f4bcae7a" href="/fs/resource-manager/view/f714c06f-46e7-466e-ac62-b958f4bcae7a" style="cursor: pointer;" target="_blank"><strong>**NEW** 2026 Shredding Schedule</strong></a></p>
+<p><a contenteditable="false" data-file-name="21182-new-19-non-stand-non-supp-form.pdf" data-resource-uuid="7439fc03-066b-49fb-a22e-ce772fdfe108" href="/fs/resource-manager/view/7439fc03-066b-49fb-a22e-ce772fdfe108" style="cursor: pointer;" target="_blank"><strong>Non-Standard/Non-Supported Request Form</strong></a></p>
+<p><a contenteditable="false" data-file-name="revised-checklist-for-district-move-through-purchasing-11152022-warehouse.pdf" data-resource-uuid="b028257c-aa31-4ce2-ae7d-d3c76a55510b" href="/fs/resource-manager/view/b028257c-aa31-4ce2-ae7d-d3c76a55510b" style="cursor: pointer;" target="_blank"><strong>District Office Moves Utilizing Purchasing/Warehouse Team
+<style type="text/css">.red
+{
+	color: #FF0003;
+}
+</style>
+</strong></a></p>
+<p><strong>Attention Suppliers: </strong>Join us for an online supplier Open House. <strong><a contenteditable="false" data-file-name="556817-open-house-flyer.pdf" data-resource-uuid="6c59322a-c31c-4178-a668-8fb93fa29350" href="/fs/resource-manager/view/6c59322a-c31c-4178-a668-8fb93fa29350" style="cursor: pointer;" target="_blank">Click Here for the 2025-2026 schedule</a>.</strong></p>
+<p><strong><a contenteditable="false" data-file-name="vendor-guide.pdf" data-resource-uuid="328f7fa3-1399-4106-b16b-27b83459fb1d" href="/fs/resource-manager/view/328f7fa3-1399-4106-b16b-27b83459fb1d" style="cursor: pointer;" target="_blank">*New* Employees Guide to Working with Vendors</a></strong></p>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_190737">
+<div class="fsElementContent">
+<h3>Community Information</h3>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_190738">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-190739" role="presentation">
+<a aria-controls="fsEl_190739" aria-selected="false" href="#fs-panel-190739" role="tab">Employee Purchase Options</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_190739" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_190739" aria-expanded="false" href="#fs-panel-190739" role="button">Employee Purchase Options</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-190739"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_190740">
+<div class="fsElementContent">
+<p>The following companies offer discounts to district employees for personal purchases.</p>
+<p><a contenteditable="false" href="http://store.apple.com/us-k12" style="cursor: pointer;" target="_blank">Apple Computer</a><br/>
+<a contenteditable="false" href="/resources/purchasing-warehousing/hp-epp-flyer-clark-county-sd.pdf" style="cursor: pointer;" target="_blank">HP Computer</a><br/>
+<a contenteditable="false" href="http://ccsd.onthehub.com" style="cursor: pointer;" target="_blank">Microsoft</a><br/>
+<a data-file-name="lenovo-computer-faq.pdf" data-resource-uuid="0d80cde5-8f54-4f81-87cc-7d9f4faf4a6a" href="/fs/resource-manager/view/0d80cde5-8f54-4f81-87cc-7d9f4faf4a6a" style="cursor: pointer;" target="_blank">Lenovo Computer - FAQ</a><br/>
+<a data-file-name="lenovo-ccsd-flyer.pdf" data-resource-uuid="2a3bf010-8a80-4cdb-93cd-188370103b45" href="/fs/resource-manager/view/2a3bf010-8a80-4cdb-93cd-188370103b45" style="cursor: pointer;" target="_blank">Lenovo Flyer</a><br/>
+<a contenteditable="false" href="https://www.ais-now.com/ccsd" style="cursor: pointer;" target="_blank">AIS Printers and Toners</a></p>
+<p>Employee purchases made through the Employee Purchase Plan are strictly between the employee and the appropriate company. CCSD neither endorses nor recommends any particular manufacturer or brand.</p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_190741">
+<div class="fsElementContent">
+<h3>District Information</h3>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_190742">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-190743" role="presentation">
+<a aria-controls="fsEl_190743" aria-selected="false" href="#fs-panel-190743" role="tab">BER Equipment Replacement</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-190745" role="presentation">
+<a aria-controls="fsEl_190745" aria-selected="false" href="#fs-panel-190745" role="tab">Catalogs</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-190766" role="presentation">
+<a aria-controls="fsEl_190766" aria-selected="false" href="#fs-panel-190766" role="tab">Donations</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-190772" role="presentation">
+<a aria-controls="fsEl_190772" aria-selected="false" href="#fs-panel-190772" role="tab">End User Training for Purchasing Processes</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-190774" role="presentation">
+<a aria-controls="fsEl_190774" aria-selected="false" href="#fs-panel-190774" role="tab">Helpful Hints, Guides, and Notices</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-190776" role="presentation">
+<a aria-controls="fsEl_190776" aria-selected="false" href="#fs-panel-190776" role="tab">Non-Standard Equipment Purchases</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_190743" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_190743" aria-expanded="false" href="#fs-panel-190743" role="button">BER Equipment Replacement</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-190743"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_190744">
+<div class="fsElementContent">
+<p>Funds may be available to assist schools in replacing equipment that has been determined to be beyond economical repair (BER). As first priority the District will replace BER equipment that is a safety issue.</p>
+<ul>
+<li>The equipment being replaced is within current standards.</li>
+<li>The total value of the equipment being replaced is over $1,000.00 (multiple items can placed be on one BER request)</li>
+<li>The replacement program uses a one-for-one type trade-in</li>
+<li>For copiers, AIS will pick up only old Kyocera brand copiers when the replacement is delivered. For all other BER copiers and items or equipment deemed BER, the school or department must submit a <a contenteditable="false" href="https://prd-wd.ccsd.net:8121/sap/bc/webdynpro/sap/zmm_ship1_req?sap-client=400" style="cursor: pointer;" target="_blank">Shipping 1 form</a> to return the items to the warehouse to complete the replacement process. Please see <a contenteditable="false" data-file-name="how-to-use-the-shipping-1-form.pdf" data-resource-uuid="0785a2cd-cf2c-4a95-8e82-4b3f6718363f" href="/fs/resource-manager/view/0785a2cd-cf2c-4a95-8e82-4b3f6718363f" style="cursor: pointer;" target="_blank">How to use the SHIPPING-1 form</a> for instructions</li>
+<li>The equipment has been deemed BER by CCSD Maintenance or the appropriate repair personnel and they have provided documentation of the reason for the BER</li>
+<li>Additional required documentation: A school inventory of certain equipment. Please email <a contenteditable="false" href="mailto:BER@nv.ccsd.net" style="cursor: pointer;">BER@nv.ccsd.net</a><a contenteditable="false" href="mailto:ber@nv.ccsd.net" style="cursor: pointer;"> </a>for more information</li>
+<li><strong>The Equipment Replacement Request Form will not be processed until all BER documentation is provided and attached</strong></li>
+<li>The school agrees to pay a percentage of the cost toward the new equipment if the equipment has not met its useful life because of overuse or mishandling</li>
+<li>The new equipment provided must be standard equipment</li>
+</ul>
+<p>The district will pay 100% of the replacement cost if the equipment has exceeded its useful life. If the equipment has not met its useful life, the school shall fund the remaining cost. Example: the useful life on most copiers is 7+ years. If the BER copier is older than 7 years, the district will replace it at no cost. If the copier is BER after 5 years the school will pay 28.5% and the district will pay 71.5%.</p>
+<p>To request a BER replacement, please download and fill in the Equipment Replacement Request Form and email it to <a contenteditable="false" href="mailto:BER@nv.ccsd.net" style="cursor: pointer;">BER@nv.ccsd.net</a><a contenteditable="false" href="mailto:ber@nv.ccsd.net" style="cursor: pointer;"> </a>with the BER documentation and inventory attached.</p>
+<p><a contenteditable="false" data-file-name="ber-published-241203.pdf" data-resource-uuid="a4555d72-90a5-4f53-b2a1-30441fcd014d" href="/fs/resource-manager/view/a4555d72-90a5-4f53-b2a1-30441fcd014d" style="cursor: pointer;" target="_blank">Equipment Replacement Request Form</a></p>
+<p><a contenteditable="false" data-file-name="ber-safety-cabinet-replacement-241203.pdf" data-resource-uuid="abb4b45b-2a05-44ce-9a78-e5fda2774ad4" href="/fs/resource-manager/view/abb4b45b-2a05-44ce-9a78-e5fda2774ad4" style="cursor: pointer;" target="_blank">BER Safety Cabinet Replacement Request</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_190745" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_190745" aria-expanded="false" href="#fs-panel-190745" role="button">Catalogs</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-190745"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_190746">
+<div class="fsElementContent">
+<p>CCSD adopted a large number of textbooks in 2016. All adopted materials can be ordered using the <a href="http://erp-prm-pas.ccsd.net:8001/sap/bc/webdynpro/sap/zsrmtextbook_catalog?sap-client=400#" style="cursor: pointer;" target="_blank">Adopted Textbook Catalog</a>. You can find purchasing information about the textbooks in the <a contenteditable="false" data-page-name="Adopted Textbook Buy Guides" href="/fs/pages/21877" style="cursor: pointer;">Buy Guides</a>. For ordering help, see the <a data-file-name="adopted-textbook-catalog-help-guide-181220.pdf" data-resource-uuid="ab6c1ce2-abb2-4ada-a984-8b1f55007618" href="/fs/resource-manager/view/ab6c1ce2-abb2-4ada-a984-8b1f55007618" style="cursor: pointer;">Adopted Textbook Catalog Help Guide</a>.</p>
+<h2>Shopping Cart Catalogs </h2>
+<p><a contenteditable="false" href="https://prd-wd.ccsd.net:8120/sap/bc/webdynpro/sap/zsrmtextbook_catalog?sap-client=400#" style="cursor: pointer;" target="_blank">Adopted Textbook Catalog</a> - Display-Only</p>
+<p><a contenteditable="false" data-page-name="Adopted Textbook Buy Guides" href="/fs/pages/21877" style="cursor: pointer;">Adopted Textbook Buy Guides</a></p>
+<p><a contenteditable="false" href="https://erp-portal.ccsd.net/irj/go/km/docs/documents/Public%20Documents/Purchasing/Generalcatalogprod.html" style="cursor: pointer;">Shopping Cart Catalog - General</a> - Display-Only</p>
+<p><a contenteditable="false" href="https://erp-portal.ccsd.net/irj/go/km/docs/documents/Public%20Documents/Purchasing/custodialcatalogprod.html" style="cursor: pointer;">Shopping Cart Catalog - Custodial Services</a> - Display-Only</p>
+<p><a href="https://erp-portal.ccsd.net/irj/go/km/docs/documents/Public%20Documents/Purchasing/maintenancecatalogprod.html" target="_blank">Shopping Cart Catalog - Maintenance</a> - Display-Only</p>
+<h2>Catalog Help Guides</h2>
+<p><a contenteditable="false" data-file-name="adopted-textbook-catalog-help-guide-1812201.pdf" data-resource-uuid="ebd21192-6c7e-4a82-9ebd-e49bf449abcd" href="/fs/resource-manager/view/ebd21192-6c7e-4a82-9ebd-e49bf449abcd" style="cursor: pointer;">Adopted Textbook Catalog Help Guide</a></p>
+<p><a data-page-name="Adopted Textbook Buy Guides" href="/fs/pages/21877" style="cursor: pointer;">Adopted Textbook Buy Guides</a></p>
+<p><a contenteditable="false" data-file-name="catalog-help-guide-200819.pdf" data-resource-uuid="ba93b961-98f1-455c-b7e2-5bb3f84d82fc" href="/fs/resource-manager/view/ba93b961-98f1-455c-b7e2-5bb3f84d82fc" style="cursor: pointer;">Catalog Help Guide</a></p>
+<p><a contenteditable="false" data-file-name="ingram-ipage-through-the-sap-portal-220725.pdf" data-resource-uuid="cad6ec50-9c1a-4f65-b1cf-9b0c90d29b3d" href="/fs/resource-manager/view/cad6ec50-9c1a-4f65-b1cf-9b0c90d29b3d" style="cursor: pointer;">Ordering Library Books from Ingram ipage</a></p>
+<h2>PURCHASING DEPARTMENT DIRECTORY</h2>
+<p><a data-file-name="purchasing-website-directory.pdf" data-resource-uuid="bd84ebbe-643d-4e05-92f8-f9a1645cdb0d" href="/fs/resource-manager/view/bd84ebbe-643d-4e05-92f8-f9a1645cdb0d" target="_blank">Purchasing Dept. Directory (PDF)</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_190766" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_190766" aria-expanded="false" href="#fs-panel-190766" role="button">Donations</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-190766"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_190767">
+<div class="fsElementContent">
+<p class="p2">To give cash gifts, instructional materials or equipment items, please read <a contenteditable="false" href="/district/policies-regulations/pdf/3241_R.pdf" style="cursor: pointer;" target="_blank">CCSD Regulation R-3241</a>. Please note that you will need to complete a <a contenteditable="false" data-file-name="273-reportgifts.pdf" data-resource-uuid="da7956cd-eee0-48fb-8dd2-cab357987412" href="/fs/resource-manager/view/da7956cd-eee0-48fb-8dd2-cab357987412" style="cursor: pointer;" target="_blank">CCF-273</a> for all donations.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_190772" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_190772" aria-expanded="false" href="#fs-panel-190772" role="button">End User Training for Purchasing Processes</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-190772"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_190773">
+<div class="fsElementContent">
+<div>Purchasing Processes Training for District Schools and Offices</div>
+<p> </p>
+<ul>
+<li><a contenteditable="false" href="http://elms.ccsd.net/" style="cursor: pointer;">Link to ERP Training Web Page</a></li>
+<li><a contenteditable="false" data-file-name="hiring-consultants.pdf" data-resource-uuid="ef591991-b458-4dfc-b7f0-4b32b37b6a3f" href="/fs/resource-manager/view/ef591991-b458-4dfc-b7f0-4b32b37b6a3f" style="cursor: pointer;">Hiring Consultants</a></li>
+<li><a contenteditable="false" data-file-name="your-guide-to-traveling.pdf" data-resource-uuid="2a1148ed-1bc6-4906-8a05-b81e819a768d" href="/fs/resource-manager/view/2a1148ed-1bc6-4906-8a05-b81e819a768d" style="cursor: pointer;">Your Guide To Traveling</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_190774" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_190774" aria-expanded="false" href="#fs-panel-190774" role="button">Helpful Hints, Guides, and Notices</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-190774"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_190775">
+<div class="fsElementContent">
+<h3><a data-file-name="vendor-guide_2.pdf" data-resource-uuid="dbd9e788-2363-4235-9c71-83124e3254b8" href="/fs/resource-manager/view/dbd9e788-2363-4235-9c71-83124e3254b8" style="cursor: pointer;" target="_blank">Employees Guide to Working with Vendors</a></h3>
+<h2>Helpful Hints</h2>
+<p><a href="http://graphics.ccsd.net/NewFiles/GAC.2006.Site/PDFs/300-399/386%20-%20Core%20Instructional%20Material%20Purchase%20Form.pdf" style="cursor: pointer;" target="_blank">Instructional Material Purchase Approval Form</a></p>
+<p><a data-file-name="used-surplus-furn-v04.pdf" data-resource-uuid="23e762bc-a008-4f35-a37a-216cd5cc9dbd" href="/fs/resource-manager/view/23e762bc-a008-4f35-a37a-216cd5cc9dbd" style="cursor: pointer;" target="_blank">Used and Surplus Furniture Program</a></p>
+<p><a data-file-name="curriculum-recycling-protocol.pdf" data-resource-uuid="e02a370d-2105-488a-a91b-3ff222710c57" href="/fs/resource-manager/view/e02a370d-2105-488a-a91b-3ff222710c57" style="cursor: pointer;" target="_blank">Curriculum Recycling Protocol</a><a data-file-name="curriculum-recycling-protocol_1.pdf" data-resource-uuid="a594cc0d-52b2-4f9f-85f1-d1e099f22b54" href="/fs/resource-manager/view/a594cc0d-52b2-4f9f-85f1-d1e099f22b54" target="_blank"> </a>- Obsolete/Surplus Textbook/Workbook Pickup Process</p>
+<p><a data-file-name="rebinding-textbook-procedure-v01-200116_1.pdf" data-resource-uuid="2bf92a86-d186-46c4-9c8f-b73c37ff8509" href="/fs/resource-manager/view/2bf92a86-d186-46c4-9c8f-b73c37ff8509" style="cursor: pointer;" target="_blank">Textbook Rebinding Procedure</a></p>
+<p><a data-file-name="gac-dos-and-donts-210714_1.pdf" data-resource-uuid="cbea3321-346a-443f-af00-3a91a57005da" href="/fs/resource-manager/view/cbea3321-346a-443f-af00-3a91a57005da" style="cursor: pointer;" target="_blank">Graphics Arts Center – <em>We're here for you!</em></a></p>
+<p><a data-file-name="donations_1.pdf" data-resource-uuid="1d3a5ca4-f335-4089-b010-ab58af996a11" href="/fs/resource-manager/view/1d3a5ca4-f335-4089-b010-ab58af996a11" style="cursor: pointer;" target="_blank">Donations</a></p>
+<p><a data-file-name="ccsd-shred-schedules-2026_2.pdf" data-resource-uuid="594cd0a4-74f6-4249-9cd5-cc0bd77e292e" href="/fs/resource-manager/view/594cd0a4-74f6-4249-9cd5-cc0bd77e292e" style="cursor: pointer;" target="_blank">Shredding Schedule</a></p>
+<p><a data-file-name="41939-how-to-send-mailproof-final-12916_1.pdf" data-resource-uuid="dd79996e-433a-473a-b31c-c4be2541e032" href="/fs/resource-manager/view/dd79996e-433a-473a-b31c-c4be2541e032" style="cursor: pointer;" target="_blank">How to Send Mail</a></p>
+<p><a data-file-name="goods-receipt-purchase-order_1.pdf" data-resource-uuid="eb38a9dc-9b06-4c9c-8aa8-921b01c5e353" href="/fs/resource-manager/view/eb38a9dc-9b06-4c9c-8aa8-921b01c5e353" style="cursor: pointer;" target="_blank">How to create an SAP Goods Receipt (Confirmation of delivery)</a></p>
+<hr/>
+<h2>Catalog Help Guides</h2>
+<p><a data-file-name="adopted-textbook-catalog-help-guide-181220_2.pdf" data-resource-uuid="9e3fe9e9-c0ba-4189-a651-ded01cd7fad3" href="/fs/resource-manager/view/9e3fe9e9-c0ba-4189-a651-ded01cd7fad3" style="cursor: pointer;" target="_blank">Adopted Textbook Catalog Help Guide</a></p>
+<p><a data-page-name="Adopted Textbook Buy Guides" href="/fs/pages/21877" style="cursor: pointer;" target="_blank">Adopted Textbook Buy Guides</a></p>
+<p><a data-file-name="catalog-help-guide-200819.pdf" data-resource-uuid="ba93b961-98f1-455c-b7e2-5bb3f84d82fc" href="/fs/resource-manager/view/ba93b961-98f1-455c-b7e2-5bb3f84d82fc" style="cursor: pointer;" target="_blank">Catalog Help Guide</a></p>
+<p><a data-file-name="ingram-ipage-through-the-sap-portal-220725_1.pdf" data-resource-uuid="1c8e0938-0fee-4dd7-80fe-c8fdff8ea172" href="/fs/resource-manager/view/1c8e0938-0fee-4dd7-80fe-c8fdff8ea172" style="cursor: pointer;" target="_blank">Ordering Library Books from Ingram ipage</a></p>
+<hr/>
+<h2>SAP Shopping Cart Notes</h2>
+<p><a data-file-name="goods-receipt-purchase-order1_1.pdf" data-resource-uuid="714872c2-ab85-4afa-8a82-f0dc719ba7ae" href="/fs/resource-manager/view/714872c2-ab85-4afa-8a82-f0dc719ba7ae" style="cursor: pointer;" target="_blank">How to create an SAP Goods Receipt (Confirmation of delivery)</a></p>
+<p><a data-file-name="sc-free-text-shopping_1.pdf" data-resource-uuid="9e5d61ec-d6c9-4191-b708-8092e6706852" href="/fs/resource-manager/view/9e5d61ec-d6c9-4191-b708-8092e6706852" style="cursor: pointer;" target="_blank">How to  create a Free Text Shopping Cart</a></p>
+<p><a data-file-name="sc-using-other-funds_1.pdf" data-resource-uuid="728afb77-501f-4530-973d-a628c69d1c95" href="/fs/resource-manager/view/728afb77-501f-4530-973d-a628c69d1c95" style="cursor: pointer;" target="_blank">Using Other Funds for a Shopping Cart</a></p>
+<p><a data-file-name="sc-product-category_1.pdf" data-resource-uuid="ca18d239-7641-40cb-ae06-2e0a1ba391a3" href="/fs/resource-manager/view/ca18d239-7641-40cb-ae06-2e0a1ba391a3" style="cursor: pointer;" target="_blank">Product Categories List</a></p>
+<p><a data-file-name="sc-shopping-cart-display_1.pdf" data-resource-uuid="0677217a-4431-4703-83a0-0f3e191df308" href="/fs/resource-manager/view/0677217a-4431-4703-83a0-0f3e191df308" style="cursor: pointer;" target="_blank">How to find any shopping cart created at CCSD - Use Shopping Cart Display</a></p>
+<p><a data-file-name="sc-more-information_1.pdf" data-resource-uuid="9449e656-e2fc-49f7-a6f9-23e6e985c461" href="/fs/resource-manager/view/9449e656-e2fc-49f7-a6f9-23e6e985c461" style="cursor: pointer;" target="_blank">How to find more information in shopping carts</a></p>
+<ul>
+<li>Purchase Order numbers</li>
+<li>Approvers and shopping cart status</li>
+<li>And more</li>
+</ul>
+<hr/>
+<h2>Notices</h2>
+<p><a data-file-name="toner-scams_1.pdf" data-resource-uuid="ed776303-bfa4-4976-9f47-a4f5e32b3c4d" href="/fs/resource-manager/view/ed776303-bfa4-4976-9f47-a4f5e32b3c4d" style="cursor: pointer;" target="_blank">Toner Scams</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_190776" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_190776" aria-expanded="false" href="#fs-panel-190776" role="button">Non-Standard Equipment Purchases</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-190776"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_190777">
+<div class="fsElementContent">
+<h2>Non-Standard/Non-Supported Equipment Request Form (NSERF) and Process</h2>
+<p>This District has begun a new process for purchasing Non-Standard/Non-Supported Equipment. The change includes the use of the Non-Standard/Non-Supported Equipment Request Form (NSERF).</p>
+<p>Please note: There are many Standard items available in the on-line catalog. Please review the catalog to assure there is not a Standard item that will meet the functional requirements.</p>
+<p>New form requires the requestor to complete and submit to the Operations Manager (OM)</p>
+<ul>
+<li>OM certifies that the building as is can support the item and that contractor work will not be required to install or operate equipment</li>
+<li>Once approved by OM, requestor creates a Shopping Cart with the form attached as a PDF</li>
+<li>Shopping Carts will be rejected back to end user if completed form is not attached</li>
+</ul>
+<p>Approvals will be through workflow in the SAP system</p>
+<ul>
+<li>Administrators will receive the Shopping Carts in their Approval in-box</li>
+<li>Approvals will continue in the system</li>
+<li>Rejections will be sent to end user with comments in Approval Notes</li>
+</ul>
+<p>Additional costs will be incurred with non-standard orders. The requestor acknowledges and understands:</p>
+<ul>
+<li>The District will not provide support for non-standard items. The cost of training, extended warranties, maintenance, or service contracts may be required and will be the responsibility of the requestor.</li>
+<li>The District will not provide funding for supplies, accessories, or replacement units for non-standard items.</li>
+<li>The facility and building infrastructure must be able to support the non-standard item. If modifications to the building are needed, please use the PAF process in lieu of this process.</li>
+</ul>
+<p>For any further questions, please contact Karen Purdy via <a contenteditable="false" href="mailto:purdykl@nv.ccsd.net?subject=NSERF" style="cursor: pointer;">email </a>or by calling (702) 799-5225.</p>
+<p><a contenteditable="false" data-file-name="21182-new-19-non-stand-non-supp-form_1.pdf" data-resource-uuid="c57e109c-67b9-436a-8f02-31453b38aa97" href="/fs/resource-manager/view/c57e109c-67b9-436a-8f02-31453b38aa97" style="cursor: pointer;" target="_blank">Non-Standard/Non-Supported Request Form</a><br/>
+<a data-file-name="21188-new-19-non-stand-help-guide_2.pdf" data-resource-uuid="8a00ea6b-4f87-4d66-8214-89b9a8501516" href="/fs/resource-manager/view/8a00ea6b-4f87-4d66-8214-89b9a8501516" style="cursor: pointer;" target="_blank">Non-Standard/Non-Supported Equipment Help Guide</a><br/>
+<a data-file-name="non-standard-non-supported-admin-approval-guidev05_2.pdf" data-resource-uuid="a847b79a-77a7-4553-b973-9ccadd473de4" href="/fs/resource-manager/view/a847b79a-77a7-4553-b973-9ccadd473de4" style="cursor: pointer;" target="_blank">Non-Standard/Non-Supported Admin Approval Guide</a></p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_194196">
+<div class="fsElementContent">
+<div><a id="doingbusiness"></a></div>
+<h3>Doing Business with CCSD</h3>
+<p>Clark County School District encourages and promotes all suppliers in doing business with CCSD.</p>
+<p>District contracting and purchasing activities are divided up as follows:</p>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_194193">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-194194" role="presentation">
+<a aria-controls="fsEl_194194" aria-selected="false" href="#fs-panel-194194" role="tab">Public Works</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-194197" role="presentation">
+<a aria-controls="fsEl_194197" aria-selected="false" href="#fs-panel-194197" role="tab">Goods, Commodities, and Non-Construction Services</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-194199" role="presentation">
+<a aria-controls="fsEl_194199" aria-selected="false" href="#fs-panel-194199" role="tab">General Bidding Information</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-194201" role="presentation">
+<a aria-controls="fsEl_194201" aria-selected="false" href="#fs-panel-194201" role="tab">Applicable Statutes, Policies and Regulations</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-194203" role="presentation">
+<a aria-controls="fsEl_194203" aria-selected="false" href="#fs-panel-194203" role="tab">Approved Engineers and Architects</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-194205" role="presentation">
+<a aria-controls="fsEl_194205" aria-selected="false" href="#fs-panel-194205" role="tab">The Local Emerging Small Business Program</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-194207" role="presentation">
+<a aria-controls="fsEl_194207" aria-selected="false" href="#fs-panel-194207" role="tab">Goods and Commodities</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-194210" role="presentation">
+<a aria-controls="fsEl_194210" aria-selected="false" href="#fs-panel-194210" role="tab">Public Works Projects</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_194194" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_194194" aria-expanded="false" href="#fs-panel-194194" role="button">Public Works</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-194194"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_194195">
+<div class="fsElementContent">
+<p>Capital Program Office<br/>
+1180 Military Tribute Place<br/>
+Henderson, NV 89074<br/>
+(702) 799-8710</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_194197" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_194197" aria-expanded="false" href="#fs-panel-194197" role="button">Goods, Commodities, and Non-Construction Services</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-194197"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_194198">
+<div class="fsElementContent">
+<p><strong>Purchasing &amp; Warehousing Department</strong><br/>
+4212 Eucalyptus Avenue<br/>
+Las Vegas, NV 89121<br/>
+(702) 799-5225<br/>
+(702) 799-5504 fax</p>
+<p>The Purchasing Department does not pre-qualify suppliers nor maintain a bidders' list. The bidders' list is maintained by the on-line hosting system at <a contenteditable="false" href="http://www.demandstar.com/" style="cursor: pointer;" target="_blank">www.demandstar.com</a>. Download and submittal opportunities for competitive efforts can be found at <a contenteditable="false" href="https://ccsd.bonfirehub.com" style="cursor: pointer;">https://ccsd.bonfirehub.com</a>. All formal competitive efforts are advertised in the classified section of the Review-Journal.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_194199" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_194199" aria-expanded="false" href="#fs-panel-194199" role="button">General Bidding Information</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-194199"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_194200">
+<div class="fsElementContent">
+<p><a data-file-name="food-sv-rfp-t-cs-pur-rfp-002-1-2-24.pdf" data-resource-uuid="6e7d830d-d601-4b4b-a3cf-ebc1a1906308" href="/fs/resource-manager/view/6e7d830d-d601-4b4b-a3cf-ebc1a1906308" style="cursor: pointer;" target="_blank">Food Service RFP General Terms and Conditions</a><br/>
+<a data-file-name="ifb-t-cs-pur-bid-002-1-2-24.pdf" data-resource-uuid="ddc63bd9-445a-45b0-937f-0104622a027b" href="/fs/resource-manager/view/ddc63bd9-445a-45b0-937f-0104622a027b" style="cursor: pointer;" target="_blank">Invitation for Bid Terms and Conditions</a><br/>
+<a data-file-name="textbook-rfp-tcs-pur-rfp-003-1-2-24.pdf" data-resource-uuid="41bbc9a6-d58d-4538-b7f6-7d9f057f7a2a" href="/fs/resource-manager/view/41bbc9a6-d58d-4538-b7f6-7d9f057f7a2a" style="cursor: pointer;" target="_blank">Textbook RFP General Terms and Conditions</a><br/>
+<a data-file-name="expense-guidelines-for-consulting.pdf" data-resource-uuid="2cbb1081-60cb-49e9-8fe3-197e02530572" href="/fs/resource-manager/view/2cbb1081-60cb-49e9-8fe3-197e02530572" style="cursor: pointer;" target="_blank">Expense Guidelines for Consulting</a><br/>
+<a data-file-name="general-conditions-for-on-site-services.pdf" data-resource-uuid="e9b0836a-5f4d-476a-b167-a79ad35fff05" href="/fs/resource-manager/view/e9b0836a-5f4d-476a-b167-a79ad35fff05" style="cursor: pointer;" target="_blank">General Conditions for On-Site Services</a><br/>
+<a data-file-name="professional-services-agreement.pdf" data-resource-uuid="86ff3dc6-1a07-43d9-b455-ef8279d5476b" href="/fs/resource-manager/view/86ff3dc6-1a07-43d9-b455-ef8279d5476b" style="cursor: pointer;" target="_blank">Professional Services Agreement Template</a><br/>
+<a data-file-name="po-terms-and-conditions-12-30-22.pdf" data-resource-uuid="1154565c-3992-47fb-9ed2-138152edf487" href="/fs/resource-manager/view/1154565c-3992-47fb-9ed2-138152edf487" style="cursor: pointer;" target="_blank">PO Terms and Conditions</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_194201" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_194201" aria-expanded="false" href="#fs-panel-194201" role="button">Applicable Statutes, Policies and Regulations</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-194201"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_194202">
+<div class="fsElementContent">
+<p><a href="http://www.leg.state.nv.us/NRS/NRS-332.html" style="cursor: pointer;" target="_blank">NRS 332</a><br/>
+<a href="/district/policies-regulations/pdf/3310_R.pdf" style="cursor: pointer;" target="_blank">CCSD Regulation 3310</a><br/>
+<a href="/district/policies-regulations/pdf/3311_R.pdf" style="cursor: pointer;" target="_blank">CCSD Regulation 3311</a><br/>
+<a href="/district/policies-regulations/pdf/3312_R.pdf" style="cursor: pointer;" target="_blank">CCSD Regulation 3312</a><br/>
+<a href="/district/policies-regulations/pdf/3313_R.pdf" style="cursor: pointer;" target="_blank">CCSD Regulation 3313</a><br/>
+<a href="/district/policies-regulations/pdf/3314_R.pdf" style="cursor: pointer;" target="_blank">CCSD Regulation 3314</a><br/>
+<a href="/district/policies-regulations/pdf/3315_R.pdf" style="cursor: pointer;" target="_blank">CCSD Regulation 3315</a><br/>
+<a href="/district/policies-regulations/pdf/3316_R.pdf" style="cursor: pointer;" target="_blank">CCSD Regulation 3316</a></p>
+<h3>Public Works</h3>
+<p><a href="http://www.leg.state.nv.us/NRS/NRS-338.html" style="cursor: pointer;" target="_blank">NRS 338</a><br/>
+<a href="/district/policies-regulations/pdf/7210_P.pdf" style="cursor: pointer;" target="_blank">CCSD Policy 7210</a><br/>
+<a href="/district/policies-regulations/pdf/7210_R.pdf" style="cursor: pointer;" target="_blank">CCSD Regulation 7210</a></p>
+<h3>Architects and Engineering Services</h3>
+<p><a href="/district/policies-regulations/pdf/7211_R.pdf" style="cursor: pointer;" target="_blank">CCSD Regulation 7211</a></p>
+<h3>Professional Services and Out-of-District Consultants</h3>
+<p><a href="/district/policies-regulations/pdf/2310_R.pdf" style="cursor: pointer;" target="_blank">CCSD Regulation 2310</a></p>
+<h3>Supplier Application Documents</h3>
+<p><a data-file-name="supplier-federal-2cfr200-certification-form-1020231.pdf" data-resource-uuid="0ff9d5bd-ad95-4407-b5e6-7ad356a97378" href="/fs/resource-manager/view/0ff9d5bd-ad95-4407-b5e6-7ad356a97378" style="cursor: pointer;" target="_blank">Supplier Application / Update form</a><br/>
+<a data-file-name="public-disclosure-form3-15-11-fill.pdf" data-resource-uuid="f8148492-a5ef-4940-9dca-13049f10cfa4" href="/fs/resource-manager/view/f8148492-a5ef-4940-9dca-13049f10cfa4" style="cursor: pointer;" target="_blank">Public Disclosure form</a><br/>
+<a href="/resources/purchasing-warehousing/supplier-federal-2cfr200-certification-form-10.20.23.pdf" style="cursor: pointer;" target="_blank">Supplier Federal Certification form</a><br/>
+<a href="/resources/purchasing-warehousing/w9-2024.pdf" style="cursor: pointer;" target="_blank">W-9</a><br/>
+<a data-file-name="supplier-contact-list-designation-form-09-2022.pdf" data-resource-uuid="f6b6accc-4dd6-4218-b0e1-6b214f5dbc7a" href="/fs/resource-manager/view/f6b6accc-4dd6-4218-b0e1-6b214f5dbc7a" style="cursor: pointer;" target="_blank">Supplier Contact List Designation Form</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_194203" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_194203" aria-expanded="false" href="#fs-panel-194203" role="button">Approved Engineers and Architects</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-194203"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_194204">
+<div class="fsElementContent">
+<p>The selection, procurement, and administration of architects, engineers, and related professional service providers for Clark County School District projects are governed by applicable Nevada Revised Statutes and Clark County School District (CCSD) Regulation 7211. The Clark County School District encourages participation by women-owned, disadvantaged, and minority firms.</p>
+<p>The selection of architects and engineers to be recommended to the Board of School Trustees is based on established qualification and selection criteria.</p>
+<p>The <a contenteditable="false" href="http://facilities.ccsd.net" style="cursor: pointer;">Clark County School District Facilities Division</a> uses the board-approved lists of architects and engineers to select the most appropriate firm for each project.</p>
+<p>Other construction-related services are procured via Requests for Proposals (RFPs) which are published in the Las Vegas Review-Journal classified section and in applicable trade publications.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_194205" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_194205" aria-expanded="false" href="#fs-panel-194205" role="button">The Local Emerging Small Business Program</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-194205"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_194206">
+<div class="fsElementContent">
+<span></span>
+<p><a class="button-1" href="https://goed.nv.gov/wp-content/uploads/2024/02/ESB-Annual-Report-2021.pdf" target="_blank">View</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_194207" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_194207" aria-expanded="false" href="#fs-panel-194207" role="button">Goods and Commodities</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-194207"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_194208">
+<div class="fsElementContent">
+<p>The Procurement of goods and commodities for Clark County School District are governed by applicable Nevada Revised Statutes and Clark County School District (CCSD) Regulations 3310-16 and are handled by the District’s centralized Purchasing Department.  The Clark County School District encourages participation by all minority, women-owned, and disadvantaged firms.</p>
+<p>The Clark County School District is a member of an electronic bid notification program, Demandstar.  This hosting service will provide automatic bid notification and instant access to bid information via the Internet.  Suppliers are encouraged to register with Demandstar to automatically receive notification of the District’s bid, proposal, and quote solicitations.  Suppliers may register for Demandstar services, online, at <a contenteditable="false" href="http://www.demandstar.com/" style="cursor: pointer;" target="_blank">www.demandstar.com</a> or by calling (866) 273-1863.  All purchases for goods and commodities must be formally competed in compliance with NRS 332.</p>
+<p>All formal competitive efforts are also advertised in the classified section of the Las Vegas Review-Journal, posted in the Purchasing Department and available on our website page.</p>
+<p><a contenteditable="false" href="http://www.demandstar.com/supplier/bids/agency_inc/bid_list.asp?f= search&amp;mi=137966" style="cursor: pointer;" target="_blank">Bidding Opportunities </a></p>
+<p><a contenteditable="false" href="#doingbusiness" style="cursor: pointer;">Applicable Statutes, Policies and Regulations</a></p>
+<h3>Goods, Commodities, and Non-Construction Services</h3>
+<p>Purchasing &amp; Warehousing Department<br/>
+4212 Eucalyptus Avenue<br/>
+Las Vegas, NV 89121<br/>
+(702) 799-5225<br/>
+(702) 799-5504 fax</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_194210" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_194210" aria-expanded="false" href="#fs-panel-194210" role="button">Public Works Projects</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-194210"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_194211">
+<div class="fsElementContent">
+<p>Contracts for the Clark County School District's public works projects are procured and administered by the Construction Management Department in accordance with Nevada Revised Statutes (NRS) Chapter 338 and Clark County School District (CCSD) Policy and Regulation 7210. The Clark County School District encourages participation by women-owned, disadvantaged, and minority firms.</p>
+<p>The Clark County School District has adopted and uses criteria for the qualification of bidders on contracts for public works. General and specialty contractors who wish to bid as prime contractors for Clark County School District's public work contracts may apply at any time for qualification for the current and next calendar year by completing and submitting the District's Pre-Qualification Application Form. Contractors desiring to perform the Clark County School District's public works projects as subcontractors are NOT required to be pre-qualified.</p>
+<p>Public works projects estimated to cost $100,000 and greater are advertised in the Las Vegas Review-Journal classified section.</p>
+<p>For additional information please <a contenteditable="false" href="http://facilities.ccsd.net" style="cursor: pointer;">visit the CCSD Facilities Division home page</a>.</p>
+<p><br/>
+<a data-page-name="Policies and Regulations" href="/fs/pages/1104" style="cursor: pointer;">Applicable Statutes, Policies and Regulations</a></p>
+<h3>Public Works</h3>
+<p>Capital Program Office<br/>
+1180 Military Tribute Place<br/>
+Henderson, NV 89074<br/>
+(702) 799-8710</p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_201118">
+<div class="fsElementContent">
+<h4>Minority, Women, Disadvantaged Business Enterprise (MWDBE)</h4>
+<p class="p1">The Clark County School District is an integral part of the community. The District provides a foundation and focus for the future of our children. In addition to learning academic and employment skills, students must be prepared to work in a diverse, global marketplace. </p>
+<p class="p1">Just as the District strives to have a diverse workforce in our schools, we seek the skills of a cross-section of supplier and contractors for goods and services. The District’s business relationships must be fair and open, and it is important that our workforce and business practices embrace all facets of the community. Opportunities to work with the District are open to all interested individuals and companies within the community. </p>
+<p class="p1">Recognizing the talent and skills of our diverse community allows the District a broader perspective and larger competitive tool. The Clark County School District has instituted a “Supplier Outreach Program” to identify, encourage, and work with qualified suppliers --specifically, local, minority, women, and disadvantaged business enterprises. We hope this program will not only create a more competitive and cost effective environment by identifying additional potential suppliers, but also provide opportunities to strengthen our ties with the community and create partnerships with its diverse population. </p>
+<p>We welcome you and look forward to working with you.</p>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_201119">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-201120" role="presentation">
+<a aria-controls="fsEl_201120" aria-selected="false" href="#fs-panel-201120" role="tab">MWDBE Resources</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-201122" role="presentation">
+<a aria-controls="fsEl_201122" aria-selected="false" href="#fs-panel-201122" role="tab">MWDBE Certification Agencies and Contact Information</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-201124" role="presentation">
+<a aria-controls="fsEl_201124" aria-selected="false" href="#fs-panel-201124" role="tab">MWDBE Community Outreach</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-201126" role="presentation">
+<a aria-controls="fsEl_201126" aria-selected="false" href="#fs-panel-201126" role="tab">MWDBE Accomplishments</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_201120" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_201120" aria-expanded="false" href="#fs-panel-201120" role="button">MWDBE Resources</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-201120"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_201121">
+<div class="fsElementContent">
+<h2>Definitions</h2>
+<h3>Minority Owned Business Enterprise (MBE)</h3>
+<p>An independent and continuing Nevada business for profit which performs a commercially useful function and is at least 51% owned and controlled by one or more minority persons of Black American, Hispanic American, Asian-Pacific American or Native American.</p>
+<h3>Women Owned Business Enterprise (WBE)</h3>
+<p>An independent and continuing Nevada business for profit which performs a commercially useful function and is at least 51% owned and controlled by one or more women.</p>
+<h3>Small Business Enterprise (SBE)</h3>
+<p>An independent and continuing Nevada business for profit which performs a commercially useful function and is not owned and controlled by individuals designated as minority, women, or physically-challenged, and where gross annual sales does not exceed two million dollars ($2,000,000).</p>
+<h3>Disadvantaged Business Enterprise (DBE)</h3>
+<p>An independent and continuing Nevada business for profit which performs a commercially useful function and is owned and controlled by socially and economically disadvantaged individuals and where the average of the last three consecutive year's gross should total $17.4 million or less and personal net worth must be less than $750,000.</p>
+<hr/>
+<h2>Contact Us</h2>
+<table class="table-styled">
+<tbody>
+<tr>
+<td>Name</td>
+<td>Phone Number</td>
+<td>Fax Number</td>
+</tr>
+<tr>
+<td>Purchasing Dept.</td>
+<td>702-799-5225</td>
+<td>702-799-5018</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_201122" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_201122" aria-expanded="false" href="#fs-panel-201122" role="button">MWDBE Certification Agencies and Contact Information</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-201122"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_201123">
+<div class="fsElementContent">
+<table style="table-styled">
+<tbody>
+<tr class="tableHeader">
+<th class="links">Contact</th>
+<th class="links">Title</th>
+<th class="links">Company</th>
+<th class="links">Contact Info</th>
+</tr>
+<tr>
+<td>Cynthia Cicero</td>
+<td>Disadvantaged Business<br/>
+			Enterprise Liaison Coordinator</td>
+<td>Clark County/McCarran Airport</td>
+<td>P.O. Box 1105 Las Vegas, NV 89111<br/>
+<br/>
+			P: 702-261-5161<br/>
+<br/>
+			F: 702-261-5050</td>
+</tr>
+<tr>
+<td colspan="4">
+<hr/></td>
+</tr>
+<tr>
+<td>Roc Stacey</td>
+<td>Contract Compliance Manager</td>
+<td><a contenteditable="false" href="http://www.nevadadbe.com" style="cursor: pointer;" target="_blank">Nevada Department of Transportation</a><br/>
+			(NDOT)</td>
+<td>1263 S. Stewart Carson, NV 89701<br/>
+<br/>
+			P: 800-267-1971<br/>
+<br/>
+			F: 775-888-7235</td>
+</tr>
+<tr>
+<td colspan="4">
+<hr/></td>
+</tr>
+<tr>
+<td><a contenteditable="false" href="mailto: hpinto@unlv.edu" style="cursor: pointer;">Henry Pinto</a></td>
+<td>Disadvantaged Business Program Manager</td>
+<td><a contenteditable="false" href="http://www.nsbdc.org" style="cursor: pointer;" target="_blank">Nevada Small Business<br/>
+			Development Center</a></td>
+<td>3720 Howard Hughes Pkwy., Ste. 130<br/>
+			Las Vegas, NV 89109<br/>
+<br/>
+			P: 702-895-4270<br/>
+<br/>
+			F: 702-734-7633</td>
+</tr>
+<tr>
+<td colspan="4">
+<hr/></td>
+</tr>
+<tr>
+<td> </td>
+<td>Government Contracts<br/>
+			Liquidations</td>
+<td><a contenteditable="false" href="http://www.sba.gov" style="cursor: pointer;" target="_blank">Small Business Association</a><br/>
+			(SBA)</td>
+<td>300 South 4th Street<br/>
+			Ste. 400<br/>
+			Las Vegas, NV 89101<br/>
+<br/>
+			P: 702-388-6611</td>
+</tr>
+<tr>
+<td colspan="4">
+<hr/></td>
+</tr>
+<tr>
+<td>Pamela Williamson</td>
+<td>President &amp; CEO</td>
+<td><a contenteditable="false" href="https://www.wbenc.org/" style="cursor: pointer;" target="_blank">Womens' Business Enterprise Council</a><br/>
+			(WBEC)</td>
+<td>1120 Connecticut Avenue, NW<br/>
+			Suite 200<br/>
+			Washington, DC 20036<br/>
+<br/>
+			P: 202-872-5515</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_201124" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_201124" aria-expanded="false" href="#fs-panel-201124" role="button">MWDBE Community Outreach</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-201124"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_201125">
+<div class="fsElementContent">
+<h2>Business/Professional Organizations</h2>
+<table class="table-styled">
+<tbody>
+<tr>
+<td valign="top" width="63%"><strong>Black Business Council/NBDA</strong><br/>
+			626 S. 9th Street<br/>
+			Las Vegas, NV 89101<br/>
+			Website: <a contenteditable="false" href="http://www.newventurescdc.com" style="cursor: pointer;" target="_blank">www.newventurescdc.com</a></td>
+<td valign="top" width="37%"><strong>Phone: (702) 382-9522</strong><br/>
+			Fax: (702) 382-0375</td>
+</tr>
+<tr>
+<td valign="top"><strong>Institute of Supply Management</strong><br/>
+			2055 E. Centennial Circle<br/>
+			Tempe, AZ 85284-1898<br/>
+			Website: <a contenteditable="false" href="http://www.ism.ws/" style="cursor: pointer;" target="_blank">www.ism.ws</a></td>
+<td valign="top"><strong>Phone: (480) 752-6276</strong><br/>
+			Fax: (480) 752-7890</td>
+</tr>
+<tr>
+<td valign="top"><strong>National Association of Minority Contractors </strong>(NAMC)<br/>
+			5180 Rogers Street, 2nd Floor<br/>
+			Las Vegas, NV 89118<br/>
+			Website: <a contenteditable="false" href="http://www.namcnevada.org" style="cursor: pointer;" target="_blank">http://www.namcnevada.org</a><br/>
+<a contenteditable="false" href="mailto:charisa@namcnevada.org" style="cursor: pointer;">charisa@namcnevada.org</a></td>
+<td valign="top"><strong>Phone: (702) 952-2474</strong><br/>
+			Fax: (702) 367-2152</td>
+</tr>
+<tr>
+<td valign="top"><strong>National Association of Women Business Owners </strong>(NAWBO)<br/>
+			P.O. Box 96355<br/>
+			Las Vegas, NV 89193</td>
+<td valign="top"><strong>Phone: (702) 571-0462</strong><br/>
+			Fax: (702) 365-8655</td>
+</tr>
+<tr>
+<td valign="top"><strong>National Association of Women in Construction </strong> (NAWIC)<br/>
+			150 N. Durango, Ste. 100<br/>
+			Las Vegas, NV 89145<br/>
+			Website: <a contenteditable="false" href="http://www.nawiclasvegas.org" style="cursor: pointer;" target="_blank">www.nawiclasvegas.org</a><br/>
+<a contenteditable="false" href="mailto:hzupancic@mccarthy.com" style="cursor: pointer;">hzupancic@mccarthy.com</a><a contenteditable="false" href="http:// www.nawiclasvegas.org" style="cursor: pointer;" target="_blank"> </a></td>
+<td valign="top"><strong>Phone: (702) 302-2855</strong></td>
+</tr>
+<tr>
+<td valign="top"><strong>National Institute of Governmental Purchasing, Inc. </strong>(NIGP)<br/>
+			151 Spring Street<br/>
+			Herndon, VA 20170-5223<br/>
+			Website:  <a contenteditable="false" href="http://www.nigp.org/" style="cursor: pointer;" target="_blank">www.nigp.org</a><br/>
+<a contenteditable="false" href="mailto:customercare@nigp.org" style="cursor: pointer;">customercare@nigp.org</a></td>
+<td valign="top"><strong>Phone: (703) 736-8900</strong><br/>
+			Toll Free: (800) 367-6447<br/>
+			Fax: (703) 635-2326</td>
+</tr>
+<tr>
+<td valign="top"><strong>National Minority Supplier Development Council </strong><br/>
+			63 West 36th Street, Suite 702<br/>
+			New York, NY 10018<br/>
+			Website: <a contenteditable="false" href="http://www.nmsdc.org" style="cursor: pointer;" target="_blank">www.nmsdc.org</a></td>
+<td valign="top"><strong>Phone: (212) 944-2430</strong><br/>
+			 </td>
+</tr>
+<tr>
+<td valign="top"><strong>National Procurement Institute </strong>(NPI)<br/>
+			P.O. Box 370192<br/>
+			Las Vegas, NV 89137<br/>
+			Website: <a contenteditable="false" href="http://www.npiconnection.org" style="cursor: pointer;">www.npiconnection.org</a><br/>
+<a contenteditable="false" href="mailto:info@npiconnection.org" style="cursor: pointer;">info@npiconnection.org</a><a contenteditable="false" href="http://www.nationalpurchasinginstitute.com/" style="cursor: pointer;" target="_blank"> </a></td>
+<td valign="top"><strong>Phone: (702) 989-8095</strong><br/>
+			Toll Free: (866) 877-7641<br/>
+			Fax: (702) 967-0744</td>
+</tr>
+<tr>
+<td valign="top"><strong>US Small Business Administration-Nevada Office </strong><br/>
+			300 South 4 th Street, Suite 400<br/>
+			Las Vegas, NV 89101<br/>
+			Website: <a contenteditable="false" href="http://www.sba.gov/nv" style="cursor: pointer;" target="_blank">www.sba.gov/nv</a></td>
+<td valign="top"><strong>Phone: (702) 388-6611</strong><br/>
+			Fax: (702) 388-6469</td>
+</tr>
+<tr>
+<td valign="top"><strong>Western Regional Minority Supplier Development Council</strong><br/>
+			80 Swan Way #245<br/>
+			Oakland, CA 94621<br/>
+			Website: <a contenteditable="false" href="https://wrmsdc.org/" style="cursor: pointer;" target="_blank">wrmsdc.org</a></td>
+<td valign="top"><strong>Phone: 5106862555</strong></td>
+</tr>
+</tbody>
+</table>
+<h2>Local Chambers of Commerce</h2>
+<table class="table-styled">
+<tbody>
+<tr>
+<td valign="top"><strong>Asian Chamber of Commerce </strong><br/>
+			6272 Spring Mountain Rd. Suite 115<br/>
+			Las Vegas, NV 89146<br/>
+			Website: <a contenteditable="false" href="http://www.lvacc.org" style="cursor: pointer;">www.lvacc.org</a><br/>
+<a contenteditable="false" href="mailto:info@lvacc.org" style="cursor: pointer;">info@lvacc.org</a></td>
+<td valign="top"><strong>Phone: (702) 737-4300</strong><br/>
+			Fax: (702) 737-4343</td>
+</tr>
+<tr>
+<td valign="top"><strong>Boulder City Chamber of Commerce </strong><br/>
+			465 Nevada Way<br/>
+			Boulder City, NV 89005<br/>
+			Website: <a contenteditable="false" href="http://www.bouldercitychamberofcommerce.com" style="cursor: pointer;">www.bouldercitychamberofcommerce.com</a><br/>
+<a contenteditable="false" href="mailto:rana@bouldercitychamber.com" style="cursor: pointer;">rana@bouldercitychamber.com</a></td>
+<td valign="top"><strong>Phone: (702) 293-2034</strong><br/>
+			Fax: (702) 293-0574</td>
+</tr>
+<tr>
+<td valign="top"><strong>Henderson Chamber of Commerce </strong><br/>
+			590 S. Boulder Highway<br/>
+			Las Vegas, NV 89015<br/>
+			Website: <a contenteditable="false" href="http://www.hendersonchamber.com" style="cursor: pointer;" target="_blank">www.hendersonchamber.com</a><br/>
+<a contenteditable="false" href="mailto:info@hendersonchamber.com" style="cursor: pointer;">info@hendersonchamber.com</a></td>
+<td valign="top"><strong>Phone: (702) 565-8951 </strong><br/>
+			Fax: (702) 565-3115</td>
+</tr>
+<tr>
+<td valign="top"><strong>Las Vegas Metro Chamber of Commerce </strong><br/>
+			8363 W. Sunset Road, Suite 250<br/>
+			Las Vegas, NV 89113<br/>
+			Website: <a contenteditable="false" href="http://www.lvchamber.com/" style="cursor: pointer;" target="_blank">www.lvchamber.com</a></td>
+<td valign="top"><strong>Phone: (702) 641-5822</strong><br/>
+			Fax: (702) 735-0406</td>
+</tr>
+<tr>
+<td valign="top"><strong>Las Vegas Latin Chamber of Commerce </strong><br/>
+			300 North 13th Street<br/>
+			Las Vegas, NV 89101<br/>
+			Website: <a contenteditable="false" href="http://www.lvlcc.com/" style="cursor: pointer;" target="_blank">www.lvlcc.com</a><br/>
+			 <a contenteditable="false" href="mailto:info@lvlcc.com" style="cursor: pointer;">info@lvlcc.com</a></td>
+<td valign="top"><strong>Phone: (702) 385-7367</strong><br/>
+			Fax: (702) 385-2614</td>
+</tr>
+<tr>
+<td valign="top"><strong>Laughlin Chamber of Commerce </strong><br/>
+			1585 South Casino Drive<br/>
+			Laughlin, NV 89029<br/>
+			Website: <a contenteditable="false" href="http://laughlinchamber.com" style="cursor: pointer;">www.laughlinchamber.com</a><br/>
+			 <a contenteditable="false" href="mailto:swinn@laughlinchamber.com" style="cursor: pointer;">swinn@laughlinchamber.com</a></td>
+<td valign="top"><strong>Phone: (702) 298-2214</strong><br/>
+			Fax: (702) 298-5708</td>
+</tr>
+<tr>
+<td valign="top"><strong>Mesquite Chamber of Commerce </strong><br/>
+			12 W. Mesquite Blvd., #107<br/>
+			Mesquite, NV 89027<br/>
+			Website: <a contenteditable="false" href="http://www.mesquitenvchamber.com/" style="cursor: pointer;" target="_blank">www.mesquitenvchamber.com</a></td>
+<td valign="top"><strong>Phone: (702) 346-2902</strong><br/>
+			Fax: (702) 346-6138</td>
+</tr>
+<tr>
+<td valign="top"><strong>Urban Chamber of Commerce </strong><br/>
+			1951 Stella Lake Street, Suite 26<br/>
+			Las Vegas, NV 89106<br/>
+			Website: <a contenteditable="false" href="http://www.urbanchamber.org" style="cursor: pointer;">www.urbanchamber.org</a><br/>
+			 <a contenteditable="false" href="mailto:info@urbanchamber.org" style="cursor: pointer;">info@urbanchamber.org</a></td>
+<td valign="top"><strong>Phone: (702) 648-6222</strong><br/>
+			Fax: (702) 648-6223</td>
+</tr>
+<tr>
+<td valign="top"><strong>Women's Chamber of Commerce of Nevada </strong><br/>
+			2300 W. Sahara Avenue, Suite 800<br/>
+			Las Vegas, NV 89102-4352<br/>
+			Website: <a contenteditable="false" href="http://www.womenschamberofnevada.org/" style="cursor: pointer;" target="_blank">www.womenschamberofnevada.org</a><br/>
+<a contenteditable="false" href="mailto:info@womenschamberofnevada.org" style="cursor: pointer;">info@womenschamberofnevada.org</a><a contenteditable="false" href="http://www.womenschamberofnevada.org/" style="cursor: pointer;" target="_blank"> </a></td>
+<td valign="top"><strong>Phone: (702) 733-3955</strong><br/>
+			Fax: (702) 926-9270</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_201126" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_201126" aria-expanded="false" href="#fs-panel-201126" role="button">MWDBE Accomplishments</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-201126"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_201127">
+<div class="fsElementContent">
+<h2>
+	Accomplishments 2006 - 2007</h2>
+<ul>
+<li>
+		Established a stronger presence at women's and minorities chambers and provided documentation and support for businesses interested in working with the School District.
+		<ul>
+<li>
+				Over thirty chamber meetings were attended during FY 06/07. CCSD brochures and Onvia DemandStar materials were offered and distributed at various chamber and business meetings. Meetings were held with business directors of the Latin and Asian Chambers to encourage those communities to come do business with CCSD.<br/>
+				 </li>
+</ul>
+</li>
+<li>
+		Participated in the International Supply Management (ISM) Local Supplier Opportunity Faire on February 21, 2007.
+		<ul>
+<li>
+				Members of the Purchasing Department participated in all levels of this Faire. Participation included organizing of the event, staffing registration and exhibiting and offering CCSD information and distribution of purchasing brochures. Information regarding doing business with CCSD was offered to over 2,000 suppliers.<br/>
+				 </li>
+</ul>
+</li>
+<li>
+		Participated in the Nevada Association of Purchasing and Supply Management Faire, March 14, 2007.
+		<ul>
+<li>
+				In this reverse Trade Fair, the Purchasing Department purchased and staffed a booth for this event which attracts minority owned and women owned businesses. Purchasing and Onvia DemandStar Brochures were distributed to attendees. A representative from the Purchasing Department sat on a question and answer panel in which suppliers could direct questions to purchasing staff.<br/>
+				 </li>
+</ul>
+</li>
+<li>
+		New forms for interviewing potential suppliers and assessment of ability to do business with the School District were created.
+		<ul>
+<li>
+				New supplier intake and assessment forms were created to evaluate those suppliers who approach the School District. Standardized forms enable buyers to uniformly evaluate interested suppliers.<br/>
+				 </li>
+</ul>
+</li>
+<li>
+		Tracked and reported on spending as outlined in NRS 332 and NRS 338.
+		<ul>
+<li>
+				Data for Fiscal Years 06/07 was compared by percentage of dollars spent by supplier types for the following categories:
+				<ul>
+<li>
+						Informally competed purchases &lt; $25,000</li>
+<li>
+						Formally competed purchases &gt; $25,000</li>
+<li>
+						FAC Informally competed purchases &lt; $100,000</li>
+<li>
+						FAC Formally competed purchases &gt; $100,000<br/>
+						 </li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+		Meeting Objectives
+		<ul>
+<li>
+				The overall objectives for Supplier Outreach were met through participation in the above outlined events and activities. In addition to continuing meeting the goals of the five year plan, the Purchasing Department will consider participation in the AECSoft Searchable Database for Diverse Suppliers in the upcoming year.</li>
+</ul>
+</li>
+</ul>
+<hr/>
+<h2>
+	Accomplishments 2004 - 2005</h2>
+<p>
+<strong>Participate in the Clark County Business Development "Meet the Public and Private Agencies Buyers and Purchasing Agents Forum".</strong></p>
+<p>
+	Three District employees representing both Purchasing and Construction Management attended the forum on June 16, 2005 and distributed brochures on how to do business with the District. Contact information, staff directories, and current bid information was also distributed.</p>
+<p>
+<strong>Purchase and staff a booth at the International Supply Management (ISM) Local Supplier Opportunity Faire.</strong></p>
+<p>
+	Eight Purchasing Department employees organized a CCSD Booth at the ISM Supplier Opportunity Faire held in March 22, 2005. Information regarding both Construction Management and Purchasing was distributed to over 2,000 suppliers.</p>
+<p>
+<strong>Collect and define spend data for reporting.</strong></p>
+<p>
+	Fiscal Year 04 spend data was collected and categorized for reporting. Reporting was split into two groups: Facilities purchases (FAC) and Purchasing (non-FAC) purchases. Spend reports were published on both the formally competed purchases and the informally competed purchases. As there are different statutes (NRS 338 vs NRS 332) with different dollar thresholds that govern these purchases, the reporting was as follows:</p>
+<ul>
+<li>
+		FAC Formally Competed Purchases (over $100,000)</li>
+<li>
+		FAC Informally Competed Purchases (under $100,000)</li>
+<li>
+		Purchasing Formally Competed Purchases (over $25,000)</li>
+<li>
+		Purchasing Informally Competed Purchases (under $25,000)</li>
+</ul>
+<p>
+	Identified action item for next year: Significant percentage of suppliers have not completed District's supplier information page that asks for business type, size, and enterprise type, if applicable.</p>
+<p>
+	 </p>
+<p>
+<strong>Establish Supplier Outreach Committee, Goals &amp; Objectives.</strong></p>
+<p>
+	Supplier Outreach Committee was established within the Purchasing area. Facilities will designate representatives to participate as well as assist with funding if needed. Goals and Objectives were proposed for a 4-year period.</p>
+<p>
+<strong>"Doing Business with CCSD" webpage.</strong></p>
+<p>
+	Webpage "Doing Business with CCSD" was initially created in 2004. Website was updated and "went live" in September 2005.</p>
+<p>
+<strong>Offer training, outreach, and other tools to assist local and MWDBE firms.</strong></p>
+<p>
+	Negotiated free automatic notification and download services from Demandstar.com, the current internet hosting site for the Purchasing Department's competitive activities. Information on how to sign up was distributed at both the ISM Supplier Faire and the Clark County Forum.</p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_194220">
+<div class="fsElementContent">
+<div><a id="doingbusiness"></a></div>
+<h3>District Surplus</h3>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_194221">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-194222" role="presentation">
+<a aria-controls="fsEl_194222" aria-selected="false" href="#fs-panel-194222" role="tab">Internal Items Available for District Use Only</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-194227" role="presentation">
+<a aria-controls="fsEl_194227" aria-selected="false" href="#fs-panel-194227" role="tab">Surplus Available to the Public for Sale</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_194222" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_194222" aria-expanded="false" href="#fs-panel-194222" role="button">Internal Items Available for District Use Only</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-194222"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_194223">
+<div class="fsElementContent">
+<h2>Internal Used and Surplus Furniture</h2>
+<p>See <a data-file-name="used-surplus-furn-v04_1.pdf" data-resource-uuid="96512600-41e9-4c2d-9163-578edb7c8265" href="/fs/resource-manager/view/96512600-41e9-4c2d-9163-578edb7c8265">Internal Used and Surplus Furniture Program</a></p>
+<h2>Items Available for District Use</h2>
+<ul>
+<li>Items must be used for district purposes only</li>
+<li>District employees with AD usernames may express interest in items</li>
+<li>Items must be used for district business purpose on district property</li>
+<li>District employees must view items by appointment before selection<br>
+	Call (702) 799-5225 and ask for the used furniture warehouse<br>
+	Visitor hours: 6:00–11:00 a.m., Monday-Friday, excluding holidays<br>
+	For safety: Wear close-toe shoes and appropriate attire, such as long pants. Visitors with open-toe shoes or sandals will not be allowed in the warehouse</br></br></br></li>
+<li>Site administrator will be contacted to approve any item prior to pick-up or delivery</li>
+<li>Awarded items can be picked up or can be delivered to school or department site using the <a contenteditable="false" href="https://prd-wd.ccsd.net:8121/sap/bc/webdynpro/sap/zmm_ship1_req?sap-client=400" style="cursor: pointer;">Shipping 1 form</a>. Please see<a data-file-name="how-to-use-the-shipping-1-form_2.pdf" data-resource-uuid="51fa0cd2-ff2b-40e9-afd5-fffa7ea2af12" href="/fs/resource-manager/view/51fa0cd2-ff2b-40e9-afd5-fffa7ea2af12" target="_blank"> </a><em><a href="https://ccsd.net/resources/purchasing-warehousing/how-to-use-the-shipping-1-form.pdf" style="cursor: pointer;">How to use the SHIPPING-1 form</a></em> for instructions.</li>
+<li>No personal use allowed</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_194227" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_194227" aria-expanded="false" href="#fs-panel-194227" role="button">Surplus Available to the Public for Sale</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-194227"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_194228">
+<div class="fsElementContent">
+<h2>
+	Items Available for Sale to the Public</h2>
+<ul>
+<li>
+		If there is no District use, the item will be offered to the public for sale</li>
+<li>
+		Individuals may submit a bid on the website and will be notified by e-mail</li>
+<li>
+		The bidding process is confidential. Only the awarded, highest bid will be disclosed</li>
+<li>
+		Viewing of Auction items is by appointment only. Log into PublicSurplus.com, below, for contact information.</li>
+<li>
+<a contenteditable="false" href="http://www.publicsurplus.com/sms/ccsd,nv/browse/home" style="cursor: pointer;" target="_blank">Click here</a> for items available on PublicSurplus.com.</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

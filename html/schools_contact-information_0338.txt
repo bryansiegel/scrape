@@ -10,7 +10,8 @@
                 HOLLINGSWORTH, HOWARD ES STEAM ACADEMY<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Sadie, Staca B<br>
+                        
+Principal: Sadie, Staca B<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-1660<br/>
                                 Fax: 702-799-1666<br/>
 <a href="http://maps.google.com/maps?q=1776 EAST OGDEN ROAD,+LAS VEGAS,+NV+89101">Map</a>
-                                 | <a href="http://hollingsworthheroes.org">Website</a> </br></br></br></p>
+                                 | <a href="http://hollingsworthheroes.org">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Hollingsworth Elementary School students learn to read, write, think, and communicate so they can compete, create, and lead successfully in a global community.</p> <p><b>Mission:</b> Howard E. Hollingsworth Elementary School places children first. Our community of learners engages parents, staff, community and students in a positive and safe learning environment, which challenges each student to achieve academic excellence, to respect all people and property and to be responsible citizens.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

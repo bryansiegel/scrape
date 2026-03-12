@@ -10,7 +10,8 @@
                 LYON, MACK MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Lewis, Aimee D<br>
+                        
+Principal: Lewis, Aimee D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-397-8610<br/>
                                 Fax: 702-397-2754<br/>
 <a href="http://maps.google.com/maps?q=179 SOUTH ANDERSON,+OVERTON,+NV+89040">Map</a>
-                                 | <a href="http://www.lyonms.org">Website</a> </br></br></br></p>
+                                 | <a href="http://www.lyonms.org">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Expect Respect</p> <p><b>Mission:</b> The W. Mack Lyon Middle School community dedicates itself to continuous improvement to achieve excellence and social responsibility.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

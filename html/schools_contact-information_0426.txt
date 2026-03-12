@@ -10,7 +10,8 @@
                 RONZONE, BERTHA ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Lawrence, Holly E<br>
+                        
+Principal: Lawrence, Holly E<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4780<br/>
                                 Fax: 702-799-4788<br/>
 <a href="http://maps.google.com/maps?q=5701 STACEY AVENUE,+LAS VEGAS,+NV+89108">Map</a>
-                                 | <a href="https://www.ronzonerockets.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.ronzonerockets.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Success for All!</p> <p><b>Mission:</b> Staff, students, and parents of Ronzone Elementary School will work together to establish a positive environment where quality education for each child is our primary goal. We are dedicated to the belief that each child can grow academically, socially, emotionally, and creatively.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

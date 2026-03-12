@@ -598,9 +598,9 @@
 <td>
                                 REG                            </td>
 <td>
-                                Purchasing Authorization and Nepotism - All Funds                            </td>
+                                Purchasing Authorization And Nepotism-All Funds                            </td>
 <td nowrap="nowrap">
-                                Aug 11, 2022                            </td>
+                                Aug 14, 2025                            </td>
 </tr>
 <tr>
 <td><a class="pdflink" href="pdf/3313_R.pdf" target="_blank">
@@ -1591,6 +1591,16 @@
                                 Termination Pay: All Employees                            </td>
 <td nowrap="nowrap">
                                 May 13, 2021                            </td>
+</tr>
+<tr>
+<td><a class="pdflink" href="pdf/4300_P.pdf" target="_blank">
+                                    4300                                </a></td>
+<td>
+                                POL                            </td>
+<td>
+                                4300                            </td>
+<td nowrap="nowrap">
+                                Aug 28, 2025                            </td>
 </tr>
 <tr>
 <td><a class="pdflink" href="pdf/4310_P.pdf" target="_blank">

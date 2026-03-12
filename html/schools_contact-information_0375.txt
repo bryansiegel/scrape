@@ -10,7 +10,8 @@
                 DICKENS, D. L. "DUSTY" ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Taylor, Jeanette C<br>
+                        
+Principal: Taylor, Jeanette C<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-3878<br/>
                                 Fax: 702-799-3871<br/>
 <a href="http://maps.google.com/maps?q=5550 MILAN PEAK STREET,+NORTH LAS VEGAS,+NV+89081">Map</a>
-                                 | <a href="https://www.dickenselementary.org/">Website</a> </br></br></br></p>
-<b>Region:</b> TTN                                                    </div>
+                                 | <a href="https://www.crammiddleschool.org/">Website</a> 
+<b>Region:</b> TTN                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

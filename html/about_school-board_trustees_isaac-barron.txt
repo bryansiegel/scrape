@@ -1,0 +1,343 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Isaac Barron</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_109450">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_109451">
+<div class="fsElement fsLayout fsTwoColumnWideRightLayout sub-hero-divider fsStyleAutoclear" data-use-new="true" id="fsEl_109452">
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_109453">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109454">
+<div class="fsElementContent">
+<div style="text-align:center">
+<figure class="fsImage" data-widget="image"><picture><img alt="Isaac Barron" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764872402/ccsdnet/jgmgg20tukhnnpemynu0/I-Barron-2025-Headshot-Edited-r21l2u7h3p00ir4su7jn0yd0oulju30t6k565xfr2c.jpg%22,%22width%22:200}]" data-resource-description="" data-resource-filename="I-Barron-2025-Headshot-Edited-r21l2u7h3p00ir4su7jn0yd0oulju30t6k565xfr2c.jpg" data-resource-uuid="aedd66e7-48df-4247-826c-9c530159f3f7" loading="lazy" src="" style="border-radius: 5px;"/></picture></figure>
+<h3>Isaac Barron</h3>
+<h5>Member</h5>
+<p>North Las Vegas</p>
+<p><a href="tel:702-799-CCSD">702-799-CCSD </a></p>
+<p><a class="button-7" href="/about/school-board/contact">Contact</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_109455">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_109456">
+<div class="fsElementContent">
+<div style="margin-left: 10px;">
+<p>Trustee Isaac E. Barron was appointed by his council peers to represent the City of North Las Vegas as its appointed Trustee to the CCSD Board. Trustee Barron was elected to represent Ward 1 in June 2013, and was reelected in 2017 and 2022. He holds the distinction of being the first Hispanic member of the North Las Vegas City Council and Southern Nevada's first Hispanic Mayor Pro Tempore.</p>
+<p>  Barron is a native of North Las Vegas and an award-winning Clark County school teacher. He comes from a humble immigrant background. His father was a kitchen worker and his mother was a maid.</p>
+<p>He has long been a community activist and advocate for North Las Vegas youth, mentoring students after school and leading volunteer efforts for community improvement projects.</p>
+<p>Barron holds a bachelor’s degree in secondary education from the University of Nevada, Las Vegas, and a master’s degree in educational leadership from Nova University.</p>
+<p>Isaac retired after a thirty year career as a public school teacher, the last twenty eight at his high school alma mater, Rancho High.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_198704">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-198705" role="presentation">
+<a aria-controls="fsEl_198705" aria-selected="false" href="#fs-panel-198705" role="tab">Schools</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_198705" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_198705" aria-expanded="false" href="#fs-panel-198705" role="button">Schools</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-198705"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_198706">
+<div class="fsElementContent">
+<table class="table-styled">
+<thead>
+<tr>
+<th>School</th>
+<th>Level</th>
+<th>District</th>
+<th>Municipality</th>
+<!--
+                            <th>Title</th>
+                            <th>Date</th>
+-->
+</tr>
+</thead>
+<tbody>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Smith, J. D. MS </a></td>
+<td>4</td>
+<td>D</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Swainston, Theron L. MS </a></td>
+<td>4</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Priest, Richard C. ES </a></td>
+<td>1</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Rancho HS </a></td>
+<td>6</td>
+<td>D</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Antonello, Lee ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Martinez, Reynaldo L. ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Wilhelm, Elizabeth ES </a></td>
+<td>1</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Wolfe, Eva M. ES </a></td>
+<td>1</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Mojave HS </a></td>
+<td>6</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Elizondo, Raul P. ES </a></td>
+<td>1</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Cram, Brian and Teri MS </a></td>
+<td>4</td>
+<td>B</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Cozine, Steve and Linda ES </a></td>
+<td>1</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Squires, C. P. ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Herron, Fay ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Lincoln ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">McCall, Quannah ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Cahlan, Marion ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Fitzgerald, H. P. ES </a></td>
+<td>1</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Gilbert, C. V. T. ES </a></td>
+<td>1</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Simmons, Eva G. ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Goynes, Theron H. and Naomi D. ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Hayden, Don E. ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Canyon Springs HS and the Leadership and Law Preparatory Academy </a></td>
+<td>6</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Cheyenne HS </a></td>
+<td>6</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Bruner, Lucile S. ES </a></td>
+<td>1</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Sedway, Marvin M. MS </a></td>
+<td>4</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">College of So. NV HS East Campus </a></td>
+<td>6</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Craig, Lois ES </a></td>
+<td>1</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Scott, Jesse D. ES </a></td>
+<td>1</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Legacy HS </a></td>
+<td>6</td>
+<td>B</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Duncan, Ruby ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Desert Rose HS </a></td>
+<td>8</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Triggs, Vincent L. ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Florence McClure Womenâ€™s Correctional Center Adult HS </a></td>
+<td>8</td>
+<td>B</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Johnston, Carroll M. STEM Academy of Environmental Studies </a></td>
+<td>4</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Guy, Addeliar D. III ES </a></td>
+<td>1</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Dickens, D. L. â€œDustyâ€ ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Tartan, John ES </a></td>
+<td>1</td>
+<td>B</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Watson, Fredric W. ES </a></td>
+<td>1</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Desert Rose Adult Education Programs </a></td>
+<td>8</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Bridger, Jim MS </a></td>
+<td>4</td>
+<td>D</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Findlay, Clifford O. (Pete) MS </a></td>
+<td>4</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Williams, Tom ES </a></td>
+<td>1</td>
+<td>D</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Perkins, Dr. Claude G. ES </a></td>
+<td>1</td>
+<td>C</td>
+<td>NLV</td>
+</tr>
+<tr><!-- 	                        <a href="/schools/contact-information/"> -->
+<td><a class="pdflink" contenteditable="false" href="https://ccsd.net/schools" style="cursor: pointer;" target="_blank">Northeast Career and Technical Academy </a></td>
+<td>6</td>
+<td>B</td>
+<td>NLV</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

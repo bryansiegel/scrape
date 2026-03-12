@@ -10,7 +10,8 @@
                 MAY, ERNEST ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Leatherman, Bridget K<br>
+                        
+Principal: Leatherman, Bridget K<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4690<br/>
                                 Fax: 702-799-4544<br/>
 <a href="http://maps.google.com/maps?q=6350 WEST WASHBURN ROAD,+LAS VEGAS,+NV+89130">Map</a>
-                                 | <a href="https://www.mayernestes.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.mayernestes.com/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> I will study and get ready and one day my chance will come. - Abraham Lincoln</p> <p><b>Mission:</b> At Ernest J. May School, opportunities are provided for all students to succeed in an emotionally healthy environment where high self-esteem is fostered.  All students are given opportunities to develop and display individual talents and to acquire the capacity to articulate ideas, respond to change, and become lifelong learners.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

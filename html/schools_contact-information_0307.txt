@@ -10,7 +10,8 @@
                 HARNEY, KATHLEEN AND TIM MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Skvarek, Phongsavanh <br>
+                        
+Principal: Skvarek, Phongsavanh<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-3240<br/>
                                 Fax: 702-799-3286<br/>
 <a href="http://maps.google.com/maps?q=1580 S. HOLLYWOOD BLVD,+LAS VEGAS,+NV+89142">Map</a>
-                                 | <a href="https://www.harneyms.org">Website</a> </br></br></br></p>
+                                 | <a href="https://www.harneyms.org">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Commitment - Achievement - Teamwork - Success</p> <p><b>Mission:</b> Our mission at Kathleen and Tim Harney Middle School is to provide students the opportunity to succeed in a safe, respectful, and caring community.  We are committed to promoting literacy and life-long learning through high expectations and shared responsibility with parents and students.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

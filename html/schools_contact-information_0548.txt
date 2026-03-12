@@ -10,7 +10,8 @@
                 NORTHWEST CAREER AND TECHNICAL ACADEMY<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Willis, Laura K<br>
+                        
+Principal: Willis, Laura K<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-4640<br/>
                                 Fax: 702-799-4644<br/>
 <a href="http://maps.google.com/maps?q=8200 W. TROPICAL PARKWAY,+LAS VEGAS,+NV+89149">Map</a>
-                                 | <a href="http://www.nwctahawks.net">Website</a> </br></br></br></p>
-<b>Region:</b> 1                                                    </div>
+                                 | <a href="http://www.nwctahawks.net">Website</a> 
+<b>Region:</b> 1                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 BROWN, MAHLON JHS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Kathan, Jason M<br>
+                        
+Principal: Kathan, Jason M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8900<br/>
                                 Fax: 702-799-3511<br/>
 <a href="http://maps.google.com/maps?q=307 NORTH CANNES STREET,+HENDERSON,+NV+89015">Map</a>
-                                 | <a href="http://www.brownjhs.org">Website</a> </br></br></br></p>
+                                 | <a href="http://www.brownjhs.org">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Today We Teach...Tomorrow They Lead</p> <p><b>Mission:</b> B. Mahlon Brown Junior High School is dedicated to maintaining a safe, positive learning environment where students can become responsible citizens and lifelong learners.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

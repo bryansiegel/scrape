@@ -10,7 +10,8 @@
                 MCCAW, GORDON ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Furman-Born, Jennifer M<br>
+                        
+Principal: Furman-born, Jennifer M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8930<br/>
                                 Fax: 702-799-8910<br/>
 <a href="http://maps.google.com/maps?q=330 TIN STREET,+HENDERSON,+NV+89015">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/mccawes">Website</a> </br></br></br></p>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/mccawes">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Dedicated to giving our best everyday in everything we do!</p> <p><b>Mission:</b> We at Gordon McCaw Elementary School, in partnership with parents, families, and the community, are dedicated to creating an environment that ensures that all students achieve the highest standards both academically and socially to become lifelong learners and productive members of our global and diverse society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

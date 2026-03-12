@@ -10,7 +10,8 @@
                 COX, CLYDE ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Myers, Lakeisha O<br>
+                        
+Principal: Myers, Lakeisha O<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4990<br/>
                                 Fax: 702-799-4997<br/>
 <a href="http://maps.google.com/maps?q=3855 TIMBERLAKE DRIVE,+LAS VEGAS,+NV+89115">Map</a>
-                                 | <a href="http://www.clydecox.com">Website</a> </br></br></br></p>
+                                 | <a href="http://www.clydecox.com">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> Dream.....Believe.....Work Hard.....Achieve!</p> <p><b>Mission:</b> The Clyde C. Cox Elementary School community will respect and engage individual strengths by committing to the success of responsible life-long learners while maintaining a safe, student-centered environment.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

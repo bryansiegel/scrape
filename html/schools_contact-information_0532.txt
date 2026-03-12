@@ -10,7 +10,8 @@
                 KNUDSON, K.O. ACADEMY OF THE ARTS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Bashay, Harold K<br>
+                        
+Principal: Bashay, Harold K<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7470<br/>
                                 Fax: 702-799-0157<br/>
 <a href="http://maps.google.com/maps?q=2400 ATLANTIC STREET,+LAS VEGAS,+NV+89104">Map</a>
-                                 | <a href="http://www.knudsonms.org/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.knudsonms.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Catch our Cougar PRIDE:Pride Requires Individual Dedication to Education</p> <p><b>Mission:</b> K. O. Knudson Middle School students will achieve academic excellence through the integration of arts and technology across the curriculum.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

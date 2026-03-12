@@ -10,7 +10,8 @@
                 DARNELL, MARSHALL C. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Gray, Kimberly A<br>
+                        
+Principal: Gray, Kimberly A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6630<br/>
                                 Fax: 702-799-6651<br/>
 <a href="http://maps.google.com/maps?q=9480 WEST TROPICAL PARKWAY,+LAS VEGAS,+NV+89149">Map</a>
-                                 | <a href="https://darnellelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://darnellelementary.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> To achieve excellence in all that we do.</p> <p><b>Mission:</b> The Marshall Darnell community will empower students to become responsible, creative citizens who will achieve excellence in academic and social endeavors.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

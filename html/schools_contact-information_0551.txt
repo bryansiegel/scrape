@@ -10,7 +10,8 @@
                 CLARK, ED W. HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Braxton, Zeola <br>
+                        
+Principal: Braxton, Zeola<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5800<br/>
                                 Fax: 702-799-5813<br/>
 <a href="http://maps.google.com/maps?q=4291 WEST PENNWOOD AVENUE,+LAS VEGAS,+NV+89102">Map</a>
-                                 | <a href="https://clarkchargers.org">Website</a> </br></br></br></p>
+                                 | <a href="https://clarkchargers.org">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Educating Today ... For Tomorrow</p> <p><b>Mission:</b> The mission of Clark High School is to provide students with quality, innovative, instruction that promotes lifelong learning in a diverse and rapidly changing society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 CONNERS, EILEEN ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Marentic, Karen T<br>
+                        
+Principal: Marentic, Karen T<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-1402<br/>
                                 Fax: 702-799-1414<br/>
 <a href="http://maps.google.com/maps?q=3810 SHADOW PEAK STREET,+LAS VEGAS,+NV+89129">Map</a>
-                                 | <a href="https://www.connerselementary.com/">Website</a> </br></br></br></p>
-<b>Region:</b> 1                                                    </div>
+                                 | <a href="https://www.connerselementary.com/">Website</a> 
+<b>Region:</b> 1                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

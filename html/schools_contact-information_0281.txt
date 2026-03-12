@@ -10,7 +10,8 @@
                 TWITCHELL, NEIL C. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Tyler, Misty A<br>
+                        
+Principal: Tyler, Misty A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6860<br/>
                                 Fax: 702-799-6864<br/>
 <a href="http://maps.google.com/maps?q=2060 DESERT SHADOW TRAIL,+HENDERSON,+NV+89012">Map</a>
-                                 | <a href="https://www.twitchellelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.twitchellelementary.org/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Inspiring a Passion for Lifelong Learning</p> <p><b>Mission:</b> All students will experience the opportunity for success and become confident, self-directed learners. By building upon character and knowledge, we will nurture a passion for lifelong learning.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

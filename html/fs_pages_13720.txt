@@ -1,0 +1,155 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">All News</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_127760">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_127761">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_127762">
+<div class="fsElementContent">
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout fsStyleAutoclear" data-use-new="true" id="fsEl_127782">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_127783">
+<div class="fsElement fsPostElement fsList fsThumbnailAlignLeft fsThumbnailOriginal fsThumbnailMedium fsItemCount_8" data-board-id="4,51" data-overwrite-title="" data-trigger-element-ids="[127786, 127787]" data-use-new="true" id="fsEl_127785">
+<div class="fsElementContent">
+<div class="fsListItems">
+<div class="fsElementControls">
+<div class="fsAlertFeeds">
+<a aria-label="Post RSS Feed" class="fsRSSIcon" data-boards='[{"id":51,"name":"CCSD Newsroom"}]' href="#" title="Post RSS Feed">
+<span class="fsStyleSROnly">Post RSS Feeds</span>
+</a> <a aria-label="Post Subscription Alerts" class="fsAlertsIcon" data-boards='[{"id":51,"name":"CCSD Newsroom","mailing_list_id":4}]' href="#" title="Post Subscription Alerts">
+<span class="fsStyleSROnly">Subscribe to Post Alerts</span>
+</a> </div>
+</div>
+<article aria-labelledby="fsArticle_127785_1954" class="fsStyleAutoclear fsBoard-51" data-authenticated-comments="true" data-post-id="1954">
+<a class="fsThumbnail fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/ccsds-got-talent-crowns-a-new-grand-champion" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/ccsds-got-talent-crowns-a-new-grand-champion"><img alt="CCSD’s Got Talent Crowns a New Grand Champion" data-aspect-ratio="0.5347222222222222" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772841621/ccsdnet/dakgmlppfxqvjdzx48ai/Newsletter-Landscape-1440x770-c.jpg","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772841621/ccsdnet/dakgmlppfxqvjdzx48ai/Newsletter-Landscape-1440x770-c.jpg","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772841621/ccsdnet/dakgmlppfxqvjdzx48ai/Newsletter-Landscape-1440x770-c.jpg","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772841621/ccsdnet/dakgmlppfxqvjdzx48ai/Newsletter-Landscape-1440x770-c.jpg","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1772841621/ccsdnet/dakgmlppfxqvjdzx48ai/Newsletter-Landscape-1440x770-c.jpg","width":1440}]'/></a>
+<div class="fsTitle" id="fsArticle_127785_1954">
+<a class="fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/ccsds-got-talent-crowns-a-new-grand-champion" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/ccsds-got-talent-crowns-a-new-grand-champion">
+			CCSD’s Got Talent Crowns a New Grand Champion
+</a></div>
+<a class="fsPostLink fsReadMoreLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/ccsds-got-talent-crowns-a-new-grand-champion" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/ccsds-got-talent-crowns-a-new-grand-champion">
+			Read Full Story
+			<span class="fsStyleSROnly">about CCSD’s Got Talent Crowns a New Grand Champion</span>
+</a>
+</article>
+<article aria-labelledby="fsArticle_127785_1953" class="fsStyleAutoclear fsBoard-51" data-authenticated-comments="true" data-post-id="1953">
+<a class="fsThumbnail fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/answering-magnet-lottery-questions" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/answering-magnet-lottery-questions"><img alt="Answering Magnet Lottery questions" data-aspect-ratio="0.5624338624338624" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":1600},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1772834106/ccsdnet/comgppatqpsxqskcrt6g/Magnet.png","width":1890}]'/></a>
+<div class="fsTitle" id="fsArticle_127785_1953">
+<a class="fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/answering-magnet-lottery-questions" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/answering-magnet-lottery-questions">
+			Answering Magnet Lottery Questions
+</a></div>
+<a class="fsPostLink fsReadMoreLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/answering-magnet-lottery-questions" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/answering-magnet-lottery-questions">
+			Read Full Story
+			<span class="fsStyleSROnly">about Answering Magnet Lottery Questions</span>
+</a>
+</article>
+<article aria-labelledby="fsArticle_127785_1946" class="fsStyleAutoclear fsBoard-51 fsTag-28" data-authenticated-comments="true" data-post-id="1946">
+<a class="fsThumbnail fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/two-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/two-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada"><img alt="Two CCSD Educators Named STEM Teachers of the Year by State of Nevada" data-aspect-ratio="0.5624338624338624" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":1600},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1772749281/ccsdnet/r3cop1fgfaolwhynss93/OSITSTEMTeacherAwards.png","width":1890}]'/></a>
+<div class="fsTitle" id="fsArticle_127785_1946">
+<a class="fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/two-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/two-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada">
+			Two CCSD Educators Named STEM Teachers of the Year by State of Nevada
+</a></div>
+<a class="fsPostLink fsReadMoreLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/two-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/two-ccsd-educators-named-stem-teachers-of-the-year-by-state-of-nevada">
+			Read Full Story
+			<span class="fsStyleSROnly">about Two CCSD Educators Named STEM Teachers of the Year by State of Nevada</span>
+</a>
+</article>
+<article aria-labelledby="fsArticle_127785_1925" class="fsStyleAutoclear fsBoard-51" data-authenticated-comments="true" data-post-id="1925">
+<a class="fsThumbnail fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/today-is-ccsd-teacher-librarians-day-march-4" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/today-is-ccsd-teacher-librarians-day-march-4"><img alt="Today is CCSD Teacher-Librarians Day, March 4" data-aspect-ratio="0.5347222222222222" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772583479/ccsdnet/idtbvvlaartoq45barbc/Newsroom2.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772583479/ccsdnet/idtbvvlaartoq45barbc/Newsroom2.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772583479/ccsdnet/idtbvvlaartoq45barbc/Newsroom2.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772583479/ccsdnet/idtbvvlaartoq45barbc/Newsroom2.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1772583479/ccsdnet/idtbvvlaartoq45barbc/Newsroom2.png","width":1440}]'/></a>
+<div class="fsTitle" id="fsArticle_127785_1925">
+<a class="fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/today-is-ccsd-teacher-librarians-day-march-4" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/today-is-ccsd-teacher-librarians-day-march-4">
+			 Today is CCSD Teacher-Librarians Day, March 4
+</a></div>
+<a class="fsPostLink fsReadMoreLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/today-is-ccsd-teacher-librarians-day-march-4" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/today-is-ccsd-teacher-librarians-day-march-4">
+			Read Full Story
+			<span class="fsStyleSROnly">about  Today is CCSD Teacher-Librarians Day, March 4</span>
+</a>
+</article>
+<article aria-labelledby="fsArticle_127785_1922" class="fsStyleAutoclear fsBoard-51 fsTag-39" data-authenticated-comments="true" data-post-id="1922">
+<a class="fsThumbnail fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/ccsd-invites-parents-to-parents-empowering-parents-event" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/ccsd-invites-parents-to-parents-empowering-parents-event"><img alt="Parents Empowering Parents" data-aspect-ratio="0.75" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772476986/ccsdnet/fe1ohj9qvjvp4ym2ehzi/PHOTO-2025-03-27-14-09-54.jpg","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772476986/ccsdnet/fe1ohj9qvjvp4ym2ehzi/PHOTO-2025-03-27-14-09-54.jpg","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1772476986/ccsdnet/fe1ohj9qvjvp4ym2ehzi/PHOTO-2025-03-27-14-09-54.jpg","width":800}]'/></a>
+<div class="fsTitle" id="fsArticle_127785_1922">
+<a class="fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/ccsd-invites-parents-to-parents-empowering-parents-event" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/ccsd-invites-parents-to-parents-empowering-parents-event">
+			CCSD Invites Parents to Parents Empowering Parents Event
+</a></div>
+<a class="fsPostLink fsReadMoreLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/ccsd-invites-parents-to-parents-empowering-parents-event" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/ccsd-invites-parents-to-parents-empowering-parents-event">
+			Read Full Story
+			<span class="fsStyleSROnly">about CCSD Invites Parents to Parents Empowering Parents Event</span>
+</a>
+</article>
+<article aria-labelledby="fsArticle_127785_1905" class="fsStyleAutoclear fsBoard-51 fsTag-35" data-authenticated-comments="true" data-post-id="1905">
+<a class="fsThumbnail fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/ccsd-celebrates-national-school-social-work-week-march-1-7" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/ccsd-celebrates-national-school-social-work-week-march-1-7"><img alt="CCSD Celebrates National School Social Work Week, March 1-7" data-aspect-ratio="0.5625" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772233550/ccsdnet/ia9amid2nklimiscsfpt/Landscape5.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772233550/ccsdnet/ia9amid2nklimiscsfpt/Landscape5.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772233550/ccsdnet/ia9amid2nklimiscsfpt/Landscape5.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772233550/ccsdnet/ia9amid2nklimiscsfpt/Landscape5.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1772233550/ccsdnet/ia9amid2nklimiscsfpt/Landscape5.png","width":1600},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1772233550/ccsdnet/ia9amid2nklimiscsfpt/Landscape5.png","width":1920}]'/></a>
+<div class="fsTitle" id="fsArticle_127785_1905">
+<a class="fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/ccsd-celebrates-national-school-social-work-week-march-1-7" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/ccsd-celebrates-national-school-social-work-week-march-1-7">
+			CCSD Celebrates National School Social Work Week, March 1-7
+</a></div>
+<a class="fsPostLink fsReadMoreLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/ccsd-celebrates-national-school-social-work-week-march-1-7" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/ccsd-celebrates-national-school-social-work-week-march-1-7">
+			Read Full Story
+			<span class="fsStyleSROnly">about CCSD Celebrates National School Social Work Week, March 1-7</span>
+</a>
+</article>
+<article aria-labelledby="fsArticle_127785_1904" class="fsStyleAutoclear fsBoard-51 fsTag-47" data-authenticated-comments="true" data-post-id="1904">
+<a class="fsThumbnail fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/national-school-breakfast-week-march-2-6" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/national-school-breakfast-week-march-2-6"><img alt="National School Breakfast Week, March 2-6" data-aspect-ratio="0.5625" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772233473/ccsdnet/v6m9vnr2iyutau6l2hnr/Landscape4.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772233473/ccsdnet/v6m9vnr2iyutau6l2hnr/Landscape4.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772233473/ccsdnet/v6m9vnr2iyutau6l2hnr/Landscape4.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772233473/ccsdnet/v6m9vnr2iyutau6l2hnr/Landscape4.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1772233473/ccsdnet/v6m9vnr2iyutau6l2hnr/Landscape4.png","width":1600},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1772233473/ccsdnet/v6m9vnr2iyutau6l2hnr/Landscape4.png","width":1920}]'/></a>
+<div class="fsTitle" id="fsArticle_127785_1904">
+<a class="fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/national-school-breakfast-week-march-2-6" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/national-school-breakfast-week-march-2-6">
+			National School Breakfast Week, March 2-6
+</a></div>
+<a class="fsPostLink fsReadMoreLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/national-school-breakfast-week-march-2-6" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/national-school-breakfast-week-march-2-6">
+			Read Full Story
+			<span class="fsStyleSROnly">about National School Breakfast Week, March 2-6</span>
+</a>
+</article>
+<article aria-labelledby="fsArticle_127785_1903" class="fsStyleAutoclear fsBoard-51 fsTag-47" data-authenticated-comments="true" data-post-id="1903">
+<a class="fsThumbnail fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/ccsd-celebrates-nevada-reading-week-march-2-6" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/ccsd-celebrates-nevada-reading-week-march-2-6"><img alt="CCSD Celebrates Nevada Reading Week, March 2-6" data-aspect-ratio="0.666739391294862" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1772838870/ccsdnet/adyqfw05qzjptkes6fz5/Homepage.jpg","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1772838870/ccsdnet/adyqfw05qzjptkes6fz5/Homepage.jpg","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1772838870/ccsdnet/adyqfw05qzjptkes6fz5/Homepage.jpg","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1772838870/ccsdnet/adyqfw05qzjptkes6fz5/Homepage.jpg","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1772838870/ccsdnet/adyqfw05qzjptkes6fz5/Homepage.jpg","width":1600},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1772838870/ccsdnet/adyqfw05qzjptkes6fz5/Homepage.jpg","width":2200}]'/></a>
+<div class="fsTitle" id="fsArticle_127785_1903">
+<a class="fsPostLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/ccsd-celebrates-nevada-reading-week-march-2-6" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/ccsd-celebrates-nevada-reading-week-march-2-6">
+			CCSD Celebrates Nevada Reading Week
+</a></div>
+<a class="fsPostLink fsReadMoreLink" data-opens-in="page" data-page-id="13721" data-slug="ccsd-newsroom/post/ccsd-celebrates-nevada-reading-week-march-2-6" href="https://www.ccsd.net/about/newsroom/new-details/~board/ccsd-newsroom/post/ccsd-celebrates-nevada-reading-week-march-2-6">
+			Read Full Story
+			<span class="fsStyleSROnly">about CCSD Celebrates Nevada Reading Week</span>
+</a>
+</article>
+</div>
+<button class="fsLoadMoreButton fsStyleDefaultButton" data-start-row="9" name="button" type="button">Load More
+	
+</button>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_127784">
+<div class="fsElement fsPostToolsElement fsSearch fsToolsElement" data-linked-element-ids="[127785]" data-use-new="true" id="fsEl_127786">
+<div class="fsElementContent">
+<div class="fsElementToolsSearch">
+<div class="fsElementToolsKeyword">
+<label class="fsFieldLabel fsStyleSROnly" for="fsElementToolsKeywordSearch-127786">
+					Search
+				</label>
+<input class="fsStyleSearchField fsStyleDefaultField" id="fsElementToolsKeywordSearch-127786" placeholder="" required="" type="text"/><button aria-label="Clear" class="fsButtonClear"><span>Clear</span></button>
+</div>
+<div class="fsElementToolsDateRange">
+<div class="fsFieldLabel">Date Range</div>
+<div class="fsFieldContainer">
+<label class="fsFieldLabel fsStyleSROnly" for="fsElementToolsDateRangeStart-127786">Start date</label>
+<input class="fsElementToolsDateRangeStart fsStyleDefaultField" id="fsElementToolsDateRangeStart-127786" size="11" type="date"/>
+<span class="fsSeparator"> - </span>
+<label class="fsFieldLabel fsStyleSROnly" for="fsElementToolsDateRangeEnd-127786">End date</label>
+<input class="fsElementToolsDateRangeEnd fsStyleDefaultField" id="fsElementToolsDateRangeEnd-127786" size="11" type="date"/>
+</div>
+</div>
+<button class="fsElementToolsSearchButton fsStyleUpdateButton">Search</button>
+</div>
+</div>
+</div>
+<section class="fsElement fsPostToolsElement fsTagFilter fsToolsElement" data-linked-element-ids="[127785]" data-use-new="true" id="fsEl_127787">
+<header>
+<h3 class="fsElementTitle">Filter by Tag</h3>
+</header>
+<div class="fsElementContent">
+<ul class="fsToolsList fsStyleSelectList">
+<li class="fsStateSelected"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="" href="#">All</a></li><li class="fsTag-27"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="27" href="#">Achievements</a></li><li class="fsTag-29"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="29" href="#">Announcements</a></li><li class="fsTag-48"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="48" href="#">Board Meetings</a></li><li class="fsTag-52"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="52" href="#">Brightspot</a></li><li class="fsTag-51"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="51" href="#">Bright Spot</a></li><li class="fsTag-56"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="56" href="#">Budget</a></li><li class="fsTag-53"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="53" href="#">CCSD Alumni on the Move</a></li><li class="fsTag-28"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="28" href="#">Clark County School District</a></li><li class="fsTag-30"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="30" href="#">Community</a></li><li class="fsTag-35"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="35" href="#">Educators</a></li><li class="fsTag-10"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="10" href="#">Elementary Schools</a></li><li class="fsTag-45"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="45" href="#">Employees</a></li><li class="fsTag-44"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="44" href="#">Events</a></li><li class="fsTag-46"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="46" href="#">Featured</a></li><li class="fsTag-54"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="54" href="#">Featured CCSD</a></li><li class="fsTag-2"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="2" href="#">Featured Story</a></li><li class="fsTag-32"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="32" href="#">Government Relations</a></li><li class="fsTag-42"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="42" href="#">High Schools</a></li><li class="fsTag-49"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="49" href="#">Homepage Featured</a></li><li class="fsTag-57"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="57" href="#">Just the Facts</a></li><li class="fsTag-41"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="41" href="#">Middle Schools</a></li><li class="fsTag-50"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="50" href="#">New Release</a></li><li class="fsTag-40"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="40" href="#">Newsletter</a></li><li class="fsTag-4"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="4" href="#">News Release</a></li><li class="fsTag-39"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="39" href="#">Parents</a></li><li class="fsTag-31"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="31" href="#">Resources</a></li><li class="fsTag-33"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="33" href="#">Schools</a></li><li class="fsTag-47"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="47" href="#">Students</a></li><li class="fsTag-3"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="3" href="#">Student Spotlight</a></li><li class="fsTag-43"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="43" href="#">Trustees</a></li><li class="fsTag-37"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="37" href="#">Uncategorized</a></li><li class="fsTag-36"><a class="fsTagLink fsStyleDefaultButton" data-tag-id="36" href="#">We are CCSD</a></li>
+</ul>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

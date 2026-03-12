@@ -10,7 +10,8 @@
                 SMITH, HAL ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Shepard, Angela R<br>
+                        
+Principal: Shepard, Angela R<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-3700<br/>
                                 Fax: 702-799-3711<br/>
 <a href="http://maps.google.com/maps?q=5150 EAST DESERT INN ROAD,+LAS VEGAS,+NV+89122">Map</a>
-                                 | <a href="https://halsmith.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://halsmith.org/">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> High Achieving Learners</p> <p><b>Mission:</b> The mission of Hal Smith Elementary School is to do whatever it takes to ensure that all students will reach high academic and social standards.  No Alibis!  No Excuses!  No Exceptions!</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

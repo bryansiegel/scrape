@@ -10,7 +10,8 @@
                 KING, MARTHA P. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Schrock, Jason W<br>
+                        
+Principal: Schrock, Jason W<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8260<br/>
                                 Fax: 702-799-8269<br/>
 <a href="http://maps.google.com/maps?q=888 ADAMS BOULEVARD,+BOULDER CITY,+NV+89005">Map</a>
-                                 | <a href="https://marthapkingelement.wixsite.com/king">Website</a> </br></br></br></p>
+                                 | <a href="https://marthapkingelement.wixsite.com/king">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Be Positive, Productive, and Proud.</p> <p><b>Mission:</b> Our mission at Martha P. King Elementary School will be to develop independent and secure individuals capable of adapting productively to an ever-changing world. We will teach essential skills and promote a personal lifelong love of learning.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

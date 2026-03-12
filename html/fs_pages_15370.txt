@@ -1,0 +1,265 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Grading Reform Initiative</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_140486">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_140487">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_140488">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_140489">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_140490">
+<div class="fsElementContent">
+<p>The Clark County School District (CCSD) is committed to student success by embodying the core values of equity, accountability, and high expectations for all students.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_140491">
+<div class="fsElement fsEmbed" data-use-new="true" id="fsEl_140516">
+<div class="fsElementContent">
+<div class="ivideoframe-container"><script src="https://d1ifvk1tub2sdr.cloudfront.net/Content/js/responsiveembedplayer.js " type="text/javascript"></script><iframe allowfullscreen="true" aria-label="Accountability of Grading Reform for Families" class="ivideoframe" frameborder="0" height="360" scrolling="no" src="https://0055-aarsi.eduvision.tv/EmbedPlayer.aspx?qev=3SfVi13wT7Qlfak8KKuh2jQQOCUTjbhawAKZHwCFOrFrTFG5jjXKIa7r426DaU9LebKN%252fU3rtibCBKCuXnZdEKWoYtMkgS%252bC4j5w22%252btjU2hdgbHgvMVvmfUsD5of5L5rdNFL0BOOpDdmQwgHB1jqfdY4LnRx%252bz8" title="Grading Reform for Families" toolbar="no" width="640"></iframe>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideRightLayout fsStyleAutoclear" data-use-new="true" id="fsEl_140517">
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_140518">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="140520" data-source-page-id="15370" data-use-new="true" id="fsEl_140520">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Habits of Learning" data-aspect-ratio="0.75" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1766428891/ccsdnet/qmkgiona0s5ff5dx0jgh/Habits-of-Learning.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1766428891/ccsdnet/qmkgiona0s5ff5dx0jgh/Habits-of-Learning.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1766428891/ccsdnet/qmkgiona0s5ff5dx0jgh/Habits-of-Learning.png%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1766428891/ccsdnet/qmkgiona0s5ff5dx0jgh/Habits-of-Learning.png%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766428891/ccsdnet/qmkgiona0s5ff5dx0jgh/Habits-of-Learning.png%22,%22width%22:1500}]" data-permitted-user="true" data-resource-title="Habits-of-Learning.png" data-resource-uuid="81b726aa-6bc4-4acb-8968-dc948dac2842"/></picture></figure></article>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_140519">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_140521">
+<div class="fsElementContent">
+<p>In an effort to reach goals in the District's strategic plan, the Grading Reform Committee, composed of principals and members of various CCSD departments, in partnership with the Assessment, Accountability, Research, and School Improvement Division (AARSI) have led the grading reform initiative. Families and educators are partners in this work and provide ongoing feedback. The goal of these efforts is to ensure students’ grades accurately reflect their knowledge and skills by minimizing the impact of non-academic factors by reporting these factors separately.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout fsStyleAutoclear" data-use-new="true" id="fsEl_140522">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_140523">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_140525">
+<div class="fsElementContent">
+<p>Students are still expected to meet deadlines and demonstrate appropriate behaviors. These behavior expectations will not be reflected in academic grades. Students will also have the opportunity to revise and/or retake tests to encourage continued academic growth in areas they may not have fully understood the first time. These changes will allow students to learn from mistakes and demonstrate mastery of the content throughout the school year.</p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_140524">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="140526" data-source-page-id="15370" data-use-new="true" id="fsEl_140526">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="No Fail" data-aspect-ratio="0.75" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1766428990/ccsdnet/zklvzvdjgaxctcigjf1z/NoFail.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1766428990/ccsdnet/zklvzvdjgaxctcigjf1z/NoFail.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1766428990/ccsdnet/zklvzvdjgaxctcigjf1z/NoFail.png%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1766428990/ccsdnet/zklvzvdjgaxctcigjf1z/NoFail.png%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766428990/ccsdnet/zklvzvdjgaxctcigjf1z/NoFail.png%22,%22width%22:1500}]" data-permitted-user="true" data-resource-title="NoFail.png" data-resource-uuid="ae0a2b61-2571-4e22-876b-48ac52f1cd67"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_140527">
+<div class="fsElementContent">
+<p><strong>Throughout the process, five key priority areas have been identified to ensure equity, accuracy, and consistency in CCSD grading policies across all schools.</strong></p>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_140528">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-140529" role="presentation">
+<a aria-controls="fsEl_140529" aria-selected="false" href="#fs-panel-140529" role="tab">Priority Areas</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-140533" role="presentation">
+<a aria-controls="fsEl_140533" aria-selected="false" href="#fs-panel-140533" role="tab">Timeline</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-140540" role="presentation">
+<a aria-controls="fsEl_140540" aria-selected="false" href="#fs-panel-140540" role="tab">Frequently Asked Questions</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-140542" role="presentation">
+<a aria-controls="fsEl_140542" aria-selected="false" href="#fs-panel-140542" role="tab">Resources</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_140529" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_140529" aria-expanded="false" href="#fs-panel-140529" role="button">Priority Areas</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-140529"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_140530">
+<div class="fsElementContent">
+<div class="container2">
+<div class="image-space">
+<figure class="fsImage image"><a class="button" href="#popup3" style="float: right;"><img align="right" alt="Equity Scale" class="image" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1766429204/ccsdnet/xr0pgknlui8rt9is1ylr/EquityScale.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1766429204/ccsdnet/xr0pgknlui8rt9is1ylr/EquityScale.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1766429204/ccsdnet/xr0pgknlui8rt9is1ylr/EquityScale.png%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1766429204/ccsdnet/xr0pgknlui8rt9is1ylr/EquityScale.png%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766429204/ccsdnet/xr0pgknlui8rt9is1ylr/EquityScale.png%22,%22width%22:1500}]" data-resource-description="" data-resource-filename="EquityScale.png" data-resource-uuid="c49ea039-4aaf-418c-b01f-9011c3652952" loading="lazy" src="" style="margin: 20px 40px 7px 0px; cursor: pointer;" width="266"/></a><picture></picture></figure>
+</div>
+</div>
+<ul>
+<li style="list-style: none;">1. Implement an equal (balanced) Grading Scale.
+	<ul>
+<li>Grades 1–12
+		<ul>
+<li>A = 90–100</li>
+<li>B = 80–89</li>
+<li>C = 70–79</li>
+<li>D = 60–69</li>
+<li>F = 50–59</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Kindergarten Grading Scale
+		<ul>
+<li>2 = Meets</li>
+<li>1 = Approaches</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Standards-Based Grading Scale
+		<ul>
+<li>4 = Exceeds</li>
+<li>3 = Meets</li>
+<li>2 = Approaches</li>
+<li>1 = Emergent</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style: none;">2. Remove behavior from the grading process.
+	<ul>
+<li>Academic performance will be the only factor included in student grades.</li>
+<li>Students will not be penalized through the academic grade for late work, participation, responsibility, etc.
+		<ul>
+<li>Elementary students who have provided no evidence of learning will be assigned an “M” for the missing assignment which carries a value of 50 percent.</li>
+<li>Secondary students who have provided no evidence of learning will be assigned an “M” for the missing assignment which carries a value of 0 percent.</li>
+<li>Once the missing work is submitted, the “M” is replaced with a score reflecting the student’s academic performance. The “L” late flag is then added to the assignment to communicate student behavior separately from the academic grade.</li>
+</ul>
+</li>
+<li>Behaviors will be reported separately as a successful learner behavior or citizenship grade.</li>
+</ul>
+</li>
+</ul>
+<div align="center" class="eduvis" style="margin-top: 30px;">
+<div class="ivideoframe-container"><script src="https://d1ifvk1tub2sdr.cloudfront.net/Content/js/responsiveembedplayer.js " type="text/javascript"></script><iframe allowfullscreen="true" class="ivideoframe" frameborder="0" height="360" scrolling="no" src="https://0055-aarsi.eduvision.tv/EmbedPlayer.aspx?qev=3SfVi13wT7SXdZDM9QBQSDQQOCUTjbhawAKZHwCFOrFrTFG5jjXKIa7r426DaU9LebKN%252fU3rtibCBKCuXnZdEKWoYtMkgS%252bCjCNswj2HhaehdgbHgvMVvmfUsD5of5L5rdNFL0BOOpDdmQwgHB1jqfdY4LnRx%252bz8" style="width: 640px !important; height: 360px !important;" toolbar="no" width="640"></iframe></div>
+</div>
+<ul style="margin-bottom: 35px;margin-top: 30px;">
+<li style="list-style: none;">3.
+	<p class="indent" style="margin-top: -26px;margin-left: 17px;">Implement a consistent reassessment policy to include opportunities for reflection, revision, and reassessment to ensure mastery of the Nevada Academic Content Standards (NVACS) and District curriculum for all students.</p>
+</li>
+</ul>
+<div align="center" class="eduvis">
+<div class="ivideoframe-container"><script src="https://d1ifvk1tub2sdr.cloudfront.net/Content/js/responsiveembedplayer.js " type="text/javascript"></script><iframe allowfullscreen="true" class="ivideoframe" frameborder="0" height="360" scrolling="no" src="https://0055-aarsi.eduvision.tv/EmbedPlayer.aspx?qev=3SfVi13wT7SSrpW0nhDo4DQQOCUTjbhawAKZHwCFOrFrTFG5jjXKIa7r426DaU9LebKN%252fU3rtibCBKCuXnZdEKWoYtMkgS%252bCXmBGfkhnDemhdgbHgvMVvmfUsD5of5L5rdNFL0BOOpDdmQwgHB1jqfdY4LnRx%252bz8" style="width: 640px !important; height: 360px !important;" toolbar="no" width="640"></iframe></div>
+</div>
+<figure class="fsImage"><picture><img alt="campus" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1766438303/ccsdnet/fpsgeuzlmn46uagr7d4j/ParentAppIcon.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766438303/ccsdnet/fpsgeuzlmn46uagr7d4j/ParentAppIcon.png%22,%22width%22:280}]" data-resource-description="" data-resource-filename="ParentAppIcon.png" data-resource-uuid="d32b1985-8b18-44c7-835c-356b9e6bd91c" src="" style="padding-top:75px;padding-left:20px;padding-bottom:75px;" width="187"/></picture></figure>
+<div style="float: right;margin-right: 220px;margin-top:20px;">
+<ul>
+<li>2021–2022:
+	<ul>
+<li>Formative 0—25%</li>
+<li>Summative 75—100%</li>
+</ul>
+</li>
+<li>2022–2023:
+	<ul>
+<li>Formative 0—20%</li>
+<li>Summative 80—100%</li>
+</ul>
+</li>
+<li>2023 and Beyond:
+	<ul>
+<li>Formative 0—20%</li>
+<li>Summative 80—100%</li>
+</ul>
+</li>
+</ul>
+</div>
+<div style="margin-left:0px;padding-bottom:0px;">
+<ul>
+<li class="indent" style="list-style: none;margin-top: 20px;">5. Implement standards-based reporting using proficiency levels at the secondary level.
+	<p> </p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_140533" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_140533" aria-expanded="false" href="#fs-panel-140533" role="button">Timeline</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-140533"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_140534">
+<div class="fsElementContent">
+<p id="Timeline"><strong>July 8, 2021:</strong> Regulation revisions approved by the Board of School Trustees.</p>
+<p><strong>August 2021:</strong> New grading regulation takes effect.</p>
+<p><strong>2021–2022 School Year:</strong>
+</p><ul style="margin-top: -20px;">
+<li>Implemented an equal (balanced) Grading Scale.</li>
+<li>Removed behavior from the grading process.</li>
+<li>Implemented consistent weighting and categories in the Infinite Campus Grade Book for recording formative and summative assessments. </li>
+</ul>
+<p></p>
+<p><strong>2022–2023 School Year:</strong>
+</p><ul style="margin-top: -20px;">
+<li>Implement a consistent reassessment policy to include opportunities for reflection, revision, and reassessment to ensure mastery of the NVACS and District curriculum for all students.</li>
+</ul>
+<p></p>
+<p><strong>Future:</strong>
+</p><ul style="margin-top: -20px;">
+<li>Implement standards-based reporting using proficiency levels at the secondary level.</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_140540" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_140540" aria-expanded="false" href="#fs-panel-140540" role="button">Frequently Asked Questions</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-140540"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_140541">
+<div class="fsElementContent">
+<p id="Questions"><strong>Question:</strong> Why is CCSD making this change?<br/>
+<strong>Answer:</strong> Students, educators, families, and administrators have been struggling with inconsistent grading policies when transitioning from school to school. The students of CCSD deserve an equitable grading system that accurately reports student achievement on the NVACS and supports all students being successful.</p>
+<p><strong>Question:</strong> What factors are being removed from students’ grades?<br/>
+<strong>Answer:</strong> Students’ grades will be based solely on their attainment of academic standards. Learner behaviors, such as late work and disrupting the classroom, will be removed from the academic grade and reported separately.</p>
+<p><strong>Question:</strong> How will schools report behavior on report cards?<br/>
+<strong>Answer:</strong> Teachers will report academic grades and learner behavior grades separately on the report card. Learner behavior grades will be reported in the Successful Learner Behaviors section for elementary students and the Citizenship section for secondary students. Learner behavior grades will be shared throughout the term just as academic grades are shared regularly.</p>
+<p><strong>Question:</strong> Do the changes make courses easier for students to pass?<br/>
+<strong>Answer:</strong> No, the grading regulation changes actually hold students more accountable for their learning. The traditional grading system allowed students to focus on accumulating points rather than having to demonstrate mastery of standards. In the past, students had the option to accept an “F” for missing work rather than being held to the high expectation of having to do the missing work. Educators will explicitly teach and model college and career readiness expectations and elicit other forms of evidence to show a student’s current level of mastery. Teachers who are unable to elicit evidence of learning will communicate progress as an “M” for no evidence.</p>
+<div class="container2">
+<div>
+<figure class="fsImage image"><a class="button" href="#popup6" style="float: left;"><img align="left" alt="Deadlines" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1766429457/ccsdnet/rtrenegcd5iweqngkhik/Deadlines.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1766429457/ccsdnet/rtrenegcd5iweqngkhik/Deadlines.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1766429457/ccsdnet/rtrenegcd5iweqngkhik/Deadlines.png%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1766429457/ccsdnet/rtrenegcd5iweqngkhik/Deadlines.png%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766429457/ccsdnet/rtrenegcd5iweqngkhik/Deadlines.png%22,%22width%22:1500}]" data-resource-description="" data-resource-filename="Deadlines.png" data-resource-uuid="5b604a52-d32c-44d0-90e3-f74d32156342" loading="lazy" src="" style="margin-top: 8px; margin-bottom: 22px; margin-left: 20px;margin-right: 40px;cursor:pointer" width="334"/></a><picture></picture></figure>
+</div>
+</div>
+<p><strong>Question:</strong> Is there a limit on how long students have to revise or retake assignments and tests?<br/>
+<strong>Answer:</strong> Students who <strong>have not</strong> shown mastery (e.g., “D” or “F”) on an assessment will work with their teacher to develop a plan to show new learning has occurred before reassessment. If a student does not submit the missing work by the common school deadline and the teacher has been unsuccessful in eliciting evidence of the student’s learning, the “M” will remain in the Grade Book and report a value of 50 percent at the elementary level and 0 percent at the secondary level.</p>
+<p><strong>Question:</strong> Will all tests and assignments be part of the reassessment policy?<br/>
+<strong>Answer:</strong> Reassessment opportunities will be provided for summative assessments (high weighting). Formative (low weighting) assessments/assignments are used to inform teaching. Educators will establish reassessment opportunities for students who have not shown mastery of identified standards, establish a timely opportunity for reteaching and relearning, and communicate expectations to students and families.</p>
+<p><strong>Question:</strong> How will missing and late assignments be marked in the Grade Book to provide accurate performance indicators?<br/>
+<strong>Answer:</strong> When a student misses a deadline, the mark of “M” will be entered into the Infinite Campus Grade Book as a placeholder, calculated as 50 percent at the elementary level and as 0 percent at the secondary level, as the teacher works with the student to elicit evidence of learning. Once the missing work is submitted, the “M” is replaced with a score reflecting the student’s academic performance and the “L” late flag is added to the assignment to monitor student behavior separate from the academic grade. If a student does not submit the work by the common school deadline established and the teacher has been unsuccessful in eliciting evidence of the student’s learning, the “M” remains and is calculated as above.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_140542" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_140542" aria-expanded="false" href="#fs-panel-140542" role="button">Resources</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-140542"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_140543">
+<div class="fsElementContent">
+<p><a href="https://drive.google.com/file/d/1KuEJlrOOqxpYWRnSbUzQ4QqjPVqCJLyo/view?resourcekey" target="_blank">Formative Assessment in Action</a> (Video)</p>
+<p><a href="/uploaded/themes/default_25/grading-reform-initiative/GradingReformFamilyBrochure-2025.pdf" target="_blank">Grading Reform Family Brochure</a> (PDF)</p>
+<p><a href="/uploaded/themes/default_25/grading-reform-initiative/GradingReformFamiliesReassessment.pdf" target="_blank">Grading Practices for Families – Reassessment</a> (PDF)</p>
+<p><a href="/uploaded/themes/default_25/grading-reform-initiative/GradingReform_Families-RemovingBehaviorGrades-new.pdf" target="_blank">Grading Practices for Families – Removing Behavior from Grades</a> (PDF)</p>
+<p><a href="https://drive.google.com/file/d/1b3dab24HPk96-6fmJwuG2qKdsTaHo4hi/view?pli=1" target="_blank">Standards-Based Grading</a> (PDF)</p>
+<p><a href="https://drive.google.com/file/d/17770QPNH82HAT3y5ckaDi0KgA2PvjgOp/view" target="_blank">Understanding the Elementary Grade Book</a> (Video)</p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

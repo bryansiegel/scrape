@@ -1,0 +1,338 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Cybersecurity</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_184166">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_184167">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout fsStyleAutoclear" data-use-new="true" id="fsEl_184170">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_184171">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_184172">
+<div class="fsElementContent">
+<h2>Cyber Security Education</h2>
+<h3>Safe, Smart, and Secure—With Firewall by Your Side</h3>
+<p>Clark County School District is committed to protecting every student’s digital journey through strong policies, proactive education, and family partnership.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_184173">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="184174" data-source-page-id="20965" data-use-new="true" id="fsEl_184174">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Cyber Security Education" data-aspect-ratio="0.9476571428571429" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1769638132/ccsdnet/aohntvkttpetnxvjlzmz/FirewallFinalApproved.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1769638132/ccsdnet/aohntvkttpetnxvjlzmz/FirewallFinalApproved.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1769638132/ccsdnet/aohntvkttpetnxvjlzmz/FirewallFinalApproved.png%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1769638132/ccsdnet/aohntvkttpetnxvjlzmz/FirewallFinalApproved.png%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1769638132/ccsdnet/aohntvkttpetnxvjlzmz/FirewallFinalApproved.png%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1769638132/ccsdnet/aohntvkttpetnxvjlzmz/FirewallFinalApproved.png%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="FirewallFinalApproved.png" data-resource-uuid="d9456286-4e94-48c0-9ecf-016a063b80d7"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_184175">
+<div class="fsElementContent">
+<div class="nav" style="margin-top:10px;"><a class="scroll_slow" href="#lessons">Lessons</a><a class="scroll_slow" href="#Families">Families</a><a class="scroll_slow" href="#concern">Concerns</a><a class="scroll_slow" href="#info">Info</a></div>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout fsStyleAutoclear" data-use-new="true" id="fsEl_184177">
+<header>
+<div class="fsElementHeaderContent">
+<div><a id="lessons"></a></div>
+</div>
+</header>
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_184178">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_184179">
+<div class="fsElementContent">
+<h3>What is Cyber Security Education?</h3>
+<p>Cyber security education teaches people to stay safe online and protect their personal information from hackers and cyber threats. It helps individuals—kids and adults—understand how to secure their digital lives.</p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_184180">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="184182" data-source-page-id="20965" data-use-new="true" id="fsEl_184182">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Cybersecurity" data-aspect-ratio="0.1625141562853907" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1769640329/ccsdnet/pefq1amsilt7236v0lcp/CYBER-org-color.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1769640329/ccsdnet/pefq1amsilt7236v0lcp/CYBER-org-color.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1769640329/ccsdnet/pefq1amsilt7236v0lcp/CYBER-org-color.png%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1769640329/ccsdnet/pefq1amsilt7236v0lcp/CYBER-org-color.png%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1769640329/ccsdnet/pefq1amsilt7236v0lcp/CYBER-org-color.png%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1769640329/ccsdnet/pefq1amsilt7236v0lcp/CYBER-org-color.png%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="CYBER-org-color.png" data-resource-uuid="a9740d23-6352-47a9-ad93-86a74bf3f518"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_184183">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-184184" role="presentation">
+<a aria-controls="fsEl_184184" aria-selected="false" href="#fs-panel-184184" role="tab">Grades K-2: Keys to Cybersecurity</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-185730" role="presentation">
+<a aria-controls="fsEl_185730" aria-selected="false" href="#fs-panel-185730" role="tab">Grades 3-5: Keys to Cybersecurity</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-185732" role="presentation">
+<a aria-controls="fsEl_185732" aria-selected="false" href="#fs-panel-185732" role="tab">Grades 6-8: Keys to Cybersecurity</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-185756" role="presentation">
+<a aria-controls="fsEl_185756" aria-selected="false" href="#fs-panel-185756" role="tab">Grades 9-12: Keys to Cybersecurity</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_184184" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_184184" aria-expanded="false" href="#fs-panel-184184" role="button">Grades K-2: Keys to Cybersecurity</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-184184"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_184185">
+<div class="fsElementContent">
+<p><strong>Lesson Key 1:</strong> Passwords and Beyond</p>
+<p><strong>Overview:</strong> In this lesson, students will explore the cybersecurity concept of passwords.</p>
+<p><strong>Objective:</strong> Students will use a real-life example to describe the concept of a password, identify that some passwords are strong and others are weak, and explain why a password is important.</p>
+<table class="table-styled" style="width:100%">
+<tbody>
+<tr>
+<td>
+<p style="text-align:center;"><a class="button-1" href="https://drive.google.com/file/d/1D7-e6Ijyw8ZHqU1q3R4LmCHbqQnAb7Mg/view" target="_blank">Lesson Plan</a></p>
+</td>
+<td>
+<p style="text-align:center;"><a class="button-1" href="https://docs.google.com/presentation/d/1txFGNfpySKBJcheUW00LeXw481vKIn9j/edit?slide=id.p1#slide=id.p1" target="_blank">Slides</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Lesson Key 2:</strong> Motivations of People Online - Good and Bad Uses of Devices</p>
+<p><strong>Overview:</strong> Overview: In this lesson, students will explore the idea that digital devices can be used in good ways and in bad ways.</p>
+<p><strong>Objective:</strong> Students will describe good uses of digital devices, describe bad uses of digital devices, and list examples of information that needs to be protected.</p>
+<table class="table-styled" style="width:100%">
+<tbody>
+<tr>
+<td>
+<p style="text-align:center;"><a class="button-1" href="https://drive.google.com/file/d/1wtwbuP1hjXtst5Sh5AwMzTHiiZn4iws1/view" target="_blank">Lesson Plan</a></p>
+</td>
+<td>
+<p style="text-align:center;"><a class="button-1" href="https://docs.google.com/presentation/d/1KesX-Mlr-Cu--oQGvOhR55guNgX2nWlm/edit?slide=id.p1#slide=id.p1" target="_blank">Slides</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Lesson Key 3:</strong>Personally Identifiable Information - Personal or Public Information</p>
+<p><strong>Overview:</strong> In this lesson, students will explore what is okay to share about themselves and focus on examples of public versus personal information.</p>
+<p><strong>Objective:</strong>Students will distinguish between personal and public information and explore what is okay to share about themselves.</p>
+<table class="table-styled" style="width:100%">
+<tbody>
+<tr>
+<td>
+<p style="text-align:center;"><a class="button-1" href="https://drive.google.com/file/d/1VZXpxkcNl2aGlK5sGgSNfLjbZfbLrpWi/view" target="_blank">Lesson Plan</a></p>
+</td>
+<td>
+<p style="text-align:center;"><a class="button-1" href="https://docs.google.com/presentation/d/1p0TAtpxgI1Ludr040VcWBPyLs8YylK1Z/edit?slide=id.p1#slide=id.p1" target="_blank">Slides</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_185730" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_185730" aria-expanded="false" href="#fs-panel-185730" role="button">Grades 3-5: Keys to Cybersecurity</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-185730"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_185731">
+<div class="fsElementContent">
+<p><strong>Lesson Key 1:</strong> Personal Identifiable Information</p>
+<p><strong>Overview:</strong> First, students will learn what a digital footprint and personally identifiable information are. Then, students will learn when it is safe to share personally identifiable information and whom they should share it with.</p>
+<p><strong>Objective:</strong> Students will learn how to keep their digital footprint safe.</p>
+<p><a class="button-1" href="https://cyber.org/learning-modules/module-1/#/" target="_blank">Module 1</a></p>
+<p><strong>Lesson Key 2:</strong> Online Safety</p>
+<p><strong>Overview:</strong> In this lesson, students will learn about some things to watch out for when using technology and how to best respond to those threats. Students will also learn why it is important not to post private information online.</p>
+<p><strong>Objective:</strong> Students will learn about online safety.</p>
+<p><a class="button-1" href="https://cyber.org/learning-modules/module-2/#/" target="_blank">Module 2</a></p>
+<p><strong>Lesson Key 3:</strong> Authentication</p>
+<p><strong>Overview:</strong> In this key, students will learn how to create strong passwords. Students will also discover why it’s important to use multiple ways to protect their devices and learn about different kinds of authentication.</p>
+<p><strong>Objective:</strong> Students will learn about authentication.</p>
+<p><a class="button-1" href="https://cyber.org/learning-modules/module-3/#/" target="_blank">Module 3</a></p>
+<p><strong>Lesson Key 4:</strong> Connected Devices</p>
+<p><strong>Overview:</strong> In this key, students will learn about the risks involved in opening unknown files and connecting to unknown devices. Students will also discover the benefits of keeping their apps and devices updated and backing up data regularly. Additionally, students will learn about the Internet of Things (IoT).</p>
+<p><strong>Objective:</strong> Students will learn how to protect their connected devices.</p>
+<p><a class="button-1" href="https://cyber.org/learning-modules/module-4/#/" target="_blank">Module 4</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_185732" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_185732" aria-expanded="false" href="#fs-panel-185732" role="button">Grades 6-8: Keys to Cybersecurity</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-185732"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_185733">
+<div class="fsElementContent">
+<p><strong>Lesson Key 5:</strong> Protecting Your Digital Footprint</p>
+<p><strong>Overview:</strong> Students will learn how to protect their devices and files when using interconnected systems like the Internet of Things (IoT).</p>
+<p><strong>Objective:</strong> Students will learn about the risks and benefits of IoT devices, the importance of file backups, and hardware and software vulnerabilities.</p>
+<p><a class="button-1" href="https://cyber.org/learning-modules/module-5/#/" target="_blank">Module 5</a></p>
+<p><strong>Lesson Key 6:</strong> Online Threats and Vulnerabilities</p>
+<p><strong>Overview:</strong> In this key, students will learn to identify the characteristics of an email or text message that may be part of a phishing scam. Students will also become more aware of the different types of threats and vulnerabilities.</p>
+<p><strong>Objective:</strong> Students will explore online threats and vulnerabilities.</p>
+<p><a class="button-1" href="https://cyber.org/learning-modules/module-6/#/" target="_blank">Module 6</a></p>
+<p><strong>Lesson Key 7:</strong> Defense in Depth</p>
+<p><strong>Overview:</strong> Students will learn how authentication and authorization methods can protect authorized users. Students will also learn various strategies that can help protect simple networks.</p>
+<p><strong>Objective:</strong> Students will take an in-depth dive into online defenses.</p>
+<p><a class="button-1" href="https://cyber.org/learning-modules/module-7/#/" target="_blank">Module 7</a></p>
+<p><strong>Lesson Key 8:</strong> Protecting Connected Devices</p>
+<p><strong>Overview:</strong> For this key, Students will learn how to protect your devices and files when using interconnected systems like the Internet of Things (IoT). Students will learn about the risks and benefits of IoT devices, the importance of file backups, and hardware and software vulnerabilities.</p>
+<p><strong>Objective:</strong> Students will learn how to protect their connected devices.</p>
+<p><a class="button-1" href="https://cyber.org/learning-modules/module-8/#/" target="_blank">Module 8</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_185756" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_185756" aria-expanded="false" href="#fs-panel-185756" role="button">Grades 9-12: Keys to Cybersecurity</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-185756"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_185757">
+<div class="fsElementContent">
+<p><strong>Lesson Key 5:</strong> Protecting Your Digital Footprint</p>
+<p><strong>Overview:</strong> Students will learn how to protect their devices and files when using interconnected systems like the Internet of Things (IoT).</p>
+<p><strong>Objective:</strong> Students will learn about the risks and benefits of IoT devices, the importance of file backups, and hardware and software vulnerabilities.</p>
+<p><a class="button-1" href="https://cyber.org/learning-modules/module-5/#/" target="_blank">Module 5</a></p>
+<p><strong>Lesson Key 6:</strong> Online Threats and Vulnerabilities</p>
+<p><strong>Overview:</strong> In this key, students will learn to identify the characteristics of an email or text message that may be part of a phishing scam. Students will also become more aware of the different types of threats and vulnerabilities.</p>
+<p><strong>Objective:</strong> Students will explore online threats and vulnerabilities.</p>
+<p><a class="button-1" href="https://cyber.org/learning-modules/module-6/#/" target="_blank">Module 6</a></p>
+<p><strong>Lesson Key 7:</strong> Defense in Depth</p>
+<p><strong>Overview:</strong> Students will learn how authentication and authorization methods can protect authorized users. Students will also learn various strategies that can help protect simple networks.</p>
+<p><strong>Objective:</strong> Students will take an in-depth dive into online defenses.</p>
+<p><a class="button-1" href="http://cyber.org/learning-modules/module-7/#/" target="_blank">Module 7</a></p>
+<p><strong>Lesson Key 8:</strong> Protecting Connected Devices</p>
+<p><strong>Overview:</strong> For this key, Students will learn how to protect your devices and files when using interconnected systems like the Internet of Things (IoT). Students will learn about the risks and benefits of IoT devices, the importance of file backups, and hardware and software vulnerabilities.</p>
+<p><strong>Objective:</strong> Students will learn how to protect their connected devices.</p>
+<p><a class="button-1" href="https://cyber.org/learning-modules/module-8/#/" target="_blank">Module 8</a></p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="fsElement fsContent sub-hero-border" data-use-new="true" id="fsEl_185759">
+<header>
+<div class="fsElementHeaderContent">
+<div><a id="Families"></a></div>
+</div>
+</header>
+<div class="fsElementContent">
+<h3>What Families Need to Know</h3>
+<p>As a parent, it’s important to know that cybersecurity plays a big role in keeping your child safe while they learn online. From school devices to educational apps, we take steps to protect student information and block harmful content. But staying safe online is a team effort! Talk to your child about creating strong passwords, being careful with what they click, and never sharing personal info. If you ever have questions or concerns, we’re here to help—working together makes a big difference in keeping our students safe and secure.</p>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_185761">
+<div class="fsElementContent">
+<h4>Platform-Specific Guidance</h4>
+<ul>
+<li>TikTok: Enable privacy, monitor screen time, avoid oversharing.</li>
+<li>Discord: Review server access, enable content filters, monitor DMs.</li>
+<li>Instagram: Set accounts to private, approve followers, manage screen time.</li>
+</ul>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_185762">
+<div class="fsElementContent">
+<h4>Internet Safety Basics</h4>
+<ul>
+<li>Use parental controls from ISPs or phone providers.</li>
+<li>Avoid clicking suspicious links or downloading unknown apps.</li>
+<li>Protect personal information.</li>
+</ul>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_185763">
+<div class="fsElementContent">
+<h4>Home Wi-Fi Guidance</h4>
+<ul>
+<li>Secure admin access.</li>
+<li>Use strong firewall settings.</li>
+<li>Consider apps like Who’s on My WiFi.</li>
+</ul>
+</div>
+</div>
+<div class="fsElement fsContent homepage-newsletter" data-use-new="true" id="fsEl_185764">
+<header>
+<div class="fsElementHeaderContent">
+<div><a id="concern"></a></div>
+</div>
+</header>
+<div class="fsElementContent">
+<div style="text-align:center;padding-top: 60px; padding-bottom: 60px;margin-bottom:0px !important;">
+<h3 style="color:white;">Report a Concern</h3>
+<h5 style="color:white; font-size:16px; font-weight:bold;">For urgent issues, responses will be provided within 24 hours to ensure timely support and resolution. For general concerns or inquiries, please allow 3–5 business days for a response. We are committed to addressing all matters with care and efficiency, prioritizing according to urgency.</h5>
+<a class="button-2" href="https://clark-county-school-district.read.axioshq.com/signup/community-newsletter" style="background-color:white !important;" target="_blank">Report a Concern</a></div>
+</div>
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_185765">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_185766">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_185767">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage"><picture><img alt="1" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1769708404/ccsdnet/fk1pzvfgazgyumt5dxw2/1_1.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="1_1.webp" data-resource-uuid="b6d73e66-a9a5-4932-a556-f506336343d4" src=""/></picture></figure>
+</div>
+<h4>Contact the School</h4>
+<a class="button-1" data-page-name="Schools" href="/fs/pages/1048" target="_blank">School Search</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_185768">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_185769">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="2" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1769708485/ccsdnet/x86t5bn7kzuq7x6pqnqo/2.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="2.webp" data-resource-uuid="d6acaa99-4f7b-4b37-b0af-f8992a0f63b8" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Use SafeVoice</h4>
+<a class="button-1" data-page-name="Use Safevoice" href="/fs/pages/1285">Learn More</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_185770">
+<div class="fsElement fsContent job-card lger-card" data-use-new="true" id="fsEl_185771">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="3" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1769708559/ccsdnet/qxpmvqtygmlemhl5nqqq/3.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="3.webp" data-resource-uuid="f03ff5c5-56b9-4bc7-b261-1a6e44f4af1c" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Submit through I.T. support</h4>
+<p><a class="button-1" data-page-name="Contact I.T." href="https://support.ccsd.net/" target="_blank">Contact I.T.</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_185772">
+<header>
+<div class="fsElementHeaderContent">
+<div><a id="info"></a></div>
+</div>
+</header>
+<div class="fsElementContent">
+<h3>How CCSD Protects Students</h3>
+<p>Clark County School District (CCSD) prioritizes student safety by implementing robust cybersecurity measures. These include using tools like GoGuardian to filter and monitor student devices, ensuring endpoint protection on all district computers, and maintaining 24/7 monitoring of district systems to detect and address potential threats. CCSD is committed to transparency, with browsing activity monitored only on district-provided devices, ensuring a secure and trustworthy digital environment for students.</p>
+</div>
+</div>
+<div class="fsElement fsEmbed" data-use-new="true" id="fsEl_185773">
+<div class="fsElementContent">
+<div class="timeline">
+<div class="timeline-item left">
+<h3 style="font-size:21px !important;"><i class="fas fa-shield-alt"></i> Tools Used</h3>
+<p>GoGuardian for filtering and monitoring student devices.</p>
+</div>
+<div class="timeline-item right">
+<h3 style="font-size:21px !important;"><i class="fas fa-desktop"></i> Endpoint Protection</h3>
+<p>Endpoint protection on all District computers.</p>
+</div>
+<div class="timeline-item left">
+<h3 style="font-size:21px !important;"><i class="fas fa-clock"></i> 24/7 Monitoring</h3>
+<p>24/7 monitoring of district systems.</p>
+</div>
+<div class="timeline-item right">
+<h3 style="font-size:21px !important;"><i class="fas fa-eye"></i> Transparency</h3>
+<p>Browsing activity is monitored only on CCSD devices.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -10,7 +10,8 @@
                 BURK HORIZON / SOUTHWEST SUNSET HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Davis, Chancellor R<br>
+                        
+Principal: Davis, Chancellor R<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8150<br/>
                                 Fax: 702-799-1207<br/>
 <a href="http://maps.google.com/maps?q=4560 WEST HARMON AVENUE,+LAS VEGAS,+NV+89103">Map</a>
-                                 | <a href="https://www.burkhs.org/">Website</a> </br></br></br></p>
-<b>Region:</b> ESD                                                             <p><b>Motto:</b> <strong>B</strong>uilding <strong>U</strong>p <strong>R</strong>elevant <strong>K</strong>nowledge.</p> <p><b>Mission:</b> The mission of Burk High School is to empower students to graduate and plan for positive life options.</p>
-</div>
+                                 | <a href="https://www.burkhs.org/">Website</a> 
+<b>Region:</b> AS                                                             <p><b>Motto:</b> <strong>B</strong>uilding <strong>U</strong>p <strong>R</strong>elevant <strong>K</strong>nowledge.</p> <p><b>Mission:</b> The mission of Burk High School is to empower students to graduate and plan for positive life options.</p>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

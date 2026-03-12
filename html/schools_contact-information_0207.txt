@@ -10,7 +10,8 @@
                 OBER, D'VORRE AND HAL ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Baker, Melissa L<br>
+                        
+Principal: Baker, Melissa L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6077<br/>
                                 Fax: 702-799-6704<br/>
 <a href="http://maps.google.com/maps?q=3035 DESERT MARIGOLD LANE,+LAS VEGAS,+NV+89135">Map</a>
-                                 | <a href="https://oberelementary.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://oberelementary.com/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Four Walls with Tomorrow Inside</p> <p><b>Mission:</b> The Ober community creates a safe, nurturing environment where students are empowered to reach their full academic and social potential to become compassionate, respectful, and responsible citizens.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

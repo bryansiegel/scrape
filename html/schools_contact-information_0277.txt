@@ -10,7 +10,8 @@
                 SCHOFIELD, JACK LUND MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Knepp, Terri K<br>
+                        
+Principal: Knepp, Terri K<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-2290<br/>
                                 Fax: 702-799-5717<br/>
 <a href="http://maps.google.com/maps?q=8625 SPENCER STREET,+LAS VEGAS,+NV+89123">Map</a>
-                                 | <a href="http://www.schofieldms.com/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.schofieldms.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> We choose today what we become tomorrow.</p> <p><b>Mission:</b> At Schofield Middle School, we will provide a quality educational environment in which students are encouraged to realize their fullest potential while becoming responsible citizens.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

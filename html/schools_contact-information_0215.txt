@@ -10,19 +10,20 @@
                 DEARING, LAURA ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Young Yock, Deborah <br>
+                        
+Principal: Young Yock, Deborah K<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
-<!-- 								Young Yock, Deborah  --><!-- <br> -->
-                                1905 ATLANTIC STREET<br>
-                                LAS VEGAS, NV 89104<br>
+<!-- 								Young Yock, Deborah K --><!-- <br> -->
+                                3046 FERNDALE STREET<br>
+                                LAS VEGAS, NV 89121<br>
                                 Phone: 702-799-7710<br/>
                                 Fax: 702-799-8798<br/>
-<a href="http://maps.google.com/maps?q=1905 ATLANTIC STREET,+LAS VEGAS,+NV+89104">Map</a>
-                                 | <a href="http://dearingelementary.org/">Website</a> </br></br></br></p>
+<a href="http://maps.google.com/maps?q=3046 FERNDALE STREET,+LAS VEGAS,+NV+89121">Map</a>
+                                 | <a href="http://dearingelementary.org/">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> Dearing Dolphins Dare to Dream</p> <p><b>Mission:</b> At Laura Dearing we have high academic, ethical, and social expectations for all students. As a community, we are dedicated to teaching, collaborating, and evaluating our strategies to ensure every student's success.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

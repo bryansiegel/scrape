@@ -10,7 +10,8 @@
                 BOWLER, JOSEPH L. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Jenkins, Christopher A<br>
+                        
+Principal: Jenkins, Christopher A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-346-1900<br/>
                                 Fax: 702-346-1914<br/>
 <a href="http://maps.google.com/maps?q=451 VINCEN LEAVITT AVENUE,+BUNKERVILLE,+NV+89007">Map</a>
-                                 | <a href="https://jbowlerbighorns.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://jbowlerbighorns.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Bighorns climb to high expectations</p> <p><b>Mission:</b> Joseph L. Bowler Sr. Elementary School is dedicated to creating an environment in which each child can achieve his/her own potential through academic and interpersonal successes.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 PARADISE PROFESSIONAL DEVELOPMENT ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Johnson, Pamela C.<br>
+                        
+Principal: Johnson, Pamela C.<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5660<br/>
                                 Fax: 702-895-2038<br/>
 <a href="http://maps.google.com/maps?q=900 COTTAGE GROVE AVENUE,+LAS VEGAS,+NV+89119">Map</a>
-                                 | <a href="http://www.paradisepds.com/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.paradisepds.com/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Power Through Learning</p> <p><b>Mission:</b> The Paradise Professional Development School provides a powerful learning environment which fosters responsible decision-making, values diversity, and enables all students to master essential skills and concepts in reading, writing, and mathematics. Through continual professional renewal, Paradise Professional Development School teachers and University of Nevada, Las Vegas partners accept the responsibility to ensure that students reach their highest potential.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

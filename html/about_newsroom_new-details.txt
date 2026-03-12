@@ -1,0 +1,12 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">New Details</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_127789">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_127790">
+<div class="fsElement fsPostElement fsPost fsSingleItem" data-overwrite-title="true" data-use-new="true" id="fsEl_127792">
+<div class="fsElementContent">
+<div class="fsElementEmpty">No post to display.</div>
+</div>
+</div>
+</div>
+</div>
+</main>

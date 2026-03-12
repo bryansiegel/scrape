@@ -10,7 +10,8 @@
                 IVERSON, MERVIN ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Sabo, Kent E<br>
+                        
+Principal: Sabo, Kent E<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7260<br/>
                                 Fax: 702-799-7329<br/>
 <a href="http://maps.google.com/maps?q=1575 S HOLLYWOOD BLVD,+LAS VEGAS,+NV+89142">Map</a>
-                                 | <a href="https://www.iversonelementary.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.iversonelementary.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Spreading Our Wings ...Shaping America's Future</p> <p><b>Mission:</b> The Iverson Elementary community creates excitement for learning by providing rich educational experiences in a safe and successful environment. By meeting the needs and developing the potential of all our students, we prepare them to move confidently into the future with courage, strength and grace; like eagles.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

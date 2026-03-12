@@ -10,7 +10,8 @@
                 TAYLOR, GLEN C. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Garman-Doetch, Tara L<br>
+                        
+Principal: Garman-doetch, Tara L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6892<br/>
                                 Fax: 702-799-2276<br/>
 <a href="http://maps.google.com/maps?q=2655 SIENA HEIGHTS DRIVE,+HENDERSON,+NV+89052">Map</a>
-                                 | <a href="http://www.glentaylorelementary.com/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.glentaylorelementary.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> All roads lead to knowledge, knowledge leads to success.</p> <p><b>Mission:</b> We are dedicated to the development of individual strengths, talents, and the assurance of academic excellence for all students in a positive, caring, and supportive environment.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

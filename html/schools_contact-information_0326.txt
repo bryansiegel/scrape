@@ -10,7 +10,8 @@
                 RONNOW, C.C. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Crawford, Michelee Q<br>
+                        
+Principal: Crawford, Michelee Q<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7159<br/>
                                 Fax: 702-799-7164<br/>
 <a href="http://maps.google.com/maps?q=1100 LENA STREET,+LAS VEGAS,+NV+89101">Map</a>
-                                 | <a href="https://www.ccronnow.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.ccronnow.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Strive - Learn - Achieve - Succeed - Together Everyone Achieves More</p> <p><b>Mission:</b> Our school community will provide a world-class education by implementing a common core curriculum based on state and district standards where student proficiency is monitored and instruction is adjusted to promote high achievement for each student. </p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

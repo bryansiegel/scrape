@@ -10,7 +10,8 @@
                 PALO VERDE HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Schumacher, Lisa M<br>
+                        
+Principal: Schumacher, Lisa M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-1450<br/>
                                 Fax: 702-799-1455<br/>
 <a href="http://maps.google.com/maps?q=333 PAVILLION CENTER DRIVE,+LAS VEGAS,+NV+89144">Map</a>
-                                 | <a href="http://www.paloverde.org/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.paloverde.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Making Our Mark</p> <p><b>Mission:</b> The mission of Palo Verde High School is to prepare students to realize their academic, creative, emotional, physical, social, and career potentials as contributing members of society in a community of mutual respect.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

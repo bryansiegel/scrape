@@ -10,7 +10,8 @@
                 GEHRING, ROGER D. ACDMY OF SCI AND TECH<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Robinson, Sarah M<br>
+                        
+Principal: Robinson, Sarah M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6899<br/>
                                 Fax: 702-799-6891<br/>
 <a href="http://maps.google.com/maps?q=1155 EAST RICHMAR AVENUE,+LAS VEGAS,+NV+89123">Map</a>
-                                 | <a href="https://gehringes.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://gehringes.com/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Learning today - Leading tomorrow</p> <p><b>Mission:</b> Roger D. Gehring Elementary School is a safe, nurturing learning environment that ensures student success through a partnership of students, staff, and community to build a strong foundation of citizens who positively impact the future.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

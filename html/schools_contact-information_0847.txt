@@ -10,7 +10,8 @@
                 MILEY ACHIEVEMENT CENTER SECONDARY<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Vattiato, Joanne M<br>
+                        
+Principal: Vattiato, Joanne M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5631<br/>
                                 Fax: 702-799-5642<br/>
 <a href="http://maps.google.com/maps?q=245 NORTH PECOS ROAD,+LAS VEGAS,+NV+89101">Map</a>
-                                 | <a href="http://www.mileyachievementcenter.net">Website</a> </br></br></br></p>
-<b>Region:</b> <p><b>Motto:</b> It's all about respect.</p> <p><b>Mission:</b> Students who have emotional difficulties will benefit from their education; academically, socially, and vocationally by receiving direct instruction and community experiences.</p>
-</div>
+                                 | <a href="http://www.mileyachievementcenter.net">Website</a> 
+<b>Region:</b> 3                                                             <p><b>Motto:</b> It's all about respect.</p> <p><b>Mission:</b> Students who have emotional difficulties will benefit from their education; academically, socially, and vocationally by receiving direct instruction and community experiences.</p>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

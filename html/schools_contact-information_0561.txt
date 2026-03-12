@@ -10,7 +10,8 @@
                 JYDSTRUP, HELEN ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Miani, Christina M<br>
+                        
+Principal: Miani, Christina M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-8140<br/>
                                 Fax: 702-799-8198<br/>
 <a href="http://maps.google.com/maps?q=5150 DUNES VILLE ST,+LAS VEGAS,+NV+89118">Map</a>
-                                 | <a href="https://jydstrupelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://jydstrupelementary.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> A Nice Place For Kids</p> <p><b>Mission:</b> Helen Jydstrup School is committed to improve the quality of education for all students, by being accountable for academic achievement, embracing cultural diversity, and making Jydstrup a safe, orderly, and desirable place in which to learn and succeed.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

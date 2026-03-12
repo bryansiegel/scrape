@@ -2,27 +2,30 @@
 import subprocess
 import sys
 
+
 def run_script(script_name):
-    """Runs a python script and checks for errors."""
-    print(f"--- Running {script_name} ---")
+    """Runs a python script, streaming output in real time."""
+    print(f"--- Running {script_name} ---", flush=True)
     try:
-        # Using sys.executable to ensure we use the same python interpreter
-        result = subprocess.run([sys.executable, script_name], check=True, text=True, capture_output=True)
-        print(result.stdout)
-        if result.stderr:
-            print("--- Errors ---")
-            print(result.stderr)
-        print(f"--- Finished {script_name} ---\
-")
-    except subprocess.CalledProcessError as e:
-        print(f"!!! Error running {script_name} !!!")
-        print(e.stdout)
-        print(e.stderr)
-        print(f"--- Halting execution due to error in {script_name} ---")
-        sys.exit(1) # Exit the script if a scraper fails
+        process = subprocess.Popen(
+            [sys.executable, "-u", script_name],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            text=True,
+            bufsize=1,
+        )
+        for line in process.stdout:
+            print(line, end="", flush=True)
+        process.wait()
+        if process.returncode != 0:
+            print(f"!!! {script_name} exited with code {process.returncode} !!!", flush=True)
+            print(f"--- Halting execution due to error in {script_name} ---", flush=True)
+            sys.exit(1)
+        print(f"--- Finished {script_name} ---\n", flush=True)
     except FileNotFoundError:
-        print(f"!!! Error: {script_name} not found. !!!")
+        print(f"!!! Error: {script_name} not found. !!!", flush=True)
         sys.exit(1)
+
 
 if __name__ == "__main__":
     run_script("scraper.py")
@@ -31,4 +34,4 @@ if __name__ == "__main__":
     run_script("scraper_drive_links.py")
     run_script("scraper_google_sites.py")
     run_script("add_to_database.py")
-    print("--- All scraping scripts completed. ---")
+    print("--- All scraping scripts completed. ---", flush=True)

@@ -10,19 +10,20 @@
                 WENGERT, CYRIL ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Swoboda, Kimberly M<br>
+                        
+Principal: Swoboda, Kimberly M<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
 <!-- 								Swoboda, Kimberly M --><!-- <br> -->
-                                2001 WINTERWOOD BOULEVARD<br>
-                                LAS VEGAS, NV 89142<br>
+                                1905 ATLANTIC STREET<br>
+                                LAS VEGAS, NV 89104<br>
                                 Phone: 702-799-8600<br/>
                                 Fax: 702-799-0116<br/>
-<a href="http://maps.google.com/maps?q=2001 WINTERWOOD BOULEVARD,+LAS VEGAS,+NV+89142">Map</a>
-                                 | <a href="https://wengertes.enschool.org/">Website</a> </br></br></br></p>
+<a href="http://maps.google.com/maps?q=1905 ATLANTIC STREET,+LAS VEGAS,+NV+89104">Map</a>
+                                 | <a href="https://wengertes.enschool.org/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> We Celebrate All Children</p> <p><b>Mission:</b> The mission of Wengert Elementary School is to provide quality education so that students will be able to read with comprehension, apply their mathematical thinking to real world applications, write to communicate effectively, work cooperatively and demonstrate good citizenship.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

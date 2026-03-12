@@ -10,7 +10,8 @@
                 BOOKER SR. INNOVATIVE, KERMIT R. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Skyles, Cullen T<br>
+                        
+Principal: Skyles, Cullen T<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4720<br/>
                                 Fax: 702-799-4727<br/>
 <a href="http://maps.google.com/maps?q=2277 N. MARTIN L KING BLVD,+LAS VEGAS,+NV+89106">Map</a>
-                                 | <a href="https://kermitbooker.enschool.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://kermitbooker.enschool.org/">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> It Takes An Entire Village To Raise A Child</p> <p><b>Mission:</b> The Booker staff believes all students have the potential to be vital contributors to their community. We will encourage their academic, emotional, social, and creative growth. We accept the responsibility of providing a positive environment for achieving these educational goals.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -1,0 +1,712 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Teaching and Learning Unit</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_11944">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_11945">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208004">
+<div class="fsElementContent">
+<p><a class="button-7" href="https://www.ccsd.net/uploaded/themes/default_25/directory/org-chart/ccsd-org-chart.pdf">Organizational Chart</a></p>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_12105">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-12108" role="presentation">
+<a aria-controls="fsEl_12108" aria-selected="false" href="#fs-panel-12108" role="tab">Academic Unit</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208016" role="presentation">
+<a aria-controls="fsEl_208016" aria-selected="false" href="#fs-panel-208016" role="tab">Career and Technical Education Department </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208014" role="presentation">
+<a aria-controls="fsEl_208014" aria-selected="false" href="#fs-panel-208014" role="tab">College and Career Readiness and School Choice Division (CCRSC) </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208018" role="presentation">
+<a aria-controls="fsEl_208018" aria-selected="false" href="#fs-panel-208018" role="tab">Curriculum and Instruction Division </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208020" role="presentation">
+<a aria-controls="fsEl_208020" aria-selected="false" href="#fs-panel-208020" role="tab">Digital Learning and Instructional Technology Department </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208022" role="presentation">
+<a aria-controls="fsEl_208022" aria-selected="false" href="#fs-panel-208022" role="tab">Early Childhood Education Department </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12112" role="presentation">
+<a aria-controls="fsEl_12112" aria-selected="false" href="#fs-panel-12112" role="tab">Education Services Division and Student Athletics and Activities</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208024" role="presentation">
+<a aria-controls="fsEl_208024" aria-selected="false" href="#fs-panel-208024" role="tab">English Language Learner Division </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208026" role="presentation">
+<a aria-controls="fsEl_208026" aria-selected="false" href="#fs-panel-208026" role="tab">Fine and Performing Arts Department </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208028" role="presentation">
+<a aria-controls="fsEl_208028" aria-selected="false" href="#fs-panel-208028" role="tab">Guidance and Counseling Department </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208030" role="presentation">
+<a aria-controls="fsEl_208030" aria-selected="false" href="#fs-panel-208030" role="tab">Literacy and Language Development Department </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208032" role="presentation">
+<a aria-controls="fsEl_208032" aria-selected="false" href="#fs-panel-208032" role="tab">Mathematics Department </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12114" role="presentation">
+<a aria-controls="fsEl_12114" aria-selected="false" href="#fs-panel-12114" role="tab">Region 1, 2 and 3</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208038" role="presentation">
+<a aria-controls="fsEl_208038" aria-selected="false" href="#fs-panel-208038" role="tab">Science, Health, PE, and Driver Education Department </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208040" role="presentation">
+<a aria-controls="fsEl_208040" aria-selected="false" href="#fs-panel-208040" role="tab">Social Studies and World Language Department </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12106" role="presentation">
+<a aria-controls="fsEl_12106" aria-selected="false" href="#fs-panel-12106" role="tab">Student Services Division</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12110" role="presentation">
+<a aria-controls="fsEl_12110" aria-selected="false" href="#fs-panel-12110" role="tab">Teaching and Learning</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-12116" role="presentation">
+<a aria-controls="fsEl_12116" aria-selected="false" href="#fs-panel-12116" role="tab">The Transformation Network</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12108" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12108" aria-expanded="false" href="#fs-panel-12108" role="button">Academic Unit</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12108"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12109">
+<div class="fsElementContent">
+			The Academic Unit within the Clark County School District (CCSD) is responsible for overseeing and supporting the district’s instructional programs and academic initiatives. Its primary focus is to ensure all students receive a high-quality education aligned with state standards and district goals. The unit provides leadership in curriculum development, instructional strategies, assessment, and professional learning to drive student achievement across all grade levels. By working closely with schools, educators, and other departments, the Academic Unit plays a vital role in advancing educational equity, fostering innovation, and promoting continuous improvement throughout the district.
+<p><a class="button-1" href="https://academic-unit.ccsd.net" target="_blank">More Information</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208016" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208016" aria-expanded="false" href="#fs-panel-208016" role="button">Career and Technical Education Department </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208016"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208017">
+<div class="fsElementContent">
+<div><a class="button-1" href="https://fedpro.dreamhosters.com/" target="_blank">More Information</a></div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208014" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208014" aria-expanded="false" href="#fs-panel-208014" role="button">College and Career Readiness and School Choice Division (CCRSC) </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208014"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208015">
+<div class="fsElementContent">
+<a class="button-1" href="https://academic-unit.ccsd.net/divisions-and-departments/" target="_blank">More Information</a>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208018" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208018" aria-expanded="false" href="#fs-panel-208018" role="button">Curriculum and Instruction Division </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208018"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208019">
+<div class="fsElementContent">
+<a class="button-1" href="https://academic-unit.ccsd.net/divisions-and-departments/" target="_blank">More Information</a>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208020" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208020" aria-expanded="false" href="#fs-panel-208020" role="button">Digital Learning and Instructional Technology Department </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208020"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208021">
+<div class="fsElementContent">
+<a class="button-1" href="https://cpd.ccsd.net/departments/digital-learning-and-instructional-technology/" target="_blank">More Information</a>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208022" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208022" aria-expanded="false" href="#fs-panel-208022" role="button">Early Childhood Education Department </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208022"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208023">
+<div class="fsElementContent">
+<a class="button-1" href="https://academic-unit.ccsd.net/divisions-and-departments/" target="_blank">More Information</a>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12112" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12112" aria-expanded="false" href="#fs-panel-12112" role="button">Education Services Division and Student Athletics and Activities</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12112"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12113">
+<div class="fsElementContent">
+			Our mission is to enhance academic achievement and responsible citizenship through participation in activities, fine arts, and athletics.
+
+<p><a class="button-1" href="https://esd.ccsd.net/departments/secondary-student-athletics-and-activities/" target="_blank">More Information</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208024" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208024" aria-expanded="false" href="#fs-panel-208024" role="button">English Language Learner Division </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208024"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208025">
+<div class="fsElementContent">
+<a class="button-1" href="https://academic-unit.ccsd.net/divisions-and-departments/" target="_blank">More Information</a>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208026" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208026" aria-expanded="false" href="#fs-panel-208026" role="button">Fine and Performing Arts Department </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208026"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208027">
+<div class="fsElementContent">
+<a class="button-1" href="https://academic-unit.ccsd.net/divisions-and-departments/" target="_blank">More Information</a>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208028" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208028" aria-expanded="false" href="#fs-panel-208028" role="button">Guidance and Counseling Department </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208028"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208029">
+<div class="fsElementContent">
+<a class="button-1" href="https://academic-unit.ccsd.net/divisions-and-departments/" target="_blank">More Information</a>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208030" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208030" aria-expanded="false" href="#fs-panel-208030" role="button">Literacy and Language Development Department </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208030"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208031">
+<div class="fsElementContent">
+<a class="button-1" href="https://cpd.ccsd.net/departments/k-12-literacy-and-language-development/" target="_blank">More Information</a>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208032" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208032" aria-expanded="false" href="#fs-panel-208032" role="button">Mathematics Department </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208032"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208033">
+<div class="fsElementContent">
+<a class="button-1" href="https://cpd.ccsd.net/departments/k-12-mathematics/" target="_blank">More Information</a>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12114" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12114" aria-expanded="false" href="#fs-panel-12114" role="button">Region 1, 2 and 3</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12114"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12115">
+<div class="fsElementContent">
+<h2>Region 1</h2>
+<p><span><strong>Region Superintendent:</strong> Lindsay Tomlinson, <a href="mailto:ozmunlm@nv.ccsd.net">ozmunlm@nv.ccsd.net</a></span></p>
+<p><strong>School Associate Superintendent:</strong> Hilary Malloy, <a href="mailto:jonesh1@nv.ccsd.net">jonesh1@nv.ccsd.net</a></p>
+<p><span><strong>School Associate Superintendent:</strong> Louis Markouzis, <a href="mailto:markolj@nv.ccsd.net">markolj@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Maurice Perkins, <a href="mailto:perkimj@nv.ccsd.net">perkimj@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Scarlett Perryman, <a href="mailto:perrysh@nv.ccsd.net">perrysh@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Rebecca Tschinkel, <a href="mailto:tschirj@nv.ccsd.net">tschirj@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Andrea Womack, <a href="mailto:womacac@nv.ccsd.net">womacac@nv.ccsd.net</a></span><br/>
+<span><strong>Phone Number:</strong> (702) 799-0648</span></p>
+<ul>
+<li>Advanced Technologies Academy</li>
+<li>Allen, Dean LaMar ES</li>
+<li>Antonello, Lee ES</li>
+<li>Arbor View HS</li>
+<li>Becker Sr., Ernest A. MS</li>
+<li>Bilbray, James H. ES</li>
+<li>Bowler, Grant ES</li>
+<li>Bowler, Sr., Joseph L. ES</li>
+<li>Bozarth, Henry and Evelyn ES</li>
+<li>Bridger, Jim MS</li>
+<li>Brinley, J. Harold MS</li>
+<li>Bruner, Lucile S. ES</li>
+<li>Bryan, Richard H. ES</li>
+<li>Bunker, Berkeley L. ES</li>
+<li>Cadwallader, Ralph L. MS</li>
+<li>Cahlan, Marion ES</li>
+<li>Canyon Springs HS and the Leadership and Law Preparatory Academy</li>
+<li>Carl, Kay ES</li>
+<li>Centennial HS</li>
+<li>Cheyenne HS</li>
+<li>Cimarron-Memorial HS</li>
+<li>Conners, Eileen ES</li>
+<li>Cozine, Steve and Linda ES</li>
+<li>Craig, Lois ES</li>
+<li>Cram, Brian and Teri MS</li>
+<li>Culley, Paul E. ES</li>
+<li>Darnell, Marshall C. ES</li>
+<li>Deskin, Ruthe ES</li>
+<li>Detwiler, Ollie ES</li>
+<li>Divich, Kenneth ES</li>
+<li>Eisenberg, Dorothy ES</li>
+<li>Elizondo, Raul P. ES</li>
+<li>Escobedo, Edmundo “Eddie” Sr. MS</li>
+<li>Findlay, Clifford O. (Pete) MS</li>
+<li>Fitzgerald, H. P. ES</li>
+<li>Fong, Wing and Lilly ES</li>
+<li>Garehime, Edith ES</li>
+<li>Gibson, Robert O. Leadership Academy</li>
+<li>Gilbert, C. V. T. ES</li>
+<li>Goynes, Theron H. and Naomi D. ES</li>
+<li>Guy, Addeliar D. III ES</li>
+<li>Hayden, Don E. ES</li>
+<li>Heckethorn, Howard E. ES</li>
+<li>Hoggard, Mabel W. ES</li>
+<li>Hughes, Charles Arthur MS</li>
+<li>Indian Springs ES/MS/HS</li>
+<li>Johnston, Carroll M. STEM Academy of Environmental Studies</li>
+<li>Kahre, Marc A. ES</li>
+<li>Katz, Edythe and Lloyd ES</li>
+<li>Leavitt, Justice Myron E. MS</li>
+<li>Legacy HS</li>
+<li>Lied STEM Academy MS</li>
+<li>Lincoln ES</li>
+<li>Lowman, Mary and Zel ES</li>
+<li>Lummis, William ES</li>
+<li>Lundy, Earl B. ES</li>
+<li>Lyon, W. Mack MS</li>
+<li>Mackey, Jo iLead Academy for the Digital Sciences</li>
+<li>Manch, J. E. ES</li>
+<li>Martinez, Reynaldo L. ES</li>
+<li>May, Ernest J. ES</li>
+<li>McCall, Quannah ES</li>
+<li>McMillan, James B ES</li>
+<li>McWilliams, J. T. ES</li>
+<li>Moapa Valley HS</li>
+<li>Mojave HS</li>
+<li>Molasky, Irwin and Susan JHS</li>
+<li>Neal, Joseph M. ES</li>
+<li>Northeast Career and Technical Academy</li>
+<li>Northwest Career and Technical Academy</li>
+<li>O’Roarke, Thomas J. ES</li>
+<li>Parson, Claude H. and Stella M. ES</li>
+<li>Perkins, Ute V. ES</li>
+<li>Priest, Richard C. ES</li>
+<li>Reed, Doris M. ES</li>
+<li>Rhodes, Betsy A. ES</li>
+<li>Ronzone, Bertha ES</li>
+<li>Saville, Anthony MS</li>
+<li>Scherkenbach, William and Mary ES</li>
+<li>Scott, Jesse D. ES</li>
+<li>Sedway, Marvin M. MS</li>
+<li>Shadow Ridge HS</li>
+<li>Simmons, Eva G. ES</li>
+<li>Swainston, Theron L. MS</li>
+<li>Tarr, Sheila Academy of International Studies ES</li>
+<li>Thompson, Sandra Lee ES</li>
+<li>Tobler, R. E. ES</li>
+<li>Toland, Helen Anderson International Academy ES</li>
+<li>Triggs, Vincent L. ES</li>
+<li>Twin Lakes ES</li>
+<li>Veterans Tribute Career and Technical Academy</li>
+<li>Virgin Valley ES</li>
+<li>Virgin Valley HS</li>
+<li>Ward, Kitty McDonough ES</li>
+<li>Watson, Fredric W. ES</li>
+<li>Western HS</li>
+<li>Preparatory Institute, School for Academic Excellence at Charles |<br/>
+	West Hall (West Prep) HS</li>
+<li>Wolfe, Eva M. ES</li>
+<li>Woolley, Gwendolyn ES</li>
+</ul>
+<h2>Region 2</h2>
+<p><span><strong>Region Superintendent:</strong> Dr. Reece Oswalt, <a href="mailto:oswalre@nv.ccsd.net">oswalre@nv.ccsd.net</a></span></p>
+<p><strong>School Associate Superintendent:</strong> Shawn Halland, <a href="mailto:hallasl@nv.ccsd.net">hallasl@nv.ccsd.net</a></p>
+<p>span&gt;<br/>
+<span><strong>School Associate Superintendent:</strong> Anna Hurst, <a href="mailto:hurstam@nv.ccsd.net">hurstam@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Monica Lang, <a href="mailto:mcdowmm@nv.ccsd.net">mcdowmm@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Gregory Misel, <a href="mailto:miselgp@nv.ccsd.net">miselgp@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Melissa Roehm, <a href="mailto:roehmmm@nv.ccsd.net">roehmmm@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Lynn Walker, <a href="mailto:petrijr@nv.ccsd.net">walkejr@nv.ccsd.net</a></span><br/>
+<span><strong>Phone Number:</strong> (702) 799-2939</span></p>
+<p> </p>
+<ul>
+<li>Abston, Sandra B. ES</li>
+<li>Adcock, O. K. ES</li>
+<li>Alamo, Tony ES</li>
+<li>Batterman, Kathy L. ES</li>
+<li>Beckley, Will ES</li>
+<li>Bell, Rex ES</li>
+<li>Bendorf, Patricia A. ES</li>
+<li>Berkley, Shelley ES</li>
+<li>Blue Diamond ES</li>
+<li>Bonanza HS</li>
+<li>Bonner, John W. ES</li>
+<li>Bryan, Roger M. ES</li>
+<li>Canarelli, Lawrence and Heidi MS</li>
+<li>Cannon, Helen C. JHS</li>
+<li>Cashman, James MS</li>
+<li>Central Technical Training Academy</li>
+<li>Chaparral HS</li>
+<li>Christensen, M. J. ES</li>
+<li>Clark, Ed W. HS</li>
+<li>Crestwood ES</li>
+<li>Dailey, Jack ES</li>
+<li>Decker, C. H. ES</li>
+<li>Del Sol Academy of the Performing Arts</li>
+<li>Derfelt, Herbert A. ES</li>
+<li>Desert Oasis HS</li>
+<li>Diskin, Pat A. ES</li>
+<li>Dondero, Harvey N. ES</li>
+<li>Durango HS</li>
+<li>Earl, Marion B. ES</li>
+<li>Faiss, Wilbur and Theresa MS</li>
+<li>Ferron, William E. ES</li>
+<li>Fertitta, Victoria MS</li>
+<li>Fine, Mark L. ES</li>
+<li>Forbuss, Robert L. ES</li>
+<li>Fremont, John C. Professional Development MS</li>
+<li>French, Doris ES</li>
+<li>Frias, Charles and Phyllis ES</li>
+<li>Garside, Frank F. JHS</li>
+<li>Givens, Linda Rankin ES</li>
+<li>Global Community HS</li>
+<li>Goodsprings ES</li>
+<li>Goolsby, Judy and John L. ES</li>
+<li>Gray, R. Guild ES</li>
+<li>Griffith, E. W. ES</li>
+<li>Guinn, Kenny C. JHS</li>
+<li>Gunderson, Barry and June MS</li>
+<li>Hancock, Doris ES</li>
+<li>Harris, George E. ES</li>
+<li>Hayes, Keith C. and Karen W. ES</li>
+<li>Hollingsworth, Howard ES STEM Academy</li>
+<li>Hyde Park MS</li>
+<li>Jacobson, Walter E. ES</li>
+<li>Johnson, Walter JHS Academy of International Studies</li>
+<li>Jones Blackhurst, Jan ES</li>
+<li>Jydstrup, Helen M. ES</li>
+<li>Kim, Frank ES</li>
+<li>Knudson, K. O. Academy of the Arts</li>
+<li>Lake, Robert E. ES</li>
+<li>Lawrence, Clifford J. JHS</li>
+<li>Las Vegas Academy of the Arts</li>
+<li>Mack, Jerome D. MS</li>
+<li>Mathis, Dr. Beverly S. ES</li>
+<li>Miller, John F.</li>
+<li>Ober, D'Vorre and Hal ES</li>
+<li>Orr, William E. MS</li>
+<li>Ortwein, Dennis ES</li>
+<li>Palo Verde HS</li>
+<li>Paradise Professional Development ES</li>
+<li>Park, John S. ES</li>
+<li>Piggott, Clarence Academy of International Studies ES</li>
+<li>Pittman, Vail ES</li>
+<li>Red Rock ES</li>
+<li>Reedom, Carolyn S. ES</li>
+<li>Ries, Aldeane Comito ES</li>
+<li>Rogers, Lucille S. ES</li>
+<li>Rogich, Sig MS</li>
+<li>Roundy, Dr. C. Owen ES</li>
+<li>Rowe, Lewis E. ES</li>
+<li>Sandy Valley ES/MS/HS</li>
+<li>Sawyer, Grant MS</li>
+<li>Sierra Vista HS</li>
+<li>Smith, Helen M. ES</li>
+<li>Snyder, Don and Dee ES</li>
+<li>Snyder, William E. ES</li>
+<li>Southwest Career and Technical Academy</li>
+<li>Spring Valley HS</li>
+<li>Staton, Ethel W. ES</li>
+<li>Steele, Judith D. ES</li>
+<li>Stewart, Helen J.</li>
+<li>Stuckey, Evelyn ES</li>
+<li>Tanaka, Wayne N. ES</li>
+<li>Tarkanian, Lois and Jerry MS</li>
+<li>Thiriot, Joseph E. ES</li>
+<li>Thompson, Tyrone ES</li>
+<li>Tomiyasu, Bill Y. ES</li>
+<li>Ullom, J. M. ES</li>
+<li>Valley HS</li>
+<li>Vassiliadis, Billy and Rosemary ES</li>
+<li>Vegas Verdes ES</li>
+<li>Ward, Gene ES</li>
+<li>Warren, Rose ES</li>
+<li>Wasden, Howard ES</li>
+<li>West Career and Technical Academy</li>
+<li>Woodbury, C. W. MS</li>
+<li>Wright, William V. ES</li>
+</ul>
+<h2>Region 3</h2>
+<p><span><strong>Region Superintendent:</strong> Theodore Robison III, <a href="mailto:robist2@nv.ccsd.net">robist2@nv.ccsd.net</a></span></p>
+<p><strong>School Associate Superintendent:</strong> Darlin Delgado, <a href="mailto:delgadc@nv.ccsd.net">delgadc@nv.ccsd.net</a></p>
+<p>span&gt;<br/>
+<span><strong>School Associate Superintendent:</strong> Ronnie Guerzon, <a href="mailto:guerzra@nv.ccsd.net">guerzra@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Emily Petosa, <a href="mailto:martiee3@nv.ccsd.net">martiee3@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Robert Solomon, <a href="mailto:solomrw@nv.ccsd.net">solomrw@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Kortney Smith, <a href="mailto:solomrw@nv.ccsd.net">smithk19@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Mikie Young, <a href="mailto:youngm@nv.ccsd.net">youngm@nv.ccsd.net</a></span><br/>
+<span><strong>Phone Number:</strong> (702) 799-0059</span></p>
+<p> </p>
+<ul>
+<li>Adams, Kirk L. ES</li>
+<li>Bailey, Dr. William H. "Bob" MS</li>
+<li>Bailey, Sister Robert Joseph ES</li>
+<li>Barber, Shirley A. ES</li>
+<li>Bartlett, Selma F. ES</li>
+<li>Basic Academy of International Studies</li>
+<li>Bass, John C. ES</li>
+<li>Beatty, John R. ES</li>
+<li>Bennett, William G. ES</li>
+<li>Boulder City HS</li>
+<li>Bracken, Walter ES</li>
+<li>Brookman, Eileen B. ES</li>
+<li>Brown, B. Mahlon JHS</li>
+<li>Brown, Hannah Marrie ES</li>
+<li>Burkholder, Lyal Academy of Environmental Science</li>
+<li>Cambeiro, Arturo ES</li>
+<li>Cartwright, Roberta C. ES</li>
+<li>Coronado HS</li>
+<li>Cortez, Manuel J. ES</li>
+<li>Cortney, Francis H. JHS</li>
+<li>Cox, David M. ES</li>
+<li>Cunningham, Cynthia ES</li>
+<li>Desert Pines HS</li>
+<li>Diaz, Ruben P. ES</li>
+<li>Dooley, John A. ES</li>
+<li>East Career and Technical Academy</li>
+<li>Edwards, Elbert B. ES</li>
+<li>Eldorado HS</li>
+<li>Ellis, Robert and Sandy ES</li>
+<li>Foothill HS</li>
+<li>Galloway, Fay ES</li>
+<li>Garrett, Elton M. and Madelaine E JHS</li>
+<li>Gehring, Roger D. ES Academy of Science and Technology</li>
+<li>Gibson, James I. ES</li>
+<li>Goldfarb, Daniel ES</li>
+<li>Gragson, Oran K. ES</li>
+<li>Green Valley HS</li>
+<li>Greenspun, Barbara and Hank JHS</li>
+<li>Harney, Kathleen and Tim MS</li>
+<li>Heard, Lomie G. ES</li>
+<li>Herron, Fay ES</li>
+<li>Hewetson, Halle ES</li>
+<li>Hickey, Liliam Lujan ES</li>
+<li>Hill, Charlotte ES</li>
+<li>Hinman, Edna F. ES</li>
+<li>Hummel, John R. ES</li>
+<li>Iverson, Mervin R. ES</li>
+<li>Jenkins, Earl N. ES</li>
+<li>Keller, Charlotte and Jerry ES</li>
+<li>Keller, Duane D. MS</li>
+<li>Kesterson, Lorna J. ES</li>
+<li>King, Martha P. ES</li>
+<li>Lamping, Frank ES</li>
+<li>Las Vegas HS</li>
+<li>Laughlin JHS/HS</li>
+<li>Liberty HS</li>
+<li>Mack, Nate ES</li>
+<li>Mannion, Jack and Terry MS</li>
+<li>Martin, Roy W. MS</li>
+<li>McCaw, Gordon ES</li>
+<li>McDoniel, Estes M. ES</li>
+<li>Mendoza, John F. ES</li>
+<li>Miller, Bob MS</li>
+<li>Miller, Sandy Searles ES Academy for International Studies</li>
+<li>Miley Achievement Center</li>
+<li>Mitchell, Andrew ES</li>
+<li>Monaco, Mario C. and JoAnne MS</li>
+<li>Moore, William K. ES</li>
+<li>Morrow, Sue H. ES</li>
+<li>Mountain View ES</li>
+<li>Newton, Ulis ES</li>
+<li>O'Callaghan, Mike MS i3 Learn Academy</li>
+<li>Rancho HS</li>
+<li>Reid, Harry ES</li>
+<li>Roberts, Aggie ES</li>
+<li>Ronnow, C. C. ES</li>
+<li>Rundle, Richard J. ES</li>
+<li>Schofield, Jack Lund MS</li>
+<li>Schorr, Steve ES</li>
+<li>Sewell, C. T. ES</li>
+<li>Silverado HS</li>
+<li>Silvestri, Charles A. JHS</li>
+<li>Smalley, James E. and A. Rae ES</li>
+<li>Smith, J. D. MS</li>
+<li>South Career and Technical Academy</li>
+<li>Southeast Career and Technical Academy</li>
+<li>Squires, C. P. ES</li>
+<li>Stanford ES</li>
+<li>Stevens, Josh ES</li>
+<li>Sunrise Acres ES</li>
+<li>Sunrise Mountain HS</li>
+<li>Tate, Myrtle ES</li>
+<li>Taylor, Glen C. ES</li>
+<li>Taylor, Robert L. ES</li>
+<li>Treem, Harriet A. ES</li>
+<li>Twitchell, Neil C. ES</li>
+<li>Vanderburg, John C. ES</li>
+<li>Variety School</li>
+<li>Von Tobel, Ed MS</li>
+<li>Walker, J. Marlan International School ES</li>
+<li>Wallin, Shirley and Bill ES</li>
+<li>Webb, Del E. MS</li>
+<li>Wengert, Cyril ES</li>
+<li>White, Thurman Academy of the Performing Arts MS</li>
+<li>Whitney ES</li>
+<li>Wiener, Jr., Louis ES</li>
+<li>Williams, Tom ES</li>
+<li>Wolff, Elise L. ES</li>
+</ul>
+<h2>The Transformation Network</h2>
+<p><span><strong>Region Superintendent:</strong> Barry C. Bosacker, <a href="mailto:bosacbc@nv.ccsd.net">bosacbc@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Rebecca Lucero, <a href="mailto:lucerrm@nv.ccsd.net">lucerrm@nv.ccsd.net</a></span><br/>
+<span><strong>Phone Number:</strong> (702) 799-5868</span></p>
+<ul>
+<li>Booker, Sr., Kermit R. ES</li>
+<li>Cox, Clyde C. ES</li>
+<li>Dearing, Laura ES</li>
+<li>Dickens, D. L. “Dusty” ES</li>
+<li>Duncan, Ruby ES</li>
+<li>Earl, Ira J. ES</li>
+<li>Harmon, Harley ES</li>
+<li>Herr, Helen ES</li>
+<li>Jeffers, Jay W. ES</li>
+<li>Kelly, Matt ES</li>
+<li>King, Jr., Martin Luther ES</li>
+<li>Long, Walter V. ES</li>
+<li>Lunt, Robert ES</li>
+<li>Lynch, Ann ES</li>
+<li>Perkins, Dr. Claude G. ES</li>
+<li>Petersen, Dean ES</li>
+<li>Smith, Hal ES</li>
+<li>Tartan, John ES</li>
+<li>Thomas, Ruby S. ES</li>
+<li>Thorpe, Jim ES</li>
+<li>Wilhelm, Elizabeth ES</li>
+<li>Williams, Wendell P. ES</li>
+<li>Wynn, Elaine ES</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208038" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208038" aria-expanded="false" href="#fs-panel-208038" role="button">Science, Health, PE, and Driver Education Department </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208038"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208039">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208040" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208040" aria-expanded="false" href="#fs-panel-208040" role="button">Social Studies and World Language Department </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208040"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208041">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12106" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12106" aria-expanded="false" href="#fs-panel-12106" role="button">Student Services Division</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12106"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12107">
+<div class="fsElementContent">
+<p><a class="button-1" href="https://ssd.ccsd.net/" target="_blank">More Information </a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12110" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12110" aria-expanded="false" href="#fs-panel-12110" role="button">Teaching and Learning</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12110"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12111">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12116" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12116" aria-expanded="false" href="#fs-panel-12116" role="button">The Transformation Network</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-12116"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12117">
+<div class="fsElementContent">
+<h2>The Transformation Network</h2>
+<p><span><strong>Region Superintendent:</strong> Barry C. Bosacker, <a href="mailto:bosacbc@nv.ccsd.net">bosacbc@nv.ccsd.net</a></span><br/>
+<span><strong>School Associate Superintendent:</strong> Rebecca Lucero, <a href="mailto:lucerrm@nv.ccsd.net">lucerrm@nv.ccsd.net</a></span><br/>
+<a href="mailto:lucerrm@nv.ccsd.net"><span><strong>Phone Number:</strong> (702) 799-5868</span> </a></p>
+<ul>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Booker, Sr., Kermit R. ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Cox, Clyde C. ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Dearing, Laura ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Dickens, D. L. “Dusty” ES </a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Duncan, Ruby ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Earl, Ira J. ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Harmon, Harley ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Herr, Helen ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Jeffers, Jay W. ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Kelly, Matt ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">King, Jr., Martin Luther ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Long, Walter V. ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Lunt, Robert ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Lynch, Ann ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Perkins, Dr. Claude G. ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Petersen, Dean ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Smith, Hal ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Tartan, John ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Thomas, Ruby S. ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Thorpe, Jim ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Wilhelm, Elizabeth ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Williams, Wendell P. ES</a></li>
+<li><a href="mailto:lucerrm@nv.ccsd.net">Wynn, Elaine ES</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

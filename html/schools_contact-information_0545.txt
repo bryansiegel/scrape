@@ -10,7 +10,8 @@
                 SEDWAY, MARVIN M. MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Brown, Latoya Danielle <br>
+                        
+Principal: Brown, LaToya Danielle<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-3880<br/>
                                 Fax: 702-799-1785<br/>
 <a href="http://maps.google.com/maps?q=3465 ENGLESTAD STREET,+NORTH LAS VEGAS,+NV+89032">Map</a>
-                                 | <a href="https://sedwayms.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://sedwayms.com/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Educating Youth of Today to Become Leaders Tomorrow</p> <p><b>Mission:</b> Our mission at Sedway Middle School is to secure in all students: Strength in diversity, Excellence in academics, Desire to achieve all goals, Wisdom in all judgments, Appreciation for the Arts, Yearning for lifelong learning.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -1,0 +1,29 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Foreign Exchange Information</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_157353">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_157354">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_157355">
+<div class="fsElementContent">
+<h2>Foreign Exchange Program</h2>
+<h3>Inbound Foreign Exchange Students:</h3>
+<p>All inbound foreign exchange students are approved by the Guidance and Counseling Department. The District accepts foreign exchange students under one student visa program administered by the U.S. Department of State in Washington, D.C.</p>
+<h2><a data-page-name="J-1 Visa Program" href="/fs/pages/19095">J-1 Visa Program</a></h2>
+<p>A foreign student who contracts with a foreign exchange organization, authorized by the State Department, who places the student in the custody of a host family in the United States for one year. The student attends the local high school and then returns home at the end of the year. The J-1 Visa is not renewable. The student's entry into the United States is sponsored by an authorized foreign exchange organization. Students who enroll as a part of the J-1 Visa Program do not pay tuition to the school district.</p>
+<h2>F-1 Visa Program</h2>
+<p>The United States Department of Homeland Security (DHS) requires educational institutions to be approved members of the Student and Exchange Visitor Information System (SEVIS) in order to issue an I-20 form accepting students on F-1 visas. CCSD does not accept any international students applying for F-1 visas. Any inquiries for F-1 or I-20 forms should be directed to the Guidance and Counseling Department.</p>
+<h2>Outbound Foreign Exchange Students</h2>
+<p>The Clark County School District is unable to assist with the organization, promotion, or sponsorship of students interested in studying abroad as outbound foreign exchange students. These duties are the sole responsibility of the students, their parents, and their selected foreign exchange organization.</p>
+<p>The Council on Standards for International Educational Travel (CSIET) maintains a list of approved foreign exchange organizations that parents and students may want to consult before selecting an exchange organization. The listing may be found at <a contenteditable="false" href="http://getstarted.csiet.org/?fuseaction=app.study" style="cursor: pointer;" target="_blank">Study Abroad</a>.</p>
+<h2>For more information contact:</h2>
+<p>Foreign Exchange Programs<br/>
+Guidance and Counseling Department<br/>
+5100 West Sahara Ave.<br/>
+Las Vegas, NV 89146<br/>
+<br/>
+Office: (702) 799-8441<br/>
+e-mail: <a contenteditable="false" href="mailto:lockej@nv.ccsd.net?subject=Foreign%20Exchange%20Question" style="cursor: pointer;">lockej@nv.ccsd.net</a></p>
+</div>
+</div>
+</div>
+</div>
+</main>

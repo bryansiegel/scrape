@@ -10,7 +10,8 @@
                 CHAPARRAL HS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Cummings, Kristal N<br>
+                        
+Principal: Cummings, Kristal N<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7580<br/>
                                 Fax: 702-799-0776<br/>
 <a href="http://maps.google.com/maps?q=3850 ANNIE OAKLEY DRIVE,+LAS VEGAS,+NV+89121">Map</a>
-                                 | <a href="http://www.chaparrallasvegas.com/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.chaparrallasvegas.com/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> <strong>C</strong>ourage-<strong>H</strong>armony-<strong>A</strong>mbition-<strong>P</strong>ride</p> <p><b>Mission:</b> <strong>EMPOWERING</strong> students within an environment of <strong>RIGOR</strong>, <strong>RELEVANCE RELATIONSHIPS</strong>, and <strong>RESPONSIBILITY</strong>.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

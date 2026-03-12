@@ -10,7 +10,8 @@
                 JOHNSON, WALTER JHS ACDMY OF INTNL<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Jacobs, Trudi K<br>
+                        
+Principal: Jacobs, Trudi K<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4480<br/>
                                 Fax: 702-799-4497<br/>
 <a href="http://maps.google.com/maps?q=7701 DUCHARME AVENUE,+LAS VEGAS,+NV+89145">Map</a>
-                                 | <a href="https://www.johnsonjhs.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.johnsonjhs.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Discover the Spirit</p> <p><b>Mission:</b> The mission of Johnson Junior High School, in partnership with the community, is to challenge and empower students to reach their full potential.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

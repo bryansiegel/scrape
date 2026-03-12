@@ -10,7 +10,8 @@
                 SAWYER, GRANT MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Kirkpatrick, Brandy D<br>
+                        
+Principal: Kirkpatrick, Brandy D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5980<br/>
                                 Fax: 702-799-5969<br/>
 <a href="http://maps.google.com/maps?q=5450 REDWOOD STREET,+LAS VEGAS,+NV+89118">Map</a>
-                                 | <a href="http://www.sawyerms.org/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.sawyerms.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Where Opportunities Run Free</p> <p><b>Mission:</b> We will maintain an effective learning environment which promotes life-long learning by enabling our students to value the past, succeed in the present, and prepare for the future.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

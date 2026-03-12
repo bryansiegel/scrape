@@ -10,7 +10,8 @@
                 BECKER, ERNEST MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  King-Spenard, Philicia L<br>
+                        
+Principal: King-spenard, Philicia L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4460<br/>
                                 Fax: 702-799-4470<br/>
 <a href="http://maps.google.com/maps?q=9151 PINEWOOD HILL DRIVE,+LAS VEGAS,+NV+89134">Map</a>
-                                 | <a href="https://beckerms.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://beckerms.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Building for the Future</p> <p><b>Mission:</b> Together, the students, parents, staff, and community of Ernest A. Becker, Sr. Middle School are committed to cultivating a secure and stimulating learning environment in which students will develop individual strengths and talents, dare to take risks for the sake of learning, and work cooperatively to be prepared for the challenges of tomorrow.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -83,21 +83,8 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0201" target="_blank">
-                                    Bass, John C. ES                                 </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                A                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0202" target="_blank">
-                                    Wolff, Elise L. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0786" target="_blank">
+                                    Brown, Hannah Marie ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -109,8 +96,8 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0238" target="_blank">
-                                    Vanderburg, John C. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0929" target="_blank">
+                                    Dooley, John A. ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -122,21 +109,8 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0248" target="_blank">
-                                    Cartwright, Roberta C. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                A                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0256" target="_blank">
-                                    Lamping, Frank ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0775" target="_blank">
+                                    Ellis, Robert and Sandy ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -148,37 +122,11 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0281" target="_blank">
-                                    Twitchell, Neil C. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0572" target="_blank">
+                                    Foothill HS                                </a>
 </td>
 <td>
-                            1                       </td>
-<td>
-                                A                            </td>
-<td>
-                                HND                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0300" target="_blank">
-                                    Webb, Del E. MS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                A                            </td>
-<td>
-                                HND                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0393" target="_blank">
-                                    Taylor, Glen C. ES                                </a>
-</td>
-<td>
-                            1                       </td>
+                            6                       </td>
 <td>
                                 A                            </td>
 <td>
@@ -200,11 +148,11 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0931" target="_blank">
-                                    Burkholder, Lyal Academy of Environmental Science                                </a>
+<a class="pdflink" href="/schools/contact-information/0543" target="_blank">
+                                    Kesterson, Lorna J. ES                                </a>
 </td>
 <td>
-                            4                       </td>
+                            1                       </td>
 <td>
                                 A                            </td>
 <td>
@@ -213,24 +161,11 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0933" target="_blank">
-                                    Garrett, Elton M. and Madelaine E. JHS                                </a>
+<a class="pdflink" href="/schools/contact-information/0256" target="_blank">
+                                    Lamping, Frank ES                                </a>
 </td>
 <td>
-                            4                       </td>
-<td>
-                                A                            </td>
-<td>
-                                BC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0937" target="_blank">
-                                    Greenspun, Barbara and Hank JHS                                </a>
-</td>
-<td>
-                            4                       </td>
+                            1                       </td>
 <td>
                                 A                            </td>
 <td>
@@ -239,11 +174,24 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0940" target="_blank">
-                                    Silverado HS                                </a>
+<a class="pdflink" href="/schools/contact-information/0709" target="_blank">
+                                    The Healing Center School at St. Jude's Ranch for Children                                </a>
 </td>
 <td>
-                            6                       </td>
+                            8                       </td>
+<td>
+                                A                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0946" target="_blank">
+                                    Laughlin JHS/HS                                </a>
+</td>
+<td>
+                            5                       </td>
 <td>
                                 A                            </td>
 <td>
@@ -265,21 +213,8 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0342" target="_blank">
-                                    Hummel, John R. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                A                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0379" target="_blank">
-                                    Smalley, James E. and A. Rae ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0911" target="_blank">
+                                    McCaw, Gordon ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -287,110 +222,6 @@
                                 A                            </td>
 <td>
                                 HND                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0356" target="_blank">
-                                    Schorr, Steve ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                A                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0401" target="_blank">
-                                    Mannion, Jack and Terry MS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                A                            </td>
-<td>
-                                HND                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0536" target="_blank">
-                                    Silvestri, Charles A. JHS                                </a>
-</td>
-<td>
-                            4                       </td>
-<td>
-                                A                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0543" target="_blank">
-                                    Kesterson, Lorna J. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                A                            </td>
-<td>
-                                HND                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0565" target="_blank">
-                                    Liberty HS                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                A                            </td>
-<td>
-                                HND                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0573" target="_blank">
-                                    Coronado HS                                </a>
-</td>
-<td>
-                            6                       </td>
-<td>
-                                A                            </td>
-<td>
-                                HND                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0900" target="_blank">
-                                    Bennett, William G. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                A                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0901" target="_blank">
-                                    King, Martha P. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                A                            </td>
-<td>
-                                BC                            </td>
 </tr>
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
@@ -408,8 +239,125 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0911" target="_blank">
-                                    McCaw, Gordon ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0807" target="_blank">
+                                    South Career and Technical Academy                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                A                            </td>
+<td>
+                                LV                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0933" target="_blank">
+                                    Garrett, Elton M. and Madelaine E. JHS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                A                            </td>
+<td>
+                                BC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0269" target="_blank">
+                                    Miller, Bob MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                A                            </td>
+<td>
+                                HND                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0249" target="_blank">
+                                    Morrow, Sue H. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                A                            </td>
+<td>
+                                HND                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0947" target="_blank">
+                                    Newton, Ulis ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                A                            </td>
+<td>
+                                HND                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0922" target="_blank">
+                                    Sewell, C. T. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                A                            </td>
+<td>
+                                HND                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0379" target="_blank">
+                                    Smalley, James E. and A. Rae ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                A                            </td>
+<td>
+                                HND                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0937" target="_blank">
+                                    Greenspun, Barbara and Hank JHS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                A                            </td>
+<td>
+                                HND                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0901" target="_blank">
+                                    King, Martha P. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                A                            </td>
+<td>
+                                BC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0393" target="_blank">
+                                    Taylor, Glen C. ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -434,60 +382,8 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0918" target="_blank">
-                                    Taylor, Robert L. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                A                            </td>
-<td>
-                                HND                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0919" target="_blank">
-                                    Reid, Harry ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                A                            </td>
-<td>
-                                BC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0783" target="_blank">
-                                    Barber, Shirley A. ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                A                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0306" target="_blank">
-                                    Gehring, Roger D. ES Academy of Science and Technology                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                A                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0269" target="_blank">
-                                    Miller, Bob MS                                </a>
+<a class="pdflink" href="/schools/contact-information/0401" target="_blank">
+                                    Mannion, Jack and Terry MS                                </a>
 </td>
 <td>
                             4                       </td>
@@ -499,8 +395,8 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0922" target="_blank">
-                                    Sewell, C. T. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0281" target="_blank">
+                                    Twitchell, Neil C. ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -512,8 +408,8 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0929" target="_blank">
-                                    Dooley, John A. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0238" target="_blank">
+                                    Vanderburg, John C. ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -551,8 +447,21 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0249" target="_blank">
-                                    Morrow, Sue H. ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0300" target="_blank">
+                                    Webb, Del E. MS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                A                            </td>
+<td>
+                                HND                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0202" target="_blank">
+                                    Wolff, Elise L. ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -564,8 +473,86 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0947" target="_blank">
-                                    Newton, Ulis ES                                </a>
+<a class="pdflink" href="/schools/contact-information/0919" target="_blank">
+                                    Reid, Harry ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                A                            </td>
+<td>
+                                BC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0940" target="_blank">
+                                    Silverado HS                                </a>
+</td>
+<td>
+                            6                       </td>
+<td>
+                                A                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0783" target="_blank">
+                                    Barber, Shirley A. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                A                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0201" target="_blank">
+                                    Bass, John C. ES                                 </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                A                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0248" target="_blank">
+                                    Cartwright, Roberta C. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                A                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0306" target="_blank">
+                                    Gehring, Roger D. ES Academy of Science and Technology                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                A                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0918" target="_blank">
+                                    Taylor, Robert L. ES                                </a>
 </td>
 <td>
                             1                       </td>
@@ -577,8 +564,21 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0572" target="_blank">
-                                    Foothill HS                                </a>
+<a class="pdflink" href="/schools/contact-information/0342" target="_blank">
+                                    Hummel, John R. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                A                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0565" target="_blank">
+                                    Liberty HS                                </a>
 </td>
 <td>
                             6                       </td>
@@ -586,6 +586,32 @@
                                 A                            </td>
 <td>
                                 HND                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0356" target="_blank">
+                                    Schorr, Steve ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                A                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0536" target="_blank">
+                                    Silvestri, Charles A. JHS                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                A                            </td>
+<td>
+                                CC                            </td>
 </tr>
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
@@ -603,8 +629,34 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
+<a class="pdflink" href="/schools/contact-information/0900" target="_blank">
+                                    Bennett, William G. ES                                </a>
+</td>
+<td>
+                            1                       </td>
+<td>
+                                A                            </td>
+<td>
+                                CC                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
 <a class="pdflink" href="/schools/contact-information/0934" target="_blank">
                                     Brown, B. Mahlon Academy of International Studies                                </a>
+</td>
+<td>
+                            4                       </td>
+<td>
+                                A                            </td>
+<td>
+                                HND                            </td>
+</tr>
+<tr>
+<!-- 	                        <a href="/schools/contact-information/"> -->
+<td>
+<a class="pdflink" href="/schools/contact-information/0931" target="_blank">
+                                    Burkholder, Lyal Academy of Environmental Science                                </a>
 </td>
 <td>
                             4                       </td>
@@ -629,54 +681,15 @@
 <tr>
 <!-- 	                        <a href="/schools/contact-information/"> -->
 <td>
-<a class="pdflink" href="/schools/contact-information/0775" target="_blank">
-                                    Ellis, Robert and Sandy ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                A                            </td>
-<td>
-                                HND                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0786" target="_blank">
-                                    Brown, Hannah Marie ES                                </a>
-</td>
-<td>
-                            1                       </td>
-<td>
-                                A                            </td>
-<td>
-                                HND                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0709" target="_blank">
-                                    The Healing Center School at St. Jude's Ranch for Children                                </a>
-</td>
-<td>
-                            8                       </td>
-<td>
-                                A                            </td>
-<td>
-                                CC                            </td>
-</tr>
-<tr>
-<!-- 	                        <a href="/schools/contact-information/"> -->
-<td>
-<a class="pdflink" href="/schools/contact-information/0807" target="_blank">
-                                    South Career and Technical Academy                                </a>
+<a class="pdflink" href="/schools/contact-information/0573" target="_blank">
+                                    Coronado HS                                </a>
 </td>
 <td>
                             6                       </td>
 <td>
                                 A                            </td>
 <td>
-                                CC                            </td>
+                                HND                            </td>
 </tr>
 </tbody>
 </table>

@@ -10,7 +10,8 @@
                 WARD, GENE ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Winiewicz, Gregory S<br>
+                        
+Principal: Winiewicz, Gregory S<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5650<br/>
                                 Fax: 702-799-5658<br/>
 <a href="http://maps.google.com/maps?q=1555 EAST HACIENDA AVE,+LAS VEGAS,+NV+89119">Map</a>
-                                 | <a href="https://wardrangers.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://wardrangers.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Treat us like winners, and we will win!</p> <p><b>Mission:</b> We at Gene Ward Elementary School in cooperation with students, parents, and the community are dedicated to academic excellence and the development of positive self-image.  It is our mission to enthusiastically meet children at their level and equip them with the tools necessary for lifelong learning.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

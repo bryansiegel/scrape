@@ -10,7 +10,8 @@
                 WOLFF, ELISE L. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Westwood, Linnea Pagulayan<br>
+                        
+Principal: Westwood, Linnea Pagulayan<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-2230<br/>
                                 Fax: 702-799-2257<br/>
 <a href="http://maps.google.com/maps?q=1001 SEVEN HILLS DRIVE,+HENDERSON,+NV+89052">Map</a>
-                                 | <a href="https://www.elisewolffelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.elisewolffelementary.org/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Success For Everyone Every day</p> <p><b>Mission:</b> We are committed to standards of excellence. We will set goals and take responsibility for lifelong learning in an environment where learners are empowered and diversity is valued.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

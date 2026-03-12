@@ -60,7 +60,7 @@ def scrape_website(base_url):
                         elif 'divisions' in absolute_link:
                             divfile.write(f"{absolute_link}\n")
                             urls_to_visit.append(absolute_link)
-                        elif absolute_link.endswith('.pdf'):
+                        elif absolute_link.endswith('.pdf') or '/fs/resource-manager/view/' in absolute_link:
                             pdffile.write(f"{absolute_link}\n")
                         else:
                             urls_to_visit.append(absolute_link)

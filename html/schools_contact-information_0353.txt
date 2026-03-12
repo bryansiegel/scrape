@@ -10,7 +10,8 @@
                 LAS VEGAS ACADEMY OF THE ARTS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Koepp, Lezlie S<br>
+                        
+Principal: Koepp, Lezlie S<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7800<br/>
                                 Fax: 702-799-7807<br/>
 <a href="http://maps.google.com/maps?q=315 SOUTH 7TH STREET,+LAS VEGAS,+NV+89101">Map</a>
-                                 | <a href="http://www.lasvegasacademy.net/">Website</a> </br></br></br></p>
+                                 | <a href="http://www.lasvegasacademy.net/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Share the Vision, Build the Dream</p> <p><b>Mission:</b> The mission of the Las Vegas Academy is to ensure a diverse student population with multiple intelligences the opportunity to develop creativity in an interdisciplinary environment, to encourage and share ideas, and to develop knowledge and skills through a comprehensive educational program or academic and artistic training.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

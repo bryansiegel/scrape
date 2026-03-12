@@ -493,601 +493,601 @@
 <td>
 				Del Sol HS</td>
 <td>
-				Robison, Dell H. MS</td>
+				Rogers, Lucille S. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Derfelt, Herbert A. ES</td>
 <td>
-				Rogers, Lucille S. ES</td>
+				Rogich, Sig MS</td>
 </tr>
 <tr height="20">
 <td>
 				Desert Oasis HS</td>
 <td>
-				Rogich, Sig MS</td>
+				Ronnow, C. C. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Desert Pines HS</td>
 <td>
-				Ronnow, C. C. ES</td>
+				Ronzone, Bertha ES</td>
 </tr>
 <tr height="20">
 <td>
 				Desert Rose HS</td>
 <td>
-				Ronzone, Bertha ES</td>
+				Roundy, Dr. C. Owen ES</td>
 </tr>
 <tr height="20">
 <td>
 				Deskin, Ruthe ES</td>
 <td>
-				Roundy, Dr. C. Owen ES</td>
+				Rowe, Lewis E. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Detwiler, Ollie ES</td>
 <td>
-				Rowe, Lewis E. ES</td>
+				Rundle, Richard J. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Diaz, Ruben P. ES</td>
 <td>
-				Rundle, Richard J. ES</td>
+				Sandy Valley ES</td>
 </tr>
 <tr height="20">
 <td>
 				Dickens, D. L. “Dusty” ES</td>
 <td>
-				Sandy Valley ES</td>
+				Sandy Valley MS/HS</td>
 </tr>
 <tr height="20">
 <td>
 				Diskin, Pat A. ES</td>
 <td>
-				Sandy Valley MS/HS</td>
+				Saville, Anthony MS</td>
 </tr>
 <tr height="20">
 <td>
 				Divich, Kenneth ES</td>
 <td>
-				Saville, Anthony MS</td>
+				Sawyer, Grant MS</td>
 </tr>
 <tr height="20">
 <td>
 				Dondero, Harvey N. ES</td>
 <td>
-				Sawyer, Grant MS</td>
+				Scherkenbach ES</td>
 </tr>
 <tr height="20">
 <td>
 				Dooley, John A. ES</td>
 <td>
-				Scherkenbach ES</td>
+				Schofield, Jack Lund MS</td>
 </tr>
 <tr height="20">
 <td>
 				Duncan, Ruby ES</td>
 <td>
-				Schofield, Jack Lund MS</td>
+				Schorr, Steve ES</td>
 </tr>
 <tr height="20">
 <td>
 				Durango HS</td>
 <td>
-				Schorr, Steve ES</td>
+				Scott, Jesse D. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Earl, Ira J. ES</td>
 <td>
-				Scott, Jesse D. ES</td>
+				Sedway, Marvin M. MS</td>
 </tr>
 <tr height="20">
 <td>
 				Earl, Marion B. ES</td>
 <td>
-				Sedway, Marvin M. MS</td>
+				Sewell, C. T. ES</td>
 </tr>
 <tr height="20">
 <td>
 				East CTA</td>
 <td>
-				Sewell, C. T. ES</td>
+				Shadow Ridge HS</td>
 </tr>
 <tr height="20">
 <td>
 				Edwards, Elbert ES</td>
 <td>
-				Shadow Ridge HS</td>
+				Sierra Vista HS</td>
 </tr>
 <tr height="20">
 <td>
 				Eisenberg, Dorothy ES</td>
 <td>
-				Sierra Vista HS</td>
+				Silverado HS</td>
 </tr>
 <tr height="20">
 <td>
 				Eldorado HS</td>
 <td>
-				Silverado HS</td>
+				Silvestri, Charles A. JHS</td>
 </tr>
 <tr height="20">
 <td>
 				Elizondo, Raul P. ES</td>
 <td>
-				Silvestri, Charles A. JHS</td>
+				Simmons, Eva G. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Ellis, Robert and Sandy ES</td>
 <td>
-				Simmons, Eva G. ES</td>
+				Smalley ES</td>
 </tr>
 <tr height="20">
 <td>
 				Escobedo, Edmundo MS</td>
 <td>
-				Smalley ES</td>
+				Smith, Hal ES</td>
 </tr>
 <tr height="20">
 <td>
 				Faiss, Wilbur and Theresa MS</td>
 <td>
-				Smith, Hal ES</td>
+				Smith, Helen M. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Ferron, William E. ES</td>
 <td>
-				Smith, Helen M. ES</td>
+				Smith, J. D. MS</td>
 </tr>
 <tr height="20">
 <td>
 				Fertitta, Victoria MS</td>
 <td>
-				Smith, J. D. MS</td>
+				Snyder, Don and Dee ES</td>
 </tr>
 <tr height="20">
 <td>
 				Findlay MS</td>
 <td>
-				Snyder, Don and Dee ES</td>
+				Snyder, William E. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Fine, Mark L. ES</td>
 <td>
-				Snyder, William E. ES</td>
+				South Academic Center</td>
 </tr>
 <tr height="20">
 <td>
 				Fitzgerald, H. P. ES</td>
 <td>
-				South Academic Center</td>
+				South CTA</td>
 </tr>
 <tr height="20">
 <td>
 				Fong ES</td>
 <td>
-				South CTA</td>
+				Southeast CTA</td>
 </tr>
 <tr height="20">
 <td>
 				Foothill HS</td>
 <td>
-				Southeast CTA</td>
+				Southwest CTA</td>
 </tr>
 <tr height="20">
 <td>
 				Forbuss, Robert L. ES</td>
 <td>
-				Southwest CTA</td>
+				Spring Valley HS</td>
 </tr>
 <tr height="20">
 <td>
 				Fremont MS</td>
 <td>
-				Spring Valley HS</td>
+				Squires, C. P. ES</td>
 </tr>
 <tr height="20">
 <td>
 				French, Doris ES</td>
 <td>
-				Squires, C. P. ES</td>
+				Stanford ES</td>
 </tr>
 <tr height="20">
 <td>
 				Frias ES</td>
 <td>
-				Stanford ES</td>
+				Staton, Ethel W. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Galloway, Fay ES</td>
 <td>
-				Staton, Ethel W. ES</td>
+				Steele, Judith D. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Garehime, Edith ES</td>
 <td>
-				Steele, Judith D. ES</td>
+				Stevens, Josh ES</td>
 </tr>
 <tr height="20">
 <td>
 				Garrett JHS</td>
 <td>
-				Stevens, Josh ES</td>
+				Stewart, Helen J.</td>
 </tr>
 <tr height="20">
 <td>
 				Garside, Frank F. JHS</td>
 <td>
-				Stewart, Helen J.</td>
+				Stuckey, Evelyn ES</td>
 </tr>
 <tr height="20">
 <td>
 				Gehring, Roger D. ES</td>
 <td>
-				Stuckey, Evelyn ES</td>
+				Sunrise Acres ES</td>
 </tr>
 <tr height="20">
 <td>
 				Gibson, James I. ES</td>
 <td>
-				Sunrise Acres ES</td>
+				Sunrise Mountain HS</td>
 </tr>
 <tr height="20">
 <td>
 				Gibson, Robert O. MS</td>
 <td>
-				Sunrise Mountain HS</td>
+				Swainston, Theron L. MS</td>
 </tr>
 <tr height="20">
 <td>
 				Gilbert ES</td>
 <td>
-				Swainston, Theron L. MS</td>
+				Tanaka, Wayne N. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Givens, Linda Rankin ES</td>
 <td>
-				Tanaka, Wayne N. ES</td>
+				Tarkanian MS</td>
 </tr>
 <tr height="20">
 <td>
 				Global Community HS</td>
 <td>
-				Tarkanian MS</td>
+				Tarr ES</td>
 </tr>
 <tr height="20">
 <td>
 				Goldfarb, Daniel ES</td>
 <td>
-				Tarr ES</td>
+				Tartan, John ES</td>
 </tr>
 <tr height="20">
 <td>
 				Goodsprings ES</td>
 <td>
-				Tartan, John ES</td>
+				Tate, Myrtle ES</td>
 </tr>
 <tr height="20">
 <td>
 				Goolsby, Judy and John L. ES</td>
 <td>
-				Tate, Myrtle ES</td>
+				Taylor, Glen C. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Goynes ES</td>
 <td>
-				Taylor, Glen C. ES</td>
+				Taylor, Robert L. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Gragson, Oran K. ES</td>
 <td>
-				Taylor, Robert L. ES</td>
+				The Healing Center School at St. Jude's</td>
 </tr>
 <tr height="20">
 <td>
 				Gray, R. Guild ES</td>
 <td>
-				The Healing Center School at St. Jude's Ranch for Children</td>
+				Thiriot, Joseph E. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Green Valley HS</td>
 <td>
-				Thiriot, Joseph E. ES</td>
+				Thomas, Ruby S. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Greenspun JHS</td>
 <td>
-				Thomas, Ruby S. ES</td>
+				Thompson, Sandra L. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Griffith, E. W. ES</td>
 <td>
-				Thompson, Sandra L. ES</td>
+				Thompson, Tyrone ES</td>
 </tr>
 <tr height="20">
 <td>
 				Guinn, Kenny C. MS</td>
 <td>
-				Thompson, Tyrone ES</td>
+				Thorpe, Jim ES</td>
 </tr>
 <tr height="20">
 <td>
 				Gunderson MS</td>
 <td>
-				Thorpe, Jim ES</td>
+				Tobler, R. E. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Guy, Addeliar ES</td>
 <td>
-				Tobler, R. E. ES</td>
+				Toland ES</td>
 </tr>
 <tr height="20">
 <td>
 				Hancock, Doris ES</td>
 <td>
-				Toland ES</td>
+				Tomiyasu, Bill Y. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Harmon, Harley ES</td>
 <td>
-				Tomiyasu, Bill Y. ES</td>
+				Treem, Harriet A. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Harney, Kathleen and Tim MS</td>
 <td>
-				Treem, Harriet A. ES</td>
+				Triggs, Vincent L. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Harris, George E. ES</td>
 <td>
-				Triggs, Vincent L. ES</td>
+				Twin Lakes ES</td>
 </tr>
 <tr height="20">
 <td>
 				Hayden, Don E. ES</td>
 <td>
-				Twin Lakes ES</td>
+				Twitchell, Neil C. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Hayes ES</td>
 <td>
-				Twitchell, Neil C. ES</td>
+				Ullom, J. M. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Heard, Lomie G. ES</td>
 <td>
-				Ullom, J. M. ES</td>
+				Valley HS</td>
 </tr>
 <tr height="20">
 <td>
 				Heckethorn, Howard E. ES</td>
 <td>
-				Valley HS</td>
+				Vanderburg, John ES</td>
 </tr>
 <tr height="20">
 <td>
 				Herr, Helen ES</td>
 <td>
-				Vanderburg, John ES</td>
+				Variety School - Elementary</td>
 </tr>
 <tr height="20">
 <td>
 				Herron, Fay ES</td>
 <td>
-				Variety School - Elementary</td>
+				Variety School - Secondary</td>
 </tr>
 <tr height="20">
 <td>
 				Hewetson, Halle ES</td>
 <td>
-				Variety School - Secondary</td>
+				Vassiliadis ES</td>
 </tr>
 <tr height="20">
 <td>
 				Hickey, Liliam Lujan ES</td>
 <td>
-				Vassiliadis ES</td>
+				Vegas Verdes ES</td>
 </tr>
 <tr height="20">
 <td>
 				Hill, Charlotte ES</td>
 <td>
-				Vegas Verdes ES</td>
+				Veterans Tribute CTA</td>
 </tr>
 <tr height="20">
 <td>
 				Hinman, Edna F. ES</td>
 <td>
-				Veterans Tribute CTA</td>
+				Virgin Valley ES</td>
 </tr>
 <tr height="20">
 <td>
 				Hoggard, Mabel ES</td>
 <td>
-				Virgin Valley ES</td>
+				Virgin Valley HS</td>
 </tr>
 <tr height="20">
 <td>
 				Hollingsworth, Howard ES</td>
 <td>
-				Virgin Valley HS</td>
+				Von Tobel, Ed MS</td>
 </tr>
 <tr height="20">
 <td>
 				Hughes, Charles MS</td>
 <td>
-				Von Tobel, Ed MS</td>
+				Walker, J. Marlan ES</td>
 </tr>
 <tr height="20">
 <td>
 				Hummel, John R. ES</td>
 <td>
-				Walker, J. Marlan ES</td>
+				Wallin, Shirley and Bill ES</td>
 </tr>
 <tr height="20">
 <td>
 				Hyde Park MS</td>
 <td>
-				Wallin, Shirley and Bill ES</td>
+				Ward, Gene ES</td>
 </tr>
 <tr height="20">
 <td>
 				Indian Springs ES</td>
 <td>
-				Ward, Gene ES</td>
+				Ward, Kitty ES</td>
 </tr>
 <tr height="20">
 <td>
 				Indian Springs HS</td>
 <td>
-				Ward, Kitty ES</td>
+				Warren, Rose ES</td>
 </tr>
 <tr height="20">
 <td>
 				Indian Springs MS</td>
 <td>
-				Warren, Rose ES</td>
+				Wasden, Howard ES</td>
 </tr>
 <tr height="20">
 <td>
 				Iverson, Mervin R. ES</td>
 <td>
-				Wasden, Howard ES</td>
+				Watson, Fredric W. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Jacobson, Walter ES</td>
 <td>
-				Watson, Fredric W. ES</td>
+				Webb, Del E. MS</td>
 </tr>
 <tr height="20">
 <td>
 				Jeffers, Jay W. ES</td>
 <td>
-				Webb, Del E. MS</td>
+				Wengert, Cyril ES</td>
 </tr>
 <tr height="20">
 <td>
 				Jenkins, Earl N. ES</td>
 <td>
-				Wengert, Cyril ES</td>
+				West CTA</td>
 </tr>
 <tr height="20">
 <td>
 				Johnson, Walter JHS</td>
 <td>
-				West CTA</td>
+				West Prep ES</td>
 </tr>
 <tr height="20">
 <td>
 				Johnston, Carroll MS</td>
 <td>
-				West Prep ES</td>
+				West Prep MS/HS</td>
 </tr>
 <tr height="20">
 <td>
 				Jones Blackhurst ES</td>
 <td>
-				West Prep MS/HS</td>
+				Western HS</td>
 </tr>
 <tr height="20">
 <td>
 				Jydstrup, Helen ES</td>
 <td>
-				Western HS</td>
+				White, Thurman MS</td>
 </tr>
 <tr height="20">
 <td>
 				Kahre, Marc ES</td>
 <td>
-				White, Thurman MS</td>
+				Whitney ES</td>
 </tr>
 <tr height="20">
 <td>
 				Katz ES</td>
 <td>
-				Whitney ES</td>
+				Wiener, Jr., Louis ES</td>
 </tr>
 <tr height="20">
 <td>
 				Keller ES</td>
 <td>
-				Wiener, Jr., Louis ES</td>
+				Wilhelm, Elizabeth ES</td>
 </tr>
 <tr height="20">
 <td>
 				Keller, Duane MS</td>
 <td>
-				Wilhelm, Elizabeth ES</td>
+				Williams, Tom ES</td>
 </tr>
 <tr height="20">
 <td>
 				Kelly, Matt ES</td>
 <td>
-				Williams, Tom ES</td>
+				Williams, Wendell P. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Kesterson, Lorna J. ES</td>
 <td>
-				Williams, Wendell P. ES</td>
+				Wolfe, Eva ES</td>
 </tr>
 <tr height="20">
 <td>
 				Kim, Frank ES</td>
 <td>
-				Wolfe, Eva ES</td>
+				Wolff, Elise L. ES</td>
 </tr>
 <tr height="20">
 <td>
 				King, Jr., Martin Luther ES</td>
 <td>
-				Wolff, Elise L. ES</td>
+				Woodbury, C. W. MS</td>
 </tr>
 <tr height="20">
 <td>
 				King, Martha P. ES</td>
 <td>
-				Woodbury, C. W. MS</td>
+				Woolley, Gwendolyn ES</td>
 </tr>
 <tr height="20">
 <td>
 				Knudson, K.O. MS</td>
 <td>
-				Woolley, Gwendolyn ES</td>
+				Wright, William V. ES</td>
 </tr>
 <tr height="20">
 <td>
 				Lake, Robert E. ES</td>
 <td>
-				Wright, William V. ES</td>
+				Wynn, Elaine ES</td>
 </tr>
 <tr height="20">
 <td>
 				Lamping, Frank ES</td>
 <td>
-				Wynn, Elaine ES</td>
+				 </td>
 </tr>
 </tbody>
 </table>

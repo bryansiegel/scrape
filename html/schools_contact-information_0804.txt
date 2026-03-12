@@ -10,7 +10,8 @@
                 NORTHEAST CAREER AND TECHNICAL ACADEMY<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Cordia, Ryan D<br>
+                        
+Principal: Cordia, Ryan D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-1720<br/>
                                 Fax: 702-799-1711<br/>
 <a href="http://maps.google.com/maps?q=405 W. DORRELL LANE,+NORTH LAS VEGAS,+NV+89084">Map</a>
-                                 | <a href="https://www.northeastcta.org/">Website</a> </br></br></br></p>
-<b>Region:</b> </div>
+                                 | <a href="https://www.northeastcta.org/">Website</a> 
+<b>Region:</b> 1                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

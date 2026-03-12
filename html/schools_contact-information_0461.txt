@@ -10,7 +10,8 @@
                 CHRISTENSEN, M. J. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Collins, Karen D<br>
+                        
+Principal: Collins, Karen D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4390<br/>
                                 Fax: 702-799-1413<br/>
 <a href="http://maps.google.com/maps?q=9001 MARINER COVE DR,+LAS VEGAS,+NV+89117">Map</a>
-                                 | <a href="http://christensenes.com">Website</a> </br></br></br></p>
+                                 | <a href="http://christensenes.com">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Expanding Our Horizons</p> <p><b>Mission:</b> The mission of M. J. Christensen Elementary School is to ensure that all students become successful learners by empowering them to be responsible and productive members of society.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

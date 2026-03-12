@@ -10,7 +10,8 @@
                 CORTNEY, FRANCIS H. JHS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  San Nicolas, Edward P<br>
+                        
+Principal: San Nicolas, Edward P<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-2400<br/>
                                 Fax: 702-799-2407<br/>
 <a href="http://maps.google.com/maps?q=5301 EAST HACIENDA AVENUE,+LAS VEGAS,+NV+89122">Map</a>
-                                 | <a href="https://www.cortneyjhs.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.cortneyjhs.org/">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> A Proud School With Old Traditions</p> <p><b>Mission:</b> The mission at Francis H. Cortney Junior High School is to create an environment that is student centered, where respect, motivation, and responsibility challenge students academically, behaviorally, and socially; as students transition from elementary to junior high to high school.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

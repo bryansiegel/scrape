@@ -10,7 +10,8 @@
                 BRUNER, LUCILE ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Ramirez, Melissa L<br>
+                        
+Principal: Ramirez, Melissa L<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-0620<br/>
                                 Fax: 702-799-0610<br/>
 <a href="http://maps.google.com/maps?q=4289 ALLEN LANE,+NORTH LAS VEGAS,+NV+89032">Map</a>
-                                 | <a href="https://lucilebruner.enschool.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://lucilebruner.enschool.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> We soar to new heights to become more than we dreamed.</p> <p><b>Mission:</b> Working together, the staff, students, parents, and community of Lucile S. Bruner are dedicated to building a supportive, risk-free environment that empowers learners with knowledge, skills, confidence, and respect for individual differences so that all students become positive contributors to society. We soar to new heights to become more than we dreamed.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

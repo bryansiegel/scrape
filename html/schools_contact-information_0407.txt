@@ -10,7 +10,8 @@
                 JEFFERS, JAY W. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Lenz, Heather J<br>
+                        
+Principal: Lenz, Heather J<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-2100<br/>
                                 Fax: 702-799-2110<br/>
 <a href="http://maps.google.com/maps?q=2320 NORTH CLIFFORD STREET,+LAS VEGAS,+NV+89115">Map</a>
-                                 | <a href="http://sites.google.com/a/nv.ccsd.net/jeffers-elementary">Website</a> </br></br></br></p>
-<b>Region:</b> TTN                                                    </div>
+                                 | <a href="http://sites.google.com/a/nv.ccsd.net/jeffers-elementary">Website</a> 
+<b>Region:</b> TTN                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

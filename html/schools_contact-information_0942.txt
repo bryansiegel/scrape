@@ -11,7 +11,7 @@
 </h2>
 <!-- 		Principal:  -->
                         
-                                    Principal: McMinn, Duane E<br>
+Principal: McMinn, Duane E<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->

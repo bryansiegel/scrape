@@ -10,7 +10,8 @@
                 TOMIYASU, BILL Y. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Wiedenheft, Heather D<br>
+                        
+Principal: Wiedenheft, Heather D<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7770<br/>
                                 Fax: 702-799-0726<br/>
 <a href="http://maps.google.com/maps?q=5445 SOUTH ANNIE OAKLEY DRIVE,+LAS VEGAS,+NV+89120">Map</a>
-                                 | <a href="http://tomiyasu.weebly.com">Website</a> </br></br></br></p>
+                                 | <a href="http://tomiyasu.weebly.com">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Tomiyasu - Where All Kids Count</p> <p><b>Mission:</b> The mission of Bill Y. Tomiyasu Elementary School is established with the belief that all children can learn.  This is accomplished through a partnership with school, parents, and community.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

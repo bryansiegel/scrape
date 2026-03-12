@@ -10,7 +10,8 @@
                 THOMAS, RUBY S. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Stosek, Michael <br>
+                        
+Principal: Stosek, Michael<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5550<br/>
                                 Fax: 702-799-1160<br/>
 <a href="http://maps.google.com/maps?q=1560 CHEROKEE LANE,+LAS VEGAS,+NV+89169">Map</a>
-                                 | <a href="https://rubysthomas.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://rubysthomas.org/">Website</a> 
 <b>Region:</b> TTN                                                             <p><b>Motto:</b> The Future Starts Here</p> <p><b>Mission:</b> The Ruby Thomas Elementary School Community is committed to providing a safe educational setting that promotes learning, literacy, and respect for self, community, and country. We are committed to caring for one another as we develop the social, emotional, and academic growth of each community member.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

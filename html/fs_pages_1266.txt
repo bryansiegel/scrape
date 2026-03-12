@@ -1,0 +1,261 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Human Resources</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_11878">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_11879">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_11880">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_11881">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_11882">
+<div class="fsElementContent">
+<p>The Human Resources Division is dedicated to the recruitment and retention of a quality workforce in support of student success. The District employs over 40,000 people, including teachers, support professionals, administrators, and school police, who provide services to over 300,000 students.</p>
+<p><a class="button-7" href="https://www.ccsd.net/uploaded/themes/default_25/directory/org-chart/ccsd-org-chart.pdf">Organizational Chart</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_11883">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="11884" data-source-page-id="1266" data-use-new="true" id="fsEl_11884">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="CCSD Admin Building" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755791783/ccsdnet/senwqj8vkspwhjqfgspu/ccsd-building.jpg%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="ccsd-building.jpg" data-resource-uuid="84623b58-a0aa-41f2-811c-712473c83a69"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_12103">
+<div class="fsElementContent">
+<p>As we work to hire and retain a qualified staff, the goal of the Human Resources Division is to provide excellent customer service and to build a team of professionals who are passionate about the success of students, and who are willing to dedicate the necessary time and resources to meet the needs of a large, diverse, urban school district.</p>
+<p>Students in Clark County are fortunate to live in a community that supports and values their overall success, which begins with employing the finest staff of administrators, teachers, support professionals, and school police.</p>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_208090">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-208091" role="presentation">
+<a aria-controls="fsEl_208091" aria-selected="false" href="#fs-panel-208091" role="tab">Administrator Compensation, Contracts, and Employee Records</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208093" role="presentation">
+<a aria-controls="fsEl_208093" aria-selected="false" href="#fs-panel-208093" role="tab">Administrative Services</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208100" role="presentation">
+<a aria-controls="fsEl_208100" aria-selected="false" href="#fs-panel-208100" role="tab">Compliance and Building Operations</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208096" role="presentation">
+<a aria-controls="fsEl_208096" aria-selected="false" href="#fs-panel-208096" role="tab">Data Performance Management and Project Facilitation</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208116" role="presentation">
+<a aria-controls="fsEl_208116" aria-selected="false" href="#fs-panel-208116" role="tab">Diversity &amp; Affirmative Action Programs/Title Ix</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208120" role="presentation">
+<a aria-controls="fsEl_208120" aria-selected="false" href="#fs-panel-208120" role="tab">Employment/Income Verification - Experian Verify Customer Service Center</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208118" role="presentation">
+<a aria-controls="fsEl_208118" aria-selected="false" href="#fs-panel-208118" role="tab">Employee–Management Relations</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208104" role="presentation">
+<a aria-controls="fsEl_208104" aria-selected="false" href="#fs-panel-208104" role="tab">Licensed Contracting Services</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208114" role="presentation">
+<a aria-controls="fsEl_208114" aria-selected="false" href="#fs-panel-208114" role="tab">Management Leadership Academy</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208108" role="presentation">
+<a aria-controls="fsEl_208108" aria-selected="false" href="#fs-panel-208108" role="tab">Professional Growth System (Pgs) and Nepf</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208098" role="presentation">
+<a aria-controls="fsEl_208098" aria-selected="false" href="#fs-panel-208098" role="tab">Retirement Administration, Job Descriptions/Classification Compensation, and Verification of Teaching Experience/Records</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208110" role="presentation">
+<a aria-controls="fsEl_208110" aria-selected="false" href="#fs-panel-208110" role="tab">Substitute Services</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208106" role="presentation">
+<a aria-controls="fsEl_208106" aria-selected="false" href="#fs-panel-208106" role="tab">Support Professionals Paydata Services</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208102" role="presentation">
+<a aria-controls="fsEl_208102" aria-selected="false" href="#fs-panel-208102" role="tab">Talent Acquisition Teams</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-208112" role="presentation">
+<a aria-controls="fsEl_208112" aria-selected="false" href="#fs-panel-208112" role="tab">Talent Recruitment and Teacher Pathways (Trtp)</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208091" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208091" aria-expanded="false" href="#fs-panel-208091" role="button">Administrator Compensation, Contracts, and Employee Records</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208091"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208092">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208093" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208093" aria-expanded="false" href="#fs-panel-208093" role="button">Administrative Services</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208093"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208094">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208100" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208100" aria-expanded="false" href="#fs-panel-208100" role="button">Compliance and Building Operations</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208100"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208101">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208096" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208096" aria-expanded="false" href="#fs-panel-208096" role="button">Data Performance Management and Project Facilitation</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208096"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208097">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208116" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208116" aria-expanded="false" href="#fs-panel-208116" role="button">Diversity &amp; Affirmative Action Programs/Title Ix</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208116"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208117">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208120" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208120" aria-expanded="false" href="#fs-panel-208120" role="button">Employment/Income Verification - Experian Verify Customer Service Center</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208120"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208121">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208118" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208118" aria-expanded="false" href="#fs-panel-208118" role="button">Employee–Management Relations</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208118"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208119">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208104" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208104" aria-expanded="false" href="#fs-panel-208104" role="button">Licensed Contracting Services</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208104"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208105">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208114" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208114" aria-expanded="false" href="#fs-panel-208114" role="button">Management Leadership Academy</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208114"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208115">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208108" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208108" aria-expanded="false" href="#fs-panel-208108" role="button">Professional Growth System (Pgs) and Nepf</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208108"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208109">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208098" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208098" aria-expanded="false" href="#fs-panel-208098" role="button">Retirement Administration, Job Descriptions/Classification Compensation, and Verification of Teaching Experience/Records</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208098"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208099">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208110" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208110" aria-expanded="false" href="#fs-panel-208110" role="button">Substitute Services</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208110"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208111">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208106" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208106" aria-expanded="false" href="#fs-panel-208106" role="button">Support Professionals Paydata Services</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208106"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208107">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208102" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208102" aria-expanded="false" href="#fs-panel-208102" role="button">Talent Acquisition Teams</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208102"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208103">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208112" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208112" aria-expanded="false" href="#fs-panel-208112" role="button">Talent Recruitment and Teacher Pathways (Trtp)</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-208112"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_208113">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

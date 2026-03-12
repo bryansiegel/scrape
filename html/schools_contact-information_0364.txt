@@ -10,7 +10,8 @@
                 WOOLLEY, GWENDOLYN ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Cool-Macrae, Anna <br>
+                        
+Principal: Cool-macrae, Anna<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4970<br/>
                                 Fax: 702-799-2199<br/>
 <a href="http://maps.google.com/maps?q=3955 TIMBERLAKE DRIVE,+LAS VEGAS,+NV+89115">Map</a>
-                                 | <a href="https://woolleyelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://woolleyelementary.org/">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> We are Gwendolyn Woolley Elementary School, a community of learners.  Each day we are dedicated to creating a positive learning environment that celebrates mutual respect, personal responsibility and academic success as we prepare for our future.</p> <p><b>Mission:</b> In order to prepare for a changing world, we the community of Gwendolyn Woolley Elementary School, are committed to building self-esteem, fostering mutual respect, developing independent decision-making and personal responsibility, while instilling pride, values, and a love for learning which will promote academic excellence and social success.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

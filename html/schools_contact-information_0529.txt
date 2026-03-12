@@ -10,7 +10,8 @@
                 DISKIN, P. A. ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Ballard, Regina R<br>
+                        
+Principal: Ballard, Regina R<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-5930<br/>
                                 Fax: 702-799-5925<br/>
 <a href="http://maps.google.com/maps?q=4220 SOUTH RAVENWOOD DRIVE,+LAS VEGAS,+NV+89147">Map</a>
-                                 | <a href="https://www.diskinelementary.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.diskinelementary.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Rigor, Relevance &amp; Relationships</p> <p><b>Mission:</b> The mission of Pat A. Diskin Elementary School is to provide a rigorous and relevant education that produces high achieving students, by developing nurturing relationships between students, families, and staff.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

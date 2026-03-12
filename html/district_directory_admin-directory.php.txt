@@ -62,7 +62,7 @@
 <div class="unit">
 <h3>Office of the Deputy Superintendent, Teaching and Learning</h3>
 <ul>
-<li><span class="strong"><a href="https://teachingandlearning.ccsd.net/">Academic Unit</a></span>
+<li><span class="strong"><a href="https://academic-unit.ccsd.net/">Academic Unit</a></span>
 </li>
 <ul class="sublist">
 <li><a class="strong" href="https://aarsi.ccsd.net/accountability/">Accountability, Research, and Data Services Department</a>
@@ -74,7 +74,7 @@
 <li><a href="https://aarsi.ccsd.net/school-improvement/" target="_blank">School Improvement Department</a></li>
 <li><a href="https://aarsi.ccsd.net/system-accreditation/" target="_blank">System Accreditation Department</a></li>
 </ul>
-<li><a class="strong" href="https://cceu.ccsd.net/">College and Career Readiness and School Choice Division</a>
+<li><a class="strong" href="https://academic-unit.ccsd.net/divisions-and-departments/">College and Career Readiness and School Choice Division</a>
 </li>
 <ul>
 <li><a href="https://cteinccsd.org/" target="_blank">Career and Technical Education Department</a></li>

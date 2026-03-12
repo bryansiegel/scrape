@@ -10,7 +10,8 @@
                 FINDLAY, CLIFFORD O. (PETE) MS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Garcia, Francisco <br>
+                        
+Principal: Garcia, Francisco<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,8 +21,8 @@
                                 Phone: 702-799-3160<br/>
                                 Fax: 702-799-3169<br/>
 <a href="http://maps.google.com/maps?q=333 WEST TROPICAL PARKWAY,+NORTH LAS VEGAS,+NV+89031">Map</a>
-                                 | <a href="http://fmsflyers.org">Website</a> </br></br></br></p>
-<b>Region:</b> 1                                                    </div>
+                                 | <a href="http://fmsflyers.org">Website</a> 
+<b>Region:</b> 1                                                    </br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

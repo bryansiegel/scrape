@@ -10,7 +10,8 @@
                 PETERSON ACADEMIC CENTER<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Sharapan, Michael S<br>
+                        
+Principal: Sharapan, Michael S<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-6610<br/>
                                 Fax: 702-799-6604<br/>
 <a href="http://maps.google.com/maps?q=10250 W CENTENNIAL PKWY,+LAS VEGAS,+NV+89149">Map</a>
-                                 | <a href="https://www.petersonacademic.org/">Website</a> </br></br></br></p>
-<b>Region:</b> ESD                                                             <p><b>Motto:</b> Respect + Responsibility = Reward</p> <p><b>Mission:</b> It is the mission of the Peterson Behavior program to provide a structured learning environment wherein students experience success, modify behavior and return to the home school.</p>
-</div>
+                                 | <a href="https://www.petersonacademic.org/">Website</a> 
+<b>Region:</b> AS                                                             <p><b>Motto:</b> Respect + Responsibility = Reward</p> <p><b>Mission:</b> It is the mission of the Peterson Behavior program to provide a structured learning environment wherein students experience success, modify behavior and return to the home school.</p>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

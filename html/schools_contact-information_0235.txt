@@ -10,7 +10,8 @@
                 ALLEN, DEAN LAMAR ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Frasier, Juanita B<br>
+                        
+Principal: Frasier, Juanita B<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4580<br/>
                                 Fax: 702-799-4586<br/>
 <a href="http://maps.google.com/maps?q=8680 WEST HAMMER LANE,+LAS VEGAS,+NV+89149">Map</a>
-                                 | <a href="https://sites.google.com/nv.ccsd.net/allen-es/home">Website</a> </br></br></br></p>
+                                 | <a href="https://sites.google.com/nv.ccsd.net/allen-es/home">Website</a> 
 <b>Region:</b> 1                                                             <p><b>Motto:</b> Winners for a Lifetime</p> <p><b>Mission:</b> Dean La Mar Allen, creating a partnership between school, home, and community, fosters a positive, nurturing environment in which individuals can reach their maximum potential educationally, emotionally, and socially.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

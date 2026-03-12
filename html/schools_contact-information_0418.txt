@@ -10,7 +10,8 @@
                 WARREN, ROSE ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Eisen, Hilary A<br>
+                        
+Principal: Eisen, Hilary A<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4233<br/>
                                 Fax: 702-799-0317<br/>
 <a href="http://maps.google.com/maps?q=6451 BRANDYWINE WAY,+LAS VEGAS,+NV+89107">Map</a>
-                                 | <a href="https://www.rosewarren.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.rosewarren.com/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Home of Mustang Pride</p> <p><b>Mission:</b> Rose Warren is a place where dedicated educators and caring families use positive communication to empower children to achieve their highest potential as life-long learners.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

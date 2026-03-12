@@ -10,7 +10,8 @@
                 WASDEN, HOWARD ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Woodall, Casandra N<br>
+                        
+Principal: Woodall, Casandra N<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-4239<br/>
                                 Fax: 702-799-4252<br/>
 <a href="http://maps.google.com/maps?q=2831 PALOMINO LANE,+LAS VEGAS,+NV+89107">Map</a>
-                                 | <a href="https://www.wasdenwildcats.org/">Website</a> </br></br></br></p>
+                                 | <a href="https://www.wasdenwildcats.org/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> The Wasden Way - Together We Learn</p> <p><b>Mission:</b> The mission of Howard Wasden Elementary School is to involve parents, staff, community, and students in the full development of the potential of all students academically, socially, and emotionally to become life-long learners by providing a safe, nurturing, and motivating educational environment.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

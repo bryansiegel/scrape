@@ -10,7 +10,8 @@
                 FRENCH, DORIS ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Villarreal-Crabb, Tammy R<br>
+                        
+Principal: Villarreal-crabb, Tammy R<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7730<br/>
                                 Fax: 702-799-0757<br/>
 <a href="http://maps.google.com/maps?q=3235 EAST HACIENDA AVE,+LAS VEGAS,+NV+89120">Map</a>
-                                 | <a href="https://frenchelementary.weebly.com/">Website</a> </br></br></br></p>
+                                 | <a href="https://frenchelementary.weebly.com/">Website</a> 
 <b>Region:</b> 2                                                             <p><b>Motto:</b> Dolphins Today....Leaders Tomorrow!</p> <p><b>Mission:</b> Our mission at Doris French Elementary is to provide academic tools and promote social responsibility in a respectful learning environment that promotes a positive self-image.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

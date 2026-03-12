@@ -1,0 +1,36 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Superintendent</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_8978">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_8979">
+<div class="fsElement fsLayout fsTwoColumnWideRightLayout sub-hero-divider fsStyleAutoclear" data-use-new="true" id="fsEl_117733">
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_117734">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_117735">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div contenteditable="false" tabindex="-1">
+<figure class="fsImage" data-widget="image"><picture><img alt="Jhone Ebert" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1767049959/ccsdnet/pkebumoiokjq4cze60g0/jhone_2.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1767049959/ccsdnet/pkebumoiokjq4cze60g0/jhone_2.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1767049959/ccsdnet/pkebumoiokjq4cze60g0/jhone_2.png%22,%22width%22:583}]" data-resource-description="" data-resource-filename="jhone_2.png" data-resource-uuid="7caf64a3-b4d3-4740-9aed-2af08a32fd3b" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h3>Jhone Ebert</h3>
+<h5>Superintendent</h5>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_117736">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_117737">
+<div class="fsElementContent">
+<div style="margin-left: 10px;">
+<p>Jhone Ebert brings over three decades of experience, passion, and proven leadership to her Superintendent of the Clark County School District (CCSD) role. A longtime Southern Nevada resident and CCSD educator, Superintendent Ebert has dedicated her career to ensuring that every student—no matter their background or zip code—has the opportunity to succeed in school and life.</p>
+<p>As Superintendent of CCSD—the fifth-largest school district in the nation—Ebert brings deep experience and a strong track record of improving educational outcomes across Nevada. She approaches her role with a clear focus on expanding college and career readiness opportunities, advancing innovation and equity in classrooms, and fostering a culture where every employee feels valued and every student has the support they need to thrive.</p>
+<p>Before being selected as Superintendent in 2025, Ebert served as Nevada's Superintendent of Public Instruction, overseeing the academic progress of nearly 500,000 students across the state's 17 school districts. Under her leadership, Nevada transformed its 54-year-old education funding formula into a more equitable, student-focused model—the Pupil-Centered Funding Plan. Her tenure also saw bold investments in teacher recruitment and retention, as well as expanded access to career and technical education. She positioned Nevada as a national leader in computer science education, ensuring that more than 95% of high school students had access to foundational coursework that prepares them for the future.</p>
+<p>Superintendent Ebert's impact extends beyond policy. She's known for her collaborative approach, unwavering belief in the power of public education, and commitment to listening to students, families, and educators. During the COVID-19 pandemic, she led the statewide effort to ensure every student had the technology and connectivity needed to continue learning—work that earned Nevada national recognition.</p>
+<p>A lifelong learner, Ebert holds a Master of Education in Instructional and Curricular Studies from the University of Nevada, Las Vegas, and a Bachelor of Arts in Mathematics from California State University, Fresno. She has been honored nationally for her educational leadership, including the International Society for Technology in Education (ISTE) Impact Award, the National Community Builder Award, the UNLV College of Education Alumna of the Year, and the Presidential Award for Excellence in Mathematics Teaching.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

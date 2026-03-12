@@ -1,0 +1,63 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Crime Prevention Tips</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_170556">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_170557">
+<div class="fsElement fsContent sub-hero-border" data-use-new="true" id="fsEl_170558">
+<div class="fsElementContent">
+<ul>
+<li data-end="422" data-start="239">
+<p data-end="422" data-start="242" style="text-align: justify;">
+<strong data-end="266" data-start="242">Stay Alert and Aware</strong><br data-end="269" data-start="266"/>
+			Always be aware of your surroundings. Report suspicious behavior, unattended bags, or unknown individuals to school staff or <a contenteditable="false" href="tel:7027995411" style="cursor: pointer;">law enforcement immediately.</a>  <span style="color: #ff0000;"><strong>FOR EMERGENCIES, CALL 911!</strong></span></p>
+</li>
+<li data-end="588" data-start="424" style="text-align: justify;">
+<p data-end="588" data-start="427">
+<strong data-end="456" data-start="427">Lock It, Hide It, Keep It</strong><br data-end="459" data-start="456"/>
+			Lock your car and keep valuables out of sight. Don’t leave backpacks, electronics, or personal items <em>unattended or visible</em> inside your vehicle.</p>
+</li>
+<li data-end="756" data-start="590" style="text-align: justify;">
+<p data-end="756" data-start="593">
+<strong data-end="631" data-start="593">Practice Safe Drop-Off and Pick-Up</strong><br data-end="634" data-start="631"/>
+			Obey school zone speed limits and traffic signs. Use only designated drop-off/pick-up areas and avoid blocking travel lanes, crosswalks, or driveways.</p>
+</li>
+<li data-end="910" data-start="758" style="text-align: justify;">
+<p data-end="910" data-start="761">
+<strong data-end="791" data-start="761">Secure Personal Belongings</strong><br data-end="794" data-start="791"/>
+			Remind students to lock their lockers and secure items. Staff should lock classrooms and workspaces when unattended.</p>
+</li>
+<li data-end="1080" data-start="912" style="text-align: justify;">
+<p data-end="1080" data-start="915">
+<strong data-end="932" data-start="915">Say Something</strong><br data-end="935" data-start="932"/>
+			If you see or hear something concerning — online or in person — <strong><a contenteditable="false" href="https://www.p3campus.com/tipform.aspx?ID=5004" style="cursor: pointer;">report it</a></strong> immediately. Anonymous tip lines and school staff are always available.</p>
+</li>
+<li data-end="1238" data-start="1082" style="text-align: justify;">
+<p data-end="1238" data-start="1085">
+<strong data-end="1110" data-start="1085">Be Social Media Smart</strong><br data-end="1113" data-start="1110"/>
+			Think before you post. Never share personal information or location details publicly. Report cyberbullying or online threats.</p>
+</li>
+<li data-end="1411" data-start="1240" style="text-align: justify;">
+<p data-end="1411" data-start="1243">
+<strong data-end="1272" data-start="1243">Know Emergency Procedures</strong><br data-end="1275" data-start="1272"/>
+			Students and staff should know the school’s safety drills and emergency plans. Parents should also stay informed about school protocols.</p>
+</li>
+<li data-end="1566" data-start="1413" style="text-align: justify;">
+<p data-end="1566" data-start="1416">
+<strong data-end="1444" data-start="1416">Keep School Grounds Safe</strong><br data-end="1447" data-start="1444"/>
+			Report broken locks, lights, or gates to maintenance or school personnel. Small fixes can prevent bigger safety issues.</p>
+</li>
+<li data-end="1718" data-start="1568" style="text-align: justify;">
+<p data-end="1718" data-start="1571">
+<strong data-end="1603" data-start="1571">Build Positive Relationships</strong><br data-end="1606" data-start="1603"/>
+			A connected community is a safer one. Get to know your assigned Police Officers, teachers, administrators and staff members.</p>
+</li>
+<li data-end="1910" data-start="1720">
+<p data-end="1910" data-start="1724" style="text-align: justify;">
+<strong data-end="1761" data-start="1724">Encourage Safe Walking and Biking</strong><br data-end="1764" data-start="1761"/>
+			Use sidewalks, crosswalks, and bike lanes. Avoid distractions like phones or headphones when crossing streets. Follow crossing guard instructions.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</main>

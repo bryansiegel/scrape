@@ -1,0 +1,128 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Column Advancement for Administrative and Professional-Technical Employees</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_157338">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_157339">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_157340">
+<div class="fsElementContent">
+<p>The following information is provided for administrative and professional-technical employees who are currently on Column H/H1 or above. Hours may only be accrued while on H/H1 or above for column advancement to I/I1, J/J1, and K/K1 on the Administrative and Professional-Technical Salary Schedule.</p>
+<p>Column Advancement Information sessions are listed in the ELMS (Learning Activity keyword “Column Advancement Information”).</p>
+<hr/>
+<h2>Annual Deadlines</h2>
+<p><strong>March 31</strong> – Deadline to submit Request for Column Advancement for the next contract year. If an administrative or professional-technical employee fails to comply with this deadline, then the employee will not advance a column the next contract year. The Request for Column Advancement is provided in this link: <a contenteditable="false" href="https://forms.gle/T6BiMvN3cfFWFqQT8" style="cursor: pointer;" target="_blank">HERE</a>.</p>
+<p><strong>May 15</strong> – Deadline for accruing professional learning hours for column advancement at the beginning of the next contract year (July 1 or August 1), with the exception of college coursework. The deadline for accruing professional learning hours for college coursework is May 31. Any professional learning hours earned after these deadlines does not count toward advancement for the following contract year.</p>
+<p><strong>June 15</strong> – Deadline for submitting professional learning documentation in the Clark County School District (CCSD) Enterprise Learning Management System (ELMS) for column advancement at the beginning of the next contract year. Official university transcripts must be received by the Professional Growth System (PGS) and Nevada Education Performance Framework (NEPF) Department via e-transcript from the university at <a contenteditable="false" href="mailto:AdminSalary@nv.ccsd.net" style="cursor: pointer;">AdminSalary@nv.ccsd.net</a> or at the following physical address:<br/>
+Clark County School District<br/>
+Human Resources – Attn: PGS and NEPF Department<br/>
+2832 E. Flamingo Road<br/>
+Las Vegas, NV 89121</p>
+<p>For employees who submitted their Request for Column Advancement by March 31, CCSD shall provide a response in CCSD ELMS to correctly submitted professional learning documentation within eight (8) weeks from the date of submission. If an employee is short hours, the employee shall be afforded an opportunity to resubmit additional documentation of any hours earned by May 15.</p>
+<p> </p>
+<p><a contenteditable="false" href="https://drive.google.com/file/d/16Yh-z68iYQVEv1F9H_k_U5_e9uV82Coc/view" style="cursor: pointer;" target="_blank"><strong>Guide to Professional Learning Hours</strong> (Google)</a><br/>
+(Updated 2/4/26)<br/>
+Provides the information, resources, professional learning activity categories, and respective hourly maximums to accrue for movement from H/H1 or above to I/I1, J/J1, and K/K1.</p>
+<p><a contenteditable="false" href="https://drive.google.com/file/d/18u521D5gMtdeMU8EBx0ntmvQD1oDx9qE/view" style="cursor: pointer;" target="_blank"><strong>Professional Learning Approval Form</strong> (Google)</a><br/>
+This form must be completed by the administrative or professional-technical employee, with approval signature by the Chief in the employee’s chain of command after completing activities in Domains 2 through 16.</p>
+<p><a contenteditable="false" href="https://drive.google.com/file/d/1XwvyawhKe0WlVzveQ0DMogbIyxhLCrEW/view" style="cursor: pointer;" target="_blank"><strong>Pre-Approval Form</strong> (Google)</a><br/>
+This form must be completed by the administrative or professional-technical employee, with approval signature by the Chief in the employee’s chain of command before completing activities in Domains 2, 4, 6 (conference presentations), and 9.</p>
+<hr/>
+<h2>Domain Activities</h2>
+<p>The following Domain activities are eligible for column advancement accrual:</p>
+<h3>Domain 3: CCSD Professional Learning</h3>
+<ul>
+<li>LETRS for Administrators (2021–2022 to July 2024)</li>
+<li>QTEL for Administrators (2021–2022 to present)</li>
+<li>Mathematics Instructional Leader Institute (2021–2022 to present)</li>
+<li>Secondary English Language Arts Professional Learning Series (2022–2023 to present)</li>
+<li>Mathematics Leading Standards Based Learning (2021–22 to present)</li>
+<li>Region Collaborative PLC (2022–2023 to present)</li>
+<li>Master Scheduling and Equity (2022–2023)</li>
+<li>Grading Summit (2022–2023 to present)</li>
+<li>Instructional Focal Point-Monitoring Tier I Instruction-Implementation (2022–2023 to present)</li>
+<li>Instructional Focal Point-Monitoring Tier I Instruction-Application (2024–2025 to present)</li>
+<li>Science Instruction Leaders Series (2022–2023 to present)</li>
+<li>Management Leadership Academy (2023–2024 to present)</li>
+<li>High Leverage Look-Fors in a HMH, Into Reading Classroom (2023–2024 to present)</li>
+<li>Targeted Supports within Into Reading (2023–2024 to present)</li>
+<li>High Leverage Look-Fors in a HMH, Into Literature Classroom (2023–2024 to present)</li>
+<li>Targeted Supports within Into Literature (2023–2024 to present)</li>
+<li>High Leverage Look-Fors in a Savvas, myPerspectives Classroom (2023–2024 to present)</li>
+<li>Targeted Supports within myPerspectives (2023–2024 to present)</li>
+<li>Coaching Framework for Educator Success (2023–2024 to present)</li>
+<li>Preventing Targeted Violence (2023–2024 to present)</li>
+<li>Reinvigorating Culture and Climate: The Impact on Student Outcomes and ALL Stakeholders (May 29, 2024)</li>
+<li>Optimizing the Use of Tier I Instructional Materials in the Mathematics Classroom (June 5 or 6, 2024; participants choose one of the two dates listed to attend)</li>
+<li>Developing Professional Learning Communities (July 17 or 18, 2024; participants choose one of the two dates listed to attend)</li>
+<li>Optimizing the Use of ELA Tier I Instructional Materials (July 19 or 22, 2024; participants choose one of the two dates listed to attend)</li>
+<li>Optimizing the Use of Tier I Instructional Materials in the Social Studies Classroom (July 23 or 25, 2024; participants choose one of the two dates listed to attend)</li>
+<li>Optimizing the Use of Tier I Instructional Materials in the Science Classroom (July 24 or 26, 2024; participants choose one of the two dates listed to attend)</li>
+<li>Tools and Initiatives to Decrease Chronic Absenteeism at School (November 16, 2024)</li>
+<li>2025 NASA Summer Institute (June 12–13, 2025)</li>
+<li>Optimizing School Counselor Impact Comprehensive Counseling Programs (2025–2026)</li>
+<li>Elementary Social Studies Instructional Leadership Institute (2025–2026)</li>
+<li>Secondary Social Studies Instructional Leadership Institute (2025–2026)</li>
+<li>Leveraging Canva for Enhanced School Communication and Productivity (2025–2026)</li>
+<li>Culturally and Linguistically Responsive (CLR) Teaching Cadre... (2025–2026)</li>
+<li>School Counseling Instructional Leaders Institute (2026–2027)</li>
+</ul>
+<h3>Domain 5: CCSD Senior Leadership Professional Learning</h3>
+<ul>
+<li>National Institute for School Leadership (NISL) (Organized by Leadership Development; January 2020–July 2023)</li>
+<li>Public Education Foundation (PEF) Executive Leadership Academy (2020–2021 and 2021–2022 only)</li>
+<li>PBLWorks School Leadership Services (Organized by Leadership and Professional Learning Division (LPLD); 2021–2022 to present)</li>
+<li>Harvard Certificate in School Management and Leadership (Organized by Leadership Development; 2021–2022 to present)</li>
+<li>Howard University Executive Leadership Academy (Organized by LPLD; 2021–2022 to present)</li>
+<li>Voice4Equity (Organized by LPLD; 2021–2022 to present)</li>
+<li>Teacher Clarity Playbook Certification (Organized by LPLD; 2022–2023 to present)</li>
+<li>ALAS National Principal Leadership Academy (Organized by Academic Unit and ELLD; 2022–2023 to present)</li>
+<li>Next Education Workforce (Organized by Office of the Deputy Superintendent; 2022–2023 to present)</li>
+<li>Principal Support: ULP (Organized by LPLD, 2023–2024)</li>
+<li>Dare to Lead (Organized by LPLD, 2023–2024)</li>
+<li>Interview Cadre - Administrative Services (2024–2025 to present)</li>
+<li>Leadership Institute of Nevada (LION) Executive Leadership Academy (2025–2026)</li>
+<li>PLC Steering Committee Collaborative (Organized by LPLD, 2025–2026)</li>
+</ul>
+<h3>Domain 7: Workshops and Institutes, Specific Organizations</h3>
+<ul>
+<li>International Baccalaureate</li>
+<li>Advanced Placement/College Board</li>
+<li>Project Lead the Way</li>
+<!-- 						<li>UnBoundEd</li> -->
+<li>UnBoundEd Virtual Summits (Organized by LPLD; 2021–2022 to July 2024)</li>
+</ul>
+<h3>Domain 14: Working Group/Task Force Leadership</h3>
+<ul>
+<li>Houghton Mifflin Harcourt (HMH) Elementary School Working Group (Owners: Mancl, Criner-Wilson, Solem)</li>
+<li>Construction and Facilities Maintenance Working Group (Owners: Markwith, McLaughlin, Nizetich)</li>
+<li>Purchasing/New School Standards Committee (Owners: Casey, Mancl)</li>
+<li>Technology and Information Systems Services Division (TISS) Principal Working Group (Owner: Viscosi)</li>
+<li>Teacher Recruitment and Retention Committee (Owner: Triana)</li>
+<li>School Safety Committee (Owner: Casey)</li>
+<li>Budget Committee (Owners: Dayhoff, Bartholomew)</li>
+<li>Grading Committee (Owners: Mancl, Huffman, Meyer)</li>
+<li>Student Behavior and Attendance Advisory Group (Owner: McPartlin)</li>
+<li>Self-Contained Programs in Wall-to-Wall Magnet Schools Working Group (Owners: Stacy Sly,  Mancl, Moore)</li>
+<li>Open Enrollment Working Group (formerly Change of School Assignment [COSA]) (Owner: Gia Moore)</li>
+<li>Magnet Schools Contract Working Group (Owner: Gia Moore)</li>
+<li>Elementary Mathematics Enrichment Framework: Kindergarten–Grade 5 Project Plan (Owners: Mancl, Criner-Wilson, Lile)</li>
+<li>Artificial Intelligence (AI) Principal Working Group (Owners: Mancl, Criner-Wilson, Leavitt)</li>
+</ul>
+<hr/>
+<h2>Documentation Submission Deadline and Tutorials</h2>
+<p>June 15 Submission Deadline:<br/>
+All documentation for professional learning hours accrued by May 15 are due in CCSD ELMS by June 15. Any professional learning submissions timestamped on or after 12:00 a.m. on June 16 will not count toward advancement for the following contract year. Training sessions for submitting professional learning hours can be found in CCSD ELMS, keywords “Column Advancement Information.”</p>
+<h3>Submission Tutorials and Directions</h3>
+<p><a contenteditable="false" href="https://drive.google.com/drive/folders/1CO5TuHD3P5tzfOhbPNTCJrXLqf7aMGRy" style="cursor: pointer;" target="_blank">Documentation and Google Folder submission organization examples (Google)</a><br/>
+<iframe allowfullscreen="true" aria-label="Google Folder Submission" class="ivideoframe" frameborder="0" height="277" scrolling="no" src="https://0110-CPD.eduvision.tv/EmbedPlayer.aspx?qev=CT1wecDsedA9BuaXYB%252bj%252bDQQOCUTjbhawAKZHwCFOrFrTFG5jjXKIcWtZT%252fPUtNAW9qnFicC1ljb%252b9CIbmFXTWME9tUoIg%252flsWMYFSx4pjvBfpAOYXJnkH3qL8cieIZ9d8kGGwmQcauAwKeGMyXKVA%253d%253d" title="Google Folder Submission" toolbar="no" width="492"></iframe><br/>
+<a contenteditable="false" href="https://drive.google.com/file/d/15o_EV3_YWJkj2wsuJ2hp5q1JX87lWbFc/view" style="cursor: pointer;" target="_blank">Using Google Drive to Upload and Share Documents directions (PDF)</a><br/>
+<iframe allowfullscreen="true" aria-label="Login ELMS" class="ivideoframe" frameborder="0" height="277" scrolling="no" src="https://0110-CPD.eduvision.tv/EmbedPlayer.aspx?qev=CT1wecDsedCXFXsPbwoztzQQOCUTjbhawAKZHwCFOrFrTFG5jjXKIcWtZT%252fPUtNAW9qnFicC1ljb%252b9CIbmFXTWME9tUoIg%252flSyJAHb51fNTBfpAOYXJnkH3qL8cieIZ9d8kGGwmQcauAwKeGMyXKVA%253d%253d" title="Login ELMS" toolbar="no" width="492"></iframe><br/>
+<a contenteditable="false" href="https://drive.google.com/file/d/1LZe-zg-29T9YVaCynDYGuz0n9Uro4CH1/view" style="cursor: pointer;" target="_blank">Logging in to CCSD ELMS directions (Google)</a><br/>
+<iframe allowfullscreen="true" aria-label="Submitting Salary" class="ivideoframe" frameborder="0" height="277" scrolling="no" src="https://0110-CPD.eduvision.tv/EmbedPlayer.aspx?qev=CT1wecDsedBwaFnARLKd6jQQOCUTjbhawAKZHwCFOrFrTFG5jjXKIcWtZT%252fPUtNAW9qnFicC1ljb%252b9CIbmFXTWME9tUoIg%252flrfraXLh0YeTBfpAOYXJnkH3qL8cieIZ9d8kGGwmQcauAwKeGMyXKVA%253d%253d" title="Submitting Salary" toolbar="no" width="492"></iframe><br/>
+<a contenteditable="false" href="https://drive.google.com/file/d/15SbFlSppAZ6qZAwune4Qmiqs5UkWHS2I/view" style="cursor: pointer;" target="_blank">Submitting Salary Advancement Documentation in CCSD ELMS directions (Google)</a></p>
+<hr/>
+<h2>Questions</h2>
+<p>Please direct questions to the Professional Growth System Department at (702) 799-4747 or via CCSD Google email at <a contenteditable="false" href="mailto:AdminSalary@nv.ccsd.net" style="cursor: pointer;">AdminSalary@nv.ccsd.net</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</main>

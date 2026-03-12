@@ -10,7 +10,8 @@
                 WHITNEY ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Tarrant, Andrea <br>
+                        
+Principal: Tarrant, Andrea<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-7790<br/>
                                 Fax: 702-799-0933<br/>
 <a href="http://maps.google.com/maps?q=5005 KEENAN AVENUE,+LAS VEGAS,+NV+89122">Map</a>
-                                 | <a href="https://whitneywizards.org">Website</a> </br></br></br></p>
+                                 | <a href="https://whitneywizards.org">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> The Miracles of Tomorrow Are Happening Here Today</p> <p><b>Mission:</b> We are learners cooperatively building a community of self-motivated responsible citizens working towards achieving academic success.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

@@ -10,7 +10,8 @@
                 WHITE, THURMAN ACDMY OF PERFORMING ARTS<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Jackson, Matthew W<br>
+                        
+Principal: Jackson, Matthew W<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-0777<br/>
                                 Fax: 702-799-7690<br/>
 <a href="http://maps.google.com/maps?q=1661 GALLERIA DRIVE,+HENDERSON,+NV+89014">Map</a>
-                                 | <a href="http://thurmanwhitems.com">Website</a> </br></br></br></p>
+                                 | <a href="http://thurmanwhitems.com">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Building the Future...One Student at a Time</p> <p><b>Mission:</b> The mission of Thurman White Middle School is to create a learning environment where students achieve their academic potential and demonstrate respect and responsibility.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->

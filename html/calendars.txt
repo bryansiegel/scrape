@@ -1,0 +1,882 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Calendars</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_8265">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_8266">
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-one-panel="true" data-use-new="true" id="fsEl_154073">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-154076" role="presentation">
+<a aria-controls="fsEl_154076" aria-selected="false" href="#fs-panel-154076" role="tab">2025 - 2026 Student and Staff Calendars</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-154074" role="presentation">
+<a aria-controls="fsEl_154074" aria-selected="false" href="#fs-panel-154074" role="tab">2026 - 2027 Student and Staff Calendars</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-207974" role="presentation">
+<a aria-controls="fsEl_207974" aria-selected="false" href="#fs-panel-207974" role="tab">2027 - 2028 Staff Calendars</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStateOpen fsStyleAutoclear" data-use-new="true" id="fsEl_154076" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_154076" aria-expanded="false" href="#fs-panel-154076" role="button">2025 - 2026 Student and Staff Calendars</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-154076"></a>
+<div class="fsElement fsLayout fsTwoColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_154078">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_154079">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_154080">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Calendar" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755792419/ccsdnet/nqkejhghct3dvzzlsimh/calendar.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="calendar.png" data-resource-uuid="9ae2a19d-392f-490e-83e1-ff6c481cf4d2" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Student Calendar</h4>
+<a class="button-1" data-file-name="2025-2026-school-calendar-students-updated-final_2.pdf" data-resource-uuid="b4b5e807-bf93-4b29-a508-5eafdf5ad0a8" href="/fs/resource-manager/view/b4b5e807-bf93-4b29-a508-5eafdf5ad0a8" target="_blank">English</a> <a class="button-1" data-file-name="2025-2026-school-calendar-students-updated-final-Spanish.pdf" data-resource-uuid="ba6b2432-6748-4cde-926b-d60e4d7a257b" href="/fs/resource-manager/view/ba6b2432-6748-4cde-926b-d60e4d7a257b" target="_blank">Español</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_154081">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_154082">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Calendar" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755792419/ccsdnet/nqkejhghct3dvzzlsimh/calendar.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="calendar.png" data-resource-uuid="9ae2a19d-392f-490e-83e1-ff6c481cf4d2" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Staff Calendar</h4>
+<a class="button-1" data-file-name="25-26-Staff-Calendar.pdf" data-resource-uuid="246a61cd-0b96-4256-825a-402e3d3663c9" href="/fs/resource-manager/view/246a61cd-0b96-4256-825a-402e3d3663c9" target="_blank">English</a> <a class="button-1" data-file-name="SPANISH-25-26-Staff-Calendar.pdf" data-resource-uuid="fb7b571b-c0bb-4113-ab4b-596ec38a03ea" href="/fs/resource-manager/view/fb7b571b-c0bb-4113-ab4b-596ec38a03ea" target="_blank">Español</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_154074" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_154074" aria-expanded="false" href="#fs-panel-154074" role="button">2026 - 2027 Student and Staff Calendars</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-154074"></a>
+<div class="fsElement fsLayout fsTwoColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_144671">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_144672">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_144666">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Calendar" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755792419/ccsdnet/nqkejhghct3dvzzlsimh/calendar.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="calendar.png" data-resource-uuid="9ae2a19d-392f-490e-83e1-ff6c481cf4d2" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Student Calendar</h4>
+<a class="button-1" data-file-name="2026-2027-school-calendar-students-updated-final.pdf" data-resource-uuid="a812d445-c980-4d02-8a60-c7314bab9ad7" href="/fs/resource-manager/view/a812d445-c980-4d02-8a60-c7314bab9ad7" target="_blank">English</a> <a class="button-1" data-file-name="2026-2027-school-calendar-students-updated-final-Spanish.pdf" data-resource-uuid="ca2e2890-7d22-4542-a3c9-055790ed6f1e" href="/fs/resource-manager/view/ca2e2890-7d22-4542-a3c9-055790ed6f1e" target="_blank">Español</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_144673">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_144668">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Calendar" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755792419/ccsdnet/nqkejhghct3dvzzlsimh/calendar.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="calendar.png" data-resource-uuid="9ae2a19d-392f-490e-83e1-ff6c481cf4d2" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Staff Calendar</h4>
+<a class="button-1" data-file-name="2026-2027-school-calendar-staff.pdf" data-resource-uuid="02284dcd-61f2-41bf-83ff-a6d5a1190c25" href="/fs/resource-manager/view/02284dcd-61f2-41bf-83ff-a6d5a1190c25" target="_blank">English</a> <a class="button-1" data-file-name="2026-2027-school-calendar-staff-Spanish.pdf" data-resource-uuid="34cb1e42-48be-4520-9fc5-74b7e8bbbc5f" href="/fs/resource-manager/view/34cb1e42-48be-4520-9fc5-74b7e8bbbc5f" target="_blank">Español</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_207974" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_207974" aria-expanded="false" href="#fs-panel-207974" role="button">2027 - 2028 Staff Calendars</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-207974"></a>
+<div class="fsElement fsLayout fsTwoColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_207976">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_207977">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_212802">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Calendar" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755792419/ccsdnet/nqkejhghct3dvzzlsimh/calendar.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="calendar.png" data-resource-uuid="9ae2a19d-392f-490e-83e1-ff6c481cf4d2" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Student Calendar</h4>
+<a class="button-1" data-file-name="Student-2027-2028-Calendar.pdf" data-resource-uuid="952b5285-38fe-4265-a46b-7607e925579f" href="/fs/resource-manager/view/952b5285-38fe-4265-a46b-7607e925579f" target="_blank">English</a> <a class="button-1" data-file-name="SPANISH-Student-2027-2028-Calendar.pdf" data-resource-uuid="726556bc-4f09-4d66-8807-053a299f5963" href="/fs/resource-manager/view/726556bc-4f09-4d66-8807-053a299f5963" target="_blank">Español</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_207979">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_207980">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Calendar" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755792419/ccsdnet/nqkejhghct3dvzzlsimh/calendar.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="calendar.png" data-resource-uuid="9ae2a19d-392f-490e-83e1-ff6c481cf4d2" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Staff Calendar</h4>
+<a class="button-1" data-file-name="2027-2028-school-calendar-staff.pdf" data-resource-uuid="abc7e3b2-e22a-4237-b614-42a801c0754d" href="/fs/resource-manager/view/abc7e3b2-e22a-4237-b614-42a801c0754d" target="_blank">English</a> <a class="button-1" data-file-name="2027-2028-school-calendar-staff-Spanish.pdf" data-resource-uuid="7930f379-71ad-4b6a-967b-ef0a2dfb54c7" href="/fs/resource-manager/view/7930f379-71ad-4b6a-967b-ef0a2dfb54c7" target="_blank">Español</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_144674">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-144675" role="presentation">
+<a aria-controls="fsEl_144675" aria-selected="false" href="#fs-panel-144675" role="tab">Student Graduation Schedule</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-144677" role="presentation">
+<a aria-controls="fsEl_144677" aria-selected="false" href="#fs-panel-144677" role="tab">Board Meetings</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_144675" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_144675" aria-expanded="false" href="#fs-panel-144675" role="button">Student Graduation Schedule</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-144675"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_142728">
+<div class="fsElementContent">
+<div><a class="button-7" href="https://ccsdgraduations.eduvision.tv/LiveEvents" target="_blank">Live Stream</a></div>
+<table class="table-styled">
+<tbody>
+<tr>
+<th style="font-weight: 500;">High School</th>
+<th style="font-weight: 500;">Date</th>
+<th style="font-weight: 500;">Time</th>
+<th style="font-weight: 500;">Location</th>
+</tr>
+<tr class="odd">
+<td width="30%">Adult Education Programs (Desert Rose and St. Louis Campus)</td>
+<td class="text-center" width="20%">May 22, 2026</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="even">
+<td width="30%">Advanced Technologies Academy</td>
+<td class="text-center" width="20%">May 26, 2026</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="odd">
+<td width="30%">Arbor View HS</td>
+<td class="text-center" width="20%">May 23, 2026</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="even">
+<td width="30%">Basic Academy of International Studies</td>
+<td class="text-center" width="20%">May 27, 2026</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="odd">
+<td width="30%">Bonanza HS</td>
+<td class="text-center" width="20%">May 27, 2026</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="even">
+<td width="30%">Boulder City HS</td>
+<td class="text-center" width="20%">May 22, 2026</td>
+<td class="text-center" width="10%">7:30 PM</td>
+<td class="text-center" width="20%">Boulder City HS Field</td>
+</tr>
+<tr class="odd">
+<td width="30%">Burk Horizon HS</td>
+<td class="text-center" width="20%">May 27, 2026</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Lowden Theater</td>
+</tr>
+<tr class="even">
+<td width="30%">Canyon Springs HS and the Leadership and Law Preparatory Academy</td>
+<td class="text-center" width="20%">May 27, 2026</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="odd">
+<td width="30%">Centennial HS</td>
+<td class="text-center" width="20%">May 28, 2026</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="even">
+<td width="30%">Central Technical Training Academy</td>
+<td class="text-center" width="20%">May 28, 2026</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Lowden Theater</td>
+</tr>
+<tr class="odd">
+<td width="30%">Chaparral HS</td>
+<td class="text-center" width="20%">May 28, 2026</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="even">
+<td width="30%">Cheyenne HS</td>
+<td class="text-center" width="20%">May 27, 2026</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="odd">
+<td width="30%">Cimarron-Memorial HS</td>
+<td class="text-center" width="20%">May 26, 2026</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="even">
+<td width="30%">Clark HS</td>
+<td class="text-center" width="20%">May 29, 2026</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="odd">
+<td width="30%">College of Southern Nevada HS (East, South, and West Campus)</td>
+<td class="text-center" width="20%">May 22, 2026</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="even">
+<td width="30%">Coronado HS</td>
+<td class="text-center" width="20%">May 27, 2026</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="odd">
+<td width="30%">Cowan Sunset HS (including Amy Ayoub Academy of Hope)</td>
+<td class="text-center" width="20%">May 28, 2026</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Lowden Theater</td>
+</tr>
+<tr class="even">
+<td width="30%">Del Sol Academy of the Performing Arts</td>
+<td class="text-center" width="20%">May 27, 2026</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="odd">
+<td width="30%">Desert Oasis HS</td>
+<td class="text-center" width="20%">May 28, 2026</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="even">
+<td width="30%">Desert Pines HS</td>
+<td class="text-center" width="20%">May 29, 2026</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="odd">
+<td width="30%">Desert Rose HS</td>
+<td class="text-center" width="20%">May 22, 2026</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="even">
+<td width="30%">Dr. Charles I. West Preparatory Academy</td>
+<td class="text-center" width="20%">May 28, 2026</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Lowden Theater</td>
+</tr>
+<tr class="odd">
+<td width="30%">Durango HS</td>
+<td class="text-center" width="20%">May 26, 2026</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="even">
+<td width="30%">East CTA</td>
+<td class="text-center" width="20%">May 27, 2026</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="odd">
+<td width="30%">Eldorado HS</td>
+<td class="text-center" width="20%">May 29, 2026</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="even">
+<td width="30%">Florence McClure Women's Correctional Center Adult HS</td>
+<td class="text-center" width="20%">May 21, 2026</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Florence McClure Campus</td>
+</tr>
+<tr class="odd">
+<td width="30%">Foothill HS</td>
+<td class="text-center" width="20%">May 22, 2026</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="even">
+<td width="30%">Global Community HS</td>
+<td class="text-center" width="20%">May 27, 2026</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Lowden Theater</td>
+</tr>
+<tr class="odd">
+<td width="30%">Green Valley HS</td>
+<td class="text-center" width="20%">May 23, 2026</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="even">
+<td width="30%">Helen J. Stewart</td>
+<td class="text-center" width="20%">May 12, 2026</td>
+<td class="text-center" width="10%">5:00 PM</td>
+<td class="text-center" width="20%">Helen J. Stewart Campus</td>
+</tr>
+<tr class="odd">
+<td width="30%">High Desert State Prison Adult HS/Youthful Offender Program</td>
+<td class="text-center" width="20%">May 19, 2026</td>
+<td class="text-center" width="10%">8:00 AM</td>
+<td class="text-center" width="20%">High Desert Campus</td>
+</tr>
+<tr class="even">
+<td width="30%">Indian Springs HS</td>
+<td class="text-center" width="20%">May 27, 2026</td>
+<td class="text-center" width="10%">7:00 PM</td>
+<td class="text-center" width="20%">Indian Springs HS Gym</td>
+</tr>
+<tr class="odd">
+<td width="30%">John F. Miller</td>
+<td class="text-center" width="20%">May 15, 2026</td>
+<td class="text-center" width="10%">10:00 AM</td>
+<td class="text-center" width="20%">Miller Campus</td>
+</tr>
+<tr class="even">
+<td width="30%">Las Vegas Academy of the Arts</td>
+<td class="text-center" width="20%">May 27, 2026</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="odd">
+<td width="30%">Las Vegas HS</td>
+<td class="text-center" width="20%">May 27, 2026</td>
+<td class="text-center" width="10%">7:30 PM</td>
+<td class="text-center" width="20%">Las Vegas HS Field</td>
+</tr>
+<tr class="even">
+<td width="30%">Laughlin HS</td>
+<td class="text-center" width="20%">May 26, 2026</td>
+<td class="text-center" width="10%">2:00 PM</td>
+<td class="text-center" width="20%">Laughlin HS Gym</td>
+</tr>
+<tr class="odd">
+<td width="30%">Legacy HS</td>
+<td class="text-center" width="20%">May 22, 2026</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="even">
+<td width="30%">Liberty HS</td>
+<td class="text-center" width="20%">May 23, 2026</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="odd">
+<td width="30%">Miley Achievement Center</td>
+<td class="text-center" width="20%">May 22, 2026</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Miley Campus</td>
+</tr>
+<tr class="even">
+<td width="30%">Mission HS</td>
+<td class="text-center" width="20%">May 27, 2026</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Lowden Theater</td>
+</tr>
+<tr class="odd">
+<td width="30%">Moapa Valley HS</td>
+<td class="text-center" width="20%">May 22, 2026</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Moapa Valley HS Gym</td>
+</tr>
+<tr class="even">
+<td width="30%">Mojave HS</td>
+<td class="text-center" width="20%">May 29, 2026</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="odd">
+<td width="30%">Morris Sunset East HS</td>
+<td class="text-center" width="20%">May 28, 2026</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Lowden Theater</td>
+</tr>
+<tr class="even">
+<td width="30%">Nevada Learning Academy at CCSD</td>
+<td class="text-center" width="20%">May 26, 2026</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="odd">
+<td width="30%">Northeast CTA</td>
+<td class="text-center" width="20%">May 23, 2026</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="even">
+<td width="30%">Northwest CTA</td>
+<td class="text-center" width="20%">May 28, 2026</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="odd">
+<td width="30%">Palo Verde HS</td>
+<td class="text-center" width="20%">May 23, 2026</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="even">
+<td width="30%">Rancho HS</td>
+<td class="text-center" width="20%">May 28, 2026</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="odd">
+<td width="30%">Sandy Valley HS</td>
+<td class="text-center" width="20%">May 21, 2026</td>
+<td class="text-center" width="10%">5:00 PM</td>
+<td class="text-center" width="20%">Sandy Valley HS Gym</td>
+</tr>
+<tr class="even">
+<td width="30%">Shadow Ridge HS</td>
+<td class="text-center" width="20%">May 26, 2026</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="odd">
+<td width="30%">Sierra Vista HS</td>
+<td class="text-center" width="20%">May 26, 2026</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="even">
+<td width="30%">Silverado HS</td>
+<td class="text-center" width="20%">May 28, 2026</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="odd">
+<td width="30%">Southeast CTA</td>
+<td class="text-center" width="20%">May 26, 2026</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="even">
+<td width="30%">Southern Desert Correctional Center</td>
+<td class="text-center" width="20%">May 20, 2026</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Southern Desert Campus</td>
+</tr>
+<tr class="odd">
+<td width="30%">Southwest CTA</td>
+<td class="text-center" width="20%">May 23, 2026</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="even">
+<td width="30%">Spring Valley HS</td>
+<td class="text-center" width="20%">May 22, 2026</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Thomas &amp; Mack Center</td>
+</tr>
+<tr class="odd">
+<td width="30%">Sunrise Mountain HS</td>
+<td class="text-center" width="20%">May 26, 2026</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="even">
+<td width="30%">Valley HS</td>
+<td class="text-center" width="20%">May 29, 2026</td>
+<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="odd">
+<td width="30%">Variety School</td>
+<td class="text-center" width="20%">May 13, 2026</td>
+<td class="text-center" width="10%">5:00 PM</td>
+<td class="text-center" width="20%">Variety Campus</td>
+</tr>
+<tr class="even">
+<td width="30%">Veterans Tribute CTA</td>
+<td class="text-center" width="20%">May 23, 2026</td>
+<td class="text-center" width="10%">9:00 AM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="odd">
+<td width="30%">Virgin Valley HS</td>
+<td class="text-center" width="20%">May 22, 2026</td>
+<td class="text-center" width="10%">8:00 PM</td>
+<td class="text-center" width="20%">Virgin Valley HS Gym</td>
+</tr>
+<tr class="even">
+<td width="30%">West CTA</td>
+<td class="text-center" width="20%">May 23, 2026</td>
+<td class="text-center" width="10%">6:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+<tr class="odd">
+<td width="30%">Western HS</td>
+<td class="text-center" width="20%">May 29, 2026</td>
+<td class="text-center" width="10%">3:00 PM</td>
+<td class="text-center" width="20%">Orleans Arena</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_144676">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_144677" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_144677" aria-expanded="false" href="#fs-panel-144677" role="button">Board Meetings</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-144677"></a>
+<div class="fsElement fsCalendar fsGrid fsItemCount_5" data-calendar-ids="47" data-new-calendar-style="true" data-use-new="true" id="fsEl_142730">
+<div class="fsElementContent">
+<div class="fsCalendarGridControlBar fsStyleAutoclear">
+<div class="fsElementControls">
+<a aria-label="Print Grid Element" class="fsPrintButton" href="/fs/elements/142730/print?" rel="noopener" target="_blank" title="Print Grid Element">
+<span class="fsStyleSROnly">Print Grid Element</span>
+</a>
+<div class="fsAlertFeeds">
+<a aria-label="Calendar RSS Feeds" class="fsRSSIcon" href="#" title="Calendar RSS">
+<span class="fsStyleSROnly">Calendar RSS Feeds</span>
+</a></div>
+</div>
+<div class="fsCalendarGridBrowser fsCalendarMonthBrowser">
+<button aria-label="Previous Month" class="fsCalendarPrevMonth fsLeftArrow" value="2026-02-09">&lt;</button>
+<span>March 2026</span>
+<button aria-label="Next Month" class="fsCalendarNextMonth fsRightArrow" value="2026-04-09">&gt;</button>
+</div>
+</div>
+<div class="fsCalendarDayView fsStateHidden" data-day="1" data-month="2" data-year="2026" role="tabpanel"></div>
+<div class="fsNewModuleCalendarGrid fsCalendarEventGrid fsStyleAutoclear" role="tabpanel">
+<div class="fsCalendarWeekdays">
+<span>Sunday</span>
+<span>Monday</span>
+<span>Tuesday</span>
+<span>Wednesday</span>
+<span>Thursday</span>
+<span>Friday</span>
+<span>Saturday</span>
+</div>
+<div class="fsCalendarRow">
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="1" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Sunday,</span>
+<span class="fsCalendarMonth">March</span>
+					1
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="2" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Monday,</span>
+<span class="fsCalendarMonth">March</span>
+					2
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="3" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Tuesday,</span>
+<span class="fsCalendarMonth">March</span>
+					3
+				</div>
+</div>
+<div class="fsCalendarDaybox fsStateHasEvents">
+<div class="fsCalendarDate" data-day="4" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Wednesday,</span>
+<span class="fsCalendarMonth">March</span>
+					4
+				</div>
+<div class="fsCalendarInfo fsCalendarDayViewEvent noBottomMargin fsCalendarEvent">
+<span aria-hidden="true" class="fsElementEventColorIcon" style="background:#f1af1c" title="Board Meetings"></span><span class="fsStyleSROnly">Board Meetings</span>
+<a class="fsCalendarTitle fsCalendarEventLink" data-occur-id="23889852_2026-03-05T00:00:00Z_2026-03-05T01:00:00Z" href="#" title="Work Session Meeting">Work Session Meeting</a>
+<div class="fsTimeRange">
+<time class="fsStartTime" datetime="2026-03-04T16:00:00-08:00"><span class="fsHour"> 4</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+<span class="fsTimeSeperator"> - </span>
+<time class="fsEndTime" datetime="2026-03-04T17:00:00-08:00"><span class="fsHour"> 5</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+</div>
+</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="5" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Thursday,</span>
+<span class="fsCalendarMonth">March</span>
+					5
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="6" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Friday,</span>
+<span class="fsCalendarMonth">March</span>
+					6
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="7" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Saturday,</span>
+<span class="fsCalendarMonth">March</span>
+					7
+				</div>
+</div>
+</div><div class="fsCalendarRow">
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="8" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Sunday,</span>
+<span class="fsCalendarMonth">March</span>
+					8
+				</div>
+</div>
+<div class="fsCalendarDaybox fsCalendarToday">
+<div class="fsCalendarDate" data-day="9" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Monday,</span>
+<span class="fsCalendarMonth">March</span>
+					9
+				</div>
+</div>
+<div class="fsCalendarDaybox fsStateHasEvents">
+<div class="fsCalendarDate" data-day="10" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Tuesday,</span>
+<span class="fsCalendarMonth">March</span>
+					10
+				</div>
+<div class="fsCalendarInfo fsCalendarDayViewEvent noBottomMargin fsCalendarEvent">
+<span aria-hidden="true" class="fsElementEventColorIcon" style="background:#f1af1c" title="Board Meetings"></span><span class="fsStyleSROnly">Board Meetings</span>
+<a class="fsCalendarTitle fsCalendarEventLink" data-occur-id="43982815_2026-03-10T17:30:00Z_2026-03-10T18:30:00Z" href="#" title="Attendance Zone Advisory Commission Meeting">Attendance Zone Advisory Commission Meeting</a>
+<div class="fsTimeRange">
+<time class="fsStartTime" datetime="2026-03-10T10:30:00-07:00"><span class="fsHour">10</span>:<span class="fsMinute">30</span> <span class="fsMeridian">AM</span></time>
+<span class="fsTimeSeperator"> - </span>
+<time class="fsEndTime" datetime="2026-03-10T11:30:00-07:00"><span class="fsHour">11</span>:<span class="fsMinute">30</span> <span class="fsMeridian">AM</span></time>
+</div>
+</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="11" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Wednesday,</span>
+<span class="fsCalendarMonth">March</span>
+					11
+				</div>
+</div>
+<div class="fsCalendarDaybox fsStateHasEvents">
+<div class="fsCalendarDate" data-day="12" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Thursday,</span>
+<span class="fsCalendarMonth">March</span>
+					12
+				</div>
+<div class="fsCalendarInfo fsCalendarDayViewEvent noBottomMargin fsCalendarEvent">
+<span aria-hidden="true" class="fsElementEventColorIcon" style="background:#f1af1c" title="Board Meetings"></span><span class="fsStyleSROnly">Board Meetings</span>
+<a class="fsCalendarTitle fsCalendarEventLink" data-occur-id="23889853_2026-03-13T00:00:00Z_2026-03-13T01:00:00Z" href="#" title="Regular Board Meeting">Regular Board Meeting</a>
+<div class="fsTimeRange">
+<time class="fsStartTime" datetime="2026-03-12T17:00:00-07:00"><span class="fsHour"> 5</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+<span class="fsTimeSeperator"> - </span>
+<time class="fsEndTime" datetime="2026-03-12T18:00:00-07:00"><span class="fsHour"> 6</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+</div>
+</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="13" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Friday,</span>
+<span class="fsCalendarMonth">March</span>
+					13
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="14" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Saturday,</span>
+<span class="fsCalendarMonth">March</span>
+					14
+				</div>
+</div>
+</div><div class="fsCalendarRow">
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="15" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Sunday,</span>
+<span class="fsCalendarMonth">March</span>
+					15
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="16" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Monday,</span>
+<span class="fsCalendarMonth">March</span>
+					16
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="17" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Tuesday,</span>
+<span class="fsCalendarMonth">March</span>
+					17
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="18" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Wednesday,</span>
+<span class="fsCalendarMonth">March</span>
+					18
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="19" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Thursday,</span>
+<span class="fsCalendarMonth">March</span>
+					19
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="20" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Friday,</span>
+<span class="fsCalendarMonth">March</span>
+					20
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="21" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Saturday,</span>
+<span class="fsCalendarMonth">March</span>
+					21
+				</div>
+</div>
+</div><div class="fsCalendarRow">
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="22" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Sunday,</span>
+<span class="fsCalendarMonth">March</span>
+					22
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="23" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Monday,</span>
+<span class="fsCalendarMonth">March</span>
+					23
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="24" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Tuesday,</span>
+<span class="fsCalendarMonth">March</span>
+					24
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="25" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Wednesday,</span>
+<span class="fsCalendarMonth">March</span>
+					25
+				</div>
+</div>
+<div class="fsCalendarDaybox fsStateHasEvents">
+<div class="fsCalendarDate" data-day="26" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Thursday,</span>
+<span class="fsCalendarMonth">March</span>
+					26
+				</div>
+<div class="fsCalendarInfo fsCalendarDayViewEvent noBottomMargin fsCalendarEvent">
+<span aria-hidden="true" class="fsElementEventColorIcon" style="background:#f1af1c" title="Board Meetings"></span><span class="fsStyleSROnly">Board Meetings</span>
+<a class="fsCalendarTitle fsCalendarEventLink" data-occur-id="23889854_2026-03-27T00:00:00Z_2026-03-27T01:00:00Z" href="#" title="Regular Board Meeting">Regular Board Meeting</a>
+<div class="fsTimeRange">
+<time class="fsStartTime" datetime="2026-03-26T17:00:00-07:00"><span class="fsHour"> 5</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+<span class="fsTimeSeperator"> - </span>
+<time class="fsEndTime" datetime="2026-03-26T18:00:00-07:00"><span class="fsHour"> 6</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+</div>
+</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="27" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Friday,</span>
+<span class="fsCalendarMonth">March</span>
+					27
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="28" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Saturday,</span>
+<span class="fsCalendarMonth">March</span>
+					28
+				</div>
+</div>
+</div><div class="fsCalendarRow">
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="29" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Sunday,</span>
+<span class="fsCalendarMonth">March</span>
+					29
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="30" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Monday,</span>
+<span class="fsCalendarMonth">March</span>
+					30
+				</div>
+</div>
+<div class="fsCalendarDaybox">
+<div class="fsCalendarDate" data-day="31" data-month="2" data-year="2026">
+<span class="fsCalendarDay">Tuesday,</span>
+<span class="fsCalendarMonth">March</span>
+					31
+				</div>
+</div>
+<div class="fsCalendarDaybox fsStateHasEvents fsCalendarOutOfRange">
+<div class="fsCalendarDate" data-day="1" data-month="3" data-year="2026">
+<span class="fsCalendarDay">Wednesday,</span>
+<span class="fsCalendarMonth">April</span>
+					1
+				</div>
+<div class="fsCalendarInfo fsCalendarDayViewEvent noBottomMargin fsCalendarEvent">
+<span aria-hidden="true" class="fsElementEventColorIcon" style="background:#f1af1c" title="Board Meetings"></span><span class="fsStyleSROnly">Board Meetings</span>
+<a class="fsCalendarTitle fsCalendarEventLink" data-occur-id="23889855_2026-04-01T23:00:00Z_2026-04-02T00:00:00Z" href="#" title="Work Session Meeting">Work Session Meeting</a>
+<div class="fsTimeRange">
+<time class="fsStartTime" datetime="2026-04-01T16:00:00-07:00"><span class="fsHour"> 4</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+<span class="fsTimeSeperator"> - </span>
+<time class="fsEndTime" datetime="2026-04-01T17:00:00-07:00"><span class="fsHour"> 5</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+</div>
+</div>
+</div>
+<div class="fsCalendarDaybox fsCalendarOutOfRange">
+<div class="fsCalendarDate" data-day="2" data-month="3" data-year="2026">
+<span class="fsCalendarDay">Thursday,</span>
+<span class="fsCalendarMonth">April</span>
+					2
+				</div>
+</div>
+<div class="fsCalendarDaybox fsCalendarOutOfRange">
+<div class="fsCalendarDate" data-day="3" data-month="3" data-year="2026">
+<span class="fsCalendarDay">Friday,</span>
+<span class="fsCalendarMonth">April</span>
+					3
+				</div>
+</div>
+<div class="fsCalendarDaybox fsCalendarOutOfRange">
+<div class="fsCalendarDate" data-day="4" data-month="3" data-year="2026">
+<span class="fsCalendarDay">Saturday,</span>
+<span class="fsCalendarMonth">April</span>
+					4
+				</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_144678">
+<div class="fsElementContent">
+<p style="text-align:center;"><a class="button-7" href="https://ccsdnet.finalsite.com/fs/calendar-manager/events.ics?calendar_ids=47" target="_blank">Add To Your Calendar</a></p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

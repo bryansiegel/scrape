@@ -1,0 +1,59 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Podcast</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10356">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_10357">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10387">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_10388">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10392">
+<div class="fsElementContent">
+<div>
+<h2>Clark County School District Official Podcast</h2>
+<p>The CCSD Podcast brings you the latest news, stories, and insights from across the Clark County School District. Each episode highlights important updates, celebrates student and staff achievements, and shares resources to keep families, employees, and the community connected and informed.</p>
+ 
+
+<h2>Subscribe</h2>
+<a href=""> </a>
+<figure class="fsImage"><a href="https://podcasts.apple.com/us/podcast/destination-district-a-ccsd-podcast/id1834014441" target="_blank"><img alt="Listen on Apple Podcasts" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1757711566/ccsdnet/yfqkmhwanfxrzcuc8bzf/apple-podcast2.png%22,%22width%22:250}]" data-resource-description="" data-resource-filename="apple-podcast2.png" data-resource-uuid="fb64b1da-a0c1-45ab-b1cc-4a4e32b6293a" loading="lazy" src="" style=""/></a><picture></picture></figure>
+<a href=""> </a> <a href="https://open.spotify.com/show/52aKYIDoemg4vKANN17iXe" target="_blank"><picture>
+<figure class="fsImage"><picture><img alt="Listen on Spotify" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1757711594/ccsdnet/of8bihaljvwjzyreobch/spotify2.png%22,%22width%22:250}]" data-resource-description="" data-resource-filename="spotify2.png" data-resource-uuid="59490636-4fbf-4543-bbdd-81d187840601" loading="lazy" src="" style=""/></picture></figure>
+</picture></a>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_10389">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="10390" data-source-page-id="1105" data-use-new="true" id="fsEl_10390">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="CCSD Podcast" data-aspect-ratio="0.8208333333333333" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1756827649/ccsdnet/otv05zjfqdkr8dfznxxw/podcast.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756827649/ccsdnet/otv05zjfqdkr8dfznxxw/podcast.png%22,%22width%22:480}]" data-permitted-user="true" data-resource-title="podcast.png" data-resource-uuid="f2eb8116-3cd6-43c7-9d5e-a6a841112518"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10391">
+<div class="fsElementContent">
+<div id="buzzsprout-small-player"></div><script charset="utf-8" src="https://www.buzzsprout.com/2526935.js?container_id=buzzsprout-small-player&amp;player=small" type="text/javascript"></script>
+</div>
+</div>
+<div class="fsElement fsLayout fsTwoColumnWideRightLayout fsStyleAutoclear" data-use-new="true" id="fsEl_10395">
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_10396">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="10398" data-source-page-id="1105" data-use-new="true" id="fsEl_10398">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Jhone Ebert" data-aspect-ratio="0.8316666666666667" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1755191751/ccsdnet/auttiaogbne46v6dlnt5/jhone-happy.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1755191751/ccsdnet/auttiaogbne46v6dlnt5/jhone-happy.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1755191751/ccsdnet/auttiaogbne46v6dlnt5/jhone-happy.jpg%22,%22width%22:600}]" data-permitted-user="true" data-resource-title="jhone-happy.jpg" data-resource-uuid="03057df0-4520-4983-9751-111297575819"/></picture></figure></article>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_10397">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_10399">
+<div class="fsElementContent">
+<h3>Podcast Host</h3>
+<h4>Jhone Ebert, Superintendent</h4>
+<p>Hosted by Jhone Ebert, Superintendent of Schools, the CCSD Podcast offers listeners a unique perspective on education in Clark County. With her leadership and passion for student success, Jhone guides conversations that spotlight innovative programs, community partnerships, and the voices of students, educators, and families across the district.</p>
+<p><a class="button-1" href="">Read More</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

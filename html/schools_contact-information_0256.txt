@@ -10,7 +10,8 @@
                 LAMPING, FRANK ES<br/>
 </h2>
 <!-- 		Principal:  -->
-<p>Principal:  Yutuc, Jonathan E<br>
+                        
+Principal: Yutuc, Jonathan E<br>
 <!-- 		Principal:  -->
 <!--         <a href="/schools/contact-information/">Link to this page</a> -->
 <!-- 								$principle = $match['TXTADMINISTRATOR']; -->
@@ -20,9 +21,9 @@
                                 Phone: 702-799-1330<br/>
                                 Fax: 702-799-1347<br/>
 <a href="http://maps.google.com/maps?q=2551 SUMMIT GROVE DRIVE,+HENDERSON,+NV+89052">Map</a>
-                                 | <a href="http://lampingelementary.com">Website</a> </br></br></br></p>
+                                 | <a href="http://lampingelementary.com">Website</a> 
 <b>Region:</b> 3                                                             <p><b>Motto:</b> Enlightening and Enriching Future Generations - One Child At A Time</p> <p><b>Mission:</b> The staff, students, parents, and community of Lamping Elementary School are committed to excellence in education.  It is our mission to provide a caring, positive, and safe learning environment where each child is challenged to achieve commensurate with his/her ability and is provided enriching experiences that foster personal integrity, respect, and responsibility.</p>
-</div>
+</br></br></br></div>
 </div>
 </section>
 </div><!-- /main_content -->
