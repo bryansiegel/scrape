@@ -49,15 +49,25 @@ def search_txt_files(search_term, category=None):
             try:
                 with open(filepath, 'r', encoding='utf-8') as f:
                     for line_num, line in enumerate(f, 1):
-                        url = line.strip()
-                        if url and (not search_term or search_term.lower() in url.lower()):
-                            results.append({
+                        raw = line.strip()
+                        if not raw:
+                            continue
+                        if cat == 'pdf' and '|' in raw:
+                            url, source_page = raw.split('|', 1)
+                        else:
+                            url = raw
+                            source_page = None
+                        if not search_term or search_term.lower() in url.lower():
+                            result = {
                                 'category': cat,
                                 'url': url,
                                 'source': 'txt_file',
                                 'file': filename,
                                 'line': line_num
-                            })
+                            }
+                            if source_page:
+                                result['source_page'] = source_page
+                            results.append(result)
             except Exception as e:
                 print(f"Error reading {filepath}: {e}")
     
@@ -171,7 +181,7 @@ def get_stats():
             try:
                 with open(filepath, 'r', encoding='utf-8') as f:
                     file_count = sum(1 for line in f if line.strip())
-                    stats[category] += file_count
+                stats[category] += file_count
             except Exception as e:
                 print(f"Error counting {filepath}: {e}")
     
@@ -204,14 +214,15 @@ def get_stats():
             connection.close()
     
     # Add txt file URLs (file_mappings already includes pdf)
-    for filename in file_mappings.values():
+    for cat, filename in file_mappings.items():
         filepath = os.path.join(os.path.dirname(os.path.abspath(__file__)), filename)
         if os.path.exists(filepath):
             try:
                 with open(filepath, 'r', encoding='utf-8') as f:
                     for line in f:
-                        url = line.strip()
-                        if url:
+                        raw = line.strip()
+                        if raw:
+                            url = raw.split('|', 1)[0] if cat == 'pdf' else raw
                             all_urls.add(url)
             except Exception as e:
                 print(f"Error reading {filepath} for total: {e}")

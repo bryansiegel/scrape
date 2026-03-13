@@ -258,9 +258,9 @@
             const startIndex = (currentPage - 1) * itemsPerPage;
             const endIndex = startIndex + itemsPerPage;
             const pageResults = allResults.slice(startIndex, endIndex);
-            
+
             document.getElementById('result-count').textContent = `${totalResults.toLocaleString()} results`;
-            
+
             if (pageResults.length === 0) {
                 document.getElementById('results-container').innerHTML = `
                     <div class="text-center text-muted py-5">
@@ -271,7 +271,7 @@
                 document.getElementById('pagination').innerHTML = '';
                 return;
             }
-            
+
             const categoryColors = {
                 departments: 'success',
                 divisions: 'info',
@@ -280,8 +280,20 @@
                 googleSites: 'secondary',
                 pdf: 'dark'
             };
-            
-            const resultsHtml = pageResults.map(item => `
+
+            // Separate PDFs from other results, group PDFs by source_page
+            const nonPdfResults = pageResults.filter(item => item.category !== 'pdf');
+            const pdfResults = pageResults.filter(item => item.category === 'pdf');
+
+            // Group PDFs by source_page
+            const pdfGroups = {};
+            for (const item of pdfResults) {
+                const key = item.source_page || '(unknown page)';
+                if (!pdfGroups[key]) pdfGroups[key] = [];
+                pdfGroups[key].push(item);
+            }
+
+            const nonPdfHtml = nonPdfResults.map(item => `
                 <div class="border-bottom pb-3 mb-3">
                     <div class="d-flex justify-content-between align-items-start">
                         <div class="flex-grow-1">
@@ -298,8 +310,34 @@
                     </div>
                 </div>
             `).join('');
-            
-            document.getElementById('results-container').innerHTML = resultsHtml;
+
+            const pdfGroupHtml = Object.entries(pdfGroups).map(([sourcePage, pdfs]) => `
+                <div class="border-bottom pb-3 mb-3">
+                    <div class="d-flex align-items-center mb-2">
+                        <span class="badge bg-dark me-2">pdf</span>
+                        <small class="text-muted">
+                            Found on:
+                            <a href="${sourcePage}" target="_blank" class="text-decoration-none text-muted">
+                                ${sourcePage}
+                            </a>
+                            <i class="bi bi-box-arrow-up-right ms-1"></i>
+                        </small>
+                    </div>
+                    <ul class="list-unstyled ms-3 mb-0">
+                        ${pdfs.map(item => `
+                            <li class="mb-1">
+                                <i class="bi bi-file-earmark-pdf text-danger me-1"></i>
+                                <a href="${item.url}" target="_blank" class="text-decoration-none">
+                                    ${item.url}
+                                </a>
+                                <i class="bi bi-box-arrow-up-right ms-1 text-muted"></i>
+                            </li>
+                        `).join('')}
+                    </ul>
+                </div>
+            `).join('');
+
+            document.getElementById('results-container').innerHTML = nonPdfHtml + pdfGroupHtml;
             updatePagination();
         }
 

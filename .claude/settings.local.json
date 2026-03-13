@@ -7,7 +7,8 @@
       "Bash(mkdir:*)",
       "Bash(taskkill:*)",
       "WebFetch(domain:ccsd.net)",
-      "Bash(.venvScriptspython.exe:*)"
+      "Bash(.venvScriptspython.exe:*)",
+      "Bash(ls C:\\\\Users\\\\bryan\\\\Documents\\\\sites\\\\scrape/*.py 2>/dev/null || ls \"C:/Users/bryan/Documents/sites/scrape/\" | grep -v venv)"
     ],
     "deny": []
   }
