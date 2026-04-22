@@ -1,8 +1,12 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, send_file
 import mysql.connector
 from mysql.connector import errorcode
 import os
 import re
+import io
+import openpyxl
+from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
+from openpyxl.utils import get_column_letter
 
 app = Flask(__name__)
 
@@ -268,6 +272,107 @@ def get_autocomplete():
         return jsonify(filtered[:10])
     else:
         return jsonify(all_suggestions[:10])
+
+@app.route('/api/export/pdf')
+def export_pdf_excel():
+    search = request.args.get('search', '')
+
+    # Load all PDF entries from scraped_pdf.txt
+    filepath = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'scraped_pdf.txt')
+    groups = {}  # source_page -> [pdf_url, ...]
+    if os.path.exists(filepath):
+        with open(filepath, 'r', encoding='utf-8') as f:
+            for line in f:
+                raw = line.strip()
+                if not raw:
+                    continue
+                if '|' in raw:
+                    pdf_url, source_page = raw.split('|', 1)
+                else:
+                    pdf_url, source_page = raw, '(unknown page)'
+                if search and search.lower() not in pdf_url.lower() and search.lower() not in source_page.lower():
+                    continue
+                if source_page not in groups:
+                    groups[source_page] = []
+                groups[source_page].append(pdf_url)
+
+    # Build workbook
+    wb = openpyxl.Workbook()
+    ws = wb.active
+    ws.title = 'PDFs by Page'
+
+    # Styles
+    header_font = Font(bold=True, color='FFFFFF', size=11)
+    header_fill = PatternFill(fill_type='solid', fgColor='1F3864')
+    page_font = Font(bold=True, size=10)
+    page_fill = PatternFill(fill_type='solid', fgColor='D9E1F2')
+    link_font = Font(color='1155CC', size=10)
+    center = Alignment(horizontal='center', vertical='center')
+    left = Alignment(horizontal='left', vertical='center', wrap_text=True)
+    thin = Side(style='thin', color='BFBFBF')
+    border = Border(left=thin, right=thin, top=thin, bottom=thin)
+
+    # Header row
+    ws.column_dimensions['A'].width = 6
+    ws.column_dimensions['B'].width = 60
+    ws.column_dimensions['C'].width = 80
+
+    ws.append(['#', 'Source Page', 'PDF URL'])
+    for col in range(1, 4):
+        cell = ws.cell(row=1, column=col)
+        cell.font = header_font
+        cell.fill = header_fill
+        cell.alignment = center
+        cell.border = border
+    ws.row_dimensions[1].height = 20
+
+    row_num = 2
+    entry_num = 1
+    for source_page, pdfs in sorted(groups.items()):
+        # Source page group header
+        if len(ws.merged_cells.ranges):
+            pass
+        ws.merge_cells(start_row=row_num, start_column=1, end_row=row_num, end_column=3)
+        cell = ws.cell(row=row_num, column=1)
+        cell.value = f'Page: {source_page}'
+        cell.font = page_font
+        cell.fill = page_fill
+        cell.alignment = left
+        cell.border = border
+        # Apply border to merged cells individually
+        for col in range(2, 4):
+            ws.cell(row=row_num, column=col).border = border
+        ws.row_dimensions[row_num].height = 18
+        row_num += 1
+
+        for pdf_url in pdfs:
+            ws.cell(row=row_num, column=1, value=entry_num).alignment = center
+            ws.cell(row=row_num, column=1).border = border
+            ws.cell(row=row_num, column=2, value=source_page).font = Font(size=10)
+            ws.cell(row=row_num, column=2).alignment = left
+            ws.cell(row=row_num, column=2).border = border
+            pdf_cell = ws.cell(row=row_num, column=3, value=pdf_url)
+            pdf_cell.font = link_font
+            pdf_cell.alignment = left
+            pdf_cell.border = border
+            ws.row_dimensions[row_num].height = 16
+            row_num += 1
+            entry_num += 1
+
+    # Freeze header row
+    ws.freeze_panes = 'A2'
+
+    output = io.BytesIO()
+    wb.save(output)
+    output.seek(0)
+
+    return send_file(
+        output,
+        mimetype='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+        as_attachment=True,
+        download_name='ccsd_pdfs.xlsx'
+    )
+
 
 if __name__ == '__main__':
     app.run(debug=True, port=5002)

@@ -1,0 +1,21 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Public Concern</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_190852">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_190853">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_190854">
+<div class="fsElementContent">
+<h2>Public Concern Form</h2>
+<ul>
+<li><a contenteditable="false" data-file-name="CCF-660-Public_Concern_ENGLISH.pdf" data-resource-uuid="485b4ae6-33e1-4db1-84d5-cca2a927cffa" href="/fs/resource-manager/view/485b4ae6-33e1-4db1-84d5-cca2a927cffa" style="cursor: pointer;" target="_blank">Public Concern Form (English)</a></li>
+<li><a contenteditable="false" data-file-name="CCF-6601_-_PublicConcern_SPANISH.pdf" data-resource-uuid="dab50198-77d8-4f18-8a80-a1c49845a47f" href="/fs/resource-manager/view/dab50198-77d8-4f18-8a80-a1c49845a47f" style="cursor: pointer;" target="_blank">Public Concern Form (Spanish)</a></li>
+</ul>
+<h2>Parent Concerns</h2>
+<p>The level of collaboration between families and educators is an important predictor of student academic achievement. Parents and family members who establish strong, positive relationships with school staff have more opportunities to learn about the education system and become better education advocates.</p>
+<p><strong>Who do I contact if I have a concern about my child’s school?</strong><br/>
+If there is a concern, contact the school to request an opportunity to address your concerns and have a dialogue about the issue. Concerns that are not resolved at the school level may be addressed by contacting the appropriate Region for the school. A listing of the schools and their respective Region may be located via the <a contenteditable="false" href="https://www.ccsd.net/schools" style="cursor: pointer;" target="_blank">school directory</a>.</p>
+<p>There is also a public concern process per CCSD Policy 1213 that provides a formal investigation of the stated issue and provides the person filing the concern with a written response of that investigation. For more information call the Team Engagement Department at (702) 799-0303.</p>
+</div>
+</div>
+</div>
+</div>
+</main>

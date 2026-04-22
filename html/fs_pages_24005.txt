@@ -1,0 +1,329 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Secondary Summer School</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_213156">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_213157">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_213159">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_213160">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213161">
+<div class="fsElementContent">
+<p>Secondary summer school for 2026 provides a critical opportunity for students to engage in in-person credit recovery at eight select campuses located throughout the valley. These sessions are specifically designed for current middle school and high school students to earn up to 0.5 credits per session through intensive, five-hour daily classes running from early June to mid-July. To participate in this program, parents must work directly with their child's school counselor to complete the registration process by May 27.</p>
+<p><a class="button-7" href="/ask-ccsd/" target="_blank">Ask CCSD</a></p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_213162">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="213163" data-source-page-id="24005" data-use-new="true" id="fsEl_213163">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="Secondary Summer School" data-aspect-ratio="0.6666666666666666" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1773259177/ccsdnet/dmzlo2owk84mt1vaa2so/SecondarySummerSchool.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1773259177/ccsdnet/dmzlo2owk84mt1vaa2so/SecondarySummerSchool.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1773259177/ccsdnet/dmzlo2owk84mt1vaa2so/SecondarySummerSchool.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1773259177/ccsdnet/dmzlo2owk84mt1vaa2so/SecondarySummerSchool.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1773259177/ccsdnet/dmzlo2owk84mt1vaa2so/SecondarySummerSchool.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1773259177/ccsdnet/dmzlo2owk84mt1vaa2so/SecondarySummerSchool.jpg%22,%22width%22:2200}]" data-permitted-user="true" data-resource-title="SecondarySummerSchool.jpg" data-resource-uuid="5af31560-84ca-40a7-bd63-0ff7594521c0"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213164">
+<div class="fsElementContent">
+<h2>Secondary Summer School</h2>
+<h3>Frequently Asked Questions</h3>
+</div>
+</div>
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_213165">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-213166" role="presentation">
+<a aria-controls="fsEl_213166" aria-selected="false" href="#fs-panel-213166" role="tab">When does secondary summer school begin?</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213168" role="presentation">
+<a aria-controls="fsEl_213168" aria-selected="false" href="#fs-panel-213168" role="tab">Who will notify me if my child needs secondary summer school?</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213170" role="presentation">
+<a aria-controls="fsEl_213170" aria-selected="false" href="#fs-panel-213170" role="tab">Can I register my student online for secondary summer school? </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213172" role="presentation">
+<a aria-controls="fsEl_213172" aria-selected="false" href="#fs-panel-213172" role="tab">When is the last day to register my child for summer school?</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213174" role="presentation">
+<a aria-controls="fsEl_213174" aria-selected="false" href="#fs-panel-213174" role="tab">Will transportation be provided?  </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213176" role="presentation">
+<a aria-controls="fsEl_213176" aria-selected="false" href="#fs-panel-213176" role="tab">Are there online summer school classes offered?</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213178" role="presentation">
+<a aria-controls="fsEl_213178" aria-selected="false" href="#fs-panel-213178" role="tab">Is there a fee for secondary summer school courses?</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213180" role="presentation">
+<a aria-controls="fsEl_213180" aria-selected="false" href="#fs-panel-213180" role="tab">How many days can my child miss during a summer school session before being withdrawn?</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213182" role="presentation">
+<a aria-controls="fsEl_213182" aria-selected="false" href="#fs-panel-213182" role="tab">Can my child take the final exam early if we are scheduled to go on vacation? </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213184" role="presentation">
+<a aria-controls="fsEl_213184" aria-selected="false" href="#fs-panel-213184" role="tab">What are the hours of secondary summer school?</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213186" role="presentation">
+<a aria-controls="fsEl_213186" aria-selected="false" href="#fs-panel-213186" role="tab">How many hours a day will my child be in class? </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213188" role="presentation">
+<a aria-controls="fsEl_213188" aria-selected="false" href="#fs-panel-213188" role="tab">How many credits can my child earn per session?</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213190" role="presentation">
+<a aria-controls="fsEl_213190" aria-selected="false" href="#fs-panel-213190" role="tab">Can a student from an out-of-state, charter, or private school enroll in secondary summer school?</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213192" role="presentation">
+<a aria-controls="fsEl_213192" aria-selected="false" href="#fs-panel-213192" role="tab">Are incoming “out of state” students moving to Las Vegas after the 2025–2026 school year permitted to attend summer school? </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213194" role="presentation">
+<a aria-controls="fsEl_213194" aria-selected="false" href="#fs-panel-213194" role="tab">Can I pick my child up early from secondary summer school without it being counted as an absence?</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213196" role="presentation">
+<a aria-controls="fsEl_213196" aria-selected="false" href="#fs-panel-213196" role="tab">Will there be staff out to assist my child with getting to the correct class on the first day of secondary summer school? </a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213198" role="presentation">
+<a aria-controls="fsEl_213198" aria-selected="false" href="#fs-panel-213198" role="tab">Does the District offer summer school for elementary school students?</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-213200" role="presentation">
+<a aria-controls="fsEl_213200" aria-selected="false" href="#fs-panel-213200" role="tab">Who should I contact for further information regarding summer school?</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213166" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213166" aria-expanded="false" href="#fs-panel-213166" role="button">When does secondary summer school begin?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213166"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213167">
+<div class="fsElementContent">
+<p><strong> Session I:</strong> June 1, 2026, to June 18, 2026.</p>
+<p><strong>Session II:</strong> June 22, 2026, to July 10, 2026. </p>
+<p>There is no school for students and staff on June 19, 2026, and July 3, 2026.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213168" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213168" aria-expanded="false" href="#fs-panel-213168" role="button">Who will notify me if my child needs secondary summer school?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213168"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213169">
+<div class="fsElementContent">
+<p>The counselor at your child's school.<br/>
+ </p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213170" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213170" aria-expanded="false" href="#fs-panel-213170" role="button">Can I register my student online for secondary summer school? </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213170"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213171">
+<div class="fsElementContent">
+<p>No, your child’s counselor must complete the registration process.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213172" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213172" aria-expanded="false" href="#fs-panel-213172" role="button">When is the last day to register my child for summer school?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213172"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213173">
+<div class="fsElementContent">
+<p>May 27, 2026, at 3:00 p.m.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213174" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213174" aria-expanded="false" href="#fs-panel-213174" role="button">Will transportation be provided?  </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213174"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213175">
+<div class="fsElementContent">
+<p>No. </p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213176" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213176" aria-expanded="false" href="#fs-panel-213176" role="button">Are there online summer school classes offered?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213176"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213177">
+<div class="fsElementContent">
+<p>Online summer courses will be offered through the Nevada Learning Academy at CCSD.<br/>
+ </p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213178" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213178" aria-expanded="false" href="#fs-panel-213178" role="button">Is there a fee for secondary summer school courses?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213178"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213179">
+<div class="fsElementContent">
+<p>There is a $50 per-half credit fee for current Clark County School District students during the 2025–2026 school year.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213180" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213180" aria-expanded="false" href="#fs-panel-213180" role="button">How many days can my child miss during a summer school session before being withdrawn?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213180"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213181">
+<div class="fsElementContent">
+<p> Students will be withdrawn from secondary summer school on their fifth absence.<br/>
+ </p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213182" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213182" aria-expanded="false" href="#fs-panel-213182" role="button">Can my child take the final exam early if we are scheduled to go on vacation? </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213182"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213183">
+<div class="fsElementContent">
+<p>No, final exams may not be taken early. </p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213184" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213184" aria-expanded="false" href="#fs-panel-213184" role="button">What are the hours of secondary summer school?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213184"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213185">
+<div class="fsElementContent">
+<p>7:30 a.m. to 12:45 p.m. </p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213186" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213186" aria-expanded="false" href="#fs-panel-213186" role="button">How many hours a day will my child be in class? </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213186"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213187">
+<div class="fsElementContent">
+<p>Five hours. There is a 15-minute nutrition break. </p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213188" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213188" aria-expanded="false" href="#fs-panel-213188" role="button">How many credits can my child earn per session?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213188"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213189">
+<div class="fsElementContent">
+<p>0.5 credit. </p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213190" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213190" aria-expanded="false" href="#fs-panel-213190" role="button">Can a student from an out-of-state, charter, or private school enroll in secondary summer school?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213190"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213191">
+<div class="fsElementContent">
+<p>No. Students not actively enrolled in a District school cannot register for secondary summer school.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213192" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213192" aria-expanded="false" href="#fs-panel-213192" role="button">Are incoming “out of state” students moving to Las Vegas after the 2025–2026 school year permitted to attend summer school? </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213192"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213193">
+<div class="fsElementContent">
+<p>Charter, private, and out-of-state students should contact Nevada Learning Academy at CCSD to inquire about the registration process.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213194" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213194" aria-expanded="false" href="#fs-panel-213194" role="button">Can I pick my child up early from secondary summer school without it being counted as an absence?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213194"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213195">
+<div class="fsElementContent">
+<p>No. There are no excused absences during secondary summer school. Early checkout counts as a full day absence. </p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213196" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213196" aria-expanded="false" href="#fs-panel-213196" role="button">Will there be staff out to assist my child with getting to the correct class on the first day of secondary summer school? </a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213196"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213197">
+<div class="fsElementContent">
+<p>Yes.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213198" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213198" aria-expanded="false" href="#fs-panel-213198" role="button">Does the District offer summer school for elementary school students?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213198"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213199">
+<div class="fsElementContent">
+<p>The District does not offer summer school for elementary school students.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213200" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213200" aria-expanded="false" href="#fs-panel-213200" role="button">Who should I contact for further information regarding summer school?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213200"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213201">
+<div class="fsElementContent">
+<p>If you require additional ESY summer school information, please contact Bernadette Hawkins at (702) 799-7455 ext: 5100</p>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

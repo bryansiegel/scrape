@@ -11,7 +11,7 @@
 <figure class="fsImage" style="display:inline-block"><picture><img alt="School" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1756497081/ccsdnet/ufhrqr9ubkzdajqueu3e/school.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="school.png" data-resource-uuid="102c0c8d-fcba-4aa1-89c6-032723a05f8f" loading="lazy" src="" style=""/></picture></figure>
 </div>
 <h4>School Directory</h4>
-<a class="button-1" data-file-name="3-2-2026-CCSD-School-Directory.pdf" data-resource-uuid="e863dfd9-8185-4074-9b8f-a3bc4b87656b" href="/fs/resource-manager/view/e863dfd9-8185-4074-9b8f-a3bc4b87656b" target="_blank">View</a></div>
+<a class="button-1" data-file-name="412026_CCSD_School_Directory.pdf" data-resource-uuid="14bc9831-1bfd-4d94-b92e-c014cafd0d7f" href="/fs/resource-manager/view/14bc9831-1bfd-4d94-b92e-c014cafd0d7f" target="_blank">View</a></div>
 </div>
 </div>
 </div>

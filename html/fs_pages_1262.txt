@@ -51,6 +51,9 @@
 <li class="fsTabsNavItem" id="fsTab-12067" role="presentation">
 <a aria-controls="fsEl_12067" aria-selected="false" href="#fs-panel-12067" role="tab">Facilities and Bond Fund Financial Management</a>
 </li>
+<li class="fsTabsNavItem" id="fsTab-213446" role="presentation">
+<a aria-controls="fsEl_213446" aria-selected="false" href="#fs-panel-213446" role="tab">Facility Usage</a>
+</li>
 <li class="fsTabsNavItem" id="fsTab-12069" role="presentation">
 <a aria-controls="fsEl_12069" aria-selected="false" href="#fs-panel-12069" role="tab">Finance Department</a>
 </li>
@@ -68,6 +71,9 @@
 </li>
 <li class="fsTabsNavItem" id="fsTab-208047" role="presentation">
 <a aria-controls="fsEl_208047" aria-selected="false" href="#fs-panel-208047" role="tab">Resource Management</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-222255" role="presentation">
+<a aria-controls="fsEl_222255" aria-selected="false" href="#fs-panel-222255" role="tab">School Accounting</a>
 </li>
 <li class="fsTabsNavItem" id="fsTab-208049" role="presentation">
 <a aria-controls="fsEl_208049" aria-selected="false" href="#fs-panel-208049" role="tab">Workers’ Compensation</a>
@@ -399,6 +405,29 @@
 </div>
 </div>
 </section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_213446" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_213446" aria-expanded="false" href="#fs-panel-213446" role="button">Facility Usage</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-213446"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_213447">
+<div class="fsElementContent">
+<p>The Clark County School District's Facility Usage Department is available to meet the rental needs of the community. We are thrilled to offer our facilities for your next event. As you peruse this web page you will find information on the facility rental process. The Facility Usage Department currently schedules community events at 363 schools throughout the Clark County.</p>
+<p><a href="https://www.facilitron.com/ccsd89146" target="_blank">Facilitron Online Reservations</a> - Fiscal year is July 1 through June 30. Separate requests are required for each fiscal year.</p>
+<p><a href="https://www.ccsd.net/fs/resource-manager/view/14cd811d-1981-43be-827f-0677b33623c8" target="_blank">Policy 3613</a> Use of District Buildings, Grounds, and Equipment by Non-School Groups</p>
+<p><a href="https://www.ccsd.net/fs/resource-manager/view/d907129d-2197-41ec-8e65-14ef56ae6a17" target="_blank">Regulation 3613</a> Use of District Buildings, Grounds, and Equipment by Non-School Groups</p>
+<p><a href="https://www.ccsd.net/fs/resource-manager/view/ba5a6b4c-2a0a-4fa5-981a-17b1e56bc3f5" target="_blank">Regulation 3613.2</a> Filming or Recording on School District Property</p>
+<p><a data-file-name="facility-use-fee-schedule-fy26-website.pdf" data-resource-uuid="57d5287e-9497-40fc-9dba-7066dbd3c2ba" href="/fs/resource-manager/view/57d5287e-9497-40fc-9dba-7066dbd3c2ba" target="_blank">Facility Use Fee Schedule</a> - Updated July 2025</p>
+<p><a data-file-name="facility-rental-by-non-district-groups-guidelines.pdf" data-resource-uuid="4e1fef3b-fd75-4eea-88cd-78d0a152d9e4" href="/fs/resource-manager/view/4e1fef3b-fd75-4eea-88cd-78d0a152d9e4" target="_blank">Guidelines for Facility Use</a> - Updated June 2025</p>
+<p> </p>
+<p><strong>Required Insurance Samples</strong></p>
+<p><a data-file-name="insurance-certificate-sample-facilitron.pdf" data-resource-uuid="bfb85092-3e7e-4e1f-9416-fa63f950bd2f" href="/fs/resource-manager/view/bfb85092-3e7e-4e1f-9416-fa63f950bd2f" target="_blank">Certificate of Liability Insurance Samples</a></p>
+<p><a data-file-name="additional-insured-endorsement-samples.pdf" data-resource-uuid="260a74c2-13b6-4cca-bf9c-5db2c08c56dd" href="/fs/resource-manager/view/260a74c2-13b6-4cca-bf9c-5db2c08c56dd" target="_blank">Additional Insured Endorsement Samples</a></p>
+</div>
+</div>
+</div>
+</section>
 <section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_12069" role="tabpanel">
 <header>
 <h2 class="fsElementTitle"><a aria-controls="fsPanelContent_12069" aria-expanded="false" href="#fs-panel-12069" role="button">Finance Department</a></h2>
@@ -474,6 +503,31 @@
 <a id="fs-panel-208047"></a>
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_208048">
 <div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_222255" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_222255" aria-expanded="false" href="#fs-panel-222255" role="button">School Accounting</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-222255"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_222256">
+<div class="fsElementContent">
+<p>The School Accounting Department of the Clark County School District is here to meet the external needs of the community as well as the internal needs of the students and staff of CCSD.</p>
+<h3>Facility Usage</h3>
+<p>The Clark County School District's Facility Usage Department is available to meet the rental needs of the community. We are thrilled to offer our facilities for your next event. As you peruse this web page you will find information on the facility rental process. The Facility Usage Department currently schedules community events at 363 schools throughout the Clark County.</p>
+<p><a href="https://www.facilitron.com/" target="_blank">Facilitron Online Reservations</a> - Fiscal year is July 1 through June 30. Separate requests are required for each fiscal year.</p>
+<p><a href="https://resources.finalsite.net/images/v1757434839/ccsdnet/loymj5fm32xypfuvydk1/3613_P.pdf" target="_blank">Policy 3613</a> Use of District Buildings, Grounds, and Equipment by Non-School Groups</p>
+<p><a href="https://www.ccsd.net/fs/resource-manager/view/d907129d-2197-41ec-8e65-14ef56ae6a17" target="_blank">Regulation 3613</a> Use of District Buildings, Grounds, and Equipment by Non-School Groups</p>
+<p><a href="https://www.ccsd.net/fs/resource-manager/view/ba5a6b4c-2a0a-4fa5-981a-17b1e56bc3f5" target="_blank">Regulation 3613.2</a> Filming or Recording on School District Property</p>
+<p><a data-file-name="facility-use-fee-schedule-fy26-website_1.pdf" data-resource-uuid="2d8e342f-7c75-4c38-a4d7-92da7b8ede29" href="/fs/resource-manager/view/2d8e342f-7c75-4c38-a4d7-92da7b8ede29" target="_blank">Facility Use Fee Schedule</a></p>
+<p><a data-file-name="faq-021825.pdf" data-resource-uuid="80cd3a6c-b93c-4493-9f16-ce71cbbfff74" href="/fs/resource-manager/view/80cd3a6c-b93c-4493-9f16-ce71cbbfff74" target="_blank">Frequently Asked Questions</a></p>
+<p><a data-file-name="guidelines-for-facility-rental-021825.pdf" data-resource-uuid="db60e56f-497a-4001-8e6f-670bb4530a0c" href="/fs/resource-manager/view/db60e56f-497a-4001-8e6f-670bb4530a0c" target="_blank">Guidelines for Facility Use</a></p>
+<h3>Required Insurance Samples</h3>
+<p><a data-file-name="insurance-certificate-sample-facilitron_1.pdf" data-resource-uuid="ff4c9848-309d-4024-9bc8-c44eab4cb548" href="/fs/resource-manager/view/ff4c9848-309d-4024-9bc8-c44eab4cb548" target="_blank">Certificate of Liability Insurance Samples</a></p>
+<p><a data-file-name="additional-insured-endorsement-samples_1.pdf" data-resource-uuid="221428c8-fd00-497b-bacf-2d86b34d1b12" href="/fs/resource-manager/view/221428c8-fd00-497b-bacf-2d86b34d1b12">Additional Insured Endorsement Samples</a></p>
 </div>
 </div>
 </div>

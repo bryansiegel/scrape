@@ -87,7 +87,7 @@
 <a id="fs-panel-208016"></a>
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_208017">
 <div class="fsElementContent">
-<div><a class="button-1" href="https://fedpro.dreamhosters.com/" target="_blank">More Information</a></div>
+<div><a class="button-1" href="https://cteinccsd.org/" target="_blank">More Information</a></div>
 </div>
 </div>
 </div>
@@ -152,13 +152,28 @@
 <a id="fs-panel-12112"></a>
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_12113">
 <div class="fsElementContent">
-			Our mission is to enhance academic achievement and responsible citizenship through participation in activities, fine arts, and athletics.
-
+<div>
+<h2>Work Exemptions</h2>
+<p>4204 Channel 10 Dr<br/>
+Las Vegas, NV NV 89119<br/>
+(702)799-8630</p>
+<h2>OVERVIEW</h2>
+<p>Children between 14 and 17 (<a contenteditable="false" href="http://www.leg.state.nv.us/NRS/NRS-392.html" style="cursor: pointer;" target="_blank">NRS 392.100</a>) years of age who have completed eighth grade excused from full-time attendance for employment or apprenticeship; written permit required.</p>
+<p>1. Any child between the ages of 14 and 17 (<a href="http://www.leg.state.nv.us/NRS/NRS-392.html" target="_blank">NRS 392.11</a>) years who has completed the work of the first eight grades may be excused from full-time school attendance and may be permitted to enter proper employment or apprenticeship, by the written authority of the board of trustees excusing the child from such attendance. The boardâ€™s written authority shall state the reason or reasons for such excuse.</p>
+<p>2. In all such cases no employer or other person shall employ or contract for the services or time of such child until the child presents a written permit there for from the attendance officer or board of trustees. The permit shall be kept on file by the employer, and upon the termination of employment shall be returned by the employer to the board of trustees or other authority issuing it. [370:32:1956]â€”(NRS A 1957, 304; 1979, 1614)</p>
+<h2>PROCESS</h2>
+<p>Clark County School Districtâ€™s Work Exemption office is charged with processing the requests for work exemption pursuant to the above statute. The student must provide employer information, personal information and, under the District form, a parent or guardian must be present to provide a signature. SASI is checked to ensure that the student has completed their eighth grade studies. The student is then given a letter stating that they are exempt from compulsory education under (<a href="http://www.leg.state.nv.us/NRS/NRS-392.html" target="_blank">NRS 392.110</a>). The names of exempted students are submitted for Board of Trustee approval monthly.</p>
+<h2>FEES</h2>
+<p>none</p>
+<h2>FORMS</h2>
+<p><a href="https://ccsd.net/resources/education-services-division/workform.pdf" style="cursor: pointer;" target="_blank">Work Exemption Form</a></p>
+Our mission is to enhance academic achievement and responsible citizenship through participation in activities, fine arts, and athletics.</div>
 <p><a class="button-1" href="https://esd.ccsd.net/departments/secondary-student-athletics-and-activities/" target="_blank">More Information</a></p>
 </div>
 </div>
 </div>
-</section>
+</section></div>
+
 <section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208024" role="tabpanel">
 <header>
 <h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208024" aria-expanded="false" href="#fs-panel-208024" role="button">English Language Learner Division </a></h2>
@@ -623,6 +638,7 @@
 <a id="fs-panel-208038"></a>
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_208039">
 <div class="fsElementContent">
+<a class="button-1" href="https://cpd.ccsd.net/departments/science/" target="_blank">More Information</a>
 </div>
 </div>
 </div>
@@ -635,6 +651,7 @@
 <a id="fs-panel-208040"></a>
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_208041">
 <div class="fsElementContent">
+<a class="button-1" href="https://cpd.ccsd.net/departments/k-12-social-studies/" target="_blank">More Information</a>
 </div>
 </div>
 </div>
@@ -705,7 +722,6 @@
 </div>
 </div>
 </section>
-</div>
 </div>
 </div>
 </div>

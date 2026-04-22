@@ -110,6 +110,16 @@
 </div>
 </div>
 <div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_207540">
+<div class="fsElement fsContent job-card sm-card" data-use-new="true" id="fsEl_218007">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Department" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1757344761/ccsdnet/kiwhg7cq7wkgzyyq1hst/department.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="department.png" data-resource-uuid="d4355b75-dbf9-4a80-9988-89f14ac675b3" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Technology &amp; Information Systems Services Division</h4>
+<a class="button-1" data-page-name="Technology and Information Systems Services" href="/fs/pages/1271">View</a></div>
+</div>
+</div>
 </div>
 <div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_207541">
 </div>

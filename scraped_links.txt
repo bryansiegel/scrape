@@ -8,7 +8,6 @@ https://ccsd.net/about/open-book
 https://ccsd.net/about/operation-destination-district
 https://ccsd.net/about/podcast
 https://ccsd.net/about/careers
-https://ccsd.net/about/school-board-clone
 https://ccsd.net/calendars
 https://ccsd.net/directory-all
 https://ccsd.net/employees
@@ -87,6 +86,7 @@ https://ccsd.net/fs/pages/1266
 https://ccsd.net/fs/pages/1264
 https://ccsd.net/fs/pages/1268
 https://ccsd.net/fs/pages/1267
+https://ccsd.net/fs/pages/1271
 https://ccsd.net/fs/pages/1285
 https://ccsd.net/fs/pages/20948
 https://ccsd.net/fs/pages/1102
@@ -175,6 +175,7 @@ https://ccsd.net/fs/pages/1295
 https://ccsd.net/fs/pages/20854
 https://ccsd.net/district/info/title-ix.php
 https://ccsd.net/district/info/title-ix/
+https://ccsd.net/fs/pages/23341
 https://ccsd.net/schools/contact-information/0215
 https://ccsd.net/schools/contact-information/0225
 https://ccsd.net/schools/contact-information/0229
@@ -222,6 +223,7 @@ https://ccsd.net/schools/contact-information/0519
 https://ccsd.net/schools/contact-information/0523
 https://ccsd.net/schools/contact-information/0751
 https://ccsd.net/schools/contact-information/0794
+https://ccsd.net/fs/pages/24408
 https://ccsd.net/fs/pages/1090
 https://ccsd.net/fs/pages/21877
 https://ccsd.net/programs/title-i-program
@@ -241,7 +243,6 @@ http://ccsd.net/about/open-book
 http://ccsd.net/about/operation-destination-district
 http://ccsd.net/about/podcast
 http://ccsd.net/about/careers
-http://ccsd.net/about/school-board-clone
 http://ccsd.net/calendars
 http://ccsd.net/directory-all
 http://ccsd.net/employees
@@ -319,6 +320,7 @@ http://ccsd.net/fs/pages/1266
 http://ccsd.net/fs/pages/1264
 http://ccsd.net/fs/pages/1268
 http://ccsd.net/fs/pages/1267
+http://ccsd.net/fs/pages/1271
 http://ccsd.net/fs/pages/1285
 http://ccsd.net/fs/pages/20948
 http://ccsd.net/fs/pages/1102
@@ -403,6 +405,7 @@ http://ccsd.net/fs/pages/1113
 http://ccsd.net/fs/pages/7
 http://ccsd.net/fs/pages/1295
 http://ccsd.net/fs/pages/20854
+http://ccsd.net/fs/pages/23341
 http://ccsd.net/schools/contact-information/0215
 http://ccsd.net/schools/contact-information/0225
 http://ccsd.net/schools/contact-information/0229
@@ -450,6 +453,7 @@ http://ccsd.net/schools/contact-information/0519
 http://ccsd.net/schools/contact-information/0523
 http://ccsd.net/schools/contact-information/0751
 http://ccsd.net/schools/contact-information/0794
+http://ccsd.net/fs/pages/24408
 http://ccsd.net/fs/pages/1090
 http://ccsd.net/fs/pages/21877
 http://ccsd.net/programs/title-i-program

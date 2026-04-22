@@ -5,59 +5,7 @@
 <div class="fsElement fsAccount" data-use-new="true" id="fsEl_1144">
 <div class="fsElementContent">
 <p aria-atomic="true" class="fsError" role="alert">This page is protected. Please log in to view this page.</p>
-<div class="fsLoginMainView">
-<p class="fsLoginInstructions">
-				Please provide your username and password to log in:
-		</p>
-<form accept-charset="UTF-8" action="https://www.ccsd.net/fs/auth/finalsite/callback" class="fsStandardLoginSubmit" method="post"><input autocomplete="off" name="utf8" type="hidden" value="✓"/>
-<label class="fsLoginUsername" for="fsLoginUsernameField1144">Username</label><input autocomplete="username" class="fsStyleDefaultField" id="fsLoginUsernameField1144" name="username" placeholder="Enter your username" type="text"/>
-<label class="fsLoginPassword" for="fsLoginPasswordField1144">Password</label><input autocomplete="off" class="fsStyleDefaultField" id="fsLoginPasswordField1144" name="password" placeholder="Enter your password" type="password"/>
-<input autocomplete="off" id="protected_page" name="protected_page" type="hidden" value="true"/>
-<input class="fsStyleUpdateButton fsLoginSubmit" data-disable-with="Login" name="commit" type="submit" value="Login"/>
-</form> <div class="fsLoginForgotPasswordLink"><a href="#">Forgot Username or Password</a></div>
-</div>
-<div class="fsLoginForgotView fsStateHidden">
-<h3>Forgot your login?</h3>
-<div class="fsLoginForgotFields">
-<p class="fsLoginForgotInstructions fsNotification">
-            Please enter your email address. Instructions for retrieving your username and password will be emailed to you.
-        </p>
-<div class="fsLoginForgotControls">
-<label class="fsFieldLabel" for="fsLoginForgotEmailField1144">Email:</label>
-<input class="fsLoginForgotEmail fsStyleDefaultField" id="fsLoginForgotEmailField1144" type="text"/>
-<button class="fsLoginForgotSubmit fsStyleUpdateButton">Submit</button>
-<button class="fsLoginForgotCancel fsStyleDefaultButton">Cancel</button>
-</div>
-</div>
-</div>
-<div class="fsResetPasswordView fsStateHidden">
-<h3>Create a new Password</h3>
-<div class="fsResetPasswordFields">
-<p>
-            Please enter your username and create a new password.
-        </p>
-<div>
-<label for="fsResetUsernameField1144">Username</label>
-<input autocomplete="username" class="fsResetUsername fsStyleDefaultField" id="fsResetUsernameField1144" placeholder="Enter your username" type="text">
-<span class="fsError fsStateHidden" role="alert"></span>
-</input></div>
-<div>
-<label for="fsResetNewPasswordField1144">Password</label>
-<input autocomplete="off" class="fsResetNewPassword fsStyleDefaultField" id="fsResetNewPasswordField1144" placeholder="Enter a password" type="password"/>
-<span class="fsError fsStateHidden" role="alert"></span>
-</div>
-<div>
-<label for="fsResetNewVerifyPasswordField1144">Verify Password</label>
-<input autocomplete="off" class="fsResetNewVerifyPassword fsStyleDefaultField" id="fsResetNewVerifyPasswordField1144" placeholder="Verify the password" type="password"/>
-<span class="fsError fsStateHidden" role="alert"></span>
-</div>
-<div>
-<input autocomplete="off" class="fsResetRequestKey" id="request_key" name="request_key" type="hidden"/>
-<button class="fsResetContinue fsStyleUpdateButton">Create New Password</button>
-<button class="fsResetCancel fsStyleDefaultButton">Cancel</button>
-</div>
-</div>
-</div>
+<p class="fsAccountLogout"><a class="fsStyleUpdateButton" href="/fs/login?return_to=https://www.ccsd.net/programs/ccsd-reads">Login</a></p>
 </div>
 </div>
 </div>

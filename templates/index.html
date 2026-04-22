@@ -101,6 +101,16 @@
             </div>
         </div>
 
+        <!-- Export Section -->
+        <div class="row mb-3" id="pdf-export-row" style="display: none !important;">
+            <div class="col-12">
+                <button class="btn btn-success" id="exportPdfBtn" onclick="exportPdfs()">
+                    <i class="bi bi-file-earmark-excel me-1"></i> Export PDFs to Excel
+                </button>
+                <small class="text-muted ms-2">Exports all PDF results grouped by source page</small>
+            </div>
+        </div>
+
         <!-- Results Section -->
         <div class="row">
             <div class="col-12">
@@ -154,12 +164,14 @@
         document.addEventListener('DOMContentLoaded', function() {
             loadStats();
             performSearch(); // Load initial results
+            updateExportButton();
             
             // Event listeners
             const searchInput = document.getElementById('searchInput');
             searchInput.addEventListener('input', debounce(function() {
                 performSearch();
                 handleAutocomplete();
+                updateExportButton();
             }, 300));
             
             searchInput.addEventListener('focus', handleAutocomplete);
@@ -168,7 +180,10 @@
                 setTimeout(() => hideAutocomplete(), 200);
             });
             
-            document.getElementById('categoryFilter').addEventListener('change', performSearch);
+            document.getElementById('categoryFilter').addEventListener('change', function() {
+                performSearch();
+                updateExportButton();
+            });
             document.getElementById('itemsPerPage').addEventListener('change', function() {
                 itemsPerPage = parseInt(this.value);
                 currentPage = 1;
@@ -457,6 +472,19 @@
 
         function hideAutocomplete() {
             document.getElementById('autocomplete-dropdown').style.display = 'none';
+        }
+
+        function updateExportButton() {
+            const category = document.getElementById('categoryFilter').value;
+            const exportRow = document.getElementById('pdf-export-row');
+            exportRow.style.display = (category === 'pdf' || category === 'all') ? 'block' : 'none';
+        }
+
+        function exportPdfs() {
+            const search = document.getElementById('searchInput').value.trim();
+            const params = new URLSearchParams();
+            if (search) params.append('search', search);
+            window.location.href = `/api/export/pdf?${params.toString()}`;
         }
     </script>
 </body>

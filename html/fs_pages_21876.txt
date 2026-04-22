@@ -45,7 +45,7 @@
 <div class="fsElementContent">
 <p>The following companies offer discounts to district employees for personal purchases.</p>
 <p><a contenteditable="false" href="http://store.apple.com/us-k12" style="cursor: pointer;" target="_blank">Apple Computer</a><br/>
-<a contenteditable="false" href="/resources/purchasing-warehousing/hp-epp-flyer-clark-county-sd.pdf" style="cursor: pointer;" target="_blank">HP Computer</a><br/>
+<a data-file-name="hp-epp-flyer-clark-county-sd.pdf" data-resource-uuid="04b0aa07-0e9b-4031-b83b-5623ed4d4485" href="/fs/resource-manager/view/04b0aa07-0e9b-4031-b83b-5623ed4d4485" target="_blank">HP Computer</a><br/>
 <a contenteditable="false" href="http://ccsd.onthehub.com" style="cursor: pointer;" target="_blank">Microsoft</a><br/>
 <a data-file-name="lenovo-computer-faq.pdf" data-resource-uuid="0d80cde5-8f54-4f81-87cc-7d9f4faf4a6a" href="/fs/resource-manager/view/0d80cde5-8f54-4f81-87cc-7d9f4faf4a6a" style="cursor: pointer;" target="_blank">Lenovo Computer - FAQ</a><br/>
 <a data-file-name="lenovo-ccsd-flyer.pdf" data-resource-uuid="2a3bf010-8a80-4cdb-93cd-188370103b45" href="/fs/resource-manager/view/2a3bf010-8a80-4cdb-93cd-188370103b45" style="cursor: pointer;" target="_blank">Lenovo Flyer</a><br/>

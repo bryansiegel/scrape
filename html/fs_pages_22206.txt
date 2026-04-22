@@ -1,0 +1,35 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Community Resources for Families</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_194391">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_194392">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_194393">
+<div class="fsElementContent">
+<div>
+<p dir="ltr">Per the United States and Nevada Constitutions, Nevada’s children are entitled to a free and appropriate education, regardless of their immigration status. The Clark County School District (CCSD) does not collect or verify students’ immigration status and is not responsible for enforcing federal immigration law. CCSD does everything we can to keep students safe on our campuses. We have protocols in place in case any outside law enforcement agency comes to our campuses or requests information about students or families.<br/>
+<br/>
+The Clark County School District does not offer legal advice or services to families. The following resources are offered as tools and resources to our community. </p>
+<p><a class="button-1" data-file-name="CCSDFamilyPreparednessandResourceGuide2426.pdf" data-resource-uuid="3ff3458c-a711-4e58-9d4d-041803f0c46e" href="/fs/resource-manager/view/3ff3458c-a711-4e58-9d4d-041803f0c46e" target="_blank">Click here to view the CCSD Family Preparedness and Resource Guide</a></p>
+<p><a class="button-1" data-file-name="CCSD-Family-Preparedness-and-Resource-Guide-2-5-26-Spanish.pdf" data-resource-uuid="5fccab00-e4c1-4766-9317-0317c7383f6c" href="/fs/resource-manager/view/5fccab00-e4c1-4766-9317-0317c7383f6c" target="_blank">Guía de Preparación y Recursos Para la Familia</a></p>
+<h3>Family Preparedness Plans</h3>
+<p dir="ltr">Any family can encounter unexpected emergencies. Having a Family Preparedness Plan helps ensure your children are cared for and remain stable during emergencies by identified, trusted caregivers and emergency contacts.</p>
+<p dir="ltr" role="presentation">Make the Road Nevada has developed a comprehensive Family Preparedness Plan: </p>
+<p dir="ltr" role="presentation"><a class="button-1" data-saferedirecturl="https://www.google.com/url?q=https://drive.google.com/file/d/1OEMUoaLWVN-zBLQRARYc6TFwcNHODEzE/view?usp%3Dsharing&amp;source=gmail&amp;ust=1770413064214000&amp;usg=AOvVaw0pjTs4d-AeQap6ljaF6Znu" href="https://drive.google.com/file/d/1OEMUoaLWVN-zBLQRARYc6TFwcNHODEzE/view?usp=sharing" target="_blank">Family Preparedness Plan in English</a></p>
+<p dir="ltr" role="presentation"><a class="button-1" data-saferedirecturl="https://www.google.com/url?q=https://drive.google.com/file/d/1ah5rfEwzJyjxdxp5cdY4mOsA_wYO41SC/view?usp%3Dsharing&amp;source=gmail&amp;ust=1770413064214000&amp;usg=AOvVaw0iAxKBoeZGj7tL-Ys6pdJK" href="https://drive.google.com/file/d/1ah5rfEwzJyjxdxp5cdY4mOsA_wYO41SC/view?usp=sharing" target="_blank">Family Preparedness Plan in Spanish</a></p>
+<p dir="ltr" role="presentation">Parents and guardians can complete a Temporary Guardianship Form to use if they are temporarily unavailable to care for their child.</p>
+<p dir="ltr" role="presentation"><a class="button-1" data-saferedirecturl="https://www.google.com/url?q=https://drive.google.com/file/d/1gZqhAx5qWcFZcp_jtBmI5OND62-iuRc-/view&amp;source=gmail&amp;ust=1770413064214000&amp;usg=AOvVaw2XGFs0deHx9GFn38V2Xdam" href="https://drive.google.com/file/d/1gZqhAx5qWcFZcp_jtBmI5OND62-iuRc-/view" style="font-family: Roboto;" target="_blank">Temporary Guardianship Form</a></p>
+<p dir="ltr" role="presentation">Advice from the Office of the Attorney General on Interacting with Law Enforcement </p>
+<p dir="ltr" role="presentation"><a data-saferedirecturl="https://www.google.com/url?q=https://drive.google.com/file/d/1SxyjSKRwIx2xFw3Ffh9zXS2IeL2vmg4w/view&amp;source=gmail&amp;ust=1770413064214000&amp;usg=AOvVaw2x9VbEH3IItdCq3F_yG5S3" href="https://drive.google.com/file/d/1SxyjSKRwIx2xFw3Ffh9zXS2IeL2vmg4w/view" target="_blank">Know Your Rights: Individual Rights for Immigrants</a></p>
+<h3>Immigration Support Agencies</h3>
+<p dir="ltr">The following is a list of agencies that provide a network of support, including immigration- related services, legal assistance, community resources, Family Preparedness Plans, and community support. </p>
+<p dir="ltr" role="presentation"><a data-saferedirecturl="https://www.google.com/url?q=https://law.unlv.edu/clinics/immigration&amp;source=gmail&amp;ust=1770413064214000&amp;usg=AOvVaw0DpWYsL9I5vkJ2mc1GobRf" href="https://law.unlv.edu/clinics/immigration" target="_blank">UNLV Immigration Clinic</a></p>
+<p dir="ltr" role="presentation">(702) 895-3000</p>
+<p dir="ltr" role="presentation"><a data-saferedirecturl="https://www.google.com/url?q=https://www.lacsn.org/practice-areas/family-justice-project/immigration&amp;source=gmail&amp;ust=1770413064214000&amp;usg=AOvVaw0WIfBu0zYh2JN3IQ5raOIa" href="https://www.lacsn.org/practice-areas/family-justice-project/immigration" target="_blank">Legal Aid Center of Southern Nevada </a>      </p>
+<p dir="ltr" role="presentation">(702) 386-1070, Option 4</p>
+<p dir="ltr" role="presentation"><a data-saferedirecturl="https://www.google.com/url?q=https://www.aclunv.org/know-your-rights/immigrants-rights/&amp;source=gmail&amp;ust=1770413064214000&amp;usg=AOvVaw25YxJ44OcGsLArFaOQ2Apr" href="https://www.aclunv.org/know-your-rights/immigrants-rights/" target="_blank">ACLU of Nevada </a></p>
+<p dir="ltr" role="presentation">(702) 366-1226</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>

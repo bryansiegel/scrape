@@ -1,0 +1,62 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Student Record Services</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_218040">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_218041">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_218057">
+<div class="fsElementContent">
+<table class="table-styled" width="100%">
+<thead>
+<tr>
+<th><strong>Position</strong></th>
+<th><strong>Name</strong></th>
+<th><strong>Phone</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Director I</td>
+<td>Jodean Oviatt</td>
+<td>702-799-2487</td>
+</tr>
+<tr>
+<td>Director I</td>
+<td>Debbie Tibbles</td>
+<td>702-799-2487</td>
+</tr>
+<tr>
+<td>Office Manager</td>
+<td>Deanna Kuehn-Jones</td>
+<td>702-799-2487</td>
+</tr>
+</tbody>
+</table>
+<h2>About Student Record Services</h2>
+<p>Student Record Services maintains the archiving of educational records for former Clark County School District students. Academic records are maintained in perpetuity and special education records are maintained until the student reaches age 28.</p>
+<h2>Requesting Records</h2>
+<p>CCSD uses an online system to receive all records requests from former students of the Clark County School District.</p>
+<h3><strong>K-12 schools</strong></h3>
+<p><a class="button-1" href="https://k12records.ccsd.net" target="_blank">Submit Requests</a></p>
+<h3><strong>All other requesters</strong></h3>
+<p><a class="button-1" href="https://transcripts.ccsd.net" target="_blank">Submit Requests</a></p>
+<p> </p>
+<p>Mail, phone, and fax requests are not accepted, and same-day service is not available.</p>
+<p>For questions or additional information, please call 702-799-2938 and one of our team members will be happy to assist.</p>
+<h3>NV-AB7 Proficiency Exemption</h3>
+<p>Former students that last attended a comprehensive CCSD high school can place a written request online at <a href="https://www.parchment.com/u/registration/96937828/institution" style="cursor: pointer;" target="_blank">transcripts.ccsd.net</a>. Select the "NV-AB7 Proficiency Exemption Request" icon and complete the request form.</p>
+<h3>Adult Education Students</h3>
+<ul>
+<li>For all Adult Education and GED requests prior to 2015, contact Adult Education at 702-799-8650.</li>
+<li>For all high school equivalency tests administered in Nevada, including GED©, HiSET©, and TASC© Click Here</li>
+</ul>
+<h3>Electronic Record Verification</h3>
+<p>To verify a credential, you must use the platform where the record was originally processed. <a href="https://clarknv.scriborder.com/" target="_blank">Scribble (ScribOrder)</a> or <a href="https://www.parchment.com/u/registration/96937828/institution" target="_blank">Parchment</a>. Requests submitted through the wrong platform will be delayed and may need to be resubmitted.</p>
+<!--
+<p><strong>Parchment:</strong> https://www.parchment.com/u/registration/96937828/institution.</p>
+
+<p><strong>Requests submitted through the wrong platform will be delayed and may need to be resubmitted.</strong></p>
+-->
+</div>
+</div>
+</div>
+</div>
+</main>

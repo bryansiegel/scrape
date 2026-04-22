@@ -1,0 +1,120 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Technology and Information Systems Services</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_11988">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_11989">
+<div class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_218008">
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-218009" role="presentation">
+<a aria-controls="fsEl_218009" aria-selected="false" href="#fs-panel-218009" role="tab">Academic Technology Services</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-218011" role="presentation">
+<a aria-controls="fsEl_218011" aria-selected="false" href="#fs-panel-218011" role="tab">Enterprise Business Information Systems (Hcm)</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-218013" role="presentation">
+<a aria-controls="fsEl_218013" aria-selected="false" href="#fs-panel-218013" role="tab">Infrastructure Services</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-218015" role="presentation">
+<a aria-controls="fsEl_218015" aria-selected="false" href="#fs-panel-218015" role="tab">Telecommunication Services</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-218017" role="presentation">
+<a aria-controls="fsEl_218017" aria-selected="false" href="#fs-panel-218017" role="tab">Networking Services</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-218019" role="presentation">
+<a aria-controls="fsEl_218019" aria-selected="false" href="#fs-panel-218019" role="tab">User Services</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-218021" role="presentation">
+<a aria-controls="fsEl_218021" aria-selected="false" href="#fs-panel-218021" role="tab">Technology Support Help Desk</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_218009" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_218009" aria-expanded="false" href="#fs-panel-218009" role="button">Academic Technology Services</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-218009"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_218010">
+<div class="fsElementContent">
+<h2>Student Records Services</h2>
+<p><a class="button-1" data-page-name="Student Records Services" href="/fs/pages/24408">More Information</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_218011" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_218011" aria-expanded="false" href="#fs-panel-218011" role="button">Enterprise Business Information Systems (Hcm)</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-218011"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_218012">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_218013" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_218013" aria-expanded="false" href="#fs-panel-218013" role="button">Infrastructure Services</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-218013"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_218014">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_218015" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_218015" aria-expanded="false" href="#fs-panel-218015" role="button">Telecommunication Services</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-218015"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_218016">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_218017" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_218017" aria-expanded="false" href="#fs-panel-218017" role="button">Networking Services</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-218017"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_218018">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_218019" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_218019" aria-expanded="false" href="#fs-panel-218019" role="button">User Services</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-218019"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_218020">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_218021" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_218021" aria-expanded="false" href="#fs-panel-218021" role="button">Technology Support Help Desk</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-218021"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_218022">
+<div class="fsElementContent">
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -9,10 +9,40 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/error_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/error_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/about_leadership-team.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_leadership-team.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/about_newsroom.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_newsroom.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/about_newsroom_all-news.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_newsroom_all-news.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/about_open-book.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_open-book.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/about_school-board.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_school-board.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/about_school-board_contact.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_school-board_contact.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/about_school-board_policies-and-regulations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_school-board_policies-and-regulations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/calendars.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/calendars.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/community.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/community.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/community_donate-to-schools.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/community_donate-to-schools.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/community_partner-with-us.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/community_partner-with-us.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/community_volunteer-with-us.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/community_volunteer-with-us.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/contact-webmaster.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact-webmaster.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/departments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/departments.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/directory-all.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/directory-all.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/enroll.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/enroll.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/fs_pages_1262.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_1262.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/fs_pages_1263.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_1263.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/fs_pages_1268.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_1268.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/fs_pages_1269.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_1269.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/fs_pages_1279.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_1279.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/fs_pages_1287.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_1287.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/fs_pages_1303.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_1303.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/fs_pages_16539.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_16539.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/fs_pages_19358.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_19358.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/fs_pages_21876.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_21876.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/parents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/parents.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/students.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/students.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraped_google_sites.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scraped_google_sites.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scraped_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scraped_links.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scraped_pdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scraped_pdf.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scraper_departments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scraper_departments.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper_drive_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scraper_drive_links.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +56,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="2383" />
+    <option name="cachedIndexableFilesCount" value="2392" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -56,34 +86,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.all-scrape.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.scraper.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "addPDFFromPage",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.all-scrape.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scraper.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;addPDFFromPage&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -110,6 +140,9 @@
       <workItem from="1763595039908" duration="317000" />
       <workItem from="1773076538557" duration="8761000" />
       <workItem from="1773239461406" duration="6966000" />
+      <workItem from="1774978131273" duration="2202000" />
+      <workItem from="1775661084420" duration="11250000" />
+      <workItem from="1776284313789" duration="742000" />
     </task>
     <servers />
   </component>
@@ -117,9 +150,9 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/scrape$app.coverage" NAME="app Coverage Results" MODIFIED="1773410354579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scrape$app.coverage" NAME="app Coverage Results" MODIFIED="1776284346795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/scrape$scraper.coverage" NAME="scraper Coverage Results" MODIFIED="1773347753687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/scrape$all_scrape.coverage" NAME="all-scrape Coverage Results" MODIFIED="1773086271519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scrape$all_scrape.coverage" NAME="all-scrape Coverage Results" MODIFIED="1775661098265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>

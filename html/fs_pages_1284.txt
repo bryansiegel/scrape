@@ -1,0 +1,13 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Login</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_31">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_32">
+<div class="fsElement fsAccount" data-use-new="true" id="fsEl_1144">
+<div class="fsElementContent">
+<p aria-atomic="true" class="fsError" role="alert">This page is protected. Please log in to view this page.</p>
+<p class="fsAccountLogout"><a class="fsStyleUpdateButton" href="/fs/login?return_to=https://www.ccsd.net/resources/summer-school-information">Login</a></p>
+</div>
+</div>
+</div>
+</div>
+</main>

@@ -273,12 +273,11 @@
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173133">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
-<div style="text-align:center">
-<figure class="fsImage" style="display:inline-block"><picture><img alt="Dr. Bradley Keating" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866314/ccsdnet/jmwadudodcfwctjfpphh/Brad-Keating.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Brad-Keating.png" data-resource-uuid="6f9f946a-a44c-4303-857e-fce49175ae80" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+<div contenteditable="false" tabindex="-1">
+<figure class="fsImage" data-widget="image"><picture><img alt="Dr. Bradley Keating" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764866314/ccsdnet/jmwadudodcfwctjfpphh/Brad-Keating.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Brad-Keating.png" data-resource-uuid="6f9f946a-a44c-4303-857e-fce49175ae80" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
 </div>
 <h4 style="padding-top:5px;">Dr. Bradley Keating</h4>
-<p>Assistant Superintendent
-  Community Partnerships and Government Relations</p>
+<p>Associate Superintendent, Community Partnerships and Government Relations</p>
 </div>
 </div>
 </div>
@@ -297,6 +296,21 @@
 </div>
 </div>
 <div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173136">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_173145">
+<div class="fsElementContent">
+<div class="light-blue-card" style="text-align:center;margin-top:0px;">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="Kevin McPartlin" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764868525/ccsdnet/w3k7gxhcdfeborqises2/Kevin-McPartlin-r8897gps6c47kgc73952td1ik6tdtq3uco1665fpai.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Kevin-McPartlin-r8897gps6c47kgc73952td1ik6tdtq3uco1665fpai.png" data-resource-uuid="f72a9686-3cb8-4b08-8e7b-8a1cda800722" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
+</div>
+<h4 style="padding-top:5px;">Kevin McPartlin </h4>
+<p>Associate Superintendent, Education Services Division</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_214344">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_214345">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173137">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -308,6 +322,12 @@
 </div>
 </div>
 </div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_214346">
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_214347">
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_214348">
 </div>
 </div>
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173142">
@@ -322,19 +342,6 @@
 </div>
 <div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173143">
 <div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173144">
-<div class="fsElement fsContent" data-use-new="true" id="fsEl_173145">
-<div class="fsElementContent">
-<div class="light-blue-card" style="text-align:center;margin-top:0px;">
-<div style="text-align:center">
-<figure class="fsImage" style="display:inline-block"><picture><img alt="Kevin McPartlin" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764868525/ccsdnet/w3k7gxhcdfeborqises2/Kevin-McPartlin-r8897gps6c47kgc73952td1ik6tdtq3uco1665fpai.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Kevin-McPartlin-r8897gps6c47kgc73952td1ik6tdtq3uco1665fpai.png" data-resource-uuid="f72a9686-3cb8-4b08-8e7b-8a1cda800722" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
-</div>
-<h4 style="padding-top:5px;">Kevin McPartlin </h4>
-<p>Associate Superintendent, Education Services Division</p>
-</div>
-</div>
-</div>
-</div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173146">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173147">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -347,7 +354,7 @@
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173148">
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173146">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173149">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -360,7 +367,7 @@
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173150">
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173148">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173151">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -373,9 +380,7 @@
 </div>
 </div>
 </div>
-</div>
-<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173152">
-<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173153">
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173150">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173154">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -389,7 +394,9 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173155">
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173152">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173153">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173156">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -404,7 +411,7 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173157">
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173155">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173158">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -419,7 +426,7 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173159">
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173157">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173160">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -433,9 +440,7 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-</div>
-<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173161">
-<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173162">
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173159">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173163">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -448,7 +453,9 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173164">
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173161">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173162">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173165">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -456,12 +463,12 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 <figure class="fsImage" style="display:inline-block"><picture><img alt="Hilary Malloy" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764869243/ccsdnet/o6jzewyvxcxopjw35qaf/Hilary-Malloy.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Hilary-Malloy.png" data-resource-uuid="166dbb3c-a735-491f-aefc-a98d356b006c" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
 </div>
 <h4 style="padding-top:5px;">Hilary Malloy</h4>
-<p>School Associate Superintendentendent</p>
+<p>School Associate Superintendent</p>
 </div>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173166">
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173164">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173167">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -474,7 +481,7 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173168">
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173166">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173169">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -487,9 +494,7 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-</div>
-<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173170">
-<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173171">
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173168">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173172">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -502,7 +507,9 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173173">
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173170">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173171">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173174">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -515,7 +522,7 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173175">
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173173">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173176">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -528,7 +535,7 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173177">
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173175">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173178">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -541,9 +548,7 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-</div>
-<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173179">
-<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173180">
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173177">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173181">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -556,7 +561,9 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173182">
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173179">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173180">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173183">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -567,7 +574,7 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173184">
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173182">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173185">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -580,7 +587,7 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173186">
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173184">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173187">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -593,9 +600,7 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-</div>
-<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173188">
-<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173189">
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173186">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173190">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -608,7 +613,9 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173191">
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173188">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173189">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173192">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -621,7 +628,7 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173193">
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173191">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173194">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -634,22 +641,20 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173195">
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173193">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173196">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
 <div style="text-align:center">
 <figure class="fsImage" style="display:inline-block"><picture><img alt="Kortney Smith" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1764870303/ccsdnet/qch7sdyvvybjnxzsmc7c/Smith.png%22,%22width%22:200}]" data-resource-description="" data-resource-filename="Smith.png" data-resource-uuid="385121c0-118b-47a6-ac35-f7004687d159" loading="lazy" src="" style="border-radius:6px;"/></picture></figure>
 </div>
-<h4 style="padding-top:5px;">Kortney Smith</h4>
+<h4 style="padding-top:5px;">Dr. Kortney Smith</h4>
 <p>School Associate Superintendent</p>
 </div>
 </div>
 </div>
 </div>
-</div>
-<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173197">
-<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173198">
+<div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173195">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173199">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -662,7 +667,9 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173200">
+</div>
+<div class="fsElement fsLayout fsFourColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_173197">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_173198">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173201">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -675,7 +682,7 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173202">
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_173200">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_173203">
 <div class="fsElementContent">
 <div class="light-blue-card" style="text-align:center;margin-top:0px;">
@@ -687,6 +694,8 @@ Safe and Respectful Learning Environments and Opportunities Division</p>
 </div>
 </div>
 </div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleAutoclear" id="fsEl_173202">
 </div>
 <div class="fsDiv fsStyleColumn fsStyleColumn-4 fsStyleColumn-last fsStyleAutoclear" id="fsEl_173204">
 </div>

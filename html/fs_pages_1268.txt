@@ -45,7 +45,7 @@
 <header>
 <h2 class="fsElementTitle">Contact Info</h2>
 <div class="fsElementHeaderContent">
-<div><a contenteditable="false" id="contact-info" style="cursor: pointer;"></a></div>
+<div><a id="contact-info" style="cursor: pointer;"></a></div>
 </div>
 </header>
 <div class="fsElementContent">
@@ -137,6 +137,83 @@ Information involving juveniles is protected by law. If you are identified as a 
 <p><a class="button-1" href="https://drive.google.com/drive/folders/1DROoL_lNrse6Rv8wzIn1wzCLr9rMOTuo" target="_blank">Firearms Confiscation Report (Google Drive)</a></p>
 </div>
 </div>
+<section class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_222246">
+<header>
+<h2 class="fsElementTitle">FAQs</h2>
+</header>
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-222247" role="presentation">
+<a aria-controls="fsEl_222247" aria-selected="false" href="#fs-panel-222247" role="tab">Are you real police officers?</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-222249" role="presentation">
+<a aria-controls="fsEl_222249" aria-selected="false" href="#fs-panel-222249" role="tab">Can CCSD police officers make arrests and write traffic citations?</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-222251" role="presentation">
+<a aria-controls="fsEl_222251" aria-selected="false" href="#fs-panel-222251" role="tab">Can CCSD police officers make arrests off School District property?</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-222253" role="presentation">
+<a aria-controls="fsEl_222253" aria-selected="false" href="#fs-panel-222253" role="tab">If a crime occurs in my neighborhood involving School District students, whom should I notify?</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_222247" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_222247" aria-expanded="false" href="#fs-panel-222247" role="button">Are you real police officers?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-222247"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_222248">
+<div class="fsElementContent">
+			Yes, the CCSD School Police officers are required to complete a Peace Officer Standards &amp; Training (P.O.S.T.) academy to become certified police officers.
+
+	</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_222249" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_222249" aria-expanded="false" href="#fs-panel-222249" role="button">Can CCSD police officers make arrests and write traffic citations?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-222249"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_222250">
+<div class="fsElementContent">
+			Yes, as a sworn police officer for the State of Nevada we have the authority to make arrests and issue traffic citations.
+
+	</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_222251" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_222251" aria-expanded="false" href="#fs-panel-222251" role="button">Can CCSD police officers make arrests off School District property?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-222251"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_222252">
+<div class="fsElementContent">
+			Yes, our primary jurisdiction is School District property, but as first responders we have a responsibility to respond to imminent incidents and take the appropriate action.
+
+	</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_222253" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_222253" aria-expanded="false" href="#fs-panel-222253" role="button">If a crime occurs in my neighborhood involving School District students, whom should I notify?</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-222253"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_222254">
+<div class="fsElementContent">
+			Your local police agency will take the initial report and investigate the crime. However, information involving students should be forwarded to School Police and the site administrator. This information is crucial for the safety of our students and staff.
+
+	</div>
+</div>
+</div>
+</section>
+</div>
+</section>
 </div>
 </div>
 </main>

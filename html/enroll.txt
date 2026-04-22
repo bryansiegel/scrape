@@ -13,6 +13,7 @@
 <div class="fsElementContent">
 <h3>Student Registration Information</h3>
 <p>Children shall be placed in the age-appropriate grade based upon their age as of August 1, unless retained or demoted in accordance with CCSD policies and regulations. Age-appropriate grade is determined by the ages provided in <a href="https://www.leg.state.nv.us/nrs/nrs-392.html#NRS392Sec040" target="_blank">NRS 392.040</a> (as amended).</p>
+<p><strong>Monday, April 20, 2026, at 8:30 a.m., online registration for the 2026-2027 school year will open.</strong></p>
 </div>
 </div>
 </div>
@@ -150,7 +151,10 @@ Parents can complete registration at home or contact their child’s zoned schoo
 <a aria-controls="fsEl_6661" aria-selected="false" href="#fs-panel-6661" role="tab">Child's ID</a>
 </li>
 <li class="fsTabsNavItem" id="fsTab-6663" role="presentation">
-<a aria-controls="fsEl_6663" aria-selected="false" href="#fs-panel-6663" role="tab">Immunization Record</a>
+<a aria-controls="fsEl_6663" aria-selected="false" href="#fs-panel-6663" role="tab">Immunization Guidelines for 2025-2026</a>
+</li>
+<li class="fsTabsNavItem" id="fsTab-223074" role="presentation">
+<a aria-controls="fsEl_223074" aria-selected="false" href="#fs-panel-223074" role="tab">Immunization Guidelines for 2026-2027</a>
 </li>
 <li class="fsTabsNavItem" id="fsTab-6665" role="presentation">
 <a aria-controls="fsEl_6665" aria-selected="false" href="#fs-panel-6665" role="tab">Proof of address</a>
@@ -189,83 +193,212 @@ Parents can complete registration at home or contact their child’s zoned schoo
 </section>
 <section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_6663" role="tabpanel">
 <header>
-<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_6663" aria-expanded="false" href="#fs-panel-6663" role="button">Immunization Record</a></h2>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_6663" aria-expanded="false" href="#fs-panel-6663" role="button">Immunization Guidelines for 2025-2026</a></h2>
 </header>
 <div aria-hidden="true" class="fsElementContent">
 <a id="fs-panel-6663"></a>
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_6664">
 <div class="fsElementContent">
-<p><strong>NRS 392.435 Immunization of pupils: Certificate prerequisite to registration; conditional registration; effect of failure to immunize; report to Health Division; inclusion of certificate in pupil’s record.</strong><br/>
-Unless excused because of religious belief or medical condition, <strong>a child may not be registered in a public school within this State</strong> unless his parents or guardian submit to the board of trustees of the school district in which the child resides a certificate stating that the child has been immunized and has received proper boosters for that immunization or is complying with the schedules established pursuant to NRS 439.550.</p>
-<p><a name="ImmRes"></a></p>
-<h3>Immunization Resources</h3>
-<ul>
-<li><a data-file-name="2025-2026-PreK-Immunization-Ref-Guide-07012025_NA_1.pdf" data-resource-uuid="66a11982-9c63-4ec8-ab2f-94182bfe3db7" href="/fs/resource-manager/view/66a11982-9c63-4ec8-ab2f-94182bfe3db7" target="_blank">Early Childhood Special Education (ECSE) / Pre-Kindergarten (Pre-K) Immunization Requirements 2025-2026 School Year (PDF)</a></li>
-<li><a data-file-name="2025-2026-K-12-Quick-Immunization-Reference-Guide_1.pdf" data-resource-uuid="de01a593-ebd6-4cca-9977-bd18feca428b" href="/fs/resource-manager/view/de01a593-ebd6-4cca-9977-bd18feca428b" target="_blank">K-12 Quick Immunization Reference Guide 2025-2026 School Year (PDF)</a></li>
-</ul>
+<p> </p>
 <h3>2025-2026 School Year Immunization Guidelines</h3>
 <p><strong>NRS 392.435 Immunization of pupils: Certificate prerequisite to enrollment; conditional enrollment; effect of failure to immunize; report to Health Division; inclusion of certificate in pupil’s record.</strong></p>
-<p> </p>
-<p><strong>Unless excused because of religious belief or medical condition, a child may not be enrolled in a public school within this State unless his parents or guardian submit to the board of trustees of the school district in which the child resides a certificate stating that the child has been immunized and has received proper boosters for that immunization or is complying with the schedules established pursuant to NRS 439.550 for the following diseases:</strong></p>
+<p>Unless excused because of religious belief or medical condition, a child may not be enrolled in a public school within this State unless his parents or guardian submit to the board of trustees of the school district in which the child resides a certificate stating that the child has been immunized and has received proper boosters for that immunization or is complying with the schedules established pursuant to NRS 439.550 for the following diseases:</p>
 <p><strong><strong>5 DTaP/DPT</strong> (Minimum age: 6 weeks) if series was started before age 7 (lab titer NOT acceptable)</strong></p>
 <p><strong><strong>Catch up schedule</strong> – Students age 7 or older, who are not immunized with the childhood DTaP/DPT vaccine series, should receive Tdap vaccine as the initial dose in the catch-up series. If additional doses are needed, use the Td/Tdap vaccine.</strong></p>
-<ul>
-<li><strong>1st, 2nd dose and 2nd and 3rd dose must be separated by 4 weeks</strong></li>
-<li><strong>4th dose must be separated from the 3rd dose by at least 4 months</strong></li>
-<li><strong>5th dose must be separated from the 4th dose by at least 6 months and given on or after 4th birthday</strong></li>
-<li><strong>5th dose not needed if 4th dose given on or after 4th birthday and at least 6 months after previous dose</strong>
-<ul>
-<li><strong>A total of 4 doses DTaP/DTP/Td/Tdap combination is needed if the first dose is given less than 12 months of age. Dose 3 and 4 must be 6 months apart. 4th dose does not need to be repeated if it was administered at least 4 months after the 3rd dose</strong></li>
-<li><strong>A total of 3 doses Td/Tdap combination is needed if first dose given at 12 months and older. Dose 2 and 3 must be 6 months apart</strong></li>
+<ul style="margin-left: 40px;">
+<li>1st, 2nd dose and 2nd and 3rd dose must be separated by 4 weeks</li>
+<li>4th dose must be separated from the 3rd dose by at least 4 months</li>
+<li>5th dose must be separated from the 4th dose by at least 6 months and given on or after 4th birthday</li>
+<li>5th dose not needed if 4th dose given on or after 4th birthday and at least 6 months after previous dose
+	<ul>
+<li>A total of 4 doses DTaP/DTP/Td/Tdap combination is needed if the first dose is given less than 12 months of age. Dose 3 and 4 must be 6 months apart. 4th dose does not need to be repeated if it was administered at least 4 months after the 3rd dose</li>
+<li>A total of 3 doses Td/Tdap combination is needed if first dose given at 12 months and older. Dose 2 and 3 must be 6 months apart</li>
+<li>Tdap if given at age 7,8 or 9, must be repeated at age 11-12 years old. Dose is valid if administered at age 10.</li>
 </ul>
 </li>
-<li><strong>Tdap if given at age 7,8 or 9, must be repeated at age 11-12 years old. Dose is valid if administered at age 10.</strong></li>
 </ul>
 <p><strong><strong>2 Hepatitis A</strong> (Minimum age: 12 months) (lab titer acceptable)</strong></p>
-<ul>
-<li><strong>2nd dose must be at least 6 months after the 1st dose.</strong></li>
+<ul style="margin-left: 40px;">
+<li>2nd dose must be at least 6 months after the 1st dose.</li>
 </ul>
 <p><strong><strong>3 Hepatitis B</strong> (Minimum age: birth) (lab titer acceptable)</strong></p>
-<ul>
-<li><strong>1st and 2nd dose must be separated by 4 weeks</strong></li>
-<li><strong>2nd and 3rd dose must be separated by at least 8 weeks</strong></li>
-<li><strong>3rd dose at least 16 weeks after the 1st dose. (Minimum age for final- 3rd or 4th dose: 24 weeks of age)</strong></li>
+<ul style="margin-left: 40px;">
+<li>1st and 2nd dose must be separated by 4 weeks</li>
+<li>2nd and 3rd dose must be separated by at least 8 weeks</li>
+<li>3rd dose at least 16 weeks after the 1st dose. (Minimum age for final- 3rd or 4th dose: 24 weeks of age)</li>
 </ul>
 <p><strong><strong>2 MMR**</strong> (Minimum age: 12 months) (lab titer acceptable)</strong></p>
-<ul>
-<li><strong>1st and 2nd dose must be separated by at least 4 weeks</strong></li>
-<li><strong>2nd not required until on or after the 4th birthday</strong></li>
+<ul style="margin-left: 40px;">
+<li>1st and 2nd dose must be separated by at least 4 weeks</li>
+<li>2nd not required until on or after the 4th birthday</li>
 </ul>
 <p><strong><strong>1-2 MCV4 (MenACWY-Quadrivalent MENINGOCOCCAL)</strong> (lab titer NOT acceptable)</strong></p>
-<ul>
-<li><strong>Required for 7th grade registration after June 30, 2017 (and all students new to District between 8th and 12th grade).</strong></li>
-<li><strong>Must receive at least 1 dose of MenACWY on or after age 10 years. (Does not apply to students registered before July 1, 2009).</strong></li>
-<li><strong>A MCV4 (MenACWY) dose is required on or after the age of 16 for students entering 12th grade. </strong></li>
-<li><strong>Required for 12th grade registration after June 30, 2022. (Does not apply to students registered before July 1, 2009).</strong></li>
+<ul style="margin-left: 40px;">
+<li>Required for 7th grade registration after June 30, 2017 (and all students new to District between 8th and 12th grade).</li>
+<li>Must receive at least 1 dose of MenACWY on or after age 10 years. (Does not apply to students registered before July 1, 2009).</li>
+<li>A MCV4 (MenACWY) dose is required on or after the age of 16 for students entering 12th grade.</li>
+<li>Required for 12th grade registration after June 30, 2022. (Does not apply to students registered before July 1, 2009).</li>
 </ul>
 <p><strong><strong>3-4 Polio/IPV/OPV</strong> (Minimum age: 6 weeks) (lab titer NOT acceptable)</strong></p>
-<ul>
-<li><strong>1st, 2nd and 3rd doses must be separated by 4 weeks</strong></li>
-<li><strong>Final dose at least 6 months after the previous dose and on or after 4th birthday</strong></li>
-<li><strong>4th dose not needed if 3rd dose is at least 6 months from the previous dose and on or after 4th birthday</strong></li>
+<ul style="margin-left: 40px;">
+<li>1st, 2nd and 3rd doses must be separated by 4 weeks</li>
+<li>Final dose at least 6 months after the previous dose and on or after 4th birthday</li>
+<li>4th dose not needed if 3rd dose is at least 6 months from the previous dose and on or after 4th birthday</li>
 </ul>
 <p><strong><strong>1 Tdap</strong> (lab titer NOT acceptable)</strong></p>
-<ul>
-<li><strong>Required for 7th grade registration and all students grade 8th - 12th<br/>
-	*See DTaP/DTP for catch up schedule. Dose is valid if administered at age 10. </strong></li>
+<ul style="margin-left: 40px;">
+<li>Required for 7th grade registration and all students grade 8th - 12th<br/>
+	*See DTaP/DTP for catch up schedule. Dose is valid if administered at age 10.</li>
 </ul>
 <p><strong><strong>2 Varicella/Chicken Pox**</strong> (Minimum age: 12 months) required for students new to Nevada, or new to District after July 1, 2011</strong></p>
-<ul>
-<li><strong>12 months through 12 years, 1st and 2nd dose should be separated by 3 months; however dose is valid if separated by 4 weeks if inadvertently administered (lab titer acceptable).</strong></li>
-<li><strong>13 years and older, 1st and 2nd dose must be separated by 4 weeks</strong></li>
-<li><strong>Physician verification of past disease required for exemption</strong></li>
+<ul style="margin-left: 40px;">
+<li>12 months through 12 years, 1st and 2nd dose should be separated by 3 months; however dose is valid if separated by 4 weeks if inadvertently administered (lab titer acceptable).</li>
+<li>13 years and older, 1st and 2nd dose must be separated by 4 weeks</li>
+<li>Physician verification of past disease required for exemption</li>
 </ul>
-<p><strong><em>**Live vaccines (MMR, Varicella and live, attenuated Influenza) must be separated by 28 days if not given on the same day. Four-day rule applies if the same live vaccine is administered.</em></strong></p>
+<p><em>**Live vaccines (MMR, Varicella and live, attenuated Influenza) must be separated by 28 days if not given on the same day. Four-day rule applies if the same live vaccine is administered.</em></p>
 <p><strong><strong>New Waiver Changes</strong></strong></p>
-<p><strong>The <strong>religious exemption</strong> form will be completed annually in accordance with state guidelines.</strong></p>
-<p><strong>The <strong>permanent medical exemption</strong> will not have to be completed annually since it is a permanent medical condition.</strong></p>
-<p><strong>The <strong>temporary medical exemption</strong> will be completed annually in accordance with state guidelines.</strong></p>
+<p>The <strong>religious exemption form</strong> will be completed annually in accordance with state guidelines.</p>
+<p>The <strong>permanent medical exemption</strong> will not have to be completed annually since it is a permanent medical condition.</p>
+<p>The<strong> temporary medical exemption</strong> will be completed annually in accordance with state guidelines.</p>
+<h3>Immunization Resources</h3>
+<ul style="margin-left: 40px;">
+<li><a data-file-name="2025-2026-PreK-Immunization-Ref-Guide-07012025_NA_1.pdf" data-resource-uuid="66a11982-9c63-4ec8-ab2f-94182bfe3db7" href="/fs/resource-manager/view/66a11982-9c63-4ec8-ab2f-94182bfe3db7" target="_blank">Early Childhood Special Education (ECSE) / Pre-Kindergarten (Pre-K) Immunization Requirements 2025-2026 School Year (PDF)</a></li>
+<li><a data-file-name="2025-2026-K-12-Quick-Immunization-Reference-Guide_1.pdf" data-resource-uuid="de01a593-ebd6-4cca-9977-bd18feca428b" href="/fs/resource-manager/view/de01a593-ebd6-4cca-9977-bd18feca428b" target="_blank">K-12 Quick Immunization Reference Guide 2025-2026 School Year (PDF)</a></li>
+<li><a href="https://sites.google.com/nv.ccsd.net/school-basedhealthandproviderr/parentguardian-resources#h.kgjpfojzc681" target="_blank" title="CCSD Physical &amp; Mental Health Resources">CCSD Physical &amp; Mental Health Resources</a><a href="https://sites.google.com/nv.ccsd.net/school-basedhealthandproviderr/parentguardian-resources#h.kgjpfojzc681" target="_blank" title="CCSD Physical &amp; Mental Health Resources/Immunizations">/Immunizations</a></li>
+</ul>
 <p><strong><!-- 			<p><em>**Please provide any proof of student COVID vaccines/boosters to the school health office</em></p> --> <a contenteditable="false" name="proofAddr" style="cursor: pointer;"></a></strong></p>
+</div>
+</div>
+</div>
+</section>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_223074" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_223074" aria-expanded="false" href="#fs-panel-223074" role="button">Immunization Guidelines for 2026-2027</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-223074"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_223075">
+<div class="fsElementContent">
+<h3 dir="ltr">2026-2027 School Year Immunization Guidelines</h3>
+<p dir="ltr"><b>NRS 392.435 Immunization of pupils: Certificate prerequisite to enrollment; conditional enrollment; consequences for failure to immunize; report to Health Division; inclusion of certificate in pupil’s record.</b></p>
+<p dir="ltr">Unless excused because of religious belief or medical condition, a child may not be enrolled in a public school within this State unless the child’s  parents or guardian submit to the board of trustees of the school district in which the child resides a certificate stating that the child has been immunized and has received proper boosters for that immunization or is complying with the schedules established pursuant to NRS 439.550 for the following diseases:</p>
+<p dir="ltr"><b>5 DTaP/DPT (Minimum age: 6 weeks) if the series was started before age 7 (lab titer NOT acceptable)</b></p>
+<ul style="margin-left: 40px;">
+<li dir="ltr">
+<p dir="ltr" role="presentation">1st, 2nd, and 3rd dose must be separated by 4 weeks.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">4th dose must be separated from the 3rd dose by at least 4 months.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">5th dose must be separated from the 4th dose by at least 6 months and given on or after 4th birthday.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">5th dose not needed if 4th dose given on or after 4th birthday and at least 6 months after previous dose.</p>
+</li>
+</ul>
+<p dir="ltr"><b>Catch-up schedule – Students aged 7 or older, who are not immunized with the childhood DTaP/DPT vaccine series, should receive the Tdap vaccine as the initial dose in the catch-up series. If additional doses are needed, use Td/Tdap vaccine.</b></p>
+<ul style="margin-left: 40px;">
+<li dir="ltr">
+<p dir="ltr" role="presentation">A total of 4 doses DTaP/DTP/Td/Tdap combination is needed if the first dose is given less than 12 months of age.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">Dose 3 and 4 must be 6 months apart. 4th dose does not need to be repeated if it was administered at least 4 months after the 3rd dose.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">A total of 3 doses Td/Tdap combination is needed if first dose is given at 12 months and older. Dose 2 and 3 must be 6 months apart. </p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">Tdap, if given at age 7,8, or 9, must be repeated at age 11-12 years old. Dose is valid if administered at age 10.</p>
+</li>
+</ul>
+<p dir="ltr"><b>2 Hepatitis A (Minimum age: 12 months) (lab titer acceptable)</b></p>
+<ul style="margin-left: 40px;">
+<li dir="ltr">
+<p dir="ltr" role="presentation">2nd dose must be at least 6 months after the 1st dose.</p>
+</li>
+</ul>
+<p dir="ltr"><b>3 Hepatitis B (Minimum age: birth) (lab titer acceptable)</b></p>
+<ul style="margin-left: 40px;">
+<li dir="ltr">
+<p dir="ltr" role="presentation">1st and 2nd dose must be separated by 4 weeks.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">2nd and 3rd dose must be separated by at least 8 weeks.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">3rd dose at least 16 weeks after the 1st dose. (Minimum age for final dose (3rd or 4th dose) is 24 weeks of age.)</p>
+</li>
+</ul>
+<p dir="ltr"><b>2 MMR** (Minimum age: 12 months) (lab titer acceptable)</b></p>
+<ul style="margin-left: 40px;">
+<li dir="ltr">
+<p dir="ltr" role="presentation">1st and 2nd dose must be separated by at least 4 weeks.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">2nd not required until on or after the 4th birthday.</p>
+</li>
+</ul>
+<p dir="ltr"><b>1-2 MCV4 (MenACWY-Quadrivalent MENINGOCOCCAL) (lab titer NOT acceptable)</b></p>
+<ul style="margin-left: 40px;">
+<li dir="ltr">
+<p dir="ltr" role="presentation">Required for enrollment in Grade 7 after June 30, 2017 (and all students new to the District between Grades 8 and 12).</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">Must receive at least 1 dose of MenACWY on or after age 10 years. (Does not apply to students enrolled before July 1, 2009).</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">A MCV4 (MenACWY) dose is required on or after the age of 16 for students entering Grade 12.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">Required for enrollment in Grade 12 after June 30, 2022. (Does not apply to students registered before July 1, 2009).</p>
+</li>
+</ul>
+<p dir="ltr"><b>3-4 Polio/IPV/OPV (Minimum age: 6 weeks) (lab titer NOT acceptable)</b></p>
+<ul style="margin-left: 40px;">
+<li dir="ltr">
+<p dir="ltr" role="presentation">1st, 2nd, and 3rd doses must be separated by 4 weeks.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">Final dose (3rd or 4th dose) at least 6 months after the previous dose and on or after 4th birthday.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">4th dose not needed if 3rd dose is at least 6 months from the previous dose and on or after 4th birthday.</p>
+</li>
+</ul>
+<p dir="ltr"><b>1 Tdap* (lab titer NOT acceptable)</b></p>
+<ul style="margin-left: 40px;">
+<li dir="ltr">
+<p dir="ltr" role="presentation">Required for enrollment in Grade 7 and all students in Grades 8 - 12.<br/>
+	*See DTaP/DTP for catch-up schedule. Dose is valid if administered at age 10.</p>
+</li>
+</ul>
+<p dir="ltr"><b>2 Varicella/Chicken Pox** (Minimum age: 12 months)(lab titer acceptable) </b></p>
+<ul style="margin-left: 40px;">
+<li dir="ltr">
+<p dir="ltr" role="presentation">Required for students new to Nevada, or new to District after July 1, 2011.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">12 months through 12 years, 1st and 2nd dose should be separated by 3 months; however, dose is valid if separated by 4 weeks if administered.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">13 years and older, 1st and 2nd dose must be separated by 4 weeks.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr" role="presentation">Physician verification of past disease required for exemption.</p>
+</li>
+</ul>
+<p dir="ltr">**Live vaccines (MMR; Varicella; and live, attenuated Influenza) must be separated by 28 days if not given on the same day. Four-day rule applies if the same live vaccine is administered.</p>
+<p dir="ltr">The<strong> religious exemption form</strong> is completed annually in accordance with state guidelines.</p>
+<p dir="ltr">The <strong>permanent medical exemption form</strong> does not need to be completed annually, as it is a permanent condition.</p>
+<p dir="ltr">The<strong> temporary medical exemption form</strong> will be completed annually in accordance with state guidelines.</p>
+<h3 dir="ltr"><font color="#000000">Immunization Resources</font></h3>
+<ul dir="ltr" style="margin-left: 40px;">
+<li role="presentation"><a href="https://drive.google.com/file/d/1_xDW-c9HNav1xV0j-mI78K43ROQkYSZE/view" target="_blank" title="Early Childhood Special Education (ECSE) / Pre–Kindergarten (Pre–K) Immunization Requirements 2026–2027">Early Childhood Special Education (ECSE) / Pre-Kindergarten (Pre-K) Immunization Requirements 2026-2027 School Year (PDF)</a></li>
+<li role="presentation"><a href="https://drive.google.com/file/d/1NyizRp0UQrXcnaJr4fnHQwCTTiJElf47/view" target="_blank" title="K-12 Quick Immunization Reference Guide 2026-2027">K-12 Quick Immunization Reference Guide 2026-2027 School Year (PDF)</a></li>
+<li role="presentation"><a href="https://sites.google.com/nv.ccsd.net/school-basedhealthandproviderr/parentguardian-resources#h.kgjpfojzc681" target="_blank" title="CCSD Physical &amp; Mental Health Resources/Immunizations">CCSD Physical &amp; Mental Health Resources/Immunizations</a></li>
+</ul>
 </div>
 </div>
 </div>

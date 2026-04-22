@@ -38,7 +38,7 @@
 <a aria-controls="fsEl_208084" aria-selected="false" href="#fs-panel-208084" role="tab">Payroll/Budget</a>
 </li>
 <li class="fsTabsNavItem" id="fsTab-208068" role="presentation">
-<a aria-controls="fsEl_208068" aria-selected="false" href="#fs-panel-208068" role="tab">Purchasing, Warehousing, Mail Service and Graphic Arts (Pwmg)</a>
+<a aria-controls="fsEl_208068" aria-selected="false" href="#fs-panel-208068" role="tab">Purchasing, Warehousing, Mail Service and Graphic Arts (PWMG)</a>
 </li>
 <li class="fsTabsNavItem" id="fsTab-208064" role="presentation">
 <a aria-controls="fsEl_208064" aria-selected="false" href="#fs-panel-208064" role="tab">Safe Routes to School</a>
@@ -180,14 +180,14 @@ operational-services-unit/">More Information</a>
 </section>
 <section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208068" role="tabpanel">
 <header>
-<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208068" aria-expanded="false" href="#fs-panel-208068" role="button">Purchasing, Warehousing, Mail Service and Graphic Arts (Pwmg)</a></h2>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_208068" aria-expanded="false" href="#fs-panel-208068" role="button">Purchasing, Warehousing, Mail Service and Graphic Arts (PWMG)</a></h2>
 </header>
 <div aria-hidden="true" class="fsElementContent">
 <a id="fs-panel-208068"></a>
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_208069">
 <div class="fsElementContent">
-<h3>Purchasing and Warhousing</h3>
-<a class="button-1" href="" target="_blank">More Information</a>
+<h3>Purchasing and Warehousing</h3>
+<p><a class="button-1" data-page-name="Purchasing and Warehousing" href="/fs/pages/21876" target="_blank">More Information</a></p>
 </div>
 </div>
 </div>

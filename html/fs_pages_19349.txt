@@ -1,0 +1,46 @@
+<main class="fsPageContent" id="fsPageContent">
+<h1 class="fsPageTitle">Online Police Reporting</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_170534">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_170535">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_170542">
+<div class="fsElementContent">
+<div class="bg-cream" style="text-align:center;">
+<h2>If this is an emergency, dial 911.</h2>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent sub-hero-border" data-use-new="true" id="fsEl_170543">
+<div class="fsElementContent">
+<p>The Clark County School District Police Department (CCSDPD) online reporting system allows community members to submit non-emergency reports with no known suspects without going to a police station or waiting for an officer. A copy of the report may be printed at no cost.</p>
+<p>Use this system to report incidents such as lost or stolen property when no suspects are known and no emergency exists.</p>
+<p><strong>Do not use online reporting. Contact CCSDPD Dispatch at <a href="tel:702-799-5411">702-799-5411</a> or dial 911 if:</strong></p>
+<ul>
+<li>A life-threatening emergency exists</li>
+<li>A suspect is known</li>
+<li>A crime is in progress</li>
+</ul>
+<p>Online reports may only be submitted for incidents that occurred on CCSD property or at a CCSD event held off property, and no suspects are known.</p>
+<h3>Information Needed</h3>
+<ul>
+<li>Location of the incident</li>
+<li>Date and time of occurrence</li>
+<li>Victim and witness information (if applicable)</li>
+<li>Serial numbers or identifying markings for lost or stolen property</li>
+</ul>
+<h3>After You Submit</h3>
+<ul>
+<li>A CCSDPD officer will review the report</li>
+<li>An officer may contact you for additional information</li>
+</ul>
+<h3>Types of Incidents</h3>
+<ul>
+<li>Lost Property</li>
+<li>Theft</li>
+<li>Vandalism</li>
+</ul>
+<a class="button-7" href="https://clarkcounty.prophoenix.com/#/report/onlinereport" target="_blank">Submit an Online Report</a>
+</div>
+</div>
+</div>
+</div>
+</main>

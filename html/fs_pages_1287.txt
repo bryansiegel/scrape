@@ -87,60 +87,7 @@ Please call CCSD Benefits<br/>
 <li><a data-file-name="2022-2023-Urgent-Care-House-Call-Flyer.pdf" data-resource-uuid="fc44f603-3555-4777-a16a-92a7ade5b4bd" href="/fs/resource-manager/view/fc44f603-3555-4777-a16a-92a7ade5b4bd" target="_blank">Urgent Care House Call Flyer (PDF)</a></li>
 <li><a data-file-name="24-7NowClinicVirtualVisitsFlyer.pdf" data-resource-uuid="2e7b79ad-8cd6-41a9-96eb-c447d40de97b" href="/fs/resource-manager/view/2e7b79ad-8cd6-41a9-96eb-c447d40de97b" target="_blank">24.7 NowClinic Virtual Visits Flyer (PDF)</a></li>
 <li><a data-file-name="2023-Vital-Medications-Program-Rx.pdf" data-resource-uuid="6f7b7242-c41b-4798-8ed9-175105ad539a" href="/fs/resource-manager/view/6f7b7242-c41b-4798-8ed9-175105ad539a" target="_blank">2023 Vital Medication Program (PDF)</a></li>
-<li><a data-file-name="VeraWholeHealthPoster.pdf" data-resource-uuid="88057754-0cc1-4f86-a415-82889691956b" href="/fs/resource-manager/view/88057754-0cc1-4f86-a415-82889691956b" target="_blank">Vera Whole Health Poster (PDF)</a></li>
-<li><a data-file-name="VeraWelcomeBooklet.pdf" data-resource-uuid="20dd6d1c-9de9-4cca-9f15-e6f70e40c08b" href="/fs/resource-manager/view/20dd6d1c-9de9-4cca-9f15-e6f70e40c08b" target="_blank">Vera Welcome Booklet (PDF)</a></li>
 </ul>
-<!-- new -->
-<p><b>Vera Whole Health</b></p>
-<p>All Support and Police Professionals enrolled in the CCSD health insurance have the added benefit of receiving medical care from <a href="https://patients.verawholehealth.com/" rel="nofollow" target="_blank">Vera Whole Health</a>. You have more important things to do than sit in a waiting room only to be rushed through an appointment. That’s why we do healthcare differently, including flexible appointment options, family care, free health coaching, and longer visits.</p>
-<p>Plus, it’s all part of your CCSD benefits<b><a data-file-name="Its-Free-Really.pdf" data-resource-uuid="fd5b4817-6705-4476-823e-0a89bbc8b234" href="/fs/resource-manager/view/fd5b4817-6705-4476-823e-0a89bbc8b234">—at no cost to you.</a></b></p>
-<p><b>Services offered at Vera</b></p>
-<ul>
-<li><a data-file-name="CCSD-Vera-Annual-Health-Check.pdf" data-resource-uuid="3cb47175-6e98-46ac-87a0-50c3b990299f" href="/fs/resource-manager/view/3cb47175-6e98-46ac-87a0-50c3b990299f">Preventive care</a>
-<ul>
-<li>Check-ups, screenings, immunizations, well-woman exams, family planning</li>
-</ul>
-</li>
-<li>Chronic disease support
-	<ul>
-<li>For conditions like diabetes, hypertension, and depression</li>
-</ul>
-</li>
-<li>Acute care
-	<ul>
-<li>Coughs and colds, wound care, sprains and strains, rashes, UTIs, back pain</li>
-</ul>
-</li>
-<li><a data-file-name="CCSD-Vera-Health-Coach.pdf" data-resource-uuid="55fd8e55-e99f-4712-969e-795e18e1a844" href="/fs/resource-manager/view/55fd8e55-e99f-4712-969e-795e18e1a844">Health coaching</a>
-<ul>
-<li>Empathetic coaches who provide accountability to help you reach your goals</li>
-</ul>
-</li>
-<li>Additional services
-	<ul>
-<li>On-site labs, vaccinations, travel medicine, behavioral health, specialty care coordination and advocacy</li>
-</ul>
-</li>
-</ul>
-<div style="margin-left: 50px;margin-bottom:50px;padding-bottom: 50px;width: 80%">
-<div style="float:left;">
-<p><b>Summerlin Wellness Care Center</b><br/>
-331 North Buffalo Dr.<br/>
-Suite 120<br/>
-Las Vegas, NV 89145<br/>
-(702) 846-1003</p>
-</div>
-<div style="float:right;">
-<p><b>Green Valley Wellness Care Center</b><br/>
-100 North Green Valley Pkwy<br/>
-Suite 235<br/>
-Henderson, NV 89074<br/>
-(725) 333-8036</p>
-</div>
-</div>
-<p> </p>
-<center><img alt="Schedule your appointment by calling 888-801-8372" src="https://ccsd.net/resources/employee-benefits/vera-appointment-qr-code.png"/></center>
-<p><b><a data-file-name="CCSD-Vera-Presentation.pdf" data-resource-uuid="6eb8318a-67e4-4eb3-839b-2aeedcb13283" href="/fs/resource-manager/view/6eb8318a-67e4-4eb3-839b-2aeedcb13283">Vera Presentation</a></b></p>
 <!-- end new -->
 <p><b>Dental/United Healthcare</b></p>
 <ul>

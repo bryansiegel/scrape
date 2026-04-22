@@ -476,9 +476,9 @@
 <div class="fsElementContent">
 <div style="text-align:center">
 <figure class="fsImage"><picture><img alt="Hand with Heart" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766531418/ccsdnet/bn3yearjnh4ny4gphwks/hand-with-heart.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="hand-with-heart.webp" data-resource-uuid="3177201e-f7b0-4a0d-afa9-01fed846b5c7" loading="lazy" src="" style=""/></picture></figure>
-<h4>Volunteer</h4>
+<h4>Volunteer / Getting a Badge</h4>
 <p>Empower students and support schools by becoming a CCSD volunteer today.</p>
-<a class="button-1" href="https://ccsd.taleo.net/careersection/7/jobsearch.ftl?lang=en" target="_blank">Apply</a></div>
+<a class="button-1" href="https://www.ccsd.net/community/volunteer-with-us" target="_blank">Apply</a></div>
 </div>
 </div>
 </div>
@@ -685,6 +685,19 @@
 </div>
 </div>
 <div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_13735">
+<div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_213202">
+<div class="fsElementContent">
+<div style="text-align:center">
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="document" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758041274/ccsdnet/lx1p9aqw4l2lt9v8bvvb/document.png%22,%22width%22:50}]" data-resource-description="" data-resource-filename="document.png" data-resource-uuid="e2688dad-4399-470d-af35-9d1d5fd8b876" loading="lazy" src="" style=""/></picture></figure>
+</div>
+<h4>Secondary Summer School</h4>
+<p>Secondary summer school for 2026 provides a critical opportunity for students to engage in in-person credit recovery at eight select campuses located throughout the valley.</p>
+<a class="button-1" data-page-name="Secondary Summer School" href="/fs/pages/24005">View</a></div>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_13736">
 <div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_13717">
 <div class="fsElementContent">
 <div style="text-align:center">
@@ -697,7 +710,9 @@
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_13736">
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_140443">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_140444">
 <div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_13727">
 <div class="fsElementContent">
 <div style="text-align:center">
@@ -710,9 +725,7 @@
 </div>
 </div>
 </div>
-</div>
-<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_140443">
-<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_140444">
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_140446">
 <div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_13713">
 <div class="fsElementContent">
 <div style="text-align:center">
@@ -725,7 +738,7 @@
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_140446">
+<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_140448">
 <div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_13706">
 <div class="fsElementContent">
 <div style="text-align:center">
@@ -738,7 +751,9 @@
 </div>
 </div>
 </div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_140448">
+</div>
+<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_190023">
+<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_190024">
 <div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_140440">
 <div class="fsElementContent">
 <div style="text-align:center">
@@ -751,9 +766,7 @@
 </div>
 </div>
 </div>
-</div>
-<div class="fsElement fsLayout fsThreeColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_190023">
-<div class="fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_190024">
+<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_190025">
 <div class="fsElement fsContent job-card lg-4-card" data-use-new="true" id="fsEl_170412">
 <div class="fsElementContent">
 <div style="text-align:center">
@@ -765,8 +778,6 @@
 <a class="button-1" href="https://engage.ccsd.net/UFL/" target="_blank">View</a></div>
 </div>
 </div>
-</div>
-<div class="fsDiv fsStyleColumn fsStyleColumn-2 fsStyleAutoclear" id="fsEl_190025">
 </div>
 <div class="fsDiv fsStyleColumn fsStyleColumn-3 fsStyleColumn-last fsStyleAutoclear" id="fsEl_190026">
 </div>

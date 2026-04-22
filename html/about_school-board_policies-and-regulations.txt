@@ -43,40 +43,22 @@
 <h2>Notification of proposed changes to CCSD Policies and/or Regulations</h2>
 <p>State statute requires the Board of School Trustees adopt a Notice of Intent when it considers the adoption, amendment, or repeal of a policy or regulation. The Notice of Intent provides the public thirteen (13) days notice prior to final action by the board.</p>
 <p>Comments by the public are welcome.</p>
-<!--  Example for future Notification of Proposed Changes - Public Comment button. --><!--
-<p><strong>Date of Meeting:&nbsp;February 26, 2026</strong></p>
-
-<p><a data-file-name="P-6165_NOI_encrypted.pdf" data-resource-uuid="206c30ee-1771-44dd-90ce-fb72c87e75b7" href="/fs/resource-manager/view/206c30ee-1771-44dd-90ce-fb72c87e75b7" target="_blank">Proposed Changes for Policy 6165</a></p>
-
-<p><a class="button-1" data-page-name="Proposed Changes to CCSD Policies And/Or Regulation to Notice of Intent Form 1" href="/fs/pages/23341">Public Comment</a></p>
-
-<p><strong>Date of Meeting:&nbsp;February 26, 2026</strong></p>
-
-<p><a data-file-name="P-7223_NOI_encrypted.pdf" data-resource-uuid="f62d3d57-4f0b-4345-ba7d-ebf81931180a" href="/fs/resource-manager/view/f62d3d57-4f0b-4345-ba7d-ebf81931180a" target="_blank">Proposed Changes for Policy 7223</a></p>
-
-<p><a class="button-1" data-page-name="Proposed Changes to CCSD Policies And/Or Regulation to Notice of Intent Form 2" href="/fs/pages/23343">Public Comment</a></p>
-
-<p>&nbsp;</p>
-
--->
 <p><strong>No policies or regulations are scheduled at this time.</strong></p>
+<p> </p>
 <h2>Notice of Intent - Date of Meeting:</h2>
 <p>Reflects the date of the board meeting discussion/action will be taken on the Notice of Intent.</p>
+<p><strong>Date of Meeting: April 9, 2026</strong></p>
+<p><a data-file-name="R-5129_NOI_Rev_040926.pdf" data-resource-uuid="37295690-8f46-4aaa-b8f3-8c9c60ed7a9e" href="/fs/resource-manager/view/37295690-8f46-4aaa-b8f3-8c9c60ed7a9e" target="_blank">Notice of Intent for Regulation 5129</a></p>
+<p><a class="button-1" data-page-name="Proposed Changes to CCSD Policies And/Or Regulation to Notice of Intent Form 1" href="/fs/pages/23341">Public Comment</a></p>
+<!-- 
+
 <p><strong>No policies or regulations are scheduled at this time.</strong></p>
+
+-->
+<p> </p>
 <h2>Final Action - Date of Meeting:</h2>
 <p>This date will indicate the date of the board meeting when the final discussion/action will occur. This is the last meeting for public comment on the issue.</p>
 <p><strong>No policies or regulations are scheduled at this time.</strong></p>
-<!--  Example for future Final Action date and Public Comment button.
-
-<p><strong>Date of Meeting:&nbsp;February 12, 2026</strong></p>
-
-<p><a data-file-name="R-1211__Final_Action__encrypted_021226.pdf" data-resource-uuid="8ae321fd-1f30-42e6-9832-2ea68a165d1a" href="/fs/resource-manager/view/8ae321fd-1f30-42e6-9832-2ea68a165d1a" target="_blank">Final Action for Regulation 1211</a></p>
-
-<p><a data-file-name="R-1211_Fees_encrypted_021226.pdf" data-resource-uuid="3c92bba7-75ce-4e76-98f7-a53b5e5d9616" href="/fs/resource-manager/view/3c92bba7-75ce-4e76-98f7-a53b5e5d9616" target="_blank">Fee Schedule for Regulation 1211</a></p>
-
-<p><a class="button-1" data-page-name="Final Action - Public Comment" href="/fs/pages/23079">Public Comment</a></p>
-
--->
 </div>
 </div>
 </div>
@@ -91,6 +73,15 @@
 <div class="fsElement fsPostElement fsGrid policy-title fsItemCount_0" data-board-id="9" data-overwrite-title="" data-use-new="true" id="fsEl_10354">
 <div class="fsElementContent">
 <div class="fsListItems fsStyleFourColumns">
+<article aria-labelledby="fsArticle_10354_269" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="269">
+<div class="fsTitle" id="fsArticle_10354_269">
+		 Enrollment in a School Outside Assigned  Attendance Zone
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5112</p>
+<p><strong>Type:</strong> <a data-file-name="Clean_Copy_R-5112.pdf" data-resource-uuid="abc68989-15cb-48a7-ba7e-fb80027d2f84" href="/fs/resource-manager/view/abc68989-15cb-48a7-ba7e-fb80027d2f84" target="_blank">REG</a> | <a data-file-name="5112_P.pdf" data-resource-uuid="929d1f3f-36d5-44d9-b8cd-b47abcfbec62" href="/fs/resource-manager/view/929d1f3f-36d5-44d9-b8cd-b47abcfbec62" target="_blank">POL</a></p>
+</div>
+</article>
 <article aria-labelledby="fsArticle_10354_263" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="263">
 <div class="fsTitle" id="fsArticle_10354_263">
 		Accelerated Pathways for Educator and School Psychology Candidates to Complete Student Teaching and Internship Requirements for Licensure	
@@ -455,16 +446,6 @@
 </p>
 </div>
 </article>
-<article aria-labelledby="fsArticle_10354_269" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="269">
-<div class="fsTitle" id="fsArticle_10354_269">
-		Change of School Assignment	
-</div>
-<div class="fsBody">
-<p><strong>Number:</strong> 5112</p>
-<p><strong>Type:</strong> <a data-file-name="5112_R.pdf" data-resource-uuid="13753240-09a0-4268-bcfd-b49883b5ee5e" href="/fs/resource-manager/view/13753240-09a0-4268-bcfd-b49883b5ee5e" target="_blank">REG</a> | <a data-file-name="5112_P.pdf" data-resource-uuid="929d1f3f-36d5-44d9-b8cd-b47abcfbec62" href="/fs/resource-manager/view/929d1f3f-36d5-44d9-b8cd-b47abcfbec62" target="_blank">POL</a>
-</p>
-</div>
-</article>
 <article aria-labelledby="fsArticle_10354_342" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="342">
 <div class="fsTitle" id="fsArticle_10354_342">
 		Child Abuse or Neglect	
@@ -667,13 +648,13 @@
 <p><strong>Type:</strong> <a data-file-name="61134_P.pdf" data-resource-uuid="b401abf5-f258-4462-a61b-e99e8cb58458" href="/fs/resource-manager/view/b401abf5-f258-4462-a61b-e99e8cb58458" target="_blank">POL</a></p>
 </div>
 </article>
-<article aria-labelledby="fsArticle_10354_364" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="364">
-<div class="fsTitle" id="fsArticle_10354_364">
-		Curriculum Guides	
+<article aria-labelledby="fsArticle_10354_2050" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="2050">
+<div class="fsTitle" id="fsArticle_10354_2050">
+		Curricular Resources
 </div>
 <div class="fsBody">
-<p><strong>Number:</strong> 6124.1</p>
-<p><strong>Type:</strong> <a data-file-name="61241_R.pdf" data-resource-uuid="1e1b8cf6-29d0-4548-b1c3-609535a68c6a" href="/fs/resource-manager/view/1e1b8cf6-29d0-4548-b1c3-609535a68c6a" target="_blank">REG</a></p>
+<p><strong>Number:</strong> 6122.2</p>
+<p><strong>Type:</strong> <a data-file-name="61222_R.pdf" data-resource-uuid="ef66be73-630c-4cca-acc0-fbfcbc2f0ebf" href="/fs/resource-manager/view/ef66be73-630c-4cca-acc0-fbfcbc2f0ebf" target="_blank">REG</a></p>
 </div>
 </article>
 <article aria-labelledby="fsArticle_10354_245" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="245">
@@ -719,6 +700,15 @@
 <div class="fsBody">
 <p><strong>Number:</strong> 5141.2</p>
 <p><strong>Type:</strong> <a data-file-name="51412_R.pdf" data-resource-uuid="73ded972-1331-439c-bab7-a1aa41997f53" href="/fs/resource-manager/view/73ded972-1331-439c-bab7-a1aa41997f53" target="_blank">REG</a></p>
+</div>
+</article>
+<article aria-labelledby="fsArticle_10354_274" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="274">
+<div class="fsTitle" id="fsArticle_10354_274">
+		Discipline: Student Exemption and Exclusion (Voluntary and Involuntary)	
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 5114</p>
+<p><strong>Type:</strong> <a data-file-name="5114_P.pdf" data-resource-uuid="474f25a1-f728-4cab-a3c4-083e9f6c53ca" href="/fs/resource-manager/view/474f25a1-f728-4cab-a3c4-083e9f6c53ca" target="_blank">POL</a></p>
 </div>
 </article>
 <article aria-labelledby="fsArticle_10354_276" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="276">
@@ -1308,15 +1298,6 @@
 <p><strong>Type:</strong> <a data-file-name="61221_R.pdf" data-resource-uuid="b071fc08-7d85-49f5-b68f-8a68cd5a54fd" href="/fs/resource-manager/view/b071fc08-7d85-49f5-b68f-8a68cd5a54fd" target="_blank">REG</a></p>
 </div>
 </article>
-<article aria-labelledby="fsArticle_10354_358" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="358">
-<div class="fsTitle" id="fsArticle_10354_358">
-		Instructional Program Design Development	
-</div>
-<div class="fsBody">
-<p><strong>Number:</strong> 6121</p>
-<p><strong>Type:</strong> <a data-file-name="6121_R.pdf" data-resource-uuid="61e61d50-043c-4c7c-b403-93d6a05df30e" href="/fs/resource-manager/view/61e61d50-043c-4c7c-b403-93d6a05df30e" target="_blank">REG</a> | <a data-file-name="6121_P.pdf" data-resource-uuid="54ad4621-62bd-4b32-927d-0521bebd8fc8" href="/fs/resource-manager/view/54ad4621-62bd-4b32-927d-0521bebd8fc8" target="_blank">POL</a></p>
-</div>
-</article>
 <article aria-labelledby="fsArticle_10354_143" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="143">
 <div class="fsTitle" id="fsArticle_10354_143">
 		Insurance Coverage
@@ -1814,7 +1795,7 @@
 </article>
 <article aria-labelledby="fsArticle_10354_387" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="387">
 <div class="fsTitle" id="fsArticle_10354_387">
-		Programs and Services for English Language Learner Students	
+		Programs and Services for English Learners	
 </div>
 <div class="fsBody">
 <p><strong>Number:</strong> 6165</p>
@@ -2209,6 +2190,16 @@
 <p><strong>Type:</strong> <a data-file-name="5144_R.pdf" data-resource-uuid="3da67c7d-38dc-4e63-a10f-6571f769e704" href="/fs/resource-manager/view/3da67c7d-38dc-4e63-a10f-6571f769e704" target="_blank">REG</a></p>
 </div>
 </article>
+<article aria-labelledby="fsArticle_10354_358" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="358">
+<div class="fsTitle" id="fsArticle_10354_358">
+		Secondary Course Offerings
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 6121</p>
+<p><strong>Type:</strong> <a data-file-name="6121_R.pdf" data-resource-uuid="61e61d50-043c-4c7c-b403-93d6a05df30e" href="/fs/resource-manager/view/61e61d50-043c-4c7c-b403-93d6a05df30e" target="_blank">REG</a> | <a data-file-name="6121_P.pdf" data-resource-uuid="54ad4621-62bd-4b32-927d-0521bebd8fc8" href="/fs/resource-manager/view/54ad4621-62bd-4b32-927d-0521bebd8fc8" target="_blank">POL</a></p>
+<p> </p>
+</div>
+</article>
 <article aria-labelledby="fsArticle_10354_351" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="351">
 <div class="fsTitle" id="fsArticle_10354_351">
 		Sectarianism, Religious Free Speech and Religious Holidays
@@ -2450,15 +2441,6 @@
 <div class="fsBody">
 <p><strong>Number:</strong> 5142</p>
 <p><strong>Type:</strong> <a data-file-name="5142_R.pdf" data-resource-uuid="ca82664c-9686-45cd-a753-56c60eca75ee" href="/fs/resource-manager/view/ca82664c-9686-45cd-a753-56c60eca75ee" target="_blank">REG</a></p>
-</div>
-</article>
-<article aria-labelledby="fsArticle_10354_274" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="274">
-<div class="fsTitle" id="fsArticle_10354_274">
-		Student Exemption and Exclusion (Voluntary and Involuntary)	
-</div>
-<div class="fsBody">
-<p><strong>Number:</strong> 5114</p>
-<p><strong>Type:</strong> <a data-file-name="5114_P.pdf" data-resource-uuid="474f25a1-f728-4cab-a3c4-083e9f6c53ca" href="/fs/resource-manager/view/474f25a1-f728-4cab-a3c4-083e9f6c53ca" target="_blank">POL</a></p>
 </div>
 </article>
 <article aria-labelledby="fsArticle_10354_125" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="125">
@@ -2719,7 +2701,7 @@
 </div>
 <div class="fsBody">
 <p><strong>Number:</strong> 3613</p>
-<p><strong>Type:</strong> <a data-file-name="3613_R.pdf" data-resource-uuid="d907129d-2197-41ec-8e65-14ef56ae6a17" href="/fs/resource-manager/view/d907129d-2197-41ec-8e65-14ef56ae6a17" target="_blank">POL</a></p>
+<p><strong>Type:</strong> <a data-file-name="3613_R.pdf" data-resource-uuid="d907129d-2197-41ec-8e65-14ef56ae6a17" href="/fs/resource-manager/view/d907129d-2197-41ec-8e65-14ef56ae6a17" target="_blank">REG</a></p>
 </div>
 </article>
 <article aria-labelledby="fsArticle_10354_171" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="171">
