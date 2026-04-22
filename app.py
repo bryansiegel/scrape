@@ -11,6 +11,106 @@ from openpyxl.utils import get_column_letter
 
 app = Flask(__name__)
 
+# Single-scrape HTML cache — stores last scrape's page HTML keyed by URL
+_html_cache = {}
+
+# Tracking/analytics script detection patterns
+TRACKER_PATTERNS = [
+    ('Google Analytics 4',         ['gtag/js?id=G-', "gtag('config", "gtag('event"]),
+    ('Google Universal Analytics', ['google-analytics.com/analytics.js', "ga('create"]),
+    ('Google Tag Manager',         ['googletagmanager.com/gtm.js']),
+    ('Facebook Pixel',             ['connect.facebook.net/en_US/fbevents.js', "fbq('init"]),
+    ('LinkedIn Insight Tag',       ['snap.licdn.com/li.lms-analytics', '_linkedin_partner_id']),
+    ('Twitter / X Pixel',          ['static.ads-twitter.com/uwt.js', "twq('init"]),
+    ('HotJar',                     ['static.hotjar.com/c/hotjar']),
+    ('Microsoft Clarity',          ['clarity.ms/tag']),
+    ('Mixpanel',                   ['cdn.mxpnl.com', "mixpanel.init("]),
+    ('Segment',                    ['cdn.segment.com/analytics.js', "analytics.load("]),
+    ('Heap Analytics',             ['cdn.heapanalytics.com', "heap.load("]),
+    ('HubSpot',                    ['js.hs-scripts.com', 'js.hsforms.net']),
+    ('Matomo / Piwik',             ['matomo.js', 'piwik.js', '_paq.push']),
+    ('Optimizely',                 ['cdn.optimizely.com']),
+    ('FullStory',                  ['fullstory.com/s/fs.js', '_fs_debug']),
+    ('Intercom',                   ['widget.intercom.io', 'js.intercomcdn.com']),
+    ('Amplitude',                  ['cdn.amplitude.com', "amplitude.getInstance"]),
+    ('Crazy Egg',                  ['script.crazyegg.com']),
+    ('TikTok Pixel',               ['analytics.tiktok.com/i18n/pixel', "ttq.load("]),
+    ('Pinterest Tag',              ['ct.pinterest.com/v3/', "pintrk('load"]),
+    ('Snapchat Pixel',             ['sc-static.net/s/snapchat.js']),
+    ('Adobe Analytics',            ['omtrdc.net', 's_code.js']),
+    ('Cloudflare Web Analytics',   ['static.cloudflareinsights.com/beacon.min.js']),
+    ('Yandex.Metrica',             ['mc.yandex.ru/metrika']),
+]
+
+
+def extract_content_html(html_text):
+    """Return only the main content HTML, stripping nav, header, footer, sidebars, and scripts."""
+    from bs4 import BeautifulSoup, Tag
+
+    try:
+        soup = BeautifulSoup(html_text, 'html.parser')
+
+        STRIP_TAGS = ['nav', 'header', 'footer', 'aside', 'script', 'style', 'noscript', 'iframe']
+        STRIP_ATTRS = [
+            'nav', 'navigation', 'navbar', 'menu', 'sidebar', 'side-bar',
+            'site-header', 'site-footer', 'page-header', 'page-footer',
+            'breadcrumb', 'pagination', 'widget', 'advertisement', 'banner',
+            'cookie', 'popup', 'modal', 'social', 'share', 'related',
+            'comment', 'toolbar', 'skip-link',
+        ]
+        CONTENT_SELECTORS = [
+            'main', '[role="main"]', 'article',
+            '#content', '#main-content', '#page-content', '#main', '#primary', '#body-content',
+            '.content-wrap', '.content-area', '.main-content', '.page-content',
+            '.entry-content', '.post-content', '.article-content', '.site-content',
+            '.content', '.main',
+        ]
+
+        target = None
+        for sel in CONTENT_SELECTORS:
+            target = soup.select_one(sel)
+            if target:
+                break
+        if target is None:
+            target = soup.find('body') or soup
+
+        # Collect then decompose — avoids accessing already-destroyed children
+        # when iterating a pre-built list that includes their descendants.
+        for tag in STRIP_TAGS:
+            for elem in target.find_all(tag):
+                elem.decompose()
+
+        to_remove = []
+        for elem in target.find_all(True):
+            if not isinstance(elem, Tag):
+                continue
+            try:
+                attrs = ' '.join(filter(None, [
+                    elem.get('id') or '',
+                    ' '.join(elem.get('class') or []),
+                ])).lower()
+                if any(p in attrs for p in STRIP_ATTRS):
+                    to_remove.append(elem)
+            except Exception:
+                pass
+        for elem in to_remove:
+            try:
+                elem.decompose()
+            except Exception:
+                pass
+
+        # Strip class and style attributes from every remaining element
+        for elem in target.find_all(True):
+            if isinstance(elem, Tag):
+                elem.attrs.pop('class', None)
+                elem.attrs.pop('style', None)
+
+        return str(target)
+    except Exception:
+        # If anything goes wrong, fall back to returning the raw HTML
+        return html_text
+
+
 # Database configuration
 DB_CONFIG = {
     'user': 'root',
@@ -435,10 +535,12 @@ def run_single_scrape():
     import time
     import random
 
-    url        = request.args.get('url', '').strip()
-    find_pdf   = request.args.get('pdf', 'true').lower() == 'true'
-    find_sites = request.args.get('sites', 'true').lower() == 'true'
-    max_pages  = min(int(request.args.get('max_pages', 50)), 500)
+    url           = request.args.get('url', '').strip()
+    find_pdf      = request.args.get('pdf', 'true').lower() == 'true'
+    find_sites    = request.args.get('sites', 'true').lower() == 'true'
+    find_images   = request.args.get('images', 'true').lower() == 'true'
+    find_tracking = request.args.get('tracking', 'true').lower() == 'true'
+    max_pages     = min(int(request.args.get('max_pages', 50)), 500)
 
     def err(msg):
         yield f"data: {msg}\n\n"
@@ -454,14 +556,19 @@ def run_single_scrape():
     ]
 
     def generate():
+        global _html_cache
+        _html_cache = {}  # clear previous scrape
+
         parsed_start = urlparse(url)
         base_domain  = parsed_start.netloc
 
-        visited     = set()
-        queue       = deque([url])
-        found_pdfs  = set()
-        found_sites = set()
-        pages_crawled = 0
+        visited        = set()
+        queue          = deque([url])
+        found_pdfs     = set()
+        found_sites    = set()
+        found_images   = set()
+        found_trackers = set()  # "tracker_name|page_url" keys to dedupe per-page
+        pages_crawled  = 0
 
         yield f"data: Starting crawl of {url}\n\n"
         yield f"data: Domain: {base_domain} | Max pages: {max_pages}\n\n"
@@ -487,8 +594,16 @@ def run_single_scrape():
                 if 'html' not in content_type:
                     continue
 
-                soup = BeautifulSoup(resp.text, 'html.parser')
+                raw_html = resp.text
+                _html_cache[current] = extract_content_html(raw_html)
+                soup = BeautifulSoup(raw_html, 'html.parser')
 
+                # Emit LINK with page title so the All Links tab can label it
+                title_tag  = soup.find('title')
+                page_title = title_tag.get_text().strip()[:100] if title_tag else ''
+                yield f"data: LINK: {current}|{page_title}\n\n"
+
+                # Walk all <a> tags
                 for a in soup.find_all('a', href=True):
                     href = a['href'].strip()
                     if not href or href.startswith('mailto:') or href.startswith('javascript:'):
@@ -497,20 +612,51 @@ def run_single_scrape():
                     if not full.startswith('http'):
                         continue
 
-                    # PDF detection
                     if find_pdf and full.lower().endswith('.pdf') and full not in found_pdfs:
                         found_pdfs.add(full)
                         yield f"data: PDF: {full}|{current}\n\n"
 
-                    # Google Sites detection
                     if find_sites and 'sites.google.com' in full and full not in found_sites:
                         found_sites.add(full)
                         yield f"data: SITE: {full}|{current}\n\n"
 
-                    # Queue same-domain pages
                     link_domain = urlparse(full).netloc
                     if link_domain == base_domain and full not in visited:
                         queue.append(full)
+
+                # Collect images
+                if find_images:
+                    for img in soup.find_all('img'):
+                        src = (img.get('src') or img.get('data-src') or
+                               img.get('data-lazy-src') or '').strip()
+                        if src:
+                            full_img = urljoin(current, src)
+                            if full_img.startswith('http') and full_img not in found_images:
+                                found_images.add(full_img)
+                                yield f"data: IMG: {full_img}|{current}\n\n"
+                    for source in soup.find_all('source'):
+                        for part in (source.get('srcset') or '').split(','):
+                            src = part.strip().split()[0] if part.strip() else ''
+                            if src:
+                                full_img = urljoin(current, src)
+                                if full_img.startswith('http') and full_img not in found_images:
+                                    found_images.add(full_img)
+                                    yield f"data: IMG: {full_img}|{current}\n\n"
+
+                # Detect tracking/analytics scripts
+                if find_tracking:
+                    script_text = ''
+                    for script in soup.find_all('script'):
+                        script_text += ' ' + (script.get('src') or '')
+                        script_text += ' ' + (script.get_text() or '')
+                    for name, patterns in TRACKER_PATTERNS:
+                        for pattern in patterns:
+                            if pattern.lower() in script_text.lower():
+                                key = f"{name}|{current}"
+                                if key not in found_trackers:
+                                    found_trackers.add(key)
+                                    yield f"data: TRACKER: {name}|{current}\n\n"
+                                break
 
             except Exception as e:
                 yield f"data: Error ({current}): {e}\n\n"
@@ -518,10 +664,43 @@ def run_single_scrape():
             time.sleep(0.15)
 
         yield f"data: \n\n"
-        yield f"data: Done. Crawled {pages_crawled} page(s). Found {len(found_pdfs)} PDF(s) and {len(found_sites)} Google Sites link(s).\n\n"
+        yield (
+            f"data: Done. {pages_crawled} page(s) crawled. "
+            f"{len(found_pdfs)} PDF(s), {len(found_sites)} Google Sites, "
+            f"{len(found_images)} image(s), {len(found_trackers)} tracker(s) found.\n\n"
+        )
         yield "data: __SUCCESS__\n\n"
 
     return Response(stream_with_context(generate()), mimetype='text/event-stream')
+
+
+@app.route('/api/page-html')
+def get_page_html():
+    page_url = request.args.get('url', '').strip()
+    html = _html_cache.get(page_url, '')
+    return jsonify({'html': html, 'found': bool(html)})
+
+
+@app.route('/api/download-image')
+def download_image():
+    import requests as req
+    img_url = request.args.get('url', '').strip()
+    if not img_url.startswith('http'):
+        return 'Invalid URL', 400
+    try:
+        resp = req.get(img_url, timeout=15, stream=True)
+        filename = img_url.split('/')[-1].split('?')[0] or 'image'
+        if not filename or '.' not in filename:
+            ct = resp.headers.get('Content-Type', 'image/jpeg')
+            ext = ct.split('/')[-1].split(';')[0].strip() or 'jpg'
+            filename = f'image.{ext}'
+        return Response(
+            resp.iter_content(chunk_size=8192),
+            content_type=resp.headers.get('Content-Type', 'image/jpeg'),
+            headers={'Content-Disposition': f'attachment; filename="{filename}"'}
+        )
+    except Exception as e:
+        return str(e), 500
 
 
 if __name__ == '__main__':

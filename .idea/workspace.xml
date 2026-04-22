@@ -7,34 +7,7 @@
     <list default="true" id="f86d919d-8799-4576-8ae7-0568475fe771" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/error_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/error_log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/about_newsroom.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_newsroom.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/about_newsroom_all-news.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_newsroom_all-news.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/about_open-book.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_open-book.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/about_operation-destination-district.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_operation-destination-district.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/about_school-board.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_school-board.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/about_school-board_contact.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_school-board_contact.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/about_school-board_policies-and-regulations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_school-board_policies-and-regulations.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/calendars.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/calendars.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/enroll.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/enroll.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/fs_pages_1262.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_1262.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/fs_pages_1272.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_1272.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/fs_pages_1275.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_1275.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/fs_pages_1279.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_1279.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/fs_pages_1284.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_1284.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/fs_pages_1303.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_1303.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/fs_pages_16539.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_16539.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/fs_pages_19358.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_19358.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/fs_pages_20965.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_20965.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/fs_pages_21461.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_21461.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/fs_pages_21698.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/fs_pages_21698.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/parents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/parents.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/students.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html/students.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scraped_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scraped_links.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scraped_pdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scraped_pdf.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scraper_drive_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scraper_drive_links.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/single_scrape.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/single_scrape.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +114,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/scrape$app.coverage" NAME="app Coverage Results" MODIFIED="1776877618964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scrape$app.coverage" NAME="app Coverage Results" MODIFIED="1776879562377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/scrape$scraper.coverage" NAME="scraper Coverage Results" MODIFIED="1773347753687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/scrape$all_scrape.coverage" NAME="all-scrape Coverage Results" MODIFIED="1775661098265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
