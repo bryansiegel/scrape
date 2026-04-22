@@ -68,7 +68,7 @@
                         </div>
 
                         <div class="row g-3 mb-3">
-                            <div class="col-md-7">
+                            <div class="col-12">
                                 <label class="form-label fw-semibold">What to find</label>
                                 <div class="d-flex flex-wrap gap-3 mt-1">
                                     <div class="form-check form-switch">
@@ -96,10 +96,6 @@
                                         </label>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-3">
-                                <label class="form-label fw-semibold" for="maxPages">Max pages</label>
-                                <input type="number" class="form-control" id="maxPages" value="50" min="1" max="500">
                             </div>
                         </div>
 
@@ -252,7 +248,6 @@
             const findSites    = document.getElementById('findSites').checked;
             const findImages   = document.getElementById('findImages').checked;
             const findTracking = document.getElementById('findTracking').checked;
-            const maxPages     = parseInt(document.getElementById('maxPages').value) || 50;
 
             // Reset
             pdfResults = []; sitesResults = []; linksResults = [];
@@ -272,7 +267,7 @@
             el('startBtn').disabled = true;
             el('stopBtn').disabled  = false;
 
-            const params = new URLSearchParams({ url, pdf: findPdf, sites: findSites, images: findImages, tracking: findTracking, max_pages: maxPages });
+            const params = new URLSearchParams({ url, pdf: findPdf, sites: findSites, images: findImages, tracking: findTracking });
             evtSource = new EventSource(`/api/single-scrape?${params}`);
 
             evtSource.onmessage = function(e) {

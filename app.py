@@ -550,7 +550,6 @@ def run_single_scrape():
     find_sites    = request.args.get('sites', 'true').lower() == 'true'
     find_images   = request.args.get('images', 'true').lower() == 'true'
     find_tracking = request.args.get('tracking', 'true').lower() == 'true'
-    max_pages     = min(int(request.args.get('max_pages', 50)), 500)
 
     def err(msg):
         yield f"data: {msg}\n\n"
@@ -581,9 +580,9 @@ def run_single_scrape():
         pages_crawled  = 0
 
         yield f"data: Starting crawl of {url}\n\n"
-        yield f"data: Domain: {base_domain} | Max pages: {max_pages}\n\n"
+        yield f"data: Domain: {base_domain}\n\n"
 
-        while queue and pages_crawled < max_pages:
+        while queue:
             current = queue.popleft()
             if current in visited:
                 continue
@@ -591,7 +590,7 @@ def run_single_scrape():
             pages_crawled += 1
 
             yield f"data: PAGE: {pages_crawled}\n\n"
-            yield f"data: [{pages_crawled}/{max_pages}] {current}\n\n"
+            yield f"data: [{pages_crawled}] {current}\n\n"
 
             try:
                 headers = {'User-Agent': random.choice(USER_AGENTS)}
