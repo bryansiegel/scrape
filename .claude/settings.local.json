@@ -10,7 +10,10 @@
       "Bash(.venvScriptspython.exe:*)",
       "Bash(ls C:\\\\Users\\\\bryan\\\\Documents\\\\sites\\\\scrape/*.py 2>/dev/null || ls \"C:/Users/bryan/Documents/sites/scrape/\" | grep -v venv)",
       "Bash(cd \"C:/Users/bryan/Documents/sites/scrape\" && .venv/Scripts/pip install openpyxl 2>&1 | tail -3)",
-      "Bash(cd \"C:/Users/bryan/Documents/sites/scrape\" && .venv/Scripts/pip install openpyxl 2>&1 | grep -E \"Successfully|already|error\")"
+      "Bash(cd \"C:/Users/bryan/Documents/sites/scrape\" && .venv/Scripts/pip install openpyxl 2>&1 | grep -E \"Successfully|already|error\")",
+      "Bash(mysqldump -u root -padvanced scrape)",
+      "Bash(.venv/bin/pip install *)",
+      "Bash(python3 -m pip install python-dotenv -q)"
     ],
     "deny": []
   }

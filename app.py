@@ -6,6 +6,16 @@ import re
 import io
 import subprocess
 import openpyxl
+
+# Load .env file if present (no external dependency needed)
+_env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '.env')
+if os.path.exists(_env_path):
+    with open(_env_path) as _f:
+        for _line in _f:
+            _line = _line.strip()
+            if _line and not _line.startswith('#') and '=' in _line:
+                _k, _v = _line.split('=', 1)
+                os.environ.setdefault(_k.strip(), _v.strip())
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
 
@@ -111,12 +121,12 @@ def extract_content_html(html_text):
         return html_text
 
 
-# Database configuration
+# Database configuration — values loaded from .env
 DB_CONFIG = {
-    'user': 'root',
-    'password': 'advanced',
-    'host': '127.0.0.1',
-    'database': 'scrape'
+    'host':     os.getenv('DB_HOST', '127.0.0.1'),
+    'user':     os.getenv('DB_USER', 'root'),
+    'password': os.getenv('DB_PASSWORD', ''),
+    'database': os.getenv('DB_NAME', 'scrape'),
 }
 
 def get_db_connection():

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Scraper output — large generated files, not source
+html/
+pdf/
+scraped_links.txt
+scraped_links.csv
+scraped_pdf.txt
+scraped_google_sites.txt
+scraper_departments.txt
+scraper_divisions.txt
+scraper_drive_links.txt
+error_log.txt
+
+# Misc
+.env
+*.log
+.DS_Store
+Thumbs.db
