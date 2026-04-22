@@ -22,7 +22,7 @@
 <li><a alt="Fast Facts PDF" data-page-name="District Data" href="/fs/pages/1281">CCSD Data Dashboard</a></li>
 <li><a alt="Fast Facts PDF" data-file-name="December-2024-ataglance_CCSD.pdf" data-resource-uuid="13c113ad-593f-4599-8924-c751e1663c8d" href="/fs/resource-manager/view/13c113ad-593f-4599-8924-c751e1663c8d" target="_blank">December 2024 At A Glance</a></li>
 <li><a alt="Comprehensive PDF" data-file-name="2025ACFR-Final2262026wSEFA_Web.pdf" data-resource-uuid="397aa3f9-765e-4890-9dcb-66e784f619cb" href="/fs/resource-manager/view/397aa3f9-765e-4890-9dcb-66e784f619cb" target="_blank">Annual Comprehensive Financial Report (PDF)</a></li>
-<li><a alt="Final Budget PDF" data-file-name="Fiscal-Year-2026-Amended-Final-Budget-Presentation.pdf" data-resource-uuid="4cefcc9a-19a2-4baa-add4-9db2a3ab4520" href="/fs/resource-manager/view/4cefcc9a-19a2-4baa-add4-9db2a3ab4520" target="_blank">Fiscal Year 2026 Amended Final Budget Presentation (PDF)</a></li>
+<li><a alt="Final Budget PDF" data-file-name="Fiscal_Year_2027_Tentative_Budget_Presentation.pdf" data-resource-uuid="636ad7f2-8003-4f8d-af5c-7392860c40d7" href="/fs/resource-manager/view/636ad7f2-8003-4f8d-af5c-7392860c40d7" target="_blank">Fiscal Year 2027 Tentative Budget Presentation (PDF)</a></li>
 <li><a alt="Nevada Report Card" href="http://nevadareportcard.nv.gov/di/" target="_blank">Nevada Report Card</a></li>
 </ul>
 </nav>

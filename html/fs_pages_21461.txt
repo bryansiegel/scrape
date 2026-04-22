@@ -4,42 +4,75 @@
 <div class="fsDiv fsStyleAutoclear" id="fsEl_188027">
 <div class="fsElement fsContent" data-use-new="true" id="fsEl_188028">
 <div class="fsElementContent">
-<p>To graduate from the Clark County School District, with a Standard High School Diploma, students must complete their required course work and take tests required by the state.†
-                        Students must earn 22 ½ credits in the following subjects:</p>
-<ul>
-<li>English – 4 credits</li>
-<li>Math – 3 credits *</li>
-<li>Science – 2 credits</li>
-<li>U.S. History – 1 credit</li>
-<li>U.S. Government – 1 credit</li>
-<li>Physical Education – 2 credits **</li>
-<li>World History or Geography 1 credit</li>
-<li>Health Education – ½ credit</li>
-<li>Computers – ½ credit</li>
-<li>Electives – 7 ½ credits</li>
-</ul>
-<p></p>
-<p></p>
-<p>†The Classes of 2015 and 2016 must also pass the Nevada High School Proficiency Exams in reading, writing, math and science. The Classes of 2017 and 2018 will take End of Course Exams.</p>
-<p>Students who do not complete all requirements for a diploma will not be allowed to participate in graduation ceremonies. Students earning an adjusted diploma will be
-                        eligible to participate in graduation ceremonies.</p>
-<h2>Nevada has changed its graduation requirements</h2>
-<p>The approval of Assembly Bill 288 made significant changes to high school graduation requirements in Nevada. These changes will be phased in as
-                        the State Board of Education makes decisions related to the specific requirements of the bill. Below are the changes currently that are planned:</p>
+<h2>Pathway to Graduation for Students</h2>
 <ol>
-<li>For students entering the ninth and tenth grade in the 2014-15 school year, the Nevada High School Proficiency Examinations will be replaced with four
-                            End of course Exams, two in Math and two in English Language Arts.</li>
-<li>The 2014-15 End of Course Exams will be an operational field test, meaning students will take the tests, but do not have to earn a passing score, however, they pass the
-                            correlating class. This will also affect the Class of 2017 and the Class of 2018.</li>
-<li>All students will also be required to take a college and career readiness assessment in grade 11 beginning with the 2014-15 school year. While participation will
-                            be required for graduation, the results of the assessment will not be used to determine a student’s eligibility for a diploma.</li>
-<li>Students with disabilities may opt out of the college and career readiness assessment based on the decision of the Individualized Education Program (IEP) team.
-                            Appropriate assessments and accommodations for students with disabilities will be determined by the student’s IEP team.</li>
-<li>AB 288 also changed the statutory reference to the General Educational Development test (GED) and required the State Board of Education to select (a) high school equivalency
-                            assessment. The following three high school equivalency exams have been approved by the State Board of Education starting with the 2014-15 school year: GED, HiSET and TASC.</li>
+<li>Participate in academic planning meetings with a school counselor.</li>
+<li>Enroll in coursework that will help to achieve your educational goals.</li>
+<li>Parents/Guardians must review and approve the academic plan.</li>
+<li>Take the ACT with Writing during junior year, at no cost. Students pursuing the Alternative Diploma will take the Nevada Alternate Assessment instead.<br/>
+	 </li>
 </ol>
-<p>The state will transition to these new requirements over the next few years and additional information will be provided as it becomes available. These changes are aligned with
-                        the Nevada Academic Content Standards and are designed to ensure all students are college and career ready.</p>
+<h2>Core Enrollment Expectations</h2>
+<p>The Clark County School District (District) strives to prepare students for success in post-secondary education and in the workforce by providing a rigorous curriculum. The Core Enrollment Expectations are consistent with Nevada Revised Statutes (NRS) 389.018 and aligned with the State of Nevada  Millennium Scholarship minimum core curriculum requirements. To meet the requirements set forth by the Nevada State Board of Education, all students are enrolled in the Core Enrollment Expectations.</p>
+<table border="1" style="width: 500px;">
+<caption>
+<p style="text-align: center;"><strong>Core Enrollment Expectations</strong></p>
+</caption>
+<tbody>
+<tr>
+<td>  English</td>
+<td style="text-align: center;">4 units</td>
+</tr>
+<tr>
+<td>  Mathematics (including Algebra II or higher)</td>
+<td style="text-align: center;">4 units</td>
+</tr>
+<tr>
+<td>  Natural Science </td>
+<td style="text-align: center;">3 units</td>
+</tr>
+<tr>
+<td>  Social Studies</td>
+<td style="text-align: center;">3 units</td>
+</tr>
+<tr>
+<td>  Total</td>
+<td style="text-align: center;">14 units</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Students who successfully complete the Nevada Department of Education Core Enrollment Expectations outlined above with a grade point average (GPA) of at least 3.25 may qualify for the State of Nevada Millennium Scholarship. Please see your school counselor for more information about the state of Nevada Millennium Scholarship.</p>
+<hr/>
+<p><strong>Non-Discrimination and Accessibility Notice: </strong>The District does not discriminate against any person on the basis of race, creed/religion, color, national or ethnic origin, sex, gender identity or expression, sexual orientation, disability, marital status, or age, in admission or access to, treatment or employment, or participation in its programs and activities, and provides equal access to the Boy Scouts of America and other designated youth groups, pursuant to federal and state laws including, but not limited to, Title VI and VII of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972 and 34 C.F.R. § 106.8(b)(1), Section 504 of the Rehabilitation Act of 1973, Title II of the Americans with Disabilities Act of 1990, the Individuals with Disabilities Education Improvement Act (IDEA), and the Boy Scouts of America Equal Access Act.<br/>
+<br/>
+<strong>Monitor progress towards all diploma types with the Infinite Campus Student and Parent portals. <br/>
+For additional information regarding diploma requirements, please contact a school counselor or refer to your high school course catalog.</strong><br/>
+ </p>
+<hr/>
+<div style="text-align:center">
+<figure class="fsImage" style="display:inline-block"><picture><img alt="graduation brochure 2026" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1776445259/ccsdnet/uvij4bhdip8yqd4zr7ft/GraduationBrochure20252026.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1776445259/ccsdnet/uvij4bhdip8yqd4zr7ft/GraduationBrochure20252026.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1776445259/ccsdnet/uvij4bhdip8yqd4zr7ft/GraduationBrochure20252026.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1776445259/ccsdnet/uvij4bhdip8yqd4zr7ft/GraduationBrochure20252026.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1776445259/ccsdnet/uvij4bhdip8yqd4zr7ft/GraduationBrochure20252026.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1776445259/ccsdnet/uvij4bhdip8yqd4zr7ft/GraduationBrochure20252026.jpg%22,%22width%22:1920}]" data-resource-description="" data-resource-filename="GraduationBrochure20252026.jpg" data-resource-uuid="0c44e4d7-10ce-4a90-a368-659fa8363421" loading="lazy" src="" style="" width="1222"/></picture></figure>
+</div>
+<ol start="1" style="list-style-type: lower-alpha;">
+<li>Students with significant cognitive disabilities may earn the Alternative Diploma through participation in the Nevada Alternate Assessment instead of the ACT. Students remain eligible for Individuals with Disabilities Education Act services until their 22nd birthday.<br/>
+	 </li>
+<li>Additional College and Career Ready Diploma requirements:</li>
+</ol>
+<ul style="list-style-type: circle; margin-left: 40px;">
+<li>One mathematics credit must be Algebra II or higher, and</li>
+<li>Proficiency in two languages, or two credits in: Advanced Placement courses, International Baccalaureate courses, Dual Enrollment/Dual Credit courses, a Career and Technical Education (CTE) program of study, Work-Based Learning courses, or a world language course, and</li>
+<li>Earn a College-Ready endorsement (ACT in English of 18 or higher and in Math of 22 or higher) or a Career-Ready endorsement (CTE certification, OWINN certification, ASVAB of 50 or higher).</li>
+</ul>
+<ol start="3" style="list-style-type: lower-alpha;">
+<li>One of the four units of mathematics must be Algebra II or higher.<br/>
+	 </li>
+<li>District students must take World History or Geography to earn either the Arts/Humanities/CTE credit for the Standard/Alternative Diploma through 2028 or the World History/Geography credit for the other diplomas.<br/>
+	 </li>
+<li>Flex Credits are: a second or third year CTE course, or a fourth year of mathematics (Algebra II or higher), or a third year of science, or a third year of social studies.</li>
+</ol>
+<p>A District-approved computer science course may count as either a fourth year of mathematics or a third year of science (one credit total) only after successful completion of the required mathematics or science coursework. (Senate Bill 200, 2017)</p>
+<p>The maximum weighted GPA that can be earned is 4.950; this is achieved by earning a 4.0 unweighted GPA and 0.950 bonus points.<br/>
+ </p>
 </div>
 </div>
 </div>

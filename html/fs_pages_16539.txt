@@ -12,22 +12,23 @@
 <div class="fsElementContent">
 <h2>Leave of Absence (LOA)</h2>
 <p>All Clark County School District (CCSD) employees must meet specific requirements to be granted a leave of absence. The typical duration for a leave of absence is one year, unless otherwise specified in the relevant regulations.</p>
+<p><a data-file-name="LeaveofAbsenceLOATermsandConditions.pdf" data-resource-uuid="d949154d-a80a-4213-bec7-e7db3dafd6c6" href="/fs/resource-manager/view/d949154d-a80a-4213-bec7-e7db3dafd6c6" target="_blank">Leave of Absence Terms and Conditions</a></p>
 <h3>Leave Types</h3>
 <ul>
-<li><strong>PRO</strong> - Professional</li>
-<li><strong>MIL</strong> - Military Service</li>
-<li><strong>MED</strong> - Medical</li>
-<li><strong>NEC</strong> - Employee Necessity</li>
-<li><strong>INT</strong> - Instructional/Consultant</li>
-<li><strong>POL</strong> - Political</li>
-<li><strong>WCM</strong> - Workers' Compensation Medical</li>
-<li><strong>WRK</strong> - Work Leave</li>
-<li><strong>ASC</strong> - Association</li>
-<li><strong>CRT</strong> - Charter School</li>
-<li><strong>PCE</strong> - Peace Corps</li>
+<li><a data-file-name="ASC-AssociationLeaveEligibilityandRequirements.pdf" data-resource-uuid="c3c6c488-469b-45c4-be4b-8aa6e7f42446" href="/fs/resource-manager/view/c3c6c488-469b-45c4-be4b-8aa6e7f42446" target="_blank"><strong>ASC - Association Leave Eligibility and Requirements</strong></a></li>
+<li><a data-file-name="CRT-CharterSchoolLeaveEligibilityandRequirements.pdf" data-resource-uuid="e62e55e1-54e2-4a06-8106-399114277c8c" href="/fs/resource-manager/view/e62e55e1-54e2-4a06-8106-399114277c8c" target="_blank"><strong>CRT</strong> - Charter School Leave Eligibility and Requirements</a></li>
+<li><a data-file-name="INT-InstructionalLeaveEligibilityandRequirements.pdf" data-resource-uuid="70ecccb3-c934-48a4-b302-a847e55f00ef" href="/fs/resource-manager/view/70ecccb3-c934-48a4-b302-a847e55f00ef" target="_blank"><strong>INT</strong> - Instructional/Consultant Leave Eligibility and Requirements</a></li>
+<li><a data-file-name="MED-MedicalLeaveEligibilityandRequirements.pdf" data-resource-uuid="e2584f68-5aa6-4049-b0fe-a81a3f423f6e" href="/fs/resource-manager/view/e2584f68-5aa6-4049-b0fe-a81a3f423f6e" target="_blank"><strong>MED</strong> - Medical Leave Eligibility and Requirements</a></li>
+<li><a data-file-name="MIL-MilitaryLeaveEligibilityandRequirements.pdf" data-resource-uuid="680006fa-126c-43a2-8d79-f4a3bd967e6b" href="/fs/resource-manager/view/680006fa-126c-43a2-8d79-f4a3bd967e6b" target="_blank"><strong>MIL</strong> - Military Leave Eligibility and Requirements</a></li>
+<li><a data-file-name="NEC-EmployeeNecessityLeaveEligibilityandRequirements.pdf" data-resource-uuid="40b603d8-52b2-4bb2-9f71-fc1c6486cb37" href="/fs/resource-manager/view/40b603d8-52b2-4bb2-9f71-fc1c6486cb37" target="_blank"><strong>NEC</strong> - Employee Necessity Leave Eligibility and Requirements</a></li>
+<li><a data-file-name="PCE-PeaceCorpsLeaveEligibilityandRequirements.pdf" data-resource-uuid="0e522475-aead-40f8-aeea-a251320647d8" href="/fs/resource-manager/view/0e522475-aead-40f8-aeea-a251320647d8" target="_blank"><strong>PCE</strong> - Peace Corps Leave Eligibility and Requirements</a></li>
+<li><a data-file-name="POL-PoliticalLeaveEligibilityandRequirements.pdf" data-resource-uuid="5424dcf8-7a61-414d-bdcd-8811526bf0c4" href="/fs/resource-manager/view/5424dcf8-7a61-414d-bdcd-8811526bf0c4" target="_blank"><strong>POL</strong> - Political Leave Eligibility and Requirements</a></li>
+<li><a data-file-name="PRO-ProfessionalLeaveEligibilityandRequirements.pdf" data-resource-uuid="538b3d0a-7f0c-4d32-abd3-45bafa1e3186" href="/fs/resource-manager/view/538b3d0a-7f0c-4d32-abd3-45bafa1e3186" target="_blank"><strong>PRO</strong> - Professional Leave Eligibility and Requirements</a></li>
+<li><a data-file-name="WCM-WorkersCompensationLeaveEligibilityandRequirements.pdf" data-resource-uuid="5d32ec5d-78c1-4147-b918-611176dba475" href="/fs/resource-manager/view/5d32ec5d-78c1-4147-b918-611176dba475" target="_blank"><strong>WCM</strong> - Workers' Compensation Medical Leave Eligibility and Requirements</a></li>
+<li><a data-file-name="WRK-WorkLeaveEligibilityandRequirements.pdf" data-resource-uuid="23992632-56e6-448a-a67d-9dc71fdfb6e5" href="/fs/resource-manager/view/23992632-56e6-448a-a67d-9dc71fdfb6e5" target="_blank"><strong>WRK</strong> - Work Leave Eligibility and Requirements</a></li>
 </ul>
-<p> </p>
-<p>For more information, please contact the FMLA/LOA office at <a href="mailto:fmla.loa@nv.ccsd.net" target="_blank">fmla.loa@nv.ccsd.net</a> or call <a href="tel:7027995325" target="_blank">702-799-5325</a>.</p>
+<p><br/>
+For more information, please contact the FMLA/LOA office at <a href="mailto:fmla.loa@nv.ccsd.net" target="_blank">fmla.loa@nv.ccsd.net</a> or call <a href="tel:7027995325" target="_blank">702-799-5325</a>.</p>
 </div>
 </div>
 </div>

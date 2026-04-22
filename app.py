@@ -1,9 +1,10 @@
-from flask import Flask, render_template, request, jsonify, send_file
+from flask import Flask, render_template, request, jsonify, send_file, Response, stream_with_context
 import mysql.connector
 from mysql.connector import errorcode
 import os
 import re
 import io
+import subprocess
 import openpyxl
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
@@ -372,6 +373,155 @@ def export_pdf_excel():
         as_attachment=True,
         download_name='ccsd_pdfs.xlsx'
     )
+
+
+SCRAPER_SCRIPTS = {
+    'all': 'all-scrape.py',
+    'main': 'scraper.py',
+    'html': 'scraper-html.py',
+    'pdf': 'scraper_pdf.py',
+    'drive': 'scraper_drive_links.py',
+    'sites': 'scraper_google_sites.py',
+    'database': 'add_to_database.py',
+}
+
+@app.route('/api/scrape/<scraper_type>')
+def run_scraper(scraper_type):
+    if scraper_type not in SCRAPER_SCRIPTS:
+        def err():
+            yield f"data: ERROR: Unknown scraper '{scraper_type}'\n\n"
+            yield "data: __FAILURE__\n\n"
+        return Response(stream_with_context(err()), mimetype='text/event-stream')
+
+    script = SCRAPER_SCRIPTS[scraper_type]
+    script_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), script)
+
+    if not os.path.exists(script_path):
+        def err():
+            yield f"data: ERROR: Script not found: {script}\n\n"
+            yield "data: __FAILURE__\n\n"
+        return Response(stream_with_context(err()), mimetype='text/event-stream')
+
+    def generate():
+        process = subprocess.Popen(
+            ['python', '-u', script_path],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            text=True,
+            bufsize=1
+        )
+        for line in process.stdout:
+            yield f"data: {line.rstrip()}\n\n"
+        process.wait()
+        if process.returncode == 0:
+            yield "data: __SUCCESS__\n\n"
+        else:
+            yield f"data: __FAILURE__ (exit code {process.returncode})\n\n"
+
+    return Response(stream_with_context(generate()), mimetype='text/event-stream')
+
+
+@app.route('/single-scrape')
+def single_scrape_page():
+    return render_template('single_scrape.html')
+
+
+@app.route('/api/single-scrape')
+def run_single_scrape():
+    import requests as req
+    from bs4 import BeautifulSoup
+    from urllib.parse import urlparse, urljoin
+    from collections import deque
+    import time
+    import random
+
+    url        = request.args.get('url', '').strip()
+    find_pdf   = request.args.get('pdf', 'true').lower() == 'true'
+    find_sites = request.args.get('sites', 'true').lower() == 'true'
+    max_pages  = min(int(request.args.get('max_pages', 50)), 500)
+
+    def err(msg):
+        yield f"data: {msg}\n\n"
+        yield "data: __FAILURE__\n\n"
+
+    if not url or not url.startswith('http'):
+        return Response(stream_with_context(err('ERROR: Invalid or missing URL')), mimetype='text/event-stream')
+
+    USER_AGENTS = [
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15',
+        'Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0',
+    ]
+
+    def generate():
+        parsed_start = urlparse(url)
+        base_domain  = parsed_start.netloc
+
+        visited     = set()
+        queue       = deque([url])
+        found_pdfs  = set()
+        found_sites = set()
+        pages_crawled = 0
+
+        yield f"data: Starting crawl of {url}\n\n"
+        yield f"data: Domain: {base_domain} | Max pages: {max_pages}\n\n"
+
+        while queue and pages_crawled < max_pages:
+            current = queue.popleft()
+            if current in visited:
+                continue
+            visited.add(current)
+            pages_crawled += 1
+
+            yield f"data: PAGE: {pages_crawled}\n\n"
+            yield f"data: [{pages_crawled}/{max_pages}] {current}\n\n"
+
+            try:
+                headers = {'User-Agent': random.choice(USER_AGENTS)}
+                resp = req.get(current, headers=headers, timeout=10, allow_redirects=True)
+                if resp.status_code != 200:
+                    yield f"data: Skipped (HTTP {resp.status_code}): {current}\n\n"
+                    continue
+
+                content_type = resp.headers.get('Content-Type', '')
+                if 'html' not in content_type:
+                    continue
+
+                soup = BeautifulSoup(resp.text, 'html.parser')
+
+                for a in soup.find_all('a', href=True):
+                    href = a['href'].strip()
+                    if not href or href.startswith('mailto:') or href.startswith('javascript:'):
+                        continue
+                    full = urljoin(current, href).split('#')[0].rstrip('/')
+                    if not full.startswith('http'):
+                        continue
+
+                    # PDF detection
+                    if find_pdf and full.lower().endswith('.pdf') and full not in found_pdfs:
+                        found_pdfs.add(full)
+                        yield f"data: PDF: {full}|{current}\n\n"
+
+                    # Google Sites detection
+                    if find_sites and 'sites.google.com' in full and full not in found_sites:
+                        found_sites.add(full)
+                        yield f"data: SITE: {full}|{current}\n\n"
+
+                    # Queue same-domain pages
+                    link_domain = urlparse(full).netloc
+                    if link_domain == base_domain and full not in visited:
+                        queue.append(full)
+
+            except Exception as e:
+                yield f"data: Error ({current}): {e}\n\n"
+
+            time.sleep(0.15)
+
+        yield f"data: \n\n"
+        yield f"data: Done. Crawled {pages_crawled} page(s). Found {len(found_pdfs)} PDF(s) and {len(found_sites)} Google Sites link(s).\n\n"
+        yield "data: __SUCCESS__\n\n"
+
+    return Response(stream_with_context(generate()), mimetype='text/event-stream')
 
 
 if __name__ == '__main__':

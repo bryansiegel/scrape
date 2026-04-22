@@ -376,6 +376,31 @@
 <a class="xlink" href="http://www.leg.state.nv.us/NRS/NRS-354.html#NRS354" target="_blank">Chapter 354 - Local Financial Administration</a></p>
 </div>
 </div>
+<section class="fsElement fsPanelGroup fsAccordion fsPanelIconBefore" data-use-new="true" id="fsEl_235727">
+<header>
+<h2 class="fsElementTitle">Department of Taxation Budget Summaries</h2>
+</header>
+<div class="fsElementContent">
+<ul class="fsTabsNav" role="tablist">
+<li class="fsTabsNavItem" id="fsTab-235626" role="presentation">
+<a aria-controls="fsEl_235626" aria-selected="false" href="#fs-panel-235626" role="tab">2027</a>
+</li>
+</ul>
+<section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_235626" role="tabpanel">
+<header>
+<h2 class="fsElementTitle"><a aria-controls="fsPanelContent_235626" aria-expanded="false" href="#fs-panel-235626" role="button">2027</a></h2>
+</header>
+<div aria-hidden="true" class="fsElementContent">
+<a id="fs-panel-235626"></a>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_235627">
+<div class="fsElementContent">
+<div><a data-file-name="Fiscal_Year_2027_Tentative_Budget_State_Forms_FINA.pdf" data-resource-uuid="ad0249f4-31a1-44d3-8ab7-d062249cf375" href="/fs/resource-manager/view/ad0249f4-31a1-44d3-8ab7-d062249cf375" target="_blank">2027 Tentative Budget Summary</a></div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</section>
 </div>
 </section>
 <section class="fsElement fsPanel fsStyleAutoclear" data-use-new="true" id="fsEl_208045" role="tabpanel">

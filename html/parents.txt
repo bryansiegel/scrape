@@ -398,7 +398,7 @@
 <figure class="fsImage"><picture><img alt="Hand with Heart" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1766531418/ccsdnet/bn3yearjnh4ny4gphwks/hand-with-heart.webp%22,%22width%22:50}]" data-resource-description="" data-resource-filename="hand-with-heart.webp" data-resource-uuid="3177201e-f7b0-4a0d-afa9-01fed846b5c7" loading="lazy" src="" style=""/></picture></figure>
 <h4>Pediatric Health</h4>
 <p>School Based Health and Provider Relations partners with community organizations to provide free health, vision, dental, and behavioral health services to CCSD students, with or without insurance.</p>
-<a class="button-1" href="https://ssd.ccsd.net/sbhpr-resources/" target="_blank">View</a></div>
+<a class="button-1" href="https://sites.google.com/nv.ccsd.net/school-basedhealthandproviderr/home" target="_blank">View</a></div>
 </div>
 </div>
 </div>

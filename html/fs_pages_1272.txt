@@ -40,14 +40,19 @@
 <p>Comments by the public are welcome.</p>
 <h2>Governance Policies Under Consideration</h2>
 <p>The public is welcome to comment when Governance Policies are under consideration by the superintendent for adoption, amendment, or repeal. The Governance Policies listed in this category will be posted for a period of five (5) business days prior to submission to the Board of School Trustees.</p>
-<p><strong>There are no policies under consideration at this time</strong></p>
+<p><a href="https://ccsd.community.diligentoneplatform.com/document/73a2acc5-47b8-4178-8cda-c414a15caaba/" target="_blank">Notice of Intent - Clark County School District Board of School Trustees Governance Policies</a><br/>
+<a href="https://ccsd.community.diligentoneplatform.com/document/ef2d3b73-7fdc-4c2a-bdf8-4fecbb9caca5/" target="_blank">Notice of Intent - Clark County School District Board of School Trustees Governance Policies</a><br/>
+ </p>
 <h2>Notice of Intent</h2>
 <p>State statute requires the Board of School Trustees adopt a Notice of Intent when it considers the adoption, amendment, or repeal of a governance policy. The Notice of Intent provides the public thirteen (13) days notice prior to final action by the Board.</p>
 <p>Reflects the date of the Board meeting discussion/action will be taken on the Notice of Intent.</p>
-<p><strong>There are no policies under consideration at this time</strong></p>
+<p><a href="https://ccsd.community.diligentoneplatform.com/document/73a2acc5-47b8-4178-8cda-c414a15caaba/" target="_blank">Notice of Intent - Clark County School District Board of School Trustees Governance Policies</a><br/>
+<a href="https://ccsd.community.diligentoneplatform.com/document/ef2d3b73-7fdc-4c2a-bdf8-4fecbb9caca5/" target="_blank">Notice of Intent - Clark County School District Board of School Trustees Governance Policies</a><br/>
+ </p>
 <h2>Final Action</h2>
 <p>This date will indicate the date of the Board meeting when the final discussion/action will occur. This is the last meeting for public comment on the issue.</p>
-<p><strong>There are no policies under consideration at this time</strong></p>
+<p><strong>There are no policies under consideration at this time</strong><br/>
+ </p>
 </div>
 </div>
 </div>

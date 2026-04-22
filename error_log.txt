@@ -1,4 +1,5 @@
 Failed to scrape the following URLs:
+https://ccsd.net/about/school-board/trustees/tameka-henry
 https://ccsd.net/fs/elements/10801/print
 https://ccsd.net/fs/elements/142730/print
 https://ccsd.net/fs/pages/23028
@@ -97,12 +98,12 @@ https://ccsd.net/resources/human-resources-division/2017-18-csr-q1.pdf
 https://ccsd.net/resources/human-resources-division/2017-18-csr-q2.pdf
 https://ccsd.net/resources/human-resources-division/2017-18-csr-q3.pdf
 https://ccsd.net/resources/human-resources-division/2017-18-csr-q4.pdf
-https://ccsd.net/password/forgot?tenantId=ad36a2d2-62e6-3fc2-9f5a-265fa132ea2f&client_id=1b0fec09-7b51-37eb-a3b0-63055eaf8f63&nonce=dd74868b25e872eda003ed9e418f6d6e&pendingIdPLinkId=&redirect_uri=https%3A%2F%2Fwww.ccsd.net%2Ffs%2Fauth%2Fpeople%2Fcallback&response_mode=&response_type=code&scope=openid%20email%20profile&state=ad54206e56324ed43342baa1681480c5&timezone=&metaData.device.name=&metaData.device.type=&code_challenge=V9wLzNOjHRc3k98NTtwDDbpqSWMRwHK5T_6nmYzfZDE&code_challenge_method=S256&user_code=
-https://ccsd.net/password/forgot?tenantId=ad36a2d2-62e6-3fc2-9f5a-265fa132ea2f&client_id=1b0fec09-7b51-37eb-a3b0-63055eaf8f63&nonce=ecc537c1aaaee977761af683d16f57f6&pendingIdPLinkId=&redirect_uri=https%3A%2F%2Fwww.ccsd.net%2Ffs%2Fauth%2Fpeople%2Fcallback&response_mode=&response_type=code&scope=openid%20email%20profile&state=dd3120432a0a00c6904144829056bdf1&timezone=&metaData.device.name=&metaData.device.type=&code_challenge=_4OQOPmQR9F788w47ka-vEkTi53F2z0ATUz42HEAXOs&code_challenge_method=S256&user_code=
 https://ccsd.net/resources/guidance-counseling/ForeignExchangeHostParentEnrollmentInstructions09162024.pdf
 http://ccsd.net/fs/elements/10801/print
 http://ccsd.net/fs/elements/142730/print
+http://ccsd.net/fs/pages/1287
 http://ccsd.net/fs/pages/23028
+http://ccsd.net/fs/pages/15370
 http://ccsd.net/images/v1757429649/ccsdnet/sdba73xofyosigtankmf/12131_R.pdf
 http://ccsd.net/schools/contact-information/0215
 http://ccsd.net/schools/contact-information/0225
@@ -193,6 +194,4 @@ http://ccsd.net/resources/human-resources-division/2017-18-csr-q1.pdf
 http://ccsd.net/resources/human-resources-division/2017-18-csr-q2.pdf
 http://ccsd.net/resources/human-resources-division/2017-18-csr-q3.pdf
 http://ccsd.net/resources/human-resources-division/2017-18-csr-q4.pdf
-http://ccsd.net/password/forgot?tenantId=ad36a2d2-62e6-3fc2-9f5a-265fa132ea2f&client_id=1b0fec09-7b51-37eb-a3b0-63055eaf8f63&nonce=55ec02c66cbc99f8b05ae109dd910940&pendingIdPLinkId=&redirect_uri=https%3A%2F%2Fwww.ccsd.net%2Ffs%2Fauth%2Fpeople%2Fcallback&response_mode=&response_type=code&scope=openid%20email%20profile&state=e282436af9c09a9057f3f0cddccf8394&timezone=&metaData.device.name=&metaData.device.type=&code_challenge=AGvEv06Gb4wxT03U1CCVPoPSCQVwZ3Ap5sl-l9DJaJU&code_challenge_method=S256&user_code=
-http://ccsd.net/password/forgot?tenantId=ad36a2d2-62e6-3fc2-9f5a-265fa132ea2f&client_id=1b0fec09-7b51-37eb-a3b0-63055eaf8f63&nonce=2183b537d5892c4ec5efe48906496a51&pendingIdPLinkId=&redirect_uri=https%3A%2F%2Fwww.ccsd.net%2Ffs%2Fauth%2Fpeople%2Fcallback&response_mode=&response_type=code&scope=openid%20email%20profile&state=d0eba5156416ae4be4b42c757282b0ef&timezone=&metaData.device.name=&metaData.device.type=&code_challenge=YPd0uFd09eZKqg8RNDCJ95kVPd5luqdAMJutUFOGhko&code_challenge_method=S256&user_code=
 http://ccsd.net/resources/guidance-counseling/ForeignExchangeHostParentEnrollmentInstructions09162024.pdf

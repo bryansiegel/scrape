@@ -13,8 +13,72 @@
             <a class="navbar-brand" href="#">
                 <i class="bi bi-database"></i> CCSD Website Database
             </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/single-scrape">
+                            <i class="bi bi-search"></i> Single Site
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                            <i class="bi bi-spider"></i> Scrape
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-end">
+                            <li><a class="dropdown-item" href="#" onclick="runScraper('all'); return false;"><i class="bi bi-play-circle me-2"></i>Run All Scrapers</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#" onclick="runScraper('main'); return false;"><i class="bi bi-globe me-2"></i>Main Scraper</a></li>
+                            <li><a class="dropdown-item" href="#" onclick="runScraper('html'); return false;"><i class="bi bi-file-code me-2"></i>HTML Content</a></li>
+                            <li><a class="dropdown-item" href="#" onclick="runScraper('pdf'); return false;"><i class="bi bi-file-earmark-pdf me-2"></i>PDF Downloader</a></li>
+                            <li><a class="dropdown-item" href="#" onclick="runScraper('drive'); return false;"><i class="bi bi-google me-2"></i>Google Drive Links</a></li>
+                            <li><a class="dropdown-item" href="#" onclick="runScraper('sites'); return false;"><i class="bi bi-grid me-2"></i>Google Sites</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#" onclick="runScraper('database'); return false;"><i class="bi bi-database-add me-2"></i>Update Database</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
         </div>
     </nav>
+
+    <!-- Scraper Progress Modal -->
+    <div class="modal fade" id="scraperModal" tabindex="-1" data-bs-backdrop="static" data-bs-keyboard="false">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="scraperModalTitle">
+                        <i class="bi bi-spider me-2"></i>Running Scraper
+                    </h5>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <div class="d-flex justify-content-between mb-1">
+                            <small id="scraperStatusText" class="text-muted">Starting...</small>
+                            <small id="scraperLineCount" class="text-muted">0 lines</small>
+                        </div>
+                        <div class="progress" style="height: 22px;">
+                            <div id="scraperProgressBar"
+                                 class="progress-bar progress-bar-striped progress-bar-animated bg-primary"
+                                 style="width: 100%">
+                                Running...
+                            </div>
+                        </div>
+                    </div>
+                    <div id="scraperLog"
+                         class="bg-dark text-success rounded p-3 font-monospace"
+                         style="height: 320px; overflow-y: auto; font-size: 0.78rem; white-space: pre-wrap; word-break: break-all;">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" id="scraperCloseBtn" disabled
+                            data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="container mt-4">
         <!-- Statistics Cards -->
@@ -485,6 +549,80 @@
             const params = new URLSearchParams();
             if (search) params.append('search', search);
             window.location.href = `/api/export/pdf?${params.toString()}`;
+        }
+
+        function runScraper(type) {
+            const labels = {
+                all: 'All Scrapers',
+                main: 'Main Scraper',
+                html: 'HTML Content Scraper',
+                pdf: 'PDF Downloader',
+                drive: 'Google Drive Links Scraper',
+                sites: 'Google Sites Scraper',
+                database: 'Database Update'
+            };
+
+            const modal = new bootstrap.Modal(document.getElementById('scraperModal'));
+            const bar = document.getElementById('scraperProgressBar');
+            const log = document.getElementById('scraperLog');
+            const statusText = document.getElementById('scraperStatusText');
+            const lineCount = document.getElementById('scraperLineCount');
+            const closeBtn = document.getElementById('scraperCloseBtn');
+            const title = document.getElementById('scraperModalTitle');
+
+            // Reset UI
+            title.innerHTML = `<i class="bi bi-spider me-2"></i>Running: ${labels[type]}`;
+            bar.className = 'progress-bar progress-bar-striped progress-bar-animated bg-primary';
+            bar.style.width = '100%';
+            bar.textContent = 'Running...';
+            log.textContent = '';
+            statusText.textContent = 'Starting...';
+            lineCount.textContent = '0 lines';
+            closeBtn.disabled = true;
+
+            modal.show();
+
+            let lines = 0;
+            const evtSource = new EventSource(`/api/scrape/${type}`);
+
+            evtSource.onmessage = function(e) {
+                const msg = e.data;
+
+                if (msg === '__SUCCESS__') {
+                    evtSource.close();
+                    bar.className = 'progress-bar bg-success';
+                    bar.style.width = '100%';
+                    bar.textContent = 'Completed';
+                    statusText.textContent = 'Finished successfully';
+                    closeBtn.disabled = false;
+                    setTimeout(() => { loadStats(); performSearch(); }, 500);
+                    return;
+                }
+
+                if (msg.startsWith('__FAILURE__')) {
+                    evtSource.close();
+                    bar.className = 'progress-bar bg-danger';
+                    bar.style.width = '100%';
+                    bar.textContent = 'Failed';
+                    statusText.textContent = msg.replace('__FAILURE__ ', '') || 'Failed';
+                    closeBtn.disabled = false;
+                    return;
+                }
+
+                lines++;
+                lineCount.textContent = `${lines} line${lines !== 1 ? 's' : ''}`;
+                statusText.textContent = msg.length > 80 ? msg.slice(0, 80) + '...' : msg;
+                log.textContent += msg + '\n';
+                log.scrollTop = log.scrollHeight;
+            };
+
+            evtSource.onerror = function() {
+                evtSource.close();
+                bar.className = 'progress-bar bg-danger';
+                bar.textContent = 'Connection lost';
+                statusText.textContent = 'Stream error — check the server.';
+                closeBtn.disabled = false;
+            };
         }
     </script>
 </body>

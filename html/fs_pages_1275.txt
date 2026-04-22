@@ -64,6 +64,7 @@ Multiple resources are available for students and staff</p>
 <h2>Attachments</h2>
 <ul>
 <li style="list-style-type:none;"><a data-file-name="community-resources-2023-2023.pdf" data-resource-uuid="47f367df-cbd7-417b-abec-cbeaba5be678" href="/fs/resource-manager/view/47f367df-cbd7-417b-abec-cbeaba5be678" target="_blank">Clark County School District Community Resources 2023-2024 (PDF)</a></li>
+<li style="list-style-type:none;"><a data-file-name="2021-CCSD-Mental-Health-Awareness-Flyer.pdf" data-resource-uuid="3227c80e-9bb5-43c9-9e6c-7a505a0c572a" href="/fs/resource-manager/view/3227c80e-9bb5-43c9-9e6c-7a505a0c572a" target="_blank">CCSD Mental Health Awareness Flyer 2021 (PDF)</a> </li>
 </ul>
 <p><strong>The CCSD does not endorse the service providers identified here and provides their information only as a public service.</strong></p>
 </div>

@@ -216,9 +216,9 @@
 </a></div>
 </div>
 <div class="fsCalendarGridBrowser fsCalendarMonthBrowser">
-<button aria-label="Previous Month" class="fsCalendarPrevMonth fsLeftArrow" value="2026-03-08">&lt;</button>
+<button aria-label="Previous Month" class="fsCalendarPrevMonth fsLeftArrow" value="2026-03-22">&lt;</button>
 <span>April 2026</span>
-<button aria-label="Next Month" class="fsCalendarNextMonth fsRightArrow" value="2026-05-08">&gt;</button>
+<button aria-label="Next Month" class="fsCalendarNextMonth fsRightArrow" value="2026-05-22">&gt;</button>
 </div>
 </div>
 <div class="fsCalendarDayView fsStateHidden" data-day="1" data-month="3" data-year="2026" role="tabpanel"></div>
@@ -313,7 +313,7 @@
 </div>
 </div>
 </div>
-<div class="fsCalendarDaybox fsCalendarToday">
+<div class="fsCalendarDaybox">
 <div class="fsCalendarDate" data-day="8" data-month="3" data-year="2026">
 <span class="fsCalendarDay">Wednesday,</span>
 <span class="fsCalendarMonth">April</span>
@@ -422,7 +422,7 @@
 					21
 				</div>
 </div>
-<div class="fsCalendarDaybox">
+<div class="fsCalendarDaybox fsCalendarToday">
 <div class="fsCalendarDate" data-day="22" data-month="3" data-year="2026">
 <span class="fsCalendarDay">Wednesday,</span>
 <span class="fsCalendarMonth">April</span>
@@ -519,7 +519,7 @@
 <h3>Livestream Meetings</h3>
 <p>All meetings can be viewed on <a href="https://www.youtube.com/channel/UCb8dUIsat7U7lTjXYPFs_Ww" target="_blank">Youtube </a> or <a href="https://ccsd.eduvision.tv/LiveEvents" target="_blank">Eduvision </a>on the day of the meeting. Special board meetings are held when necessary and are posted in advance in accordance with the Nevada open meeting law.</p>
 <h3>Board Documents</h3>
-<p>Access meeting agendas and reference material in BoardDocs by clicking <a href="https://ccsd.community.diligentoneplatform.com/Portal/" target="_blank">here</a>.</p>
+<p>Access meeting agendas and reference material online by clicking <a href="https://ccsd.community.diligentoneplatform.com/Portal/" target="_blank">here</a>.</p>
 </div>
 </div>
 </div>
@@ -555,9 +555,9 @@
 </a>
 </div>
 <div class="fsCalendarGridBrowser fsCalendarMonthBrowser">
-<button aria-label="Previous Month" class="fsCalendarPrevMonth fsLeftArrow" value="2026-03-08">&lt;</button>
+<button aria-label="Previous Month" class="fsCalendarPrevMonth fsLeftArrow" value="2026-03-22">&lt;</button>
 <span>April 2026</span>
-<button aria-label="Next Month" class="fsCalendarNextMonth fsRightArrow" value="2026-05-08">&gt;</button>
+<button aria-label="Next Month" class="fsCalendarNextMonth fsRightArrow" value="2026-05-22">&gt;</button>
 </div>
 </div>
 <div class="fsCalendarDayView fsStateHidden" data-day="1" data-month="3" data-year="2026" role="tabpanel"></div>
@@ -652,7 +652,7 @@
 					7
 				</div>
 </div>
-<div class="fsCalendarDaybox fsCalendarToday">
+<div class="fsCalendarDaybox">
 <div class="fsCalendarDate" data-day="8" data-month="3" data-year="2026">
 <span class="fsCalendarDay">Wednesday,</span>
 <span class="fsCalendarMonth">April</span>
@@ -761,7 +761,7 @@
 					21
 				</div>
 </div>
-<div class="fsCalendarDaybox">
+<div class="fsCalendarDaybox fsCalendarToday">
 <div class="fsCalendarDate" data-day="22" data-month="3" data-year="2026">
 <span class="fsCalendarDay">Wednesday,</span>
 <span class="fsCalendarMonth">April</span>

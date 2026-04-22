@@ -67,7 +67,7 @@
 <h3 class="number-title">Mile Marker <span class="badge-orange">2</span></h3>
 <h4>Fall, 2025 and Winter, 2026</h4>
 <ul>
-<li>Academic focus on the “Core Four”: Pre-Kindergarten, Early Literacy, Middle School Math, and Workforce and College Readiness</li>
+<li>Academic focus on the “Core Four”: Pre-Kindergarten, Early Literacy, Middle School Math, and Workforce and College Readiness. <strong>Cour Four Presentation <a href="https://docs.google.com/presentation/d/1e2XSCLdk50wmPrvWsDa30_Pfmtnw50ukKT7AycY3Xy8/edit?slide=id.g3b335bacd20_0_24#slide=id.g3b335bacd20_0_24" target="_blank">English </a>(<a contenteditable="false" data-ved="2ahUKEwiCj9SVrM-TAxX2JUQIHYH0PAAQFnoECDAQAQ" href="https://ccsd.community.diligentoneplatform.com/document/cd78780e-9c50-4a3e-ac4b-283de378add4/" target="_blank">Español</a>)</strong></li>
 <li>Robust community input to co-design strategic plan and Facility Master Plan</li>
 </ul>
 <p>CCSD is preparing a new strategic plan to shape our future. This plan will be built on the foundation of unprecedented community feedback, including nearly 50,000 survey responses from our community this fall. We’re also conducting stakeholder interviews with leaders throughout our community and “Community Dream Sessions” throughout Southern Nevada.</p>

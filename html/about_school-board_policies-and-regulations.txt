@@ -47,14 +47,7 @@
 <p> </p>
 <h2>Notice of Intent - Date of Meeting:</h2>
 <p>Reflects the date of the board meeting discussion/action will be taken on the Notice of Intent.</p>
-<p><strong>Date of Meeting: April 9, 2026</strong></p>
-<p><a data-file-name="R-5129_NOI_Rev_040926.pdf" data-resource-uuid="37295690-8f46-4aaa-b8f3-8c9c60ed7a9e" href="/fs/resource-manager/view/37295690-8f46-4aaa-b8f3-8c9c60ed7a9e" target="_blank">Notice of Intent for Regulation 5129</a></p>
-<p><a class="button-1" data-page-name="Proposed Changes to CCSD Policies And/Or Regulation to Notice of Intent Form 1" href="/fs/pages/23341">Public Comment</a></p>
-<!-- 
-
 <p><strong>No policies or regulations are scheduled at this time.</strong></p>
-
--->
 <p> </p>
 <h2>Final Action - Date of Meeting:</h2>
 <p>This date will indicate the date of the board meeting when the final discussion/action will occur. This is the last meeting for public comment on the issue.</p>
@@ -1856,13 +1849,22 @@
 <p><strong>Type:</strong> <a data-file-name="4222_R.pdf" data-resource-uuid="f1c8b1d1-2165-4010-8a43-47a59b08eb77" href="/fs/resource-manager/view/f1c8b1d1-2165-4010-8a43-47a59b08eb77" target="_blank">REG</a></p>
 </div>
 </article>
+<article aria-labelledby="fsArticle_10354_2288" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="2288">
+<div class="fsTitle" id="fsArticle_10354_2288">
+		Public Concerns
+</div>
+<div class="fsBody">
+<p><strong>Number:</strong> 1213.1</p>
+<p><strong>Type:</strong> <a data-file-name="12131_R.pdf" data-resource-uuid="cc82c0fe-425a-4175-97ae-4c2be18050d7" href="/fs/resource-manager/view/cc82c0fe-425a-4175-97ae-4c2be18050d7" target="_blank">REG</a></p>
+</div>
+</article>
 <article aria-labelledby="fsArticle_10354_89" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="89">
 <div class="fsTitle" id="fsArticle_10354_89">
 		Public Concerns
 </div>
 <div class="fsBody">
 <p><strong>Number:</strong> 1213</p>
-<p><strong>Type:</strong> <a data-file-name="12131_R.pdf" data-resource-uuid="cc82c0fe-425a-4175-97ae-4c2be18050d7" href="/fs/resource-manager/view/cc82c0fe-425a-4175-97ae-4c2be18050d7" target="_blank">REG</a> | <a data-file-name="1213_P.pdf" data-resource-uuid="55d7c587-3ca6-4674-97d1-fc58bb50afba" href="/fs/resource-manager/view/55d7c587-3ca6-4674-97d1-fc58bb50afba" target="_blank">POL</a></p>
+<p><strong>Type:</strong> <a data-file-name="1213_P.pdf" data-resource-uuid="55d7c587-3ca6-4674-97d1-fc58bb50afba" href="/fs/resource-manager/view/55d7c587-3ca6-4674-97d1-fc58bb50afba" target="_blank">POL</a></p>
 </div>
 </article>
 <article aria-labelledby="fsArticle_10354_87" class="fsStyleAutoclear fsBoard-9 fsTag-12" data-authenticated-comments="true" data-post-id="87">

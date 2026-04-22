@@ -156,7 +156,7 @@
 </div>
 <h4>School Bell Information</h4>
 <p>Find start and end times for all CCSD schools.</p>
-<a class="button-1" data-file-name="BellSchedule-2025-20261.pdf" data-resource-uuid="e10e644a-8d6a-4368-a13d-e5f6caa41773" href="/fs/resource-manager/view/e10e644a-8d6a-4368-a13d-e5f6caa41773" target="_blank">View</a></div>
+<a class="button-1" data-file-name="BellSchedule-2025-20261.pdf" data-resource-uuid="e10e644a-8d6a-4368-a13d-e5f6caa41773" href="/fs/resource-manager/view/e10e644a-8d6a-4368-a13d-e5f6caa41773" target="_blank">2025-26 CCSD Bell Time Schedule</a> <a class="button-1" data-file-name="BellSchedule2026-2027external1415261.pdf" data-resource-uuid="5af18596-2df8-4271-b972-276383ad8351" href="/fs/resource-manager/view/5af18596-2df8-4271-b972-276383ad8351" target="_blank">2026-27 CCSD Bell Time Schedule</a></div>
 </div>
 </div>
 </div>
@@ -431,7 +431,7 @@
 </div>
 <h4>Magnet School Programs</h4>
 <p>Magnet Schools offer specialized programs that focus on students’ unique talents.</p>
-<a class="button-1" data-page-name="Summer School Information" href="https://magent.ccsd.net" target="_blank">View</a></div>
+<a class="button-1" href="https://magnet.ccsd.net/" target="_blank">View</a></div>
 </div>
 </div>
 </div>

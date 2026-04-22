@@ -269,7 +269,7 @@
 <tr class="odd">
 <td width="30%">Desert Rose HS</td>
 <td class="text-center" width="20%">May 22, 2026</td>
-<td class="text-center" width="10%">12:00 PM</td>
+<td class="text-center" width="10%">9:00 AM</td>
 <td class="text-center" width="20%">Thomas &amp; Mack Center</td>
 </tr>
 <tr class="even">
@@ -543,9 +543,21 @@
 <div class="fsElement fsCalendar fsGrid fsItemCount_5" data-calendar-ids="47" data-new-calendar-style="true" data-use-new="true" id="fsEl_142730">
 <div class="fsElementContent">
 <div class="fsCalendarGridControlBar fsStyleAutoclear">
+<div class="fsDisplayNavigation">
+<div aria-label="Month, Week, or Day view selectors" class="fsDisplayNavigationList" role="tablist">
+<button aria-selected="true" class="fsDisplayButton" data-view="Month" role="tab">Month</button>
+<button aria-selected="false" class="fsDisplayButton" data-view="Week" role="tab">Week</button>
+<button aria-selected="false" class="fsDisplayButton" data-view="Day" role="tab">Day</button>
+</div>
+</div>
 <div class="fsElementControls">
 <a aria-label="Print Grid Element" class="fsPrintButton" href="/fs/elements/142730/print?" rel="noopener" target="_blank" title="Print Grid Element">
 <span class="fsStyleSROnly">Print Grid Element</span>
+</a>
+<a class="fsCalendarFilter" data-element-id="142730" href="#" title="Filters">
+<span class="fsCalendarFilterIcon">
+<span class="fsStyleSROnly">Calendar Filter</span>
+</span>
 </a>
 <div class="fsAlertFeeds">
 <a aria-label="Calendar RSS Feeds" class="fsRSSIcon" href="#" title="Calendar RSS">
@@ -553,9 +565,9 @@
 </a></div>
 </div>
 <div class="fsCalendarGridBrowser fsCalendarMonthBrowser">
-<button aria-label="Previous Month" class="fsCalendarPrevMonth fsLeftArrow" value="2026-03-08">&lt;</button>
+<button aria-label="Previous Month" class="fsCalendarPrevMonth fsLeftArrow" value="2026-03-22">&lt;</button>
 <span>April 2026</span>
-<button aria-label="Next Month" class="fsCalendarNextMonth fsRightArrow" value="2026-05-08">&gt;</button>
+<button aria-label="Next Month" class="fsCalendarNextMonth fsRightArrow" value="2026-05-22">&gt;</button>
 </div>
 </div>
 <div class="fsCalendarDayView fsStateHidden" data-day="1" data-month="3" data-year="2026" role="tabpanel"></div>
@@ -650,7 +662,7 @@
 					7
 				</div>
 </div>
-<div class="fsCalendarDaybox fsCalendarToday">
+<div class="fsCalendarDaybox">
 <div class="fsCalendarDate" data-day="8" data-month="3" data-year="2026">
 <span class="fsCalendarDay">Wednesday,</span>
 <span class="fsCalendarMonth">April</span>
@@ -759,7 +771,7 @@
 					21
 				</div>
 </div>
-<div class="fsCalendarDaybox">
+<div class="fsCalendarDaybox fsCalendarToday">
 <div class="fsCalendarDate" data-day="22" data-month="3" data-year="2026">
 <span class="fsCalendarDay">Wednesday,</span>
 <span class="fsCalendarMonth">April</span>

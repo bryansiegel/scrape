@@ -52,11 +52,11 @@
 </a> </div>
 </div>
 <div class="fsListItems fsStyleOneColumn">
-<article aria-labelledby="fsArticle_152307_1630" class="fsStyleAutoclear fsBoard-51 fsTag-51 fsTag-52" data-authenticated-comments="true" data-post-id="1630">
-<a class="fsThumbnail fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/bright-spot-january-2026" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/bright-spot-january-2026"><img alt="Brightspot" data-aspect-ratio="0.7495934959349594" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1768935504/ccsdnet/q8ypjtvvdbtaxidfhnpd/brightspot-01.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1768935504/ccsdnet/q8ypjtvvdbtaxidfhnpd/brightspot-01.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1768935504/ccsdnet/q8ypjtvvdbtaxidfhnpd/brightspot-01.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1768935504/ccsdnet/q8ypjtvvdbtaxidfhnpd/brightspot-01.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1768935504/ccsdnet/q8ypjtvvdbtaxidfhnpd/brightspot-01.png","width":1600},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1768935504/ccsdnet/q8ypjtvvdbtaxidfhnpd/brightspot-01.png","width":2200}]'/></a>
-<div class="fsTitle" id="fsArticle_152307_1630">
-<a class="fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/bright-spot-january-2026" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/bright-spot-january-2026">
-			Bright Spot January 2026
+<article aria-labelledby="fsArticle_152307_2212" class="fsStyleAutoclear fsBoard-51 fsTag-51" data-authenticated-comments="true" data-post-id="2212">
+<a class="fsThumbnail fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/bright-spot-april-2026" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/bright-spot-april-2026"><img alt="Bright Spot April 2026" data-aspect-ratio="0.7495934959349594" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1775603456/ccsdnet/iudthhpjt1gq3twr3uow/brightspot-01.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1775603456/ccsdnet/iudthhpjt1gq3twr3uow/brightspot-01.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1775603456/ccsdnet/iudthhpjt1gq3twr3uow/brightspot-01.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1775603456/ccsdnet/iudthhpjt1gq3twr3uow/brightspot-01.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1775603456/ccsdnet/iudthhpjt1gq3twr3uow/brightspot-01.png","width":1600},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1775603456/ccsdnet/iudthhpjt1gq3twr3uow/brightspot-01.png","width":2200}]'/></a>
+<div class="fsTitle" id="fsArticle_152307_2212">
+<a class="fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/bright-spot-april-2026" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/bright-spot-april-2026">
+			Bright Spot April 2026
 </a></div>
 </article>
 </div>
@@ -84,10 +84,10 @@
 </a> </div>
 </div>
 <div class="fsListItems fsStyleOneColumn">
-<article aria-labelledby="fsArticle_152300_2096" class="fsStyleAutoclear fsBoard-51 fsTag-4" data-authenticated-comments="true" data-post-id="2096">
-<div class="fsTitle" id="fsArticle_152300_2096">
-<a class="fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/ccsd-to-consider-proposal-for-the-future-of-goodsprings-elementary-school" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/ccsd-to-consider-proposal-for-the-future-of-goodsprings-elementary-school">
-			CCSD to consider proposal for the future of Goodsprings Elementary School
+<article aria-labelledby="fsArticle_152300_2162" class="fsStyleAutoclear fsBoard-51 fsTag-4" data-authenticated-comments="true" data-post-id="2162">
+<div class="fsTitle" id="fsArticle_152300_2162">
+<a class="fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/ccsd-board-of-school-trustees-meeting-recap-april-9-2026" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/ccsd-board-of-school-trustees-meeting-recap-april-9-2026">
+			CCSD Board of School Trustees Meeting Recap, April 9, 2026
 </a></div>
 </article>
 </div>
@@ -155,11 +155,11 @@
 </a> </div>
 </div>
 <div class="fsListItems fsStyleOneColumn">
-<article aria-labelledby="fsArticle_152304_1642" class="fsStyleAutoclear fsBoard-51 fsTag-27 fsTag-53" data-authenticated-comments="true" data-post-id="1642">
-<a class="fsThumbnail fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/nwcta-alumna-wins-hells-kitchen-cooking-competition" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/nwcta-alumna-wins-hells-kitchen-cooking-competition"><img alt="NWCTA Alumna Wins Hell's Kitchen Cooking Competition" data-aspect-ratio="0.6668181818181819" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1769454804/ccsdnet/ccsdnet/wmzaken1sfxcvbxlr9he/NWCTAbanner.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1769454804/ccsdnet/ccsdnet/wmzaken1sfxcvbxlr9he/NWCTAbanner.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1769454804/ccsdnet/ccsdnet/wmzaken1sfxcvbxlr9he/NWCTAbanner.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1769454804/ccsdnet/ccsdnet/wmzaken1sfxcvbxlr9he/NWCTAbanner.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1769454804/ccsdnet/ccsdnet/wmzaken1sfxcvbxlr9he/NWCTAbanner.png","width":1600}]'/></a>
-<div class="fsTitle" id="fsArticle_152304_1642">
-<a class="fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/nwcta-alumna-wins-hells-kitchen-cooking-competition" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/nwcta-alumna-wins-hells-kitchen-cooking-competition">
-			NWCTA Alumna Wins Hell's Kitchen Cooking Competition 
+<article aria-labelledby="fsArticle_152304_2213" class="fsStyleAutoclear fsBoard-51 fsTag-53" data-authenticated-comments="true" data-post-id="2213">
+<a class="fsThumbnail fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/ccsd-alumni-on-the-move-april-2026" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/ccsd-alumni-on-the-move-april-2026"><img alt="CCSD earns national innovative technology award" data-aspect-ratio="0.5347222222222222" data-image-sizes='[{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1770137026/ccsdnet/n4bo8wj6owpfrwlwluyw/CCSDLogo.png","width":256},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1770137026/ccsdnet/n4bo8wj6owpfrwlwluyw/CCSDLogo.png","width":512},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1770137026/ccsdnet/n4bo8wj6owpfrwlwluyw/CCSDLogo.png","width":800},{"url":"https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1770137026/ccsdnet/n4bo8wj6owpfrwlwluyw/CCSDLogo.png","width":1200},{"url":"https://resources.finalsite.net/images/f_auto,q_auto/v1770137026/ccsdnet/n4bo8wj6owpfrwlwluyw/CCSDLogo.png","width":1440}]'/></a>
+<div class="fsTitle" id="fsArticle_152304_2213">
+<a class="fsPostLink" data-opens-in="popup" data-slug="ccsd-newsroom/post/ccsd-alumni-on-the-move-april-2026" href="https://www.ccsd.net/all-news/~board/ccsd-newsroom/post/ccsd-alumni-on-the-move-april-2026">
+			CCSD Alumni on the Move April 2026
 </a></div>
 </article>
 </div>

@@ -1,11 +1,74 @@
 <main class="fsPageContent" id="fsPageContent">
-<h1 class="fsPageTitle">Login</h1>
-<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_31">
-<div class="fsDiv fsStyleAutoclear" id="fsEl_32">
-<div class="fsElement fsAccount" data-use-new="true" id="fsEl_1144">
+<h1 class="fsPageTitle">CCSD Reads</h1>
+<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" data-use-new="true" id="fsEl_13692">
+<div class="fsDiv fsStyleAutoclear" id="fsEl_13693">
+<div class="fsElement fsLayout fsTwoColumnWideLeftLayout sub-hero-border fsStyleAutoclear" data-use-new="true" id="fsEl_13694">
+<div class="fsDiv fsStyleTwoThirds fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_13695">
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_13696">
 <div class="fsElementContent">
-<p aria-atomic="true" class="fsError" role="alert">This page is protected. Please log in to view this page.</p>
-<p class="fsAccountLogout"><a class="fsStyleUpdateButton" href="/fs/login?return_to=https://www.ccsd.net/programs/ccsd-reads">Login</a></p>
+<h2>#ReadWithMeCCSD Summer Reading Photo Contest</h2>
+<p><strong>Share photos of your child or family</strong> reading this summer and you could win an <strong>Amazon gift card!</strong></p>
+<p>Post photos, including student’s first name and CCSD school, on social media (Instagram, Twitter, and Facebook - settings must allow public view) using hashtag #ReadWithMeCCSD. Or photos can be submitted via email to <a href="mailto:communications@nv.ccsd.net">communications@nv.ccsd.net</a>. Your photo might be selected to win an Amazon gift card!</p>
+</div>
+</div>
+</div>
+<div class="fsDiv fsStyleOneThird fsStyleColumn fsStyleColumn-2 fsStyleColumn-last fsStyleAutoclear" id="fsEl_13697">
+<div class="fsElement fsResourceElement fsSingleItem" data-source-element-id="17361" data-source-page-id="1303" data-use-new="true" id="fsEl_17361">
+<div class="fsElementContent">
+<article class="fsResource fsResourceTypeImage"><figure><picture><img alt="ReadWithMeCCSDWebsiteBanner" data-aspect-ratio="0.5347222222222222" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1758205070/ccsdnet/tgfsoia7pohx1dwtmo0n/ReadWithMeCCSDWebsiteBanner.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1758205070/ccsdnet/tgfsoia7pohx1dwtmo0n/ReadWithMeCCSDWebsiteBanner.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1758205070/ccsdnet/tgfsoia7pohx1dwtmo0n/ReadWithMeCCSDWebsiteBanner.png%22,%22width%22:720}]" data-permitted-user="true" data-resource-title="ReadWithMeCCSDWebsiteBanner.png" data-resource-uuid="66539bb8-1faa-4f37-b54b-630148ff4976"/></picture></figure></article>
+</div>
+</div>
+</div>
+</div>
+<div class="fsElement fsContent" data-use-new="true" id="fsEl_13698">
+<div class="fsElementContent">
+<ul>
+<li>Post a picture of your child or family reading in an interesting place.</li>
+<li>Post a picture of your child or family reading something interesting, other than a book.</li>
+<li>Post a picture of your child or family reading to a sibling, pet, or other interesting buddy.</li>
+</ul>
+<p>Any picture of your child or family reading could be a winner!</p>
+<p>Bring your books on break! The Clark County School District (CCSD) encourages students to continue building their reading skills over the summer months. Students should read throughout the day, all summer long, at least 30 minutes a day. Students can read books, magazines, comic books … any reading counts!</p>
+<p>Remember, reading includes much more than just books. Here are <a data-file-name="100-Ways-to-Raise-a-READER-REVISED.pdf" data-resource-uuid="fee16a3b-be17-4055-a6a8-bed4f748445e" href="/fs/resource-manager/view/fee16a3b-be17-4055-a6a8-bed4f748445e" target="_blank">100 ways</a><a data-file-name="100-Ways-to-Raise-a-READER.pdf" data-resource-uuid="9479b4e9-794d-4239-93b5-d0a27824423a" href="/fs/resource-manager/view/9479b4e9-794d-4239-93b5-d0a27824423a" target="_blank"> </a>to make reading more enjoyable and motivate your children to read. Parents and guardians are invited to learn strategies for establishing consistent family reading routines from this <a href="https://engage.ccsd.net/uflelementary/" target="_blank">three part video series</a>.</p>
+<h2>Summer Reading Challenge</h2>
+<p>CCSD is proud to partner with the public libraries in Southern Nevada on the Summer Reading Challenge. Your local library offers a variety of online resources, activity ideas, and books to keep all students Pre-Kindergarten–Grade 12 engaged all summer long. Students can earn points for reading and completing other fun activities.</p>
+<p>Students receive prizes for completing each level and are entered to win awesome grand prizes. The CCSD school with the most student participation will receive a trophy.</p>
+<h3>Las Vegas-Clark County Library District</h3>
+<p>Dates: <strong>May 15–July 15, 2026</strong><br/>
+Registration information:<br/>
+<strong>2026 Summer Reading Challenge</strong><br/>
+<a href="https://thelibrarydistrict.org/" target="_blank">Las Vegas-Clark County Library District website</a></p>
+<h3>Boulder City</h3>
+<p>Dates: <strong>May 30–July 25, 2026</strong><br/>
+Registration information:<br/>
+<strong>2026 Summer Reading Challenge</strong><br/>
+<a href="https://boulderlibrary.org/" target="_blank">Boulder City Library website</a></p>
+<h3>Henderson</h3>
+<p>Dates: <strong>May 15–July 31, 2026</strong><br/>
+Registration information:<br/>
+<strong>2026 Summer Reading Challenge</strong><br/>
+<a href="https://hendersonlibraries.com/" target="_blank">Henderson Libraries website</a></p>
+<h3>North Las Vegas</h3>
+<p>Dates: <strong>May 18–July 27, 2026</strong><br/>
+Registration information:<br/>
+<strong>2026 Summer Reading Challenge</strong><br/>
+<a href="https://www.cityofnorthlasvegas.com/residents/libraries" target="_blank">North Las Vegas Library District website</a></p>
+<h2>Reading Resources</h2>
+<p>The resources below will help parents or guardians and students find reading materials that will engage their interest and help spur critical thinking. Please recognize that using the resources below is voluntary. Not every book selected suits every student. Parents or guardians should be engaged in the selection and discussion of reading material to ensure appropriateness of topics and texts for their students.</p>
+<h3>Destiny Discover</h3>
+<p>Access your school library and online resources including eBooks, online databases, and open educational resources.</p>
+<p><strong>Access Destiny Discover</strong></p>
+<ul>
+<li>Log in to <a href="https://clever.ccsd.net" target="_blank">clever.ccsd.net</a> with the student’s Active Directory or CCSD Google credentials.</li>
+<li>Click or tap the Follett Destiny Discover logo within the “Apps” section.</li>
+</ul>
+<h3>Nevada Young Reader's Award Books</h3>
+<p>Check out books suggested by Nevada’s students. Go to <a href="https://nevadalibraries.org/NYRA" target="_blank">nevadalibraries.org/NYRA</a>.</p>
+<h3>American Library Association Children and Young Adults Awards Lists</h3>
+<p>Check out books from the American Library Association Children and Young Adults Awards Lists. Go to <a href="https://www.ala.org/alsc/awardsgrants/notalists/ncb" target="_blank">ALA American Library Association</a>.</p>
+<h3>More Summer Fun</h3>
+<p>The Vegas PBS Learning Neighborhood Van brings the learning to you and your family! Join them at free family engagement workshops, educational pop-ups, and community events in libraries and neighborhoods throughout Southern Nevada over the summer. Their staff will show you how to learn anytime, anywhere, with the help of your favorite PBS KIDS media! Visit <a href="https://www.vegaspbs.org/rtl/van/" target="_blank">The Vegas PBS Learning Neighborhood Van</a> to find out where they will be next!</p>
+<p><strong>The Clark County School District Board of Trustees, Superintendent, and staff hope you have a safe and happy summer, with lots of time to read!</strong></p>
 </div>
 </div>
 </div>

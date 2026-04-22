@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Single Site Scrape — CCSD</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <i class="bi bi-database"></i> CCSD Website Database
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/single-scrape">
+                            <i class="bi bi-search"></i> Single Site
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                            <i class="bi bi-spider"></i> Scrape
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-end">
+                            <li><h6 class="dropdown-header">Full Site Scrapers</h6></li>
+                            <li><a class="dropdown-item" href="/"><i class="bi bi-database me-2"></i>Database View</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <div class="row justify-content-center">
+            <div class="col-lg-9">
+
+                <!-- Page header -->
+                <div class="mb-4">
+                    <h4><i class="bi bi-search me-2"></i>Single Site Scrape</h4>
+                    <p class="text-muted mb-0">Enter any URL to scan it for PDFs and Google Sites links. The scraper will crawl within the same domain up to the page limit you set.</p>
+                </div>
+
+                <!-- Config card -->
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Website URL</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="bi bi-globe"></i></span>
+                                <input type="url" class="form-control form-control-lg" id="urlInput"
+                                       placeholder="https://example.com" autocomplete="off">
+                            </div>
+                            <div id="urlFeedback" class="invalid-feedback">Please enter a valid URL starting with http:// or https://</div>
+                        </div>
+
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <label class="form-label fw-semibold">What to find</label>
+                                <div class="d-flex gap-4 mt-1">
+                                    <div class="form-check form-switch">
+                                        <input class="form-check-input" type="checkbox" id="findPdf" checked>
+                                        <label class="form-check-label" for="findPdf">
+                                            <i class="bi bi-file-earmark-pdf text-danger me-1"></i>PDFs
+                                        </label>
+                                    </div>
+                                    <div class="form-check form-switch">
+                                        <input class="form-check-input" type="checkbox" id="findSites" checked>
+                                        <label class="form-check-label" for="findSites">
+                                            <i class="bi bi-grid text-secondary me-1"></i>Google Sites
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="form-label fw-semibold" for="maxPages">Max pages to crawl</label>
+                                <input type="number" class="form-control" id="maxPages" value="50" min="1" max="500">
+                            </div>
+                        </div>
+
+                        <div class="d-flex gap-2">
+                            <button class="btn btn-primary px-4" id="startBtn" onclick="startScrape()">
+                                <i class="bi bi-play-fill me-1"></i> Start Scrape
+                            </button>
+                            <button class="btn btn-outline-secondary" id="stopBtn" onclick="stopScrape()" disabled>
+                                <i class="bi bi-stop-fill me-1"></i> Stop
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Progress card (hidden until started) -->
+                <div class="card mb-4" id="progressCard" style="display:none !important;">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span class="fw-semibold"><i class="bi bi-activity me-2"></i>Progress</span>
+                        <small id="pageCounter" class="text-muted">0 pages crawled</small>
+                    </div>
+                    <div class="card-body pb-2">
+                        <div class="d-flex justify-content-between mb-1">
+                            <small id="statusText" class="text-muted text-truncate" style="max-width:85%;">Starting...</small>
+                            <small class="text-muted text-nowrap ms-2">
+                                <span class="text-danger"><i class="bi bi-file-earmark-pdf"></i> <span id="pdfFoundCount">0</span></span>
+                                &nbsp;
+                                <span class="text-secondary"><i class="bi bi-grid"></i> <span id="sitesFoundCount">0</span></span>
+                            </small>
+                        </div>
+                        <div class="progress mb-3" style="height:20px;">
+                            <div id="progressBar"
+                                 class="progress-bar progress-bar-striped progress-bar-animated bg-primary"
+                                 style="width:100%">Scanning...</div>
+                        </div>
+                        <div id="scraperLog"
+                             class="bg-dark text-success rounded p-3 font-monospace"
+                             style="height:200px; overflow-y:auto; font-size:0.76rem; white-space:pre-wrap; word-break:break-all;">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Results card (hidden until items found) -->
+                <div class="card" id="resultsCard" style="display:none !important;">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span class="fw-semibold"><i class="bi bi-list-ul me-2"></i>Results</span>
+                        <div class="d-flex gap-2">
+                            <span class="badge bg-danger" id="pdfBadge" style="display:none;">0 PDFs</span>
+                            <span class="badge bg-secondary" id="sitesBadge" style="display:none;">0 Google Sites</span>
+                            <button class="btn btn-sm btn-outline-success" id="exportBtn" onclick="exportResults()" style="display:none;">
+                                <i class="bi bi-download me-1"></i>Export CSV
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- PDF results -->
+                    <div id="pdfSection" style="display:none;">
+                        <div class="card-body border-bottom pb-2">
+                            <h6 class="text-danger mb-3"><i class="bi bi-file-earmark-pdf me-1"></i>PDFs</h6>
+                            <div id="pdfList"></div>
+                        </div>
+                    </div>
+
+                    <!-- Google Sites results -->
+                    <div id="sitesSection" style="display:none;">
+                        <div class="card-body">
+                            <h6 class="text-secondary mb-3"><i class="bi bi-grid me-1"></i>Google Sites</h6>
+                            <div id="sitesList"></div>
+                        </div>
+                    </div>
+
+                    <div class="card-body text-center text-muted py-4" id="noResultsMsg" style="display:none;">
+                        <i class="bi bi-inbox display-6"></i>
+                        <p class="mt-2 mb-0">No PDFs or Google Sites links found on this site.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let evtSource = null;
+        let pdfResults = [];   // [{url, source}]
+        let sitesResults = []; // [{url, source}]
+
+        function startScrape() {
+            const urlInput = document.getElementById('urlInput');
+            const url = urlInput.value.trim();
+
+            if (!url.match(/^https?:\/\/.+/)) {
+                urlInput.classList.add('is-invalid');
+                return;
+            }
+            urlInput.classList.remove('is-invalid');
+
+            const findPdf   = document.getElementById('findPdf').checked;
+            const findSites = document.getElementById('findSites').checked;
+            const maxPages  = parseInt(document.getElementById('maxPages').value) || 50;
+
+            if (!findPdf && !findSites) {
+                alert('Please select at least one thing to find (PDFs or Google Sites).');
+                return;
+            }
+
+            // Reset state
+            pdfResults = [];
+            sitesResults = [];
+
+            // UI reset
+            setProgress('running');
+            document.getElementById('scraperLog').textContent = '';
+            document.getElementById('statusText').textContent = 'Starting...';
+            document.getElementById('pageCounter').textContent = '0 pages crawled';
+            document.getElementById('pdfFoundCount').textContent = '0';
+            document.getElementById('sitesFoundCount').textContent = '0';
+            show('progressCard');
+            hide('resultsCard');
+            hide('noResultsMsg');
+            hide('pdfSection');
+            hide('sitesSection');
+            document.getElementById('pdfList').innerHTML = '';
+            document.getElementById('sitesList').innerHTML = '';
+            document.getElementById('startBtn').disabled = true;
+            document.getElementById('stopBtn').disabled = false;
+
+            const params = new URLSearchParams({ url, pdf: findPdf, sites: findSites, max_pages: maxPages });
+            evtSource = new EventSource(`/api/single-scrape?${params}`);
+
+            evtSource.onmessage = function(e) {
+                const msg = e.data;
+
+                if (msg === '__SUCCESS__') {
+                    finish(true);
+                    return;
+                }
+                if (msg.startsWith('__FAILURE__')) {
+                    appendLog('ERROR: ' + msg.replace('__FAILURE__', '').trim());
+                    finish(false);
+                    return;
+                }
+
+                if (msg.startsWith('PDF: ')) {
+                    const [pdfUrl, srcPage] = msg.slice(5).split('|');
+                    pdfResults.push({ url: pdfUrl, source: srcPage || '' });
+                    document.getElementById('pdfFoundCount').textContent = pdfResults.length;
+                    addResultRow('pdfList', pdfUrl, srcPage, 'danger');
+                    show('pdfSection');
+                    show('resultsCard');
+                    return;
+                }
+
+                if (msg.startsWith('SITE: ')) {
+                    const [siteUrl, srcPage] = msg.slice(6).split('|');
+                    sitesResults.push({ url: siteUrl, source: srcPage || '' });
+                    document.getElementById('sitesFoundCount').textContent = sitesResults.length;
+                    addResultRow('sitesList', siteUrl, srcPage, 'secondary');
+                    show('sitesSection');
+                    show('resultsCard');
+                    return;
+                }
+
+                if (msg.startsWith('PAGE: ')) {
+                    document.getElementById('pageCounter').textContent = msg.slice(6) + ' pages crawled';
+                }
+
+                appendLog(msg);
+                const trimmed = msg.length > 90 ? msg.slice(0, 90) + '…' : msg;
+                document.getElementById('statusText').textContent = trimmed;
+            };
+
+            evtSource.onerror = function() {
+                evtSource.close();
+                appendLog('Connection lost.');
+                finish(false);
+            };
+        }
+
+        function stopScrape() {
+            if (evtSource) { evtSource.close(); evtSource = null; }
+            appendLog('Stopped by user.');
+            finish(null);
+        }
+
+        function finish(success) {
+            if (evtSource) { evtSource.close(); evtSource = null; }
+            document.getElementById('startBtn').disabled = false;
+            document.getElementById('stopBtn').disabled = true;
+
+            if (success === true)       setProgress('success');
+            else if (success === false) setProgress('failure');
+            else                        setProgress('stopped');
+
+            // Show results card
+            show('resultsCard');
+            const hasPdf   = pdfResults.length > 0;
+            const hasSites = sitesResults.length > 0;
+
+            const pdfBadge   = document.getElementById('pdfBadge');
+            const sitesBadge = document.getElementById('sitesBadge');
+            const exportBtn  = document.getElementById('exportBtn');
+
+            if (hasPdf) {
+                pdfBadge.textContent = `${pdfResults.length} PDF${pdfResults.length !== 1 ? 's' : ''}`;
+                show('pdfBadge');
+            }
+            if (hasSites) {
+                sitesBadge.textContent = `${sitesResults.length} Google Site${sitesResults.length !== 1 ? 's' : ''}`;
+                show('sitesBadge');
+            }
+            if (hasPdf || hasSites) {
+                show('exportBtn');
+            } else {
+                show('noResultsMsg');
+            }
+        }
+
+        function addResultRow(containerId, url, sourcePage, color) {
+            const container = document.getElementById(containerId);
+            const row = document.createElement('div');
+            row.className = 'border-bottom pb-2 mb-2';
+            row.innerHTML = `
+                <div>
+                    <a href="${escHtml(url)}" target="_blank" class="text-decoration-none text-${color}">
+                        ${escHtml(url)}
+                    </a>
+                    <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:0.75rem;"></i>
+                </div>
+                ${sourcePage ? `<small class="text-muted">Found on: <a href="${escHtml(sourcePage)}" target="_blank" class="text-decoration-none text-muted">${escHtml(sourcePage)}</a></small>` : ''}
+            `;
+            container.appendChild(row);
+        }
+
+        function appendLog(line) {
+            const log = document.getElementById('scraperLog');
+            log.textContent += line + '\n';
+            log.scrollTop = log.scrollHeight;
+        }
+
+        function setProgress(state) {
+            const bar = document.getElementById('progressBar');
+            const classes = {
+                running: 'progress-bar progress-bar-striped progress-bar-animated bg-primary',
+                success: 'progress-bar bg-success',
+                failure: 'progress-bar bg-danger',
+                stopped: 'progress-bar bg-warning',
+            };
+            const labels = { running: 'Scanning...', success: 'Done', failure: 'Failed', stopped: 'Stopped' };
+            bar.className = classes[state];
+            bar.style.width = '100%';
+            bar.textContent = labels[state];
+        }
+
+        function exportResults() {
+            const rows = [['Type', 'URL', 'Found On']];
+            pdfResults.forEach(r => rows.push(['PDF', r.url, r.source]));
+            sitesResults.forEach(r => rows.push(['Google Site', r.url, r.source]));
+            const csv = rows.map(r => r.map(c => `"${(c || '').replace(/"/g, '""')}"`).join(',')).join('\n');
+            const blob = new Blob([csv], { type: 'text/csv' });
+            const a = document.createElement('a');
+            a.href = URL.createObjectURL(blob);
+            a.download = 'single_scrape_results.csv';
+            a.click();
+        }
+
+        function show(id) { document.getElementById(id).style.removeProperty('display'); }
+        function hide(id) { document.getElementById(id).style.display = 'none'; }
+        function escHtml(str) {
+            return (str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+        }
+
+        document.getElementById('urlInput').addEventListener('keydown', function(e) {
+            if (e.key === 'Enter') startScrape();
+        });
+    </script>
+</body>
+</html>
