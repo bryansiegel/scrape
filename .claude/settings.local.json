@@ -13,7 +13,8 @@
       "Bash(cd \"C:/Users/bryan/Documents/sites/scrape\" && .venv/Scripts/pip install openpyxl 2>&1 | grep -E \"Successfully|already|error\")",
       "Bash(mysqldump -u root -padvanced scrape)",
       "Bash(.venv/bin/pip install *)",
-      "Bash(python3 -m pip install python-dotenv -q)"
+      "Bash(python3 -m pip install python-dotenv -q)",
+      "Bash(python3 *)"
     ],
     "deny": []
   }

@@ -485,6 +485,66 @@ def export_pdf_excel():
     )
 
 
+@app.route('/api/export/scrape-pdfs', methods=['POST'])
+def export_scrape_pdfs():
+    data        = request.get_json(force=True)
+    pdfs        = data.get('pdfs', [])          # [{url, label}, ...]
+    col_label   = data.get('col_label', 'Source / File Name')
+    dl_name     = data.get('download_name', 'scrape_pdfs.xlsx')
+
+    wb = openpyxl.Workbook()
+    ws = wb.active
+    ws.title = 'PDFs'
+
+    header_font = Font(bold=True, color='FFFFFF', size=11)
+    header_fill = PatternFill(fill_type='solid', fgColor='1F3864')
+    link_font   = Font(color='1155CC', size=10)
+    center      = Alignment(horizontal='center', vertical='center')
+    left        = Alignment(horizontal='left', vertical='center', wrap_text=True)
+    thin        = Side(style='thin', color='BFBFBF')
+    border      = Border(left=thin, right=thin, top=thin, bottom=thin)
+
+    ws.column_dimensions['A'].width = 6
+    ws.column_dimensions['B'].width = 60
+    ws.column_dimensions['C'].width = 80
+
+    ws.append(['#', col_label, 'PDF URL'])
+    for col in range(1, 4):
+        cell = ws.cell(row=1, column=col)
+        cell.font      = header_font
+        cell.fill      = header_fill
+        cell.alignment = center
+        cell.border    = border
+    ws.row_dimensions[1].height = 20
+
+    for i, pdf in enumerate(pdfs, 1):
+        url   = pdf.get('url', '')
+        label = pdf.get('label', '')
+        ws.cell(row=i + 1, column=1, value=i).alignment  = center
+        ws.cell(row=i + 1, column=1).border              = border
+        ws.cell(row=i + 1, column=2, value=label).font   = Font(size=10)
+        ws.cell(row=i + 1, column=2).alignment           = left
+        ws.cell(row=i + 1, column=2).border              = border
+        pdf_cell             = ws.cell(row=i + 1, column=3, value=url)
+        pdf_cell.font        = link_font
+        pdf_cell.alignment   = left
+        pdf_cell.border      = border
+        ws.row_dimensions[i + 1].height = 16
+
+    ws.freeze_panes = 'A2'
+
+    output = io.BytesIO()
+    wb.save(output)
+    output.seek(0)
+
+    return send_file(
+        output,
+        mimetype='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+        as_attachment=True,
+        download_name=dl_name,
+    )
+
+
 SCRAPER_SCRIPTS = {
     'all': 'all-scrape.py',
     'main': 'scraper.py',
@@ -534,6 +594,16 @@ def run_scraper(scraper_type):
 @app.route('/single-scrape')
 def single_scrape_page():
     return render_template('single_scrape.html')
+
+
+@app.route('/page-scrape')
+def page_scrape_page():
+    return render_template('page_scrape.html')
+
+
+@app.route('/broken-link-checker')
+def broken_link_checker_page():
+    return render_template('broken_link_checker.html')
 
 
 @app.route('/api/single-scrape')
@@ -621,7 +691,10 @@ def run_single_scrape():
                     if not full.startswith('http'):
                         continue
 
-                    if find_pdf and full.lower().endswith('.pdf') and full not in found_pdfs:
+                    data_file = (a.get('data-file-name') or '').strip()
+                    url_path  = full.lower().split('?')[0]
+                    is_pdf    = url_path.endswith('.pdf') or data_file.lower().endswith('.pdf')
+                    if find_pdf and is_pdf and full not in found_pdfs:
                         found_pdfs.add(full)
                         yield f"data: PDF: {full}|{current}\n\n"
 
@@ -681,6 +754,435 @@ def run_single_scrape():
         yield "data: __SUCCESS__\n\n"
 
     return Response(stream_with_context(generate()), mimetype='text/event-stream')
+
+
+@app.route('/api/page-scrape')
+def run_page_scrape():
+    import requests as req
+    from bs4 import BeautifulSoup
+    from urllib.parse import urljoin
+    import random
+
+    url           = request.args.get('url', '').strip()
+    find_pdf      = request.args.get('pdf', 'true').lower() == 'true'
+    find_sites    = request.args.get('sites', 'true').lower() == 'true'
+    find_images   = request.args.get('images', 'true').lower() == 'true'
+    find_tracking = request.args.get('tracking', 'true').lower() == 'true'
+
+    def err(msg):
+        yield f"data: {msg}\n\n"
+        yield "data: __FAILURE__\n\n"
+
+    if not url or not url.startswith('http'):
+        return Response(stream_with_context(err('ERROR: Invalid or missing URL')), mimetype='text/event-stream')
+
+    USER_AGENTS = [
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15',
+        'Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0',
+    ]
+
+    def generate():
+        global _html_cache
+
+        yield f"data: Fetching {url}\n\n"
+
+        try:
+            headers = {'User-Agent': random.choice(USER_AGENTS)}
+            resp = req.get(url, headers=headers, timeout=10, allow_redirects=True)
+
+            if resp.status_code != 200:
+                yield f"data: ERROR: HTTP {resp.status_code} — {url}\n\n"
+                yield "data: __FAILURE__\n\n"
+                return
+
+            content_type = resp.headers.get('Content-Type', '')
+            if 'html' not in content_type:
+                yield f"data: ERROR: Not an HTML page (Content-Type: {content_type})\n\n"
+                yield "data: __FAILURE__\n\n"
+                return
+
+            raw_html = resp.text
+            _html_cache[url] = extract_content_html(raw_html)
+            soup = BeautifulSoup(raw_html, 'html.parser')
+
+            title_tag  = soup.find('title')
+            page_title = title_tag.get_text().strip()[:120] if title_tag else ''
+            yield f"data: PAGEINFO: {url}|{page_title}\n\n"
+            yield f"data: Page: {page_title or url}\n\n"
+
+            found_pdfs   = set()
+            found_sites  = set()
+            found_links  = set()
+            found_images = set()
+            found_trackers = set()
+
+            for a in soup.find_all('a', href=True):
+                href = a['href'].strip()
+                if not href or href.startswith('mailto:') or href.startswith('javascript:'):
+                    continue
+                full = urljoin(url, href).split('#')[0].rstrip('/')
+                if not full.startswith('http'):
+                    continue
+
+                # PDF: check URL path extension AND data-file-name attribute (Finalsite CMS)
+                data_file = (a.get('data-file-name') or '').strip()
+                url_path  = full.lower().split('?')[0]
+                is_pdf    = url_path.endswith('.pdf') or data_file.lower().endswith('.pdf')
+                if find_pdf and is_pdf and full not in found_pdfs:
+                    found_pdfs.add(full)
+                    display = data_file or url_path.split('/')[-1] or full
+                    yield f"data: PDF: {full}|{display}\n\n"
+                    continue
+
+                if find_sites and 'sites.google.com' in full and full not in found_sites:
+                    found_sites.add(full)
+                    yield f"data: SITE: {full}|{url}\n\n"
+                    continue
+
+                if full not in found_links:
+                    found_links.add(full)
+                    link_text = a.get_text().strip()[:80]
+                    yield f"data: LINK: {full}|{link_text}\n\n"
+
+            if find_images:
+                for img in soup.find_all('img'):
+                    src = (img.get('src') or img.get('data-src') or
+                           img.get('data-lazy-src') or '').strip()
+                    if src:
+                        full_img = urljoin(url, src)
+                        if full_img.startswith('http') and full_img not in found_images:
+                            found_images.add(full_img)
+                            yield f"data: IMG: {full_img}|{url}\n\n"
+                for source in soup.find_all('source'):
+                    for part in (source.get('srcset') or '').split(','):
+                        src = part.strip().split()[0] if part.strip() else ''
+                        if src:
+                            full_img = urljoin(url, src)
+                            if full_img.startswith('http') and full_img not in found_images:
+                                found_images.add(full_img)
+                                yield f"data: IMG: {full_img}|{url}\n\n"
+
+            if find_tracking:
+                script_text = ''
+                for script in soup.find_all('script'):
+                    script_text += ' ' + (script.get('src') or '')
+                    script_text += ' ' + (script.get_text() or '')
+                for name, patterns in TRACKER_PATTERNS:
+                    for pattern in patterns:
+                        if pattern.lower() in script_text.lower():
+                            if name not in found_trackers:
+                                found_trackers.add(name)
+                                yield f"data: TRACKER: {name}|{url}\n\n"
+                            break
+
+            yield f"data: \n\n"
+            yield (
+                f"data: Done. {len(found_links)} link(s), {len(found_pdfs)} PDF(s), "
+                f"{len(found_sites)} Google Sites, {len(found_images)} image(s), "
+                f"{len(found_trackers)} tracker(s) found.\n\n"
+            )
+            yield "data: __SUCCESS__\n\n"
+
+        except Exception as e:
+            yield f"data: Error: {e}\n\n"
+            yield "data: __FAILURE__\n\n"
+
+    resp = Response(stream_with_context(generate()), mimetype='text/event-stream')
+    resp.headers['Cache-Control'] = 'no-cache'
+    resp.headers['X-Accel-Buffering'] = 'no'
+    return resp
+
+
+@app.route('/api/broken-link-check')
+def run_broken_link_check():
+    import requests as req
+    from bs4 import BeautifulSoup
+    from urllib.parse import urlparse, urljoin
+    from collections import deque
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    import time, random, json
+
+    url          = request.args.get('url', '').strip()
+    mode         = request.args.get('mode', 'page')   # 'page' | 'site'
+    check_imgs   = request.args.get('images',   'true').lower()  == 'true'
+    check_pdfs   = request.args.get('pdfs',     'true').lower()  == 'true'
+    check_ext    = request.args.get('external', 'false').lower() == 'true'
+    check_social = request.args.get('social',   'false').lower() == 'true'
+
+    SOCIAL_DOMAINS = [
+        'facebook.com', 'fb.com', 'fbcdn.net',
+        'twitter.com', 'x.com', 't.co',
+        'instagram.com', 'instagr.am',
+        'linkedin.com', 'lnkd.in',
+        'youtube.com', 'youtu.be', 'yt.be',
+        'tiktok.com', 'vm.tiktok.com',
+        'pinterest.com', 'pin.it',
+        'snapchat.com', 'snap.com',
+        'reddit.com', 'redd.it',
+        'tumblr.com', 'vimeo.com',
+        'flickr.com', 'threads.net',
+    ]
+
+    def is_social_url(u):
+        netloc = urlparse(u).netloc.lower().removeprefix('www.')
+        return any(netloc == s or netloc.endswith('.' + s) for s in SOCIAL_DOMAINS)
+
+    def err(msg):
+        yield f"data: {msg}\n\n"
+        yield "data: __FAILURE__\n\n"
+
+    if not url or not url.startswith('http'):
+        return Response(stream_with_context(err('ERROR: Invalid or missing URL')), mimetype='text/event-stream')
+
+    USER_AGENTS = [
+        # Chrome — Windows
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        # Chrome — Mac
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        # Chrome — Linux
+        'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        # Firefox — Windows
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0',
+        # Firefox — Mac / Linux
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0',
+        'Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0',
+        # Safari — Mac
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 14_4_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15',
+        # Edge — Windows
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0',
+        # Mobile
+        'Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',
+        'Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1',
+    ]
+
+    def make_headers():
+        ua = random.choice(USER_AGENTS)
+        return {
+            'User-Agent': ua,
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+        }
+
+    def check_url_status(check_u):
+        # Use GET with stream=True (never reads body, just headers) rather than HEAD.
+        # HEAD is unreliable — many servers return 403/404 for HEAD but serve fine on GET.
+        def _get(hdrs):
+            r = req.get(check_u, headers=hdrs, timeout=7, allow_redirects=True, stream=True)
+            r.close()
+            return r
+
+        try:
+            r = _get(make_headers())
+
+            # Retry once on 429, honouring Retry-After if present
+            if r.status_code == 429:
+                wait = min(int(r.headers.get('Retry-After', 3)), 15)
+                time.sleep(wait + random.uniform(0.5, 2.0))
+                r = _get(make_headers())
+
+            return r.status_code, r.reason or str(r.status_code)
+        except req.exceptions.Timeout:
+            return 0, 'Timeout'
+        except req.exceptions.SSLError:
+            return 0, 'SSL Error'
+        except req.exceptions.TooManyRedirects:
+            return 0, 'Too Many Redirects'
+        except req.exceptions.InvalidURL:
+            return 0, 'Invalid URL'
+        except req.exceptions.ConnectionError:
+            return 0, 'Connection Error'
+        except Exception as e:
+            return 0, type(e).__name__
+
+    def get_snippet(element):
+        try:
+            html = str(element)
+            return html[:600] + ('…' if len(html) > 600 else '')
+        except Exception:
+            return ''
+
+    def generate():
+        try:
+            parsed_start     = urlparse(url)
+            base_domain      = parsed_start.netloc
+            base_domain_norm = base_domain.removeprefix('www.')
+
+            visited_pages = set()
+            checked_urls  = set()
+            queue = deque([url])
+
+            pages_crawled = 0
+            total_checked = 0
+            broken_count  = 0
+
+            yield f"data: Starting broken link check — {url}\n\n"
+
+            while queue:
+                current = queue.popleft()
+                if current in visited_pages:
+                    continue
+                visited_pages.add(current)
+                pages_crawled += 1
+
+                yield f"data: PAGE: {pages_crawled}\n\n"
+                yield f"data: Scanning [{pages_crawled}]: {current}\n\n"
+
+                try:
+                    headers = {'User-Agent': random.choice(USER_AGENTS)}
+                    resp = req.get(current, headers=headers, timeout=12, allow_redirects=True)
+                    if resp.status_code != 200:
+                        yield f"data: Skipped (HTTP {resp.status_code}): {current}\n\n"
+                        continue
+                    if 'html' not in resp.headers.get('Content-Type', ''):
+                        continue
+
+                    soup = BeautifulSoup(resp.text, 'html.parser')
+
+                    # Queue internal pages for crawling (site mode)
+                    if mode == 'site':
+                        for a in soup.find_all('a', href=True):
+                            href = a['href'].strip()
+                            if not href or href.startswith(('mailto:', 'javascript:', '#', 'tel:')):
+                                continue
+                            full = urljoin(current, href).split('#')[0].rstrip('/')
+                            if not full.startswith('http'):
+                                continue
+                            if urlparse(full).netloc.removeprefix('www.') == base_domain_norm and full not in visited_pages:
+                                queue.append(full)
+
+                    # Collect resources to check from this page
+                    resources = []
+
+                    for a in soup.find_all('a', href=True):
+                        href = a['href'].strip()
+                        if not href or href.startswith(('mailto:', 'javascript:', '#', 'tel:')):
+                            continue
+                        full = urljoin(current, href).split('#')[0].rstrip('/')
+                        if not full.startswith('http'):
+                            continue
+                        if full in checked_urls:
+                            continue
+
+                        is_internal = urlparse(full).netloc.removeprefix('www.') == base_domain_norm
+                        social      = is_social_url(full)
+                        url_path    = full.lower().split('?')[0]
+                        is_pdf      = url_path.endswith('.pdf')
+
+                        if not is_internal:
+                            if social and not check_social:
+                                continue
+                            # PDFs obey check_pdfs regardless of check_ext
+                            if is_pdf and not check_pdfs:
+                                continue
+                            if not is_pdf and not check_ext:
+                                continue
+
+                        if is_pdf:
+                            if check_pdfs:
+                                resources.append(('pdf', full, a, current, social))
+                        else:
+                            resources.append(('link', full, a, current, social))
+
+                    if check_imgs:
+                        for img in soup.find_all('img'):
+                            src = (img.get('src') or img.get('data-src') or img.get('data-lazy-src') or '').strip()
+                            if not src:
+                                continue
+                            full_img = urljoin(current, src)
+                            if not full_img.startswith('http') or full_img in checked_urls:
+                                continue
+                            resources.append(('image', full_img, img, current, False))
+
+                    # Dedupe before checking (tuple index 1 is the URL)
+                    new_resources = []
+                    for item in resources:
+                        if item[1] not in checked_urls:
+                            checked_urls.add(item[1])
+                            new_resources.append(item)
+
+                    if new_resources:
+                        yield f"data: Checking {len(new_resources)} resource(s)…\n\n"
+
+                    # Run concurrent checks and collect ALL results before yielding
+                    # (avoids generator suspension inside the executor context)
+                    check_results = []
+                    try:
+                        with ThreadPoolExecutor(max_workers=3) as executor:
+                            future_map = {
+                                executor.submit(check_url_status, r[1]): r
+                                for r in new_resources
+                            }
+                            for fut in as_completed(future_map):
+                                try:
+                                    status, status_text = fut.result()
+                                except Exception as fe:
+                                    status, status_text = 0, type(fe).__name__
+                                check_results.append((future_map[fut], status, status_text))
+                    except Exception as te:
+                        yield f"data: Warning: thread pool error — {te}\n\n"
+
+                    # Yield results now that the executor is fully closed
+                    for res, status, status_text in check_results:
+                        res_type, res_url, element, source_page, is_social = res
+                        total_checked += 1
+                        yield f"data: CHECKING: {total_checked}|{res_url}\n\n"
+                        if status == 0 or status >= 400:
+                            # Social media: only 404 is a genuine broken link;
+                            # 400/403/429 etc. are normal bot-blocking responses.
+                            if is_social and status != 404:
+                                continue
+                            broken_count += 1
+                            try:
+                                payload = json.dumps({
+                                    'type':       res_type,
+                                    'url':        res_url,
+                                    'status':     status,
+                                    'statusText': status_text,
+                                    'source':     source_page,
+                                    'snippet':    get_snippet(element),
+                                }, ensure_ascii=True)
+                            except Exception:
+                                payload = json.dumps({
+                                    'type': res_type, 'url': res_url,
+                                    'status': status, 'statusText': status_text,
+                                    'source': source_page, 'snippet': '',
+                                })
+                            yield f"data: BROKEN: {payload}\n\n"
+                            yield f"data: BROKEN_COUNT: {broken_count}\n\n"
+
+                except Exception as e:
+                    yield f"data: Error scanning {current}: {type(e).__name__}: {e}\n\n"
+
+                time.sleep(0.1)
+
+            yield f"data: \n\n"
+            yield (
+                f"data: Done. {pages_crawled} page(s) scanned, "
+                f"{total_checked} resource(s) checked, "
+                f"{broken_count} broken found.\n\n"
+            )
+            yield "data: __SUCCESS__\n\n"
+
+        except GeneratorExit:
+            return
+        except Exception as e:
+            yield f"data: Fatal error: {type(e).__name__}: {e}\n\n"
+            yield "data: __FAILURE__\n\n"
+
+    resp = Response(stream_with_context(generate()), mimetype='text/event-stream')
+    resp.headers['Cache-Control'] = 'no-cache'
+    resp.headers['X-Accel-Buffering'] = 'no'
+    return resp
 
 
 @app.route('/api/page-html')

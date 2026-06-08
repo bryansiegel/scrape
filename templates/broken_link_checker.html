@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="data:,">
+    <title>Broken Link Checker — CCSD</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+    <style>
+        .result-tab-badge { font-size: 0.7rem; vertical-align: middle; }
+        .tab-count { transition: all .2s; }
+        #scraperLog { height: 160px; overflow-y: auto; font-size: 0.76rem; white-space: pre-wrap; word-break: break-all; }
+        .broken-item { border-left: 3px solid #dc3545; }
+        .broken-item.type-image { border-left-color: #fd7e14; }
+        .broken-item.type-pdf   { border-left-color: #6c757d; }
+        .snippet-block { max-height: 160px; overflow-y: auto; font-size: 0.72rem; white-space: pre-wrap; word-break: break-all; }
+        details > summary { list-style: none; }
+        details > summary::-webkit-details-marker { display: none; }
+        details > summary::before { content: "▶ "; font-size: .65rem; }
+        details[open] > summary::before { content: "▼ "; }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <i class="bi bi-database"></i> CCSD Website Database
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/single-scrape">
+                            <i class="bi bi-search"></i> Single Site
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/page-scrape">
+                            <i class="bi bi-file-earmark-text"></i> Page Scrape
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/broken-link-checker">
+                            <i class="bi bi-exclamation-triangle"></i> Broken Links
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                            <i class="bi bi-spider"></i> Scrape
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-end">
+                            <li><a class="dropdown-item" href="/"><i class="bi bi-database me-2"></i>Database View</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4 pb-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+
+                <div class="mb-4">
+                    <h4><i class="bi bi-exclamation-triangle me-2 text-danger"></i>Broken Link Checker</h4>
+                    <p class="text-muted mb-0">Crawl a page or an entire site to find broken links, missing images, and inaccessible PDFs. Each result includes the source HTML snapshot showing exactly where the broken reference appears.</p>
+                </div>
+
+                <!-- Config card -->
+                <div class="card mb-4" id="configCard">
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">URL to check</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="bi bi-globe"></i></span>
+                                <input type="url" class="form-control form-control-lg" id="urlInput"
+                                       placeholder="https://example.com" autocomplete="off">
+                                <div class="invalid-feedback">Please enter a valid URL starting with http:// or https://</div>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Scope</label>
+                            <div class="d-flex flex-wrap gap-3 mt-1">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="mode" id="modePage" value="page" checked>
+                                    <label class="form-check-label" for="modePage">
+                                        <i class="bi bi-file-earmark-text text-primary me-1"></i>Single page only
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="mode" id="modeSite" value="site">
+                                    <label class="form-check-label" for="modeSite">
+                                        <i class="bi bi-globe text-success me-1"></i>Crawl entire site (same domain)
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">What to check</label>
+                            <div class="d-flex flex-wrap gap-3 mt-1">
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" id="checkImages" checked>
+                                    <label class="form-check-label" for="checkImages">
+                                        <i class="bi bi-image text-info me-1"></i>Images
+                                    </label>
+                                </div>
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" id="checkPdfs" checked>
+                                    <label class="form-check-label" for="checkPdfs">
+                                        <i class="bi bi-file-earmark-pdf text-danger me-1"></i>PDFs
+                                    </label>
+                                </div>
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" id="checkExternal">
+                                    <label class="form-check-label" for="checkExternal">
+                                        <i class="bi bi-box-arrow-up-right text-secondary me-1"></i>External links
+                                    </label>
+                                </div>
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" id="checkSocial">
+                                    <label class="form-check-label" for="checkSocial">
+                                        <i class="bi bi-share text-primary me-1"></i>Social media
+                                        <span class="badge bg-light text-muted border ms-1" style="font-size:.65rem;">404 only</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="d-flex gap-2">
+                            <button class="btn btn-danger px-4" id="startBtn" onclick="startCheck()">
+                                <i class="bi bi-play-fill me-1"></i> Start Check
+                            </button>
+                            <button class="btn btn-outline-secondary" id="stopBtn" onclick="stopCheck()" disabled>
+                                <i class="bi bi-stop-fill me-1"></i> Stop
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Progress card -->
+                <div class="card mb-4" id="progressCard" style="display:none;">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span class="fw-semibold"><i class="bi bi-activity me-2"></i>Progress</span>
+                        <div class="d-flex gap-3 text-nowrap" style="font-size:0.78rem;">
+                            <span class="text-muted" title="Pages scanned">
+                                <i class="bi bi-file-earmark-text me-1"></i><span id="cntPages">0</span> pages
+                            </span>
+                            <span class="text-muted" title="Resources checked">
+                                <i class="bi bi-search me-1"></i><span id="cntChecked">0</span> checked
+                            </span>
+                            <span class="text-danger fw-semibold" title="Broken found">
+                                <i class="bi bi-exclamation-circle me-1"></i><span id="cntBroken">0</span> broken
+                            </span>
+                        </div>
+                    </div>
+                    <div class="card-body pb-2">
+                        <div class="mb-2">
+                            <small id="statusText" class="text-muted text-truncate d-block" style="max-width:100%;">Starting…</small>
+                        </div>
+                        <div class="progress mb-3" style="height:20px;">
+                            <div id="progressBar" class="progress-bar progress-bar-striped progress-bar-animated bg-danger" style="width:100%">Scanning…</div>
+                        </div>
+                        <div id="scraperLog" class="bg-dark text-success rounded p-3 font-monospace"></div>
+                    </div>
+                </div>
+
+                <!-- Results card -->
+                <div class="card" id="resultsCard" style="display:none;">
+                    <div class="card-header d-flex justify-content-between align-items-center flex-wrap gap-2">
+                        <span class="fw-semibold"><i class="bi bi-list-ul me-2"></i>Results</span>
+                        <div class="d-flex align-items-center gap-2 flex-wrap">
+                            <!-- Status filter -->
+                            <div class="btn-group btn-group-sm" role="group" aria-label="Filter by status">
+                                <button type="button" class="btn btn-danger active" id="filter-all"
+                                        onclick="applyFilter('all')">
+                                    All <span class="badge bg-white text-danger ms-1" id="fcntAll">0</span>
+                                </button>
+                                <button type="button" class="btn btn-outline-warning" id="filter-403"
+                                        onclick="applyFilter('403')">
+                                    403 <span class="badge bg-warning text-dark ms-1" id="fcnt403">0</span>
+                                </button>
+                                <button type="button" class="btn btn-outline-danger" id="filter-404"
+                                        onclick="applyFilter('404')">
+                                    404 <span class="badge bg-danger ms-1" id="fcnt404">0</span>
+                                </button>
+                                <button type="button" class="btn btn-outline-secondary" id="filter-other"
+                                        onclick="applyFilter('other')">
+                                    Other <span class="badge bg-secondary ms-1" id="fcntOther">0</span>
+                                </button>
+                            </div>
+                            <button class="btn btn-sm btn-outline-success" id="exportCsvBtn" onclick="exportCsv()" style="display:none;">
+                                <i class="bi bi-download me-1"></i>Export CSV
+                            </button>
+                        </div>
+                    </div>
+                    <div class="card-body p-0">
+                        <ul class="nav nav-tabs px-3 pt-2" id="resultTabs">
+                            <li class="nav-item">
+                                <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#tabAll">
+                                    <i class="bi bi-exclamation-circle me-1"></i>All Broken
+                                    <span class="badge bg-danger result-tab-badge ms-1 tab-count" id="badgeAll">0</span>
+                                </button>
+                            </li>
+                            <li class="nav-item">
+                                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tabLinks">
+                                    <i class="bi bi-link-45deg me-1"></i>Links
+                                    <span class="badge bg-danger result-tab-badge ms-1 tab-count" id="badgeLinks">0</span>
+                                </button>
+                            </li>
+                            <li class="nav-item">
+                                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tabImages">
+                                    <i class="bi bi-image me-1"></i>Images
+                                    <span class="badge bg-warning text-dark result-tab-badge ms-1 tab-count" id="badgeImages">0</span>
+                                </button>
+                            </li>
+                            <li class="nav-item">
+                                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tabPdfs">
+                                    <i class="bi bi-file-earmark-pdf me-1"></i>PDFs
+                                    <span class="badge bg-secondary result-tab-badge ms-1 tab-count" id="badgePdfs">0</span>
+                                </button>
+                            </li>
+                        </ul>
+
+                        <div class="tab-content p-3">
+
+                            <!-- All Broken tab -->
+                            <div class="tab-pane fade show active" id="tabAll">
+                                <p class="text-muted small mb-3">Every broken resource found, in the order discovered. Expand <strong>Source context</strong> to see the HTML element where the broken reference appears.</p>
+                                <div id="allList"></div>
+                                <div class="text-center text-muted py-5" id="allEmpty">
+                                    <i class="bi bi-hourglass-split display-4"></i>
+                                    <p class="mt-3">No broken resources found yet.</p>
+                                </div>
+                            </div>
+
+                            <!-- Links tab -->
+                            <div class="tab-pane fade" id="tabLinks">
+                                <div id="linksList"></div>
+                                <div class="text-center text-muted py-5" id="linksEmpty">
+                                    <i class="bi bi-check-circle display-4 text-success"></i>
+                                    <p class="mt-3">No broken links found.</p>
+                                </div>
+                            </div>
+
+                            <!-- Images tab -->
+                            <div class="tab-pane fade" id="tabImages">
+                                <div id="imagesList"></div>
+                                <div class="text-center text-muted py-5" id="imagesEmpty">
+                                    <i class="bi bi-check-circle display-4 text-success"></i>
+                                    <p class="mt-3">No broken images found.</p>
+                                </div>
+                            </div>
+
+                            <!-- PDFs tab -->
+                            <div class="tab-pane fade" id="tabPdfs">
+                                <div id="pdfsList"></div>
+                                <div class="text-center text-muted py-5" id="pdfsEmpty">
+                                    <i class="bi bi-check-circle display-4 text-success"></i>
+                                    <p class="mt-3">No broken PDFs found.</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let evtSource    = null;
+        let allResults   = [];
+        let linkResults  = [];
+        let imageResults = [];
+        let pdfResults   = [];
+        let statusCounts = { '403': 0, '404': 0, other: 0 };
+        let activeFilter = 'all';
+
+        // ── Start / Stop ────────────────────────────────────────────────────────
+        function startCheck() {
+            const urlInput = document.getElementById('urlInput');
+            const url = urlInput.value.trim();
+            if (!url.match(/^https?:\/\/.+/)) { urlInput.classList.add('is-invalid'); return; }
+            urlInput.classList.remove('is-invalid');
+
+            const mode     = document.querySelector('input[name="mode"]:checked').value;
+            const images   = document.getElementById('checkImages').checked;
+            const pdfs     = document.getElementById('checkPdfs').checked;
+            const external = document.getElementById('checkExternal').checked;
+            const social   = document.getElementById('checkSocial').checked;
+
+            // Reset state
+            allResults = []; linkResults = []; imageResults = []; pdfResults = [];
+            statusCounts = { '403': 0, '404': 0, other: 0 };
+            activeFilter = 'all';
+
+            ['allList','linksList','imagesList','pdfsList'].forEach(id => el(id).innerHTML = '');
+            ['allEmpty','linksEmpty','imagesEmpty','pdfsEmpty'].forEach(id => show(id));
+            ['badgeAll','badgeLinks','badgeImages','badgePdfs'].forEach(id => el(id).textContent = '0');
+            ['fcntAll','fcnt403','fcnt404','fcntOther'].forEach(id => el(id).textContent = '0');
+            ['cntPages','cntChecked','cntBroken'].forEach(id => el(id).textContent = '0');
+            applyFilter('all', false);
+            el('scraperLog').textContent = '';
+            el('statusText').textContent = 'Starting…';
+            setProgress('running');
+            show('progressCard');
+            hide('resultsCard');
+            el('exportCsvBtn').style.display = 'none';
+            el('startBtn').disabled = true;
+            el('stopBtn').disabled  = false;
+
+            const params = new URLSearchParams({ url, mode, images, pdfs, external, social });
+            evtSource = new EventSource(`/api/broken-link-check?${params}`);
+
+            evtSource.onmessage = function(e) {
+                const msg = e.data;
+
+                if (msg === '__SUCCESS__')         { finish(true);  return; }
+                if (msg.startsWith('__FAILURE__')) { appendLog('ERROR: ' + msg.slice(11).trim()); finish(false); return; }
+
+                if (msg.startsWith('PAGE: ')) {
+                    el('cntPages').textContent = msg.slice(6);
+                    return;
+                }
+                if (msg.startsWith('CHECKING: ')) {
+                    const parts = msg.slice(10).split('|');
+                    el('cntChecked').textContent = parts[0];
+                    el('statusText').textContent = 'Checking: ' + (parts[1] || '');
+                    return;
+                }
+                if (msg.startsWith('BROKEN_COUNT: ')) {
+                    el('cntBroken').textContent = msg.slice(14);
+                    return;
+                }
+                if (msg.startsWith('BROKEN: ')) {
+                    try { handleBroken(JSON.parse(msg.slice(8))); } catch(e) { appendLog('Parse error: ' + e); }
+                    return;
+                }
+
+                appendLog(msg);
+                if (msg.trim()) el('statusText').textContent = msg.length > 100 ? msg.slice(0, 100) + '…' : msg;
+            };
+
+            evtSource.onerror = function() { evtSource.close(); appendLog('Connection lost.'); finish(false); };
+        }
+
+        function stopCheck() {
+            if (evtSource) { evtSource.close(); evtSource = null; }
+            appendLog('Stopped by user.');
+            finish(null);
+        }
+
+        function finish(success) {
+            if (evtSource) { evtSource.close(); evtSource = null; }
+            el('startBtn').disabled = false;
+            el('stopBtn').disabled  = true;
+            if (success === true)       setProgress('success');
+            else if (success === false) setProgress('failure');
+            else                        setProgress('stopped');
+
+            show('resultsCard');
+            if (allResults.length) el('exportCsvBtn').style.removeProperty('display');
+        }
+
+        // ── Broken result handler ───────────────────────────────────────────────
+        function handleBroken(data) {
+            const { type, url, status, statusText, source, snippet } = data;
+
+            allResults.push(data);
+            el('badgeAll').textContent = allResults.length;
+            hide('allEmpty');
+
+            // Track per-status counts
+            const key = (status === 403 || status === 404) ? String(status) : 'other';
+            statusCounts[key]++;
+            el('fcntAll').textContent  = allResults.length;
+            el('fcnt403').textContent  = statusCounts['403'];
+            el('fcnt404').textContent  = statusCounts['404'];
+            el('fcntOther').textContent = statusCounts.other;
+
+            const listId  = type === 'image' ? 'imagesList' : type === 'pdf' ? 'pdfsList' : 'linksList';
+            const emptyId = type === 'image' ? 'imagesEmpty' : type === 'pdf' ? 'pdfsEmpty' : 'linksEmpty';
+            const badgeId = type === 'image' ? 'badgeImages' : type === 'pdf' ? 'badgePdfs' : 'badgeLinks';
+
+            if (type === 'image') {
+                imageResults.push(data); el(badgeId).textContent = imageResults.length;
+            } else if (type === 'pdf') {
+                pdfResults.push(data);   el(badgeId).textContent = pdfResults.length;
+            } else {
+                linkResults.push(data);  el(badgeId).textContent = linkResults.length;
+            }
+            hide(emptyId);
+            show('resultsCard');
+
+            const card  = buildBrokenCard(data);
+            const card2 = card.cloneNode(true);
+
+            // Apply active filter to newly added cards immediately
+            if (activeFilter !== 'all') {
+                const visible = cardMatchesFilter(card, activeFilter);
+                if (!visible) { card.style.display = 'none'; card2.style.display = 'none'; }
+            }
+
+            el('allList').appendChild(card2);
+            el(listId).appendChild(card);
+        }
+
+        function buildBrokenCard(data) {
+            const { type, url, status, statusText, source, snippet } = data;
+
+            const statusColor = status === 0    ? 'secondary'
+                              : status === 404  ? 'danger'
+                              : status === 403  ? 'warning'
+                              : status >= 500   ? 'dark'
+                              : status >= 400   ? 'warning'
+                              : 'secondary';
+            const statusLabel = status === 0 ? statusText : `${status} ${statusText}`;
+
+            const typeColor = type === 'image' ? 'warning text-dark' : type === 'pdf' ? 'secondary' : 'danger';
+            const typeIcon  = type === 'image' ? 'bi-image' : type === 'pdf' ? 'bi-file-earmark-pdf' : 'bi-link-45deg';
+
+            const borderClass = type === 'image' ? 'type-image' : type === 'pdf' ? 'type-pdf' : '';
+
+            const div = document.createElement('div');
+            div.className = `card broken-item ${borderClass} mb-3`;
+            div.dataset.status = status === 0 ? 'other' : String(status);
+            div.innerHTML = `
+                <div class="card-body p-3">
+                    <div class="d-flex align-items-start gap-2 flex-wrap">
+                        <span class="badge bg-${statusColor} mt-1" style="font-size:.75rem;">${esc(statusLabel)}</span>
+                        <span class="badge bg-${typeColor} mt-1" style="font-size:.75rem;"><i class="bi ${typeIcon} me-1"></i>${esc(type)}</span>
+                        <div class="flex-grow-1" style="min-width:0;">
+                            <a href="${esc(url)}" target="_blank"
+                               class="text-decoration-none text-danger fw-semibold text-break"
+                               style="font-size:.85rem;">${esc(url)}</a>
+                            <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:.7rem;"></i>
+                            ${source ? `<div class="text-muted mt-1" style="font-size:.78rem;">
+                                Found on:
+                                <a href="${esc(source)}" target="_blank"
+                                   class="text-muted text-decoration-none">${esc(source)}</a>
+                                <i class="bi bi-box-arrow-up-right ms-1" style="font-size:.65rem;"></i>
+                            </div>` : ''}
+                        </div>
+                    </div>
+                    ${snippet ? `
+                    <details class="mt-2">
+                        <summary class="text-muted" style="cursor:pointer; font-size:.78rem; user-select:none;">
+                            <i class="bi bi-code-slash me-1"></i>Source context
+                        </summary>
+                        <pre class="bg-dark text-light snippet-block rounded p-2 mt-2 mb-0">${esc(snippet)}</pre>
+                    </details>` : ''}
+                </div>`;
+            return div;
+        }
+
+        // ── Status filter ────────────────────────────────────────────────────────
+        function cardMatchesFilter(card, filter) {
+            if (filter === 'all') return true;
+            const s = card.dataset.status || '';
+            if (filter === 'other') return s !== '403' && s !== '404';
+            return s === filter;
+        }
+
+        function applyFilter(filter, updateState = true) {
+            if (updateState) activeFilter = filter;
+
+            // Toggle button active states
+            ['all','403','404','other'].forEach(f => {
+                const btn = el('filter-' + f);
+                if (!btn) return;
+                const isActive = f === filter;
+                btn.classList.toggle('active', isActive);
+                // Swap between solid and outline variants
+                const solid   = f === '403' ? 'btn-warning' : f === '404' ? 'btn-danger' : f === 'other' ? 'btn-secondary' : 'btn-danger';
+                const outline = f === '403' ? 'btn-outline-warning' : f === '404' ? 'btn-outline-danger' : f === 'other' ? 'btn-outline-secondary' : 'btn-outline-danger';
+                btn.classList.toggle(solid,   isActive);
+                btn.classList.toggle(outline, !isActive);
+            });
+
+            // Show/hide cards in all four list containers
+            ['allList','linksList','imagesList','pdfsList'].forEach(listId => {
+                const list = el(listId);
+                if (!list) return;
+                list.querySelectorAll('.broken-item').forEach(card => {
+                    card.style.display = cardMatchesFilter(card, filter) ? '' : 'none';
+                });
+            });
+        }
+
+        // ── Export CSV ──────────────────────────────────────────────────────────
+        function exportCsv() {
+            const rows = [['Type', 'Status', 'Status Text', 'Broken URL', 'Found On']];
+            allResults.forEach(r => rows.push([r.type, r.status, r.statusText, r.url, r.source || '']));
+            const csv = rows.map(r => r.map(c => `"${String(c||'').replace(/"/g,'""')}"`).join(',')).join('\n');
+            const a = Object.assign(document.createElement('a'), {
+                href: URL.createObjectURL(new Blob([csv], { type: 'text/csv' })),
+                download: 'broken_links.csv'
+            });
+            a.click();
+        }
+
+        // ── Helpers ──────────────────────────────────────────────────────────────
+        function setProgress(state) {
+            const bar = el('progressBar');
+            const cls = {
+                running: 'progress-bar progress-bar-striped progress-bar-animated bg-danger',
+                success: 'progress-bar bg-success',
+                failure: 'progress-bar bg-danger',
+                stopped: 'progress-bar bg-warning'
+            };
+            const lbl = { running: 'Scanning…', success: 'Done', failure: 'Failed', stopped: 'Stopped' };
+            bar.className = cls[state]; bar.style.width = '100%'; bar.textContent = lbl[state];
+        }
+
+        function appendLog(line) {
+            const log = el('scraperLog');
+            log.textContent += line + '\n';
+            log.scrollTop = log.scrollHeight;
+        }
+
+        function el(id)   { return document.getElementById(id); }
+        function show(id) { el(id).style.removeProperty('display'); }
+        function hide(id) { el(id).style.display = 'none'; }
+        function esc(str) {
+            return (str || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+        }
+
+        el('urlInput').addEventListener('keydown', e => { if (e.key === 'Enter') startCheck(); });
+    </script>
+</body>
+</html>

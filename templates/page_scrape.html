@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="data:,">
-    <title>Single Site Scrape — CCSD</title>
+    <title>Page Scrape — CCSD</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
     <style>
@@ -12,9 +12,29 @@
         .img-thumb { width: 56px; height: 56px; object-fit: cover; border-radius: 4px; background: #eee; flex-shrink: 0; }
         .img-thumb-broken { width: 56px; height: 56px; display:flex; align-items:center; justify-content:center; background:#f8f9fa; border-radius:4px; color:#adb5bd; flex-shrink:0; }
         .tracker-badge { font-size: 0.72rem; padding: 0.25em 0.55em; }
-        .copy-btn { min-width: 96px; }
-        #scraperLog { height: 190px; overflow-y: auto; font-size: 0.76rem; white-space: pre-wrap; word-break: break-all; }
+        #scraperLog { height: 140px; overflow-y: auto; font-size: 0.76rem; white-space: pre-wrap; word-break: break-all; }
         .tab-count { transition: all .2s; }
+
+        @media print {
+            nav, #configCard, #progressCard, #actionBtns,
+            .nav-tabs, .tab-count, .copy-btn, .img-download-btn { display: none !important; }
+
+            .tab-pane { display: block !important; opacity: 1 !important; page-break-inside: avoid; }
+            .tab-pane + .tab-pane { margin-top: 1.5rem; border-top: 1px solid #dee2e6; padding-top: 1rem; }
+
+            #resultsCard { border: none !important; box-shadow: none !important; }
+            #resultsCard .card-header { background: #fff !important; color: #000 !important; border-bottom: 2px solid #000 !important; }
+
+            .print-section-title { display: block !important; font-weight: bold; font-size: 1rem; margin: 0.75rem 0 0.4rem; color: #000; }
+
+            a { color: #000 !important; text-decoration: underline !important; }
+            body { font-size: 11px; }
+
+            #printHeader { display: block !important; }
+        }
+
+        #printHeader { display: none; }
+        .print-section-title { display: none; }
     </style>
 </head>
 <body>
@@ -29,12 +49,12 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" href="/single-scrape">
+                        <a class="nav-link" href="/single-scrape">
                             <i class="bi bi-search"></i> Single Site
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/page-scrape">
+                        <a class="nav-link active" href="/page-scrape">
                             <i class="bi bi-file-earmark-text"></i> Page Scrape
                         </a>
                     </li>
@@ -61,19 +81,19 @@
             <div class="col-lg-10">
 
                 <div class="mb-4">
-                    <h4><i class="bi bi-search me-2"></i>Single Site Scrape</h4>
-                    <p class="text-muted mb-0">Enter any URL to crawl it within its domain. Collects PDFs, Google Sites links, all page HTML, images, and analytics/tracking scripts.</p>
+                    <h4><i class="bi bi-file-earmark-text me-2"></i>Page Scrape</h4>
+                    <p class="text-muted mb-0">Enter a single page URL to extract all links, PDFs, Google Sites references, images, and analytics/tracking scripts found on that page.</p>
                 </div>
 
                 <!-- Config card -->
-                <div class="card mb-4">
+                <div class="card mb-4" id="configCard">
                     <div class="card-body">
                         <div class="mb-3">
-                            <label class="form-label fw-semibold">Website URL</label>
+                            <label class="form-label fw-semibold">Page URL</label>
                             <div class="input-group">
                                 <span class="input-group-text"><i class="bi bi-globe"></i></span>
                                 <input type="url" class="form-control form-control-lg" id="urlInput"
-                                       placeholder="https://example.com" autocomplete="off">
+                                       placeholder="https://example.com/page" autocomplete="off">
                                 <div class="invalid-feedback">Please enter a valid URL starting with http:// or https://</div>
                             </div>
                         </div>
@@ -110,9 +130,9 @@
                             </div>
                         </div>
 
-                        <div class="d-flex gap-2">
+                        <div class="d-flex gap-2" id="actionBtns">
                             <button class="btn btn-primary px-4" id="startBtn" onclick="startScrape()">
-                                <i class="bi bi-play-fill me-1"></i> Start Scrape
+                                <i class="bi bi-play-fill me-1"></i> Scrape Page
                             </button>
                             <button class="btn btn-outline-secondary" id="stopBtn" onclick="stopScrape()" disabled>
                                 <i class="bi bi-stop-fill me-1"></i> Stop
@@ -125,36 +145,44 @@
                 <div class="card mb-4" id="progressCard" style="display:none;">
                     <div class="card-header d-flex justify-content-between align-items-center">
                         <span class="fw-semibold"><i class="bi bi-activity me-2"></i>Progress</span>
-                        <small id="pageCounter" class="text-muted">0 pages crawled</small>
+                        <div class="d-flex gap-2 text-nowrap" style="font-size:0.78rem;">
+                            <span class="text-primary"   title="Links">    <i class="bi bi-link-45deg"></i> <span id="cntLinks">0</span></span>
+                            <span class="text-danger"    title="PDFs">     <i class="bi bi-file-earmark-pdf"></i> <span id="cntPdf">0</span></span>
+                            <span class="text-secondary" title="Google Sites"><i class="bi bi-grid"></i> <span id="cntSites">0</span></span>
+                            <span class="text-info"      title="Images">   <i class="bi bi-image"></i> <span id="cntImages">0</span></span>
+                            <span class="text-warning"   title="Trackers"> <i class="bi bi-shield-check"></i> <span id="cntTrackers">0</span></span>
+                        </div>
                     </div>
                     <div class="card-body pb-2">
-                        <div class="d-flex justify-content-between align-items-center mb-1">
-                            <small id="statusText" class="text-muted text-truncate me-2" style="max-width:70%;">Starting...</small>
-                            <div class="d-flex gap-2 text-nowrap" style="font-size:0.78rem;">
-                                <span class="text-primary"  title="Links">   <i class="bi bi-link-45deg"></i> <span id="cntLinks">0</span></span>
-                                <span class="text-danger"   title="PDFs">    <i class="bi bi-file-earmark-pdf"></i> <span id="cntPdf">0</span></span>
-                                <span class="text-secondary" title="Google Sites"><i class="bi bi-grid"></i> <span id="cntSites">0</span></span>
-                                <span class="text-info"     title="Images">  <i class="bi bi-image"></i> <span id="cntImages">0</span></span>
-                                <span class="text-warning"  title="Trackers"><i class="bi bi-shield-check"></i> <span id="cntTrackers">0</span></span>
-                            </div>
-                        </div>
                         <div class="progress mb-3" style="height:20px;">
-                            <div id="progressBar" class="progress-bar progress-bar-striped progress-bar-animated bg-primary" style="width:100%">Scanning...</div>
+                            <div id="progressBar" class="progress-bar progress-bar-striped progress-bar-animated bg-primary" style="width:100%">Fetching page…</div>
                         </div>
                         <div id="scraperLog" class="bg-dark text-success rounded p-3 font-monospace"></div>
                     </div>
                 </div>
 
+                <!-- Print header (only visible when printing) -->
+                <div id="printHeader">
+                    <h5 id="printUrl" class="mb-1"></h5>
+                    <p class="text-muted mb-3" style="font-size:0.85rem;" id="printSummary"></p>
+                </div>
+
                 <!-- Results card with tabs -->
                 <div class="card" id="resultsCard" style="display:none;">
-                    <div class="card-header d-flex justify-content-between align-items-center">
+                    <div class="card-header d-flex justify-content-between align-items-center flex-wrap gap-2">
                         <span class="fw-semibold"><i class="bi bi-list-ul me-2"></i>Results</span>
-                        <div id="exportBtns" class="d-flex gap-2" style="display:none!important;">
-                            <button class="btn btn-sm btn-outline-success" onclick="exportCsv()">
+                        <div class="d-flex gap-2 flex-wrap" id="resultActionBtns" style="display:none!important;">
+                            <button class="btn btn-sm btn-outline-secondary" id="copyHtmlBtn" onclick="copyPageHtml(this)">
+                                <i class="bi bi-clipboard me-1"></i>Copy HTML
+                            </button>
+                            <button class="btn btn-sm btn-outline-success" id="exportCsvBtn" onclick="exportCsv()">
                                 <i class="bi bi-download me-1"></i>Export CSV
                             </button>
-                            <button class="btn btn-sm btn-success" onclick="exportPdfsExcel()" id="exportExcelBtn" style="display:none;">
+                            <button class="btn btn-sm btn-success" id="exportExcelBtn" onclick="exportPdfsExcel()" style="display:none;">
                                 <i class="bi bi-file-earmark-excel me-1"></i>Export PDFs to Excel
+                            </button>
+                            <button class="btn btn-sm btn-outline-danger" id="exportPdfBtn" onclick="exportPdf()">
+                                <i class="bi bi-file-earmark-pdf me-1"></i>Export PDF
                             </button>
                         </div>
                     </div>
@@ -162,7 +190,7 @@
                         <ul class="nav nav-tabs px-3 pt-2" id="resultTabs">
                             <li class="nav-item">
                                 <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#tabLinks">
-                                    <i class="bi bi-link-45deg me-1"></i>All Links
+                                    <i class="bi bi-link-45deg me-1"></i>Links on Page
                                     <span class="badge bg-primary result-tab-badge ms-1 tab-count" id="badgeLinks">0</span>
                                 </button>
                             </li>
@@ -194,17 +222,19 @@
 
                         <div class="tab-content p-3">
 
-                            <!-- All Links tab -->
+                            <!-- Links on Page tab -->
                             <div class="tab-pane fade show active" id="tabLinks">
-                                <p class="text-muted small mb-2">Every page crawled within the target domain. Click <strong>Copy HTML</strong> to copy the full source of that page to your clipboard.</p>
+                                <span class="print-section-title">Links on Page</span>
+                                <p class="text-muted small mb-2">All outbound links found on this page.</p>
                                 <div id="linksList"></div>
                                 <div class="text-center text-muted py-4" id="linksEmpty">
-                                    <i class="bi bi-hourglass-split"></i> No pages crawled yet.
+                                    <i class="bi bi-hourglass-split"></i> No links found yet.
                                 </div>
                             </div>
 
                             <!-- PDFs tab -->
                             <div class="tab-pane fade" id="tabPdf">
+                                <span class="print-section-title">PDFs</span>
                                 <div id="pdfList"></div>
                                 <div class="text-center text-muted py-4" id="pdfEmpty">
                                     <i class="bi bi-inbox"></i> No PDFs found.
@@ -213,6 +243,7 @@
 
                             <!-- Google Sites tab -->
                             <div class="tab-pane fade" id="tabSites">
+                                <span class="print-section-title">Google Sites</span>
                                 <div id="sitesList"></div>
                                 <div class="text-center text-muted py-4" id="sitesEmpty">
                                     <i class="bi bi-inbox"></i> No Google Sites links found.
@@ -221,6 +252,7 @@
 
                             <!-- Images tab -->
                             <div class="tab-pane fade" id="tabImages">
+                                <span class="print-section-title">Images</span>
                                 <div id="imagesList"></div>
                                 <div class="text-center text-muted py-4" id="imagesEmpty">
                                     <i class="bi bi-inbox"></i> No images found.
@@ -229,7 +261,8 @@
 
                             <!-- Scripts & Tracking tab -->
                             <div class="tab-pane fade" id="tabTracking">
-                                <p class="text-muted small mb-2">Analytics, pixels, and third-party tracking scripts detected on the crawled pages.</p>
+                                <span class="print-section-title">Scripts &amp; Tracking</span>
+                                <p class="text-muted small mb-2">Analytics, pixels, and third-party tracking scripts detected on this page.</p>
                                 <div id="trackingList"></div>
                                 <div class="text-center text-muted py-4" id="trackingEmpty">
                                     <i class="bi bi-inbox"></i> No tracking scripts detected.
@@ -246,12 +279,14 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-        let evtSource     = null;
-        let pdfResults    = [];
-        let sitesResults  = [];
-        let linksResults  = [];
-        let imagesResults = [];
+        let evtSource      = null;
+        let pdfResults     = [];
+        let sitesResults   = [];
+        let linksResults   = [];
+        let imagesResults  = [];
         let trackerResults = [];
+        let scrapedUrl     = '';
+        let pageTitle      = '';
 
         // ── Start / Stop ────────────────────────────────────────────────────────
         function startScrape() {
@@ -259,6 +294,7 @@
             const url = urlInput.value.trim();
             if (!url.match(/^https?:\/\/.+/)) { urlInput.classList.add('is-invalid'); return; }
             urlInput.classList.remove('is-invalid');
+            scrapedUrl = url;
 
             const findPdf      = document.getElementById('findPdf').checked;
             const findSites    = document.getElementById('findSites').checked;
@@ -268,23 +304,23 @@
             // Reset
             pdfResults = []; sitesResults = []; linksResults = [];
             imagesResults = []; trackerResults = [];
+            pageTitle = '';
 
             ['linksList','pdfList','sitesList','imagesList','trackingList'].forEach(id => el(id).innerHTML = '');
             ['linksEmpty','pdfEmpty','sitesEmpty','imagesEmpty','trackingEmpty'].forEach(id => show(id));
             ['badgeLinks','badgePdf','badgeSites','badgeImages','badgeTracking'].forEach(id => el(id).textContent = '0');
             ['cntLinks','cntPdf','cntSites','cntImages','cntTrackers'].forEach(id => el(id).textContent = '0');
             el('scraperLog').textContent = '';
-            el('statusText').textContent = 'Starting...';
-            el('pageCounter').textContent = '0 pages crawled';
             setProgress('running');
             show('progressCard');
             hide('resultsCard');
-            el('exportBtns').style.display = 'none';
+            el('resultActionBtns').style.removeProperty('display');
+            el('resultActionBtns').style.display = 'none';
             el('startBtn').disabled = true;
             el('stopBtn').disabled  = false;
 
             const params = new URLSearchParams({ url, pdf: findPdf, sites: findSites, images: findImages, tracking: findTracking });
-            evtSource = new EventSource(`/api/single-scrape?${params}`);
+            evtSource = new EventSource(`/api/page-scrape?${params}`);
 
             evtSource.onmessage = function(e) {
                 const msg = e.data;
@@ -292,20 +328,14 @@
                 if (msg === '__SUCCESS__')         { finish(true);  return; }
                 if (msg.startsWith('__FAILURE__')) { appendLog('ERROR: ' + msg.slice(11).trim()); finish(false); return; }
 
-                // Structured messages
-                if (msg.startsWith('PAGE: ')) {
-                    el('pageCounter').textContent = msg.slice(6) + ' pages crawled';
-                    return;
-                }
+                if (msg.startsWith('PAGEINFO: ')) { handlePageInfo(msg.slice(10)); return; }
                 if (msg.startsWith('LINK: '))     { handleLink(msg.slice(6));     return; }
-                if (msg.startsWith('PDF: '))       { handlePdf(msg.slice(5));      return; }
-                if (msg.startsWith('SITE: '))      { handleSite(msg.slice(6));     return; }
-                if (msg.startsWith('IMG: '))       { handleImage(msg.slice(5));    return; }
-                if (msg.startsWith('TRACKER: '))   { handleTracker(msg.slice(9));  return; }
+                if (msg.startsWith('PDF: '))      { handlePdf(msg.slice(5));      return; }
+                if (msg.startsWith('SITE: '))     { handleSite(msg.slice(6));     return; }
+                if (msg.startsWith('IMG: '))      { handleImage(msg.slice(5));    return; }
+                if (msg.startsWith('TRACKER: '))  { handleTracker(msg.slice(9));  return; }
 
-                // Plain log line
                 appendLog(msg);
-                el('statusText').textContent = msg.length > 90 ? msg.slice(0, 90) + '…' : msg;
             };
 
             evtSource.onerror = function() { evtSource.close(); appendLog('Connection lost.'); finish(false); };
@@ -327,43 +357,58 @@
 
             show('resultsCard');
             const hasAny = pdfResults.length || sitesResults.length || linksResults.length || imagesResults.length || trackerResults.length;
-            if (hasAny) el('exportBtns').style.display = '';
+            if (hasAny) {
+                el('resultActionBtns').style.display = '';
+                updatePrintHeader();
+            }
             if (pdfResults.length) el('exportExcelBtn').style.removeProperty('display');
             else el('exportExcelBtn').style.display = 'none';
         }
 
         // ── Message handlers ────────────────────────────────────────────────────
+        function handlePageInfo(payload) {
+            const pipe = payload.indexOf('|');
+            pageTitle = pipe >= 0 ? payload.slice(pipe + 1) : payload;
+        }
+
         function handleLink(payload) {
-            const pipe  = payload.indexOf('|');
-            const url   = pipe >= 0 ? payload.slice(0, pipe) : payload;
-            const title = pipe >= 0 ? payload.slice(pipe + 1) : '';
-            linksResults.push({ url, title });
+            const pipe     = payload.indexOf('|');
+            const url      = pipe >= 0 ? payload.slice(0, pipe) : payload;
+            const linkText = pipe >= 0 ? payload.slice(pipe + 1) : '';
+            linksResults.push({ url, linkText });
             updateCount('cntLinks', 'badgeLinks', linksResults.length);
             hide('linksEmpty');
             show('resultsCard');
 
             const row = document.createElement('div');
-            row.className = 'border-bottom pb-2 mb-2 d-flex justify-content-between align-items-start gap-2';
+            row.className = 'border-bottom pb-2 mb-2';
             row.innerHTML = `
-                <div style="min-width:0;">
-                    <div><a href="${esc(url)}" target="_blank" class="text-decoration-none text-primary fw-semibold small">${esc(url)}</a>
-                         <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:.7rem;"></i></div>
-                    ${title ? `<div class="text-muted" style="font-size:.78rem;">${esc(title)}</div>` : ''}
+                <div>
+                    <a href="${esc(url)}" target="_blank" class="text-decoration-none text-primary fw-semibold small">${esc(url)}</a>
+                    <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:.7rem;"></i>
                 </div>
-                <button class="btn btn-sm btn-outline-secondary copy-btn flex-shrink-0"
-                        onclick="copyHtml(this,'${esc(url)}')" title="Copy page HTML">
-                    <i class="bi bi-clipboard me-1"></i>Copy HTML
-                </button>`;
+                ${linkText ? `<div class="text-muted" style="font-size:.78rem;">${esc(linkText)}</div>` : ''}`;
             el('linksList').appendChild(row);
         }
 
         function handlePdf(payload) {
-            const [url, src] = splitOne(payload);
-            pdfResults.push({ url, source: src });
+            const [url, displayName] = splitOne(payload);
+            pdfResults.push({ url, displayName });
             updateCount('cntPdf', 'badgePdf', pdfResults.length);
             hide('pdfEmpty');
-            addUrlRow('pdfList', url, src, 'danger', 'bi-file-earmark-pdf');
             show('resultsCard');
+
+            const label = displayName && !displayName.startsWith('http') ? displayName : (url.split('/').pop().split('?')[0] || url);
+            const row = document.createElement('div');
+            row.className = 'border-bottom pb-2 mb-2';
+            row.innerHTML = `
+                <div>
+                    <i class="bi bi-file-earmark-pdf text-danger me-1"></i>
+                    <a href="${esc(url)}" target="_blank" class="text-decoration-none text-danger" style="font-size:.85rem;">${esc(label)}</a>
+                    <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:.7rem;"></i>
+                </div>
+                <small class="text-muted text-break">${esc(url)}</small>`;
+            el('pdfList').appendChild(row);
         }
 
         function handleSite(payload) {
@@ -392,17 +437,17 @@
                         <a href="${esc(imgUrl)}" target="_blank" class="text-decoration-none text-info">${esc(imgUrl)}</a>
                         <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:.7rem;"></i>
                     </div>
-                    ${srcPage ? `<small class="text-muted">Found on: <a href="${esc(srcPage)}" target="_blank" class="text-decoration-none text-muted">${esc(srcPage)}</a></small>` : ''}
                 </div>
-                <a class="btn btn-sm btn-outline-info flex-shrink-0" href="/api/download-image?url=${encodeURIComponent(imgUrl)}" download title="Download image">
+                <a class="btn btn-sm btn-outline-info flex-shrink-0 img-download-btn"
+                   href="/api/download-image?url=${encodeURIComponent(imgUrl)}" download title="Download image">
                     <i class="bi bi-download"></i>
                 </a>`;
             el('imagesList').appendChild(row);
         }
 
         function handleTracker(payload) {
-            const pipe   = payload.indexOf('|');
-            const name   = pipe >= 0 ? payload.slice(0, pipe) : payload;
+            const pipe    = payload.indexOf('|');
+            const name    = pipe >= 0 ? payload.slice(0, pipe) : payload;
             const srcPage = pipe >= 0 ? payload.slice(pipe + 1) : '';
             trackerResults.push({ name, source: srcPage });
             updateCount('cntTrackers', 'badgeTracking', trackerResults.length);
@@ -421,20 +466,17 @@
             }
 
             const row = document.createElement('div');
-            row.className = 'border-bottom pb-2 mb-2 d-flex align-items-start gap-2';
-            row.innerHTML = `
-                <span class="badge bg-${color} tracker-badge mt-1">${esc(name)}</span>
-                <div style="font-size:.82rem;">
-                    ${srcPage ? `<span class="text-muted">Detected on: <a href="${esc(srcPage)}" target="_blank" class="text-decoration-none text-muted">${esc(srcPage)}</a></span>` : ''}
-                </div>`;
+            row.className = 'border-bottom pb-2 mb-2';
+            row.innerHTML = `<span class="badge bg-${color} tracker-badge">${esc(name)}</span>`;
             el('trackingList').appendChild(row);
         }
 
         // ── Copy HTML ───────────────────────────────────────────────────────────
-        function copyHtml(btn, url) {
+        function copyPageHtml(btn) {
+            if (!scrapedUrl) return;
             btn.disabled = true;
             btn.innerHTML = '<span class="spinner-border spinner-border-sm me-1"></span>Copying…';
-            fetch('/api/page-html?url=' + encodeURIComponent(url))
+            fetch('/api/page-html?url=' + encodeURIComponent(scrapedUrl))
                 .then(r => r.json())
                 .then(data => {
                     if (!data.found || !data.html) throw new Error('HTML not available');
@@ -449,7 +491,7 @@
                         btn.disabled = false;
                     }, 2500);
                 })
-                .catch(err => {
+                .catch(() => {
                     btn.innerHTML = '<i class="bi bi-exclamation-triangle me-1"></i>Failed';
                     btn.classList.replace('btn-outline-secondary', 'btn-danger');
                     setTimeout(() => {
@@ -462,16 +504,16 @@
 
         // ── Export CSV ──────────────────────────────────────────────────────────
         function exportCsv() {
-            const rows = [['Type', 'URL', 'Title / Name', 'Found On']];
-            linksResults.forEach(r  => rows.push(['Link',         r.url, r.title,  '']));
-            pdfResults.forEach(r    => rows.push(['PDF',          r.url, '',        r.source]));
-            sitesResults.forEach(r  => rows.push(['Google Site',  r.url, '',        r.source]));
-            imagesResults.forEach(r => rows.push(['Image',        r.url, '',        r.source]));
-            trackerResults.forEach(r => rows.push(['Tracker',     '',    r.name,    r.source]));
+            const rows = [['Type', 'URL', 'Link Text / Name']];
+            linksResults.forEach(r   => rows.push(['Link',        r.url, r.linkText]));
+            pdfResults.forEach(r     => rows.push(['PDF',         r.url, r.displayName || '']));
+            sitesResults.forEach(r   => rows.push(['Google Site', r.url, '']));
+            imagesResults.forEach(r  => rows.push(['Image',       r.url, '']));
+            trackerResults.forEach(r => rows.push(['Tracker',     '',    r.name]));
             const csv = rows.map(r => r.map(c => `"${(c||'').replace(/"/g,'""')}"`).join(',')).join('\n');
             const a = Object.assign(document.createElement('a'), {
                 href: URL.createObjectURL(new Blob([csv], {type:'text/csv'})),
-                download: 'scrape_results.csv'
+                download: 'page_scrape_results.csv'
             });
             a.click();
         }
@@ -479,20 +521,37 @@
         // ── Export PDFs to Excel ─────────────────────────────────────────────────
         function exportPdfsExcel() {
             if (!pdfResults.length) return;
-            const pdfs = pdfResults.map(r => ({ url: r.url, label: r.source || '' }));
+            const pdfs = pdfResults.map(r => ({ url: r.url, label: r.displayName || '' }));
             fetch('/api/export/scrape-pdfs', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ pdfs, col_label: 'Found On', download_name: 'single_site_pdfs.xlsx' }),
+                body: JSON.stringify({ pdfs, col_label: 'File Name', download_name: 'page_pdfs.xlsx' }),
             })
             .then(r => r.blob())
             .then(blob => {
                 const a = Object.assign(document.createElement('a'), {
                     href: URL.createObjectURL(blob),
-                    download: 'single_site_pdfs.xlsx',
+                    download: 'page_pdfs.xlsx',
                 });
                 a.click();
             });
+        }
+
+        // ── Export PDF (browser print) ───────────────────────────────────────────
+        function exportPdf() {
+            updatePrintHeader();
+            window.print();
+        }
+
+        function updatePrintHeader() {
+            el('printUrl').textContent = pageTitle ? `${pageTitle} — ${scrapedUrl}` : scrapedUrl;
+            const parts = [];
+            if (linksResults.length)   parts.push(`${linksResults.length} link(s)`);
+            if (pdfResults.length)     parts.push(`${pdfResults.length} PDF(s)`);
+            if (sitesResults.length)   parts.push(`${sitesResults.length} Google Sites`);
+            if (imagesResults.length)  parts.push(`${imagesResults.length} image(s)`);
+            if (trackerResults.length) parts.push(`${trackerResults.length} tracker(s)`);
+            el('printSummary').textContent = parts.join(' · ');
         }
 
         // ── Helpers ──────────────────────────────────────────────────────────────
@@ -504,8 +563,7 @@
                     <i class="bi ${icon} text-${color} me-1"></i>
                     <a href="${esc(url)}" target="_blank" class="text-decoration-none text-${color}" style="font-size:.85rem;">${esc(url)}</a>
                     <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:.7rem;"></i>
-                </div>
-                ${srcPage ? `<small class="text-muted">Found on: <a href="${esc(srcPage)}" target="_blank" class="text-decoration-none text-muted">${esc(srcPage)}</a></small>` : ''}`;
+                </div>`;
             el(containerId).appendChild(row);
         }
 
@@ -528,7 +586,7 @@
         function setProgress(state) {
             const bar = el('progressBar');
             const cls = { running:'progress-bar progress-bar-striped progress-bar-animated bg-primary', success:'progress-bar bg-success', failure:'progress-bar bg-danger', stopped:'progress-bar bg-warning' };
-            const lbl = { running:'Scanning...', success:'Done', failure:'Failed', stopped:'Stopped' };
+            const lbl = { running:'Fetching page…', success:'Done', failure:'Failed', stopped:'Stopped' };
             bar.className = cls[state]; bar.style.width = '100%'; bar.textContent = lbl[state];
         }
 
