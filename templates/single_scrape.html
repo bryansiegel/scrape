@@ -106,6 +106,12 @@
                                             <i class="bi bi-shield-check text-warning me-1"></i>Scripts &amp; Tracking
                                         </label>
                                     </div>
+                                    <div class="form-check form-switch">
+                                        <input class="form-check-input" type="checkbox" id="findExternal" checked>
+                                        <label class="form-check-label" for="findExternal">
+                                            <i class="bi bi-box-arrow-up-right text-success me-1"></i>External Links
+                                        </label>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -136,6 +142,7 @@
                                 <span class="text-secondary" title="Google Sites"><i class="bi bi-grid"></i> <span id="cntSites">0</span></span>
                                 <span class="text-info"     title="Images">  <i class="bi bi-image"></i> <span id="cntImages">0</span></span>
                                 <span class="text-warning"  title="Trackers"><i class="bi bi-shield-check"></i> <span id="cntTrackers">0</span></span>
+                                <span class="text-success"  title="External Links"><i class="bi bi-box-arrow-up-right"></i> <span id="cntExternal">0</span></span>
                             </div>
                         </div>
                         <div class="progress mb-3" style="height:20px;">
@@ -190,6 +197,12 @@
                                     <span class="badge bg-warning text-dark result-tab-badge ms-1 tab-count" id="badgeTracking">0</span>
                                 </button>
                             </li>
+                            <li class="nav-item">
+                                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tabExternal">
+                                    <i class="bi bi-box-arrow-up-right me-1"></i>External Links
+                                    <span class="badge bg-success result-tab-badge ms-1 tab-count" id="badgeExternal">0</span>
+                                </button>
+                            </li>
                         </ul>
 
                         <div class="tab-content p-3">
@@ -236,6 +249,26 @@
                                 </div>
                             </div>
 
+                            <!-- External Links tab -->
+                            <div class="tab-pane fade" id="tabExternal">
+                                <p class="text-muted small mb-2">Links pointing to other websites, found on the crawled pages. A <span class="badge bg-danger" style="font-size:.65rem;">nofollow</span> badge means the link's source code marks it with <code>rel="nofollow"</code>.</p>
+                                <div class="btn-group btn-group-sm mb-3" role="group" id="externalFilter">
+                                    <button type="button" class="btn btn-outline-secondary active" data-filter="all" onclick="setExternalFilter('all')">
+                                        All <span class="badge bg-secondary ms-1" id="filterCountAll">0</span>
+                                    </button>
+                                    <button type="button" class="btn btn-outline-secondary" data-filter="ccsd" onclick="setExternalFilter('ccsd')">
+                                        ccsd.net <span class="badge bg-secondary ms-1" id="filterCountCcsd">0</span>
+                                    </button>
+                                    <button type="button" class="btn btn-outline-secondary" data-filter="other" onclick="setExternalFilter('other')">
+                                        Other <span class="badge bg-secondary ms-1" id="filterCountOther">0</span>
+                                    </button>
+                                </div>
+                                <div id="externalList"></div>
+                                <div class="text-center text-muted py-4" id="externalEmpty">
+                                    <i class="bi bi-inbox"></i> No external links found.
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -252,6 +285,8 @@
         let linksResults  = [];
         let imagesResults = [];
         let trackerResults = [];
+        let externalResults = [];
+        let externalFilter = 'all';
 
         // ── Start / Stop ────────────────────────────────────────────────────────
         function startScrape() {
@@ -264,15 +299,19 @@
             const findSites    = document.getElementById('findSites').checked;
             const findImages   = document.getElementById('findImages').checked;
             const findTracking = document.getElementById('findTracking').checked;
+            const findExternal = document.getElementById('findExternal').checked;
 
             // Reset
             pdfResults = []; sitesResults = []; linksResults = [];
-            imagesResults = []; trackerResults = [];
+            imagesResults = []; trackerResults = []; externalResults = [];
+            externalFilter = 'all';
+            document.querySelectorAll('#externalFilter button').forEach(b => b.classList.toggle('active', b.dataset.filter === 'all'));
 
-            ['linksList','pdfList','sitesList','imagesList','trackingList'].forEach(id => el(id).innerHTML = '');
-            ['linksEmpty','pdfEmpty','sitesEmpty','imagesEmpty','trackingEmpty'].forEach(id => show(id));
-            ['badgeLinks','badgePdf','badgeSites','badgeImages','badgeTracking'].forEach(id => el(id).textContent = '0');
-            ['cntLinks','cntPdf','cntSites','cntImages','cntTrackers'].forEach(id => el(id).textContent = '0');
+            ['linksList','pdfList','sitesList','imagesList','trackingList','externalList'].forEach(id => el(id).innerHTML = '');
+            ['linksEmpty','pdfEmpty','sitesEmpty','imagesEmpty','trackingEmpty','externalEmpty'].forEach(id => show(id));
+            ['badgeLinks','badgePdf','badgeSites','badgeImages','badgeTracking','badgeExternal'].forEach(id => el(id).textContent = '0');
+            ['cntLinks','cntPdf','cntSites','cntImages','cntTrackers','cntExternal'].forEach(id => el(id).textContent = '0');
+            ['filterCountAll','filterCountCcsd','filterCountOther'].forEach(id => el(id).textContent = '0');
             el('scraperLog').textContent = '';
             el('statusText').textContent = 'Starting...';
             el('pageCounter').textContent = '0 pages crawled';
@@ -283,7 +322,7 @@
             el('startBtn').disabled = true;
             el('stopBtn').disabled  = false;
 
-            const params = new URLSearchParams({ url, pdf: findPdf, sites: findSites, images: findImages, tracking: findTracking });
+            const params = new URLSearchParams({ url, pdf: findPdf, sites: findSites, images: findImages, tracking: findTracking, external: findExternal });
             evtSource = new EventSource(`/api/single-scrape?${params}`);
 
             evtSource.onmessage = function(e) {
@@ -302,6 +341,7 @@
                 if (msg.startsWith('SITE: '))      { handleSite(msg.slice(6));     return; }
                 if (msg.startsWith('IMG: '))       { handleImage(msg.slice(5));    return; }
                 if (msg.startsWith('TRACKER: '))   { handleTracker(msg.slice(9));  return; }
+                if (msg.startsWith('EXTERNAL: ')) { handleExternal(msg.slice(10)); return; }
 
                 // Plain log line
                 appendLog(msg);
@@ -326,7 +366,7 @@
             else                        setProgress('stopped');
 
             show('resultsCard');
-            const hasAny = pdfResults.length || sitesResults.length || linksResults.length || imagesResults.length || trackerResults.length;
+            const hasAny = pdfResults.length || sitesResults.length || linksResults.length || imagesResults.length || trackerResults.length || externalResults.length;
             if (hasAny) el('exportBtns').style.display = '';
             if (pdfResults.length) el('exportExcelBtn').style.removeProperty('display');
             else el('exportExcelBtn').style.display = 'none';
@@ -430,6 +470,53 @@
             el('trackingList').appendChild(row);
         }
 
+        function handleExternal(payload) {
+            const parts    = payload.split('|');
+            const url      = parts[0] || '';
+            const srcPage  = parts[1] || '';
+            const nofollow = parts[2] === '1';
+            const isCcsd   = parts[3] === '1';
+            externalResults.push({ url, source: srcPage, nofollow, isCcsd });
+            updateCount('cntExternal', 'badgeExternal', externalResults.length);
+            hide('externalEmpty');
+            show('resultsCard');
+            updateExternalFilterCounts();
+
+            const row = document.createElement('div');
+            row.className = 'border-bottom pb-2 mb-2';
+            row.dataset.domainType = isCcsd ? 'ccsd' : 'other';
+            if (externalFilter !== 'all' && externalFilter !== row.dataset.domainType) row.style.display = 'none';
+            row.innerHTML = `
+                <div>
+                    <i class="bi bi-box-arrow-up-right text-success me-1"></i>
+                    <a href="${esc(url)}" target="_blank" class="text-decoration-none text-success" style="font-size:.85rem;">${esc(url)}</a>
+                    ${isCcsd
+                        ? '<span class="badge bg-primary ms-2" style="font-size:.65rem;">ccsd.net</span>'
+                        : '<span class="badge bg-dark ms-2" style="font-size:.65rem;">other</span>'}
+                    ${nofollow
+                        ? '<span class="badge bg-danger ms-2" style="font-size:.65rem;">nofollow</span>'
+                        : '<span class="badge bg-light text-muted border ms-2" style="font-size:.65rem;">follow</span>'}
+                </div>
+                ${srcPage ? `<small class="text-muted">Found on: <a href="${esc(srcPage)}" target="_blank" class="text-decoration-none text-muted">${esc(srcPage)}</a></small>` : ''}`;
+            el('externalList').appendChild(row);
+        }
+
+        function updateExternalFilterCounts() {
+            const ccsdCount  = externalResults.filter(r => r.isCcsd).length;
+            const otherCount = externalResults.length - ccsdCount;
+            el('filterCountAll').textContent   = externalResults.length;
+            el('filterCountCcsd').textContent  = ccsdCount;
+            el('filterCountOther').textContent = otherCount;
+        }
+
+        function setExternalFilter(filter) {
+            externalFilter = filter;
+            document.querySelectorAll('#externalFilter button').forEach(b => b.classList.toggle('active', b.dataset.filter === filter));
+            document.querySelectorAll('#externalList > div').forEach(row => {
+                row.style.display = (filter === 'all' || row.dataset.domainType === filter) ? '' : 'none';
+            });
+        }
+
         // ── Copy HTML ───────────────────────────────────────────────────────────
         function copyHtml(btn, url) {
             btn.disabled = true;
@@ -468,6 +555,7 @@
             sitesResults.forEach(r  => rows.push(['Google Site',  r.url, '',        r.source]));
             imagesResults.forEach(r => rows.push(['Image',        r.url, '',        r.source]));
             trackerResults.forEach(r => rows.push(['Tracker',     '',    r.name,    r.source]));
+            externalResults.forEach(r => rows.push(['External Link', r.url, `${r.isCcsd ? 'ccsd.net' : 'other'} / ${r.nofollow ? 'nofollow' : 'follow'}`, r.source]));
             const csv = rows.map(r => r.map(c => `"${(c||'').replace(/"/g,'""')}"`).join(',')).join('\n');
             const a = Object.assign(document.createElement('a'), {
                 href: URL.createObjectURL(new Blob([csv], {type:'text/csv'})),

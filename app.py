@@ -620,6 +620,7 @@ def run_single_scrape():
     find_sites    = request.args.get('sites', 'true').lower() == 'true'
     find_images   = request.args.get('images', 'true').lower() == 'true'
     find_tracking = request.args.get('tracking', 'true').lower() == 'true'
+    find_external = request.args.get('external', 'true').lower() == 'true'
 
     def err(msg):
         yield f"data: {msg}\n\n"
@@ -639,7 +640,7 @@ def run_single_scrape():
         _html_cache = {}  # clear previous scrape
 
         parsed_start = urlparse(url)
-        base_domain  = parsed_start.netloc
+        base_domain  = parsed_start.netloc.lower().removeprefix('www.')
 
         visited        = set()
         queue          = deque([url])
@@ -647,6 +648,7 @@ def run_single_scrape():
         found_sites    = set()
         found_images   = set()
         found_trackers = set()  # "tracker_name|page_url" keys to dedupe per-page
+        found_externals = set()
         pages_crawled  = 0
 
         yield f"data: Starting crawl of {url}\n\n"
@@ -702,9 +704,18 @@ def run_single_scrape():
                         found_sites.add(full)
                         yield f"data: SITE: {full}|{current}\n\n"
 
-                    link_domain = urlparse(full).netloc
-                    if link_domain == base_domain and full not in visited:
-                        queue.append(full)
+                    link_domain = urlparse(full).netloc.lower().removeprefix('www.')
+                    if link_domain == base_domain:
+                        if full not in visited:
+                            queue.append(full)
+                    elif find_external and full not in found_externals:
+                        found_externals.add(full)
+                        rel = a.get('rel') or []
+                        if isinstance(rel, str):
+                            rel = rel.split()
+                        nofollow = 'nofollow' in [r.lower() for r in rel]
+                        is_ccsd = link_domain == 'ccsd.net' or link_domain.endswith('.ccsd.net')
+                        yield f"data: EXTERNAL: {full}|{current}|{1 if nofollow else 0}|{1 if is_ccsd else 0}\n\n"
 
                 # Collect images
                 if find_images:
@@ -749,7 +760,8 @@ def run_single_scrape():
         yield (
             f"data: Done. {pages_crawled} page(s) crawled. "
             f"{len(found_pdfs)} PDF(s), {len(found_sites)} Google Sites, "
-            f"{len(found_images)} image(s), {len(found_trackers)} tracker(s) found.\n\n"
+            f"{len(found_images)} image(s), {len(found_trackers)} tracker(s), "
+            f"{len(found_externals)} external link(s) found.\n\n"
         )
         yield "data: __SUCCESS__\n\n"
 

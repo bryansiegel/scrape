@@ -14,7 +14,11 @@
       "Bash(mysqldump -u root -padvanced scrape)",
       "Bash(.venv/bin/pip install *)",
       "Bash(python3 -m pip install python-dotenv -q)",
-      "Bash(python3 *)"
+      "Bash(python3 *)",
+      "Bash(find / -maxdepth 4 -iname \"site-packages\")",
+      "Bash(pip show *)",
+      "Bash(node -e \"require\\('fs'\\).readFileSync\\('templates/single_scrape.html','utf8'\\)\")",
+      "Bash(node --check /tmp/single_scrape_script.js)"
     ],
     "deny": []
   }
