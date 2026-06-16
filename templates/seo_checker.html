@@ -1,0 +1,1032 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="data:,">
+    <title>SEO Checker — CCSD</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+    <style>
+        .result-tab-badge { font-size: 0.7rem; vertical-align: middle; }
+        .img-thumb { width: 56px; height: 56px; object-fit: cover; border-radius: 4px; background: #eee; flex-shrink: 0; }
+        .img-thumb-broken { width: 56px; height: 56px; display:flex; align-items:center; justify-content:center; background:#f8f9fa; border-radius:4px; color:#adb5bd; flex-shrink:0; }
+        .tracker-badge { font-size: 0.72rem; padding: 0.25em 0.55em; }
+        #scraperLog { height: 190px; overflow-y: auto; font-size: 0.76rem; white-space: pre-wrap; word-break: break-all; }
+        .tab-count { transition: all .2s; }
+        .broken-item { border-left: 3px solid #dc3545; }
+        .broken-item.type-image { border-left-color: #fd7e14; }
+        .broken-item.type-pdf   { border-left-color: #6c757d; }
+        .spell-item { border-left: 3px solid #ffc107; }
+        .snippet-block { max-height: 160px; overflow-y: auto; font-size: 0.72rem; white-space: pre-wrap; word-break: break-all; }
+        details > summary { list-style: none; cursor: pointer; user-select: none; }
+        details > summary::-webkit-details-marker { display: none; }
+        details > summary::before { content: "▶ "; font-size: .65rem; }
+        details[open] > summary::before { content: "▼ "; }
+        .page-card .text-danger.small { font-weight: 600; }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <i class="bi bi-database"></i> CCSD Website Database
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/single-scrape">
+                            <i class="bi bi-search"></i> Single Site
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/page-scrape">
+                            <i class="bi bi-file-earmark-text"></i> Page Scrape
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/broken-link-checker">
+                            <i class="bi bi-exclamation-triangle"></i> Broken Links
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/seo-checker">
+                            <i class="bi bi-clipboard-check"></i> SEO Checker
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                            <i class="bi bi-spider"></i> Scrape
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-end">
+                            <li><a class="dropdown-item" href="/"><i class="bi bi-database me-2"></i>Database View</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4 pb-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+
+                <div class="mb-4">
+                    <h4><i class="bi bi-clipboard-check me-2"></i>SEO Checker</h4>
+                    <p class="text-muted mb-0">Crawl a page or an entire site to review titles, meta descriptions, image alt tags, spelling, tracking scripts, and broken links/images/PDFs all in one pass.</p>
+                </div>
+
+                <!-- Config card -->
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Website URL</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="bi bi-globe"></i></span>
+                                <input type="url" class="form-control form-control-lg" id="urlInput"
+                                       placeholder="https://example.com" autocomplete="off">
+                                <div class="invalid-feedback">Please enter a valid URL starting with http:// or https://</div>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Scope</label>
+                            <div class="d-flex flex-wrap gap-3 mt-1">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="mode" id="modePage" value="page">
+                                    <label class="form-check-label" for="modePage">
+                                        <i class="bi bi-file-earmark-text text-primary me-1"></i>Single page only
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="mode" id="modeSite" value="site" checked>
+                                    <label class="form-check-label" for="modeSite">
+                                        <i class="bi bi-globe text-success me-1"></i>Crawl entire site (same domain)
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">What to find</label>
+                            <div class="d-flex flex-wrap gap-3 mt-1">
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" id="findPdf" checked>
+                                    <label class="form-check-label" for="findPdf">
+                                        <i class="bi bi-file-earmark-pdf text-danger me-1"></i>PDFs
+                                    </label>
+                                </div>
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" id="findSites" checked>
+                                    <label class="form-check-label" for="findSites">
+                                        <i class="bi bi-grid text-secondary me-1"></i>Google Sites
+                                    </label>
+                                </div>
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" id="findExternal" checked>
+                                    <label class="form-check-label" for="findExternal">
+                                        <i class="bi bi-box-arrow-up-right text-success me-1"></i>External Links
+                                    </label>
+                                </div>
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" id="findTracking" checked>
+                                    <label class="form-check-label" for="findTracking">
+                                        <i class="bi bi-shield-check text-warning me-1"></i>Scripts &amp; Tracking
+                                    </label>
+                                </div>
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" id="findAlt" checked>
+                                    <label class="form-check-label" for="findAlt">
+                                        <i class="bi bi-image text-info me-1"></i>Image Alt Tags
+                                    </label>
+                                </div>
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" id="findSpell" checked>
+                                    <label class="form-check-label" for="findSpell">
+                                        <i class="bi bi-spellcheck text-primary me-1"></i>Spell Check
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Broken link checking</label>
+                            <div class="d-flex flex-wrap gap-3 mt-1">
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" id="checkExternalStatus">
+                                    <label class="form-check-label" for="checkExternalStatus">
+                                        <i class="bi bi-box-arrow-up-right text-secondary me-1"></i>Check external link status
+                                    </label>
+                                </div>
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" id="checkSocial">
+                                    <label class="form-check-label" for="checkSocial">
+                                        <i class="bi bi-share text-primary me-1"></i>Social media
+                                        <span class="badge bg-light text-muted border ms-1" style="font-size:.65rem;">404 only</span>
+                                    </label>
+                                </div>
+                            </div>
+                            <small class="text-muted d-block mt-1">Internal links, images, and PDFs are always checked for broken status.</small>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">AI Suggestions (Ollama)</label>
+                            <div class="d-flex flex-wrap align-items-center gap-3 mt-1">
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" id="findAi" checked>
+                                    <label class="form-check-label" for="findAi">
+                                        <i class="bi bi-stars text-primary me-1"></i>Suggest title &amp; meta description
+                                    </label>
+                                </div>
+                                <div class="input-group input-group-sm" style="max-width:260px;">
+                                    <span class="input-group-text">Model override</span>
+                                    <input type="text" class="form-control" id="ollamaModel" placeholder="auto-detect">
+                                </div>
+                            </div>
+                            <small class="text-muted d-block mt-1">
+                                Uses whatever model is currently loaded in your local Ollama instance (<code>localhost:11434</code>) — no need to specify one. Leave the override blank unless you want to force a specific model.
+                                <span id="ollamaDetected" class="d-block mt-1">Checking for a running Ollama instance...</span>
+                            </small>
+                        </div>
+
+                        <div class="d-flex gap-2">
+                            <button class="btn btn-primary px-4" id="startBtn" onclick="startCheck()">
+                                <i class="bi bi-play-fill me-1"></i> Start Check
+                            </button>
+                            <button class="btn btn-outline-secondary" id="stopBtn" onclick="stopCheck()" disabled>
+                                <i class="bi bi-stop-fill me-1"></i> Stop
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Progress card -->
+                <div class="card mb-4" id="progressCard" style="display:none;">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span class="fw-semibold"><i class="bi bi-activity me-2"></i>Progress</span>
+                        <small id="pageCounter" class="text-muted">0 pages crawled</small>
+                    </div>
+                    <div class="card-body pb-2">
+                        <div class="d-flex justify-content-between align-items-center mb-1 flex-wrap gap-2">
+                            <small id="statusText" class="text-muted text-truncate me-2" style="max-width:70%;">Starting...</small>
+                            <div class="d-flex gap-2 text-nowrap flex-wrap" style="font-size:0.78rem;">
+                                <span class="text-primary"   title="Pages">    <i class="bi bi-file-earmark-text"></i> <span id="cntPages">0</span></span>
+                                <span class="text-danger"    title="PDFs">     <i class="bi bi-file-earmark-pdf"></i> <span id="cntPdf">0</span></span>
+                                <span class="text-secondary" title="Google Sites"><i class="bi bi-grid"></i> <span id="cntSites">0</span></span>
+                                <span class="text-success"   title="External Links"><i class="bi bi-box-arrow-up-right"></i> <span id="cntExternal">0</span></span>
+                                <span class="text-warning"   title="Trackers"> <i class="bi bi-shield-check"></i> <span id="cntTrackers">0</span></span>
+                                <span class="text-info"      title="Images">  <i class="bi bi-image"></i> <span id="cntImages">0</span></span>
+                                <span class="text-primary"   title="Spelling issues"><i class="bi bi-spellcheck"></i> <span id="cntSpell">0</span></span>
+                                <span class="text-primary"   title="AI suggestions"><i class="bi bi-stars"></i> <span id="cntAi">0</span></span>
+                                <span class="text-danger fw-semibold" title="Broken resources"><i class="bi bi-exclamation-circle"></i> <span id="cntBroken">0</span></span>
+                            </div>
+                        </div>
+                        <div class="progress mb-3" style="height:20px;">
+                            <div id="progressBar" class="progress-bar progress-bar-striped progress-bar-animated bg-primary" style="width:100%">Scanning...</div>
+                        </div>
+                        <div id="scraperLog" class="bg-dark text-success rounded p-3 font-monospace"></div>
+                    </div>
+                </div>
+
+                <!-- Results card with tabs -->
+                <div class="card" id="resultsCard" style="display:none;">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span class="fw-semibold"><i class="bi bi-list-ul me-2"></i>Results</span>
+                        <button class="btn btn-sm btn-outline-success" id="exportCsvBtn" onclick="exportCsv()" style="display:none;">
+                            <i class="bi bi-download me-1"></i>Export CSV
+                        </button>
+                    </div>
+                    <div class="card-body p-0">
+                        <ul class="nav nav-tabs px-3 pt-2 flex-nowrap overflow-auto" id="resultTabs">
+                            <li class="nav-item">
+                                <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#tabPages">
+                                    <i class="bi bi-file-earmark-text me-1"></i>Pages
+                                    <span class="badge bg-primary result-tab-badge ms-1 tab-count" id="badgePages">0</span>
+                                </button>
+                            </li>
+                            <li class="nav-item">
+                                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tabAi">
+                                    <i class="bi bi-stars me-1"></i>AI Suggestions
+                                    <span class="badge bg-primary result-tab-badge ms-1 tab-count" id="badgeAi">0</span>
+                                </button>
+                            </li>
+                            <li class="nav-item">
+                                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tabPdf">
+                                    <i class="bi bi-file-earmark-pdf me-1"></i>PDFs
+                                    <span class="badge bg-danger result-tab-badge ms-1 tab-count" id="badgePdf">0</span>
+                                </button>
+                            </li>
+                            <li class="nav-item">
+                                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tabSites">
+                                    <i class="bi bi-grid me-1"></i>Google Sites
+                                    <span class="badge bg-secondary result-tab-badge ms-1 tab-count" id="badgeSites">0</span>
+                                </button>
+                            </li>
+                            <li class="nav-item">
+                                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tabExternal">
+                                    <i class="bi bi-box-arrow-up-right me-1"></i>External Links
+                                    <span class="badge bg-success result-tab-badge ms-1 tab-count" id="badgeExternal">0</span>
+                                </button>
+                            </li>
+                            <li class="nav-item">
+                                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tabTracking">
+                                    <i class="bi bi-shield-check me-1"></i>Scripts &amp; Tracking
+                                    <span class="badge bg-warning text-dark result-tab-badge ms-1 tab-count" id="badgeTracking">0</span>
+                                </button>
+                            </li>
+                            <li class="nav-item">
+                                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tabAlt">
+                                    <i class="bi bi-image me-1"></i>Image Alt Tags
+                                    <span class="badge bg-info result-tab-badge ms-1 tab-count" id="badgeAlt">0</span>
+                                </button>
+                            </li>
+                            <li class="nav-item">
+                                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tabSpell">
+                                    <i class="bi bi-spellcheck me-1"></i>Spelling
+                                    <span class="badge bg-primary result-tab-badge ms-1 tab-count" id="badgeSpell">0</span>
+                                </button>
+                            </li>
+                            <li class="nav-item">
+                                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tabBroken">
+                                    <i class="bi bi-exclamation-circle me-1"></i>Broken Resources
+                                    <span class="badge bg-danger result-tab-badge ms-1 tab-count" id="badgeBroken">0</span>
+                                </button>
+                            </li>
+                        </ul>
+
+                        <div class="tab-content p-3">
+
+                            <!-- Pages tab -->
+                            <div class="tab-pane fade show active" id="tabPages">
+                                <p class="text-muted small mb-2">Every page crawled, with its <code>&lt;title&gt;</code> and meta description.</p>
+                                <div id="pagesList"></div>
+                                <div class="text-center text-muted py-4" id="pagesEmpty">
+                                    <i class="bi bi-hourglass-split"></i> No pages crawled yet.
+                                </div>
+                            </div>
+
+                            <!-- AI Suggestions tab -->
+                            <div class="tab-pane fade" id="tabAi">
+                                <p class="text-muted small mb-2">Ollama-generated title &amp; meta description suggestions, based on the actual scraped page content — compared against what's currently on the page.</p>
+                                <div id="aiList"></div>
+                                <div class="text-center text-muted py-4" id="aiEmpty">
+                                    <i class="bi bi-inbox"></i> No AI suggestions yet.
+                                </div>
+                            </div>
+
+                            <!-- PDFs tab -->
+                            <div class="tab-pane fade" id="tabPdf">
+                                <div id="pdfList"></div>
+                                <div class="text-center text-muted py-4" id="pdfEmpty">
+                                    <i class="bi bi-inbox"></i> No PDFs found.
+                                </div>
+                            </div>
+
+                            <!-- Google Sites tab -->
+                            <div class="tab-pane fade" id="tabSites">
+                                <div id="sitesList"></div>
+                                <div class="text-center text-muted py-4" id="sitesEmpty">
+                                    <i class="bi bi-inbox"></i> No Google Sites links found.
+                                </div>
+                            </div>
+
+                            <!-- External Links tab -->
+                            <div class="tab-pane fade" id="tabExternal">
+                                <p class="text-muted small mb-2">Links pointing to other websites. A <span class="badge bg-danger" style="font-size:.65rem;">nofollow</span> badge means the link's source code marks it with <code>rel="nofollow"</code>.</p>
+                                <div class="btn-group btn-group-sm mb-3" role="group" id="externalFilter">
+                                    <button type="button" class="btn btn-outline-secondary active" data-filter="all" onclick="setExternalFilter('all')">
+                                        All <span class="badge bg-secondary ms-1" id="filterCountAll">0</span>
+                                    </button>
+                                    <button type="button" class="btn btn-outline-secondary" data-filter="ccsd" onclick="setExternalFilter('ccsd')">
+                                        ccsd.net <span class="badge bg-secondary ms-1" id="filterCountCcsd">0</span>
+                                    </button>
+                                    <button type="button" class="btn btn-outline-secondary" data-filter="other" onclick="setExternalFilter('other')">
+                                        Other <span class="badge bg-secondary ms-1" id="filterCountOther">0</span>
+                                    </button>
+                                </div>
+                                <div id="externalList"></div>
+                                <div class="text-center text-muted py-4" id="externalEmpty">
+                                    <i class="bi bi-inbox"></i> No external links found.
+                                </div>
+                            </div>
+
+                            <!-- Scripts & Tracking tab -->
+                            <div class="tab-pane fade" id="tabTracking">
+                                <p class="text-muted small mb-2">Analytics, pixels, and third-party tracking scripts detected on the crawled pages.</p>
+                                <div id="trackingList"></div>
+                                <div class="text-center text-muted py-4" id="trackingEmpty">
+                                    <i class="bi bi-inbox"></i> No tracking scripts detected.
+                                </div>
+                            </div>
+
+                            <!-- Image Alt Tags tab -->
+                            <div class="tab-pane fade" id="tabAlt">
+                                <p class="text-muted small mb-2">Every image found, with its alt text (or a flag if it's missing).</p>
+                                <div class="btn-group btn-group-sm mb-3" role="group" id="altFilter">
+                                    <button type="button" class="btn btn-outline-secondary active" data-filter="all" onclick="setAltFilter('all')">
+                                        All <span class="badge bg-secondary ms-1" id="altCountAll">0</span>
+                                    </button>
+                                    <button type="button" class="btn btn-outline-secondary" data-filter="has" onclick="setAltFilter('has')">
+                                        Has Alt Tag <span class="badge bg-secondary ms-1" id="altCountHas">0</span>
+                                    </button>
+                                    <button type="button" class="btn btn-outline-secondary" data-filter="missing" onclick="setAltFilter('missing')">
+                                        Missing Alt Tag <span class="badge bg-secondary ms-1" id="altCountMissing">0</span>
+                                    </button>
+                                </div>
+                                <div id="altList"></div>
+                                <div class="text-center text-muted py-4" id="altEmpty">
+                                    <i class="bi bi-inbox"></i> No images found.
+                                </div>
+                            </div>
+
+                            <!-- Spelling tab -->
+                            <div class="tab-pane fade" id="tabSpell">
+                                <p class="text-muted small mb-3">Possible spelling errors found in the page content. Proper nouns and acronyms (capitalized words) are skipped to reduce false positives. Expand <strong>Source context</strong> to see exactly where it appears.</p>
+                                <div id="spellList"></div>
+                                <div class="text-center text-muted py-4" id="spellEmpty">
+                                    <i class="bi bi-check-circle text-success"></i> No spelling issues found.
+                                </div>
+                            </div>
+
+                            <!-- Broken Resources tab -->
+                            <div class="tab-pane fade" id="tabBroken">
+                                <p class="text-muted small mb-3">Every broken link, image, or PDF found. Expand <strong>Source context</strong> to see the HTML element where the broken reference appears.</p>
+                                <div class="d-flex flex-wrap gap-2 mb-3">
+                                    <div class="btn-group btn-group-sm" role="group" id="brokenTypeFilter">
+                                        <button type="button" class="btn btn-danger active" data-type="all" onclick="setBrokenTypeFilter('all')">
+                                            All <span class="badge bg-white text-danger ms-1" id="btypeCountAll">0</span>
+                                        </button>
+                                        <button type="button" class="btn btn-outline-danger" data-type="link" onclick="setBrokenTypeFilter('link')">
+                                            Links <span class="badge bg-danger ms-1" id="btypeCountLink">0</span>
+                                        </button>
+                                        <button type="button" class="btn btn-outline-warning" data-type="image" onclick="setBrokenTypeFilter('image')">
+                                            Images <span class="badge bg-warning text-dark ms-1" id="btypeCountImage">0</span>
+                                        </button>
+                                        <button type="button" class="btn btn-outline-secondary" data-type="pdf" onclick="setBrokenTypeFilter('pdf')">
+                                            PDFs <span class="badge bg-secondary ms-1" id="btypeCountPdf">0</span>
+                                        </button>
+                                    </div>
+                                    <div class="btn-group btn-group-sm" role="group" id="brokenStatusFilter">
+                                        <button type="button" class="btn btn-danger active" data-status="all" onclick="setBrokenStatusFilter('all')">
+                                            All <span class="badge bg-white text-danger ms-1" id="bstatusCountAll">0</span>
+                                        </button>
+                                        <button type="button" class="btn btn-outline-warning" data-status="403" onclick="setBrokenStatusFilter('403')">
+                                            403 <span class="badge bg-warning text-dark ms-1" id="bstatusCount403">0</span>
+                                        </button>
+                                        <button type="button" class="btn btn-outline-danger" data-status="404" onclick="setBrokenStatusFilter('404')">
+                                            404 <span class="badge bg-danger ms-1" id="bstatusCount404">0</span>
+                                        </button>
+                                        <button type="button" class="btn btn-outline-secondary" data-status="other" onclick="setBrokenStatusFilter('other')">
+                                            Other <span class="badge bg-secondary ms-1" id="bstatusCountOther">0</span>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div id="brokenList"></div>
+                                <div class="text-center text-muted py-4" id="brokenEmpty">
+                                    <i class="bi bi-check-circle text-success"></i> No broken resources found.
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let evtSource       = null;
+        let pagesResults    = [];
+        let aiResults       = [];
+        let pdfResults      = [];
+        let sitesResults    = [];
+        let externalResults = [];
+        let trackerResults  = [];
+        let altResults      = [];
+        let spellResults    = [];
+        let brokenResults   = [];
+
+        let externalFilter    = 'all';
+        let altFilter          = 'all';
+        let brokenTypeFilter   = 'all';
+        let brokenStatusFilter = 'all';
+
+        // ── Start / Stop ────────────────────────────────────────────────────────
+        function startCheck() {
+            const urlInput = document.getElementById('urlInput');
+            const url = urlInput.value.trim();
+            if (!url.match(/^https?:\/\/.+/)) { urlInput.classList.add('is-invalid'); return; }
+            urlInput.classList.remove('is-invalid');
+
+            const mode               = document.querySelector('input[name="mode"]:checked').value;
+            const findPdf             = document.getElementById('findPdf').checked;
+            const findSites           = document.getElementById('findSites').checked;
+            const findExternal        = document.getElementById('findExternal').checked;
+            const findTracking        = document.getElementById('findTracking').checked;
+            const findAlt             = document.getElementById('findAlt').checked;
+            const findSpell           = document.getElementById('findSpell').checked;
+            const findAi              = document.getElementById('findAi').checked;
+            const ollamaModel         = document.getElementById('ollamaModel').value.trim();
+            const checkExternalStatus = document.getElementById('checkExternalStatus').checked;
+            const checkSocial         = document.getElementById('checkSocial').checked;
+
+            // Reset state
+            pagesResults = []; aiResults = []; pdfResults = []; sitesResults = []; externalResults = [];
+            trackerResults = []; altResults = []; spellResults = []; brokenResults = [];
+            externalFilter = 'all'; altFilter = 'all'; brokenTypeFilter = 'all'; brokenStatusFilter = 'all';
+
+            ['pagesList','aiList','pdfList','sitesList','externalList','trackingList','altList','spellList','brokenList']
+                .forEach(id => el(id).innerHTML = '');
+            ['pagesEmpty','aiEmpty','pdfEmpty','sitesEmpty','externalEmpty','trackingEmpty','altEmpty','spellEmpty','brokenEmpty']
+                .forEach(id => show(id));
+            ['badgePages','badgeAi','badgePdf','badgeSites','badgeExternal','badgeTracking','badgeAlt','badgeSpell','badgeBroken']
+                .forEach(id => el(id).textContent = '0');
+            ['cntPages','cntPdf','cntSites','cntExternal','cntTrackers','cntImages','cntSpell','cntAi','cntBroken']
+                .forEach(id => el(id).textContent = '0');
+            ['filterCountAll','filterCountCcsd','filterCountOther'].forEach(id => el(id).textContent = '0');
+            ['altCountAll','altCountHas','altCountMissing'].forEach(id => el(id).textContent = '0');
+            ['btypeCountAll','btypeCountLink','btypeCountImage','btypeCountPdf'].forEach(id => el(id).textContent = '0');
+            ['bstatusCountAll','bstatusCount403','bstatusCount404','bstatusCountOther'].forEach(id => el(id).textContent = '0');
+            document.querySelectorAll('#externalFilter button').forEach(b => b.classList.toggle('active', b.dataset.filter === 'all'));
+            document.querySelectorAll('#altFilter button').forEach(b => b.classList.toggle('active', b.dataset.filter === 'all'));
+            resetBrokenFilterButtons();
+
+            el('scraperLog').textContent = '';
+            el('statusText').textContent = 'Starting...';
+            el('pageCounter').textContent = '0 pages crawled';
+            setProgress('running');
+            show('progressCard');
+            hide('resultsCard');
+            el('exportCsvBtn').style.display = 'none';
+            el('startBtn').disabled = true;
+            el('stopBtn').disabled  = false;
+
+            const params = new URLSearchParams({
+                url, mode,
+                pdf: findPdf, sites: findSites, external: findExternal, tracking: findTracking,
+                alt: findAlt, spell: findSpell, ai: findAi, model: ollamaModel,
+                check_external: checkExternalStatus, social: checkSocial,
+            });
+            evtSource = new EventSource(`/api/seo-check?${params}`);
+
+            evtSource.onmessage = function(e) {
+                const msg = e.data;
+
+                if (msg === '__SUCCESS__')         { finish(true);  return; }
+                if (msg.startsWith('__FAILURE__')) { appendLog('ERROR: ' + msg.slice(11).trim()); finish(false); return; }
+
+                if (msg.startsWith('PAGE: '))          { el('pageCounter').textContent = msg.slice(6) + ' pages crawled'; return; }
+                if (msg.startsWith('PAGEINFO: '))      { try { handlePageInfo(JSON.parse(msg.slice(10))); } catch(err) {} return; }
+                if (msg.startsWith('AISEO: '))          { try { handleAiSeo(JSON.parse(msg.slice(7))); } catch(err) {} return; }
+                if (msg.startsWith('PDF: '))            { handlePdf(msg.slice(5));      return; }
+                if (msg.startsWith('SITE: '))           { handleSite(msg.slice(6));     return; }
+                if (msg.startsWith('EXTERNAL: '))       { handleExternal(msg.slice(10)); return; }
+                if (msg.startsWith('TRACKER: '))        { handleTracker(msg.slice(9));  return; }
+                if (msg.startsWith('IMGALT: '))         { try { handleAlt(JSON.parse(msg.slice(8))); } catch(err) {} return; }
+                if (msg.startsWith('SPELL_COUNT: '))    { el('cntSpell').textContent = msg.slice(13); return; }
+                if (msg.startsWith('SPELL: '))          { try { handleSpell(JSON.parse(msg.slice(7))); } catch(err) {} return; }
+                if (msg.startsWith('CHECKING: ')) {
+                    const parts = msg.slice(10).split('|');
+                    el('statusText').textContent = 'Checking: ' + (parts[1] || '');
+                    return;
+                }
+                if (msg.startsWith('BROKEN_COUNT: ')) { el('cntBroken').textContent = msg.slice(14); return; }
+                if (msg.startsWith('BROKEN: '))       { try { handleBroken(JSON.parse(msg.slice(8))); } catch(err) {} return; }
+
+                appendLog(msg);
+                if (msg.trim()) el('statusText').textContent = msg.length > 100 ? msg.slice(0, 100) + '…' : msg;
+            };
+
+            evtSource.onerror = function() { evtSource.close(); appendLog('Connection lost.'); finish(false); };
+        }
+
+        function stopCheck() {
+            if (evtSource) { evtSource.close(); evtSource = null; }
+            appendLog('Stopped by user.');
+            finish(null);
+        }
+
+        function finish(success) {
+            if (evtSource) { evtSource.close(); evtSource = null; }
+            el('startBtn').disabled = false;
+            el('stopBtn').disabled  = true;
+            if (success === true)       setProgress('success');
+            else if (success === false) setProgress('failure');
+            else                        setProgress('stopped');
+
+            show('resultsCard');
+            const hasAny = pagesResults.length || aiResults.length || pdfResults.length || sitesResults.length ||
+                           externalResults.length || trackerResults.length || altResults.length ||
+                           spellResults.length || brokenResults.length;
+            if (hasAny) el('exportCsvBtn').style.removeProperty('display');
+        }
+
+        // ── Pages (title + meta description) ───────────────────────────────────
+        function handlePageInfo(data) {
+            const { url, title, description } = data;
+            pagesResults.push(data);
+            el('badgePages').textContent = pagesResults.length;
+            el('cntPages').textContent   = pagesResults.length;
+            hide('pagesEmpty');
+            show('resultsCard');
+
+            const row = document.createElement('div');
+            row.className = 'card page-card mb-2';
+            row.innerHTML = `
+                <div class="card-body p-3">
+                    <a href="${esc(url)}" target="_blank" class="text-decoration-none text-primary fw-semibold small">${esc(url)}</a>
+                    <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:.7rem;"></i>
+                    <div class="mt-1" style="font-size:.85rem;">
+                        ${title
+                            ? `<div><span class="text-muted">Title:</span> ${esc(title)}</div>`
+                            : `<div><span class="badge bg-danger" style="font-size:.65rem;">Missing title</span></div>`}
+                        ${description
+                            ? `<div class="text-muted">${esc(description)}</div>`
+                            : `<div><span class="badge bg-warning text-dark" style="font-size:.65rem;">Missing meta description</span></div>`}
+                    </div>
+                </div>`;
+            el('pagesList').appendChild(row);
+        }
+
+        // ── AI title/description suggestions (Ollama) ───────────────────────────
+        function handleAiSeo(data) {
+            const { url, currentTitle, currentDescription, suggestedTitle, suggestedDescription } = data;
+            aiResults.push(data);
+            el('badgeAi').textContent = aiResults.length;
+            el('cntAi').textContent   = aiResults.length;
+            hide('aiEmpty');
+            show('resultsCard');
+
+            const row = document.createElement('div');
+            row.className = 'card mb-2';
+            row.dataset.suggestedTitle       = suggestedTitle || '';
+            row.dataset.suggestedDescription = suggestedDescription || '';
+            row.innerHTML = `
+                <div class="card-body p-3">
+                    <a href="${esc(url)}" target="_blank" class="text-decoration-none text-primary fw-semibold small">${esc(url)}</a>
+                    <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:.7rem;"></i>
+                    <div class="row mt-2 g-2" style="font-size:.82rem;">
+                        <div class="col-md-6">
+                            <div class="text-muted small mb-1">Current</div>
+                            <div class="mb-1"><strong>Title:</strong> ${esc(currentTitle) || '<span class="text-danger">(missing)</span>'}</div>
+                            <div><strong>Description:</strong> ${esc(currentDescription) || '<span class="text-danger">(missing)</span>'}</div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="text-success small mb-1"><i class="bi bi-stars me-1"></i>Suggested</div>
+                            <div class="mb-1"><strong>Title:</strong> ${esc(suggestedTitle) || '<span class="text-muted">(no suggestion)</span>'}</div>
+                            <div><strong>Description:</strong> ${esc(suggestedDescription) || '<span class="text-muted">(no suggestion)</span>'}</div>
+                        </div>
+                    </div>
+                    <button class="btn btn-sm btn-outline-success mt-2" onclick="copyAiSuggestion(this)">
+                        <i class="bi bi-clipboard me-1"></i>Copy Suggestion
+                    </button>
+                </div>`;
+            el('aiList').appendChild(row);
+        }
+
+        function copyAiSuggestion(btn) {
+            const row = btn.closest('.card');
+            const text = `Title: ${row.dataset.suggestedTitle}\nDescription: ${row.dataset.suggestedDescription}`;
+            navigator.clipboard.writeText(text).then(() => {
+                btn.innerHTML = '<i class="bi bi-check2 me-1"></i>Copied!';
+                btn.classList.replace('btn-outline-success', 'btn-success');
+                setTimeout(() => {
+                    btn.innerHTML = '<i class="bi bi-clipboard me-1"></i>Copy Suggestion';
+                    btn.classList.replace('btn-success', 'btn-outline-success');
+                }, 2000);
+            });
+        }
+
+        // ── PDFs / Google Sites (shared simple row layout) ──────────────────────
+        function handlePdf(payload) {
+            const [url, src] = splitOne(payload);
+            pdfResults.push({ url, source: src });
+            el('badgePdf').textContent = pdfResults.length;
+            el('cntPdf').textContent   = pdfResults.length;
+            hide('pdfEmpty');
+            addUrlRow('pdfList', url, src, 'danger', 'bi-file-earmark-pdf');
+            show('resultsCard');
+        }
+
+        function handleSite(payload) {
+            const [url, src] = splitOne(payload);
+            sitesResults.push({ url, source: src });
+            el('badgeSites').textContent = sitesResults.length;
+            el('cntSites').textContent   = sitesResults.length;
+            hide('sitesEmpty');
+            addUrlRow('sitesList', url, src, 'secondary', 'bi-grid');
+            show('resultsCard');
+        }
+
+        // ── External Links (nofollow + ccsd.net filter) ─────────────────────────
+        function handleExternal(payload) {
+            const parts    = payload.split('|');
+            const url      = parts[0] || '';
+            const srcPage  = parts[1] || '';
+            const nofollow = parts[2] === '1';
+            const isCcsd   = parts[3] === '1';
+            externalResults.push({ url, source: srcPage, nofollow, isCcsd });
+            el('badgeExternal').textContent = externalResults.length;
+            el('cntExternal').textContent   = externalResults.length;
+            hide('externalEmpty');
+            show('resultsCard');
+            updateExternalFilterCounts();
+
+            const row = document.createElement('div');
+            row.className = 'border-bottom pb-2 mb-2';
+            row.dataset.domainType = isCcsd ? 'ccsd' : 'other';
+            if (externalFilter !== 'all' && externalFilter !== row.dataset.domainType) row.style.display = 'none';
+            row.innerHTML = `
+                <div>
+                    <i class="bi bi-box-arrow-up-right text-success me-1"></i>
+                    <a href="${esc(url)}" target="_blank" class="text-decoration-none text-success" style="font-size:.85rem;">${esc(url)}</a>
+                    ${isCcsd
+                        ? '<span class="badge bg-primary ms-2" style="font-size:.65rem;">ccsd.net</span>'
+                        : '<span class="badge bg-dark ms-2" style="font-size:.65rem;">other</span>'}
+                    ${nofollow
+                        ? '<span class="badge bg-danger ms-2" style="font-size:.65rem;">nofollow</span>'
+                        : '<span class="badge bg-light text-muted border ms-2" style="font-size:.65rem;">follow</span>'}
+                </div>
+                ${srcPage ? `<small class="text-muted">Found on: <a href="${esc(srcPage)}" target="_blank" class="text-decoration-none text-muted">${esc(srcPage)}</a></small>` : ''}`;
+            el('externalList').appendChild(row);
+        }
+
+        function updateExternalFilterCounts() {
+            const ccsdCount  = externalResults.filter(r => r.isCcsd).length;
+            el('filterCountAll').textContent   = externalResults.length;
+            el('filterCountCcsd').textContent  = ccsdCount;
+            el('filterCountOther').textContent = externalResults.length - ccsdCount;
+        }
+
+        function setExternalFilter(filter) {
+            externalFilter = filter;
+            document.querySelectorAll('#externalFilter button').forEach(b => b.classList.toggle('active', b.dataset.filter === filter));
+            document.querySelectorAll('#externalList > div').forEach(row => {
+                row.style.display = (filter === 'all' || row.dataset.domainType === filter) ? '' : 'none';
+            });
+        }
+
+        // ── Tracking ─────────────────────────────────────────────────────────────
+        function handleTracker(payload) {
+            const pipe    = payload.indexOf('|');
+            const name    = pipe >= 0 ? payload.slice(0, pipe) : payload;
+            const srcPage = pipe >= 0 ? payload.slice(pipe + 1) : '';
+            trackerResults.push({ name, source: srcPage });
+            el('badgeTracking').textContent = trackerResults.length;
+            el('cntTrackers').textContent   = trackerResults.length;
+            hide('trackingEmpty');
+            show('resultsCard');
+
+            const colorMap = {
+                'Google': 'danger', 'Facebook': 'primary', 'LinkedIn': 'primary',
+                'Twitter': 'dark', 'HotJar': 'warning', 'Microsoft': 'primary',
+                'TikTok': 'dark', 'Pinterest': 'danger', 'Snapchat': 'warning',
+                'Adobe': 'danger', 'Yandex': 'warning',
+            };
+            let color = 'secondary';
+            for (const [k, v] of Object.entries(colorMap)) {
+                if (name.startsWith(k)) { color = v; break; }
+            }
+
+            const row = document.createElement('div');
+            row.className = 'border-bottom pb-2 mb-2 d-flex align-items-start gap-2';
+            row.innerHTML = `
+                <span class="badge bg-${color} tracker-badge mt-1">${esc(name)}</span>
+                <div style="font-size:.82rem;">
+                    ${srcPage ? `<span class="text-muted">Detected on: <a href="${esc(srcPage)}" target="_blank" class="text-decoration-none text-muted">${esc(srcPage)}</a></span>` : ''}
+                </div>`;
+            el('trackingList').appendChild(row);
+        }
+
+        // ── Image Alt Tags ───────────────────────────────────────────────────────
+        function handleAlt(data) {
+            const { src, alt, hasAlt, source } = data;
+            altResults.push(data);
+            el('badgeAlt').textContent = altResults.length;
+            el('cntImages').textContent = altResults.length;
+            hide('altEmpty');
+            show('resultsCard');
+            updateAltFilterCounts();
+
+            const row = document.createElement('div');
+            row.className = 'border-bottom pb-2 mb-2 d-flex align-items-center gap-3';
+            row.dataset.altStatus = hasAlt ? 'has' : 'missing';
+            if (altFilter !== 'all' && altFilter !== row.dataset.altStatus) row.style.display = 'none';
+            row.innerHTML = `
+                <img src="${esc(src)}" class="img-thumb" alt=""
+                     onerror="this.outerHTML='<div class=\\'img-thumb-broken\\'><i class=\\'bi bi-image\\'></i></div>'">
+                <div style="min-width:0; flex:1;">
+                    <div class="text-break" style="font-size:.82rem;">
+                        <a href="${esc(src)}" target="_blank" class="text-decoration-none text-info">${esc(src)}</a>
+                        <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:.7rem;"></i>
+                    </div>
+                    <div>
+                        ${hasAlt
+                            ? `<span class="badge bg-success" style="font-size:.65rem;">alt: "${esc(alt)}"</span>`
+                            : `<span class="badge bg-danger" style="font-size:.65rem;">Missing alt tag</span>`}
+                    </div>
+                    ${source ? `<small class="text-muted">Found on: <a href="${esc(source)}" target="_blank" class="text-decoration-none text-muted">${esc(source)}</a></small>` : ''}
+                </div>`;
+            el('altList').appendChild(row);
+        }
+
+        function updateAltFilterCounts() {
+            const hasCount = altResults.filter(r => r.hasAlt).length;
+            el('altCountAll').textContent     = altResults.length;
+            el('altCountHas').textContent     = hasCount;
+            el('altCountMissing').textContent = altResults.length - hasCount;
+        }
+
+        function setAltFilter(filter) {
+            altFilter = filter;
+            document.querySelectorAll('#altFilter button').forEach(b => b.classList.toggle('active', b.dataset.filter === filter));
+            document.querySelectorAll('#altList > div').forEach(row => {
+                row.style.display = (filter === 'all' || row.dataset.altStatus === filter) ? '' : 'none';
+            });
+        }
+
+        // ── Spelling ─────────────────────────────────────────────────────────────
+        function handleSpell(data) {
+            const { word, suggestion, snippet, source } = data;
+            spellResults.push(data);
+            el('badgeSpell').textContent = spellResults.length;
+            hide('spellEmpty');
+            show('resultsCard');
+
+            const row = document.createElement('div');
+            row.className = 'card spell-item mb-3';
+            row.innerHTML = `
+                <div class="card-body p-3">
+                    <div class="d-flex align-items-start gap-2 flex-wrap">
+                        <span class="badge bg-warning text-dark mt-1" style="font-size:.75rem;"><i class="bi bi-spellcheck me-1"></i>${esc(word)}</span>
+                        ${suggestion ? `<span class="text-muted" style="font-size:.82rem;">Did you mean: <strong>${esc(suggestion)}</strong>?</span>` : ''}
+                    </div>
+                    ${source ? `<div class="text-muted mt-1" style="font-size:.78rem;">
+                        Found on: <a href="${esc(source)}" target="_blank" class="text-decoration-none text-muted">${esc(source)}</a>
+                        <i class="bi bi-box-arrow-up-right ms-1" style="font-size:.65rem;"></i>
+                    </div>` : ''}
+                    ${snippet ? `
+                    <details class="mt-2">
+                        <summary class="text-muted" style="font-size:.78rem;">
+                            <i class="bi bi-code-slash me-1"></i>Source context
+                        </summary>
+                        <pre class="bg-dark text-light snippet-block rounded p-2 mt-2 mb-0">${esc(snippet)}</pre>
+                    </details>` : ''}
+                </div>`;
+            el('spellList').appendChild(row);
+        }
+
+        // ── Broken Resources ─────────────────────────────────────────────────────
+        function handleBroken(data) {
+            const { type, status } = data;
+            brokenResults.push(data);
+            el('badgeBroken').textContent = brokenResults.length;
+            hide('brokenEmpty');
+            show('resultsCard');
+
+            const typeKey   = type === 'image' ? 'image' : type === 'pdf' ? 'pdf' : 'link';
+            const statusKey = (status === 403 || status === 404) ? String(status) : 'other';
+
+            el('btypeCountAll').textContent  = brokenResults.length;
+            el('btypeCountLink').textContent  = brokenResults.filter(r => (r.type !== 'image' && r.type !== 'pdf')).length;
+            el('btypeCountImage').textContent = brokenResults.filter(r => r.type === 'image').length;
+            el('btypeCountPdf').textContent   = brokenResults.filter(r => r.type === 'pdf').length;
+
+            el('bstatusCountAll').textContent   = brokenResults.length;
+            el('bstatusCount403').textContent   = brokenResults.filter(r => r.status === 403).length;
+            el('bstatusCount404').textContent   = brokenResults.filter(r => r.status === 404).length;
+            el('bstatusCountOther').textContent = brokenResults.filter(r => r.status !== 403 && r.status !== 404).length;
+
+            const card = buildBrokenCard(data, typeKey, statusKey);
+            const visible = (brokenTypeFilter === 'all' || brokenTypeFilter === typeKey) &&
+                            (brokenStatusFilter === 'all' || brokenStatusFilter === statusKey);
+            if (!visible) card.style.display = 'none';
+            el('brokenList').appendChild(card);
+        }
+
+        function buildBrokenCard(data, typeKey, statusKey) {
+            const { type, url, status, statusText, source, snippet } = data;
+
+            const statusColor = status === 0    ? 'secondary'
+                              : status === 404  ? 'danger'
+                              : status === 403  ? 'warning'
+                              : status >= 500   ? 'dark'
+                              : status >= 400   ? 'warning'
+                              : 'secondary';
+            const statusLabel = status === 0 ? statusText : `${status} ${statusText}`;
+
+            const typeColor = type === 'image' ? 'warning text-dark' : type === 'pdf' ? 'secondary' : 'danger';
+            const typeIcon  = type === 'image' ? 'bi-image' : type === 'pdf' ? 'bi-file-earmark-pdf' : 'bi-link-45deg';
+            const borderClass = type === 'image' ? 'type-image' : type === 'pdf' ? 'type-pdf' : '';
+
+            const div = document.createElement('div');
+            div.className = `card broken-item ${borderClass} mb-3`;
+            div.dataset.type   = typeKey;
+            div.dataset.status = statusKey;
+            div.innerHTML = `
+                <div class="card-body p-3">
+                    <div class="d-flex align-items-start gap-2 flex-wrap">
+                        <span class="badge bg-${statusColor} mt-1" style="font-size:.75rem;">${esc(statusLabel)}</span>
+                        <span class="badge bg-${typeColor} mt-1" style="font-size:.75rem;"><i class="bi ${typeIcon} me-1"></i>${esc(type)}</span>
+                        <div class="flex-grow-1" style="min-width:0;">
+                            <a href="${esc(url)}" target="_blank"
+                               class="text-decoration-none text-danger fw-semibold text-break"
+                               style="font-size:.85rem;">${esc(url)}</a>
+                            <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:.7rem;"></i>
+                            ${source ? `<div class="text-muted mt-1" style="font-size:.78rem;">
+                                Found on:
+                                <a href="${esc(source)}" target="_blank"
+                                   class="text-muted text-decoration-none">${esc(source)}</a>
+                                <i class="bi bi-box-arrow-up-right ms-1" style="font-size:.65rem;"></i>
+                            </div>` : ''}
+                        </div>
+                    </div>
+                    ${snippet ? `
+                    <details class="mt-2">
+                        <summary class="text-muted" style="font-size:.78rem;">
+                            <i class="bi bi-code-slash me-1"></i>Source context
+                        </summary>
+                        <pre class="bg-dark text-light snippet-block rounded p-2 mt-2 mb-0">${esc(snippet)}</pre>
+                    </details>` : ''}
+                </div>`;
+            return div;
+        }
+
+        function resetBrokenFilterButtons() {
+            document.querySelectorAll('#brokenTypeFilter button').forEach(b => {
+                const isActive = b.dataset.type === 'all';
+                b.classList.toggle('active', isActive);
+                b.classList.toggle('btn-danger', isActive);
+                b.classList.toggle('btn-outline-danger', !isActive && b.dataset.type === 'link');
+                b.classList.toggle('btn-outline-warning', !isActive && b.dataset.type === 'image');
+                b.classList.toggle('btn-outline-secondary', !isActive && b.dataset.type === 'pdf');
+            });
+            document.querySelectorAll('#brokenStatusFilter button').forEach(b => {
+                const isActive = b.dataset.status === 'all';
+                b.classList.toggle('active', isActive);
+                b.classList.toggle('btn-danger', isActive || b.dataset.status === '404');
+                b.classList.toggle('btn-outline-danger', !isActive && b.dataset.status === '404');
+                b.classList.toggle('btn-outline-warning', !isActive && b.dataset.status === '403');
+                b.classList.toggle('btn-outline-secondary', !isActive && b.dataset.status === 'other');
+            });
+        }
+
+        function applyBrokenFilters() {
+            document.querySelectorAll('#brokenList > div').forEach(card => {
+                const matchesType   = brokenTypeFilter === 'all' || card.dataset.type === brokenTypeFilter;
+                const matchesStatus = brokenStatusFilter === 'all' || card.dataset.status === brokenStatusFilter;
+                card.style.display = (matchesType && matchesStatus) ? '' : 'none';
+            });
+        }
+
+        function setBrokenTypeFilter(type) {
+            brokenTypeFilter = type;
+            document.querySelectorAll('#brokenTypeFilter button').forEach(b => {
+                const isActive = b.dataset.type === type;
+                b.classList.toggle('active', isActive);
+                const solid   = b.dataset.type === 'image' ? 'btn-warning' : b.dataset.type === 'pdf' ? 'btn-secondary' : 'btn-danger';
+                const outline = b.dataset.type === 'image' ? 'btn-outline-warning' : b.dataset.type === 'pdf' ? 'btn-outline-secondary' : 'btn-outline-danger';
+                b.classList.toggle(solid, isActive);
+                b.classList.toggle(outline, !isActive);
+            });
+            applyBrokenFilters();
+        }
+
+        function setBrokenStatusFilter(status) {
+            brokenStatusFilter = status;
+            document.querySelectorAll('#brokenStatusFilter button').forEach(b => {
+                const isActive = b.dataset.status === status;
+                b.classList.toggle('active', isActive);
+                const solid   = b.dataset.status === '403' ? 'btn-warning' : b.dataset.status === 'other' ? 'btn-secondary' : 'btn-danger';
+                const outline = b.dataset.status === '403' ? 'btn-outline-warning' : b.dataset.status === 'other' ? 'btn-outline-secondary' : 'btn-outline-danger';
+                b.classList.toggle(solid, isActive);
+                b.classList.toggle(outline, !isActive);
+            });
+            applyBrokenFilters();
+        }
+
+        // ── Export CSV ──────────────────────────────────────────────────────────
+        function exportCsv() {
+            const rows = [['Type', 'URL', 'Detail', 'Found On']];
+            pagesResults.forEach(r  => rows.push(['Page', r.url, `Title: ${r.title || '(missing)'} | Description: ${r.description || '(missing)'}`, '']));
+            aiResults.forEach(r    => rows.push(['AI Suggestion', r.url, `Title: ${r.suggestedTitle || '(none)'} | Description: ${r.suggestedDescription || '(none)'}`, '']));
+            pdfResults.forEach(r    => rows.push(['PDF', r.url, '', r.source]));
+            sitesResults.forEach(r  => rows.push(['Google Site', r.url, '', r.source]));
+            externalResults.forEach(r => rows.push(['External Link', r.url, `${r.isCcsd ? 'ccsd.net' : 'other'} / ${r.nofollow ? 'nofollow' : 'follow'}`, r.source]));
+            trackerResults.forEach(r => rows.push(['Tracker', '', r.name, r.source]));
+            altResults.forEach(r    => rows.push(['Image', r.src, r.hasAlt ? `alt: ${r.alt}` : 'Missing alt tag', r.source]));
+            spellResults.forEach(r  => rows.push(['Spelling', '', `${r.word} -> ${r.suggestion || '?'}`, r.source]));
+            brokenResults.forEach(r => rows.push(['Broken ' + r.type, r.url, `${r.status} ${r.statusText}`, r.source]));
+            const csv = rows.map(r => r.map(c => `"${String(c||'').replace(/"/g,'""')}"`).join(',')).join('\n');
+            const a = Object.assign(document.createElement('a'), {
+                href: URL.createObjectURL(new Blob([csv], {type:'text/csv'})),
+                download: 'seo_check_results.csv'
+            });
+            a.click();
+        }
+
+        // ── Helpers ──────────────────────────────────────────────────────────────
+        function addUrlRow(containerId, url, srcPage, color, icon) {
+            const row = document.createElement('div');
+            row.className = 'border-bottom pb-2 mb-2';
+            row.innerHTML = `
+                <div>
+                    <i class="bi ${icon} text-${color} me-1"></i>
+                    <a href="${esc(url)}" target="_blank" class="text-decoration-none text-${color}" style="font-size:.85rem;">${esc(url)}</a>
+                    <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:.7rem;"></i>
+                </div>
+                ${srcPage ? `<small class="text-muted">Found on: <a href="${esc(srcPage)}" target="_blank" class="text-decoration-none text-muted">${esc(srcPage)}</a></small>` : ''}`;
+            el(containerId).appendChild(row);
+        }
+
+        function splitOne(str) {
+            const i = str.indexOf('|');
+            return i >= 0 ? [str.slice(0, i), str.slice(i + 1)] : [str, ''];
+        }
+
+        function appendLog(line) {
+            const log = el('scraperLog');
+            log.textContent += line + '\n';
+            log.scrollTop = log.scrollHeight;
+        }
+
+        function setProgress(state) {
+            const bar = el('progressBar');
+            const cls = { running:'progress-bar progress-bar-striped progress-bar-animated bg-primary', success:'progress-bar bg-success', failure:'progress-bar bg-danger', stopped:'progress-bar bg-warning' };
+            const lbl = { running:'Scanning...', success:'Done', failure:'Failed', stopped:'Stopped' };
+            bar.className = cls[state]; bar.style.width = '100%'; bar.textContent = lbl[state];
+        }
+
+        function el(id)   { return document.getElementById(id); }
+        function show(id) { el(id).style.removeProperty('display'); }
+        function hide(id) { el(id).style.display = 'none'; }
+        function esc(str) {
+            return (str||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+        }
+
+        el('urlInput').addEventListener('keydown', e => { if (e.key === 'Enter') startCheck(); });
+
+        // ── Detect whatever model Ollama currently has loaded ───────────────────
+        fetch('/api/ollama-models').then(r => r.json()).then(data => {
+            const status = el('ollamaDetected');
+            if (data.ok && data.default) {
+                const extra = data.installed.length > 1 ? ` (${data.installed.length} models installed)` : '';
+                status.textContent = `Detected: ${data.default}${extra}`;
+                status.className = 'd-block mt-1 text-success';
+            } else {
+                status.textContent = 'No Ollama model detected — make sure Ollama is running and a model is pulled, or set a manual override above.';
+                status.className = 'd-block mt-1 text-danger';
+            }
+        }).catch(() => {
+            const status = el('ollamaDetected');
+            status.textContent = 'Could not reach Ollama at localhost:11434.';
+            status.className = 'd-block mt-1 text-danger';
+        });
+    </script>
+</body>
+</html>

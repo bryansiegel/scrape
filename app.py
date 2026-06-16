@@ -52,6 +52,44 @@ TRACKER_PATTERNS = [
     ('Yandex.Metrica',             ['mc.yandex.ru/metrika']),
 ]
 
+# Lazily-initialized spell checker singleton — loading the dictionary is too
+# slow to redo on every page of an SEO crawl, so build it once and reuse it.
+_spell_checker = None
+
+def get_spell_checker():
+    global _spell_checker
+    if _spell_checker is None:
+        from spellchecker import SpellChecker
+        _spell_checker = SpellChecker()
+    return _spell_checker
+
+
+def get_ollama_url():
+    return os.getenv('OLLAMA_URL', 'http://localhost:11434').rstrip('/')
+
+
+def list_ollama_models(base_url):
+    """Returns (running_model_names, installed_model_names) — best-effort, never raises."""
+    import requests as req
+
+    running = []
+    try:
+        r = req.get(f"{base_url}/api/ps", timeout=5)
+        if r.ok:
+            running = [m.get('name') for m in r.json().get('models', []) if m.get('name')]
+    except Exception:
+        pass
+
+    installed = []
+    try:
+        r = req.get(f"{base_url}/api/tags", timeout=5)
+        if r.ok:
+            installed = [m.get('name') for m in r.json().get('models', []) if m.get('name')]
+    except Exception:
+        pass
+
+    return running, installed
+
 
 def extract_content_html(html_text):
     """Return only the main content HTML, stripping nav, header, footer, sidebars, and scripts."""
@@ -604,6 +642,11 @@ def page_scrape_page():
 @app.route('/broken-link-checker')
 def broken_link_checker_page():
     return render_template('broken_link_checker.html')
+
+
+@app.route('/seo-checker')
+def seo_checker_page():
+    return render_template('seo_checker.html')
 
 
 @app.route('/api/single-scrape')
@@ -1190,6 +1233,444 @@ def run_broken_link_check():
         except Exception as e:
             yield f"data: Fatal error: {type(e).__name__}: {e}\n\n"
             yield "data: __FAILURE__\n\n"
+
+    resp = Response(stream_with_context(generate()), mimetype='text/event-stream')
+    resp.headers['Cache-Control'] = 'no-cache'
+    resp.headers['X-Accel-Buffering'] = 'no'
+    return resp
+
+
+@app.route('/api/ollama-models')
+def get_ollama_models_route():
+    base_url = get_ollama_url()
+    running, installed = list_ollama_models(base_url)
+    default = running[0] if running else (installed[0] if installed else None)
+    return jsonify({
+        'ok': bool(installed or running),
+        'running': running,
+        'installed': installed,
+        'default': default,
+    })
+
+
+@app.route('/api/seo-check')
+def run_seo_check():
+    import requests as req
+    from bs4 import BeautifulSoup
+    from urllib.parse import urlparse, urljoin
+    from collections import deque
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    import time, random, json
+
+    url            = request.args.get('url', '').strip()
+    mode           = request.args.get('mode', 'site')   # 'page' | 'site'
+    find_pdf       = request.args.get('pdf', 'true').lower() == 'true'
+    find_sites     = request.args.get('sites', 'true').lower() == 'true'
+    find_external  = request.args.get('external', 'true').lower() == 'true'
+    find_tracking  = request.args.get('tracking', 'true').lower() == 'true'
+    find_alt       = request.args.get('alt', 'true').lower() == 'true'
+    find_spell     = request.args.get('spell', 'true').lower() == 'true'
+    find_ai        = request.args.get('ai', 'true').lower() == 'true'
+    requested_model = (request.args.get('model') or '').strip()
+    ollama_url     = get_ollama_url()
+    OLLAMA_TIMEOUT = int(os.getenv('OLLAMA_TIMEOUT', '300'))
+    check_ext_stat = request.args.get('check_external', 'false').lower() == 'true'
+    check_social   = request.args.get('social', 'false').lower() == 'true'
+
+    SOCIAL_DOMAINS = [
+        'facebook.com', 'fb.com', 'fbcdn.net',
+        'twitter.com', 'x.com', 't.co',
+        'instagram.com', 'instagr.am',
+        'linkedin.com', 'lnkd.in',
+        'youtube.com', 'youtu.be', 'yt.be',
+        'tiktok.com', 'vm.tiktok.com',
+        'pinterest.com', 'pin.it',
+        'snapchat.com', 'snap.com',
+        'reddit.com', 'redd.it',
+        'tumblr.com', 'vimeo.com',
+        'flickr.com', 'threads.net',
+    ]
+
+    def is_social_url(u):
+        netloc = urlparse(u).netloc.lower().removeprefix('www.')
+        return any(netloc == s or netloc.endswith('.' + s) for s in SOCIAL_DOMAINS)
+
+    def err(msg):
+        yield f"data: {msg}\n\n"
+        yield "data: __FAILURE__\n\n"
+
+    if not url or not url.startswith('http'):
+        return Response(stream_with_context(err('ERROR: Invalid or missing URL')), mimetype='text/event-stream')
+
+    USER_AGENTS = [
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15',
+        'Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0',
+    ]
+
+    def make_headers():
+        return {
+            'User-Agent': random.choice(USER_AGENTS),
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+        }
+
+    def check_url_status(check_u):
+        def _get(hdrs):
+            r = req.get(check_u, headers=hdrs, timeout=7, allow_redirects=True, stream=True)
+            r.close()
+            return r
+        try:
+            r = _get(make_headers())
+            if r.status_code == 429:
+                wait = min(int(r.headers.get('Retry-After', 3)), 15)
+                time.sleep(wait + random.uniform(0.5, 2.0))
+                r = _get(make_headers())
+            return r.status_code, r.reason or str(r.status_code)
+        except req.exceptions.Timeout:
+            return 0, 'Timeout'
+        except req.exceptions.SSLError:
+            return 0, 'SSL Error'
+        except req.exceptions.TooManyRedirects:
+            return 0, 'Too Many Redirects'
+        except req.exceptions.InvalidURL:
+            return 0, 'Invalid URL'
+        except req.exceptions.ConnectionError:
+            return 0, 'Connection Error'
+        except Exception as e:
+            return 0, type(e).__name__
+
+    def get_snippet(element):
+        try:
+            html = str(element)
+            return html[:600] + ('…' if len(html) > 600 else '')
+        except Exception:
+            return ''
+
+    def resolve_ollama_model():
+        if requested_model:
+            return requested_model
+        running, installed = list_ollama_models(ollama_url)
+        if running:
+            return running[0]
+        if installed:
+            return installed[0]
+        return None
+
+    def get_ollama_suggestion(model, current_title, current_description, content_text):
+        prompt = (
+            "You are an SEO specialist. Based on the webpage content below, write an "
+            "improved, accurate SEO title tag (max 60 characters) and meta description "
+            "(max 155 characters) for this exact page. Respond with exactly these two "
+            "lines and nothing else:\n"
+            "TITLE: <suggested title>\n"
+            "DESCRIPTION: <suggested description>\n\n"
+            f"Current title: {current_title or '(none)'}\n"
+            f"Current meta description: {current_description or '(none)'}\n\n"
+            f"Page content:\n{content_text[:3000]}"
+        )
+        r = req.post(
+            f"{ollama_url}/api/generate",
+            json={'model': model, 'prompt': prompt, 'stream': False},
+            timeout=OLLAMA_TIMEOUT,
+        )
+        r.raise_for_status()
+        text = r.json().get('response', '')
+        title_m = re.search(r'TITLE:\s*(.+)', text)
+        desc_m  = re.search(r'DESCRIPTION:\s*(.+)', text, re.S)
+        suggested_title = title_m.group(1).strip().strip('"') if title_m else ''
+        suggested_desc  = desc_m.group(1).strip().strip('"').split('\n')[0] if desc_m else ''
+        return suggested_title, suggested_desc
+
+    spell = get_spell_checker() if find_spell else None
+
+    def generate():
+        global _html_cache
+        _html_cache = {}  # clear previous scrape
+
+        parsed_start = urlparse(url)
+        base_domain  = parsed_start.netloc.lower().removeprefix('www.')
+
+        visited         = set()
+        checked_urls    = set()
+        queue           = deque([url])
+
+        found_pdfs      = set()
+        found_sites     = set()
+        found_externals = set()
+        found_trackers  = set()
+        found_images    = set()
+        crawled_pages   = []  # [{'url':..., 'title':..., 'description':...}] — used for the spellcheck/AI passes that run after the crawl
+
+        pages_crawled = 0
+        total_checked = 0
+        broken_count  = 0
+        spell_count   = 0
+        ai_count      = 0
+
+        yield f"data: Starting SEO check — {url}\n\n"
+        yield f"data: Domain: {base_domain}\n\n"
+
+        while queue:
+            current = queue.popleft()
+            if current in visited:
+                continue
+            visited.add(current)
+            pages_crawled += 1
+
+            yield f"data: PAGE: {pages_crawled}\n\n"
+            yield f"data: [{pages_crawled}] {current}\n\n"
+
+            try:
+                headers = {'User-Agent': random.choice(USER_AGENTS)}
+                resp = req.get(current, headers=headers, timeout=12, allow_redirects=True)
+                if resp.status_code != 200:
+                    yield f"data: Skipped (HTTP {resp.status_code}): {current}\n\n"
+                    continue
+                if 'html' not in resp.headers.get('Content-Type', ''):
+                    continue
+
+                raw_html     = resp.text
+                content_html = extract_content_html(raw_html)
+                _html_cache[current] = content_html
+                soup = BeautifulSoup(raw_html, 'html.parser')
+
+                # Title & meta description
+                title_tag   = soup.find('title')
+                page_title  = title_tag.get_text().strip()[:160] if title_tag else ''
+                desc_tag    = soup.find('meta', attrs={'name': re.compile(r'^description$', re.I)})
+                description = (desc_tag.get('content') or '').strip()[:300] if desc_tag else ''
+                yield f"data: PAGEINFO: {json.dumps({'url': current, 'title': page_title, 'description': description}, ensure_ascii=True)}\n\n"
+                crawled_pages.append({'url': current, 'title': page_title, 'description': description})
+
+                pending_checks = []  # (type, url, element, source_page, is_social)
+
+                # Walk <a> tags: PDFs / Google Sites / External links / internal queueing / broken-check collection
+                for a in soup.find_all('a', href=True):
+                    href = a['href'].strip()
+                    if not href or href.startswith(('mailto:', 'javascript:', '#', 'tel:')):
+                        continue
+                    full = urljoin(current, href).split('#')[0].rstrip('/')
+                    if not full.startswith('http'):
+                        continue
+
+                    data_file = (a.get('data-file-name') or '').strip()
+                    url_path  = full.lower().split('?')[0]
+                    is_pdf    = url_path.endswith('.pdf') or data_file.lower().endswith('.pdf')
+
+                    if find_pdf and is_pdf and full not in found_pdfs:
+                        found_pdfs.add(full)
+                        yield f"data: PDF: {full}|{current}\n\n"
+
+                    if find_sites and 'sites.google.com' in full and full not in found_sites:
+                        found_sites.add(full)
+                        yield f"data: SITE: {full}|{current}\n\n"
+
+                    link_domain = urlparse(full).netloc.lower().removeprefix('www.')
+                    is_internal = link_domain == base_domain
+
+                    if is_internal:
+                        if mode == 'site' and full not in visited:
+                            queue.append(full)
+                    elif find_external and full not in found_externals:
+                        found_externals.add(full)
+                        rel = a.get('rel') or []
+                        if isinstance(rel, str):
+                            rel = rel.split()
+                        nofollow = 'nofollow' in [r.lower() for r in rel]
+                        is_ccsd  = link_domain == 'ccsd.net' or link_domain.endswith('.ccsd.net')
+                        yield f"data: EXTERNAL: {full}|{current}|{1 if nofollow else 0}|{1 if is_ccsd else 0}\n\n"
+
+                    if full not in checked_urls:
+                        social = is_social_url(full)
+                        if is_pdf:
+                            if find_pdf:
+                                pending_checks.append(('pdf', full, a, current, social))
+                        elif is_internal:
+                            pending_checks.append(('link', full, a, current, social))
+                        elif check_ext_stat and not (social and not check_social):
+                            pending_checks.append(('link', full, a, current, social))
+
+                # Images: alt-tag analysis + broken-check collection
+                if find_alt:
+                    for img in soup.find_all('img'):
+                        src = (img.get('src') or img.get('data-src') or img.get('data-lazy-src') or '').strip()
+                        if not src:
+                            continue
+                        full_img = urljoin(current, src)
+                        if not full_img.startswith('http'):
+                            continue
+                        alt     = img.get('alt')
+                        has_alt = alt is not None and alt.strip() != ''
+                        if full_img not in found_images:
+                            found_images.add(full_img)
+                            payload = json.dumps({
+                                'src': full_img, 'alt': alt or '', 'hasAlt': has_alt, 'source': current,
+                            }, ensure_ascii=True)
+                            yield f"data: IMGALT: {payload}\n\n"
+                        if full_img not in checked_urls:
+                            pending_checks.append(('image', full_img, img, current, False))
+
+                # Tracking/analytics scripts
+                if find_tracking:
+                    script_text = ''
+                    for script in soup.find_all('script'):
+                        script_text += ' ' + (script.get('src') or '')
+                        script_text += ' ' + (script.get_text() or '')
+                    for name, patterns in TRACKER_PATTERNS:
+                        for pattern in patterns:
+                            if pattern.lower() in script_text.lower():
+                                key = f"{name}|{current}"
+                                if key not in found_trackers:
+                                    found_trackers.add(key)
+                                    yield f"data: TRACKER: {name}|{current}\n\n"
+                                break
+
+                # Broken-link/image/pdf status checks
+                new_checks = []
+                for item in pending_checks:
+                    if item[1] not in checked_urls:
+                        checked_urls.add(item[1])
+                        new_checks.append(item)
+
+                if new_checks:
+                    yield f"data: Checking {len(new_checks)} resource(s)…\n\n"
+
+                check_results = []
+                try:
+                    with ThreadPoolExecutor(max_workers=3) as executor:
+                        future_map = {executor.submit(check_url_status, r[1]): r for r in new_checks}
+                        for fut in as_completed(future_map):
+                            try:
+                                status, status_text = fut.result()
+                            except Exception as fe:
+                                status, status_text = 0, type(fe).__name__
+                            check_results.append((future_map[fut], status, status_text))
+                except Exception as te:
+                    yield f"data: Warning: thread pool error — {te}\n\n"
+
+                for res, status, status_text in check_results:
+                    res_type, res_url, element, source_page, social = res
+                    total_checked += 1
+                    yield f"data: CHECKING: {total_checked}|{res_url}\n\n"
+                    if status == 0 or status >= 400:
+                        if social and status != 404:
+                            continue
+                        broken_count += 1
+                        try:
+                            payload = json.dumps({
+                                'type': res_type, 'url': res_url, 'status': status,
+                                'statusText': status_text, 'source': source_page,
+                                'snippet': get_snippet(element),
+                            }, ensure_ascii=True)
+                        except Exception:
+                            payload = json.dumps({
+                                'type': res_type, 'url': res_url, 'status': status,
+                                'statusText': status_text, 'source': source_page, 'snippet': '',
+                            })
+                        yield f"data: BROKEN: {payload}\n\n"
+                        yield f"data: BROKEN_COUNT: {broken_count}\n\n"
+
+            except Exception as e:
+                yield f"data: Error ({current}): {type(e).__name__}: {e}\n\n"
+
+            time.sleep(0.15)
+
+        # ---- Phase 2: spell-check every crawled page, now that discovery/link
+        # checking is fully done (keeps slow per-page work from stalling the crawl) ----
+        if find_spell and crawled_pages:
+            yield f"data: \n\n"
+            yield f"data: Spell-checking {len(crawled_pages)} page(s)...\n\n"
+            for pdata in crawled_pages:
+                page_url = pdata['url']
+                content_html = _html_cache.get(page_url, '')
+                if not content_html:
+                    continue
+                content_soup = BeautifulSoup(content_html, 'html.parser')
+                candidates = []
+                for node in content_soup.find_all(string=True):
+                    if node.parent and node.parent.name in ('script', 'style'):
+                        continue
+                    for w in re.findall(r"[A-Za-z']+", str(node)):
+                        if len(w) < 3 or w[:1].isupper():
+                            continue
+                        candidates.append(w.strip("'").lower())
+
+                unknown = spell.unknown(candidates) if candidates else set()
+                if not unknown:
+                    continue
+                reported = set()
+                for node in content_soup.find_all(string=True):
+                    if node.parent and node.parent.name in ('script', 'style'):
+                        continue
+                    for w in re.findall(r"[A-Za-z']+", str(node)):
+                        if len(w) < 3 or w[:1].isupper():
+                            continue
+                        wl = w.strip("'").lower()
+                        if wl in unknown and wl not in reported:
+                            reported.add(wl)
+                            suggestion = spell.correction(wl) or ''
+                            snippet = get_snippet(node.parent) if node.parent else str(node).strip()[:300]
+                            spell_count += 1
+                            payload = json.dumps({
+                                'word': w, 'suggestion': suggestion,
+                                'snippet': snippet, 'source': page_url,
+                            }, ensure_ascii=True)
+                            yield f"data: SPELL: {payload}\n\n"
+                            yield f"data: SPELL_COUNT: {spell_count}\n\n"
+
+        # ---- Phase 3: ask Ollama for title/description suggestions for every
+        # crawled page, now that everything else has finished ----
+        if find_ai and crawled_pages:
+            resolved_model = resolve_ollama_model()
+            if resolved_model:
+                yield f"data: \n\n"
+                yield f"data: Generating AI suggestions for {len(crawled_pages)} page(s) using {resolved_model}...\n\n"
+                for pdata in crawled_pages:
+                    page_url = pdata['url']
+                    content_html = _html_cache.get(page_url, '')
+                    if not content_html:
+                        continue
+                    try:
+                        content_text = BeautifulSoup(content_html, 'html.parser').get_text(separator=' ', strip=True)
+                        content_text = re.sub(r'\s+', ' ', content_text).strip()
+                        if not content_text:
+                            continue
+                        yield f"data: Asking Ollama ({resolved_model}) for suggestions — {page_url}\n\n"
+                        sugg_title, sugg_desc = get_ollama_suggestion(
+                            resolved_model, pdata['title'], pdata['description'], content_text,
+                        )
+                        if sugg_title or sugg_desc:
+                            ai_count += 1
+                            payload = json.dumps({
+                                'url': page_url,
+                                'currentTitle': pdata['title'],
+                                'currentDescription': pdata['description'],
+                                'suggestedTitle': sugg_title,
+                                'suggestedDescription': sugg_desc,
+                            }, ensure_ascii=True)
+                            yield f"data: AISEO: {payload}\n\n"
+                    except req.exceptions.ReadTimeout:
+                        yield f"data: AI suggestion timed out for {page_url} (>{OLLAMA_TIMEOUT}s) — skipping.\n\n"
+                    except req.exceptions.ConnectionError:
+                        yield f"data: AI suggestion skipped — could not connect to Ollama at {ollama_url}\n\n"
+                    except Exception as e:
+                        yield f"data: AI suggestion failed for {page_url}: {type(e).__name__}: {e}\n\n"
+            else:
+                yield f"data: AI suggestions disabled — no Ollama model found at {ollama_url}\n\n"
+
+        yield f"data: \n\n"
+        yield (
+            f"data: Done. {pages_crawled} page(s) crawled, {total_checked} resource(s) checked. "
+            f"{len(found_pdfs)} PDF(s), {len(found_sites)} Google Sites, {len(found_externals)} external link(s), "
+            f"{len(found_trackers)} tracker event(s), {len(found_images)} image(s), "
+            f"{spell_count} spelling issue(s), {ai_count} AI suggestion(s), "
+            f"{broken_count} broken resource(s) found.\n\n"
+        )
+        yield "data: __SUCCESS__\n\n"
 
     resp = Response(stream_with_context(generate()), mimetype='text/event-stream')
     resp.headers['Cache-Control'] = 'no-cache'

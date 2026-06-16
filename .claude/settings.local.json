@@ -18,7 +18,12 @@
       "Bash(find / -maxdepth 4 -iname \"site-packages\")",
       "Bash(pip show *)",
       "Bash(node -e \"require\\('fs'\\).readFileSync\\('templates/single_scrape.html','utf8'\\)\")",
-      "Bash(node --check /tmp/single_scrape_script.js)"
+      "Bash(node --check /tmp/single_scrape_script.js)",
+      "Bash(pip list *)",
+      "Bash(node --check /tmp/seo_checker_script.js)",
+      "Bash(node --check /tmp/seo2.js)",
+      "Bash(node --check /tmp/seo3.js)",
+      "Bash(node --check /tmp/seo4.js)"
     ],
     "deny": []
   }
