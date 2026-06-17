@@ -235,9 +235,29 @@
                 <div class="card" id="resultsCard" style="display:none;">
                     <div class="card-header d-flex justify-content-between align-items-center">
                         <span class="fw-semibold"><i class="bi bi-list-ul me-2"></i>Results</span>
-                        <button class="btn btn-sm btn-outline-success" id="exportCsvBtn" onclick="exportCsv()" style="display:none;">
-                            <i class="bi bi-download me-1"></i>Export CSV
-                        </button>
+                        <div class="btn-group btn-group-sm" id="exportCsvBtn" style="display:none;">
+                            <button class="btn btn-outline-success" onclick="exportCsv('all')">
+                                <i class="bi bi-download me-1"></i>Export CSV
+                            </button>
+                            <button type="button" class="btn btn-outline-success dropdown-toggle dropdown-toggle-split"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                <span class="visually-hidden">Toggle Dropdown</span>
+                            </button>
+                            <ul class="dropdown-menu dropdown-menu-end" id="exportDropdownMenu">
+                                <li><h6 class="dropdown-header">Export section</h6></li>
+                                <li><a class="dropdown-item" href="#" onclick="exportCsv('all');return false;"><i class="bi bi-collection me-2"></i>All Results</a></li>
+                                <li><hr class="dropdown-divider"></li>
+                                <li><a class="dropdown-item" href="#" onclick="exportCsv('pages');return false;"><i class="bi bi-file-earmark-text me-2 text-primary"></i>Pages</a></li>
+                                <li><a class="dropdown-item" href="#" onclick="exportCsv('ai');return false;"><i class="bi bi-stars me-2 text-primary"></i>AI Suggestions</a></li>
+                                <li><a class="dropdown-item" href="#" onclick="exportCsv('pdf');return false;"><i class="bi bi-file-earmark-pdf me-2 text-danger"></i>PDFs</a></li>
+                                <li><a class="dropdown-item" href="#" onclick="exportCsv('sites');return false;"><i class="bi bi-grid me-2 text-secondary"></i>Google Sites</a></li>
+                                <li><a class="dropdown-item" href="#" onclick="exportCsv('external');return false;"><i class="bi bi-box-arrow-up-right me-2 text-success"></i>External Links</a></li>
+                                <li><a class="dropdown-item" href="#" onclick="exportCsv('tracking');return false;"><i class="bi bi-shield-check me-2 text-warning"></i>Scripts &amp; Tracking</a></li>
+                                <li><a class="dropdown-item" href="#" onclick="exportCsv('alt');return false;"><i class="bi bi-image me-2 text-info"></i>Image Alt Tags</a></li>
+                                <li><a class="dropdown-item" href="#" onclick="exportCsv('spell');return false;"><i class="bi bi-spellcheck me-2 text-primary"></i>Spelling</a></li>
+                                <li><a class="dropdown-item" href="#" onclick="exportCsv('broken');return false;"><i class="bi bi-exclamation-circle me-2 text-danger"></i>Broken Resources</a></li>
+                            </ul>
+                        </div>
                     </div>
                     <div class="card-body p-0">
                         <ul class="nav nav-tabs px-3 pt-2 flex-nowrap overflow-auto" id="resultTabs">
@@ -951,21 +971,42 @@
         }
 
         // ── Export CSV ──────────────────────────────────────────────────────────
-        function exportCsv() {
-            const rows = [['Type', 'URL', 'Detail', 'Found On']];
-            pagesResults.forEach(r  => rows.push(['Page', r.url, `Title: ${r.title || '(missing)'} | Description: ${r.description || '(missing)'}`, '']));
-            aiResults.forEach(r    => rows.push(['AI Suggestion', r.url, `Title: ${r.suggestedTitle || '(none)'} | Description: ${r.suggestedDescription || '(none)'}`, '']));
-            pdfResults.forEach(r    => rows.push(['PDF', r.url, '', r.source]));
-            sitesResults.forEach(r  => rows.push(['Google Site', r.url, '', r.source]));
-            externalResults.forEach(r => rows.push(['External Link', r.url, `${r.isCcsd ? 'ccsd.net' : 'other'} / ${r.nofollow ? 'nofollow' : 'follow'}`, r.source]));
-            trackerResults.forEach(r => rows.push(['Tracker', '', r.name, r.source]));
-            altResults.forEach(r    => rows.push(['Image', r.src, r.hasAlt ? `alt: ${r.alt}` : 'Missing alt tag', r.source]));
-            spellResults.forEach(r  => rows.push(['Spelling', '', `${r.word} -> ${r.suggestion || '?'}`, r.source]));
-            brokenResults.forEach(r => rows.push(['Broken ' + r.type, r.url, `${r.status} ${r.statusText}`, r.source]));
-            const csv = rows.map(r => r.map(c => `"${String(c||'').replace(/"/g,'""')}"`).join(',')).join('\n');
+        function exportCsv(type) {
+            const all = !type || type === 'all';
+            const nameMap = { pages:'pages', ai:'ai_suggestions', pdf:'pdfs', sites:'google_sites',
+                              external:'external_links', tracking:'tracking', alt:'image_alt', spell:'spelling', broken:'broken_resources' };
+            const filename = all ? 'seo_check_results.csv' : `seo_check_${nameMap[type] || type}.csv`;
+
+            let csv;
+            if (type === 'ai') {
+                const rows = [['Type', 'URL', 'Title', 'Meta Description']];
+                aiResults.forEach(r => {
+                    rows.push(['Current',   r.url, r.currentTitle   || '(missing)', r.currentDescription   || '(missing)']);
+                    rows.push(['Suggested', r.url, r.suggestedTitle || '(none)',    r.suggestedDescription || '(none)']);
+                });
+                csv = rows.map(r => r.map(c => `"${String(c||'').replace(/"/g,'""')}"`).join(',')).join('\n');
+            } else {
+                const rows = [['Type', 'URL', 'Detail', 'Found On']];
+                if (all || type === 'pages')    pagesResults.forEach(r    => rows.push(['Page',          r.url,  `Title: ${r.title || '(missing)'} | Description: ${r.description || '(missing)'}`, '']));
+                if (all)                        aiResults.forEach(r => {
+                    rows.push(['AI Title (Current)',            r.url, r.currentTitle        || '(missing)', '']);
+                    rows.push(['AI Meta Description (Current)', r.url, r.currentDescription  || '(missing)', '']);
+                    rows.push(['AI Title (Suggested)',            r.url, r.suggestedTitle      || '(none)', '']);
+                    rows.push(['AI Meta Description (Suggested)', r.url, r.suggestedDescription || '(none)', '']);
+                });
+                if (all || type === 'pdf')      pdfResults.forEach(r      => rows.push(['PDF',           r.url,  '', r.source]));
+                if (all || type === 'sites')    sitesResults.forEach(r    => rows.push(['Google Site',   r.url,  '', r.source]));
+                if (all || type === 'external') externalResults.forEach(r => rows.push(['External Link', r.url,  `${r.isCcsd ? 'ccsd.net' : 'other'} / ${r.nofollow ? 'nofollow' : 'follow'}`, r.source]));
+                if (all || type === 'tracking') trackerResults.forEach(r  => rows.push(['Tracker',       '',     r.name, r.source]));
+                if (all || type === 'alt')      altResults.forEach(r      => rows.push(['Image',         r.src,  r.hasAlt ? `alt: ${r.alt}` : 'Missing alt tag', r.source]));
+                if (all || type === 'spell')    spellResults.forEach(r    => rows.push(['Spelling',      '',     `${r.word} -> ${r.suggestion || '?'}`, r.source]));
+                if (all || type === 'broken')   brokenResults.forEach(r   => rows.push(['Broken ' + r.type, r.url, `${r.status} ${r.statusText}`, r.source]));
+                csv = rows.map(r => r.map(c => `"${String(c||'').replace(/"/g,'""')}"`).join(',')).join('\n');
+            }
+
             const a = Object.assign(document.createElement('a'), {
                 href: URL.createObjectURL(new Blob([csv], {type:'text/csv'})),
-                download: 'seo_check_results.csv'
+                download: filename
             });
             a.click();
         }
