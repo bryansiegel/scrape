@@ -65,6 +65,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+This installs Flask, mysql-connector-python, requests, beautifulsoup4, openpyxl, and related packages.
+
 ### 4. Configure environment variables
 
 Copy the example and fill in your credentials:
@@ -83,7 +85,7 @@ DB_NAME=scrape
 
 `.env` is listed in `.gitignore` and will never be committed.
 
-### 6. Set up the database
+### 5. Set up the database
 
 Start MySQL, then import the included dump:
 
