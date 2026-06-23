@@ -159,6 +159,35 @@ def extract_content_html(html_text):
         return html_text
 
 
+def get_keyword_trends(phrases):
+    """Return {phrase: avg_interest_0_to_100_or_None} via pytrends (best-effort, never raises)."""
+    if not phrases:
+        return {}
+    try:
+        from pytrends.request import TrendReq
+        import time
+        scores = {}
+        batches = [phrases[i:i + 5] for i in range(0, len(phrases), 5)]
+        for idx, batch in enumerate(batches):
+            try:
+                pt = TrendReq(hl='en-US', tz=360, timeout=(10, 30), retries=1, backoff_factor=0.5)
+                pt.build_payload(batch, timeframe='today 12-m', geo='US')
+                df = pt.interest_over_time()
+                for phrase in batch:
+                    if df is not None and not df.empty and phrase in df.columns:
+                        scores[phrase] = int(round(float(df[phrase].mean())))
+                    else:
+                        scores[phrase] = None
+            except Exception:
+                for phrase in batch:
+                    scores[phrase] = None
+            if idx < len(batches) - 1:
+                time.sleep(2.5)
+        return scores
+    except Exception:
+        return {p: None for p in phrases}
+
+
 # Database configuration — values loaded from .env
 DB_CONFIG = {
     'host':     os.getenv('DB_HOST', '127.0.0.1'),
@@ -1240,6 +1269,81 @@ def run_broken_link_check():
     return resp
 
 
+def _ensure_spell_ignore_table(conn):
+    try:
+        cur = conn.cursor()
+        cur.execute("""
+            CREATE TABLE IF NOT EXISTS spell_ignore (
+                id       INT AUTO_INCREMENT PRIMARY KEY,
+                word     VARCHAR(200) NOT NULL,
+                added_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+                UNIQUE KEY uq_word (word)
+            )
+        """)
+        conn.commit()
+        cur.close()
+    except Exception:
+        pass
+
+
+@app.route('/api/spell-ignore', methods=['GET'])
+def get_spell_ignore():
+    conn = get_db_connection()
+    if not conn:
+        return jsonify({'words': []})
+    try:
+        _ensure_spell_ignore_table(conn)
+        cur = conn.cursor()
+        cur.execute("SELECT word, added_at FROM spell_ignore ORDER BY word ASC")
+        words = [{'word': row[0], 'added_at': str(row[1])} for row in cur.fetchall()]
+        cur.close()
+        return jsonify({'words': words})
+    except Exception as e:
+        return jsonify({'words': [], 'error': str(e)})
+    finally:
+        conn.close()
+
+
+@app.route('/api/spell-ignore', methods=['POST'])
+def add_spell_ignore():
+    word = ((request.get_json(force=True) or {}).get('word') or '').strip().lower()
+    if not word:
+        return jsonify({'ok': False, 'error': 'No word provided'}), 400
+    conn = get_db_connection()
+    if not conn:
+        return jsonify({'ok': False, 'error': 'DB unavailable'}), 500
+    try:
+        _ensure_spell_ignore_table(conn)
+        cur = conn.cursor()
+        cur.execute("INSERT IGNORE INTO spell_ignore (word) VALUES (%s)", (word,))
+        conn.commit()
+        cur.close()
+        return jsonify({'ok': True, 'word': word})
+    except Exception as e:
+        return jsonify({'ok': False, 'error': str(e)}), 500
+    finally:
+        conn.close()
+
+
+@app.route('/api/spell-ignore/<path:word>', methods=['DELETE'])
+def delete_spell_ignore(word):
+    word = word.strip().lower()
+    conn = get_db_connection()
+    if not conn:
+        return jsonify({'ok': False, 'error': 'DB unavailable'}), 500
+    try:
+        _ensure_spell_ignore_table(conn)
+        cur = conn.cursor()
+        cur.execute("DELETE FROM spell_ignore WHERE word = %s", (word,))
+        conn.commit()
+        cur.close()
+        return jsonify({'ok': True, 'word': word})
+    except Exception as e:
+        return jsonify({'ok': False, 'error': str(e)}), 500
+    finally:
+        conn.close()
+
+
 @app.route('/api/ollama-models')
 def get_ollama_models_route():
     base_url = get_ollama_url()
@@ -1271,6 +1375,7 @@ def run_seo_check():
     find_alt       = request.args.get('alt', 'true').lower() == 'true'
     find_spell     = request.args.get('spell', 'true').lower() == 'true'
     find_ai        = request.args.get('ai', 'true').lower() == 'true'
+    find_keywords  = request.args.get('kw', 'false').lower() == 'true'
     requested_model = (request.args.get('model') or '').strip()
     ollama_url     = get_ollama_url()
     OLLAMA_TIMEOUT = int(os.getenv('OLLAMA_TIMEOUT', '300'))
@@ -1385,6 +1490,64 @@ def run_seo_check():
         suggested_desc  = desc_m.group(1).strip().strip('"').split('\n')[0] if desc_m else ''
         return suggested_title, suggested_desc
 
+    def get_ollama_keywords(model, content_text, page_url):
+        prompt = (
+            "You are an expert SEO data analyst specializing in K-12 school and school district websites.\n\n"
+            f"The page URL is: {page_url}\n\n"
+            "STEP 1 — Identify the exact organization this page belongs to by reading the content and URL. "
+            "It could be a specific school (e.g., 'Kitty Ward Elementary'), a district (e.g., 'Clark County School District / CCSD'), "
+            "a department, or another entity. Extract the shortest commonly used name "
+            "(e.g., 'Kitty Ward Elementary', 'CCSD', 'Valley High School') AND any well-known abbreviation or alternate name. "
+            "Store these as 'org_name' and 'org_short' in your output.\n\n"
+            "STEP 2 — Identify the top 3 core topics this specific page covers.\n\n"
+            "STEP 3 — Identify 4 to 5 HIGH-TRAFFIC branded keyword phrases this page should rank for. "
+            "Rules:\n"
+            "- Every phrase MUST include the org_name or org_short identified in Step 1.\n"
+            "- Phrases must be short (2–5 words) and reflect real search volume.\n"
+            "- Mix brand-first phrases (e.g., 'CCSD enrollment', 'Kitty Ward Elementary schedule') "
+            "with geo-branded phrases that add the city or state when it helps distinguish the result "
+            "(e.g., 'Kitty Ward Elementary Las Vegas', 'CCSD Las Vegas school calendar').\n"
+            "- Never generate a generic phrase that could describe any school in America — "
+            "every phrase must be uniquely tied to this specific organization.\n\n"
+            "STEP 4 — For each core topic from Step 2, suggest 3 long-tail search phrases that a parent, teacher, "
+            "or community member would actually type into Google to find this exact page. "
+            "Rules:\n"
+            "- Every phrase MUST include the org_name or org_short.\n"
+            "- Phrases should be specific and action-oriented (e.g., 'how to enroll at Kitty Ward Elementary', "
+            "'CCSD kindergarten registration deadline Clark County', 'Kitty Ward Elementary school supply list').\n"
+            "- No phrase should work as a generic search — it must point to this specific school or organization.\n\n"
+            "STEP 5 — Categorize each long-tail phrase's user intent: Navigational, Informational, or Action-oriented.\n\n"
+            "Return ONLY a valid JSON object — no markdown, no explanation, no code fences. "
+            "Use this exact structure:\n\n"
+            "{\n"
+            "  \"org_name\": \"Full organization name\",\n"
+            "  \"org_short\": \"Short name or abbreviation\",\n"
+            "  \"current_topics\": [\"topic1\", \"topic2\", \"topic3\"],\n"
+            "  \"target_keywords\": [\n"
+            "    {\"phrase\": \"org_short branded phrase 1\"},\n"
+            "    {\"phrase\": \"org_name geo phrase 2\"}\n"
+            "  ],\n"
+            "  \"community_search_suggestions\": [\n"
+            "    {\"phrase\": \"specific long-tail phrase with org name 1\", \"user_intent\": \"Action-oriented\"},\n"
+            "    {\"phrase\": \"specific long-tail phrase with org name 2\", \"user_intent\": \"Informational\"}\n"
+            "  ]\n"
+            "}\n\n"
+            "[WEBPAGE CONTENT START]\n"
+            f"{content_text[:4000]}\n"
+            "[WEBPAGE CONTENT END]"
+        )
+        r = req.post(
+            f"{ollama_url}/api/generate",
+            json={'model': model, 'prompt': prompt, 'stream': False},
+            timeout=OLLAMA_TIMEOUT,
+        )
+        r.raise_for_status()
+        text = r.json().get('response', '').strip()
+        text = re.sub(r'^```(?:json)?\s*', '', text)
+        text = re.sub(r'\s*```$', '', text).strip()
+        m = re.search(r'\{[\s\S]*\}', text)
+        return json.loads(m.group() if m else text)
+
     spell = get_spell_checker() if find_spell else None
 
     def generate():
@@ -1410,6 +1573,7 @@ def run_seo_check():
         broken_count  = 0
         spell_count   = 0
         ai_count      = 0
+        keyword_count = 0
 
         yield f"data: Starting SEO check — {url}\n\n"
         yield f"data: Domain: {base_domain}\n\n"
@@ -1582,8 +1746,22 @@ def run_seo_check():
         # ---- Phase 2: spell-check every crawled page, now that discovery/link
         # checking is fully done (keeps slow per-page work from stalling the crawl) ----
         if find_spell and crawled_pages:
+            # Load ignore list from DB once before the loop
+            ignore_words = set()
+            try:
+                ig_conn = get_db_connection()
+                if ig_conn:
+                    _ensure_spell_ignore_table(ig_conn)
+                    ig_cur = ig_conn.cursor()
+                    ig_cur.execute("SELECT word FROM spell_ignore")
+                    ignore_words = {row[0].lower() for row in ig_cur.fetchall()}
+                    ig_cur.close()
+                    ig_conn.close()
+            except Exception:
+                pass
+
             yield f"data: \n\n"
-            yield f"data: Spell-checking {len(crawled_pages)} page(s)...\n\n"
+            yield f"data: Spell-checking {len(crawled_pages)} page(s)... ({len(ignore_words)} word(s) in ignore list)\n\n"
             for pdata in crawled_pages:
                 page_url = pdata['url']
                 content_html = _html_cache.get(page_url, '')
@@ -1600,6 +1778,7 @@ def run_seo_check():
                         candidates.append(w.strip("'").lower())
 
                 unknown = spell.unknown(candidates) if candidates else set()
+                unknown -= ignore_words  # filter out ignored words
                 if not unknown:
                     continue
                 reported = set()
@@ -1662,12 +1841,63 @@ def run_seo_check():
             else:
                 yield f"data: AI suggestions disabled — no Ollama model found at {ollama_url}\n\n"
 
+        # ---- Phase 4: keyword analysis (Ollama) + Google Trends interest scores ----
+        if find_keywords and crawled_pages:
+            resolved_model = resolve_ollama_model()
+            if resolved_model:
+                yield f"data: \n\n"
+                yield f"data: Analyzing keywords for {len(crawled_pages)} page(s) using {resolved_model}...\n\n"
+                trends_cache = {}
+                for pdata in crawled_pages:
+                    page_url     = pdata['url']
+                    content_html = _html_cache.get(page_url, '')
+                    if not content_html:
+                        continue
+                    try:
+                        content_text = BeautifulSoup(content_html, 'html.parser').get_text(separator=' ', strip=True)
+                        content_text = re.sub(r'\s+', ' ', content_text).strip()
+                        if not content_text:
+                            continue
+                        yield f"data: Analyzing keywords — {page_url}\n\n"
+                        kw_data        = get_ollama_keywords(resolved_model, content_text, page_url)
+                        suggestions    = kw_data.get('community_search_suggestions', [])
+                        target_kws     = kw_data.get('target_keywords', [])
+                        all_phrases    = (
+                            [t.get('phrase', '') for t in target_kws if t.get('phrase')] +
+                            [s.get('phrase', '') for s in suggestions if s.get('phrase')]
+                        )
+                        new_phrases = [p for p in all_phrases if p not in trends_cache]
+                        if new_phrases:
+                            yield f"data: Checking Google Trends for {len(new_phrases)} phrase(s)...\n\n"
+                            trends_cache.update(get_keyword_trends(new_phrases))
+                        trends = {p: trends_cache.get(p) for p in all_phrases}
+                        keyword_count += 1
+                        payload = json.dumps({
+                            'url':             page_url,
+                            'org_name':        kw_data.get('org_name', ''),
+                            'org_short':       kw_data.get('org_short', ''),
+                            'topics':          kw_data.get('current_topics', []),
+                            'target_keywords': target_kws,
+                            'suggestions':     suggestions,
+                            'trends':          trends,
+                        }, ensure_ascii=True)
+                        yield f"data: KEYWORDS: {payload}\n\n"
+                    except req.exceptions.ReadTimeout:
+                        yield f"data: Keyword analysis timed out for {page_url} — skipping.\n\n"
+                    except req.exceptions.ConnectionError:
+                        yield f"data: Keyword analysis skipped — could not connect to Ollama at {ollama_url}\n\n"
+                    except Exception as e:
+                        yield f"data: Keyword analysis failed for {page_url}: {type(e).__name__}: {e}\n\n"
+            else:
+                yield f"data: Keyword analysis disabled — no Ollama model found at {ollama_url}\n\n"
+
         yield f"data: \n\n"
         yield (
             f"data: Done. {pages_crawled} page(s) crawled, {total_checked} resource(s) checked. "
             f"{len(found_pdfs)} PDF(s), {len(found_sites)} Google Sites, {len(found_externals)} external link(s), "
             f"{len(found_trackers)} tracker event(s), {len(found_images)} image(s), "
             f"{spell_count} spelling issue(s), {ai_count} AI suggestion(s), "
+            f"{keyword_count} keyword analysis page(s), "
             f"{broken_count} broken resource(s) found.\n\n"
         )
         yield "data: __SUCCESS__\n\n"
