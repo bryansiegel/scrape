@@ -182,7 +182,7 @@
                                     </label>
                                 </div>
                                 <div class="form-check form-switch">
-                                    <input class="form-check-input" type="checkbox" id="findKeywords">
+                                    <input class="form-check-input" type="checkbox" id="findKeywords" checked>
                                     <label class="form-check-label" for="findKeywords">
                                         <i class="bi bi-graph-up text-success me-1"></i>Keyword &amp; traffic analysis
                                     </label>
@@ -242,6 +242,10 @@
                 <div class="card" id="resultsCard" style="display:none;">
                     <div class="card-header d-flex justify-content-between align-items-center">
                         <span class="fw-semibold"><i class="bi bi-list-ul me-2"></i>Results</span>
+                        <div class="d-flex align-items-center gap-2">
+                        <button class="btn btn-sm btn-success" onclick="exportPdfsExcel()" id="exportExcelBtn" style="display:none;">
+                            <i class="bi bi-file-earmark-excel me-1"></i>Export PDFs to Excel
+                        </button>
                         <div class="btn-group btn-group-sm" id="exportCsvBtn" style="display:none;">
                             <button class="btn btn-outline-success" onclick="exportCsv('all')">
                                 <i class="bi bi-download me-1"></i>Export CSV
@@ -266,6 +270,7 @@
                                 <li><a class="dropdown-item" href="#" onclick="exportCsv('broken');return false;"><i class="bi bi-exclamation-circle me-2 text-danger"></i>Broken Resources</a></li>
                             </ul>
                         </div>
+                        </div><!-- /.d-flex wrapper -->
                     </div>
                     <div class="card-body p-0">
                         <ul class="nav nav-tabs px-3 pt-2 flex-nowrap overflow-auto" id="resultTabs">
@@ -634,6 +639,7 @@
             show('progressCard');
             hide('resultsCard');
             el('exportCsvBtn').style.display = 'none';
+            el('exportExcelBtn').style.display = 'none';
             el('startBtn').disabled = true;
             el('stopBtn').disabled  = false;
 
@@ -655,6 +661,7 @@
                 if (msg.startsWith('PAGEINFO: '))      { try { handlePageInfo(JSON.parse(msg.slice(10))); } catch(err) {} return; }
                 if (msg.startsWith('AISEO: '))          { try { handleAiSeo(JSON.parse(msg.slice(7))); } catch(err) {} return; }
                 if (msg.startsWith('PDF: '))            { handlePdf(msg.slice(5));      return; }
+                if (msg.startsWith('PDF_INFO: '))      { try { handlePdfInfo(JSON.parse(msg.slice(9))); } catch(err) {} return; }
                 if (msg.startsWith('SITE: '))           { handleSite(msg.slice(6));     return; }
                 if (msg.startsWith('EXTERNAL: '))       { handleExternal(msg.slice(10)); return; }
                 if (msg.startsWith('TRACKER: '))        { handleTracker(msg.slice(9));  return; }
@@ -777,12 +784,41 @@
         // ── PDFs / Google Sites (shared simple row layout) ──────────────────────
         function handlePdf(payload) {
             const [url, src] = splitOne(payload);
-            pdfResults.push({ url, source: src });
+            const idx = pdfResults.length;
+            pdfResults.push({ url, source: src, pages: null, difficulty: null });
             el('badgePdf').textContent = pdfResults.length;
             el('cntPdf').textContent   = pdfResults.length;
             hide('pdfEmpty');
-            addUrlRow('pdfList', url, src, 'danger', 'bi-file-earmark-pdf');
+            el('exportExcelBtn').style.removeProperty('display');
+            const row = document.createElement('div');
+            row.className = 'border-bottom pb-2 mb-2';
+            row.id = 'pdf-row-' + idx;
+            row.innerHTML = `
+                <div>
+                    <i class="bi bi-file-earmark-pdf text-danger me-1"></i>
+                    <a href="${esc(url)}" target="_blank" class="text-decoration-none text-danger" style="font-size:.85rem;">${esc(url)}</a>
+                    <span class="pdf-difficulty ms-2"></span>
+                </div>
+                ${src ? `<small class="text-muted">Found on: <a href="${esc(src)}" target="_blank" class="text-decoration-none text-muted">${esc(src)}</a></small>` : ''}`;
+            el('pdfList').appendChild(row);
             show('resultsCard');
+        }
+
+        function handlePdfInfo(data) {
+            const { url, pages, difficulty } = data;
+            const idx = pdfResults.findIndex(r => r.url === url);
+            if (idx < 0) return;
+            pdfResults[idx].pages      = pages;
+            pdfResults[idx].difficulty = difficulty;
+            const badge = document.querySelector('#pdf-row-' + idx + ' .pdf-difficulty');
+            if (!badge) return;
+            if (difficulty === 'easy') {
+                badge.innerHTML = '<span class="badge bg-success" style="font-size:.65rem;">Easy · 1 pg</span>';
+            } else if (difficulty === 'hard') {
+                badge.innerHTML = `<span class="badge bg-warning text-dark" style="font-size:.65rem;">Hard · ${pages} pg${pages !== 1 ? 's' : ''}</span>`;
+            } else {
+                badge.innerHTML = '<span class="badge bg-secondary" style="font-size:.65rem;">Unknown pages</span>';
+            }
         }
 
         function handleSite(payload) {
@@ -1207,6 +1243,29 @@
                     rows.push(['Suggested', r.url, r.suggestedTitle || '(none)',    r.suggestedDescription || '(none)']);
                 });
                 csv = rows.map(r => r.map(c => `"${String(c||'').replace(/"/g,'""')}"`).join(',')).join('\n');
+            } else if (type === 'pdf') {
+                // Wide format: one row per source URL, PDFs spread across columns
+                const grouped = {};
+                pdfResults.forEach(r => {
+                    const src = r.source || '(unknown)';
+                    if (!grouped[src]) grouped[src] = [];
+                    grouped[src].push(r);
+                });
+                const maxPdfs = Math.max(...Object.values(grouped).map(a => a.length), 0);
+                const headers = ['Source URL'];
+                for (let i = 1; i <= maxPdfs; i++) headers.push(`PDF ${i} URL`, `PDF ${i} Pages`, `PDF ${i} Difficulty`);
+                const rows = [headers];
+                Object.keys(grouped).sort().forEach(src => {
+                    const row = [src];
+                    grouped[src].forEach(r => {
+                        const pages = r.pages != null ? r.pages : '';
+                        const diff  = r.difficulty ? r.difficulty.charAt(0).toUpperCase() + r.difficulty.slice(1) : '';
+                        row.push(r.url, pages, diff);
+                    });
+                    while (row.length < headers.length) row.push('');
+                    rows.push(row);
+                });
+                csv = rows.map(r => r.map(c => `"${String(c||'').replace(/"/g,'""')}"`).join(',')).join('\n');
             } else {
                 const rows = [['Type', 'URL', 'Detail', 'Found On']];
                 if (all || type === 'pages')    pagesResults.forEach(r    => rows.push(['Page',          r.url,  `Title: ${r.title || '(missing)'} | Description: ${r.description || '(missing)'}`, '']));
@@ -1216,7 +1275,7 @@
                     rows.push(['AI Title (Suggested)',            r.url, r.suggestedTitle      || '(none)', '']);
                     rows.push(['AI Meta Description (Suggested)', r.url, r.suggestedDescription || '(none)', '']);
                 });
-                if (all || type === 'pdf')      pdfResults.forEach(r      => rows.push(['PDF',           r.url,  '', r.source]));
+                if (all || type === 'pdf')      pdfResults.forEach(r      => rows.push(['PDF', r.url, r.pages != null ? `${r.pages} page${r.pages !== 1 ? 's' : ''} — ${r.difficulty}` : (r.difficulty === 'unknown' ? 'Unknown pages' : ''), r.source]));
                 if (all || type === 'sites')    sitesResults.forEach(r    => rows.push(['Google Site',   r.url,  '', r.source]));
                 if (all || type === 'external') externalResults.forEach(r => rows.push(['External Link', r.url,  `${r.isCcsd ? 'ccsd.net' : 'other'} / ${r.nofollow ? 'nofollow' : 'follow'}`, r.source]));
                 if (all || type === 'tracking') trackerResults.forEach(r  => rows.push(['Tracker',       '',     r.name, r.source]));
@@ -1237,6 +1296,48 @@
                 download: filename
             });
             a.click();
+        }
+
+        function exportPdfsExcel() {
+            if (!pdfResults.length) return;
+            // Wide format: one row per source URL, PDFs spread across columns
+            const grouped = {};
+            pdfResults.forEach(r => {
+                const src = r.source || '';
+                if (!grouped[src]) grouped[src] = [];
+                grouped[src].push(r);
+            });
+            const maxPdfs = Math.max(...Object.values(grouped).map(a => a.length), 0);
+            const headers = ['Source URL'];
+            for (let i = 1; i <= maxPdfs; i++) headers.push(`PDF ${i} URL`, `PDF ${i} Pages`, `PDF ${i} Difficulty`);
+            const wideRows = [];
+            Object.keys(grouped).sort().forEach(src => {
+                const row = [src];
+                grouped[src].forEach(r => {
+                    const pages = r.pages != null ? r.pages : '';
+                    const diff  = r.difficulty ? r.difficulty.charAt(0).toUpperCase() + r.difficulty.slice(1) : '';
+                    row.push(r.url, pages, diff);
+                });
+                while (row.length < headers.length) row.push('');
+                wideRows.push(row);
+            });
+            fetch('/api/export/scrape-pdfs', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    wide_headers:  headers,
+                    wide_rows:     wideRows,
+                    download_name: 'seo_pdfs.xlsx',
+                }),
+            })
+            .then(r => r.blob())
+            .then(blob => {
+                const a = Object.assign(document.createElement('a'), {
+                    href: URL.createObjectURL(blob),
+                    download: 'seo_pdfs.xlsx',
+                });
+                a.click();
+            });
         }
 
         // ── Helpers ──────────────────────────────────────────────────────────────

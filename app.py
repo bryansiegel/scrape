@@ -554,49 +554,114 @@ def export_pdf_excel():
 
 @app.route('/api/export/scrape-pdfs', methods=['POST'])
 def export_scrape_pdfs():
-    data        = request.get_json(force=True)
-    pdfs        = data.get('pdfs', [])          # [{url, label}, ...]
-    col_label   = data.get('col_label', 'Source / File Name')
-    dl_name     = data.get('download_name', 'scrape_pdfs.xlsx')
-
-    wb = openpyxl.Workbook()
-    ws = wb.active
-    ws.title = 'PDFs'
+    data          = request.get_json(force=True)
+    dl_name       = data.get('download_name', 'scrape_pdfs.xlsx')
+    wide_headers  = data.get('wide_headers')   # present for SEO wide-pivot export
+    wide_rows     = data.get('wide_rows')
 
     header_font = Font(bold=True, color='FFFFFF', size=11)
     header_fill = PatternFill(fill_type='solid', fgColor='1F3864')
     link_font   = Font(color='1155CC', size=10)
+    easy_font   = Font(color='1E7E34', size=10, bold=True)
+    hard_font   = Font(color='B8430A', size=10, bold=True)
     center      = Alignment(horizontal='center', vertical='center')
     left        = Alignment(horizontal='left', vertical='center', wrap_text=True)
     thin        = Side(style='thin', color='BFBFBF')
     border      = Border(left=thin, right=thin, top=thin, bottom=thin)
 
-    ws.column_dimensions['A'].width = 6
-    ws.column_dimensions['B'].width = 60
-    ws.column_dimensions['C'].width = 80
+    wb = openpyxl.Workbook()
+    ws = wb.active
+    ws.title = 'PDFs'
 
-    ws.append(['#', col_label, 'PDF URL'])
-    for col in range(1, 4):
-        cell = ws.cell(row=1, column=col)
-        cell.font      = header_font
-        cell.fill      = header_fill
-        cell.alignment = center
-        cell.border    = border
-    ws.row_dimensions[1].height = 20
+    if wide_headers and wide_rows:
+        # ── Wide pivot format (SEO checker): one row per source URL ──────────
+        # Column layout: Source URL (col 1), then groups of [PDF URL, Pages, Difficulty]
+        num_cols = len(wide_headers)
+        ws.column_dimensions['A'].width = 70  # Source URL
+        for i in range(1, num_cols):
+            col_letter = chr(ord('A') + i)
+            header_lc  = wide_headers[i].lower()
+            if 'url' in header_lc:
+                ws.column_dimensions[col_letter].width = 70
+            elif 'pages' in header_lc:
+                ws.column_dimensions[col_letter].width = 10
+            else:  # Difficulty
+                ws.column_dimensions[col_letter].width = 14
 
-    for i, pdf in enumerate(pdfs, 1):
-        url   = pdf.get('url', '')
-        label = pdf.get('label', '')
-        ws.cell(row=i + 1, column=1, value=i).alignment  = center
-        ws.cell(row=i + 1, column=1).border              = border
-        ws.cell(row=i + 1, column=2, value=label).font   = Font(size=10)
-        ws.cell(row=i + 1, column=2).alignment           = left
-        ws.cell(row=i + 1, column=2).border              = border
-        pdf_cell             = ws.cell(row=i + 1, column=3, value=url)
-        pdf_cell.font        = link_font
-        pdf_cell.alignment   = left
-        pdf_cell.border      = border
-        ws.row_dimensions[i + 1].height = 16
+        # Header row
+        for col_idx, hdr in enumerate(wide_headers, 1):
+            cell           = ws.cell(row=1, column=col_idx, value=hdr)
+            cell.font      = header_font
+            cell.fill      = header_fill
+            cell.alignment = center
+            cell.border    = border
+        ws.row_dimensions[1].height = 20
+
+        for row_idx, row_data in enumerate(wide_rows, 2):
+            for col_idx, val in enumerate(row_data, 1):
+                cell        = ws.cell(row=row_idx, column=col_idx, value=val if val != '' else None)
+                cell.border = border
+                header_lc   = wide_headers[col_idx - 1].lower()
+                if col_idx == 1:                        # Source URL
+                    cell.font      = Font(size=10)
+                    cell.alignment = left
+                elif 'url' in header_lc:               # PDF URL columns
+                    cell.font      = link_font
+                    cell.alignment = left
+                elif 'difficulty' in header_lc:         # Difficulty columns
+                    vl = str(val).lower() if val else ''
+                    cell.font      = easy_font if vl == 'easy' else (hard_font if vl == 'hard' else Font(size=10))
+                    cell.alignment = center
+                else:                                   # Pages columns
+                    cell.font      = Font(size=10)
+                    cell.alignment = center
+            ws.row_dimensions[row_idx].height = 16
+
+    else:
+        # ── Original tall format (single-scrape) ─────────────────────────────
+        pdfs      = data.get('pdfs', [])
+        col_label = data.get('col_label', 'Source / File Name')
+        extra_cols = data.get('extra_cols', [])
+
+        col_widths = [6, 60, 80] + [16] * len(extra_cols)
+        for i, w in enumerate(col_widths):
+            ws.column_dimensions[chr(ord('A') + i)].width = w
+
+        headers = ['#', col_label, 'PDF URL'] + extra_cols
+        ws.append(headers)
+        for col in range(1, len(headers) + 1):
+            cell           = ws.cell(row=1, column=col)
+            cell.font      = header_font
+            cell.fill      = header_fill
+            cell.alignment = center
+            cell.border    = border
+        ws.row_dimensions[1].height = 20
+
+        for i, pdf in enumerate(pdfs, 1):
+            url   = pdf.get('url', '')
+            label = pdf.get('label', '')
+
+            ws.cell(row=i + 1, column=1, value=i).alignment = center
+            ws.cell(row=i + 1, column=1).border             = border
+            ws.cell(row=i + 1, column=1).font               = Font(size=10)
+
+            c2 = ws.cell(row=i + 1, column=2, value=label)
+            c2.font = Font(size=10); c2.alignment = left; c2.border = border
+
+            c3 = ws.cell(row=i + 1, column=3, value=url)
+            c3.font = link_font; c3.alignment = left; c3.border = border
+
+            for j, col_name in enumerate(extra_cols):
+                val  = pdf.get(col_name.lower(), '') or ''
+                cell = ws.cell(row=i + 1, column=4 + j, value=val)
+                cell.alignment = center
+                cell.border    = border
+                if col_name.lower() == 'difficulty':
+                    vl = str(val).lower()
+                    cell.font = easy_font if vl == 'easy' else (hard_font if vl == 'hard' else Font(size=10))
+                else:
+                    cell.font = Font(size=10)
+            ws.row_dimensions[i + 1].height = 16
 
     ws.freeze_panes = 'A2'
 
@@ -715,6 +780,7 @@ def run_single_scrape():
         base_domain  = parsed_start.netloc.lower().removeprefix('www.')
 
         visited        = set()
+        queued         = {url}
         queue          = deque([url])
         found_pdfs     = set()
         found_sites    = set()
@@ -737,7 +803,13 @@ def run_single_scrape():
             yield f"data: [{pages_crawled}] {current}\n\n"
 
             try:
-                headers = {'User-Agent': random.choice(USER_AGENTS)}
+                headers = {
+                    'User-Agent': random.choice(USER_AGENTS),
+                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+                    'Accept-Language': 'en-US,en;q=0.9',
+                    'Connection': 'keep-alive',
+                    'Upgrade-Insecure-Requests': '1',
+                }
                 resp = req.get(current, headers=headers, timeout=10, allow_redirects=True)
                 if resp.status_code != 200:
                     yield f"data: Skipped (HTTP {resp.status_code}): {current}\n\n"
@@ -778,7 +850,8 @@ def run_single_scrape():
 
                     link_domain = urlparse(full).netloc.lower().removeprefix('www.')
                     if link_domain == base_domain:
-                        if full not in visited:
+                        if full not in visited and full not in queued:
+                            queued.add(full)
                             queue.append(full)
                     elif find_external and full not in found_externals:
                         found_externals.add(full)
@@ -872,7 +945,13 @@ def run_page_scrape():
         yield f"data: Fetching {url}\n\n"
 
         try:
-            headers = {'User-Agent': random.choice(USER_AGENTS)}
+            headers = {
+                'User-Agent': random.choice(USER_AGENTS),
+                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+                'Accept-Language': 'en-US,en;q=0.9',
+                'Connection': 'keep-alive',
+                'Upgrade-Insecure-Requests': '1',
+            }
             resp = req.get(url, headers=headers, timeout=10, allow_redirects=True)
 
             if resp.status_code != 200:
@@ -1052,7 +1131,6 @@ def run_broken_link_check():
             'User-Agent': ua,
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
             'Accept-Language': 'en-US,en;q=0.9',
-            'Accept-Encoding': 'gzip, deflate, br',
             'Connection': 'keep-alive',
             'Upgrade-Insecure-Requests': '1',
         }
@@ -1102,6 +1180,7 @@ def run_broken_link_check():
             base_domain_norm = base_domain.removeprefix('www.')
 
             visited_pages = set()
+            queued_pages  = {url}
             checked_urls  = set()
             queue = deque([url])
 
@@ -1122,8 +1201,7 @@ def run_broken_link_check():
                 yield f"data: Scanning [{pages_crawled}]: {current}\n\n"
 
                 try:
-                    headers = {'User-Agent': random.choice(USER_AGENTS)}
-                    resp = req.get(current, headers=headers, timeout=12, allow_redirects=True)
+                    resp = req.get(current, headers=make_headers(), timeout=12, allow_redirects=True)
                     if resp.status_code != 200:
                         yield f"data: Skipped (HTTP {resp.status_code}): {current}\n\n"
                         continue
@@ -1141,7 +1219,8 @@ def run_broken_link_check():
                             full = urljoin(current, href).split('#')[0].rstrip('/')
                             if not full.startswith('http'):
                                 continue
-                            if urlparse(full).netloc.removeprefix('www.') == base_domain_norm and full not in visited_pages:
+                            if urlparse(full).netloc.removeprefix('www.') == base_domain_norm and full not in visited_pages and full not in queued_pages:
+                                queued_pages.add(full)
                                 queue.append(full)
 
                     # Collect resources to check from this page
@@ -1197,8 +1276,6 @@ def run_broken_link_check():
                     if new_resources:
                         yield f"data: Checking {len(new_resources)} resource(s)…\n\n"
 
-                    # Run concurrent checks and collect ALL results before yielding
-                    # (avoids generator suspension inside the executor context)
                     check_results = []
                     try:
                         with ThreadPoolExecutor(max_workers=3) as executor:
@@ -1211,15 +1288,15 @@ def run_broken_link_check():
                                     status, status_text = fut.result()
                                 except Exception as fe:
                                     status, status_text = 0, type(fe).__name__
-                                check_results.append((future_map[fut], status, status_text))
+                                item = future_map[fut]
+                                total_checked += 1
+                                yield f"data: CHECKING: {total_checked}|{item[1]}\n\n"
+                                check_results.append((item, status, status_text))
                     except Exception as te:
                         yield f"data: Warning: thread pool error — {te}\n\n"
 
-                    # Yield results now that the executor is fully closed
                     for res, status, status_text in check_results:
                         res_type, res_url, element, source_page, is_social = res
-                        total_checked += 1
-                        yield f"data: CHECKING: {total_checked}|{res_url}\n\n"
                         if status == 0 or status >= 400:
                             # Social media: only 404 is a genuine broken link;
                             # 400/403/429 etc. are normal bot-blocking responses.
@@ -1418,7 +1495,6 @@ def run_seo_check():
             'User-Agent': random.choice(USER_AGENTS),
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
             'Accept-Language': 'en-US,en;q=0.9',
-            'Accept-Encoding': 'gzip, deflate, br',
             'Connection': 'keep-alive',
             'Upgrade-Insecure-Requests': '1',
         }
@@ -1492,49 +1568,54 @@ def run_seo_check():
 
     def get_ollama_keywords(model, content_text, page_url):
         prompt = (
-            "You are an expert SEO data analyst specializing in K-12 school and school district websites.\n\n"
-            f"The page URL is: {page_url}\n\n"
-            "STEP 1 — Identify the exact organization this page belongs to by reading the content and URL. "
-            "It could be a specific school (e.g., 'Kitty Ward Elementary'), a district (e.g., 'Clark County School District / CCSD'), "
-            "a department, or another entity. Extract the shortest commonly used name "
-            "(e.g., 'Kitty Ward Elementary', 'CCSD', 'Valley High School') AND any well-known abbreviation or alternate name. "
-            "Store these as 'org_name' and 'org_short' in your output.\n\n"
-            "STEP 2 — Identify the top 3 core topics this specific page covers.\n\n"
-            "STEP 3 — Identify 4 to 5 HIGH-TRAFFIC branded keyword phrases this page should rank for. "
-            "Rules:\n"
-            "- Every phrase MUST include the org_name or org_short identified in Step 1.\n"
-            "- Phrases must be short (2–5 words) and reflect real search volume.\n"
-            "- Mix brand-first phrases (e.g., 'CCSD enrollment', 'Kitty Ward Elementary schedule') "
-            "with geo-branded phrases that add the city or state when it helps distinguish the result "
-            "(e.g., 'Kitty Ward Elementary Las Vegas', 'CCSD Las Vegas school calendar').\n"
-            "- Never generate a generic phrase that could describe any school in America — "
-            "every phrase must be uniquely tied to this specific organization.\n\n"
-            "STEP 4 — For each core topic from Step 2, suggest 3 long-tail search phrases that a parent, teacher, "
-            "or community member would actually type into Google to find this exact page. "
-            "Rules:\n"
-            "- Every phrase MUST include the org_name or org_short.\n"
-            "- Phrases should be specific and action-oriented (e.g., 'how to enroll at Kitty Ward Elementary', "
-            "'CCSD kindergarten registration deadline Clark County', 'Kitty Ward Elementary school supply list').\n"
-            "- No phrase should work as a generic search — it must point to this specific school or organization.\n\n"
-            "STEP 5 — Categorize each long-tail phrase's user intent: Navigational, Informational, or Action-oriented.\n\n"
-            "Return ONLY a valid JSON object — no markdown, no explanation, no code fences. "
-            "Use this exact structure:\n\n"
+            "You are an expert SEO keyword strategist. Analyze the webpage content below and generate "
+            "high-traffic, brand-specific keyword phrases for this site. This tool is used on ALL types "
+            "of websites — agencies, retailers, restaurants, law firms, schools, nonprofits, SaaS products, "
+            "medical practices, contractors, blogs, etc. Adapt your output to whatever industry this site is in.\n\n"
+            f"Page URL: {page_url}\n\n"
+            "--- INSTRUCTIONS ---\n\n"
+            "STEP 1: Read the content and URL. Identify:\n"
+            "  - The brand/organization name as it is commonly known (org_name)\n"
+            "  - Any short version or abbreviation (org_short) — use the full name if no abbreviation exists\n"
+            "  - The industry or business type (e.g., digital marketing agency, Italian restaurant, personal injury law firm)\n\n"
+            "STEP 2: List the top 3 topics, products, or services this specific page focuses on.\n\n"
+            "STEP 3: Generate 4–5 short branded keyword phrases (2–5 words each) this page should rank for.\n"
+            "  - Every phrase must contain the brand name or abbreviation from Step 1\n"
+            "  - Examples of the FORMAT (not the content — use the actual brand you found):\n"
+            "      [Brand] [service], [Brand] [city], [Brand] [product] reviews, [Brand] vs competitors\n"
+            "  - Add a location only if the site serves a specific geographic area\n"
+            "  - No generic phrases — each phrase must only make sense for this specific brand\n\n"
+            "STEP 4: Generate 6–9 long-tail phrases a real visitor would type into Google to reach this page.\n"
+            "  - Every phrase must contain the brand name or abbreviation\n"
+            "  - Match the phrasing to what someone in this industry's audience would search\n"
+            "  - Cover a mix of: finding the brand (Navigational), learning something (Informational), "
+            "taking action (Action-oriented)\n"
+            "  - No phrase should be so generic it could apply to any company\n\n"
+            "STEP 5: Label each long-tail phrase with its user intent: Navigational, Informational, or Action-oriented.\n\n"
+            "--- OUTPUT FORMAT ---\n\n"
+            "Return ONLY a valid JSON object. No markdown, no explanation, no code fences.\n\n"
             "{\n"
-            "  \"org_name\": \"Full organization name\",\n"
-            "  \"org_short\": \"Short name or abbreviation\",\n"
-            "  \"current_topics\": [\"topic1\", \"topic2\", \"topic3\"],\n"
+            "  \"org_name\": \"<full brand name detected from content>\",\n"
+            "  \"org_short\": \"<short name or same as org_name>\",\n"
+            "  \"current_topics\": [\"<topic 1>\", \"<topic 2>\", \"<topic 3>\"],\n"
             "  \"target_keywords\": [\n"
-            "    {\"phrase\": \"org_short branded phrase 1\"},\n"
-            "    {\"phrase\": \"org_name geo phrase 2\"}\n"
+            "    {\"phrase\": \"<brand short keyword 1>\"},\n"
+            "    {\"phrase\": \"<brand short keyword 2>\"},\n"
+            "    {\"phrase\": \"<brand short keyword 3>\"},\n"
+            "    {\"phrase\": \"<brand short keyword 4>\"},\n"
+            "    {\"phrase\": \"<brand short keyword 5>\"}\n"
             "  ],\n"
             "  \"community_search_suggestions\": [\n"
-            "    {\"phrase\": \"specific long-tail phrase with org name 1\", \"user_intent\": \"Action-oriented\"},\n"
-            "    {\"phrase\": \"specific long-tail phrase with org name 2\", \"user_intent\": \"Informational\"}\n"
+            "    {\"phrase\": \"<long-tail phrase 1>\", \"user_intent\": \"<intent>\"},\n"
+            "    {\"phrase\": \"<long-tail phrase 2>\", \"user_intent\": \"<intent>\"},\n"
+            "    {\"phrase\": \"<long-tail phrase 3>\", \"user_intent\": \"<intent>\"},\n"
+            "    {\"phrase\": \"<long-tail phrase 4>\", \"user_intent\": \"<intent>\"},\n"
+            "    {\"phrase\": \"<long-tail phrase 5>\", \"user_intent\": \"<intent>\"},\n"
+            "    {\"phrase\": \"<long-tail phrase 6>\", \"user_intent\": \"<intent>\"}\n"
             "  ]\n"
             "}\n\n"
-            "[WEBPAGE CONTENT START]\n"
-            f"{content_text[:4000]}\n"
-            "[WEBPAGE CONTENT END]"
+            "--- WEBPAGE CONTENT ---\n"
+            f"{content_text[:4000]}"
         )
         r = req.post(
             f"{ollama_url}/api/generate",
@@ -1543,10 +1624,15 @@ def run_seo_check():
         )
         r.raise_for_status()
         text = r.json().get('response', '').strip()
+        # Strip markdown code fences that some models emit
         text = re.sub(r'^```(?:json)?\s*', '', text)
         text = re.sub(r'\s*```$', '', text).strip()
+        # Extract the outermost JSON object
         m = re.search(r'\{[\s\S]*\}', text)
-        return json.loads(m.group() if m else text)
+        raw = m.group() if m else text
+        # Remove trailing commas before ] or } which some models produce
+        raw = re.sub(r',\s*([}\]])', r'\1', raw)
+        return json.loads(raw)
 
     spell = get_spell_checker() if find_spell else None
 
@@ -1554,10 +1640,12 @@ def run_seo_check():
         global _html_cache
         _html_cache = {}  # clear previous scrape
 
-        parsed_start = urlparse(url)
-        base_domain  = parsed_start.netloc.lower().removeprefix('www.')
+        parsed_start  = urlparse(url)
+        base_domain   = parsed_start.netloc.lower().removeprefix('www.')
+        is_ccsd_domain = 'ccsd.net' in base_domain
 
         visited         = set()
+        queued          = {url}
         checked_urls    = set()
         queue           = deque([url])
 
@@ -1583,23 +1671,37 @@ def run_seo_check():
             if current in visited:
                 continue
             visited.add(current)
-            pages_crawled += 1
-
-            yield f"data: PAGE: {pages_crawled}\n\n"
-            yield f"data: [{pages_crawled}] {current}\n\n"
 
             try:
-                headers = {'User-Agent': random.choice(USER_AGENTS)}
-                resp = req.get(current, headers=headers, timeout=12, allow_redirects=True)
+                resp = req.get(current, headers=make_headers(), timeout=12, allow_redirects=True)
                 if resp.status_code != 200:
                     yield f"data: Skipped (HTTP {resp.status_code}): {current}\n\n"
                     continue
                 if 'html' not in resp.headers.get('Content-Type', ''):
                     continue
 
+                # /fs/pages/ shortlink dedup — ccsd.net only.
+                # These CMS shortlinks redirect to canonical URLs; if the destination
+                # was already crawled (or will be), skip the /fs/pages/ duplicate.
+                effective = current
+                if is_ccsd_domain and re.search(r'/fs/pages/\d+', current):
+                    canonical = resp.url.rstrip('/')
+                    if (canonical != current and
+                            urlparse(canonical).netloc.lower().removeprefix('www.') == base_domain):
+                        if canonical in visited:
+                            yield f"data: Deduped: {current} → {canonical}\n\n"
+                            continue
+                        visited.add(canonical)
+                        queued.add(canonical)
+                        effective = canonical
+
+                pages_crawled += 1
+                yield f"data: PAGE: {pages_crawled}\n\n"
+                yield f"data: [{pages_crawled}] {effective}\n\n"
+
                 raw_html     = resp.text
                 content_html = extract_content_html(raw_html)
-                _html_cache[current] = content_html
+                _html_cache[effective] = content_html
                 soup = BeautifulSoup(raw_html, 'html.parser')
 
                 # Title & meta description
@@ -1607,8 +1709,8 @@ def run_seo_check():
                 page_title  = title_tag.get_text().strip()[:160] if title_tag else ''
                 desc_tag    = soup.find('meta', attrs={'name': re.compile(r'^description$', re.I)})
                 description = (desc_tag.get('content') or '').strip()[:300] if desc_tag else ''
-                yield f"data: PAGEINFO: {json.dumps({'url': current, 'title': page_title, 'description': description}, ensure_ascii=True)}\n\n"
-                crawled_pages.append({'url': current, 'title': page_title, 'description': description})
+                yield f"data: PAGEINFO: {json.dumps({'url': effective, 'title': page_title, 'description': description}, ensure_ascii=True)}\n\n"
+                crawled_pages.append({'url': effective, 'title': page_title, 'description': description})
 
                 pending_checks = []  # (type, url, element, source_page, is_social)
 
@@ -1617,7 +1719,7 @@ def run_seo_check():
                     href = a['href'].strip()
                     if not href or href.startswith(('mailto:', 'javascript:', '#', 'tel:')):
                         continue
-                    full = urljoin(current, href).split('#')[0].rstrip('/')
+                    full = urljoin(effective, href).split('#')[0].rstrip('/')
                     if not full.startswith('http'):
                         continue
 
@@ -1627,17 +1729,18 @@ def run_seo_check():
 
                     if find_pdf and is_pdf and full not in found_pdfs:
                         found_pdfs.add(full)
-                        yield f"data: PDF: {full}|{current}\n\n"
+                        yield f"data: PDF: {full}|{effective}\n\n"
 
                     if find_sites and 'sites.google.com' in full and full not in found_sites:
                         found_sites.add(full)
-                        yield f"data: SITE: {full}|{current}\n\n"
+                        yield f"data: SITE: {full}|{effective}\n\n"
 
                     link_domain = urlparse(full).netloc.lower().removeprefix('www.')
                     is_internal = link_domain == base_domain
 
                     if is_internal:
-                        if mode == 'site' and full not in visited:
+                        if mode == 'site' and full not in visited and full not in queued:
+                            queued.add(full)
                             queue.append(full)
                     elif find_external and full not in found_externals:
                         found_externals.add(full)
@@ -1646,17 +1749,17 @@ def run_seo_check():
                             rel = rel.split()
                         nofollow = 'nofollow' in [r.lower() for r in rel]
                         is_ccsd  = link_domain == 'ccsd.net' or link_domain.endswith('.ccsd.net')
-                        yield f"data: EXTERNAL: {full}|{current}|{1 if nofollow else 0}|{1 if is_ccsd else 0}\n\n"
+                        yield f"data: EXTERNAL: {full}|{effective}|{1 if nofollow else 0}|{1 if is_ccsd else 0}\n\n"
 
                     if full not in checked_urls:
                         social = is_social_url(full)
                         if is_pdf:
                             if find_pdf:
-                                pending_checks.append(('pdf', full, a, current, social))
+                                pending_checks.append(('pdf', full, a, effective, social))
                         elif is_internal:
-                            pending_checks.append(('link', full, a, current, social))
+                            pending_checks.append(('link', full, a, effective, social))
                         elif check_ext_stat and not (social and not check_social):
-                            pending_checks.append(('link', full, a, current, social))
+                            pending_checks.append(('link', full, a, effective, social))
 
                 # Images: alt-tag analysis + broken-check collection
                 if find_alt:
@@ -1664,7 +1767,7 @@ def run_seo_check():
                         src = (img.get('src') or img.get('data-src') or img.get('data-lazy-src') or '').strip()
                         if not src:
                             continue
-                        full_img = urljoin(current, src)
+                        full_img = urljoin(effective, src)
                         if not full_img.startswith('http'):
                             continue
                         alt     = img.get('alt')
@@ -1672,11 +1775,11 @@ def run_seo_check():
                         if full_img not in found_images:
                             found_images.add(full_img)
                             payload = json.dumps({
-                                'src': full_img, 'alt': alt or '', 'hasAlt': has_alt, 'source': current,
+                                'src': full_img, 'alt': alt or '', 'hasAlt': has_alt, 'source': effective,
                             }, ensure_ascii=True)
                             yield f"data: IMGALT: {payload}\n\n"
                         if full_img not in checked_urls:
-                            pending_checks.append(('image', full_img, img, current, False))
+                            pending_checks.append(('image', full_img, img, effective, False))
 
                 # Tracking/analytics scripts
                 if find_tracking:
@@ -1687,10 +1790,10 @@ def run_seo_check():
                     for name, patterns in TRACKER_PATTERNS:
                         for pattern in patterns:
                             if pattern.lower() in script_text.lower():
-                                key = f"{name}|{current}"
+                                key = f"{name}|{effective}"
                                 if key not in found_trackers:
                                     found_trackers.add(key)
-                                    yield f"data: TRACKER: {name}|{current}\n\n"
+                                    yield f"data: TRACKER: {name}|{effective}\n\n"
                                 break
 
                 # Broken-link/image/pdf status checks
@@ -1712,14 +1815,15 @@ def run_seo_check():
                                 status, status_text = fut.result()
                             except Exception as fe:
                                 status, status_text = 0, type(fe).__name__
-                            check_results.append((future_map[fut], status, status_text))
+                            item = future_map[fut]
+                            total_checked += 1
+                            yield f"data: CHECKING: {total_checked}|{item[1]}\n\n"
+                            check_results.append((item, status, status_text))
                 except Exception as te:
                     yield f"data: Warning: thread pool error — {te}\n\n"
 
                 for res, status, status_text in check_results:
                     res_type, res_url, element, source_page, social = res
-                    total_checked += 1
-                    yield f"data: CHECKING: {total_checked}|{res_url}\n\n"
                     if status == 0 or status >= 400:
                         if social and status != 404:
                             continue
@@ -1742,6 +1846,45 @@ def run_seo_check():
                 yield f"data: Error ({current}): {type(e).__name__}: {e}\n\n"
 
             time.sleep(0.15)
+
+        # ---- Phase 1.5: PDF page count ----
+        if find_pdf and found_pdfs:
+            yield f"data: Counting PDF pages ({len(found_pdfs)} files)…\n\n"
+
+            def count_pdf_pages(pdf_url):
+                try:
+                    r = req.get(pdf_url, headers={'User-Agent': random.choice(USER_AGENTS)},
+                                timeout=20, stream=True)
+                    if r.status_code != 200:
+                        r.close()
+                        return None
+                    data = b''
+                    for chunk in r.iter_content(8192):
+                        data += chunk
+                        if len(data) >= 524288:  # 512 KB is enough for page-tree metadata
+                            break
+                    r.close()
+                    counts = re.findall(rb'/Count\s+(\d+)', data)
+                    if counts:
+                        return max(int(c) for c in counts)
+                    pages = len(re.findall(rb'/Type\s*/Page\b', data))
+                    return pages if pages > 0 else None
+                except Exception:
+                    return None
+
+            with ThreadPoolExecutor(max_workers=3) as pdf_ex:
+                pdf_futures = {pdf_ex.submit(count_pdf_pages, u): u for u in found_pdfs}
+                for fut in as_completed(pdf_futures):
+                    pdf_url = pdf_futures[fut]
+                    try:
+                        pages = fut.result()
+                    except Exception:
+                        pages = None
+                    if pages is not None:
+                        difficulty = 'easy' if pages == 1 else 'hard'
+                    else:
+                        difficulty = 'unknown'
+                    yield f"data: PDF_INFO: {json.dumps({'url': pdf_url, 'pages': pages, 'difficulty': difficulty}, ensure_ascii=True)}\n\n"
 
         # ---- Phase 2: spell-check every crawled page, now that discovery/link
         # checking is fully done (keeps slow per-page work from stalling the crawl) ----

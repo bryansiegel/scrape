@@ -23,7 +23,18 @@
       "Bash(node --check /tmp/seo_checker_script.js)",
       "Bash(node --check /tmp/seo2.js)",
       "Bash(node --check /tmp/seo3.js)",
-      "Bash(node --check /tmp/seo4.js)"
+      "Bash(node --check /tmp/seo4.js)",
+      "Bash(pip3 list *)",
+      "Bash(curl -s -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36\" -L \"https://www.relentless-digital.com/\")",
+      "Bash(curl -s -o /dev/null -w \"Status: %{http_code}\\\\nContent-Type: %{content_type}\\\\nFinal-URL: %{url_effective}\\\\n\" -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36\" -L \"https://www.relentless-digital.com/our-services\")",
+      "Bash(curl -s -o /dev/null -w \"Status: %{http_code}\\\\nContent-Type: %{content_type}\\\\nFinal-URL: %{url_effective}\\\\n\" -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36\" -L \"https://www.relentless-digital.com/seo\")",
+      "Bash(curl -s -o /dev/null -w \"Status: %{http_code}\\\\nContent-Type: %{content_type}\\\\nFinal-URL: %{url_effective}\\\\n\" -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36\" -L \"https://www.relentless-digital.com/contact\")",
+      "Bash(curl *)",
+      "Read(//usr/bin/**)",
+      "Read(//usr/local/bin/**)",
+      "Bash(python3.12 *)",
+      "Bash(/mnt/c/Users/bryan/Documents/sites/scrape/.venv/Scripts/python.exe *)",
+      "Bash(awk 'NR>=1603 && NR<=1783' /mnt/c/Users/bryan/Documents/sites/scrape/app.py)"
     ],
     "deny": []
   }
