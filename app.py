@@ -91,6 +91,25 @@ def list_ollama_models(base_url):
     return running, installed
 
 
+def url_to_filename(url, ext='.txt'):
+    """Turn a page URL into a safe filename like 'subdomain--path--to--page.txt'."""
+    from urllib.parse import urlparse
+
+    parsed = urlparse(url)
+    host = parsed.netloc.lower()
+    if host.startswith('www.'):
+        host = host[4:]
+    if host.endswith('.ccsd.net'):
+        host = host[:-len('.ccsd.net')]
+    elif host == 'ccsd.net':
+        host = 'ccsd'
+
+    path = parsed.path.strip('/')
+    name = f"{host}--{path.replace('/', '--')}" if path else host
+    name = re.sub(r'[^a-zA-Z0-9\-_.]', '_', name)
+    return f"{name}{ext}"
+
+
 def extract_content_html(html_text):
     """Return only the main content HTML, stripping nav, header, footer, sidebars, and scripts."""
     from bs4 import BeautifulSoup, Tag
@@ -2056,6 +2075,81 @@ def get_page_html():
     page_url = request.args.get('url', '').strip()
     html = _html_cache.get(page_url, '')
     return jsonify({'html': html, 'found': bool(html)})
+
+
+@app.route('/api/export/html-zip')
+def export_html_zip():
+    import zipfile
+    from urllib.parse import urlparse
+
+    if not _html_cache:
+        return 'No HTML cached — run a scrape first', 400
+
+    buf = io.BytesIO()
+    used_names = set()
+    with zipfile.ZipFile(buf, 'w', zipfile.ZIP_DEFLATED) as zf:
+        for page_url, content in _html_cache.items():
+            name = url_to_filename(page_url)
+            base, ext = name[:-4], name[-4:]
+            final, n = name, 2
+            while final in used_names:
+                final = f"{base}_{n}{ext}"
+                n += 1
+            used_names.add(final)
+            zf.writestr(final, content or '')
+    buf.seek(0)
+
+    first_host = urlparse(next(iter(_html_cache))).netloc.lower().removeprefix('www.') or 'site'
+    zip_name = f"{first_host}_html.zip"
+
+    return send_file(buf, mimetype='application/zip', as_attachment=True, download_name=zip_name)
+
+
+@app.route('/api/export/images-zip', methods=['POST'])
+def export_images_zip():
+    import zipfile
+    import requests as req
+    from urllib.parse import urlparse
+
+    data       = request.get_json(silent=True) or {}
+    image_urls = data.get('images', [])
+    if not image_urls:
+        return 'No images to export', 400
+
+    buf = io.BytesIO()
+    used_names = set()
+    with zipfile.ZipFile(buf, 'w', zipfile.ZIP_DEFLATED) as zf:
+        for img_url in image_urls:
+            try:
+                resp = req.get(img_url, timeout=15)
+                if resp.status_code != 200:
+                    continue
+                filename = img_url.split('/')[-1].split('?')[0] or 'image'
+                if '.' not in filename:
+                    ct  = resp.headers.get('Content-Type', 'image/jpeg')
+                    ext = ct.split('/')[-1].split(';')[0].strip() or 'jpg'
+                    filename = f'{filename}.{ext}'
+                filename = re.sub(r'[^a-zA-Z0-9\-_.]', '_', filename)
+
+                final, n = filename, 2
+                while final in used_names:
+                    stem, dot, ext = filename.rpartition('.')
+                    final = f"{stem}_{n}{dot}{ext}" if dot else f"{filename}_{n}"
+                    n += 1
+                used_names.add(final)
+                zf.writestr(final, resp.content)
+            except Exception:
+                continue
+
+    if not used_names:
+        return 'Could not download any images', 502
+
+    buf.seek(0)
+
+    first_host = urlparse(image_urls[0]).netloc.lower().removeprefix('www.') or 'site'
+    zip_name = f"{first_host}_images.zip"
+
+    return send_file(buf, mimetype='application/zip', as_attachment=True, download_name=zip_name)
 
 
 @app.route('/api/download-image')

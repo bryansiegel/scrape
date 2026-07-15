@@ -165,6 +165,12 @@
                             <button class="btn btn-sm btn-outline-success" onclick="exportCsv()">
                                 <i class="bi bi-download me-1"></i>Export CSV
                             </button>
+                            <button class="btn btn-sm btn-outline-primary" onclick="exportHtml()" id="exportHtmlBtn" style="display:none;">
+                                <i class="bi bi-filetype-html me-1"></i>Export HTML
+                            </button>
+                            <button class="btn btn-sm btn-outline-info" onclick="exportImages()" id="exportImagesBtn" style="display:none;">
+                                <i class="bi bi-images me-1"></i>Export Images to Folder
+                            </button>
                             <button class="btn btn-sm btn-success" onclick="exportPdfsExcel()" id="exportExcelBtn" style="display:none;">
                                 <i class="bi bi-file-earmark-excel me-1"></i>Export PDFs to Excel
                             </button>
@@ -375,6 +381,10 @@
             if (hasAny) el('exportBtns').style.display = '';
             if (pdfResults.length) el('exportExcelBtn').style.removeProperty('display');
             else el('exportExcelBtn').style.display = 'none';
+            if (linksResults.length) el('exportHtmlBtn').style.removeProperty('display');
+            else el('exportHtmlBtn').style.display = 'none';
+            if (imagesResults.length) el('exportImagesBtn').style.removeProperty('display');
+            else el('exportImagesBtn').style.display = 'none';
         }
 
         // ── Message handlers ────────────────────────────────────────────────────
@@ -567,6 +577,49 @@
                 download: 'scrape_results.csv'
             });
             a.click();
+        }
+
+        // ── Export HTML ─────────────────────────────────────────────────────────
+        function exportHtml() {
+            const btn = document.getElementById('exportHtmlBtn');
+            const original = btn.innerHTML;
+            btn.disabled = true;
+            btn.innerHTML = '<span class="spinner-border spinner-border-sm me-1"></span>Zipping…';
+            fetch('/api/export/html-zip')
+                .then(r => { if (!r.ok) throw new Error('Export failed'); return r.blob(); })
+                .then(blob => {
+                    const a = Object.assign(document.createElement('a'), {
+                        href: URL.createObjectURL(blob),
+                        download: 'site_html.zip',
+                    });
+                    a.click();
+                })
+                .catch(() => alert('Export HTML failed.'))
+                .finally(() => { btn.disabled = false; btn.innerHTML = original; });
+        }
+
+        // ── Export Images to Folder ──────────────────────────────────────────────
+        function exportImages() {
+            if (!imagesResults.length) return;
+            const btn = document.getElementById('exportImagesBtn');
+            const original = btn.innerHTML;
+            btn.disabled = true;
+            btn.innerHTML = '<span class="spinner-border spinner-border-sm me-1"></span>Zipping…';
+            fetch('/api/export/images-zip', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ images: imagesResults.map(r => r.url) }),
+            })
+                .then(r => { if (!r.ok) throw new Error('Export failed'); return r.blob(); })
+                .then(blob => {
+                    const a = Object.assign(document.createElement('a'), {
+                        href: URL.createObjectURL(blob),
+                        download: 'site_images.zip',
+                    });
+                    a.click();
+                })
+                .catch(() => alert('Export Images failed.'))
+                .finally(() => { btn.disabled = false; btn.innerHTML = original; });
         }
 
         // ── Export PDFs to Excel ─────────────────────────────────────────────────
