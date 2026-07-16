@@ -34,7 +34,16 @@
       "Read(//usr/local/bin/**)",
       "Bash(python3.12 *)",
       "Bash(/mnt/c/Users/bryan/Documents/sites/scrape/.venv/Scripts/python.exe *)",
-      "Bash(awk 'NR>=1603 && NR<=1783' /mnt/c/Users/bryan/Documents/sites/scrape/app.py)"
+      "Bash(awk 'NR>=1603 && NR<=1783' /mnt/c/Users/bryan/Documents/sites/scrape/app.py)",
+      "Bash(.venv/bin/python *)",
+      "Bash(pip3 install *)",
+      "Bash(cmd.exe /c \"where python\")",
+      "Bash(grep -o '<fieldset aria-controls=\"fsEl_3408\"[^!]*fsElementSlideshowControls[^~]\\\\{0,400\\\\}' \"/mnt/c/Users/bryan/Documents/sites/scrape/html/.txt\")",
+      "Bash(venv/Scripts/python.exe -c \"import bs4; print\\('ok'\\)\")",
+      "Bash(.venv/Scripts/python.exe /tmp/claude-1000/-mnt-c-Users-bryan-Documents-sites-scrape/f4853252-428a-4e0e-b74d-ba8de376a52f/scratchpad/test_clean.py)",
+      "Bash(.venv/Scripts/python.exe -c ' *)",
+      "Bash(.venv/Scripts/python.exe *)",
+      "Bash(node *)"
     ],
     "deny": []
   }

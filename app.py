@@ -4,6 +4,7 @@ from mysql.connector import errorcode
 import os
 import re
 import io
+import base64
 import subprocess
 import openpyxl
 
@@ -24,32 +25,12 @@ app = Flask(__name__)
 # Single-scrape HTML cache — stores last scrape's page HTML keyed by URL
 _html_cache = {}
 
-# Tracking/analytics script detection patterns
+# Tracking/analytics script detection patterns — Google + Facebook Pixel only.
 TRACKER_PATTERNS = [
     ('Google Analytics 4',         ['gtag/js?id=G-', "gtag('config", "gtag('event"]),
     ('Google Universal Analytics', ['google-analytics.com/analytics.js', "ga('create"]),
     ('Google Tag Manager',         ['googletagmanager.com/gtm.js']),
     ('Facebook Pixel',             ['connect.facebook.net/en_US/fbevents.js', "fbq('init"]),
-    ('LinkedIn Insight Tag',       ['snap.licdn.com/li.lms-analytics', '_linkedin_partner_id']),
-    ('Twitter / X Pixel',          ['static.ads-twitter.com/uwt.js', "twq('init"]),
-    ('HotJar',                     ['static.hotjar.com/c/hotjar']),
-    ('Microsoft Clarity',          ['clarity.ms/tag']),
-    ('Mixpanel',                   ['cdn.mxpnl.com', "mixpanel.init("]),
-    ('Segment',                    ['cdn.segment.com/analytics.js', "analytics.load("]),
-    ('Heap Analytics',             ['cdn.heapanalytics.com', "heap.load("]),
-    ('HubSpot',                    ['js.hs-scripts.com', 'js.hsforms.net']),
-    ('Matomo / Piwik',             ['matomo.js', 'piwik.js', '_paq.push']),
-    ('Optimizely',                 ['cdn.optimizely.com']),
-    ('FullStory',                  ['fullstory.com/s/fs.js', '_fs_debug']),
-    ('Intercom',                   ['widget.intercom.io', 'js.intercomcdn.com']),
-    ('Amplitude',                  ['cdn.amplitude.com', "amplitude.getInstance"]),
-    ('Crazy Egg',                  ['script.crazyegg.com']),
-    ('TikTok Pixel',               ['analytics.tiktok.com/i18n/pixel', "ttq.load("]),
-    ('Pinterest Tag',              ['ct.pinterest.com/v3/', "pintrk('load"]),
-    ('Snapchat Pixel',             ['sc-static.net/s/snapchat.js']),
-    ('Adobe Analytics',            ['omtrdc.net', 's_code.js']),
-    ('Cloudflare Web Analytics',   ['static.cloudflareinsights.com/beacon.min.js']),
-    ('Yandex.Metrica',             ['mc.yandex.ru/metrika']),
 ]
 
 # Lazily-initialized spell checker singleton — loading the dictionary is too
@@ -110,7 +91,31 @@ def url_to_filename(url, ext='.txt'):
     return f"{name}{ext}"
 
 
-def extract_content_html(html_text):
+def resolve_img_src(img, base_url=None):
+    """Get the real image URL for an <img> tag — a plain src/data-src/data-lazy-src,
+    or (Finalsite CMS) the largest size baked into a data-image-sizes JSON blob."""
+    from urllib.parse import urljoin
+
+    src = (img.get('src') or img.get('data-src') or img.get('data-lazy-src') or '').strip()
+    if src:
+        return urljoin(base_url, src) if base_url else src
+
+    raw_sizes = img.get('data-image-sizes')
+    if raw_sizes:
+        import json
+        from urllib.parse import unquote
+        try:
+            sizes = json.loads(unquote(raw_sizes))
+            best = max(sizes, key=lambda s: s.get('width', 0))
+            if best.get('url'):
+                return best['url']
+        except Exception:
+            pass
+
+    return None
+
+
+def extract_content_html(html_text, base_url=None):
     """Return only the main content HTML, stripping nav, header, footer, sidebars, and scripts."""
     from bs4 import BeautifulSoup, Tag
 
@@ -172,9 +177,136 @@ def extract_content_html(html_text):
                 elem.attrs.pop('class', None)
                 elem.attrs.pop('style', None)
 
+        # Resolve each <img> to a real, absolute src (handling lazy-load
+        # attributes and Finalsite's data-image-sizes CDN blobs) — drop any
+        # image we can't resolve a URL for.
+        for img in target.find_all('img'):
+            resolved = resolve_img_src(img, base_url)
+            if resolved:
+                img['src'] = resolved
+            else:
+                img.decompose()
+
         return str(target)
     except Exception:
         # If anything goes wrong, fall back to returning the raw HTML
+        return html_text
+
+
+def clean_export_html(html_text):
+    """Strip content HTML down to headings, paragraphs, links, lists, and tables only,
+    then reformat it with each block tag on its own line and no stray whitespace."""
+    from bs4 import BeautifulSoup, NavigableString
+
+    ALLOWED_TAGS = {
+        'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
+        'p', 'a', 'img',
+        'ul', 'ol', 'li',
+        'table', 'thead', 'tbody', 'tfoot', 'tr', 'td', 'th',
+    }
+    ALLOWED_ATTRS = {'a': {'href'}, 'img': {'src', 'alt'}}
+
+    # Structural tags whose direct children are themselves tags (never meaningful
+    # text) — each child gets its own output line. Everything else (headings,
+    # paragraphs, list items, cells) renders its inline content on one line.
+    CONTAINER_TAGS = {'ul', 'ol', 'table', 'thead', 'tbody', 'tfoot', 'tr'}
+    LEAF_TAGS = {'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p', 'li', 'td', 'th'}
+
+    # UI chrome that carries no page content of its own (form controls, decorative
+    # media, icons) — delete these outright rather than unwrapping, or their
+    # screen-reader-only label text (e.g. "pause slideshow") leaks into the output.
+    # Note: <figure> is deliberately NOT here — it's just a wrapper and often
+    # holds the <img> we want to keep, so it gets unwrapped instead, below.
+    CHROME_TAGS = {
+        'button', 'input', 'select', 'option', 'textarea', 'label', 'form',
+        'svg', 'fieldset', 'legend', 'figcaption',
+        'video', 'audio', 'canvas',
+    }
+    SR_ONLY_HINTS = ('sr-only', 'sronly', 'visually-hidden', 'visuallyhidden', 'screen-reader')
+
+    try:
+        soup = BeautifulSoup(html_text, 'html.parser')
+
+        for elem in soup.find_all(True):
+            # A tag whose ancestor was already decomposed earlier in this same
+            # loop (e.g. a <button><svg>...) is a dead object — .attrs is None
+            # and .get() raises, which was silently swallowed by the outer
+            # except and made this whole function a no-op on real pages.
+            if elem.decomposed:
+                continue
+            if elem.name in CHROME_TAGS or elem.get('aria-hidden') == 'true':
+                elem.decompose()
+                continue
+            attrs = ' '.join(filter(None, [
+                elem.get('id') or '',
+                ' '.join(elem.get('class') or []),
+            ])).lower()
+            if any(hint in attrs for hint in SR_ONLY_HINTS):
+                elem.decompose()
+
+        for elem in soup.find_all(True):
+            if elem.name not in ALLOWED_TAGS:
+                elem.unwrap()
+
+        for elem in soup.find_all(True):
+            keep = ALLOWED_ATTRS.get(elem.name, set())
+            elem.attrs = {k: v for k, v in elem.attrs.items() if k in keep}
+
+        # Drop links that lost their href, and images that lost their src,
+        # and any tags left empty after unwrapping.
+        for a in soup.find_all('a'):
+            if not a.get('href'):
+                a.unwrap()
+
+        for img in soup.find_all('img'):
+            if not img.get('src'):
+                img.decompose()
+
+        for tag_name in ('li', 'p', 'td', 'th'):
+            for elem in soup.find_all(tag_name):
+                if not elem.get_text(strip=True):
+                    elem.decompose()
+
+        # Collapse all internal whitespace runs (newlines, tabs, repeated spaces
+        # from the original page's indentation) down to single spaces.
+        for node in soup.find_all(string=True):
+            collapsed = re.sub(r'\s+', ' ', str(node))
+            node.replace_with(NavigableString(collapsed))
+
+        # Container tags (ul/ol/table/thead/tbody/tfoot/tr) only ever hold other
+        # tags — any text between their children is leftover indentation, so drop it.
+        for elem in list(soup.find_all(CONTAINER_TAGS)) + [soup]:
+            for child in list(elem.contents):
+                if isinstance(child, NavigableString) and not child.strip():
+                    child.extract()
+
+        # Leaf/inline tags keep their text, but trim the whitespace that used to
+        # separate them from sibling tags in the original markup.
+        for elem in soup.find_all(list(LEAF_TAGS) + ['a']):
+            if elem.contents and isinstance(elem.contents[0], NavigableString):
+                elem.contents[0].replace_with(elem.contents[0].lstrip())
+            if elem.contents and isinstance(elem.contents[-1], NavigableString):
+                elem.contents[-1].replace_with(elem.contents[-1].rstrip())
+
+        # Serialize with each container/leaf tag on its own line and no added
+        # indentation — inline tags (links) stay inline within their parent line.
+        def render(node):
+            lines = []
+            for child in node.contents:
+                if isinstance(child, NavigableString):
+                    if child.strip():
+                        lines.append(str(child))
+                    continue
+                if child.name in CONTAINER_TAGS:
+                    lines.append(f'<{child.name}>')
+                    lines.extend(render(child))
+                    lines.append(f'</{child.name}>')
+                else:
+                    lines.append(str(child))
+            return lines
+
+        return '\n'.join(render(soup))
+    except Exception:
         return html_text
 
 
@@ -804,7 +936,7 @@ def run_single_scrape():
         found_pdfs     = set()
         found_sites    = set()
         found_images   = set()
-        found_trackers = set()  # "tracker_name|page_url" keys to dedupe per-page
+        found_trackers = set()  # "tracker_name|code" keys — unique script code, site-wide
         found_externals = set()
         pages_crawled  = 0
 
@@ -839,7 +971,7 @@ def run_single_scrape():
                     continue
 
                 raw_html = resp.text
-                _html_cache[current] = extract_content_html(raw_html)
+                _html_cache[current] = extract_content_html(raw_html, current)
                 soup = BeautifulSoup(raw_html, 'html.parser')
 
                 # Emit LINK with page title so the All Links tab can label it
@@ -881,38 +1013,45 @@ def run_single_scrape():
                         is_ccsd = link_domain == 'ccsd.net' or link_domain.endswith('.ccsd.net')
                         yield f"data: EXTERNAL: {full}|{current}|{1 if nofollow else 0}|{1 if is_ccsd else 0}\n\n"
 
-                # Collect images
+                # Collect images from <img> tags only (no external CDNs/other
+                # sites) — except a page-embedded resource CDN (e.g. Finalsite's
+                # data-image-sizes-hosted photos) still counts as first-party
+                # since it's this site's own asset host, not a foreign reference.
                 if find_images:
                     for img in soup.find_all('img'):
-                        src = (img.get('src') or img.get('data-src') or
-                               img.get('data-lazy-src') or '').strip()
-                        if src:
-                            full_img = urljoin(current, src)
-                            if full_img.startswith('http') and full_img not in found_images:
-                                found_images.add(full_img)
-                                yield f"data: IMG: {full_img}|{current}\n\n"
-                    for source in soup.find_all('source'):
-                        for part in (source.get('srcset') or '').split(','):
-                            src = part.strip().split()[0] if part.strip() else ''
-                            if src:
-                                full_img = urljoin(current, src)
-                                if full_img.startswith('http') and full_img not in found_images:
-                                    found_images.add(full_img)
-                                    yield f"data: IMG: {full_img}|{current}\n\n"
+                        plain_src = (img.get('src') or img.get('data-src') or
+                                     img.get('data-lazy-src') or '').strip()
+                        is_first_party_cdn = not plain_src and img.get('data-image-sizes')
+                        full_img = resolve_img_src(img, current)
+                        if not full_img or not full_img.startswith('http') or full_img in found_images:
+                            continue
+                        if not is_first_party_cdn:
+                            img_domain = urlparse(full_img).netloc.lower().removeprefix('www.')
+                            if img_domain != base_domain:
+                                continue
+                        found_images.add(full_img)
+                        yield f"data: IMG: {full_img}|{current}\n\n"
 
-                # Detect tracking/analytics scripts
+                # Detect tracking/analytics scripts — capture each script's actual
+                # code (src URL for external scripts, full body for inline ones)
+                # and dedupe site-wide so an identical snippet on every page only
+                # shows up once.
                 if find_tracking:
-                    script_text = ''
                     for script in soup.find_all('script'):
-                        script_text += ' ' + (script.get('src') or '')
-                        script_text += ' ' + (script.get_text() or '')
-                    for name, patterns in TRACKER_PATTERNS:
-                        for pattern in patterns:
-                            if pattern.lower() in script_text.lower():
-                                key = f"{name}|{current}"
+                        src  = (script.get('src') or '').strip()
+                        text = (script.get_text() or '').strip()
+                        haystack = f"{src} {text}".lower()
+                        code = src or text
+                        if not code:
+                            continue
+                        for name, patterns in TRACKER_PATTERNS:
+                            if any(p.lower() in haystack for p in patterns):
+                                key = f"{name}|{code}"
                                 if key not in found_trackers:
                                     found_trackers.add(key)
-                                    yield f"data: TRACKER: {name}|{current}\n\n"
+                                    kind = 'src' if src else 'inline'
+                                    code_b64 = base64.b64encode(code.encode('utf-8')).decode('ascii')
+                                    yield f"data: TRACKER: {name}|{current}|{kind}|{code_b64}\n\n"
                                 break
 
             except Exception as e:
@@ -985,7 +1124,7 @@ def run_page_scrape():
                 return
 
             raw_html = resp.text
-            _html_cache[url] = extract_content_html(raw_html)
+            _html_cache[url] = extract_content_html(raw_html, url)
             soup = BeautifulSoup(raw_html, 'html.parser')
 
             title_tag  = soup.find('title')
@@ -1719,7 +1858,7 @@ def run_seo_check():
                 yield f"data: [{pages_crawled}] {effective}\n\n"
 
                 raw_html     = resp.text
-                content_html = extract_content_html(raw_html)
+                content_html = extract_content_html(raw_html, effective)
                 _html_cache[effective] = content_html
                 soup = BeautifulSoup(raw_html, 'html.parser')
 
@@ -2096,7 +2235,7 @@ def export_html_zip():
                 final = f"{base}_{n}{ext}"
                 n += 1
             used_names.add(final)
-            zf.writestr(final, content or '')
+            zf.writestr(final, clean_export_html(content) if content else '')
     buf.seek(0)
 
     first_host = urlparse(next(iter(_html_cache))).netloc.lower().removeprefix('www.') or 'site'

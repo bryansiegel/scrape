@@ -171,6 +171,9 @@
                             <button class="btn btn-sm btn-outline-info" onclick="exportImages()" id="exportImagesBtn" style="display:none;">
                                 <i class="bi bi-images me-1"></i>Export Images to Folder
                             </button>
+                            <button class="btn btn-sm btn-outline-warning" onclick="exportScripts()" id="exportScriptsBtn" style="display:none;">
+                                <i class="bi bi-file-earmark-code me-1"></i>Export Scripts
+                            </button>
                             <button class="btn btn-sm btn-success" onclick="exportPdfsExcel()" id="exportExcelBtn" style="display:none;">
                                 <i class="bi bi-file-earmark-excel me-1"></i>Export PDFs to Excel
                             </button>
@@ -385,6 +388,8 @@
             else el('exportHtmlBtn').style.display = 'none';
             if (imagesResults.length) el('exportImagesBtn').style.removeProperty('display');
             else el('exportImagesBtn').style.display = 'none';
+            if (trackerResults.length) el('exportScriptsBtn').style.removeProperty('display');
+            else el('exportScriptsBtn').style.display = 'none';
         }
 
         // ── Message handlers ────────────────────────────────────────────────────
@@ -455,34 +460,66 @@
             el('imagesList').appendChild(row);
         }
 
+        function downloadTextFile(filename, text) {
+            const a = Object.assign(document.createElement('a'), {
+                href: URL.createObjectURL(new Blob([text], { type: 'text/plain' })),
+                download: filename,
+            });
+            a.click();
+            URL.revokeObjectURL(a.href);
+        }
+
+        // Rebuild a real, pasteable <script> tag from the captured code. The closing
+        // tag is split with \/ so the browser's HTML parser (which scans raw script
+        // text for a literal "</script" regardless of JS syntax) doesn't end this
+        // page's own <script> block early.
+        function wrapScriptTag(kind, code) {
+            return kind === 'src' ? `<script src="${code}"><\/script>` : `<script>\n${code}\n<\/script>`;
+        }
+
         function handleTracker(payload) {
-            const pipe   = payload.indexOf('|');
-            const name   = pipe >= 0 ? payload.slice(0, pipe) : payload;
-            const srcPage = pipe >= 0 ? payload.slice(pipe + 1) : '';
-            trackerResults.push({ name, source: srcPage });
+            const parts   = payload.split('|');
+            const name    = parts[0] || payload;
+            const srcPage = parts[1] || '';
+            const kind    = parts[2] || 'inline';
+            const code    = parts[3] ? decodeURIComponent(escape(atob(parts[3]))) : '';
+            trackerResults.push({ name, source: srcPage, kind, code });
             updateCount('cntTrackers', 'badgeTracking', trackerResults.length);
             hide('trackingEmpty');
             show('resultsCard');
 
-            const colorMap = {
-                'Google': 'danger', 'Facebook': 'primary', 'LinkedIn': 'primary',
-                'Twitter': 'dark', 'HotJar': 'warning', 'Microsoft': 'primary',
-                'TikTok': 'dark', 'Pinterest': 'danger', 'Snapchat': 'warning',
-                'Adobe': 'danger', 'Yandex': 'warning',
-            };
+            const colorMap = { 'Google': 'danger', 'Facebook': 'primary' };
             let color = 'secondary';
             for (const [k, v] of Object.entries(colorMap)) {
                 if (name.startsWith(k)) { color = v; break; }
             }
 
+            // Distinguish same-named-but-different scripts with a suffix (e.g. two GA4 IDs).
+            const sameNameCount = trackerResults.filter(r => r.name === name).length;
+            const fileBase = name.replace(/[^a-zA-Z0-9\-_.]/g, '_') + (sameNameCount > 1 ? `_${sameNameCount}` : '');
+
             const row = document.createElement('div');
             row.className = 'border-bottom pb-2 mb-2 d-flex align-items-start gap-2';
             row.innerHTML = `
                 <span class="badge bg-${color} tracker-badge mt-1">${esc(name)}</span>
-                <div style="font-size:.82rem;">
-                    ${srcPage ? `<span class="text-muted">Detected on: <a href="${esc(srcPage)}" target="_blank" class="text-decoration-none text-muted">${esc(srcPage)}</a></span>` : ''}
-                </div>`;
+                <div style="font-size:.82rem; min-width:0; flex:1;">
+                    ${srcPage ? `<div class="text-muted">First seen on: <a href="${esc(srcPage)}" target="_blank" class="text-decoration-none text-muted">${esc(srcPage)}</a></div>` : ''}
+                    ${code ? `<code class="text-break d-block text-muted" style="font-size:.75rem; white-space:pre-wrap;">${esc(code.length > 200 ? code.slice(0, 200) + '…' : code)}</code>` : ''}
+                </div>
+                <button type="button" class="btn btn-sm btn-outline-secondary flex-shrink-0" title="Export this script as .txt">
+                    <i class="bi bi-download"></i>
+                </button>`;
+            row.querySelector('button').addEventListener('click', () => downloadTextFile(`${fileBase}.txt`, wrapScriptTag(kind, code)));
             el('trackingList').appendChild(row);
+        }
+
+        // ── Export Scripts ─────────────────────────────────────────────────────
+        function exportScripts() {
+            if (!trackerResults.length) return;
+            const text = trackerResults
+                .map(r => `<!-- ${r.name} -->\n${wrapScriptTag(r.kind, r.code)}`)
+                .join('\n\n');
+            downloadTextFile('site_scripts.txt', text);
         }
 
         function handleExternal(payload) {
