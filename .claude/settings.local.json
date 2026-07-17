@@ -43,7 +43,19 @@
       "Bash(.venv/Scripts/python.exe /tmp/claude-1000/-mnt-c-Users-bryan-Documents-sites-scrape/f4853252-428a-4e0e-b74d-ba8de376a52f/scratchpad/test_clean.py)",
       "Bash(.venv/Scripts/python.exe -c ' *)",
       "Bash(.venv/Scripts/python.exe *)",
-      "Bash(node *)"
+      "Bash(node *)",
+      "Bash(/mnt/c/Users/bryan/Documents/sites/scrape/.venv/bin/python -c \"import fitz; print\\('pymupdf', fitz.__doc__\\)\")",
+      "Bash(/mnt/c/Users/bryan/Documents/sites/scrape/.venv/bin/python -c \"import pdf2image; print\\('pdf2image ok'\\)\")",
+      "Bash(pip3 --version)",
+      "Bash(apt list *)",
+      "Bash(PYTHONPATH=/tmp/claude-1000/-mnt-c-Users-bryan-Documents-sites-scrape/26a08d0f-01bf-43a9-b36c-e91c49791477/scratchpad/pylibs FLASK_ENV=development python3 app.py)",
+      "Bash(echo \"started PID $!\")",
+      "Read(//tmp/**)",
+      "Bash(unzip -l /tmp/dl.zip)",
+      "Bash(unzip -l /tmp/export.zip)",
+      "Bash(pkill -f \"python3 app.py\")",
+      "Bash(PYTHONPATH=/tmp/claude-1000/-mnt-c-Users-bryan-Documents-sites-scrape/26a08d0f-01bf-43a9-b36c-e91c49791477/scratchpad/pylibs python3 -m pip install --target=/tmp/claude-1000/-mnt-c-Users-bryan-Documents-sites-scrape/26a08d0f-01bf-43a9-b36c-e91c49791477/scratchpad/pylibs Pillow --no-warn-script-location)",
+      "Bash(unzip -l /tmp/export2.zip)"
     ],
     "deny": []
   }

@@ -25,6 +25,10 @@ app = Flask(__name__)
 # Single-scrape HTML cache — stores last scrape's page HTML keyed by URL
 _html_cache = {}
 
+# PDF-to-image cache — stores last conversion batch's rendered pages keyed by PDF URL.
+# Each entry: {'source': str, 'pages': [png_bytes, ...], 'error': str|None, 'basename': str}
+_pdf_image_cache = {}
+
 # Tracking/analytics script detection patterns — Google + Facebook Pixel only.
 TRACKER_PATTERNS = [
     ('Google Analytics 4',         ['gtag/js?id=G-', "gtag('config", "gtag('event"]),
@@ -89,6 +93,39 @@ def url_to_filename(url, ext='.txt'):
     name = f"{host}--{path.replace('/', '--')}" if path else host
     name = re.sub(r'[^a-zA-Z0-9\-_.]', '_', name)
     return f"{name}{ext}"
+
+
+def pdf_url_to_basename(url):
+    """Turn a PDF URL into a safe filename stem (no extension), e.g. for image output names."""
+    from urllib.parse import urlparse, unquote
+
+    name = unquote(urlparse(url).path.rsplit('/', 1)[-1]) or 'document'
+    if name.lower().endswith('.pdf'):
+        name = name[:-4]
+    name = re.sub(r'[^a-zA-Z0-9\-_.]', '_', name)
+    return name or 'document'
+
+
+def stack_pages_into_one_image(page_pngs):
+    """Stack a PDF's rendered pages top-to-bottom into a single tall PNG."""
+    if len(page_pngs) == 1:
+        return page_pngs[0]
+
+    from PIL import Image
+
+    pages  = [Image.open(io.BytesIO(png)).convert('RGB') for png in page_pngs]
+    width  = max(p.width for p in pages)
+    height = sum(p.height for p in pages)
+    combined = Image.new('RGB', (width, height), 'white')
+
+    y = 0
+    for p in pages:
+        combined.paste(p, ((width - p.width) // 2, y))
+        y += p.height
+
+    out = io.BytesIO()
+    combined.save(out, format='PNG')
+    return out.getvalue()
 
 
 def resolve_img_src(img, base_url=None):
@@ -2311,6 +2348,298 @@ def download_image():
         )
     except Exception as e:
         return str(e), 500
+
+
+# ── PDF to Image ─────────────────────────────────────────────────────────────
+
+@app.route('/pdf-to-image')
+def pdf_to_image_page():
+    return render_template('pdf_to_image.html')
+
+
+@app.route('/api/pdf-scrape')
+def run_pdf_scrape():
+    """SSE: crawl a single page or an entire domain, reporting only PDF links found."""
+    import requests as req
+    from bs4 import BeautifulSoup
+    from urllib.parse import urlparse, urljoin
+    from collections import deque
+    import time
+    import random
+
+    url  = request.args.get('url', '').strip()
+    mode = request.args.get('mode', 'page')  # 'page' or 'site'
+
+    def err(msg):
+        yield f"data: {msg}\n\n"
+        yield "data: __FAILURE__\n\n"
+
+    if not url or not url.startswith('http'):
+        return Response(stream_with_context(err('ERROR: Invalid or missing URL')), mimetype='text/event-stream')
+
+    USER_AGENTS = [
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15',
+        'Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0',
+    ]
+
+    def fetch_html(target):
+        headers = {
+            'User-Agent': random.choice(USER_AGENTS),
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+        }
+        return req.get(target, headers=headers, timeout=10, allow_redirects=True)
+
+    def pdfs_on_page(soup, current):
+        found = []
+        for a in soup.find_all('a', href=True):
+            href = a['href'].strip()
+            if not href or href.startswith('mailto:') or href.startswith('javascript:'):
+                continue
+            full = urljoin(current, href).split('#')[0].rstrip('/')
+            if not full.startswith('http'):
+                continue
+            data_file = (a.get('data-file-name') or '').strip()
+            url_path  = full.lower().split('?')[0]
+            is_pdf    = url_path.endswith('.pdf') or data_file.lower().endswith('.pdf')
+            found.append((full, is_pdf))
+        return found
+
+    def generate():
+        found_pdfs = set()
+
+        if mode == 'site':
+            parsed_start = urlparse(url)
+            base_domain  = parsed_start.netloc.lower().removeprefix('www.')
+            visited = set()
+            queued  = {url}
+            queue   = deque([url])
+            pages_crawled = 0
+
+            yield f"data: Starting crawl of {url}\n\n"
+            yield f"data: Domain: {base_domain}\n\n"
+
+            while queue:
+                current = queue.popleft()
+                if current in visited:
+                    continue
+                visited.add(current)
+                pages_crawled += 1
+                yield f"data: PAGE: {pages_crawled}\n\n"
+                yield f"data: [{pages_crawled}] {current}\n\n"
+
+                try:
+                    resp = fetch_html(current)
+                    if resp.status_code != 200:
+                        yield f"data: Skipped (HTTP {resp.status_code}): {current}\n\n"
+                        continue
+                    content_type = resp.headers.get('Content-Type', '')
+                    if 'html' not in content_type:
+                        continue
+
+                    soup = BeautifulSoup(resp.text, 'html.parser')
+
+                    for full, is_pdf in pdfs_on_page(soup, current):
+                        if is_pdf:
+                            if full not in found_pdfs:
+                                found_pdfs.add(full)
+                                yield f"data: PDF: {full}|{current}\n\n"
+                            continue
+
+                        link_domain = urlparse(full).netloc.lower().removeprefix('www.')
+                        if link_domain == base_domain and full not in visited and full not in queued:
+                            queued.add(full)
+                            queue.append(full)
+
+                except Exception as e:
+                    yield f"data: Error ({current}): {e}\n\n"
+
+                time.sleep(0.15)
+
+            yield f"data: \n\n"
+            yield f"data: Done. {pages_crawled} page(s) crawled, {len(found_pdfs)} PDF(s) found.\n\n"
+            yield "data: __SUCCESS__\n\n"
+
+        else:
+            yield f"data: Fetching {url}\n\n"
+            try:
+                resp = fetch_html(url)
+                if resp.status_code != 200:
+                    yield f"data: ERROR: HTTP {resp.status_code} — {url}\n\n"
+                    yield "data: __FAILURE__\n\n"
+                    return
+                content_type = resp.headers.get('Content-Type', '')
+                if 'html' not in content_type:
+                    yield f"data: ERROR: Not an HTML page (Content-Type: {content_type})\n\n"
+                    yield "data: __FAILURE__\n\n"
+                    return
+
+                soup = BeautifulSoup(resp.text, 'html.parser')
+                for full, is_pdf in pdfs_on_page(soup, url):
+                    if is_pdf and full not in found_pdfs:
+                        found_pdfs.add(full)
+                        yield f"data: PDF: {full}|{url}\n\n"
+
+                yield f"data: \n\n"
+                yield f"data: Done. {len(found_pdfs)} PDF(s) found.\n\n"
+                yield "data: __SUCCESS__\n\n"
+            except Exception as e:
+                yield f"data: Error: {e}\n\n"
+                yield "data: __FAILURE__\n\n"
+
+    resp = Response(stream_with_context(generate()), mimetype='text/event-stream')
+    resp.headers['Cache-Control'] = 'no-cache'
+    resp.headers['X-Accel-Buffering'] = 'no'
+    return resp
+
+
+@app.route('/api/pdf-to-image/convert', methods=['POST'])
+def convert_pdfs_to_images():
+    """SSE: download each given PDF, render every page to PNG, then stack those pages into
+    a single tall PNG per PDF (one image per PDF, not one image per page)."""
+    import requests as req
+    import fitz  # PyMuPDF
+
+    data = request.get_json(force=True)
+    pdfs = data.get('pdfs', [])  # [{'url':..., 'source':...}, ...]
+    try:
+        dpi = int(data.get('dpi', 150))
+    except (TypeError, ValueError):
+        dpi = 150
+    dpi = max(72, min(dpi, 400))
+
+    def generate():
+        global _pdf_image_cache
+        _pdf_image_cache = {}
+
+        total       = len(pdfs)
+        done        = 0
+        total_pages = 0
+
+        yield f"data: Converting {total} PDF(s) at {dpi} DPI...\n\n"
+
+        zoom   = dpi / 72.0
+        matrix = fitz.Matrix(zoom, zoom)
+
+        for entry in pdfs:
+            pdf_url = (entry.get('url') or '').strip()
+            source  = entry.get('source') or ''
+            if not pdf_url:
+                continue
+
+            basename = pdf_url_to_basename(pdf_url)
+            yield f"data: PDF_START: {pdf_url}\n\n"
+
+            try:
+                resp = req.get(pdf_url, timeout=30, stream=True)
+                if resp.status_code != 200:
+                    raise Exception(f"HTTP {resp.status_code}")
+                pdf_bytes = resp.content
+
+                doc = fitz.open(stream=pdf_bytes, filetype='pdf')
+                if doc.is_encrypted and not doc.authenticate(''):
+                    raise Exception('Encrypted / password-protected PDF')
+
+                page_count = doc.page_count
+                yield f"data: PDF_INFO: {pdf_url}|{page_count}\n\n"
+
+                page_pngs = []
+                for i in range(page_count):
+                    pix = doc.load_page(i).get_pixmap(matrix=matrix)
+                    page_pngs.append(pix.tobytes('png'))
+                    yield f"data: PAGE_DONE: {pdf_url}|{i + 1}|{page_count}\n\n"
+                doc.close()
+
+                if page_count > 1:
+                    yield f"data: PDF_MERGING: {pdf_url}|{page_count}\n\n"
+                combined = stack_pages_into_one_image(page_pngs)
+
+                _pdf_image_cache[pdf_url] = {
+                    'source': source, 'image': combined, 'page_count': page_count,
+                    'error': None, 'basename': basename,
+                }
+                total_pages += page_count
+                done += 1
+                yield f"data: PDF_DONE: {pdf_url}|{page_count}\n\n"
+
+            except Exception as e:
+                _pdf_image_cache[pdf_url] = {
+                    'source': source, 'image': None, 'page_count': 0,
+                    'error': str(e), 'basename': basename,
+                }
+                done += 1
+                yield f"data: PDF_ERROR: {pdf_url}|{e}\n\n"
+
+            yield f"data: PROGRESS: {done}|{total}\n\n"
+
+        yield f"data: \n\n"
+        yield f"data: Done. Converted {done} of {total} PDF(s) into one image each ({total_pages} page(s) merged total).\n\n"
+        yield "data: __SUCCESS__\n\n"
+
+    resp = Response(stream_with_context(generate()), mimetype='text/event-stream')
+    resp.headers['Cache-Control'] = 'no-cache'
+    resp.headers['X-Accel-Buffering'] = 'no'
+    return resp
+
+
+@app.route('/api/pdf-to-image/thumbnail')
+def pdf_to_image_thumbnail():
+    pdf_url = request.args.get('url', '').strip()
+    entry = _pdf_image_cache.get(pdf_url)
+    if not entry or not entry.get('image'):
+        return 'No image available', 404
+    return Response(entry['image'], mimetype='image/png')
+
+
+@app.route('/api/pdf-to-image/download')
+def pdf_to_image_download():
+    """Download one PDF's single merged image."""
+    pdf_url = request.args.get('url', '').strip()
+    entry = _pdf_image_cache.get(pdf_url)
+    if not entry or not entry.get('image'):
+        return 'No image available', 404
+
+    return Response(
+        entry['image'],
+        mimetype='image/png',
+        headers={'Content-Disposition': f'attachment; filename="{entry["basename"]}.png"'}
+    )
+
+
+@app.route('/api/pdf-to-image/export-zip', methods=['POST'])
+def pdf_to_image_export_zip():
+    """Zip every cached converted image — one image per PDF — (or a given subset of PDF URLs)."""
+    import zipfile
+
+    data = request.get_json(silent=True) or {}
+    urls = data.get('urls') or list(_pdf_image_cache.keys())
+
+    buf = io.BytesIO()
+    used_names = set()
+    any_written = False
+    with zipfile.ZipFile(buf, 'w', zipfile.ZIP_DEFLATED) as zf:
+        for pdf_url in urls:
+            entry = _pdf_image_cache.get(pdf_url)
+            if not entry or not entry.get('image'):
+                continue
+            name = f"{entry['basename']}.png"
+            final, n = name, 2
+            while final in used_names:
+                stem, dot, ext = name.rpartition('.')
+                final = f"{stem}_{n}{dot}{ext}" if dot else f"{name}_{n}"
+                n += 1
+            used_names.add(final)
+            zf.writestr(final, entry['image'])
+            any_written = True
+
+    if not any_written:
+        return 'No converted images to export', 400
+
+    buf.seek(0)
+    return send_file(buf, mimetype='application/zip', as_attachment=True, download_name='pdf_images.zip')
 
 
 if __name__ == '__main__':

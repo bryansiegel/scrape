@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="data:,">
+    <title>PDF to Image — CCSD</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+    <style>
+        #scraperLog, #convertLog { height: 190px; overflow-y: auto; font-size: 0.76rem; white-space: pre-wrap; word-break: break-all; }
+        .pdf-thumb { width: 56px; height: 56px; object-fit: cover; border-radius: 4px; background: #eee; flex-shrink: 0; border: 1px solid #dee2e6; }
+        .pdf-thumb-broken { width: 56px; height: 56px; display:flex; align-items:center; justify-content:center; background:#f8f9fa; border-radius:4px; color:#dc3545; flex-shrink:0; font-size:1.3rem; }
+        .tab-count { transition: all .2s; }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <i class="bi bi-database"></i> CCSD Website Database
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/single-scrape">
+                            <i class="bi bi-search"></i> Single Site
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/page-scrape">
+                            <i class="bi bi-file-earmark-text"></i> Page Scrape
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/broken-link-checker">
+                            <i class="bi bi-exclamation-triangle"></i> Broken Links
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/seo-checker">
+                            <i class="bi bi-clipboard-check"></i> SEO Checker
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/pdf-to-image">
+                            <i class="bi bi-file-earmark-image"></i> PDF to Image
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                            <i class="bi bi-spider"></i> Scrape
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-end">
+                            <li><a class="dropdown-item" href="/"><i class="bi bi-database me-2"></i>Database View</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4 pb-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+
+                <div class="mb-4">
+                    <h4><i class="bi bi-file-earmark-image me-2"></i>PDF to Image</h4>
+                    <p class="text-muted mb-0">Find PDFs on a page (or an entire site), convert them to images, and export the results — so you can swap PDF links for images on your pages.</p>
+                </div>
+
+                <!-- Config card -->
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Website URL</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="bi bi-globe"></i></span>
+                                <input type="url" class="form-control form-control-lg" id="urlInput"
+                                       placeholder="https://example.com" autocomplete="off">
+                                <div class="invalid-feedback">Please enter a valid URL starting with http:// or https://</div>
+                            </div>
+                        </div>
+
+                        <div class="row g-3 mb-3">
+                            <div class="col-md-7">
+                                <label class="form-label fw-semibold">Scrape scope</label>
+                                <div class="d-flex flex-wrap gap-3 mt-1">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="scrapeMode" id="modePage" value="page" checked>
+                                        <label class="form-check-label" for="modePage">Just this page</label>
+                                    </div>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="scrapeMode" id="modeSite" value="site">
+                                        <label class="form-check-label" for="modeSite">Entire site (crawl the whole domain)</label>
+                                    </div>
+                                </div>
+                                <small class="text-muted d-block mt-1" id="modeHint">Fetches this one URL and lists its PDF links.</small>
+                            </div>
+                            <div class="col-md-5">
+                                <label class="form-label fw-semibold" for="dpiSelect">Image quality</label>
+                                <select class="form-select" id="dpiSelect">
+                                    <option value="96">Low — 96 DPI (smaller files)</option>
+                                    <option value="150" selected>Medium — 150 DPI (recommended)</option>
+                                    <option value="300">High — 300 DPI (print quality, slower)</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="d-flex gap-2">
+                            <button class="btn btn-primary px-4" id="startBtn" onclick="startScrape()">
+                                <i class="bi bi-play-fill me-1"></i> Find PDFs
+                            </button>
+                            <button class="btn btn-outline-secondary" id="stopBtn" onclick="stopScrape()" disabled>
+                                <i class="bi bi-stop-fill me-1"></i> Stop
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Scrape progress card -->
+                <div class="card mb-4" id="progressCard" style="display:none;">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span class="fw-semibold"><i class="bi bi-activity me-2"></i>Finding PDFs</span>
+                        <small id="pageCounter" class="text-muted">0 pages crawled</small>
+                    </div>
+                    <div class="card-body pb-2">
+                        <div class="d-flex justify-content-between align-items-center mb-1">
+                            <small id="statusText" class="text-muted text-truncate me-2" style="max-width:70%;">Starting...</small>
+                            <span class="text-danger" style="font-size:0.78rem;" title="PDFs found">
+                                <i class="bi bi-file-earmark-pdf"></i> <span id="cntPdf">0</span>
+                            </span>
+                        </div>
+                        <div class="progress mb-3" style="height:20px;">
+                            <div id="progressBar" class="progress-bar progress-bar-striped progress-bar-animated bg-primary" style="width:100%">Scanning...</div>
+                        </div>
+                        <div id="scraperLog" class="bg-dark text-success rounded p-3 font-monospace"></div>
+                    </div>
+                </div>
+
+                <!-- Conversion progress card -->
+                <div class="card mb-4" id="convertCard" style="display:none;">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span class="fw-semibold"><i class="bi bi-images me-2"></i>Converting to Images</span>
+                        <small id="convertCounter" class="text-muted">0 / 0 PDFs</small>
+                    </div>
+                    <div class="card-body pb-2">
+                        <div class="progress mb-3" style="height:20px;">
+                            <div id="convertBar" class="progress-bar progress-bar-striped progress-bar-animated bg-info" style="width:0%">0%</div>
+                        </div>
+                        <div id="convertLog" class="bg-dark text-info rounded p-3 font-monospace"></div>
+                    </div>
+                </div>
+
+                <!-- Results card -->
+                <div class="card" id="resultsCard" style="display:none;">
+                    <div class="card-header d-flex flex-wrap justify-content-between align-items-center gap-2">
+                        <div class="form-check mb-0">
+                            <input class="form-check-input" type="checkbox" id="selectAll" checked onchange="toggleSelectAll(this.checked)">
+                            <label class="form-check-label fw-semibold" for="selectAll">
+                                <i class="bi bi-file-earmark-pdf me-1"></i>PDFs found
+                                <span class="badge bg-danger ms-1" id="badgePdf">0</span>
+                            </label>
+                        </div>
+                        <div class="d-flex flex-wrap gap-2">
+                            <button class="btn btn-sm btn-outline-success" onclick="exportCsv()">
+                                <i class="bi bi-download me-1"></i>Export CSV
+                            </button>
+                            <button class="btn btn-sm btn-primary" onclick="convertSelected()" id="convertBtn">
+                                <i class="bi bi-magic me-1"></i>Convert Selected to Images
+                            </button>
+                            <button class="btn btn-sm btn-outline-info" onclick="exportZip()" id="exportZipBtn" style="display:none;">
+                                <i class="bi bi-file-earmark-zip me-1"></i>Export Images to ZIP
+                            </button>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div id="pdfList"></div>
+                        <div class="text-center text-muted py-4" id="pdfEmpty">
+                            <i class="bi bi-inbox"></i> No PDFs found yet.
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let evtSource  = null;
+        let pdfResults = [];   // { url, source, status: 'pending'|'converting'|'done'|'error', pages, error, rowEl }
+        let rowsByUrl  = {};
+        let converting = false;
+
+        document.querySelectorAll('input[name="scrapeMode"]').forEach(r => r.addEventListener('change', () => {
+            el('modeHint').textContent = r.value === 'site' || document.getElementById('modeSite').checked
+                ? 'Crawls every page within the domain and lists every PDF link found. Can take a while on a large site.'
+                : 'Fetches this one URL and lists its PDF links.';
+        }));
+
+        // ── Find PDFs (scrape) ──────────────────────────────────────────────────
+        function startScrape() {
+            const urlInput = document.getElementById('urlInput');
+            const url = urlInput.value.trim();
+            if (!url.match(/^https?:\/\/.+/)) { urlInput.classList.add('is-invalid'); return; }
+            urlInput.classList.remove('is-invalid');
+
+            const mode = document.getElementById('modeSite').checked ? 'site' : 'page';
+
+            pdfResults = [];
+            rowsByUrl  = {};
+            el('pdfList').innerHTML = '';
+            show('pdfEmpty');
+            el('badgePdf').textContent = '0';
+            el('cntPdf').textContent   = '0';
+            el('scraperLog').textContent = '';
+            el('statusText').textContent = 'Starting...';
+            el('pageCounter').textContent = '0 pages crawled';
+            setScrapeProgress('running');
+            show('progressCard');
+            hide('convertCard');
+            hide('resultsCard');
+            el('exportZipBtn').style.display = 'none';
+            el('startBtn').disabled = true;
+            el('stopBtn').disabled  = false;
+
+            const params = new URLSearchParams({ url, mode });
+            evtSource = new EventSource(`/api/pdf-scrape?${params}`);
+
+            evtSource.onmessage = function(e) {
+                const msg = e.data;
+                if (msg === '__SUCCESS__')         { finishScrape(true);  return; }
+                if (msg.startsWith('__FAILURE__')) { appendLog('scraperLog', 'ERROR: ' + msg.slice(11).trim()); finishScrape(false); return; }
+
+                if (msg.startsWith('PAGE: ')) { el('pageCounter').textContent = msg.slice(6) + ' pages crawled'; return; }
+                if (msg.startsWith('PDF: '))  { handlePdf(msg.slice(5)); return; }
+
+                appendLog('scraperLog', msg);
+                el('statusText').textContent = msg.length > 90 ? msg.slice(0, 90) + '…' : msg;
+            };
+
+            evtSource.onerror = function() { evtSource.close(); appendLog('scraperLog', 'Connection lost.'); finishScrape(false); };
+        }
+
+        function stopScrape() {
+            if (evtSource) { evtSource.close(); evtSource = null; }
+            appendLog('scraperLog', 'Stopped by user.');
+            finishScrape(null);
+        }
+
+        function finishScrape(success) {
+            if (evtSource) { evtSource.close(); evtSource = null; }
+            el('startBtn').disabled = false;
+            el('stopBtn').disabled  = true;
+            if (success === true)       setScrapeProgress('success');
+            else if (success === false) setScrapeProgress('failure');
+            else                        setScrapeProgress('stopped');
+            show('resultsCard');
+        }
+
+        function handlePdf(payload) {
+            const [url, source] = splitOne(payload);
+            const entry = { url, source, status: 'pending', pages: 0, error: null };
+            pdfResults.push(entry);
+            el('cntPdf').textContent   = pdfResults.length;
+            el('badgePdf').textContent = pdfResults.length;
+            hide('pdfEmpty');
+            show('resultsCard');
+
+            const row = document.createElement('div');
+            row.className = 'border-bottom pb-2 mb-2 d-flex align-items-center gap-3';
+            row.dataset.url = url;
+            row.innerHTML = `
+                <input type="checkbox" class="form-check-input pdf-select flex-shrink-0" checked>
+                <div class="pdf-thumb-slot flex-shrink-0"><div class="pdf-thumb-broken"><i class="bi bi-file-earmark-pdf"></i></div></div>
+                <div style="min-width:0; flex:1;">
+                    <div class="text-break" style="font-size:.85rem;">
+                        <a href="${esc(url)}" target="_blank" class="text-decoration-none text-danger fw-semibold">${esc(url)}</a>
+                        <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:.7rem;"></i>
+                    </div>
+                    ${source ? `<small class="text-muted">Found on: <a href="${esc(source)}" target="_blank" class="text-decoration-none text-muted">${esc(source)}</a></small><br>` : ''}
+                    <span class="badge bg-secondary pdf-status mt-1">Not converted</span>
+                </div>
+                <a class="btn btn-sm btn-outline-success flex-shrink-0 pdf-download" href="#" style="display:none;" title="Download image" download>
+                    <i class="bi bi-download"></i>
+                </a>`;
+            el('pdfList').appendChild(row);
+            entry.rowEl = row;
+            rowsByUrl[url] = entry;
+        }
+
+        // ── Convert selected PDFs to images (streamed progress) ─────────────────
+        async function convertSelected() {
+            if (converting) return;
+            const selected = pdfResults.filter(r => rowsByUrl[r.url].rowEl.querySelector('.pdf-select').checked);
+            if (!selected.length) { alert('Select at least one PDF to convert.'); return; }
+
+            converting = true;
+            const btn = el('convertBtn');
+            const original = btn.innerHTML;
+            btn.disabled = true;
+            btn.innerHTML = '<span class="spinner-border spinner-border-sm me-1"></span>Converting…';
+
+            const dpi = el('dpiSelect').value;
+            el('convertLog').textContent = '';
+            el('convertCounter').textContent = `0 / ${selected.length} PDFs`;
+            setConvertProgress(0);
+            show('convertCard');
+
+            selected.forEach(r => setStatus(r.url, 'converting', 'Converting…'));
+
+            try {
+                const resp = await fetch('/api/pdf-to-image/convert', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        pdfs: selected.map(r => ({ url: r.url, source: r.source })),
+                        dpi,
+                    }),
+                });
+                if (!resp.ok || !resp.body) throw new Error('Conversion request failed');
+
+                await streamEvents(resp, (msg) => {
+                    if (msg.startsWith('PDF_INFO: ')) {
+                        const [url, count] = splitOne(msg.slice(10));
+                        setStatus(url, 'converting', `Converting… page 0/${count}`);
+                        return;
+                    }
+                    if (msg.startsWith('PAGE_DONE: ')) {
+                        const parts = msg.slice(11).split('|');
+                        setStatus(parts[0], 'converting', `Rendering… page ${parts[1]}/${parts[2]}`);
+                        return;
+                    }
+                    if (msg.startsWith('PDF_MERGING: ')) {
+                        const [url, count] = splitOne(msg.slice(13));
+                        setStatus(url, 'converting', `Merging ${count} pages into one image…`);
+                        return;
+                    }
+                    if (msg.startsWith('PDF_DONE: ')) {
+                        const [url, count] = splitOne(msg.slice(10));
+                        const entry = rowsByUrl[url];
+                        const n = parseInt(count, 10) || 0;
+                        entry.status = 'done';
+                        entry.pages  = n;
+                        setStatus(url, 'done', n > 1 ? `1 image (${n} pages merged)` : '1 image');
+                        showThumbAndDownload(url);
+                        return;
+                    }
+                    if (msg.startsWith('PDF_ERROR: ')) {
+                        const [url, error] = splitOne(msg.slice(11));
+                        const entry = rowsByUrl[url];
+                        entry.status = 'error';
+                        entry.error  = error;
+                        setStatus(url, 'error', `Error: ${error}`);
+                        return;
+                    }
+                    if (msg.startsWith('PROGRESS: ')) {
+                        const [d, t] = msg.slice(10).split('|');
+                        el('convertCounter').textContent = `${d} / ${t} PDFs`;
+                        setConvertProgress(Math.round((parseInt(d, 10) / Math.max(1, parseInt(t, 10))) * 100));
+                        return;
+                    }
+                    appendLog('convertLog', msg);
+                });
+
+                setConvertProgress(100, true);
+                if (pdfResults.some(r => r.status === 'done')) el('exportZipBtn').style.removeProperty('display');
+            } catch (err) {
+                appendLog('convertLog', 'ERROR: ' + err.message);
+                setConvertProgress(100, false);
+            } finally {
+                converting = false;
+                btn.disabled = false;
+                btn.innerHTML = original;
+            }
+        }
+
+        // Reads a text/event-stream-formatted fetch Response ("data: ...\n\n" frames)
+        // the same way EventSource would, but over a POST body.
+        async function streamEvents(resp, onMessage) {
+            const reader  = resp.body.getReader();
+            const decoder = new TextDecoder();
+            let buf = '';
+            while (true) {
+                const { value, done } = await reader.read();
+                if (done) break;
+                buf += decoder.decode(value, { stream: true });
+                let idx;
+                while ((idx = buf.indexOf('\n\n')) >= 0) {
+                    const frame = buf.slice(0, idx);
+                    buf = buf.slice(idx + 2);
+                    if (!frame.startsWith('data: ')) continue;
+                    const msg = frame.slice(6);
+                    if (msg.startsWith('__FAILURE__')) { appendLog('convertLog', 'ERROR: ' + msg.slice(11).trim()); continue; }
+                    if (msg === '__SUCCESS__') continue;
+                    onMessage(msg);
+                }
+            }
+        }
+
+        function setStatus(url, kind, text) {
+            const entry = rowsByUrl[url];
+            if (!entry) return;
+            const badge = entry.rowEl.querySelector('.pdf-status');
+            const cls = { converting: 'bg-primary', done: 'bg-success', error: 'bg-danger' }[kind] || 'bg-secondary';
+            badge.className = `badge ${cls} pdf-status mt-1`;
+            badge.textContent = text;
+        }
+
+        function showThumbAndDownload(url) {
+            const entry = rowsByUrl[url];
+            const slot = entry.rowEl.querySelector('.pdf-thumb-slot');
+            slot.innerHTML = `<img src="/api/pdf-to-image/thumbnail?url=${encodeURIComponent(url)}" class="pdf-thumb" alt="">`;
+            const dl = entry.rowEl.querySelector('.pdf-download');
+            dl.href = `/api/pdf-to-image/download?url=${encodeURIComponent(url)}`;
+            dl.style.removeProperty('display');
+        }
+
+        function setConvertProgress(pct, success) {
+            const bar = el('convertBar');
+            bar.style.width = pct + '%';
+            bar.textContent = pct + '%';
+            if (success === true)  bar.className = 'progress-bar bg-success';
+            else if (success === false) bar.className = 'progress-bar bg-danger';
+            else bar.className = 'progress-bar progress-bar-striped progress-bar-animated bg-info';
+        }
+
+        // ── Export all converted images to ZIP ──────────────────────────────────
+        function exportZip() {
+            const doneUrls = pdfResults.filter(r => r.status === 'done').map(r => r.url);
+            if (!doneUrls.length) return;
+            const btn = el('exportZipBtn');
+            const original = btn.innerHTML;
+            btn.disabled = true;
+            btn.innerHTML = '<span class="spinner-border spinner-border-sm me-1"></span>Zipping…';
+            fetch('/api/pdf-to-image/export-zip', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ urls: doneUrls }),
+            })
+                .then(r => { if (!r.ok) throw new Error('Export failed'); return r.blob(); })
+                .then(blob => {
+                    const a = Object.assign(document.createElement('a'), {
+                        href: URL.createObjectURL(blob),
+                        download: 'pdf_images.zip',
+                    });
+                    a.click();
+                })
+                .catch(() => alert('Export to ZIP failed.'))
+                .finally(() => { btn.disabled = false; btn.innerHTML = original; });
+        }
+
+        // ── Export CSV (PDF URL, source page, conversion status) ────────────────
+        function exportCsv() {
+            const rows = [['PDF URL', 'Found On Page', 'Status', 'Source Pages Merged']];
+            pdfResults.forEach(r => rows.push([
+                r.url,
+                r.source || '',
+                r.status === 'done' ? 'Converted' : r.status === 'error' ? `Error: ${r.error}` : 'Not converted',
+                r.status === 'done' ? r.pages : '',
+            ]));
+            const csv = rows.map(r => r.map(c => `"${String(c ?? '').replace(/"/g,'""')}"`).join(',')).join('\n');
+            const a = Object.assign(document.createElement('a'), {
+                href: URL.createObjectURL(new Blob([csv], {type:'text/csv'})),
+                download: 'pdf_to_image_results.csv',
+            });
+            a.click();
+        }
+
+        // ── Helpers ──────────────────────────────────────────────────────────────
+        function toggleSelectAll(checked) {
+            document.querySelectorAll('.pdf-select').forEach(cb => cb.checked = checked);
+        }
+
+        function splitOne(str) {
+            const i = str.indexOf('|');
+            return i >= 0 ? [str.slice(0, i), str.slice(i + 1)] : [str, ''];
+        }
+
+        function appendLog(id, line) {
+            const log = el(id);
+            log.textContent += line + '\n';
+            log.scrollTop = log.scrollHeight;
+        }
+
+        function setScrapeProgress(state) {
+            const bar = el('progressBar');
+            const cls = { running:'progress-bar progress-bar-striped progress-bar-animated bg-primary', success:'progress-bar bg-success', failure:'progress-bar bg-danger', stopped:'progress-bar bg-warning' };
+            const lbl = { running:'Scanning...', success:'Done', failure:'Failed', stopped:'Stopped' };
+            bar.className = cls[state]; bar.style.width = '100%'; bar.textContent = lbl[state];
+        }
+
+        function el(id)   { return document.getElementById(id); }
+        function show(id) { el(id).style.removeProperty('display'); }
+        function hide(id) { el(id).style.display = 'none'; }
+        function esc(str) {
+            return (str||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+        }
+
+        el('urlInput').addEventListener('keydown', e => { if (e.key === 'Enter') startScrape(); });
+    </script>
+</body>
+</html>
