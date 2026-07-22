@@ -154,10 +154,16 @@ def resolve_img_src(img, base_url=None):
 
 def extract_content_html(html_text, base_url=None):
     """Return only the main content HTML, stripping nav, header, footer, sidebars, and scripts."""
-    from bs4 import BeautifulSoup, Tag
+    from bs4 import BeautifulSoup, Tag, Comment
 
     try:
         soup = BeautifulSoup(html_text, 'html.parser')
+
+        # Strip HTML comments outright — frameworks like Wix/React leave hydration
+        # markers such as <!--$--> and <!--/$--> scattered through the DOM, which
+        # otherwise survive as stray "$" / "/$" text once tags are unwrapped later.
+        for c in soup.find_all(string=lambda t: isinstance(t, Comment)):
+            c.extract()
 
         STRIP_TAGS = ['nav', 'header', 'footer', 'aside', 'script', 'style', 'noscript', 'iframe']
         STRIP_ATTRS = [
@@ -233,7 +239,7 @@ def extract_content_html(html_text, base_url=None):
 def clean_export_html(html_text):
     """Strip content HTML down to headings, paragraphs, links, lists, and tables only,
     then reformat it with each block tag on its own line and no stray whitespace."""
-    from bs4 import BeautifulSoup, NavigableString
+    from bs4 import BeautifulSoup, NavigableString, Comment
 
     ALLOWED_TAGS = {
         'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
@@ -263,6 +269,11 @@ def clean_export_html(html_text):
 
     try:
         soup = BeautifulSoup(html_text, 'html.parser')
+
+        # Strip HTML comments outright — e.g. Wix/React hydration markers like
+        # <!--$--> and <!--/$--> — before they can be kept as stray text below.
+        for c in soup.find_all(string=lambda t: isinstance(t, Comment)):
+            c.extract()
 
         for elem in soup.find_all(True):
             # A tag whose ancestor was already decomposed earlier in this same

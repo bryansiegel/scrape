@@ -55,7 +55,8 @@
       "Bash(unzip -l /tmp/export.zip)",
       "Bash(pkill -f \"python3 app.py\")",
       "Bash(PYTHONPATH=/tmp/claude-1000/-mnt-c-Users-bryan-Documents-sites-scrape/26a08d0f-01bf-43a9-b36c-e91c49791477/scratchpad/pylibs python3 -m pip install --target=/tmp/claude-1000/-mnt-c-Users-bryan-Documents-sites-scrape/26a08d0f-01bf-43a9-b36c-e91c49791477/scratchpad/pylibs Pillow --no-warn-script-location)",
-      "Bash(unzip -l /tmp/export2.zip)"
+      "Bash(unzip -l /tmp/export2.zip)",
+      "Bash(venv/Scripts/python.exe -c \"import bs4; print\\(bs4.__version__\\)\")"
     ],
     "deny": []
   }
