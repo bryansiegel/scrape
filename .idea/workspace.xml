@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f86d919d-8799-4576-8ae7-0568475fe771" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.claude/settings.local.json" beforeDir="false" afterPath="$PROJECT_DIR$/.claude/settings.local.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/broken_link_checker.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/broken_link_checker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/page_scrape.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/page_scrape.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pdf_to_image.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pdf_to_image.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/seo_checker.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/seo_checker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/single_scrape.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/single_scrape.html" afterDir="false" />
-    </list>
+    <list default="true" id="f86d919d-8799-4576-8ae7-0568475fe771" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +166,7 @@
       <workItem from="1781631483787" duration="30288000" />
       <workItem from="1782495485026" duration="21961000" />
       <workItem from="1784209573302" duration="8872000" />
-      <workItem from="1784570490448" duration="8241000" />
+      <workItem from="1784570490448" duration="9346000" />
     </task>
     <servers />
   </component>

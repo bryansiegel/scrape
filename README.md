@@ -1,6 +1,6 @@
 # CCSD Website Scraper
 
-A web scraping toolkit and browser-based dashboard for crawling the Clark County School District (CCSD) website (`ccsd.net`). It collects, categorizes, and stores links, PDFs, Google Sites references, Google Drive links, and full HTML content, then exposes everything through a searchable Flask web interface.
+A web scraping toolkit and browser-based dashboard for crawling the Clark County School District (CCSD) website (`ccsd.net`). It collects, categorizes, and stores links, PDFs, Google Sites references, Google Drive links, and full HTML content, then exposes everything — plus a set of on-demand auditing tools (SEO, broken links, PDF conversion, accessibility) — through a Flask web interface.
 
 ---
 
@@ -18,6 +18,12 @@ Runs the following scripts in sequence against `ccsd.net`:
 | `scraper_google_sites.py` | Extracts Google Sites references |
 | `add_to_database.py` | Inserts all collected links into MySQL |
 
+### Web Dashboard (`/`)
+- Search and filter all collected URLs by category
+- Paginated results with autocomplete
+- Export PDFs to formatted Excel (`.xlsx`)
+- Trigger any scraper from the **Scrape** menu, with live streamed output
+
 ### Single Site Scraper (`/single-scrape`)
 Point-and-click scraper for any URL. Crawls within the target domain and collects:
 - **PDFs** — all `.pdf` links found
@@ -26,10 +32,26 @@ Point-and-click scraper for any URL. Crawls within the target domain and collect
 - **Images** — with thumbnail previews and per-image download
 - **Scripts & Tracking** — detects 24+ analytics and pixel tools (Google Analytics, Facebook Pixel, HotJar, Microsoft Clarity, LinkedIn Insight Tag, TikTok Pixel, etc.)
 
-### Web Dashboard (`/`)
-- Search and filter all collected URLs by category
-- Paginated results with autocomplete
-- Export PDFs to formatted Excel (`.xlsx`)
+### Page Scrape (`/page-scrape`)
+Same extraction as Single Site Scraper (links, PDFs, Google Sites, images, tracking scripts) but scoped to one page only — no crawling.
+
+### Broken Link Checker (`/broken-link-checker`)
+Crawls a page or an entire site to find broken links, missing images, and inaccessible PDFs. Each result includes the source HTML snapshot showing exactly where the broken reference appears.
+
+### SEO Checker (`/seo-checker`)
+Crawls a page or an entire site to review titles, meta descriptions, image alt tags, spelling, tracking scripts, and broken links/images/PDFs all in one pass. Can use a local [Ollama](https://ollama.com) instance to suggest improved titles/descriptions and generate keyword/traffic analysis.
+
+### PDF to Image (`/pdf-to-image`)
+Finds PDFs on a page or an entire site, converts each one to a single stacked PNG image, and exports the results — so you can swap PDF links for images on your pages.
+
+### Accessibility Checker (`/accessibility-checker`)
+Crawls a page or an entire site and audits it for accessibility in one pass:
+- **WCAG page scan** — runs [axe-core](https://github.com/dequelabs/axe-core) (the same rule engine WAVE is built on) against every crawled page in a headless browser, producing a 0–100 score per page. An **Open in WAVE** button pops open WebAIM's free hosted report for a human cross-check.
+- **Alt tags** — flags every image missing (or with) alt text, with the URL and the image tag's raw source markup, filterable and exportable to Excel.
+- **PDF accessibility** — after the page crawl finishes, checks every PDF found for PDF/UA structural accessibility (tagged, language, title, figure alt-text coverage, heading structure) — the same category of checks [check.axes4.com](https://check.axes4.com/en) applies, with a link to test there manually. Local Ollama can flag non-descriptive alt text.
+- **Accessibility Score** — a 0–100 composite averaged across every page and PDF scanned, shown at the top of the page.
+
+No paid API keys are required for any of this — everything runs locally.
 
 ---
 
@@ -37,6 +59,8 @@ Point-and-click scraper for any URL. Crawls within the target domain and collect
 
 - Python 3.9+
 - MySQL 8.x running locally
+- (Optional) [Ollama](https://ollama.com) running locally, for AI-assisted SEO suggestions and PDF alt-text review
+- ~300 MB free disk space for the Playwright Chromium browser used by the Accessibility Checker
 
 ---
 
@@ -63,9 +87,10 @@ source .venv/bin/activate
 
 ```bash
 pip install -r requirements.txt
+playwright install chromium
 ```
 
-This installs Flask, mysql-connector-python, requests, beautifulsoup4, openpyxl, and related packages.
+This installs Flask, mysql-connector-python, requests, beautifulsoup4, openpyxl, playwright, pikepdf, and related packages. The `playwright install chromium` step is a one-time download (~150–300 MB) of the headless browser used by the Accessibility Checker's WCAG scan — it only needs to be run once per machine.
 
 ### 4. Configure environment variables
 
@@ -94,7 +119,7 @@ mysql -u root -p -e "CREATE DATABASE IF NOT EXISTS scrape;"
 mysql -u root -p scrape < _db/scrape.sql
 ```
 
-### 7. Run the web app
+### 6. Run the web app
 
 ```bash
 python app.py
@@ -131,19 +156,26 @@ You can also trigger any scraper from the **Scrape** menu in the web dashboard, 
 
 ```
 scrape/
-├── app.py                   # Flask web app and API
-├── all-scrape.py            # Runs all scrapers in sequence
-├── scraper.py               # Main CCSD link crawler
-├── scraper-html.py          # HTML content downloader
-├── scraper_pdf.py           # PDF downloader
-├── scraper_drive_links.py   # Google Drive link extractor
-├── scraper_google_sites.py  # Google Sites link extractor
-├── add_to_database.py       # MySQL insertion
+├── app.py                          # Flask web app and API for every tool below
+├── all-scrape.py                   # Runs all scrapers in sequence
+├── scraper.py                      # Main CCSD link crawler
+├── scraper-html.py                 # HTML content downloader
+├── scraper_pdf.py                  # PDF downloader
+├── scraper_drive_links.py          # Google Drive link extractor
+├── scraper_google_sites.py         # Google Sites link extractor
+├── add_to_database.py              # MySQL insertion
 ├── templates/
-│   ├── index.html           # Main dashboard
-│   └── single_scrape.html   # Single site scraper UI
+│   ├── index.html                  # Main dashboard (/)
+│   ├── single_scrape.html          # Single Site Scraper UI (/single-scrape)
+│   ├── page_scrape.html            # Page Scrape UI (/page-scrape)
+│   ├── broken_link_checker.html    # Broken Link Checker UI (/broken-link-checker)
+│   ├── seo_checker.html            # SEO Checker UI (/seo-checker)
+│   ├── pdf_to_image.html           # PDF to Image UI (/pdf-to-image)
+│   └── accessibility_checker.html  # Accessibility Checker UI (/accessibility-checker)
+├── static/
+│   └── vendor/axe.min.js           # Vendored axe-core build used by the Accessibility Checker
 ├── _db/
-│   └── scrape.sql           # MySQL dump for import
+│   └── scrape.sql                  # MySQL dump for import
 ├── requirements.txt
 └── .gitignore
 ```
