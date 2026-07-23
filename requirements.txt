@@ -7,3 +7,5 @@ pyspellchecker
 pytrends
 PyMuPDF
 Pillow
+playwright
+pikepdf

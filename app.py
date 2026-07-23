@@ -29,6 +29,10 @@ _html_cache = {}
 # Each entry: {'source': str, 'pages': [png_bytes, ...], 'error': str|None, 'basename': str}
 _pdf_image_cache = {}
 
+# Accessibility Checker caches — reset at the start of each new scan/check batch.
+_a11y_alt_findings = []   # [{'src','alt','hasAlt','source','pageUrl'}, ...]
+_a11y_pdf_results  = {}   # pdf_url -> result dict from check_pdf_accessibility
+
 # Tracking/analytics script detection patterns — Google + Facebook Pixel only.
 TRACKER_PATTERNS = [
     ('Google Analytics 4',         ['gtag/js?id=G-', "gtag('config", "gtag('event"]),
@@ -385,6 +389,259 @@ def get_keyword_trends(phrases):
         return scores
     except Exception:
         return {p: None for p in phrases}
+
+
+# ---------------------------------------------------------------------------
+# Accessibility Checker helpers
+# ---------------------------------------------------------------------------
+
+_axe_script_cache = None
+
+def get_axe_script():
+    """Read the vendored axe-core build once and cache it in memory."""
+    global _axe_script_cache
+    if _axe_script_cache is None:
+        path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static', 'vendor', 'axe.min.js')
+        with open(path, 'r', encoding='utf-8') as f:
+            _axe_script_cache = f.read()
+    return _axe_script_cache
+
+
+_axe_playwright = None
+_axe_browser = None
+
+def get_axe_browser():
+    """Lazily launch a single shared headless Chromium instance, reused for an entire scan
+    rather than relaunched per page (launching is the expensive part)."""
+    global _axe_playwright, _axe_browser
+    if _axe_browser is None:
+        from playwright.sync_api import sync_playwright
+        _axe_playwright = sync_playwright().start()
+        _axe_browser = _axe_playwright.chromium.launch()
+    return _axe_browser
+
+
+def close_axe_browser():
+    global _axe_playwright, _axe_browser
+    if _axe_browser is not None:
+        try:
+            _axe_browser.close()
+        except Exception:
+            pass
+        _axe_browser = None
+    if _axe_playwright is not None:
+        try:
+            _axe_playwright.stop()
+        except Exception:
+            pass
+        _axe_playwright = None
+
+
+AXE_IMPACT_PENALTY = {'critical': 25, 'serious': 15, 'moderate': 7, 'minor': 3}
+
+def run_axe_on_url(url, timeout_ms=20000):
+    """Render the page in a headless browser and run axe-core against it — the same
+    WCAG rule engine class WAVE is built on. Returns
+    {'violations': [...], 'passCount': int, 'error': str|None} — best-effort, never raises."""
+    page = None
+    try:
+        browser = get_axe_browser()
+        page = browser.new_page()
+        page.goto(url, timeout=timeout_ms, wait_until='load')
+        page.add_script_tag(content=get_axe_script())
+        results = page.evaluate(
+            "() => axe.run(document, {runOnly: ['wcag2a', 'wcag2aa', 'wcag21aa']})"
+        )
+        violations = [
+            {
+                'id': v.get('id'),
+                'impact': v.get('impact') or 'minor',
+                'help': v.get('help'),
+                'helpUrl': v.get('helpUrl'),
+                'nodeCount': len(v.get('nodes', [])),
+            }
+            for v in results.get('violations', [])
+        ]
+        return {'violations': violations, 'passCount': len(results.get('passes', [])), 'error': None}
+    except Exception as e:
+        return {'violations': [], 'passCount': 0, 'error': str(e)}
+    finally:
+        if page is not None:
+            try:
+                page.close()
+            except Exception:
+                pass
+
+
+def score_from_axe(axe_result):
+    """0-100: 100 minus a per-violation-node penalty weighted by impact severity."""
+    if axe_result.get('error'):
+        return None
+    score = 100
+    for v in axe_result.get('violations', []):
+        penalty = AXE_IMPACT_PENALTY.get(v.get('impact'), 3)
+        score -= penalty * max(1, v.get('nodeCount', 1))
+    return max(0, score)
+
+
+def extract_alt_tag_findings(soup, page_url):
+    """Return [{'src','alt','hasAlt','source','pageUrl'}, ...] for every <img> on the page,
+    'source' being the image tag's own raw markup so a missing/bad alt can be located in code."""
+    findings = []
+    for img in soup.find_all('img'):
+        full_img = resolve_img_src(img, page_url)
+        if not full_img or not full_img.startswith('http'):
+            continue
+        alt = img.get('alt')
+        has_alt = alt is not None and alt.strip() != ''
+        source_html = get_snippet(img)
+        findings.append({
+            'src': full_img, 'alt': alt or '', 'hasAlt': has_alt,
+            'source': source_html, 'pageUrl': page_url,
+        })
+    return findings
+
+
+def get_snippet(element, limit=600):
+    try:
+        html = str(element)
+        return html[:limit] + ('…' if len(html) > limit else '')
+    except Exception:
+        return ''
+
+
+PDF_HEADING_TAGS = {'/H', '/H1', '/H2', '/H3', '/H4', '/H5', '/H6'}
+
+def check_pdf_accessibility(pdf_bytes, pdf_url, use_ai=False, model=None, ollama_url=None, timeout=120):
+    """Machine-verifiable PDF/UA structural checks via pikepdf (tagged, language, title,
+    figure alt text, heading structure) — the same category of rules check.axes4.com applies.
+    Never raises; failures are reported in result['error']."""
+    import pikepdf
+
+    result = {
+        'url': pdf_url, 'tagged': False, 'hasLang': False, 'hasTitle': False,
+        'figureCount': 0, 'figuresWithAlt': 0, 'hasHeadings': False,
+        'score': 0, 'aiNotes': None, 'error': None,
+    }
+    try:
+        with pikepdf.open(io.BytesIO(pdf_bytes)) as pdf:
+            root = pdf.Root
+
+            mark_info = root.get('/MarkInfo')
+            result['tagged'] = bool(mark_info is not None and bool(mark_info.get('/Marked', False)))
+
+            lang = root.get('/Lang')
+            result['hasLang'] = bool(lang is not None and str(lang).strip())
+
+            title = None
+            try:
+                if pdf.docinfo is not None and '/Title' in pdf.docinfo:
+                    title = str(pdf.docinfo['/Title'])
+            except Exception:
+                title = None
+            if not title:
+                try:
+                    with pdf.open_metadata() as meta:
+                        title = meta.get('dc:title')
+                except Exception:
+                    title = None
+            result['hasTitle'] = bool(title and str(title).strip())
+
+            alt_texts = []
+
+            def walk(elem, depth=0):
+                if depth > 60 or elem is None:
+                    return
+                try:
+                    s_type = elem.get('/S')
+                    tag = f'/{s_type}' if s_type is not None else None
+                except Exception:
+                    tag = None
+
+                if tag == '/Figure':
+                    result['figureCount'] += 1
+                    try:
+                        alt = elem.get('/Alt')
+                    except Exception:
+                        alt = None
+                    if alt and str(alt).strip():
+                        result['figuresWithAlt'] += 1
+                        alt_texts.append(str(alt).strip())
+                elif tag in PDF_HEADING_TAGS:
+                    result['hasHeadings'] = True
+
+                try:
+                    kids = elem.get('/K')
+                except Exception:
+                    kids = None
+                if kids is None:
+                    return
+                try:
+                    if isinstance(kids, pikepdf.Array):
+                        for k in kids:
+                            if isinstance(k, pikepdf.Dictionary):
+                                walk(k, depth + 1)
+                    elif isinstance(kids, pikepdf.Dictionary):
+                        walk(kids, depth + 1)
+                except Exception:
+                    pass
+
+            struct_root = root.get('/StructTreeRoot')
+            if struct_root is not None:
+                walk(struct_root)
+
+            score = 0
+            score += 30 if result['tagged'] else 0
+            score += 15 if result['hasLang'] else 0
+            score += 10 if result['hasTitle'] else 0
+            if result['figureCount'] > 0:
+                score += round(25 * (result['figuresWithAlt'] / result['figureCount']))
+            elif result['tagged']:
+                score += 25  # tagged with no figures to caption — nothing to penalize
+            score += 20 if result['hasHeadings'] else 0
+            result['score'] = min(100, score)
+
+            if use_ai and alt_texts:
+                result['aiNotes'] = get_pdf_alt_quality_notes(alt_texts, model, ollama_url, timeout)
+
+    except Exception as e:
+        result['error'] = str(e)
+
+    return result
+
+
+def get_pdf_alt_quality_notes(alt_texts, model, ollama_url, timeout):
+    """Ask local Ollama to flag non-descriptive alt text among a PDF's figures — best-effort,
+    same request pattern as the SEO checker's Ollama calls."""
+    import requests as req
+    if not model:
+        return None
+    sample = alt_texts[:20]
+    prompt = (
+        "You are an accessibility reviewer. Below is a list of alt-text descriptions "
+        "attached to figures in a PDF document. Identify any that are NOT descriptive "
+        "(e.g. a filename, 'image', 'picture1.jpg', or otherwise meaningless to a screen "
+        "reader user). Respond with one short line per non-descriptive entry in the form "
+        "'BAD: <text>' — if all entries are descriptive, respond with exactly 'OK'.\n\n"
+        + "\n".join(f"- {t}" for t in sample)
+    )
+    try:
+        r = req.post(
+            f"{ollama_url}/api/generate",
+            json={'model': model, 'prompt': prompt, 'stream': False},
+            timeout=timeout,
+        )
+        r.raise_for_status()
+        return r.json().get('response', '').strip()
+    except Exception:
+        return None
+
+
+def compute_overall_a11y_score(page_scores, pdf_scores):
+    scores = [s for s in page_scores if s is not None] + [s for s in pdf_scores if s is not None]
+    if not scores:
+        return None
+    return round(sum(scores) / len(scores))
 
 
 # Database configuration — values loaded from .env
@@ -2651,6 +2908,332 @@ def pdf_to_image_export_zip():
 
     buf.seek(0)
     return send_file(buf, mimetype='application/zip', as_attachment=True, download_name='pdf_images.zip')
+
+
+@app.route('/accessibility-checker')
+def accessibility_checker_page():
+    return render_template('accessibility_checker.html')
+
+
+@app.route('/api/accessibility-scan')
+def run_accessibility_scan():
+    """SSE: crawl a page or a whole site. For every page found, run an axe-core WCAG scan
+    and an alt-tag pass, and collect any PDFs for a separate phase-2 check."""
+    import requests as req
+    from bs4 import BeautifulSoup
+    from urllib.parse import urlparse, urljoin
+    from collections import deque
+    import time, random, json
+
+    url        = request.args.get('url', '').strip()
+    mode       = request.args.get('mode', 'page')   # 'page' | 'site'
+    find_axe   = request.args.get('axe', 'true').lower() == 'true'
+    find_alt   = request.args.get('alt', 'true').lower() == 'true'
+
+    def err(msg):
+        yield f"data: {msg}\n\n"
+        yield "data: __FAILURE__\n\n"
+
+    if not url or not url.startswith('http'):
+        return Response(stream_with_context(err('ERROR: Invalid or missing URL')), mimetype='text/event-stream')
+
+    USER_AGENTS = [
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15',
+        'Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0',
+    ]
+
+    def generate():
+        global _a11y_alt_findings
+        _a11y_alt_findings = []
+
+        parsed_start = urlparse(url)
+        base_domain  = parsed_start.netloc.lower().removeprefix('www.')
+
+        visited       = set()
+        queued        = {url} if mode == 'site' else set()
+        queue         = deque([url])
+        found_pdfs    = set()
+        page_scores   = []
+        pages_crawled = 0
+
+        yield f"data: Starting accessibility scan of {url}\n\n"
+        yield f"data: Mode: {mode}\n\n"
+
+        try:
+            while queue:
+                current = queue.popleft()
+                if current in visited:
+                    continue
+                visited.add(current)
+                pages_crawled += 1
+
+                yield f"data: PAGE: {pages_crawled}\n\n"
+                yield f"data: [{pages_crawled}] {current}\n\n"
+
+                try:
+                    headers = {
+                        'User-Agent': random.choice(USER_AGENTS),
+                        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+                        'Accept-Language': 'en-US,en;q=0.9',
+                        'Connection': 'keep-alive',
+                        'Upgrade-Insecure-Requests': '1',
+                    }
+                    resp = req.get(current, headers=headers, timeout=10, allow_redirects=True)
+                    if resp.status_code != 200:
+                        yield f"data: Skipped (HTTP {resp.status_code}): {current}\n\n"
+                        continue
+
+                    content_type = resp.headers.get('Content-Type', '')
+                    if 'html' not in content_type:
+                        continue
+
+                    soup = BeautifulSoup(resp.text, 'html.parser')
+                    title_tag  = soup.find('title')
+                    page_title = title_tag.get_text().strip()[:120] if title_tag else ''
+                    yield f"data: SCANNED: {current}|{page_title}\n\n"
+
+                    if find_alt:
+                        page_alt_findings = extract_alt_tag_findings(soup, current)
+                        _a11y_alt_findings.extend(page_alt_findings)
+                        for finding in page_alt_findings:
+                            yield f"data: IMGALT: {json.dumps(finding, ensure_ascii=True)}\n\n"
+
+                    if find_axe:
+                        yield f"data: Running WCAG scan — {current}\n\n"
+                        axe_result = run_axe_on_url(current)
+                        score = score_from_axe(axe_result)
+                        if score is not None:
+                            page_scores.append(score)
+                        payload = {
+                            'url': current, 'score': score,
+                            'violations': axe_result.get('violations', []),
+                            'error': axe_result.get('error'),
+                        }
+                        yield f"data: AXE: {json.dumps(payload, ensure_ascii=True)}\n\n"
+
+                    for a in soup.find_all('a', href=True):
+                        href = a['href'].strip()
+                        if not href or href.startswith('mailto:') or href.startswith('javascript:'):
+                            continue
+                        full = urljoin(current, href).split('#')[0].rstrip('/')
+                        if not full.startswith('http'):
+                            continue
+
+                        data_file = (a.get('data-file-name') or '').strip()
+                        url_path  = full.lower().split('?')[0]
+                        is_pdf    = url_path.endswith('.pdf') or data_file.lower().endswith('.pdf')
+                        if is_pdf:
+                            if full not in found_pdfs:
+                                found_pdfs.add(full)
+                                yield f"data: PDF: {full}|{current}\n\n"
+                            continue
+
+                        if mode == 'site':
+                            link_domain = urlparse(full).netloc.lower().removeprefix('www.')
+                            if link_domain == base_domain and full not in visited and full not in queued:
+                                queued.add(full)
+                                queue.append(full)
+
+                except Exception as e:
+                    yield f"data: Error ({current}): {e}\n\n"
+
+                time.sleep(0.1)
+
+            overall = compute_overall_a11y_score(page_scores, [])
+            yield f"data: \n\n"
+            yield (
+                f"data: Done. {pages_crawled} page(s) scanned, {len(_a11y_alt_findings)} image(s) checked, "
+                f"{len(found_pdfs)} PDF(s) found. Overall page score: {overall if overall is not None else 'N/A'}.\n\n"
+            )
+            yield "data: __SUCCESS__\n\n"
+        finally:
+            close_axe_browser()
+
+    resp = Response(stream_with_context(generate()), mimetype='text/event-stream')
+    resp.headers['Cache-Control'] = 'no-cache'
+    resp.headers['X-Accel-Buffering'] = 'no'
+    return resp
+
+
+@app.route('/api/accessibility-pdf-check', methods=['POST'])
+def run_accessibility_pdf_check():
+    """SSE: download each given PDF and run PDF/UA structural accessibility checks —
+    run as a separate phase after the page crawl completes, per its own explicit trigger."""
+    import requests as req
+    import json
+
+    data     = request.get_json(force=True)
+    pdfs     = data.get('pdfs', [])  # [{'url':..., 'source':...}, ...]
+    use_ai   = bool(data.get('ai'))
+    model    = (data.get('model') or '').strip() or None
+    ollama_url     = get_ollama_url()
+    OLLAMA_TIMEOUT = int(os.getenv('OLLAMA_TIMEOUT', '300'))
+
+    def generate():
+        global _a11y_pdf_results
+        _a11y_pdf_results = {}
+
+        total = len(pdfs)
+        done  = 0
+        yield f"data: Checking {total} PDF(s) for accessibility...\n\n"
+
+        for entry in pdfs:
+            pdf_url = (entry.get('url') or '').strip()
+            source  = entry.get('source') or ''
+            if not pdf_url:
+                continue
+
+            yield f"data: PDF_START: {pdf_url}\n\n"
+            try:
+                resp = req.get(pdf_url, timeout=30, stream=True)
+                if resp.status_code != 200:
+                    raise Exception(f"HTTP {resp.status_code}")
+                pdf_bytes = resp.content
+
+                result = check_pdf_accessibility(
+                    pdf_bytes, pdf_url, use_ai=use_ai, model=model,
+                    ollama_url=ollama_url, timeout=OLLAMA_TIMEOUT,
+                )
+                result['source'] = source
+                _a11y_pdf_results[pdf_url] = result
+                done += 1
+                yield f"data: PDF_RESULT: {json.dumps(result, ensure_ascii=True)}\n\n"
+
+            except Exception as e:
+                result = {'url': pdf_url, 'source': source, 'score': 0, 'error': str(e)}
+                _a11y_pdf_results[pdf_url] = result
+                done += 1
+                yield f"data: PDF_RESULT: {json.dumps(result, ensure_ascii=True)}\n\n"
+
+            yield f"data: PROGRESS: {done}|{total}\n\n"
+
+        pdf_scores = [r.get('score') for r in _a11y_pdf_results.values() if not r.get('error')]
+        yield f"data: \n\n"
+        yield f"data: Done. Checked {done} of {total} PDF(s).\n\n"
+        yield "data: __SUCCESS__\n\n"
+
+    resp = Response(stream_with_context(generate()), mimetype='text/event-stream')
+    resp.headers['Cache-Control'] = 'no-cache'
+    resp.headers['X-Accel-Buffering'] = 'no'
+    return resp
+
+
+@app.route('/api/export/accessibility-alt')
+def export_accessibility_alt():
+    header_font = Font(bold=True, color='FFFFFF', size=11)
+    header_fill = PatternFill(fill_type='solid', fgColor='1F3864')
+    ok_font     = Font(color='1E7E34', size=10, bold=True)
+    bad_font    = Font(color='B8430A', size=10, bold=True)
+    center      = Alignment(horizontal='center', vertical='center')
+    left        = Alignment(horizontal='left', vertical='center', wrap_text=True)
+    thin        = Side(style='thin', color='BFBFBF')
+    border      = Border(left=thin, right=thin, top=thin, bottom=thin)
+
+    wb = openpyxl.Workbook()
+    ws = wb.active
+    ws.title = 'Alt Tags'
+
+    ws.column_dimensions['A'].width = 6
+    ws.column_dimensions['B'].width = 60
+    ws.column_dimensions['C'].width = 60
+    ws.column_dimensions['D'].width = 14
+    ws.column_dimensions['E'].width = 30
+    ws.column_dimensions['F'].width = 70
+
+    headers = ['#', 'Page URL', 'Image Src', 'Has Alt', 'Alt Text', 'Source Code Text']
+    ws.append(headers)
+    for col in range(1, len(headers) + 1):
+        cell = ws.cell(row=1, column=col)
+        cell.font = header_font; cell.fill = header_fill; cell.alignment = center; cell.border = border
+    ws.row_dimensions[1].height = 20
+
+    for i, finding in enumerate(_a11y_alt_findings, 1):
+        row = i + 1
+        ws.cell(row=row, column=1, value=i).alignment = center
+        c2 = ws.cell(row=row, column=2, value=finding.get('pageUrl', '')); c2.font = Font(size=10); c2.alignment = left
+        c3 = ws.cell(row=row, column=3, value=finding.get('src', '')); c3.font = Font(color='1155CC', size=10); c3.alignment = left
+        has_alt = finding.get('hasAlt')
+        c4 = ws.cell(row=row, column=4, value='Yes' if has_alt else 'Missing')
+        c4.font = ok_font if has_alt else bad_font; c4.alignment = center
+        c5 = ws.cell(row=row, column=5, value=finding.get('alt', '')); c5.font = Font(size=10); c5.alignment = left
+        c6 = ws.cell(row=row, column=6, value=finding.get('source', '')); c6.font = Font(size=9); c6.alignment = left
+        for col in range(1, 7):
+            ws.cell(row=row, column=col).border = border
+        ws.row_dimensions[row].height = 16
+
+    ws.freeze_panes = 'A2'
+    output = io.BytesIO()
+    wb.save(output)
+    output.seek(0)
+    return send_file(
+        output,
+        mimetype='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+        as_attachment=True,
+        download_name='accessibility_alt_tags.xlsx'
+    )
+
+
+@app.route('/api/export/accessibility-pdf')
+def export_accessibility_pdf():
+    header_font = Font(bold=True, color='FFFFFF', size=11)
+    header_fill = PatternFill(fill_type='solid', fgColor='1F3864')
+    ok_font     = Font(color='1E7E34', size=10, bold=True)
+    bad_font    = Font(color='B8430A', size=10, bold=True)
+    center      = Alignment(horizontal='center', vertical='center')
+    left        = Alignment(horizontal='left', vertical='center', wrap_text=True)
+    thin        = Side(style='thin', color='BFBFBF')
+    border      = Border(left=thin, right=thin, top=thin, bottom=thin)
+
+    wb = openpyxl.Workbook()
+    ws = wb.active
+    ws.title = 'PDF Accessibility'
+
+    widths = [6, 60, 50, 10, 10, 10, 10, 16, 16, 50]
+    for i, w in enumerate(widths):
+        ws.column_dimensions[chr(ord('A') + i)].width = w
+
+    headers = ['#', 'PDF URL', 'Source Page', 'Score', 'Tagged', 'Lang', 'Title',
+               'Figures w/ Alt', 'Headings', 'AI Notes']
+    ws.append(headers)
+    for col in range(1, len(headers) + 1):
+        cell = ws.cell(row=1, column=col)
+        cell.font = header_font; cell.fill = header_fill; cell.alignment = center; cell.border = border
+    ws.row_dimensions[1].height = 20
+
+    def yn(cell, value):
+        cell.value = 'Yes' if value else 'No'
+        cell.font = ok_font if value else bad_font
+        cell.alignment = center
+
+    for i, r in enumerate(_a11y_pdf_results.values(), 1):
+        row = i + 1
+        ws.cell(row=row, column=1, value=i).alignment = center
+        c2 = ws.cell(row=row, column=2, value=r.get('url', '')); c2.font = Font(color='1155CC', size=10); c2.alignment = left
+        c3 = ws.cell(row=row, column=3, value=r.get('source', '')); c3.font = Font(size=10); c3.alignment = left
+        c4 = ws.cell(row=row, column=4, value=r.get('score', 0)); c4.alignment = center
+        c4.font = ok_font if (r.get('score') or 0) >= 80 else (bad_font if (r.get('score') or 0) < 50 else Font(size=10, bold=True))
+        yn(ws.cell(row=row, column=5), r.get('tagged'))
+        yn(ws.cell(row=row, column=6), r.get('hasLang'))
+        yn(ws.cell(row=row, column=7), r.get('hasTitle'))
+        figs = f"{r.get('figuresWithAlt', 0)}/{r.get('figureCount', 0)}"
+        ws.cell(row=row, column=8, value=figs).alignment = center
+        yn(ws.cell(row=row, column=9), r.get('hasHeadings'))
+        c10 = ws.cell(row=row, column=10, value=r.get('error') or r.get('aiNotes') or ''); c10.font = Font(size=9); c10.alignment = left
+        for col in range(1, 11):
+            ws.cell(row=row, column=col).border = border
+        ws.row_dimensions[row].height = 16
+
+    ws.freeze_panes = 'A2'
+    output = io.BytesIO()
+    wb.save(output)
+    output.seek(0)
+    return send_file(
+        output,
+        mimetype='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+        as_attachment=True,
+        download_name='accessibility_pdf_report.xlsx'
+    )
 
 
 if __name__ == '__main__':

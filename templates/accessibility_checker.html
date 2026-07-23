@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="data:,">
+    <title>Accessibility Checker — CCSD</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+    <style>
+        .result-tab-badge { font-size: 0.7rem; vertical-align: middle; }
+        .img-thumb { width: 56px; height: 56px; object-fit: cover; border-radius: 4px; background: #eee; flex-shrink: 0; }
+        .img-thumb-broken { width: 56px; height: 56px; display:flex; align-items:center; justify-content:center; background:#f8f9fa; border-radius:4px; color:#adb5bd; flex-shrink:0; }
+        #scraperLog { height: 190px; overflow-y: auto; font-size: 0.76rem; white-space: pre-wrap; word-break: break-all; }
+        .tab-count { transition: all .2s; }
+        .score-ring { width: 128px; height: 128px; border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-direction: column; border: 8px solid #dee2e6; flex-shrink: 0; }
+        .score-ring.score-good { border-color: #198754; }
+        .score-ring.score-mid  { border-color: #ffc107; }
+        .score-ring.score-bad  { border-color: #dc3545; }
+        .score-ring .num { font-size: 2.1rem; font-weight: 700; line-height: 1; }
+        .source-code { font-size: 0.72rem; background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 4px; padding: 0.5rem; white-space: pre-wrap; word-break: break-all; margin-top: 0.35rem; }
+        .impact-badge { font-size: 0.68rem; }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <i class="bi bi-database"></i> CCSD Website Database
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/single-scrape">
+                            <i class="bi bi-search"></i> Single Site
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/page-scrape">
+                            <i class="bi bi-file-earmark-text"></i> Page Scrape
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/broken-link-checker">
+                            <i class="bi bi-exclamation-triangle"></i> Broken Links
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/seo-checker">
+                            <i class="bi bi-clipboard-check"></i> SEO Checker
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/pdf-to-image">
+                            <i class="bi bi-file-earmark-image"></i> PDF to Image
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/accessibility-checker">
+                            <i class="bi bi-universal-access"></i> Accessibility Checker
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                            <i class="bi bi-spider"></i> Scrape
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-end">
+                            <li><a class="dropdown-item" href="/"><i class="bi bi-database me-2"></i>Database View</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4 pb-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+
+                <div class="mb-4">
+                    <h4><i class="bi bi-universal-access me-2"></i>Accessibility Checker</h4>
+                    <p class="text-muted mb-0">Crawls a site, scans every page for WCAG issues (axe-core, the same rule family WAVE is built on), flags images missing alt text, and — once the crawl finishes — checks every PDF found for PDF/UA accessibility.</p>
+                </div>
+
+                <!-- Score card -->
+                <div class="card mb-4" id="scoreCard" style="display:none;">
+                    <div class="card-body d-flex align-items-center gap-4 flex-wrap">
+                        <div class="score-ring" id="scoreRing">
+                            <span class="num" id="scoreNum">--</span>
+                            <span class="text-muted" style="font-size:.7rem;">/ 100</span>
+                        </div>
+                        <div>
+                            <h5 class="mb-1">Accessibility Score</h5>
+                            <p class="text-muted mb-0" id="scoreSubtext">Average across every page and PDF scanned so far.</p>
+                            <div class="d-flex gap-3 mt-2" style="font-size:.82rem;">
+                                <span><i class="bi bi-file-earmark-text text-primary me-1"></i><span id="scorePageCount">0</span> page(s)</span>
+                                <span><i class="bi bi-file-earmark-pdf text-danger me-1"></i><span id="scorePdfCount">0</span> PDF(s)</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Config card -->
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Website URL</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="bi bi-globe"></i></span>
+                                <input type="url" class="form-control form-control-lg" id="urlInput"
+                                       placeholder="https://example.com" autocomplete="off">
+                                <div class="invalid-feedback">Please enter a valid URL starting with http:// or https://</div>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Crawl mode</label>
+                            <div class="d-flex gap-3 mt-1">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="crawlMode" id="modePage" value="page" checked>
+                                    <label class="form-check-label" for="modePage">Single page only</label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="crawlMode" id="modeSite" value="site">
+                                    <label class="form-check-label" for="modeSite">Entire site (same domain)</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">What to check</label>
+                            <div class="d-flex flex-wrap gap-3 mt-1">
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" id="findAxe" checked>
+                                    <label class="form-check-label" for="findAxe">
+                                        <i class="bi bi-clipboard-check text-primary me-1"></i>WCAG scan (axe-core)
+                                    </label>
+                                </div>
+                                <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" id="findAlt" checked>
+                                    <label class="form-check-label" for="findAlt">
+                                        <i class="bi bi-image text-info me-1"></i>Image alt tags
+                                    </label>
+                                </div>
+                            </div>
+                            <small class="text-muted d-block mt-1">PDFs found during the crawl are checked separately, after the crawl finishes — see the PDFs tab below.</small>
+                        </div>
+
+                        <div class="d-flex gap-2">
+                            <button class="btn btn-primary px-4" id="startBtn" onclick="startScan()">
+                                <i class="bi bi-play-fill me-1"></i> Start Scan
+                            </button>
+                            <button class="btn btn-outline-secondary" id="stopBtn" onclick="stopScan()" disabled>
+                                <i class="bi bi-stop-fill me-1"></i> Stop
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Progress card -->
+                <div class="card mb-4" id="progressCard" style="display:none;">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span class="fw-semibold"><i class="bi bi-activity me-2"></i>Progress</span>
+                        <small id="pageCounter" class="text-muted">0 pages crawled</small>
+                    </div>
+                    <div class="card-body pb-2">
+                        <div class="d-flex justify-content-between align-items-center mb-1">
+                            <small id="statusText" class="text-muted text-truncate me-2" style="max-width:70%;">Starting...</small>
+                            <div class="d-flex gap-2 text-nowrap" style="font-size:0.78rem;">
+                                <span class="text-primary" title="Pages"><i class="bi bi-file-earmark-text"></i> <span id="cntPages">0</span></span>
+                                <span class="text-info"    title="Images checked"><i class="bi bi-image"></i> <span id="cntImages">0</span></span>
+                                <span class="text-danger"  title="PDFs found"><i class="bi bi-file-earmark-pdf"></i> <span id="cntPdf">0</span></span>
+                            </div>
+                        </div>
+                        <div class="progress mb-3" style="height:20px;">
+                            <div id="progressBar" class="progress-bar progress-bar-striped progress-bar-animated bg-primary" style="width:100%">Scanning...</div>
+                        </div>
+                        <div id="scraperLog" class="bg-dark text-success rounded p-3 font-monospace"></div>
+                    </div>
+                </div>
+
+                <!-- Results card with tabs -->
+                <div class="card" id="resultsCard" style="display:none;">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span class="fw-semibold"><i class="bi bi-list-ul me-2"></i>Results</span>
+                    </div>
+                    <div class="card-body p-0">
+                        <ul class="nav nav-tabs px-3 pt-2" id="resultTabs">
+                            <li class="nav-item">
+                                <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#tabPages">
+                                    <i class="bi bi-file-earmark-text me-1"></i>Pages
+                                    <span class="badge bg-primary result-tab-badge ms-1 tab-count" id="badgePages">0</span>
+                                </button>
+                            </li>
+                            <li class="nav-item">
+                                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tabAlt">
+                                    <i class="bi bi-image me-1"></i>Alt Tags
+                                    <span class="badge bg-info result-tab-badge ms-1 tab-count" id="badgeAlt">0</span>
+                                </button>
+                            </li>
+                            <li class="nav-item">
+                                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tabPdf">
+                                    <i class="bi bi-file-earmark-pdf me-1"></i>PDFs
+                                    <span class="badge bg-danger result-tab-badge ms-1 tab-count" id="badgePdf">0</span>
+                                </button>
+                            </li>
+                        </ul>
+
+                        <div class="tab-content p-3">
+
+                            <!-- Pages tab -->
+                            <div class="tab-pane fade show active" id="tabPages">
+                                <p class="text-muted small mb-2">Every page crawled, with its axe-core WCAG score. Click <strong>Open in WAVE</strong> for a free, human-reviewable second opinion from WebAIM's hosted tool.</p>
+                                <div id="pagesList"></div>
+                                <div class="text-center text-muted py-4" id="pagesEmpty">
+                                    <i class="bi bi-hourglass-split"></i> No pages scanned yet.
+                                </div>
+                            </div>
+
+                            <!-- Alt Tags tab -->
+                            <div class="tab-pane fade" id="tabAlt">
+                                <p class="text-muted small mb-2">Every image found, with its alt text (or a flag if it's missing) and the image tag's raw source markup.</p>
+                                <div class="d-flex justify-content-between align-items-center mb-3 flex-wrap gap-2">
+                                    <div class="btn-group btn-group-sm" role="group" id="altFilter">
+                                        <button type="button" class="btn btn-outline-secondary active" data-filter="all" onclick="setAltFilter('all')">
+                                            All <span class="badge bg-secondary ms-1" id="altCountAll">0</span>
+                                        </button>
+                                        <button type="button" class="btn btn-outline-secondary" data-filter="has" onclick="setAltFilter('has')">
+                                            Has Alt Tag <span class="badge bg-secondary ms-1" id="altCountHas">0</span>
+                                        </button>
+                                        <button type="button" class="btn btn-outline-secondary" data-filter="missing" onclick="setAltFilter('missing')">
+                                            Missing Alt Tag <span class="badge bg-secondary ms-1" id="altCountMissing">0</span>
+                                        </button>
+                                    </div>
+                                    <button class="btn btn-sm btn-outline-success" id="exportAltBtn" onclick="exportAlt()" style="display:none;">
+                                        <i class="bi bi-file-earmark-excel me-1"></i>Export to Excel
+                                    </button>
+                                </div>
+                                <div id="altList"></div>
+                                <div class="text-center text-muted py-4" id="altEmpty">
+                                    <i class="bi bi-inbox"></i> No images found yet.
+                                </div>
+                            </div>
+
+                            <!-- PDFs tab -->
+                            <div class="tab-pane fade" id="tabPdf">
+                                <p class="text-muted small mb-2">PDFs found during the crawl above. Checked separately once you click below — reads each PDF's tag structure for the same machine-verifiable PDF/UA rules <a href="https://check.axes4.com/en" target="_blank">check.axes4.com</a> applies.</p>
+
+                                <div class="card bg-light mb-3">
+                                    <div class="card-body">
+                                        <div class="d-flex flex-wrap align-items-center gap-3 mb-2">
+                                            <button class="btn btn-primary" id="checkPdfsBtn" onclick="checkPdfs()" disabled>
+                                                <i class="bi bi-file-earmark-check me-1"></i> Check <span id="pdfsFoundCount">0</span> PDF(s) Found
+                                            </button>
+                                            <div class="form-check form-switch mb-0">
+                                                <input class="form-check-input" type="checkbox" id="pdfUseAi" checked>
+                                                <label class="form-check-label" for="pdfUseAi">
+                                                    <i class="bi bi-stars text-primary me-1"></i>Use local Ollama to review alt-text quality
+                                                </label>
+                                            </div>
+                                            <div class="input-group input-group-sm" style="max-width:240px;">
+                                                <span class="input-group-text">Model override</span>
+                                                <input type="text" class="form-control" id="ollamaModel" placeholder="auto-detect">
+                                            </div>
+                                        </div>
+                                        <small class="text-muted d-block" id="ollamaDetected">Checking for a running Ollama instance...</small>
+                                        <div class="progress mt-2" id="pdfProgressWrap" style="height:18px; display:none;">
+                                            <div id="pdfProgressBar" class="progress-bar bg-primary" style="width:0%">0%</div>
+                                        </div>
+                                        <div id="pdfLog" class="bg-dark text-success rounded p-2 mt-2 font-monospace" style="display:none; height:120px; overflow-y:auto; font-size:.72rem; white-space:pre-wrap; word-break:break-all;"></div>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex justify-content-end mb-2">
+                                    <button class="btn btn-sm btn-outline-success" id="exportPdfBtn" onclick="exportPdfResults()" style="display:none;">
+                                        <i class="bi bi-file-earmark-excel me-1"></i>Export to Excel
+                                    </button>
+                                </div>
+                                <div id="pdfList"></div>
+                                <div class="text-center text-muted py-4" id="pdfEmpty">
+                                    <i class="bi bi-inbox"></i> No PDFs found yet — run a scan above first.
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let evtSource      = null;
+        let pageResults    = [];   // { url, title, score, violations, error }
+        let altResults     = [];   // { src, alt, hasAlt, source, pageUrl }
+        let pdfsFound      = [];   // { url, source }
+        let pdfResultsMap  = {};   // url -> result
+        let altFilter      = 'all';
+        let pdfChecking    = false;
+
+        // ── Start / Stop scan ───────────────────────────────────────────────────
+        function startScan() {
+            const urlInput = document.getElementById('urlInput');
+            const url = urlInput.value.trim();
+            if (!url.match(/^https?:\/\/.+/)) { urlInput.classList.add('is-invalid'); return; }
+            urlInput.classList.remove('is-invalid');
+
+            const mode     = document.querySelector('input[name="crawlMode"]:checked').value;
+            const findAxe  = document.getElementById('findAxe').checked;
+            const findAlt  = document.getElementById('findAlt').checked;
+
+            // Reset
+            pageResults = []; altResults = []; pdfsFound = []; pdfResultsMap = {};
+            altFilter = 'all';
+            document.querySelectorAll('#altFilter button').forEach(b => b.classList.toggle('active', b.dataset.filter === 'all'));
+
+            ['pagesList','altList','pdfList'].forEach(id => el(id).innerHTML = '');
+            ['pagesEmpty','altEmpty','pdfEmpty'].forEach(id => show(id));
+            ['badgePages','badgeAlt','badgePdf'].forEach(id => el(id).textContent = '0');
+            ['cntPages','cntImages','cntPdf'].forEach(id => el(id).textContent = '0');
+            ['altCountAll','altCountHas','altCountMissing'].forEach(id => el(id).textContent = '0');
+            el('exportAltBtn').style.display = 'none';
+            el('exportPdfBtn').style.display = 'none';
+            el('checkPdfsBtn').disabled = true;
+            el('pdfsFoundCount').textContent = '0';
+            el('scraperLog').textContent = '';
+            el('statusText').textContent = 'Starting...';
+            el('pageCounter').textContent = '0 pages crawled';
+            setProgress('running');
+            show('progressCard');
+            hide('resultsCard');
+            hide('scoreCard');
+            el('startBtn').disabled = true;
+            el('stopBtn').disabled  = false;
+            updateScoreCard();
+
+            const params = new URLSearchParams({ url, mode, axe: findAxe, alt: findAlt });
+            evtSource = new EventSource(`/api/accessibility-scan?${params}`);
+
+            evtSource.onmessage = function(e) {
+                const msg = e.data;
+
+                if (msg === '__SUCCESS__')         { finish(true);  return; }
+                if (msg.startsWith('__FAILURE__')) { appendLog('ERROR: ' + msg.slice(11).trim()); finish(false); return; }
+
+                if (msg.startsWith('PAGE: ')) {
+                    el('pageCounter').textContent = msg.slice(6) + ' pages crawled';
+                    return;
+                }
+                if (msg.startsWith('SCANNED: ')) { handleScanned(msg.slice(9)); return; }
+                if (msg.startsWith('IMGALT: '))  { handleAlt(JSON.parse(msg.slice(8))); return; }
+                if (msg.startsWith('AXE: '))     { handleAxe(JSON.parse(msg.slice(5))); return; }
+                if (msg.startsWith('PDF: '))     { handlePdfFound(msg.slice(5)); return; }
+
+                appendLog(msg);
+                el('statusText').textContent = msg.length > 90 ? msg.slice(0, 90) + '…' : msg;
+            };
+
+            evtSource.onerror = function() { evtSource.close(); appendLog('Connection lost.'); finish(false); };
+        }
+
+        function stopScan() {
+            if (evtSource) { evtSource.close(); evtSource = null; }
+            appendLog('Stopped by user.');
+            finish(null);
+        }
+
+        function finish(success) {
+            if (evtSource) { evtSource.close(); evtSource = null; }
+            el('startBtn').disabled = false;
+            el('stopBtn').disabled  = true;
+            if (success === true)       setProgress('success');
+            else if (success === false) setProgress('failure');
+            else                        setProgress('stopped');
+
+            show('resultsCard');
+            if (altResults.length) el('exportAltBtn').style.removeProperty('display');
+            if (pdfsFound.length) {
+                el('checkPdfsBtn').disabled = false;
+                el('pdfsFoundCount').textContent = pdfsFound.length;
+            }
+        }
+
+        // ── Message handlers ────────────────────────────────────────────────────
+        function handleScanned(payload) {
+            const [url, title] = splitOne(payload);
+            pageResults.push({ url, title, score: null, violations: [], error: null });
+            updateCount('cntPages', 'badgePages', pageResults.length);
+            hide('pagesEmpty');
+            show('resultsCard');
+            renderPageRow(pageResults[pageResults.length - 1]);
+        }
+
+        function handleAxe(data) {
+            const entry = pageResults.find(p => p.url === data.url);
+            if (!entry) return;
+            entry.score      = data.score;
+            entry.violations = data.violations || [];
+            entry.error      = data.error;
+            renderPageRow(entry, true);
+            updateScoreCard();
+        }
+
+        function renderPageRow(entry, replace) {
+            const rowId = 'page-row-' + btoa(unescape(encodeURIComponent(entry.url))).replace(/[^a-zA-Z0-9]/g, '');
+            let row = document.getElementById(rowId);
+            if (!row) {
+                row = document.createElement('div');
+                row.id = rowId;
+                row.className = 'border-bottom pb-2 mb-2';
+                el('pagesList').appendChild(row);
+            }
+
+            const impactColor = { critical: 'danger', serious: 'warning', moderate: 'secondary', minor: 'light' };
+            const violHtml = (entry.violations || []).map(v =>
+                `<span class="badge bg-${impactColor[v.impact] || 'secondary'} impact-badge me-1" title="${esc(v.help || v.id)}">${esc(v.impact)}: ${esc(v.id)} (${v.nodeCount})</span>`
+            ).join(' ');
+
+            let scoreBadge = '';
+            if (entry.error) scoreBadge = `<span class="badge bg-secondary">scan error</span>`;
+            else if (entry.score === null) scoreBadge = `<span class="badge bg-light text-muted border">scanning…</span>`;
+            else scoreBadge = `<span class="badge ${scoreBadgeClass(entry.score)}">${entry.score} / 100</span>`;
+
+            row.innerHTML = `
+                <div class="d-flex justify-content-between align-items-start gap-2">
+                    <div style="min-width:0;">
+                        <div><a href="${esc(entry.url)}" target="_blank" class="text-decoration-none text-primary fw-semibold small">${esc(entry.url)}</a>
+                             <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:.7rem;"></i></div>
+                        ${entry.title ? `<div class="text-muted" style="font-size:.78rem;">${esc(entry.title)}</div>` : ''}
+                        ${entry.error ? `<div class="text-danger" style="font-size:.78rem;">${esc(entry.error)}</div>` : ''}
+                        ${violHtml ? `<div class="mt-1">${violHtml}</div>` : ''}
+                    </div>
+                    <div class="d-flex flex-column align-items-end gap-1 flex-shrink-0">
+                        ${scoreBadge}
+                        <button class="btn btn-sm btn-outline-secondary" onclick="openWave('${esc(entry.url)}')">
+                            <i class="bi bi-box-arrow-up-right me-1"></i>Open in WAVE
+                        </button>
+                    </div>
+                </div>`;
+        }
+
+        function scoreBadgeClass(score) {
+            if (score >= 80) return 'bg-success';
+            if (score >= 50) return 'bg-warning text-dark';
+            return 'bg-danger';
+        }
+
+        function openWave(url) {
+            window.open('https://wave.webaim.org/report#/' + encodeURIComponent(url), 'wave_popup', 'width=1400,height=900,noopener');
+        }
+
+        function handleAlt(data) {
+            altResults.push(data);
+            updateCount('cntImages', 'badgeAlt', altResults.length);
+            hide('altEmpty');
+            show('resultsCard');
+
+            const row = document.createElement('div');
+            row.className = 'border-bottom pb-2 mb-2 d-flex align-items-start gap-3';
+            row.dataset.altStatus = data.hasAlt ? 'has' : 'missing';
+            if (altFilter !== 'all' && altFilter !== row.dataset.altStatus) row.style.display = 'none';
+
+            const rowIdx = altResults.length - 1;
+            row.innerHTML = `
+                <img src="${esc(data.src)}" class="img-thumb" alt=""
+                     onerror="this.outerHTML='<div class=\\'img-thumb-broken\\'><i class=\\'bi bi-image\\'></i></div>'">
+                <div style="min-width:0; flex:1;">
+                    <div class="text-break" style="font-size:.82rem;">
+                        <a href="${esc(data.src)}" target="_blank" class="text-decoration-none text-info">${esc(data.src)}</a>
+                        <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:.7rem;"></i>
+                    </div>
+                    <small class="text-muted">Found on: <a href="${esc(data.pageUrl)}" target="_blank" class="text-decoration-none text-muted">${esc(data.pageUrl)}</a></small>
+                    <div class="mt-1">
+                        ${data.hasAlt
+                            ? `<span class="badge bg-success" style="font-size:.65rem;">alt: "${esc(data.alt)}"</span>`
+                            : `<span class="badge bg-danger" style="font-size:.65rem;">Missing alt tag</span>`}
+                        <button class="btn btn-sm btn-link p-0 ms-2" style="font-size:.75rem;" onclick="toggleSource(this, ${rowIdx})">View source</button>
+                    </div>
+                    <div class="source-code" id="alt-source-${rowIdx}" style="display:none;"></div>
+                </div>`;
+            el('altList').appendChild(row);
+            updateAltCounts();
+        }
+
+        function toggleSource(btn, idx) {
+            const box = document.getElementById('alt-source-' + idx);
+            if (box.style.display === 'none') {
+                box.textContent = altResults[idx].source;
+                box.style.display = 'block';
+                btn.textContent = 'Hide source';
+            } else {
+                box.style.display = 'none';
+                btn.textContent = 'View source';
+            }
+        }
+
+        function updateAltCounts() {
+            const hasCount = altResults.filter(r => r.hasAlt).length;
+            el('altCountAll').textContent     = altResults.length;
+            el('altCountHas').textContent     = hasCount;
+            el('altCountMissing').textContent = altResults.length - hasCount;
+        }
+
+        function setAltFilter(filter) {
+            altFilter = filter;
+            document.querySelectorAll('#altFilter button').forEach(b => b.classList.toggle('active', b.dataset.filter === filter));
+            document.querySelectorAll('#altList > div').forEach(row => {
+                row.style.display = (filter === 'all' || row.dataset.altStatus === filter) ? '' : 'none';
+            });
+        }
+
+        function handlePdfFound(payload) {
+            const [url, source] = splitOne(payload);
+            if (pdfsFound.some(p => p.url === url)) return;
+            pdfsFound.push({ url, source });
+            updateCount('cntPdf', 'badgePdf', pdfsFound.length);
+            hide('pdfEmpty');
+            show('resultsCard');
+            el('pdfsFoundCount').textContent = pdfsFound.length;
+
+            const row = document.createElement('div');
+            row.className = 'border-bottom pb-2 mb-2';
+            row.id = 'pdf-row-' + btoa(unescape(encodeURIComponent(url))).replace(/[^a-zA-Z0-9]/g, '');
+            row.innerHTML = `
+                <div>
+                    <i class="bi bi-file-earmark-pdf text-danger me-1"></i>
+                    <a href="${esc(url)}" target="_blank" class="text-decoration-none text-danger" style="font-size:.85rem;">${esc(url)}</a>
+                    <span class="badge bg-light text-muted border ms-2" style="font-size:.65rem;">not yet checked</span>
+                </div>
+                <small class="text-muted">Found on: <a href="${esc(source)}" target="_blank" class="text-decoration-none text-muted">${esc(source)}</a></small>`;
+            el('pdfList').appendChild(row);
+        }
+
+        // ── Phase 2: PDF accessibility check ────────────────────────────────────
+        async function checkPdfs() {
+            if (pdfChecking || !pdfsFound.length) return;
+            pdfChecking = true;
+
+            const btn = el('checkPdfsBtn');
+            const original = btn.innerHTML;
+            btn.disabled = true;
+            btn.innerHTML = '<span class="spinner-border spinner-border-sm me-1"></span>Checking…';
+
+            const useAi = el('pdfUseAi').checked;
+            const model = el('ollamaModel').value.trim();
+
+            show('pdfProgressWrap');
+            show('pdfLog');
+            el('pdfLog').textContent = '';
+            setPdfProgress(0);
+
+            try {
+                const resp = await fetch('/api/accessibility-pdf-check', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ pdfs: pdfsFound, ai: useAi, model }),
+                });
+                if (!resp.ok || !resp.body) throw new Error('Request failed');
+
+                await streamEvents(resp, (msg) => {
+                    if (msg.startsWith('PDF_RESULT: ')) { handlePdfResult(JSON.parse(msg.slice(12))); return; }
+                    if (msg.startsWith('PROGRESS: ')) {
+                        const [d, t] = msg.slice(10).split('|');
+                        setPdfProgress(Math.round((parseInt(d, 10) / Math.max(1, parseInt(t, 10))) * 100));
+                        return;
+                    }
+                    appendPdfLog(msg);
+                });
+
+                setPdfProgress(100, true);
+                if (Object.keys(pdfResultsMap).length) el('exportPdfBtn').style.removeProperty('display');
+            } catch (err) {
+                appendPdfLog('ERROR: ' + err.message);
+                setPdfProgress(100, false);
+            } finally {
+                pdfChecking = false;
+                btn.disabled = false;
+                btn.innerHTML = original;
+            }
+        }
+
+        function handlePdfResult(result) {
+            pdfResultsMap[result.url] = result;
+
+            const rowId = 'pdf-row-' + btoa(unescape(encodeURIComponent(result.url))).replace(/[^a-zA-Z0-9]/g, '');
+            const row = document.getElementById(rowId);
+            if (!row) return;
+
+            if (result.error) {
+                row.innerHTML = `
+                    <div>
+                        <i class="bi bi-file-earmark-pdf text-danger me-1"></i>
+                        <a href="${esc(result.url)}" target="_blank" class="text-decoration-none text-danger" style="font-size:.85rem;">${esc(result.url)}</a>
+                        <span class="badge bg-secondary ms-2" style="font-size:.65rem;">check failed</span>
+                    </div>
+                    <small class="text-danger">${esc(result.error)}</small>`;
+                return;
+            }
+
+            const checks = [
+                ['Tagged', result.tagged],
+                ['Language set', result.hasLang],
+                ['Title set', result.hasTitle],
+                ['Headings', result.hasHeadings],
+            ];
+            const checkHtml = checks.map(([label, ok]) =>
+                `<span class="badge ${ok ? 'bg-success' : 'bg-danger'} me-1" style="font-size:.65rem;">${ok ? '✓' : '✗'} ${label}</span>`
+            ).join('');
+            const figuresHtml = result.figureCount > 0
+                ? `<span class="badge ${result.figuresWithAlt === result.figureCount ? 'bg-success' : 'bg-warning text-dark'} me-1" style="font-size:.65rem;">${result.figuresWithAlt}/${result.figureCount} figures have alt text</span>`
+                : `<span class="badge bg-light text-muted border me-1" style="font-size:.65rem;">no figures</span>`;
+
+            row.innerHTML = `
+                <div class="d-flex justify-content-between align-items-start gap-2">
+                    <div style="min-width:0;">
+                        <div>
+                            <i class="bi bi-file-earmark-pdf text-danger me-1"></i>
+                            <a href="${esc(result.url)}" target="_blank" class="text-decoration-none text-danger" style="font-size:.85rem;">${esc(result.url)}</a>
+                        </div>
+                        <small class="text-muted">Found on: <a href="${esc(result.source)}" target="_blank" class="text-decoration-none text-muted">${esc(result.source)}</a></small>
+                        <div class="mt-1">${checkHtml}${figuresHtml}</div>
+                        ${result.aiNotes && result.aiNotes !== 'OK' ? `<div class="source-code mt-1"><strong>AI alt-text notes:</strong>\n${esc(result.aiNotes)}</div>` : ''}
+                    </div>
+                    <div class="d-flex flex-column align-items-end gap-1 flex-shrink-0">
+                        <span class="badge ${scoreBadgeClass(result.score)}">${result.score} / 100</span>
+                        <a class="btn btn-sm btn-outline-secondary" href="https://check.axes4.com/en" target="_blank">
+                            <i class="bi bi-box-arrow-up-right me-1"></i>Test in axesCheck
+                        </a>
+                    </div>
+                </div>`;
+
+            updateScoreCard();
+        }
+
+        function appendPdfLog(line) {
+            const log = el('pdfLog');
+            log.textContent += line + '\n';
+            log.scrollTop = log.scrollHeight;
+        }
+
+        function setPdfProgress(pct, success) {
+            const bar = el('pdfProgressBar');
+            bar.style.width = pct + '%';
+            bar.textContent = pct + '%';
+            if (success === true)  bar.className = 'progress-bar bg-success';
+            else if (success === false) bar.className = 'progress-bar bg-danger';
+            else bar.className = 'progress-bar progress-bar-striped progress-bar-animated bg-primary';
+        }
+
+        // Reads a text/event-stream-formatted fetch Response ("data: ...\n\n" frames)
+        // the same way EventSource would, but over a POST body.
+        async function streamEvents(resp, onMessage) {
+            const reader  = resp.body.getReader();
+            const decoder = new TextDecoder();
+            let buf = '';
+            while (true) {
+                const { value, done } = await reader.read();
+                if (done) break;
+                buf += decoder.decode(value, { stream: true });
+                let idx;
+                while ((idx = buf.indexOf('\n\n')) >= 0) {
+                    const frame = buf.slice(0, idx);
+                    buf = buf.slice(idx + 2);
+                    if (!frame.startsWith('data: ')) continue;
+                    const msg = frame.slice(6);
+                    if (msg.startsWith('__FAILURE__')) { appendPdfLog('ERROR: ' + msg.slice(11).trim()); continue; }
+                    if (msg === '__SUCCESS__') continue;
+                    onMessage(msg);
+                }
+            }
+        }
+
+        // ── Score card ───────────────────────────────────────────────────────────
+        function updateScoreCard() {
+            const pageScores = pageResults.map(p => p.score).filter(s => s !== null && s !== undefined);
+            const pdfScores  = Object.values(pdfResultsMap).map(r => r.score).filter(s => s !== null && s !== undefined && !isNaN(s));
+            const all = pageScores.concat(pdfScores);
+
+            el('scorePageCount').textContent = pageScores.length;
+            el('scorePdfCount').textContent   = pdfScores.length;
+
+            if (!all.length) { hide('scoreCard'); return; }
+
+            const avg = Math.round(all.reduce((a, b) => a + b, 0) / all.length);
+            el('scoreNum').textContent = avg;
+            const ring = el('scoreRing');
+            ring.classList.remove('score-good', 'score-mid', 'score-bad');
+            ring.classList.add(avg >= 80 ? 'score-good' : (avg >= 50 ? 'score-mid' : 'score-bad'));
+            show('scoreCard');
+        }
+
+        // ── Export ───────────────────────────────────────────────────────────────
+        function exportAlt() {
+            window.location.href = '/api/export/accessibility-alt';
+        }
+        function exportPdfResults() {
+            window.location.href = '/api/export/accessibility-pdf';
+        }
+
+        // ── Helpers ──────────────────────────────────────────────────────────────
+        function updateCount(progressId, badgeId, n) {
+            el(progressId).textContent = n;
+            el(badgeId).textContent    = n;
+        }
+
+        function splitOne(str) {
+            const i = str.indexOf('|');
+            return i >= 0 ? [str.slice(0, i), str.slice(i + 1)] : [str, ''];
+        }
+
+        function appendLog(line) {
+            const log = el('scraperLog');
+            log.textContent += line + '\n';
+            log.scrollTop = log.scrollHeight;
+        }
+
+        function setProgress(state) {
+            const bar = el('progressBar');
+            const cls = { running:'progress-bar progress-bar-striped progress-bar-animated bg-primary', success:'progress-bar bg-success', failure:'progress-bar bg-danger', stopped:'progress-bar bg-warning' };
+            const lbl = { running:'Scanning...', success:'Done', failure:'Failed', stopped:'Stopped' };
+            bar.className = cls[state]; bar.style.width = '100%'; bar.textContent = lbl[state];
+        }
+
+        function el(id)   { return document.getElementById(id); }
+        function show(id) { el(id).style.removeProperty('display'); }
+        function hide(id) { el(id).style.display = 'none'; }
+        function esc(str) {
+            return (str||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+        }
+
+        el('urlInput').addEventListener('keydown', e => { if (e.key === 'Enter') startScan(); });
+
+        // ── Detect whatever model Ollama currently has loaded ───────────────────
+        fetch('/api/ollama-models').then(r => r.json()).then(data => {
+            const status = el('ollamaDetected');
+            if (data.ok && data.default) {
+                const extra = data.installed.length > 1 ? ` (${data.installed.length} models installed)` : '';
+                status.textContent = `Detected: ${data.default}${extra}`;
+                status.className = 'd-block text-success';
+            } else {
+                status.textContent = 'No Ollama model detected — turn off "Use local Ollama" above, or make sure Ollama is running with a model pulled.';
+                status.className = 'd-block text-danger';
+            }
+        }).catch(() => {
+            const status = el('ollamaDetected');
+            status.textContent = 'Could not reach Ollama at localhost:11434.';
+            status.className = 'd-block text-danger';
+        });
+    </script>
+</body>
+</html>
