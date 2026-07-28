@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Accessibility Report</title>
+<style>
+    * { box-sizing: border-box; }
+    body {
+        font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
+        color: #212529;
+        margin: 0;
+        font-size: 11px;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+    .header {
+        background: {{ header_color }};
+        color: #fff;
+        padding: 22px 32px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .header img { height: 46px; }
+    .header .title-block { text-align: right; }
+    .header h1 { margin: 0; font-size: 19px; font-weight: 700; letter-spacing: .01em; }
+    .header .meta { font-size: 10.5px; opacity: .92; margin-top: 5px; word-break: break-all; }
+
+    .content { padding: 22px 32px 8px; }
+
+    .score-row { display: flex; gap: 20px; margin-bottom: 22px; }
+    .score-card {
+        flex: 1;
+        border: 1px solid #e2e5e9;
+        border-radius: 10px;
+        padding: 18px;
+        display: flex;
+        align-items: center;
+        gap: 16px;
+    }
+    .donut {
+        width: 92px; height: 92px; border-radius: 50%; flex-shrink: 0;
+        display: flex; align-items: center; justify-content: center;
+    }
+    .donut-inner {
+        width: 70px; height: 70px; border-radius: 50%; background: #fff;
+        display: flex; flex-direction: column; align-items: center; justify-content: center;
+    }
+    .donut-inner .num { font-size: 21px; font-weight: 800; line-height: 1; }
+    .donut-inner .lbl { font-size: 7.5px; color: #868e96; text-transform: uppercase; letter-spacing: .04em; margin-top: 2px; }
+    .score-card h2 { margin: 0 0 5px; font-size: 13.5px; }
+    .score-card p { margin: 0; font-size: 10px; color: #495057; line-height: 1.4; }
+    .stat-line { display: flex; gap: 14px; margin-top: 8px; font-size: 9.5px; color: #495057; flex-wrap: wrap; }
+    .stat-line strong { color: #212529; }
+
+    .section-title {
+        font-size: 13.5px; font-weight: 700; margin: 22px 0 10px;
+        color: {{ header_color }}; border-bottom: 2px solid {{ header_color }}; padding-bottom: 6px;
+    }
+
+    table { width: 100%; border-collapse: collapse; margin-bottom: 6px; font-size: 9.5px; }
+    th {
+        background: #f1f3f5; text-align: left; padding: 6px 8px; border-bottom: 2px solid #dee2e6;
+        font-size: 8.5px; text-transform: uppercase; letter-spacing: .03em; color: #495057;
+    }
+    td { padding: 6px 8px; border-bottom: 1px solid #eef0f2; word-break: break-all; vertical-align: top; }
+    tr:nth-child(even) td { background: #fafbfc; }
+    tr { page-break-inside: avoid; }
+
+    .badge {
+        display: inline-block; padding: 2px 7px; border-radius: 10px;
+        font-size: 8.5px; font-weight: 700; color: #fff; white-space: nowrap;
+    }
+
+    .table-note { font-size: 9px; color: #868e96; margin: -2px 0 12px; }
+    .footer-note { font-size: 9px; color: #868e96; margin-top: 18px; line-height: 1.5; border-top: 1px solid #eef0f2; padding-top: 10px; }
+</style>
+</head>
+<body>
+    <div class="header">
+        <img src="{{ logo_url }}" alt="CCSD logo">
+        <div class="title-block">
+            <h1>Website Accessibility Report</h1>
+            <div class="meta">{{ url }} &middot; {{ 'Full site crawl' if mode == 'site' else 'Single page' }}</div>
+            <div class="meta">Generated {{ generated_at }}</div>
+        </div>
+    </div>
+
+    <div class="content">
+        <div class="score-row">
+            <div class="score-card">
+                <div class="donut" style="background: conic-gradient({{ band_colors[overall_band] }} {{ (overall_score or 0) * 3.6 }}deg, #e9ecef 0deg);">
+                    <div class="donut-inner">
+                        <span class="num" style="color:{{ band_colors[overall_band] }};">{{ overall_score if overall_score is not none else 'N/A' }}</span>
+                        <span class="lbl">/ 100</span>
+                    </div>
+                </div>
+                <div>
+                    <h2>Accessibility Score</h2>
+                    <p>Average of the WCAG scan score across every page scanned and the site's image alt-tag pass rate. PDFs are scored separately, at right.</p>
+                    <div class="stat-line">
+                        <span><strong>{{ pages_scanned }}</strong> pages scanned</span>
+                        <span><strong>{{ alt_pass_rate if alt_pass_rate is not none else 'N/A' }}{{ '%' if alt_pass_rate is not none else '' }}</strong> alt-tag pass rate</span>
+                        <span><strong>{{ images_checked }}</strong> images checked</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="score-card">
+                <div class="donut" style="background: conic-gradient({{ band_colors[pdf_band] }} {{ (pdf_inaccessible_pct or 0) * 3.6 }}deg, #e9ecef 0deg);">
+                    <div class="donut-inner">
+                        <span class="num" style="color:{{ band_colors[pdf_band] }};">{{ pdf_inaccessible_pct if pdf_inaccessible_pct is not none else 'N/A' }}{{ '%' if pdf_inaccessible_pct is not none else '' }}</span>
+                        <span class="lbl">not accessible</span>
+                    </div>
+                </div>
+                <div>
+                    <h2>PDF Accessibility</h2>
+                    <p>{{ pdf_inaccessible }} of {{ pdf_total }} checked PDF(s) score below 50/100 on PDF/UA structural checks (tagging, language, title, figure alt text, headings) and are considered not accessible.</p>
+                    <div class="stat-line">
+                        <span><strong>{{ pdf_total }}</strong> PDFs checked</span>
+                        <span><strong>{{ pdf_inaccessible }}</strong> not accessible</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section-title">Page Results</div>
+        <table>
+            <thead>
+                <tr>
+                    <th style="width:52%;">Page URL</th>
+                    <th style="width:12%;">Score</th>
+                    <th>Violations (critical / serious / moderate / minor)</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for p in pages %}
+                <tr>
+                    <td>
+                        {{ p.url }}
+                        {% if p.title %}<br><span style="color:#868e96;">{{ p.title }}</span>{% endif %}
+                    </td>
+                    <td>
+                        {% if p.error %}
+                            <span class="badge" style="background:#868e96;">error</span>
+                        {% elif p.score is not none %}
+                            <span class="badge" style="background:{{ band_colors[score_band(p.score)] }};">{{ p.score }}</span>
+                        {% else %}
+                            &mdash;
+                        {% endif %}
+                    </td>
+                    <td>
+                        {% set violations = p.violations or [] %}
+                        {{ violations | selectattr('impact', 'equalto', 'critical') | list | length }} /
+                        {{ violations | selectattr('impact', 'equalto', 'serious')  | list | length }} /
+                        {{ violations | selectattr('impact', 'equalto', 'moderate') | list | length }} /
+                        {{ violations | selectattr('impact', 'equalto', 'minor')    | list | length }}
+                    </td>
+                </tr>
+            {% else %}
+                <tr><td colspan="3" style="color:#868e96;">No pages scanned.</td></tr>
+            {% endfor %}
+            </tbody>
+        </table>
+
+        <div class="section-title">Images Missing Alt Text</div>
+        {% if alt_missing_truncated %}
+            <p class="table-note">Showing the first {{ alt_missing_list | length }} of {{ alt_missing }} missing-alt images. Export the full list from the Alt Tags tab.</p>
+        {% endif %}
+        <table>
+            <thead>
+                <tr>
+                    <th style="width:55%;">Image Src</th>
+                    <th>Found On</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for a in alt_missing_list %}
+                <tr><td>{{ a.src }}</td><td>{{ a.pageUrl }}</td></tr>
+            {% else %}
+                <tr><td colspan="2" style="color:#198754;">No missing alt tags found.</td></tr>
+            {% endfor %}
+            </tbody>
+        </table>
+
+        <div class="section-title">PDF Results</div>
+        <table>
+            <thead>
+                <tr>
+                    <th style="width:34%;">PDF URL</th>
+                    <th>Score</th>
+                    <th>Tagged</th>
+                    <th>Lang</th>
+                    <th>Title</th>
+                    <th>Figures w/ Alt</th>
+                    <th>Headings</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for r in pdfs %}
+                <tr>
+                    <td>
+                        {{ r.url }}
+                        {% if r.source %}<br><span style="color:#868e96;">On: {{ r.source }}</span>{% endif %}
+                    </td>
+                    <td>
+                        {% if r.error %}
+                            <span class="badge" style="background:#868e96;">error</span>
+                        {% else %}
+                            <span class="badge" style="background:{{ band_colors[score_band(r.score)] }};">{{ r.score }}</span>
+                        {% endif %}
+                    </td>
+                    {% if r.error %}
+                        <td colspan="5" style="color:#868e96;">{{ r.error }}</td>
+                    {% else %}
+                        <td>{{ '✓' if r.tagged else '✗' }}</td>
+                        <td>{{ '✓' if r.hasLang else '✗' }}</td>
+                        <td>{{ '✓' if r.hasTitle else '✗' }}</td>
+                        <td>{{ r.figuresWithAlt }}/{{ r.figureCount }}</td>
+                        <td>{{ '✓' if r.hasHeadings else '✗' }}</td>
+                    {% endif %}
+                </tr>
+            {% else %}
+                <tr><td colspan="7" style="color:#868e96;">No PDFs checked.</td></tr>
+            {% endfor %}
+            </tbody>
+        </table>
+
+        <div class="footer-note">
+            Generated by the CCSD Accessibility Checker. Page scans use axe-core (the WCAG rule engine WAVE is built on); PDF checks are based on PDF/UA structural rules.
+            This is an automated report — pair it with manual review (e.g. WAVE, check.axes4.com) for full compliance verification.
+        </div>
+    </div>
+</body>
+</html>

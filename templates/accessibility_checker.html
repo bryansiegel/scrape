@@ -85,19 +85,48 @@
                     <p class="text-muted mb-0">Crawls a site, scans every page for WCAG issues (axe-core, the same rule family WAVE is built on), flags images missing alt text, and — once the crawl finishes — checks every PDF found for PDF/UA accessibility.</p>
                 </div>
 
-                <!-- Score card -->
-                <div class="card mb-4" id="scoreCard" style="display:none;">
-                    <div class="card-body d-flex align-items-center gap-4 flex-wrap">
-                        <div class="score-ring" id="scoreRing">
-                            <span class="num" id="scoreNum">--</span>
-                            <span class="text-muted" style="font-size:.7rem;">/ 100</span>
+                <!-- Score cards -->
+                <div class="mb-4" id="scoreCardsWrap" style="display:none;">
+                    <div class="d-flex justify-content-end mb-2">
+                        <button class="btn btn-outline-primary" id="exportReportBtn" onclick="exportReport()" disabled>
+                            <i class="bi bi-file-earmark-pdf me-1"></i> Export Report
+                        </button>
+                    </div>
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <div class="card h-100" id="scoreCard" style="display:none;">
+                                <div class="card-body d-flex align-items-center gap-4 flex-wrap">
+                                    <div class="score-ring" id="scoreRing">
+                                        <span class="num" id="scoreNum">--</span>
+                                        <span class="text-muted" style="font-size:.7rem;">/ 100</span>
+                                    </div>
+                                    <div>
+                                        <h5 class="mb-1">Accessibility Score</h5>
+                                        <p class="text-muted mb-0" id="scoreSubtext">Average of the WCAG page scan and the image alt-tag pass rate. PDFs are scored separately.</p>
+                                        <div class="d-flex gap-3 mt-2" style="font-size:.82rem;">
+                                            <span><i class="bi bi-file-earmark-text text-primary me-1"></i><span id="scorePageCount">0</span> page(s)</span>
+                                            <span><i class="bi bi-image text-info me-1"></i><span id="scoreAltRate">--</span> alt-tag pass rate</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div>
-                            <h5 class="mb-1">Accessibility Score</h5>
-                            <p class="text-muted mb-0" id="scoreSubtext">Average across every page and PDF scanned so far.</p>
-                            <div class="d-flex gap-3 mt-2" style="font-size:.82rem;">
-                                <span><i class="bi bi-file-earmark-text text-primary me-1"></i><span id="scorePageCount">0</span> page(s)</span>
-                                <span><i class="bi bi-file-earmark-pdf text-danger me-1"></i><span id="scorePdfCount">0</span> PDF(s)</span>
+                        <div class="col-md-6">
+                            <div class="card h-100" id="pdfScoreCard" style="display:none;">
+                                <div class="card-body d-flex align-items-center gap-4 flex-wrap">
+                                    <div class="score-ring" id="pdfScoreRing">
+                                        <span class="num" id="pdfScoreNum">--</span>
+                                        <span class="text-muted" style="font-size:.7rem;">not accessible</span>
+                                    </div>
+                                    <div>
+                                        <h5 class="mb-1">PDF Accessibility</h5>
+                                        <p class="text-muted mb-0">Share of checked PDFs scoring below 50/100 on PDF/UA structural checks.</p>
+                                        <div class="d-flex gap-3 mt-2" style="font-size:.82rem;">
+                                            <span><i class="bi bi-file-earmark-pdf text-danger me-1"></i><span id="pdfScoreTotal">0</span> PDF(s) checked</span>
+                                            <span><i class="bi bi-x-circle text-danger me-1"></i><span id="pdfScoreBad">0</span> not accessible</span>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -326,6 +355,7 @@
             ['altCountAll','altCountHas','altCountMissing'].forEach(id => el(id).textContent = '0');
             el('exportAltBtn').style.display = 'none';
             el('exportPdfBtn').style.display = 'none';
+            el('exportReportBtn').disabled = true;
             el('checkPdfsBtn').disabled = true;
             el('pdfsFoundCount').textContent = '0';
             el('scraperLog').textContent = '';
@@ -334,10 +364,13 @@
             setProgress('running');
             show('progressCard');
             hide('resultsCard');
+            hide('scoreCardsWrap');
             hide('scoreCard');
+            hide('pdfScoreCard');
             el('startBtn').disabled = true;
             el('stopBtn').disabled  = false;
             updateScoreCard();
+            updatePdfScoreCard();
 
             const params = new URLSearchParams({ url, mode, axe: findAxe, alt: findAlt });
             evtSource = new EventSource(`/api/accessibility-scan?${params}`);
@@ -459,6 +492,7 @@
             updateCount('cntImages', 'badgeAlt', altResults.length);
             hide('altEmpty');
             show('resultsCard');
+            updateScoreCard();
 
             const row = document.createElement('div');
             row.className = 'border-bottom pb-2 mb-2 d-flex align-items-start gap-3';
@@ -634,7 +668,7 @@
                     </div>
                 </div>`;
 
-            updateScoreCard();
+            updatePdfScoreCard();
         }
 
         function appendPdfLog(line) {
@@ -675,23 +709,68 @@
             }
         }
 
-        // ── Score card ───────────────────────────────────────────────────────────
+        // ── Score cards ──────────────────────────────────────────────────────────
+        // Accessibility Score deliberately reflects only page WCAG scans + alt-tag
+        // pass rate — PDFs are excluded and get their own "not accessible" stat below.
+        function computeOverallScore() {
+            const pageScores = pageResults.map(p => p.score).filter(s => s !== null && s !== undefined && !isNaN(s));
+            const avgPage = pageScores.length ? pageScores.reduce((a, b) => a + b, 0) / pageScores.length : null;
+            const hasAltCount = altResults.filter(r => r.hasAlt).length;
+            const altPassRate = altResults.length ? Math.round((hasAltCount / altResults.length) * 100) : null;
+
+            let overall = null;
+            if (avgPage !== null && altPassRate !== null) overall = Math.round((avgPage + altPassRate) / 2);
+            else if (avgPage !== null) overall = Math.round(avgPage);
+            else if (altPassRate !== null) overall = altPassRate;
+
+            return { overall, altPassRate, pageCount: pageScores.length };
+        }
+
+        function computePdfStats() {
+            const results = Object.values(pdfResultsMap).filter(r => !r.error && r.score !== null && r.score !== undefined && !isNaN(r.score));
+            const total = results.length;
+            const inaccessible = results.filter(r => r.score < 50).length;
+            const pct = total ? Math.round((inaccessible / total) * 100) : null;
+            return { total, inaccessible, pct };
+        }
+
         function updateScoreCard() {
-            const pageScores = pageResults.map(p => p.score).filter(s => s !== null && s !== undefined);
-            const pdfScores  = Object.values(pdfResultsMap).map(r => r.score).filter(s => s !== null && s !== undefined && !isNaN(s));
-            const all = pageScores.concat(pdfScores);
+            const { overall, altPassRate, pageCount } = computeOverallScore();
 
-            el('scorePageCount').textContent = pageScores.length;
-            el('scorePdfCount').textContent   = pdfScores.length;
+            el('scorePageCount').textContent = pageCount;
+            el('scoreAltRate').textContent   = altPassRate !== null ? altPassRate + '%' : '--';
 
-            if (!all.length) { hide('scoreCard'); return; }
+            if (overall === null) { hide('scoreCard'); syncScoreCardsWrap(); return; }
 
-            const avg = Math.round(all.reduce((a, b) => a + b, 0) / all.length);
-            el('scoreNum').textContent = avg;
+            el('scoreNum').textContent = overall;
             const ring = el('scoreRing');
             ring.classList.remove('score-good', 'score-mid', 'score-bad');
-            ring.classList.add(avg >= 80 ? 'score-good' : (avg >= 50 ? 'score-mid' : 'score-bad'));
+            ring.classList.add(overall >= 80 ? 'score-good' : (overall >= 50 ? 'score-mid' : 'score-bad'));
             show('scoreCard');
+            syncScoreCardsWrap();
+        }
+
+        function updatePdfScoreCard() {
+            const { total, inaccessible, pct } = computePdfStats();
+
+            el('pdfScoreTotal').textContent = total;
+            el('pdfScoreBad').textContent   = inaccessible;
+
+            if (pct === null) { hide('pdfScoreCard'); syncScoreCardsWrap(); return; }
+
+            el('pdfScoreNum').textContent = pct + '%';
+            const ring = el('pdfScoreRing');
+            ring.classList.remove('score-good', 'score-mid', 'score-bad');
+            // Inverted scale: a high "not accessible" percentage is the bad outcome.
+            ring.classList.add(pct <= 20 ? 'score-good' : (pct <= 50 ? 'score-mid' : 'score-bad'));
+            show('pdfScoreCard');
+            syncScoreCardsWrap();
+        }
+
+        function syncScoreCardsWrap() {
+            const anyVisible = el('scoreCard').style.display !== 'none' || el('pdfScoreCard').style.display !== 'none';
+            if (anyVisible) { show('scoreCardsWrap'); el('exportReportBtn').disabled = false; }
+            else { hide('scoreCardsWrap'); el('exportReportBtn').disabled = true; }
         }
 
         // ── Export ───────────────────────────────────────────────────────────────
@@ -700,6 +779,54 @@
         }
         function exportPdfResults() {
             window.location.href = '/api/export/accessibility-pdf';
+        }
+
+        async function exportReport() {
+            const btn = el('exportReportBtn');
+            const original = btn.innerHTML;
+            btn.disabled = true;
+            btn.innerHTML = '<span class="spinner-border spinner-border-sm me-1"></span>Generating…';
+
+            try {
+                const { overall, altPassRate } = computeOverallScore();
+                const pdfStats = computePdfStats();
+                const hasAltCount = altResults.filter(r => r.hasAlt).length;
+
+                const payload = {
+                    url: (pageResults[0] && pageResults[0].url) || el('urlInput').value.trim(),
+                    mode: document.querySelector('input[name="crawlMode"]:checked').value,
+                    pages: pageResults,
+                    alt: {
+                        total: altResults.length,
+                        has: hasAltCount,
+                        missing: altResults.length - hasAltCount,
+                        missingList: altResults.filter(r => !r.hasAlt).map(r => ({ src: r.src, pageUrl: r.pageUrl })),
+                    },
+                    pdfs: Object.values(pdfResultsMap),
+                    scores: {
+                        overall, altPassRate,
+                        pdfTotal: pdfStats.total, pdfInaccessible: pdfStats.inaccessible, pdfInaccessiblePct: pdfStats.pct,
+                    },
+                };
+
+                const resp = await fetch('/api/export/accessibility-report', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload),
+                });
+                if (!resp.ok) throw new Error('Report generation failed');
+                const blob = await resp.blob();
+                const a = Object.assign(document.createElement('a'), {
+                    href: URL.createObjectURL(blob),
+                    download: 'accessibility_report.pdf',
+                });
+                a.click();
+            } catch (err) {
+                alert('Export failed: ' + err.message);
+            } finally {
+                btn.disabled = false;
+                btn.innerHTML = original;
+            }
         }
 
         // ── Helpers ──────────────────────────────────────────────────────────────

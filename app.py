@@ -644,6 +644,28 @@ def compute_overall_a11y_score(page_scores, pdf_scores):
     return round(sum(scores) / len(scores))
 
 
+BAND_COLORS = {'good': '#198754', 'mid': '#ffc107', 'bad': '#dc3545', 'na': '#adb5bd'}
+
+def score_band(score):
+    if score is None:
+        return 'na'
+    if score >= 80:
+        return 'good'
+    if score >= 50:
+        return 'mid'
+    return 'bad'
+
+def pct_band_inverse(pct):
+    """For a 'percentage that is bad' metric (e.g. % of PDFs inaccessible) — low is good."""
+    if pct is None:
+        return 'na'
+    if pct <= 20:
+        return 'good'
+    if pct <= 50:
+        return 'mid'
+    return 'bad'
+
+
 # Database configuration — values loaded from .env
 DB_CONFIG = {
     'host':     os.getenv('DB_HOST', '127.0.0.1'),
@@ -3233,6 +3255,87 @@ def export_accessibility_pdf():
         mimetype='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
         as_attachment=True,
         download_name='accessibility_pdf_report.xlsx'
+    )
+
+
+ACCESSIBILITY_REPORT_LOGO = (
+    'https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/'
+    'v1767801228/ccsdnet/r08p1uzjqujbmeyg2a7g/'
+    'WeAreCCSD_DestinationDistrict_OneLine_Vertical_White.png'
+)
+ACCESSIBILITY_REPORT_HEADER_COLOR = '#2d5b96'
+ALT_MISSING_REPORT_LIMIT = 150
+
+
+@app.route('/api/export/accessibility-report', methods=['POST'])
+def export_accessibility_report():
+    """Renders a branded PDF summary report (score graphic, PDF-accessibility stat, and
+    supporting tables) from whatever the client currently has in memory for this scan,
+    by printing an HTML template to PDF with the shared headless browser."""
+    from datetime import datetime
+
+    data   = request.get_json(force=True)
+    pages  = data.get('pages', [])
+    alt    = data.get('alt', {})
+    pdfs   = data.get('pdfs', [])
+    scores = data.get('scores', {})
+
+    overall_score        = scores.get('overall')
+    pdf_inaccessible_pct = scores.get('pdfInaccessiblePct')
+
+    alt_missing_list = alt.get('missingList', [])
+    alt_missing_truncated = len(alt_missing_list) > ALT_MISSING_REPORT_LIMIT
+    alt_missing_list = alt_missing_list[:ALT_MISSING_REPORT_LIMIT]
+
+    html = render_template(
+        'accessibility_report.html',
+        url=data.get('url', ''),
+        mode=data.get('mode', 'page'),
+        generated_at=datetime.now().strftime('%B %d, %Y at %I:%M %p'),
+        overall_score=overall_score,
+        overall_band=score_band(overall_score),
+        pages_scanned=len(pages),
+        images_checked=alt.get('total', 0),
+        alt_has=alt.get('has', 0),
+        alt_missing=alt.get('missing', 0),
+        alt_pass_rate=scores.get('altPassRate'),
+        pdf_total=scores.get('pdfTotal', 0),
+        pdf_inaccessible=scores.get('pdfInaccessible', 0),
+        pdf_inaccessible_pct=pdf_inaccessible_pct,
+        pdf_band=pct_band_inverse(pdf_inaccessible_pct),
+        pages=pages,
+        alt_missing_list=alt_missing_list,
+        alt_missing_truncated=alt_missing_truncated,
+        pdfs=pdfs,
+        band_colors=BAND_COLORS,
+        score_band=score_band,
+        logo_url=ACCESSIBILITY_REPORT_LOGO,
+        header_color=ACCESSIBILITY_REPORT_HEADER_COLOR,
+    )
+
+    browser = get_axe_browser()
+    page = browser.new_page()
+    try:
+        page.set_content(html, wait_until='networkidle')
+        pdf_bytes = page.pdf(
+            format='Letter',
+            print_background=True,
+            margin={'top': '0.3in', 'bottom': '0.6in', 'left': '0.35in', 'right': '0.35in'},
+            display_header_footer=True,
+            header_template='<span></span>',
+            footer_template=(
+                '<div style="font-size:8px; width:100%; text-align:center; color:#888;">'
+                'Page <span class="pageNumber"></span> of <span class="totalPages"></span></div>'
+            ),
+        )
+    finally:
+        page.close()
+
+    return send_file(
+        io.BytesIO(pdf_bytes),
+        mimetype='application/pdf',
+        as_attachment=True,
+        download_name='accessibility_report.pdf',
     )
 
 
