@@ -8,6 +8,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/accessibility_checker.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accessibility_checker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/broken_link_checker.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/broken_link_checker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/page_scrape.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/page_scrape.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pdf_to_image.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pdf_to_image.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/seo_checker.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/seo_checker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/single_scrape.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/single_scrape.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +117,7 @@
     &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;accessibilityChecker&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;linkManager&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -171,7 +177,8 @@
       <workItem from="1782495485026" duration="21961000" />
       <workItem from="1784209573302" duration="8872000" />
       <workItem from="1784570490448" duration="15712000" />
-      <workItem from="1785167927547" duration="2190000" />
+      <workItem from="1785167927547" duration="19916000" />
+      <workItem from="1785954315046" duration="1449000" />
     </task>
     <servers />
   </component>
@@ -180,7 +187,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/scrape$scraper.coverage" NAME="scraper Coverage Results" MODIFIED="1773347753687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/scrape$app.coverage" NAME="app Coverage Results" MODIFIED="1785167998422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scrape$app.coverage" NAME="app Coverage Results" MODIFIED="1785954369820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/scrape$all_scrape.coverage" NAME="all-scrape Coverage Results" MODIFIED="1775661098265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="github-copilot-workspace">

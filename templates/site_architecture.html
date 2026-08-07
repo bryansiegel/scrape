@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="data:,">
+    <title>Site Architecture Planner — CCSD</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+    <style>
+        #matchLog, #processLog { height: 160px; overflow-y: auto; font-size: 0.76rem; white-space: pre-wrap; word-break: break-all; }
+        .result-row.no-match { border-left: 3px solid #dc3545; }
+        .result-row.has-match { border-left: 3px solid #198754; }
+        .result-row.error { border-left: 3px solid #dc3545; }
+        .result-row.ok { border-left: 3px solid #198754; }
+        .file-drop-label { font-size: 0.85rem; }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <i class="bi bi-database"></i> CCSD Website Database
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/single-scrape">
+                            <i class="bi bi-search"></i> Single Site
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/page-scrape">
+                            <i class="bi bi-file-earmark-text"></i> Page Scrape
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/broken-link-checker">
+                            <i class="bi bi-exclamation-triangle"></i> Broken Links
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/seo-checker">
+                            <i class="bi bi-clipboard-check"></i> SEO Checker
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/pdf-to-image">
+                            <i class="bi bi-file-earmark-image"></i> PDF to Image
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/accessibility-checker">
+                            <i class="bi bi-universal-access"></i> Accessibility Checker
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/site-architecture">
+                            <i class="bi bi-signpost-split"></i> Site Architecture
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                            <i class="bi bi-spider"></i> Scrape
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-end">
+                            <li><a class="dropdown-item" href="/"><i class="bi bi-database me-2"></i>Database View</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4 pb-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+
+                <div class="mb-4">
+                    <h4><i class="bi bi-signpost-split me-2"></i>Site Architecture Planner</h4>
+                    <p class="text-muted mb-0">Match phone directory departments to existing pages, and reorganize a list of links into a new site structure using Ollama.</p>
+                </div>
+
+                <!-- ══════════════════════ Section A: Department Matching ══════════════════════ -->
+                <div class="card mb-4">
+                    <div class="card-header fw-semibold">
+                        <i class="bi bi-telephone me-2"></i>1. Department Directory Matching
+                    </div>
+                    <div class="card-body">
+                        <p class="text-muted small">Upload the phone directory as a <code>.pdf</code> (its "Departmental Listing" index is extracted automatically) or a <code>.txt</code> file with one department per line. Each department name is matched against the departments already found by the main scraper (<code>scraper_departments.txt</code>).</p>
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold file-drop-label">Phone directory (.pdf or .txt)</label>
+                            <input type="file" class="form-control" id="directoryFile" accept=".pdf,.txt">
+                            <small class="text-muted" id="directoryFileInfo"></small>
+                        </div>
+
+                        <div class="d-flex gap-2 mb-3">
+                            <button class="btn btn-primary" id="matchBtn" onclick="startMatch()" disabled>
+                                <i class="bi bi-play-fill me-1"></i> Match Departments
+                            </button>
+                        </div>
+
+                        <div id="matchProgress" style="display:none;" class="mb-3">
+                            <div class="progress mb-2" style="height:18px;">
+                                <div id="matchProgressBar" class="progress-bar progress-bar-striped progress-bar-animated bg-primary" style="width:100%">Matching...</div>
+                            </div>
+                            <div id="matchLog" class="bg-dark text-success rounded p-2 font-monospace"></div>
+                        </div>
+
+                        <div id="matchResultsWrap" style="display:none;">
+                            <div class="d-flex justify-content-between align-items-center mb-2">
+                                <span class="fw-semibold small"><span id="matchCount">0</span> department(s) matched</span>
+                                <button class="btn btn-sm btn-outline-success" onclick="exportMatchCsv()">
+                                    <i class="bi bi-download me-1"></i>Export CSV
+                                </button>
+                            </div>
+                            <div id="matchList"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ══════════════════════ Section B: Link Reorganization ══════════════════════ -->
+                <div class="card mb-4">
+                    <div class="card-header fw-semibold">
+                        <i class="bi bi-diagram-3 me-2"></i>2. Link Reorganization
+                    </div>
+                    <div class="card-body">
+                        <p class="text-muted small">Upload a list of links as a <code>.txt</code> file (one URL per line). Each page is scraped for its plain text content (no HTML/CSS) and categorized by Ollama into a folder structure modeled after how large district sites (e.g. cps.edu) are organized. Only the folder changes — each page's own URL slug is preserved exactly. If you've loaded a phone directory above, those official department names are used as the vocabulary for <code>/about/departments/</code> pages.</p>
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold file-drop-label">Links list (.txt)</label>
+                            <input type="file" class="form-control" id="linksFile" accept=".txt">
+                            <small class="text-muted" id="linksFileInfo"></small>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Target website</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="bi bi-globe"></i></span>
+                                <input type="url" class="form-control" id="targetDomain" placeholder="https://newsite.example.org" autocomplete="off">
+                                <div class="invalid-feedback">Please enter a valid URL starting with http:// or https://</div>
+                            </div>
+                            <small class="text-muted">The domain the suggested URLs should be built under.</small>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">AI model (Ollama)</label>
+                            <div class="d-flex flex-wrap align-items-center gap-3 mt-1">
+                                <div class="input-group input-group-sm" style="max-width:260px;">
+                                    <span class="input-group-text">Model override</span>
+                                    <input type="text" class="form-control" id="ollamaModel" placeholder="auto-detect">
+                                </div>
+                            </div>
+                            <small class="text-muted d-block mt-1">
+                                Uses whatever model is currently loaded in your local Ollama instance (<code>localhost:11434</code>) — leave the override blank unless you want to force a specific model.
+                                <span id="ollamaDetected" class="d-block mt-1">Checking for a running Ollama instance...</span>
+                            </small>
+                        </div>
+
+                        <div class="d-flex gap-2 mb-3">
+                            <button class="btn btn-primary" id="processBtn" onclick="startProcess()" disabled>
+                                <i class="bi bi-play-fill me-1"></i> Process Links
+                            </button>
+                        </div>
+
+                        <div id="processProgress" style="display:none;" class="mb-3">
+                            <div class="d-flex justify-content-between align-items-center mb-1">
+                                <small id="processStatusText" class="text-muted">Starting...</small>
+                                <small id="processCounter" class="text-muted">0 / 0</small>
+                            </div>
+                            <div class="progress mb-2" style="height:18px;">
+                                <div id="processProgressBar" class="progress-bar progress-bar-striped progress-bar-animated bg-primary" style="width:100%">Processing...</div>
+                            </div>
+                            <div id="processLog" class="bg-dark text-success rounded p-2 font-monospace"></div>
+                        </div>
+
+                        <div id="processResultsWrap" style="display:none;">
+                            <div class="d-flex justify-content-between align-items-center mb-2">
+                                <span class="fw-semibold small"><span id="processCount">0</span> page(s) processed</span>
+                                <button class="btn btn-sm btn-outline-success" onclick="exportProcessCsv()">
+                                    <i class="bi bi-download me-1"></i>Export CSV
+                                </button>
+                            </div>
+                            <div id="processList"></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let departmentNames = [];
+        let matchResults    = [];
+        let linkUrls        = [];
+        let processResults  = [];
+
+        // ── File parsing helpers ─────────────────────────────────────────────────
+        function readTextFile(file) {
+            return new Promise((resolve, reject) => {
+                const reader = new FileReader();
+                reader.onload = () => resolve(reader.result);
+                reader.onerror = () => reject(reader.error);
+                reader.readAsText(file);
+            });
+        }
+
+        // Strips a trailing phone number / extension (with dot-leaders, dashes, parens)
+        // from a directory line, leaving just the department name.
+        function stripTrailingPhone(line) {
+            return line.replace(/[.\s\-–—]{1,}\(?\d[\d\-.\s()]*$/, '').trim();
+        }
+
+        document.getElementById('directoryFile').addEventListener('change', async function() {
+            const file = this.files[0];
+            if (!file) { departmentNames = []; el('matchBtn').disabled = true; return; }
+
+            el('matchBtn').disabled = true;
+            el('directoryFileInfo').textContent = `Reading ${file.name}...`;
+
+            if (file.name.toLowerCase().endsWith('.pdf')) {
+                try {
+                    const formData = new FormData();
+                    formData.append('file', file);
+                    const resp = await fetch('/api/site-architecture/extract-directory-pdf', { method: 'POST', body: formData });
+                    const data = await resp.json();
+                    if (!data.ok) {
+                        departmentNames = [];
+                        el('directoryFileInfo').textContent = data.error || 'Could not extract departments from this PDF.';
+                        el('directoryFileInfo').className = 'text-danger';
+                        return;
+                    }
+                    departmentNames = data.departments;
+                    el('directoryFileInfo').className = 'text-muted';
+                    el('directoryFileInfo').textContent = `${departmentNames.length} department name(s) extracted from ${file.name}`;
+                } catch (err) {
+                    departmentNames = [];
+                    el('directoryFileInfo').className = 'text-danger';
+                    el('directoryFileInfo').textContent = 'Error reading PDF: ' + err.message;
+                }
+            } else {
+                const text = await readTextFile(file);
+                departmentNames = text.split('\n')
+                    .map(l => stripTrailingPhone(l.trim()))
+                    .filter(l => l.length > 0);
+                el('directoryFileInfo').className = 'text-muted';
+                el('directoryFileInfo').textContent = `${departmentNames.length} department name(s) parsed from ${file.name}`;
+            }
+            el('matchBtn').disabled = departmentNames.length === 0;
+        });
+
+        document.getElementById('linksFile').addEventListener('change', async function() {
+            const file = this.files[0];
+            if (!file) { linkUrls = []; el('processBtn').disabled = true; return; }
+            const text = await readTextFile(file);
+            linkUrls = text.split('\n').map(l => l.trim()).filter(l => l.length > 0);
+            el('linksFileInfo').textContent = `${linkUrls.length} link(s) parsed from ${file.name}`;
+            el('processBtn').disabled = linkUrls.length === 0;
+        });
+
+        // ── Shared: stream a POST response as `data: ...` SSE-style lines ───────
+        async function streamPost(url, body, onLine) {
+            const resp = await fetch(url, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(body),
+            });
+            if (!resp.body) throw new Error('Streaming not supported by this browser');
+            const reader  = resp.body.getReader();
+            const decoder = new TextDecoder();
+            let buffer = '';
+            while (true) {
+                const { done, value } = await reader.read();
+                if (done) break;
+                buffer += decoder.decode(value, { stream: true });
+                let idx;
+                while ((idx = buffer.indexOf('\n\n')) >= 0) {
+                    const chunk = buffer.slice(0, idx);
+                    buffer = buffer.slice(idx + 2);
+                    if (chunk.startsWith('data:')) onLine(chunk.slice(5).replace(/^ /, ''));
+                }
+            }
+        }
+
+        // ── Section A: Department Matching ───────────────────────────────────────
+        function startMatch() {
+            matchResults = [];
+            el('matchList').innerHTML = '';
+            el('matchCount').textContent = '0';
+            el('matchLog').textContent = '';
+            hide('matchResultsWrap');
+            show('matchProgress');
+            setBarState('matchProgressBar', 'running', 'Matching...');
+            el('matchBtn').disabled = true;
+
+            streamPost('/api/site-architecture/match-departments', { departments: departmentNames }, (msg) => {
+                if (msg === '__SUCCESS__') { finishMatch(true); return; }
+                if (msg.startsWith('__FAILURE__')) { appendTo('matchLog', 'ERROR'); finishMatch(false); return; }
+                if (msg.startsWith('MATCH: ')) { try { handleMatch(JSON.parse(msg.slice(7))); } catch(e) {} return; }
+                appendTo('matchLog', msg);
+            }).catch(err => {
+                appendTo('matchLog', 'Error: ' + err.message);
+                finishMatch(false);
+            });
+        }
+
+        function handleMatch(data) {
+            matchResults.push(data);
+            el('matchCount').textContent = matchResults.length;
+            show('matchResultsWrap');
+
+            const row = document.createElement('div');
+            const matched = !!data.matchedUrl;
+            row.className = 'card mb-2 result-row ' + (matched ? 'has-match' : 'no-match');
+            row.innerHTML = `
+                <div class="card-body p-3">
+                    <div class="fw-semibold small">${esc(data.department)}</div>
+                    ${matched
+                        ? `<div class="small mt-1"><a href="${esc(data.matchedUrl)}" target="_blank" class="text-decoration-none text-success">${esc(data.matchedUrl)}</a> <span class="badge bg-success ms-1" style="font-size:.65rem;">match ${(data.score*100).toFixed(0)}%</span></div>`
+                        : `<div class="small mt-1"><span class="badge bg-danger" style="font-size:.65rem;">No confident match</span> <span class="text-muted">(best score ${(data.score*100).toFixed(0)}%)</span></div>`}
+                </div>`;
+            el('matchList').appendChild(row);
+        }
+
+        function finishMatch(success) {
+            el('matchBtn').disabled = false;
+            setBarState('matchProgressBar', success ? 'success' : 'failure', success ? 'Done' : 'Failed');
+        }
+
+        function exportMatchCsv() {
+            const rows = [['Department', 'Matched URL', 'Match Score']];
+            matchResults.forEach(r => rows.push([r.department, r.matchedUrl || '', r.score != null ? r.score : '']));
+            downloadCsv(rows, 'department_matches.csv');
+        }
+
+        // ── Section B: Link Reorganization ───────────────────────────────────────
+        function startProcess() {
+            const targetDomainInput = el('targetDomain');
+            const targetDomain = targetDomainInput.value.trim();
+            if (!targetDomain.match(/^https?:\/\/.+/)) { targetDomainInput.classList.add('is-invalid'); return; }
+            targetDomainInput.classList.remove('is-invalid');
+
+            const model = el('ollamaModel').value.trim();
+
+            processResults = [];
+            el('processList').innerHTML = '';
+            el('processCount').textContent = '0';
+            el('processLog').textContent = '';
+            el('processCounter').textContent = `0 / ${linkUrls.length}`;
+            el('processStatusText').textContent = 'Starting...';
+            hide('processResultsWrap');
+            show('processProgress');
+            setBarState('processProgressBar', 'running', 'Processing...');
+            el('processBtn').disabled = true;
+
+            let done = 0;
+            streamPost('/api/site-architecture/process', { urls: linkUrls, targetDomain, model, departments: departmentNames }, (msg) => {
+                if (msg === '__SUCCESS__') { finishProcess(true); return; }
+                if (msg.startsWith('__FAILURE__')) { appendTo('processLog', 'ERROR: ' + msg.slice(11).trim()); finishProcess(false); return; }
+                if (msg.startsWith('RESULT: ')) {
+                    try { handleResult(JSON.parse(msg.slice(8))); done++; el('processCounter').textContent = `${done} / ${linkUrls.length}`; } catch(e) {}
+                    return;
+                }
+                appendTo('processLog', msg);
+                if (msg.trim()) el('processStatusText').textContent = msg.length > 100 ? msg.slice(0, 100) + '…' : msg;
+            }).catch(err => {
+                appendTo('processLog', 'Error: ' + err.message);
+                finishProcess(false);
+            });
+        }
+
+        function handleResult(data) {
+            processResults.push(data);
+            el('processCount').textContent = processResults.length;
+            show('processResultsWrap');
+
+            const ok = !data.error;
+            const row = document.createElement('div');
+            row.className = 'card mb-2 result-row ' + (ok ? 'ok' : 'error');
+            row.innerHTML = `
+                <div class="card-body p-3">
+                    <div class="small text-muted">${esc(data.title || '')}</div>
+                    <div class="small"><span class="text-muted">Original:</span> <a href="${esc(data.originalUrl)}" target="_blank" class="text-decoration-none">${esc(data.originalUrl)}</a></div>
+                    ${ok
+                        ? `<div class="small"><span class="text-muted">Suggested:</span> <a href="${esc(data.suggestedUrl)}" target="_blank" class="text-decoration-none text-success fw-semibold">${esc(data.suggestedUrl)}</a></div>`
+                        : `<div class="small"><span class="badge bg-danger" style="font-size:.65rem;">${esc(data.error)}</span></div>`}
+                </div>`;
+            el('processList').appendChild(row);
+        }
+
+        function finishProcess(success) {
+            el('processBtn').disabled = false;
+            setBarState('processProgressBar', success ? 'success' : 'failure', success ? 'Done' : 'Failed');
+        }
+
+        function exportProcessCsv() {
+            const rows = [['Suggested URL', 'Original URL', 'Error']];
+            processResults.forEach(r => rows.push([r.suggestedUrl || '', r.originalUrl || '', r.error || '']));
+            downloadCsv(rows, 'site_architecture.csv');
+        }
+
+        // ── Shared helpers ────────────────────────────────────────────────────────
+        function downloadCsv(rows, filename) {
+            const csv = rows.map(r => r.map(c => `"${String(c || '').replace(/"/g, '""')}"`).join(',')).join('\n');
+            const a = Object.assign(document.createElement('a'), {
+                href: URL.createObjectURL(new Blob([csv], { type: 'text/csv' })),
+                download: filename,
+            });
+            a.click();
+        }
+
+        function setBarState(id, state, label) {
+            const bar = el(id);
+            const cls = { running: 'progress-bar progress-bar-striped progress-bar-animated bg-primary', success: 'progress-bar bg-success', failure: 'progress-bar bg-danger' };
+            bar.className = cls[state];
+            bar.style.width = '100%';
+            bar.textContent = label;
+        }
+
+        function appendTo(id, line) {
+            const box = el(id);
+            box.textContent += line + '\n';
+            box.scrollTop = box.scrollHeight;
+        }
+
+        function el(id)   { return document.getElementById(id); }
+        function show(id) { el(id).style.removeProperty('display'); }
+        function hide(id) { el(id).style.display = 'none'; }
+        function esc(str) {
+            return (str || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+        }
+
+        // ── Detect whatever model Ollama currently has loaded ───────────────────
+        fetch('/api/ollama-models').then(r => r.json()).then(data => {
+            const status = el('ollamaDetected');
+            if (data.ok && data.default) {
+                const extra = data.installed.length > 1 ? ` (${data.installed.length} models installed)` : '';
+                status.textContent = `Detected: ${data.default}${extra}`;
+                status.className = 'd-block mt-1 text-success';
+            } else {
+                status.textContent = 'No Ollama model detected — make sure Ollama is running and a model is pulled, or set a manual override above.';
+                status.className = 'd-block mt-1 text-danger';
+            }
+        }).catch(() => {
+            const status = el('ollamaDetected');
+            status.textContent = 'Could not reach Ollama at localhost:11434.';
+            status.className = 'd-block mt-1 text-danger';
+        });
+    </script>
+</body>
+</html>
