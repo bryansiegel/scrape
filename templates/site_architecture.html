@@ -129,7 +129,7 @@
                         <i class="bi bi-diagram-3 me-2"></i>2. Link Reorganization
                     </div>
                     <div class="card-body">
-                        <p class="text-muted small">Upload a list of links as a <code>.txt</code> file (one URL per line). Each page is scraped for its plain text content (no HTML/CSS) and categorized by Ollama into a folder structure modeled after how large district sites (e.g. cps.edu) are organized. Only the folder changes — each page's own URL slug is preserved exactly. If you've loaded a phone directory above, those official department names are used as the vocabulary for <code>/about/departments/</code> pages.</p>
+                        <p class="text-muted small">Upload a list of links as a <code>.txt</code> file (one URL per line). Each page is scraped for its plain text content (no HTML/CSS) and categorized by Ollama into the fixed <strong>CCSD Site Navigation Map</strong> structure (CCSD Families/Students, Prospective Families, Team CCSD, About, Athletics, Careers, Curriculum, Engage With Us, Get Involved, Initiatives, Newsroom, Policies, Units). Pages are filed only under folders from that map, plus <code>/team-ccsd/departments/</code> for individual departments and <code>/district/</code> as the catch-all for general district information. Every exported URL is normalized to lowercase-hyphen form (<code>/asdf-asdf-asdf</code>). Links on a <strong>subdomain</strong> (e.g. <code>aarsi.ccsd.net</code>) are treated as departments: the subdomain homepage's <code>&lt;h1&gt;</code> is matched against the department directory to get the correct name, and the page is filed under its <strong>unit</strong> as <code>/team-ccsd/departments/&lt;unit&gt;/&lt;department&gt;/</code>. <strong>"Contact Us"</strong> pages and email links are ignored. If you've loaded the phone directory above, its department→unit grouping is used as the vocabulary for all department pages.</p>
 
                         <div class="mb-3">
                             <label class="form-label fw-semibold file-drop-label">Links list (.txt)</label>
@@ -236,9 +236,12 @@
                         el('directoryFileInfo').className = 'text-danger';
                         return;
                     }
-                    departmentNames = data.departments;
+                    // Each item is { name, unit, page, unitName }. Keep the objects so the
+                    // unit grouping flows through to matching and link reorganization.
+                    departmentNames = data.departments.map(d => (typeof d === 'string' ? { name: d, unit: null } : d));
+                    const unitCount = new Set(departmentNames.map(d => d.unit).filter(Boolean)).size;
                     el('directoryFileInfo').className = 'text-muted';
-                    el('directoryFileInfo').textContent = `${departmentNames.length} department name(s) extracted from ${file.name}`;
+                    el('directoryFileInfo').textContent = `${departmentNames.length} department name(s) across ${unitCount} unit(s) extracted from ${file.name}`;
                 } catch (err) {
                     departmentNames = [];
                     el('directoryFileInfo').className = 'text-danger';
@@ -248,9 +251,10 @@
                 const text = await readTextFile(file);
                 departmentNames = text.split('\n')
                     .map(l => stripTrailingPhone(l.trim()))
-                    .filter(l => l.length > 0);
+                    .filter(l => l.length > 0)
+                    .map(name => ({ name, unit: null }));
                 el('directoryFileInfo').className = 'text-muted';
-                el('directoryFileInfo').textContent = `${departmentNames.length} department name(s) parsed from ${file.name}`;
+                el('directoryFileInfo').textContent = `${departmentNames.length} department name(s) parsed from ${file.name} (no unit info — .txt has no page numbers)`;
             }
             el('matchBtn').disabled = departmentNames.length === 0;
         });
@@ -320,7 +324,8 @@
             row.className = 'card mb-2 result-row ' + (matched ? 'has-match' : 'no-match');
             row.innerHTML = `
                 <div class="card-body p-3">
-                    <div class="fw-semibold small">${esc(data.department)}</div>
+                    <div class="fw-semibold small">${esc(data.department)}
+                        ${data.unit ? `<span class="badge bg-secondary ms-1" style="font-size:.62rem;"><i class="bi bi-diagram-2 me-1"></i>${esc(data.unit)}</span>` : ''}</div>
                     ${matched
                         ? `<div class="small mt-1"><a href="${esc(data.matchedUrl)}" target="_blank" class="text-decoration-none text-success">${esc(data.matchedUrl)}</a> <span class="badge bg-success ms-1" style="font-size:.65rem;">match ${(data.score*100).toFixed(0)}%</span></div>`
                         : `<div class="small mt-1"><span class="badge bg-danger" style="font-size:.65rem;">No confident match</span> <span class="text-muted">(best score ${(data.score*100).toFixed(0)}%)</span></div>`}
@@ -334,8 +339,8 @@
         }
 
         function exportMatchCsv() {
-            const rows = [['Department', 'Matched URL', 'Match Score']];
-            matchResults.forEach(r => rows.push([r.department, r.matchedUrl || '', r.score != null ? r.score : '']));
+            const rows = [['Department', 'Unit', 'Matched URL', 'Match Score']];
+            matchResults.forEach(r => rows.push([r.department, r.unit || '', r.matchedUrl || '', r.score != null ? r.score : '']));
             downloadCsv(rows, 'department_matches.csv');
         }
 

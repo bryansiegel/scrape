@@ -1265,6 +1265,7 @@ def run_single_scrape():
         found_images   = set()
         found_trackers = set()  # "tracker_name|code" keys — unique script code, site-wide
         found_externals = set()
+        redirects      = {}   # crawled URL -> final URL, for pages that redirected
         pages_crawled  = 0
 
         yield f"data: Starting crawl of {url}\n\n"
@@ -1298,8 +1299,18 @@ def run_single_scrape():
                     continue
 
                 raw_html = resp.text
-                _html_cache[current] = extract_content_html(raw_html, current)
+                content_html = extract_content_html(raw_html, current)
+                _html_cache[current] = content_html
                 soup = BeautifulSoup(raw_html, 'html.parser')
+
+                # Note where the request actually landed after following redirects, so a
+                # later step can report the final URL (e.g. /fs/pages/19300 → /about/...).
+                final_url = resp.url.split('#')[0].rstrip('/')
+                if final_url and final_url != current:
+                    redirects[current] = final_url
+                    # cache under the final URL too so "Copy HTML" still resolves once the
+                    # row's URL is updated to the redirect target.
+                    _html_cache[final_url] = content_html
 
                 # Emit LINK with page title so the All Links tab can label it
                 title_tag  = soup.find('title')
@@ -1385,6 +1396,14 @@ def run_single_scrape():
                 yield f"data: Error ({current}): {e}\n\n"
 
             time.sleep(0.15)
+
+        # ── Extra step: report links that redirected to a different final URL ──────
+        yield f"data: \n\n"
+        yield f"data: Checking {pages_crawled} link(s) for redirects...\n\n"
+        for original, final in redirects.items():
+            yield f"data: Redirect: {original} -> {final}\n\n"
+            yield f"data: REDIRECT: {original}|{final}\n\n"
+        yield f"data: {len(redirects)} redirect(s) resolved.\n\n"
 
         yield f"data: \n\n"
         yield (
@@ -3376,19 +3395,99 @@ _DIRECTORY_INDEX_ENTRY_RE   = re.compile(r'^(.+?)[.\s]{2,}(\d{1,4})$')
 _DIRECTORY_INDEX_LETTER_RE  = re.compile(r'^[A-Z]$')
 _DIRECTORY_INDEX_REV_RE     = re.compile(r'^REV\.?\s*\d')
 
+# The directory's Table of Contents lists each top-level UNIT with its start page.
+# A department's unit is whichever unit page-range its own page# falls into. These
+# directory section names are mapped to short unit slugs for the new-site URLs; the
+# preview the user approved uses these (e.g. Teaching and Learning → academics).
+_DIRECTORY_UNIT_SLUGS = {
+    'board of school trustees': 'board-of-school-trustees',
+    'office of the superintendent': 'office-of-the-superintendent',
+    'office of the deputy superintendent of teaching and learning': 'academics',
+    'office of the deputy superintendent of business operations': 'business-operations',
+    'human resources unit': 'human-resources',
+    'office of the general counsel': 'general-counsel',
+    'community engagement unit': 'community-engagement',
+    'police services': 'police',
+    'business and finance unit': 'business-and-finance',
+}
+# Table-of-Contents rows that are structural, not actual units.
+_DIRECTORY_TOC_SKIP = {
+    'table of contents', 'departmental listing', 'name location change form',
+    'name/location change form', 'alphabetical listing',
+    'clark county school district main number', 'administrative center address',
+    'emergency number',
+}
+
+
+def _directory_unit_slug(unit_name):
+    """Short unit slug for a directory section name (mapped, else slugified)."""
+    if not unit_name:
+        return None
+    return _DIRECTORY_UNIT_SLUGS.get(_normalize_match_text(unit_name)) or _slugify(unit_name)
+
+
+def _parse_directory_units(doc):
+    """Parse the Table of Contents into an ordered list of (start_page, unit_name)
+    boundaries. Robust to page-number changes across directory revisions."""
+    units = []
+    for page in doc:
+        text = page.get_text('text')
+        if 'TABLE OF CONTENTS' not in text.upper():
+            continue
+        for raw_line in text.split('\n'):
+            m = _DIRECTORY_INDEX_ENTRY_RE.match(raw_line.strip())
+            if not m:
+                continue
+            name = re.sub(r'\s+', ' ', m.group(1)).strip(' .')
+            if not name or _normalize_match_text(name) in _DIRECTORY_TOC_SKIP:
+                continue
+            units.append((int(m.group(2)), name))
+        if units:
+            break
+    units.sort(key=lambda u: u[0])
+    return units
+
+
+def _unit_for_page(units, page_no):
+    """The unit whose page range contains page_no (last unit whose start <= page_no)."""
+    unit_name = None
+    for start, name in units:
+        if page_no >= start:
+            unit_name = name
+        else:
+            break
+    return unit_name
+
+
+def _dept_records(raw):
+    """Normalize an incoming departments payload (list of strings and/or
+    {name, unit} objects) into a clean list of {'name', 'unit'} dicts."""
+    recs = []
+    for d in raw or []:
+        if isinstance(d, dict):
+            name = (d.get('name') or '').strip()
+            unit = (d.get('unit') or '').strip() or None
+        else:
+            name = str(d).strip()
+            unit = None
+        if name:
+            recs.append({'name': name, 'unit': unit})
+    return recs
+
 
 def _extract_directory_departments(pdf_bytes):
-    """Pull department names out of a CCSD-style telephone directory PDF.
+    """Pull departments (with their unit) out of a CCSD-style telephone directory PDF.
 
     These directories include an alphabetical "Departmental Listing" index (name +
-    dot-leader + page number) ahead of the actual staff rows — that index is a far
-    cleaner source of department names than trying to parse phone numbers back out
-    of the tabular position/name/phone/fax rows on the body pages.
+    dot-leader + page number) ahead of the actual staff rows. Each index entry's page#
+    is cross-referenced against the Table of Contents unit boundaries to determine which
+    unit the department belongs to. Returns a list of {'name', 'page', 'unit', 'unitName'}.
     """
     import fitz  # PyMuPDF
 
     doc = fitz.open(stream=pdf_bytes, filetype='pdf')
     try:
+        units = _parse_directory_units(doc)
         departments = []
         seen = set()
         for page in doc:
@@ -3420,7 +3519,14 @@ def _extract_directory_departments(pdf_bytes):
                     key = name.upper()
                     if name and key not in seen:
                         seen.add(key)
-                        departments.append(name)
+                        page_no   = int(m.group(2))
+                        unit_name = _unit_for_page(units, page_no) if units else None
+                        departments.append({
+                            'name': name,
+                            'page': page_no,
+                            'unit': _directory_unit_slug(unit_name),
+                            'unitName': unit_name,
+                        })
                     buffer = ''
         return departments
     finally:
@@ -3453,11 +3559,11 @@ def match_departments():
     import difflib
     import json
 
-    data        = request.get_json(force=True) or {}
-    departments = [d.strip() for d in data.get('departments', []) if d and d.strip()]
+    data         = request.get_json(force=True) or {}
+    dept_records = _dept_records(data.get('departments', []))
 
     def generate():
-        if not departments:
+        if not dept_records:
             yield "data: ERROR: No department names provided\n\n"
             yield "data: __FAILURE__\n\n"
             return
@@ -3486,7 +3592,8 @@ def match_departments():
 
         norm_candidates = [(url, label, _normalize_match_text(label)) for url, label in candidates]
 
-        for dept in departments:
+        for rec in dept_records:
+            dept = rec['name']
             norm_dept = _normalize_match_text(dept)
             best_url, best_label, best_score = None, None, 0.0
             for url, label, norm_label in norm_candidates:
@@ -3495,6 +3602,7 @@ def match_departments():
                     best_score, best_url, best_label = score, url, label
             payload = json.dumps({
                 'department': dept,
+                'unit': rec['unit'],
                 'matchedUrl': best_url if best_score >= 0.5 else None,
                 'label': best_label if best_score >= 0.5 else None,
                 'score': round(best_score, 3),
@@ -3516,43 +3624,156 @@ def process_site_architecture():
     from urllib.parse import urlparse
     import random, json
 
+    import difflib
+
     data            = request.get_json(force=True) or {}
     urls            = [u.strip() for u in data.get('urls', []) if u and u.strip()]
     target_domain   = (data.get('targetDomain') or '').strip().rstrip('/')
     requested_model = (data.get('model') or '').strip()
-    departments     = [d.strip() for d in data.get('departments', []) if d and d.strip()]
+    dept_records    = _dept_records(data.get('departments', []))
+    departments     = [r['name'] for r in dept_records]
+    dept_unit_map   = {_normalize_match_text(r['name']): r['unit'] for r in dept_records if r['unit']}
     target_host     = urlparse(target_domain).netloc.lower().removeprefix('www.')
     ollama_url      = get_ollama_url()
-    OLLAMA_TIMEOUT  = int(os.getenv('OLLAMA_TIMEOUT', '300'))
+    OLLAMA_TIMEOUT  = int(os.getenv('OLLAMA_TIMEOUT', '600'))  # read timeout; first token can be slow on a cold/large model
 
-    # A large district site's IA, grounded in how Chicago Public Schools (cps.edu) — a
-    # real, well-organized big-district site — actually structures its content. Used as
-    # a pattern for Ollama to follow rather than inventing an unrelated structure per page.
+    def kebab_path(*parts):
+        """Join path parts and normalize EVERY segment to lowercase-hyphen kebab-case,
+        so all exported URL paths are strictly /asdf-asdf-asdf. Returns without a
+        trailing slash (target_domain is prepended by the caller)."""
+        segs = []
+        for part in parts:
+            for seg in str(part or '').split('/'):
+                s = _slugify(seg)
+                if s:
+                    segs.append(s)
+        return '/' + '/'.join(segs)
+
+    def dept_parts(dept_name):
+        """(parent_folder, dept_slug) for a department, nesting it under its unit when
+        known: /team-ccsd/departments/<unit>/ + <dept-slug>, else /team-ccsd/departments/."""
+        unit  = dept_unit_map.get(_normalize_match_text(dept_name))
+        dslug = _slugify(dept_name)
+        parent = f'{DEPARTMENTS_BASE}{unit}/' if unit else DEPARTMENTS_BASE
+        return parent, dslug
+
+    # The new site's information architecture is CONSTRAINED to the CCSD "Site Navigation
+    # Map" — every page must be filed under one of these exact folders and nowhere else.
+    # Departments live under /team-ccsd/departments/<dept>/ (individual department pages);
+    # the only other addition beyond the map is /district/ (a catch-all for general district
+    # information that doesn't fit any map section). Ollama must pick a folder from this
+    # fixed list character-for-character; it may NOT invent new folders.
+    DEPARTMENTS_BASE = '/team-ccsd/departments/'
+    ALLOWED_FOLDERS = [
+        # CCSD Families / Students
+        '/families/calendars/',
+        '/families/registration/',
+        '/families/school-meals/',
+        '/families/early-childhood-education/',
+        '/families/transportation/',
+        '/families/safevoice/',
+        '/families/student-services/',
+        '/families/zoning/',
+        # Prospective Families
+        '/prospective-families/why-ccsd/',
+        '/prospective-families/career-and-technical-academies/',
+        '/prospective-families/enroll/',
+        '/prospective-families/magnet-schools/',
+        '/prospective-families/open-enrollment/',
+        '/prospective-families/find-a-school/',
+        # Team CCSD
+        '/team-ccsd/calendar/',
+        '/team-ccsd/benefits/',
+        '/team-ccsd/hcm/',
+        '/team-ccsd/departments/',
+        '/team-ccsd/staff-directory/',
+        '/team-ccsd/training/',
+        # About
+        '/about/board-of-school-trustees/',
+        '/about/leadership-team/',
+        '/about/open-book/',
+        '/about/meet-the-superintendent/',
+        # Athletics / Careers / Curriculum
+        '/athletics/',
+        '/careers/',
+        '/curriculum/',
+        # Engage With Us
+        '/engage-with-us/podcast/',
+        '/engage-with-us/social-media-handles/',
+        '/engage-with-us/meetings/',
+        '/engage-with-us/events/',
+        # Get Involved
+        '/get-involved/alumni-association/',
+        '/get-involved/partner-with-us/',
+        '/get-involved/school-organizational-teams/',
+        '/get-involved/volunteer/',
+        # Initiatives
+        '/initiatives/facility-master-plan/',
+        '/initiatives/operation-destination-district/',
+        '/initiatives/school-zone-and-traffic-safety/',
+        # Newsroom
+        '/newsroom/awards-and-accolades/',
+        '/newsroom/newsletters/',
+        # Policies
+        '/policies/employees/',
+        '/policies/students/',
+        '/policies/public/',
+        # Units
+        '/units/academics/',
+        '/units/business-and-finance/',
+        '/units/community-engagement/',
+        '/units/human-resources/',
+        '/units/police/',
+        '/units/technology-and-information-systems/',
+        # StarGrads student awards (explicit rule, filed deterministically)
+        '/families/student-services/awards/',
+        # District / general information (added beyond the map — catch-all fallback)
+        '/district/',
+    ]
+    ALLOWED_FOLDER_SET = set(ALLOWED_FOLDERS)
+    FALLBACK_FOLDER = '/district/'
+
+    def constrain_folder(folder):
+        """Coerce a model-proposed folder to the fixed navigation-map taxonomy. Department
+        pages (/team-ccsd/departments/<dept>/) are allowed through; anything not in the
+        allowed set falls back to /district/ so the output can never drift off the map."""
+        folder = (folder or '').strip()
+        if not folder.startswith('/'):
+            folder = '/' + folder
+        if not folder.endswith('/'):
+            folder += '/'
+        if folder in ALLOWED_FOLDER_SET:
+            return folder
+        if folder.startswith(DEPARTMENTS_BASE) and len(folder) > len(DEPARTMENTS_BASE):
+            return folder
+        return FALLBACK_FOLDER
+
+    # Kept compact (folders on one line) to minimize prompt-eval time on local models.
     SITE_STRUCTURE_GUIDE = (
-        "Model the new site's top-level folder structure after how large school district "
-        "websites are organized (e.g. Chicago Public Schools' cps.edu). Prefer nesting "
-        "pages under these top-level sections rather than inventing unrelated new ones:\n"
-        "  /about/ — district info, leadership, board of trustees (e.g. /about/school-board/), "
-        "policies, finance, contact, data/stats\n"
-        "  /about/departments/ — individual department pages (see the official department "
-        "list below, if provided)\n"
-        "  /academics/ — curriculum, programs, assessments, course info, enrichment\n"
-        "  /schools/ — school locator, enrollment/zoning, individual schools\n"
-        "  /families/ — parent/student resources, health, transportation, meals, safety\n"
-        "  /calendar/ — calendars and events\n"
-        "  /careers/ — employment/jobs\n"
-        "  /news/ — press releases, news, media\n"
+        "File every page under ONE of these EXACT folders (copy character-for-character; "
+        "do NOT invent, rename, or merge folders): "
+        + ' '.join(ALLOWED_FOLDERS) +
+        " Rules: department pages go under " + DEPARTMENTS_BASE + "<kebab-department>/ "
+        "(see the department list below, if provided); if nothing fits, use /district/. "
     )
 
+    # Cap how many departments are inlined into the prompt — a 250-line vocab makes the
+    # prompt huge and prompt-eval on a local model can stall past the read timeout. Most
+    # department pages are placed deterministically from subdomains anyway; Ollama mainly
+    # needs the unit-level folders. Override with OLLAMA_DEPT_VOCAB_LIMIT if desired.
+    DEPT_VOCAB_LIMIT = int(os.getenv('OLLAMA_DEPT_VOCAB_LIMIT', '60'))
     DEPARTMENT_VOCAB_HINT = ''
-    if departments:
-        dept_list = '\n'.join(f'  - {d}' for d in departments[:250])
+    if dept_records:
+        dept_lines = []
+        for r in dept_records[:DEPT_VOCAB_LIMIT]:
+            parent = f"{DEPARTMENTS_BASE}{r['unit']}/" if r['unit'] else DEPARTMENTS_BASE
+            dept_lines.append(f"  - {r['name']}  →  {parent}{_slugify(r['name'])}/")
         DEPARTMENT_VOCAB_HINT = (
-            "\nThe following are the OFFICIAL department names for this district (from its "
-            "phone directory). If a page's subject matter clearly matches one of these "
-            "departments, its folder MUST be /about/departments/<kebab-case of that exact "
-            "department name>/ — use the department name as given below, don't invent a "
-            "different name for it:\n" + dept_list + "\n"
+            "\nThe following are the OFFICIAL district departments (from the phone "
+            "directory), each nested under its unit, with the EXACT folder to use if a "
+            "page belongs to that department. If a page clearly matches a department, use "
+            "its folder EXACTLY as shown below — do not invent a different name or unit:\n"
+            + '\n'.join(dept_lines) + "\n"
         )
 
     USER_AGENTS = [
@@ -3571,7 +3792,7 @@ def process_site_architecture():
             return installed[0]
         return None
 
-    CHUNK_SIZE = 20  # pages per Ollama batch-categorization call
+    CHUNK_SIZE = 10  # pages per Ollama batch-categorization call (smaller = snappier, more progress updates)
     FOLDER_REGISTRY_LIMIT = 40  # cap prompt growth on very large batches
 
     def build_registry_hint(folder_registry):
@@ -3582,16 +3803,13 @@ def process_site_architecture():
             for folder, examples in list(folder_registry.items())[:FOLDER_REGISTRY_LIMIT]
         ]
         return (
-            "\n\nFolders already assigned to other pages in this batch — if a page's "
-            "subject matter clearly matches one of them, use that EXACT folder path "
-            "(character-for-character); only propose a new folder if none of these fit:\n"
+            "\n\nFolders already assigned to other pages in this batch (all drawn from the "
+            "fixed list above) — if a page's subject matter clearly matches one of them, use "
+            "that EXACT folder path (character-for-character):\n"
             + '\n'.join(lines)
         )
 
-    def get_ollama_batch_folders(model, chunk, registry_hint):
-        """Ask Ollama to assign a FOLDER to every page in `chunk` at once — the page's own
-        slug/filename is preserved as-is by the caller, never rewritten by the model.
-        Returns {normalized_url: folder}."""
+    def build_batch_prompt(chunk, registry_hint):
         pages_block = '\n'.join(
             f"- URL: {p['url']}\n"
             f"  Slug (fixed — do NOT include in folder): {p['slug']}\n"
@@ -3599,15 +3817,15 @@ def process_site_architecture():
             f"  Summary: {p['snippet'] or '(none)'}"
             for p in chunk
         )
-        prompt = (
+        return (
             "You are an information architect for K-12 school district websites. Below is a "
             "batch of pages from an existing site. For EACH page, decide which FOLDER it "
             "should live under on a newly re-organized site — everything in the URL path "
             "EXCEPT the page's own fixed slug (given per-page below), which must NOT be "
-            "included in your folder answer. Use lowercase kebab-case folder segments. Pages "
-            "covering the same subject matter MUST get the exact same folder — compare pages "
-            "against each other (and against the already-assigned folders, if any) before "
-            "deciding.\n\n" + SITE_STRUCTURE_GUIDE + DEPARTMENT_VOCAB_HINT
+            "included in your folder answer. You MUST choose the folder from the fixed list "
+            "below — copy it exactly, do not invent new folders. Pages covering the same "
+            "subject matter MUST get the exact same folder.\n\n"
+            + SITE_STRUCTURE_GUIDE + DEPARTMENT_VOCAB_HINT
             + registry_hint +
             "\n\nRespond with ONLY a JSON array, one object per page listed below, in exactly "
             "this form and nothing else (no markdown, no commentary):\n"
@@ -3615,32 +3833,65 @@ def process_site_architecture():
             'starting and ending with />"}]\n\n'
             f"Pages:\n{pages_block}"
         )
-        r = req.post(
-            f"{ollama_url}/api/generate",
-            json={'model': model, 'prompt': prompt, 'stream': False},
-            timeout=OLLAMA_TIMEOUT,
-        )
-        r.raise_for_status()
-        text = r.json().get('response', '').strip()
-        text = re.sub(r'^```(?:json)?\s*', '', text)
+
+    def parse_batch_response(text, chunk):
+        """Parse Ollama's JSON array response into {normalized_url: constrained_folder}."""
+        text = re.sub(r'^```(?:json)?\s*', '', (text or '').strip())
         text = re.sub(r'\s*```$', '', text).strip()
         m = re.search(r'\[[\s\S]*\]', text)
         raw = m.group() if m else text
         raw = re.sub(r',\s*([}\]])', r'\1', raw)  # trailing commas some models emit
         items = json.loads(raw)
-
         assignments = {}
         for item in items:
             item_url = (item.get('url') or '').strip()
             folder   = (item.get('folder') or '').strip()
             if not item_url or not folder:
                 continue
-            if not folder.startswith('/'):
-                folder = '/' + folder
-            if not folder.endswith('/'):
-                folder += '/'
-            assignments[item_url.rstrip('/')] = folder
+            assignments[item_url.rstrip('/')] = constrain_folder(folder)
         return assignments
+
+    def stream_ollama_generate(model, prompt):
+        """Generator over a streaming Ollama /api/generate call. Yields ('progress', chars)
+        as tokens arrive so the caller can emit heartbeats, then ('done', full_text).
+
+        num_predict caps generation and temperature 0 makes it deterministic. keep_alive
+        (local-only: holds a locally loaded model in memory between batches) is skipped for
+        cloud models, which run on Ollama's cloud and aren't loaded on this machine. The
+        timeout is a (connect, read) pair."""
+        payload = {
+            'model': model,
+            'prompt': prompt,
+            'stream': True,
+            'options': {
+                'temperature': 0,
+                'num_predict': int(os.getenv('OLLAMA_NUM_PREDICT', '2048')),
+            },
+        }
+        if not model.endswith('-cloud'):
+            payload['keep_alive'] = os.getenv('OLLAMA_KEEP_ALIVE', '30m')
+        r = req.post(
+            f"{ollama_url}/api/generate",
+            json=payload,
+            timeout=(10, OLLAMA_TIMEOUT),
+            stream=True,
+        )
+        r.raise_for_status()
+        parts, last = [], 0
+        for line in r.iter_lines():
+            if not line:
+                continue
+            obj = json.loads(line.decode('utf-8'))
+            piece = obj.get('response', '')
+            if piece:
+                parts.append(piece)
+            total = sum(len(p) for p in parts)
+            if total - last >= 150:
+                last = total
+                yield ('progress', total)
+            if obj.get('done'):
+                break
+        yield ('done', ''.join(parts))
 
     def generate():
         yield f"data: Received {len(urls)} link(s). Starting...\n\n"
@@ -3672,7 +3923,86 @@ def process_site_architecture():
         yield f"data: Phase 1/2 — scraping {len(urls)} page(s)...\n\n"
         pages_to_categorize = []
 
+        def is_contact_us(slug, title, path):
+            """True for a 'Contact Us' page (by slug, title, or URL path) — these are
+            ignored entirely rather than placed anywhere in the new architecture."""
+            for s in (slug, title, path):
+                n = re.sub(r'[^a-z]', '', (s or '').lower())
+                if 'contactus' in n or n == 'contact':
+                    return True
+            return False
+
+        # Words skipped when building a department's initials, so an abbreviation like
+        # "gda" can match "Gifted & Deaf/HH Academics" even though the department name
+        # also contains connectors/qualifiers that aren't part of the acronym.
+        ABBR_STOP = {'and', 'of', 'the', 'for', 'a', 'an', 'to', 'in', 'on', '&',
+                     'office', 'department', 'division', 'dept', 'services', 'service',
+                     'unit', 'program', 'programs'}
+
+        def match_dept_abbrev(abbrev):
+            """A department subdomain (e.g. gda.ccsd.net) is an abbreviation. Match it
+            against the official department list by comparing it to each department's
+            initials — both the full initials and the initials with connector/qualifier
+            words dropped. Returns the full department name if matched, else None."""
+            a = re.sub(r'[^a-z]', '', (abbrev or '').lower())
+            if not a:
+                return None
+            for name in departments:
+                words = re.findall(r'[A-Za-z]+', name)
+                if not words:
+                    continue
+                full   = ''.join(w[0] for w in words).lower()
+                nostop = ''.join(w[0] for w in words if w.lower() not in ABBR_STOP).lower()
+                if a == full or (nostop and a == nostop):
+                    return name
+            return None
+
+        def best_department_match(text):
+            """Fuzzy-match arbitrary text (e.g. a homepage <h1>) against the official
+            department list. Returns (name, score)."""
+            nt = _normalize_match_text(text)
+            if not nt or not departments:
+                return None, 0.0
+            best, best_score = None, 0.0
+            for name in departments:
+                score = difflib.SequenceMatcher(None, nt, _normalize_match_text(name)).ratio()
+                if score > best_score:
+                    best, best_score = name, score
+            return best, best_score
+
+        subdomain_dept_cache = {}
+
+        def resolve_subdomain_dept(page_host, subdomain):
+            """Determine the official department name for an extra-domain link. Scrapes the
+            subdomain's homepage <h1> and matches it against the department list (the most
+            reliable signal), falling back to matching the subdomain abbreviation. Cached
+            per host so each subdomain homepage is fetched only once."""
+            if page_host in subdomain_dept_cache:
+                return subdomain_dept_cache[page_host]
+            dept_name = None
+            try:
+                hp = req.get(f'https://{page_host}/',
+                             headers={'User-Agent': random.choice(USER_AGENTS)},
+                             timeout=15, allow_redirects=True)
+                if hp.ok and 'html' in hp.headers.get('Content-Type', ''):
+                    h1 = BeautifulSoup(hp.text, 'html.parser').find('h1')
+                    h1_text = h1.get_text(' ', strip=True) if h1 else ''
+                    if h1_text:
+                        name, score = best_department_match(h1_text)
+                        if name and score >= 0.55:
+                            dept_name = name
+            except Exception:
+                pass
+            if not dept_name:
+                dept_name = match_dept_abbrev(subdomain)
+            subdomain_dept_cache[page_host] = dept_name
+            return dept_name
+
         for i, url in enumerate(urls, 1):
+            # Ignore email addresses (mailto: links or an email embedded in the URL).
+            if url.lower().startswith('mailto:') or re.search(r'[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}', url):
+                yield f"data: Ignored (email address): {url}\n\n"
+                continue
             yield f"data: Scraping ({i}/{len(urls)}): {url}\n\n"
             try:
                 headers = {
@@ -3715,6 +4045,57 @@ def process_site_architecture():
                 page_slug     = path_segments[-1] if path_segments else ''
                 page_host     = parsed_url.netloc.lower().removeprefix('www.')
 
+                # ── Ignore "Contact Us" pages entirely ───────────────────────────
+                if is_contact_us(page_slug, page_title, parsed_url.path):
+                    yield f"data: Ignored (Contact Us): {url}\n\n"
+                    continue
+
+                # ── StarGrads → student awards ───────────────────────────────────
+                # StarGrads is a student-recognition/awards program; file it under the
+                # student awards folder regardless of which domain/section it came from.
+                if any('stargrad' in re.sub(r'[^a-z]', '', (s or '').lower())
+                       for s in (page_slug, page_title, parsed_url.path)):
+                    star_slug = page_slug or _slugify(page_title) or 'star-grads'
+                    suggested_url = target_domain + kebab_path('/families/student-services/awards/', star_slug)
+                    payload = json.dumps({'originalUrl': url, 'suggestedUrl': suggested_url,
+                                           'title': page_title, 'error': None})
+                    yield f"data: StarGrads → student awards: {url}\n\n"
+                    yield f"data: RESULT: {payload}\n\n"
+                    continue
+
+                # ── Subdomain links are departments ──────────────────────────────
+                # A link on a subdomain of the base domain (e.g. aarsi.ccsd.net — not
+                # www.ccsd.net / ccsd.net) is itself a department: file it under
+                # /team-ccsd/departments/<unit>/<department>/ without asking Ollama.
+                host_labels = page_host.split('.')
+                subdomain   = '.'.join(host_labels[:-2]) if len(host_labels) > 2 else ''
+                if subdomain and subdomain != 'www':
+                    # Ignore WordPress-style archive pages on extra domains entirely.
+                    if any(seg in ('tag', 'author', 'category', 'events') for seg in path_segments):
+                        yield f"data: Ignored ({page_host} archive: /{'/'.join(path_segments)}): {url}\n\n"
+                        continue
+                    # Resolve the official department: match the subdomain homepage <h1>
+                    # against the department list (best), else the subdomain abbreviation.
+                    matched_dept = resolve_subdomain_dept(page_host, subdomain)
+                    if matched_dept:
+                        yield f"data: Matched subdomain '{subdomain}' → department '{matched_dept}'\n\n"
+                    dept_name = matched_dept or subdomain
+                    # parent = /team-ccsd/departments/<unit>/ ; dslug = department slug
+                    parent, dslug = dept_parts(dept_name)
+                    # An "about"/"about-us" page on a department subdomain is that
+                    # department's MAIN page, not a separate "about-us" sub-page — so use
+                    # the department slug itself as the leaf in that case.
+                    slug_is_about = re.sub(r'[^a-z]', '', page_slug.lower()).startswith('about')
+                    if page_slug and not slug_is_about:
+                        suggested_url = target_domain + kebab_path(parent, dslug, page_slug)
+                    else:
+                        suggested_url = target_domain + kebab_path(parent, dslug)
+                    payload = json.dumps({'originalUrl': url, 'suggestedUrl': suggested_url,
+                                           'title': page_title, 'error': None})
+                    yield f"data: Department (subdomain {page_host}): {url}\n\n"
+                    yield f"data: RESULT: {payload}\n\n"
+                    continue
+
                 if not page_slug and not parsed_url.query and page_host == target_host:
                     # True homepage of the site being reorganized (its own root, no path,
                     # no query) — nothing to categorize. A *different* ccsd.net subdomain's
@@ -3733,7 +4114,7 @@ def process_site_architecture():
 
                 pages_to_categorize.append({
                     'url': url, 'slug': page_slug, 'title': page_title,
-                    'snippet': content_text[:300],
+                    'snippet': content_text[:200],
                 })
 
             except Exception as e:
@@ -3748,28 +4129,55 @@ def process_site_architecture():
         chunks = [pages_to_categorize[i:i + CHUNK_SIZE] for i in range(0, len(pages_to_categorize), CHUNK_SIZE)]
         yield (f"data: Phase 2/2 — categorizing {len(pages_to_categorize)} page(s) in "
                f"{len(chunks)} batch(es) using {resolved_model}...\n\n")
+        _is_cloud = resolved_model.endswith('-cloud')
+        yield (f"data: Waiting for the first response from {resolved_model} — "
+               + ("this is a cloud model, so the first token depends on network + cloud "
+                  "cold-start" if _is_cloud else "a cold/large local model can be slow to load")
+               + f" (timeout {OLLAMA_TIMEOUT}s)...\n\n")
 
         folder_registry = {}  # folder -> [example titles], grows across chunks
 
-        def categorize_with_retry(chunk):
-            """Try to categorize `chunk` in one Ollama call. If the model's response can't
-            be parsed (bad/truncated JSON is common on larger batches with smaller local
-            models), split the chunk in half and retry each half — down to individual pages
-            if needed — instead of letting one bad batch wipe out every page in it.
-            Returns ({normalized_url: folder}, {normalized_url: error_message})."""
+        def categorize_stream(chunk, label):
+            """Categorize `chunk`, streaming heartbeats the whole time (including through
+            retries — so the UI is never silently blocked). On any failure (timeout or
+            unparseable/truncated JSON, common on smaller local models) the chunk is split
+            in half and each half retried down to single pages. Yields ('log', msg) progress
+            lines and, as its final item, ('done', assignments, errors)."""
             try:
-                return get_ollama_batch_folders(resolved_model, chunk, build_registry_hint(folder_registry)), {}
+                full_text = ''
+                for kind, val in stream_ollama_generate(resolved_model,
+                                                        build_batch_prompt(chunk, build_registry_hint(folder_registry))):
+                    if kind == 'progress':
+                        yield ('log', f"{label} — model generating ({val} chars)...")
+                    else:
+                        full_text = val
+                yield ('done', parse_batch_response(full_text, chunk), {})
+                return
             except Exception as e:
                 if len(chunk) <= 1:
-                    return {}, {p['url'].rstrip('/'): str(e) for p in chunk}
+                    yield ('log', f"{label} — page failed ({e})")
+                    yield ('done', {}, {chunk[0]['url'].rstrip('/'): str(e)})
+                    return
                 mid = len(chunk) // 2
-                a1, e1 = categorize_with_retry(chunk[:mid])
-                a2, e2 = categorize_with_retry(chunk[mid:])
-                return {**a1, **a2}, {**e1, **e2}
+                yield ('log', f"{label} — {e}; splitting {len(chunk)} pages into {mid}+{len(chunk) - mid}")
+                assigns, errs = {}, {}
+                for hi, half in enumerate((chunk[:mid], chunk[mid:]), 1):
+                    for item in categorize_stream(half, f"{label}.{hi}"):
+                        if item[0] == 'log':
+                            yield item
+                        else:
+                            assigns.update(item[1]); errs.update(item[2])
+                yield ('done', assigns, errs)
 
         for ci, chunk in enumerate(chunks, 1):
             yield f"data: Categorizing batch {ci}/{len(chunks)} ({len(chunk)} page(s))...\n\n"
-            assignments, batch_errors = categorize_with_retry(chunk)
+
+            assignments, batch_errors = {}, {}
+            for item in categorize_stream(chunk, f"Batch {ci}/{len(chunks)}"):
+                if item[0] == 'log':
+                    yield f"data: {item[1]}\n\n"
+                else:
+                    assignments, batch_errors = item[1], item[2]
 
             for p in chunk:
                 key = p['url'].rstrip('/')
@@ -3787,9 +4195,9 @@ def process_site_architecture():
                 if folder.endswith('/' + slug_suffix):
                     folder = folder[: -len(slug_suffix)]
 
-                # The page's own slug is preserved exactly as it was — only the folder
-                # path leading up to it is reorganized.
-                suggested_url = target_domain + folder + p['slug']
+                # The page's own slug is preserved (only the folder is reorganized), but
+                # every path segment is normalized to lowercase-hyphen kebab-case.
+                suggested_url = target_domain + kebab_path(folder, p['slug'])
                 folder_registry.setdefault(folder, []).append(p['title'] or p['slug'])
                 payload = json.dumps({'originalUrl': p['url'], 'suggestedUrl': suggested_url,
                                        'title': p['title'], 'error': None})

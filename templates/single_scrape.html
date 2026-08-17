@@ -366,6 +366,7 @@
                     return;
                 }
                 if (msg.startsWith('LINK: '))     { handleLink(msg.slice(6));     return; }
+                if (msg.startsWith('REDIRECT: ')) { handleRedirect(msg.slice(10)); return; }
                 if (msg.startsWith('PDF: '))       { handlePdf(msg.slice(5));      return; }
                 if (msg.startsWith('SITE: '))      { handleSite(msg.slice(6));     return; }
                 if (msg.startsWith('IMG: '))       { handleImage(msg.slice(5));    return; }
@@ -412,7 +413,8 @@
             const pipe  = payload.indexOf('|');
             const url   = pipe >= 0 ? payload.slice(0, pipe) : payload;
             const title = pipe >= 0 ? payload.slice(pipe + 1) : '';
-            linksResults.push({ url, title });
+            const entry = { url, title };
+            linksResults.push(entry);
             updateCount('cntLinks', 'badgeLinks', linksResults.length);
             hide('linksEmpty');
             show('resultsCard');
@@ -421,8 +423,9 @@
             row.className = 'border-bottom pb-2 mb-2 d-flex justify-content-between align-items-start gap-2';
             row.innerHTML = `
                 <div style="min-width:0;">
-                    <div><a href="${esc(url)}" target="_blank" class="text-decoration-none text-primary fw-semibold small">${esc(url)}</a>
+                    <div><a href="${esc(url)}" target="_blank" class="link-url text-decoration-none text-primary fw-semibold small">${esc(url)}</a>
                          <i class="bi bi-box-arrow-up-right ms-1 text-muted" style="font-size:.7rem;"></i></div>
+                    <div class="redirect-note" style="display:none;"></div>
                     ${title ? `<div class="text-muted" style="font-size:.78rem;">${esc(title)}</div>` : ''}
                 </div>
                 <button class="btn btn-sm btn-outline-secondary copy-btn flex-shrink-0"
@@ -430,6 +433,31 @@
                     <i class="bi bi-clipboard me-1"></i>Copy HTML
                 </button>`;
             el('linksList').appendChild(row);
+            entry.row = row;
+        }
+
+        // Update a link to its final URL once the backend's redirect step reports it —
+        // both the displayed list and the CSV export use the final (redirected) URL.
+        function handleRedirect(payload) {
+            const [original, final] = splitOne(payload);
+            const entry = linksResults.find(r => r.url === original);
+            if (!entry || !final) return;
+            entry.redirectedFrom = original;
+            entry.url = final;
+
+            const row = entry.row;
+            if (!row) return;
+            const link = row.querySelector('.link-url');
+            if (link) { link.href = final; link.textContent = final; }
+            const copyBtn = row.querySelector('.copy-btn');
+            if (copyBtn) copyBtn.setAttribute('onclick', `copyHtml(this,'${esc(final)}')`);
+            const note = row.querySelector('.redirect-note');
+            if (note) {
+                note.style.display = '';
+                note.className = 'redirect-note text-muted';
+                note.style.fontSize = '.72rem';
+                note.innerHTML = `<i class="bi bi-arrow-return-right me-1"></i>redirected from ${esc(original)}`;
+            }
         }
 
         function handlePdf(payload) {
@@ -617,7 +645,7 @@
         // ── Export CSV ──────────────────────────────────────────────────────────
         function exportCsv() {
             const rows = [['Type', 'URL', 'Title / Name', 'Found On']];
-            linksResults.forEach(r  => rows.push(['Link',         r.url, r.title,  '']));
+            linksResults.forEach(r  => rows.push(['Link',         r.url, r.title,  r.redirectedFrom ? 'Redirected from ' + r.redirectedFrom : '']));
             pdfResults.forEach(r    => rows.push(['PDF',          r.url, '',        r.source]));
             sitesResults.forEach(r  => rows.push(['Google Site',  r.url, '',        r.source]));
             imagesResults.forEach(r => rows.push(['Image',        r.url, '',        r.source]));
